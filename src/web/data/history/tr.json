@@ -26741,6 +26741,23 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Cranky's Story": "₺149,99",
+            "Mystery Duck": "₺149,99",
+            "Locksmith - One Lock": "₺49,99",
+            "Allie's Story": "₺49,99",
+            "Locksmith - All Swampy Locks": "₺249,99",
+            "Locksmith - All Cranky Locks": "₺99,99",
+            "Locksmith - All Mystery Locks": "₺249,99",
+            "Sale Pack": "₺199,99",
+            "Locksmith - All Allie Locks": "₺99,99",
+            "Mystery Duck Sale Pack": "₺49,99"
+          }
+        },
+        {
           "timestamp": 1791369813838,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -64948,6 +64965,23 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Rayark Selection Vol.1": "₺199,99",
+            "V.K Collection": "₺199,99",
+            "Forgotten Hourglass": "₺499,99",
+            "Rayark Selection Vol.2": "₺199,99",
+            "Cytus Selection Vol.1": "₺199,99",
+            "Cytus Selection Vol.2": "₺199,99",
+            "Brian Crain Collection": "₺199,99",
+            "Knight Iris": "₺199,99",
+            "Knight Rosabell Collection": "₺199,99",
+            "MILI Collection": "₺199,99"
+          }
+        },
+        {
           "timestamp": 1791369813838,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -99252,6 +99286,20 @@
       "Parallels Desktop for Mac #3": "₺2.299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "₺2.299,99",
+            "Parallels Desktop for Mac #4": "₺2.299,99",
+            "Parallels Desktop for Mac #3": "₺2.299,99",
+            "Parallels Desktop for Mac": "₺2.299,99",
+            "Parallels Desktop for Mac #2": "₺2.299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786722657704,
@@ -164164,6 +164212,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791388346947,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Complete Collection": "₺1.999,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "Victorian London Board": "₺399,99",
+            "Welcome Offer": "₺999,99",
+            "The Ultimate Edition Sale": "₺1.299,99",
+            "Lava Dice": "₺249,99",
+            "Golden Dice": "₺249,99"
+          }
+        },
         {
           "timestamp": 1791369813838,
           "price": 249.99,
@@ -246230,6 +246295,23 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 787-10": "₺99,99",
+            "UH-60": "₺49,99",
+            "Global scenery - 3 months": "₺399,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Global scenery - 12 months": "₺999,99",
+            "Boeing 737-800": "₺149,99"
+          }
+        },
+        {
           "timestamp": 1791369813838,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -293283,7 +293365,8 @@
       "Tower Ironbark": "₺399,99",
       "Spell Zapper": "₺99,99",
       "Hero Gemina": "₺149,99",
-      "SHOWCASE OFFER 08": "₺249,99"
+      "SHOWCASE OFFER 08": "₺249,99",
+      "Gems Handful": "₺149,99"
     },
     "minPriceInfo": {
       "SHOWCASE OFFER 07": "₺249,99",
@@ -293314,9 +293397,29 @@
       "Tower Ironbark": "₺399,99",
       "Spell Zapper": "₺99,99",
       "Hero Gemina": "₺149,99",
-      "SHOWCASE OFFER 08": "₺249,99"
+      "SHOWCASE OFFER 08": "₺249,99",
+      "Gems Handful": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Hero Ashbite": "₺399,99",
+            "Tower Alchemist": "₺149,99",
+            "Hero Drakkan": "₺399,99",
+            "Hero Oni": "₺249,99",
+            "Tower Forger": "₺249,99",
+            "Tower Wildcat": "₺249,99",
+            "Gems Handful": "₺149,99",
+            "SHOWCASE OFFER 08": "₺249,99",
+            "ALL TOWERS BUNDLE": "₺999,99",
+            "ALL HEROES BUNDLE": "₺1.499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791263120623,

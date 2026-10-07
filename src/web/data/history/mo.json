@@ -13324,6 +13324,23 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Premium Upgrade Pack": "USD 6.99",
+            "Extreme Map Pack": "USD 1.99",
+            "Rank Up +2 Ranks": "USD 0.99",
+            "Double Cash": "USD 2.99",
+            "Healthy Bananas": "USD 1.99",
+            "Explosive Darts": "USD 1.99",
+            "Double Ranga": "USD 1.99",
+            "Monkey Tycoon": "USD 0.99",
+            "Frag Bombs": "USD 0.99",
+            "Digital Amplification": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1791369813838,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -54062,10 +54079,10 @@
     "maxPriceInfo": {
       "price": 6.99,
       "formattedPrice": "USD 6.99",
-      "Pro Pack (annual)": "USD 17.99",
+      "Pro Pack (annual)": "USD 24.99",
       "Pro Pack": "USD 89.99",
       "Auto Sync": "USD 59.99",
-      "Pro Pack (monthly)": "USD 2.99"
+      "Pro Pack (monthly)": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 5.99,
@@ -54077,6 +54094,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791388346947,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Pro Pack (annual)": "USD 24.99",
+            "Pro Pack": "USD 89.99",
+            "Auto Sync": "USD 59.99",
+            "Pro Pack (monthly)": "USD 3.99"
+          }
+        },
         {
           "timestamp": 1791369813838,
           "price": 6.99,
@@ -55397,10 +55425,18 @@
       "formattedPrice": "USD 3.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1774897835870,
@@ -72976,6 +73012,14 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790790015131,
           "price": 0.79,
           "formattedPrice": "USD 0.79",
@@ -88202,6 +88246,14 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790179902685,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -93514,6 +93566,20 @@
       "The Princess and the Dragon": "USD 1.79"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "The River": "USD 1.99",
+            "Inns & Cathedrals Expansion": "USD 2.99",
+            "Winter and Gingerbread Man": "USD 2.99",
+            "Traders and Builders": "USD 2.99",
+            "The Princess and the Dragon": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790790015131,
@@ -99139,6 +99205,14 @@
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790179902685,
@@ -107266,6 +107340,21 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {
+            "Terraforming Mars - Prelude": "USD 3.99",
+            "Venus Next": "USD 3.99",
+            "Hellas & Elysium": "USD 3.99",
+            "Colonies": "USD 3.99",
+            "Big Box Promo Pack": "USD 4.99",
+            "Original Promo Pack": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790790015131,
           "price": 2.19,
           "formattedPrice": "USD 2.19",
@@ -111649,6 +111738,14 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790179902685,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -113543,6 +113640,17 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {
+            "Map Pack 2": "USD 2.99",
+            "Map Pack 1": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790790015131,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -114549,6 +114657,14 @@
       "formattedPrice": "USD 0.90"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 1.59,
+          "formattedPrice": "USD 1.59",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788883424995,
@@ -116573,6 +116689,21 @@
       "Hirelings & Landmarks": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "The Riverfolk Expansion": "USD 9.99",
+            "Root: The Underworld Expansion": "USD 9.99",
+            "Exiles & Partisans & Vagabonds": "USD 7.99",
+            "The Clockwork Expansion": "USD 5.99",
+            "Root: The Marauder Expansion": "USD 9.99",
+            "Hirelings & Landmarks": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790790015131,
@@ -125253,6 +125384,14 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790179902685,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -129891,6 +130030,16 @@
       "Tuscany Essential Edition": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {
+            "Tuscany Essential Edition": "USD 8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790790015131,
@@ -143469,6 +143618,18 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 7.49,
+          "formattedPrice": "USD 7.49",
+          "inAppPurchases": {
+            "Atlantis for free download": "USD 0.00",
+            "Ragnarök for free download": "USD 0.00",
+            "Eternal Embers DLC": "USD 3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788450692170,
           "price": 17.99,
           "formattedPrice": "USD 17.99",
@@ -150648,6 +150809,18 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 10.99,
+          "formattedPrice": "USD 10.99",
+          "inAppPurchases": {
+            "Dune: Imperium - Rise of Ix": "USD 9.99",
+            "Dune: Imperium - Immortality": "USD 9.99",
+            "Dune: Imperium - Uprising": "USD 10.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790790015131,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -152400,6 +152573,17 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 10.99,
+          "formattedPrice": "USD 10.99",
+          "inAppPurchases": {
+            "Mummy's Curse": "USD 8.99",
+            "Sunken Treasures": "USD 8.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790790015131,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -153900,6 +154084,14 @@
       "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790179902685,
@@ -159920,6 +160112,14 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790179902685,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -160740,6 +160940,14 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790179902685,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -161498,6 +161706,14 @@
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790179902685,
@@ -181554,6 +181770,25 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "Jingle": "USD 2.99",
+            "2025 Spring Forest Theme": "USD 1.99",
+            "2025 Spring Lawn Theme": "USD 2.49",
+            "2025 Spring Flower Theme": "USD 1.99",
+            "Lawn Theme": "USD 1.99",
+            "小灰": "USD 1.99",
+            "軟軟": "USD 1.99",
+            "招財": "USD 1.99",
+            "點點": "USD 1.99",
+            "Civet Theme": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 0,
           "formattedPrice": "免費",
@@ -192256,6 +192491,14 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 10.99,
+          "formattedPrice": "USD 10.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790790015131,
           "price": 7.99,
           "formattedPrice": "USD 7.99",
@@ -197532,6 +197775,18 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "DLC - Land of the Eclipse": "USD 1.99",
+            "DLC - The Ember Saga": "USD 1.99",
+            "DLC - The Tournament": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790179902685,
           "price": 3.49,
           "formattedPrice": "USD 3.49",
@@ -200979,11 +201234,21 @@
       "Unholy Fusion": "USD 1.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99",
+      "price": 2.99,
+      "formattedPrice": "USD 2.99",
       "Unholy Fusion": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Unholy Fusion": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789072077262,
@@ -203809,6 +204074,14 @@
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789746868566,
@@ -212571,10 +212844,18 @@
       "formattedPrice": "USD 3.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787131983558,
@@ -212963,6 +213244,14 @@
       "「Akane」與「Koro」已解鎖！": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790790015131,
@@ -213862,7 +214151,8 @@
       "全塔禮包_B": "USD 14.99",
       "全英雄禮包": "USD 29.99",
       "全塔禮包": "USD 19.99",
-      "塔 鍊金術師小屋": "USD 2.99"
+      "塔 鍊金術師小屋": "USD 2.99",
+      "英雄 德拉坎": "USD 6.99"
     },
     "minPriceInfo": {
       "price": 6.99,
@@ -213879,9 +214169,29 @@
       "全塔禮包_B": "USD 14.99",
       "全英雄禮包": "USD 29.99",
       "全塔禮包": "USD 19.99",
-      "塔 鍊金術師小屋": "USD 2.99"
+      "塔 鍊金術師小屋": "USD 2.99",
+      "英雄 德拉坎": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "英雄 德拉坎": "USD 6.99",
+            "塔 鍊金術師小屋": "USD 2.99",
+            "全塔禮包": "USD 19.99",
+            "全法術禮包": "USD 12.99",
+            "全英雄禮包": "USD 29.99",
+            "展示 禮包 6": "USD 4.99",
+            "展示 禮包 5": "USD 5.99",
+            "展示 禮包 4": "USD 4.99",
+            "展示 禮包 3": "USD 6.99",
+            "展示 禮包 2": "USD 7.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791157842787,

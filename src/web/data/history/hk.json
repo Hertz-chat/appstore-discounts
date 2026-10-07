@@ -4538,6 +4538,25 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {
+            "SPL Pro Module": "HK$ 58.00",
+            "ETC Module": "HK$ 48.00",
+            "SPL Graph Module": "HK$ 88.00",
+            "Polarity Test Module": "HK$ 32.00",
+            "SoundScope VR": "HK$ 188.00",
+            "IR Module": "HK$ 388.00",
+            "Speaker Distortion": "HK$ 48.00",
+            "Reference Files Module": "HK$ 118.00",
+            "VU Meter": "HK$ 22.00",
+            "SPL Traffic Light": "HK$ 88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 148,
           "formattedPrice": "HK$ 148.00",
@@ -66611,9 +66630,9 @@
     "maxPriceInfo": {
       "price": 58,
       "formattedPrice": "HK$ 58.00",
-      "Pro Pack (annual)": "HK$ 143.00",
+      "Pro Pack (annual)": "HK$ 188.00",
       "Pro Pack": "HK$ 688.00",
-      "Pro Pack (monthly)": "HK$ 23.00",
+      "Pro Pack (monthly)": "HK$ 32.00",
       "Auto Sync": "HK$ 488.00"
     },
     "minPriceInfo": {
@@ -66626,6 +66645,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791388346947,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Pro Pack (annual)": "HK$ 188.00",
+            "Pro Pack": "HK$ 688.00",
+            "Pro Pack (monthly)": "HK$ 32.00",
+            "Auto Sync": "HK$ 488.00"
+          }
+        },
         {
           "timestamp": 1791369813838,
           "price": 58,
@@ -68004,10 +68034,18 @@
       "formattedPrice": "HK$ 32.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1774897835870,
@@ -90307,6 +90345,14 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790790015131,
           "price": 6,
           "formattedPrice": "HK$ 6.00",
@@ -112571,6 +112617,14 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790179902685,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -120444,6 +120498,20 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "The River": "HK$ 18.00",
+            "Inns & Cathedrals Expansion": "HK$ 22.00",
+            "Traders and Builders": "HK$ 22.00",
+            "The Princess and the Dragon": "HK$ 22.00",
+            "Winter and Gingerbread Man": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790790015131,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -127123,6 +127191,14 @@
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790179902685,
@@ -137648,6 +137724,21 @@
       "Big Box Promo Pack": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 68,
+          "formattedPrice": "HK$ 68.00",
+          "inAppPurchases": {
+            "Terraforming Mars - Prelude": "HK$ 32.00",
+            "Hellas & Elysium": "HK$ 32.00",
+            "Venus Next": "HK$ 32.00",
+            "Original Promo Pack": "HK$ 22.00",
+            "Colonies": "HK$ 32.00",
+            "Big Box Promo Pack": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790790015131,
@@ -148528,6 +148619,14 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790179902685,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -150463,6 +150562,17 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 68,
+          "formattedPrice": "HK$ 68.00",
+          "inAppPurchases": {
+            "Map Pack 1": "HK$ 22.00",
+            "Map Pack 2": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790790015131,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -151532,6 +151642,14 @@
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 15,
+          "formattedPrice": "HK$ 15.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788883424995,
@@ -153307,6 +153425,21 @@
       "Hirelings & Landmarks": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "Hirelings & Landmarks": "HK$ 88.00",
+            "Root: The Marauder Expansion": "HK$ 88.00",
+            "Root: The Underworld Expansion": "HK$ 88.00",
+            "Exiles & Partisans & Vagabonds": "HK$ 58.00",
+            "The Riverfolk Expansion": "HK$ 88.00",
+            "The Clockwork Expansion": "HK$ 48.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790790015131,
@@ -168807,6 +168940,14 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790179902685,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -173036,6 +173177,16 @@
       "Tuscany Essential Edition": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 68,
+          "formattedPrice": "HK$ 68.00",
+          "inAppPurchases": {
+            "Tuscany Essential Edition": "HK$ 68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790790015131,
@@ -193674,6 +193825,18 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 68,
+          "formattedPrice": "HK$ 68.00",
+          "inAppPurchases": {
+            "Ragnarök for free download": "HK$ 0.00",
+            "Atlantis for free download": "HK$ 0.00",
+            "Eternal Embers DLC": "HK$ 38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788450692170,
           "price": 158,
           "formattedPrice": "HK$ 158.00",
@@ -205777,6 +205940,18 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "Dune: Imperium - Uprising": "HK$ 88.00",
+            "Dune: Imperium - Rise of Ix": "HK$ 88.00",
+            "Dune: Imperium - Immortality": "HK$ 88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790790015131,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -209273,6 +209448,14 @@
       "formattedPrice": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790179902685,
@@ -215627,6 +215810,14 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 28,
+          "formattedPrice": "HK$ 28.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790179902685,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -216433,6 +216624,14 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790179902685,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -217180,6 +217379,14 @@
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790179902685,
@@ -253639,6 +253846,25 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "每月": "HK$ 18.00",
+            "City Night Theme": "HK$ 18.00",
+            "每年": "HK$ 88.00",
+            "招財": "HK$ 18.00",
+            "Blue Sky Theme": "HK$ 18.00",
+            "Calico Theme": "HK$ 18.00",
+            "Siamese Theme": "HK$ 18.00",
+            "辛巴": "HK$ 18.00",
+            "2025 Spring Flower Theme": "HK$ 18.00",
+            "Civet Theme": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 0,
           "formattedPrice": "免費",
@@ -262299,6 +262525,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791388346947,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 38.00",
+            "The Aircraft Bundle": "HK$ 188.00",
+            "Global scenery - 12 months": "HK$ 148.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Airbus A380": "HK$ 18.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "Global scenery - 3 months": "HK$ 58.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "UH-60": "HK$ 8.00",
+            "Boeing 747-400": "HK$ 18.00"
+          }
+        },
         {
           "timestamp": 1791369813838,
           "price": 32,
@@ -278283,6 +278526,14 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790790015131,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -286330,6 +286581,18 @@
     "history": [
       [
         {
+          "timestamp": 1791388346947,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "DLC - Land of the Eclipse": "HK$ 18.00",
+            "DLC - The Tournament": "HK$ 18.00",
+            "DLC - The Ember Saga": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790179902685,
           "price": 28,
           "formattedPrice": "HK$ 28.00",
@@ -289762,11 +290025,21 @@
       "Unholy Fusion": "HK$ 18.00"
     },
     "minPriceInfo": {
-      "price": 38,
-      "formattedPrice": "HK$ 38.00",
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
       "Unholy Fusion": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Unholy Fusion": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789072077262,
@@ -292908,6 +293181,14 @@
       "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789746868566,
@@ -302182,10 +302463,18 @@
       "formattedPrice": "HK$ 32.00"
     },
     "minPriceInfo": {
-      "price": 32,
-      "formattedPrice": "HK$ 32.00"
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787131983558,
@@ -302574,6 +302863,14 @@
       "「Akane」與「Koro」已解鎖！": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790790015131,
@@ -303027,7 +303324,11 @@
       "Pouch of Gold": "HK$ 32.00",
       "Chest of Gold": "HK$ 88.00",
       "Moneychanger's Hoard": "HK$ 98.00",
-      "Handful of Gold": "HK$ 8.00"
+      "Handful of Gold": "HK$ 8.00",
+      "Gold Vault": "HK$ 58.00",
+      "Gold Pouch": "HK$ 32.00",
+      "Gold Chest": "HK$ 88.00",
+      "Gold Hoard": "HK$ 98.00"
     },
     "minPriceInfo": {
       "price": 2,
@@ -303036,9 +303337,27 @@
       "Pouch of Gold": "HK$ 32.00",
       "Chest of Gold": "HK$ 88.00",
       "Moneychanger's Hoard": "HK$ 98.00",
-      "Handful of Gold": "HK$ 8.00"
+      "Handful of Gold": "HK$ 8.00",
+      "Gold Vault": "HK$ 58.00",
+      "Gold Pouch": "HK$ 32.00",
+      "Gold Chest": "HK$ 88.00",
+      "Gold Hoard": "HK$ 98.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791388346947,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "Gold Vault": "HK$ 58.00",
+            "Gold Pouch": "HK$ 32.00",
+            "Gold Chest": "HK$ 88.00",
+            "Gold Hoard": "HK$ 98.00",
+            "Handful of Gold": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789096391072,

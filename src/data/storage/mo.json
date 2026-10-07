@@ -13028,6 +13028,25 @@
     "history": [
       [
         {
+          "timestamp": 1791369813838,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Rank Up +2 Ranks": "USD 0.99",
+            "Double Cash": "USD 2.99",
+            "Healthy Bananas": "USD 1.99",
+            "Explosive Darts": "USD 1.99",
+            "Double Ranga": "USD 1.99",
+            "Monkey Tycoon": "USD 0.99",
+            "Frag Bombs": "USD 0.99",
+            "Digital Amplification": "USD 0.99",
+            "Dreadnought": "USD 0.99",
+            "Crystal Ball": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791059903104,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -47295,6 +47314,31 @@
       ]
     ]
   },
+  "664972496": {
+    "name": "Tilt to Live 2: Redonkulous",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99",
+      "Brimstone Pinball": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99",
+      "Brimstone Pinball": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791369813838,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Brimstone Pinball": "USD 0.99"
+          }
+        }
+      ]
+    ]
+  },
   "665745944": {
     "name": "Bone Age",
     "maxPriceInfo": {
@@ -53144,11 +53188,11 @@
   "777310222": {
     "name": "GoodReader PDF Editor & Viewer",
     "maxPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "USD 5.99",
+      "price": 6.99,
+      "formattedPrice": "USD 6.99",
       "Pro Pack (annual)": "USD 17.99",
-      "Pro Pack": "USD 79.99",
-      "Auto Sync": "USD 9.99",
+      "Pro Pack": "USD 89.99",
+      "Auto Sync": "USD 59.99",
       "Pro Pack (monthly)": "USD 2.99"
     },
     "minPriceInfo": {
@@ -53160,6 +53204,19 @@
       "Pro Pack (monthly)": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791369813838,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Pro Pack (annual)": "USD 17.99",
+            "Pro Pack": "USD 89.99",
+            "Auto Sync": "USD 59.99",
+            "Pro Pack (monthly)": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -67239,6 +67296,22 @@
       "119 Gems": "USD 59.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791369813838,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "1 Gem": "USD 0.99",
+            "13 Gems": "USD 7.99",
+            "6 Gems": "USD 3.99",
+            "48 Gems": "USD 28.99",
+            "150 Gems": "USD 79.99",
+            "28 Gems": "USD 14.99",
+            "74 Gems": "USD 40.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789225426600,
@@ -86997,6 +87070,18 @@
     "history": [
       [
         {
+          "timestamp": 1791369813838,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Year": "USD 11.99",
+            "6 Months": "USD 8.99",
+            "Month": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790481229445,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -101079,6 +101164,14 @@
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791369813838,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790790015131,
@@ -123427,6 +123520,14 @@
     "history": [
       [
         {
+          "timestamp": 1791369813838,
+          "price": 7.49,
+          "formattedPrice": "USD 7.49",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790179902685,
           "price": 1.59,
           "formattedPrice": "USD 1.59",
@@ -128048,6 +128149,14 @@
     "history": [
       [
         {
+          "timestamp": 1791369813838,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790790015131,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -131495,6 +131604,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791369813838,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1780671057811,
@@ -137965,6 +138082,14 @@
       "formattedPrice": "USD 0.39"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791369813838,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790179902685,
@@ -179917,6 +180042,14 @@
     "history": [
       [
         {
+          "timestamp": 1791369813838,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1784671382142,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -189877,6 +190010,17 @@
     "history": [
       [
         {
+          "timestamp": 1791369813838,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "五朵金花": "USD 3.99",
+            "不歸玄境": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790267673376,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -196619,6 +196763,14 @@
     "history": [
       [
         {
+          "timestamp": 1791369813838,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790790015131,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -202117,6 +202269,14 @@
       "formattedPrice": "USD 5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791369813838,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790020348261,
@@ -208861,10 +209021,18 @@
       "formattedPrice": "USD 3.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791369813838,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788647953625,
@@ -208968,7 +209136,11 @@
       "Pouch of Gold": "USD 3.99",
       "Chest of Gold": "USD 9.99",
       "Moneychanger's Hoard": "USD 12.99",
-      "Handful of Gold": "USD 0.99"
+      "Handful of Gold": "USD 0.99",
+      "Gold Vault": "USD 7.99",
+      "Gold Pouch": "USD 3.99",
+      "Gold Chest": "USD 9.99",
+      "Gold Hoard": "USD 12.99"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -208977,9 +209149,27 @@
       "Pouch of Gold": "USD 3.99",
       "Chest of Gold": "USD 9.99",
       "Moneychanger's Hoard": "USD 12.99",
-      "Handful of Gold": "USD 0.99"
+      "Handful of Gold": "USD 0.99",
+      "Gold Vault": "USD 7.99",
+      "Gold Pouch": "USD 3.99",
+      "Gold Chest": "USD 9.99",
+      "Gold Hoard": "USD 12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791369813838,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "Gold Vault": "USD 7.99",
+            "Gold Pouch": "USD 3.99",
+            "Gold Chest": "USD 9.99",
+            "Gold Hoard": "USD 12.99",
+            "Handful of Gold": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789096391072,

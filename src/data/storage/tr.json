@@ -26351,6 +26351,25 @@
     "history": [
       [
         {
+          "timestamp": 1791369813838,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Mystery Duck Sale Pack": "₺49,99",
+            "Cranky Sale Pack": "₺49,99",
+            "Allie Sale Pack": "₺49,99",
+            "Locksmith - All Allie Locks": "₺99,99",
+            "Allie's Story": "₺49,99",
+            "Sale Pack": "₺199,99",
+            "Locksmith - One Lock": "₺49,99",
+            "Mystery Duck": "₺149,99",
+            "Locksmith - All Mystery Locks": "₺249,99",
+            "Locksmith - All Cranky Locks": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784102929547,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -62197,10 +62216,18 @@
       "formattedPrice": "₺249,99"
     },
     "minPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99"
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791369813838,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -62875,6 +62902,31 @@
             "Angel Rocket Skin": "₺39,99",
             "Guardian Rocket Skin": "₺39,99",
             "Cartoon Rocket Skin": "₺39,99"
+          }
+        }
+      ]
+    ]
+  },
+  "664972496": {
+    "name": "Tilt to Live 2: Redonkulous",
+    "maxPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99",
+      "Brimstone Pinball": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99",
+      "Brimstone Pinball": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791369813838,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "Brimstone Pinball": "₺49,99"
           }
         }
       ]
@@ -64072,6 +64124,25 @@
       "L: The Upper Collection": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791369813838,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Rayark 12th Collection": "₺199,99",
+            "Ayatsugu_Otowa Collection": "₺199,99",
+            "Sherwin Collection": "₺199,99",
+            "Capchii Collection": "₺199,99",
+            "VII Bundle 06": "₺699,99",
+            "VII Bundle 05": "₺599,99",
+            "VII Bundle 03": "₺399,99",
+            "VII Bundle 02": "₺249,99",
+            "VII Bundle 04": "₺499,99",
+            "VII Bundle 01": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790034627833,
@@ -69528,12 +69599,12 @@
   "777310222": {
     "name": "GoodReader PDF Editor & Viewer",
     "maxPriceInfo": {
-      "price": 299.99,
-      "formattedPrice": "₺299,99",
+      "price": 399.99,
+      "formattedPrice": "₺399,99",
       "Pro Pack (annual)": "₺129,99",
       "Pro Pack (monthly)": "₺21,99",
-      "Pro Pack": "₺3.999,99",
-      "Auto Sync": "₺499,99"
+      "Pro Pack": "₺4.999,99",
+      "Auto Sync": "₺2.999,99"
     },
     "minPriceInfo": {
       "price": 249.99,
@@ -69544,6 +69615,19 @@
       "Auto Sync": "₺449,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791369813838,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Pro Pack (annual)": "₺129,99",
+            "Pro Pack (monthly)": "₺21,99",
+            "Pro Pack": "₺4.999,99",
+            "Auto Sync": "₺2.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -86972,6 +87056,22 @@
       "119 Gems": "₺2.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791369813838,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "13 Gems": "₺399,99",
+            "1 Gem": "₺49,99",
+            "6 Gems": "₺199,99",
+            "48 Gems": "₺1.499,99",
+            "74 Gems": "₺2.299,99",
+            "150 Gems": "₺3.999,99",
+            "28 Gems": "₺799,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790354327877,
@@ -112004,6 +112104,18 @@
     "history": [
       [
         {
+          "timestamp": 1791369813838,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Month": "₺149,99",
+            "Year": "₺599,99",
+            "6 Months": "₺499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790481229445,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -132065,6 +132177,14 @@
       "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791369813838,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -153848,6 +153968,14 @@
     "history": [
       [
         {
+          "timestamp": 1791369813838,
+          "price": 139.99,
+          "formattedPrice": "₺139,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790220081058,
           "price": 29.99,
           "formattedPrice": "₺29,99",
@@ -158809,6 +158937,14 @@
     "history": [
       [
         {
+          "timestamp": 1791369813838,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -161849,6 +161985,25 @@
       "Chopper Token": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791369813838,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "The Complete Collection": "₺1.999,99",
+            "The Ultimate Edition Sale": "₺1.299,99",
+            "Victorian London Board": "₺399,99",
+            "Welcome Offer": "₺999,99",
+            "Ruby Dragon Sale": "₺149,99",
+            "Lava Dice": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791173827832,
@@ -177740,6 +177895,14 @@
     "history": [
       [
         {
+          "timestamp": 1791369813838,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1780697684620,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -184877,6 +185040,14 @@
       "formattedPrice": "₺5,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791369813838,
+          "price": 169.99,
+          "formattedPrice": "₺169,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790220081058,
@@ -206639,11 +206810,30 @@
       "Rusty Rats Car Pack": "₺49,99",
       "Goofy Roofs Pack": "₺19,99",
       "Reckless Car Pack": "₺49,99",
-      "Backwoods Bangers Car Pack": "₺129,99",
+      "Backwoods Bangers Car Pack": "₺49,99",
       "Retro Rammers Car Pack": "₺129,99",
-      "Banger Racing Car Pack": "₺149,99"
+      "Banger Racing Car Pack": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791369813838,
+          "price": 169.99,
+          "formattedPrice": "₺169,99",
+          "inAppPurchases": {
+            "Content Bundle 1": "₺169,99",
+            "Getaway Car Pack": "₺49,99",
+            "Modified Monsters Car Pack": "₺49,99",
+            "American All-Stars Car Pack": "₺49,99",
+            "Backwoods Bangers Car Pack": "₺49,99",
+            "Banger Racing Car Pack": "₺49,99",
+            "Content Bundle 2": "₺139,99",
+            "Goofy Roofs Pack": "₺19,99",
+            "Steel & Wheels Pack": "₺29,99",
+            "Off-Road Car Pack": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791290979408,
@@ -234706,6 +234896,25 @@
     "history": [
       [
         {
+          "timestamp": 1791369813838,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Round the World Ticket": "₺2.499,99",
+            "Europe Expansion": "₺799,99",
+            "Europe Map": "₺699,99",
+            "1910 Ticket Pack": "₺199,99",
+            "Japan Expansion": "₺699,99",
+            "Legendary Asia Map": "₺499,99",
+            "Ticket to Ride ChristmasBundle": "₺499,99",
+            "Germany Expansion": "₺699,99",
+            "Legendary Asia Expansion": "₺699,99",
+            "Welcome Offer": "₺1.499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790683950818,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -241095,6 +241304,14 @@
     "history": [
       [
         {
+          "timestamp": 1791369813838,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1784671382142,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -242823,6 +243040,25 @@
       "Airbus A321 XLR": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791369813838,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Global scenery - 3 months": "₺399,99",
+            "UH-60": "₺49,99",
+            "Boeing 787-10": "₺99,99",
+            "Boeing 737-800": "₺149,99",
+            "Global scenery - 12 months": "₺999,99",
+            "Boeing 747-400": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791263120623,
@@ -267648,6 +267884,17 @@
     "history": [
       [
         {
+          "timestamp": 1791369813838,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Five Blooms": "₺199,99",
+            "Ground of No Return": "₺149,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790307530124,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -274720,6 +274967,14 @@
     "history": [
       [
         {
+          "timestamp": 1791369813838,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -281323,6 +281578,14 @@
       "formattedPrice": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791369813838,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790034627833,
@@ -288055,10 +288318,18 @@
       "formattedPrice": "₺299,99"
     },
     "minPriceInfo": {
-      "price": 299.99,
-      "formattedPrice": "₺299,99"
+      "price": 224.99,
+      "formattedPrice": "₺224,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791369813838,
+          "price": 224.99,
+          "formattedPrice": "₺224,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788647953625,
@@ -288170,7 +288441,11 @@
       "Pouch of Gold": "₺19,99",
       "Chest of Gold": "₺49,99",
       "Moneychanger's Hoard": "₺74,99",
-      "Case of Gold": "₺39,99"
+      "Case of Gold": "₺39,99",
+      "Gold Pouch": "₺19,99",
+      "Gold Hoard": "₺74,99",
+      "Gold Chest": "₺49,99",
+      "Gold Vault": "₺39,99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -288179,9 +288454,27 @@
       "Pouch of Gold": "₺19,99",
       "Chest of Gold": "₺49,99",
       "Moneychanger's Hoard": "₺74,99",
-      "Case of Gold": "₺39,99"
+      "Case of Gold": "₺39,99",
+      "Gold Pouch": "₺19,99",
+      "Gold Hoard": "₺74,99",
+      "Gold Chest": "₺49,99",
+      "Gold Vault": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791369813838,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "Handful of Gold": "₺4,99",
+            "Gold Pouch": "₺19,99",
+            "Gold Hoard": "₺74,99",
+            "Gold Chest": "₺49,99",
+            "Gold Vault": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789746868566,
@@ -288595,7 +288888,7 @@
     ]
   },
   "6811795155": {
-    "name": "Keeps: Asset & Cost Tracker",
+    "name": "Keeps: Cost Per Use Tracker",
     "maxPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99",

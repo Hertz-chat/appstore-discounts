@@ -1,5 +1,5 @@
 <div align="center">
-  <p style="font-size: 18px;">开源的 App Store 折扣信息助手，基于 GitHub Actions 实现，支持 RSS，Telegram 和 钉钉 通知</p>
+  <p style="font-size: 18px;">开源的 App Store 折扣信息助手，基于 GitHub Actions 实现，支持 RSS、Telegram、钉钉和飞书 Bot 通知</p>
 
 
 [English](https://github.com/appstore-discounts/appstore-discounts/tree/main#readme) | 简体中文
@@ -21,6 +21,7 @@
   &emsp;&emsp;[RSS](#rss)<br/>
   &emsp;&emsp;[Telegram](#telegram)<br/>
   &emsp;&emsp;[钉钉](#钉钉)<br/>
+  &emsp;&emsp;[飞书 Bot](#飞书-bot)<br/>
   [运行机制及流程](#运行机制及流程)<br/>
   [相关文档](#相关文档)<br/>
   [Star History](#star-history)<br/>
@@ -41,6 +42,7 @@ App 价格经常变化，手动检查既繁琐也容易错过优惠。本项目�
    * RSS
    * Telegram
    * 钉钉
+   * 飞书 Bot（CN/US）
 * 自动根据付费排行榜更新跟踪应用
 * 自动根据优惠频次禁用追踪应用的推送
 * 开源免费，欢迎贡献
@@ -67,6 +69,12 @@ App 价格经常变化，手动检查既繁琐也容易错过优惠。本项目�
 点击 [![telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=flat&logo=telegram "telegram")](https://t.me/appstore_discounts "telegram-channel") 订阅
 ## 钉钉
 点击 [![dingtalk](https://img.alicdn.com/imgextra/i3/O1CN01WMvMRG1ks3Ixc9x1v_!!6000000004738-55-tps-32-32.svg "dingtalk")](https://qr.dingtalk.com/action/joingroup?code=v1,k1,tzuNlnnwVLRCmrTUa4cHymeJCIcRiimCcPThTO3THLQ=&_dt_no_comment=1&origin=11 "dingtalk") 订阅
+## 飞书 Bot
+在自己的飞书群中创建自定义机器人，并在 fork 仓库的 Repository secrets 中配置 `FEISHU_WEBHOOK_URL`；开启签名校验时同时配置 `FEISHU_SIGN_SECRET`。
+
+飞书仅推送中国大陆（CN）和美国（US）的应用降价、限免及内购优惠。
+
+[查看飞书 Bot 配置说明](./docs/FEISHU_BOT.md)
 # 运行机制及流程
 本项目基于 `GitHub Actions` 定时任务（每 `180` 分钟）自动执行以下流程：
 ```mermaid
@@ -79,6 +87,7 @@ flowchart LR
   F --> G["更新RSS文件"]
   F --> H["推送通知到Telegram"]
   F --> I["推送通知到钉钉"]
+  F --> J["推送通知到飞书 Bot（CN/US）"]
 ```
 
 1. 获取付费排行榜应用信息
@@ -92,9 +101,10 @@ flowchart LR
 7. 更新 `RSS` 文件
 8. 推送通知到 `Telegram` 
 9. 推送通知到 `钉钉` 
-10. 标记需要禁用推送的应用
-11. 更新 `README.md` 及相关文档
-12. 提交 `Git` 更新
+10. 推送通知到 `飞书 Bot（CN/US）`
+11. 标记需要禁用推送的应用
+12. 更新 `README.md` 及相关文档
+13. 提交 `Git` 更新
 
 如有折扣，订阅用户将收到推送
 # 相关文档

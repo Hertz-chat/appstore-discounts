@@ -60,7 +60,7 @@
   "若不想参与编码实现，只是有好的想法或者是发现 bug 直接提{0}": "If you don't want to participate in coding implementation, you can open an {0} if you have good ideas or find bugs",
   "当前已收录{p0个国家或地区}和{p1个应用}": "So far, we've covered {p0 Country or Region} and {p1 app}",
   "钉钉": "DingTalk",
-  "开源的 App Store 折扣信息助手，基于 GitHub Actions 实现，支持 RSS，Telegram 和 钉钉 通知": "An open-source App Store discounts tracker built on GitHub Actions, supporting RSS, Telegram and DingTalk notifications",
+  "开源的 App Store 折扣信息助手，基于 GitHub Actions 实现，支持 RSS、Telegram、钉钉和飞书 Bot 通知": "An open-source App Store discounts tracker built on GitHub Actions, supporting RSS, Telegram, DingTalk and Feishu Bot notifications",
   "如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到{0}，同一个应用反馈的次数超过{1}次，该应用的折扣信息推送极有可能会被禁止": "If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via {0}. If an app receives more than {1} complaints, its discount information push notifications are likely to be banned",
   "土耳其": "Türkiye",
   "友情提示": "Friendly Reminder",
@@ -96,5 +96,10 @@
   "自动根据优惠频次禁用追踪应用的推送": "Automatically disable push notifications for tracking apps based on discount frequency",
   "标记需要禁用推送的应用": "Mark the apps that need to disable push notifications",
   "为什么会有这个项目": "Why It Exists",
-  "App 价格经常变化，手动检查既繁琐也容易错过优惠。本项目会自动追踪付费榜单与已收录应用的价格变化，并通过订阅渠道推送折扣信息，帮助用户更及时地发现值得购买的应用。": "App prices change often, and checking them manually is tedious. This project automatically tracks paid rankings and price changes for listed apps, then publishes discount updates through subscription channels so users can discover worthwhile apps sooner."
+  "App 价格经常变化，手动检查既繁琐也容易错过优惠。本项目会自动追踪付费榜单与已收录应用的价格变化，并通过订阅渠道推送折扣信息，帮助用户更及时地发现值得购买的应用。": "App prices change often, and checking them manually is tedious. This project automatically tracks paid rankings and price changes for listed apps, then publishes discount updates through subscription channels so users can discover worthwhile apps sooner.",
+  "飞书 Bot": "Feishu Bot",
+  "飞书 Bot（CN/US）": "Feishu Bot (CN/US)",
+  "在自己的飞书群中创建自定义机器人，并在 fork 仓库的 Repository secrets 中配置 {0}；开启签名校验时同时配置 {1}。": "Create a custom bot in your Feishu group and configure {0} in your fork repository’s Repository secrets. If signature verification is enabled, also configure {1}.",
+  "飞书仅推送中国大陆（CN）和美国（US）的应用降价、限免及内购优惠。": "Feishu only sends app price drops, free offers and in-app purchase discounts from Mainland China (CN) and the United States (US).",
+  "查看飞书 Bot 配置说明": "See the Feishu Bot setup guide"
 }

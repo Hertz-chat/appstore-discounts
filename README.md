@@ -1,5 +1,5 @@
 <div align="center">
-  <p style="font-size: 18px;">An open-source App Store discounts tracker built on GitHub Actions, supporting RSS, Telegram and DingTalk notifications</p>
+  <p style="font-size: 18px;">An open-source App Store discounts tracker built on GitHub Actions, supporting RSS, Telegram, DingTalk and Feishu Bot notifications</p>
 
 
 English | [简体中文](https://github.com/appstore-discounts/appstore-discounts/blob/main/README_zh-CN.md)
@@ -21,6 +21,7 @@ English | [简体中文](https://github.com/appstore-discounts/appstore-discount
   &emsp;&emsp;[RSS](#rss)<br/>
   &emsp;&emsp;[Telegram](#telegram)<br/>
   &emsp;&emsp;[DingTalk](#dingtalk)<br/>
+  &emsp;&emsp;[Feishu Bot](#feishu-bot)<br/>
   [Operating Mechanism and Process](#operating-mechanism-and-process)<br/>
   [Related Documents](#related-documents)<br/>
   [Star History](#star-history)<br/>
@@ -41,6 +42,7 @@ App prices change often, and checking them manually is tedious. This project aut
    * RSS
    * Telegram
    * DingTalk
+   * Feishu Bot (CN/US)
 * Automatically update tracking apps based on paid app rankings
 * Automatically disable push notifications for tracking apps based on discount frequency
 * Open source for free, welcome to contribute
@@ -64,6 +66,12 @@ App prices change often, and checking them manually is tedious. This project aut
 Click  [![telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=flat&logo=telegram "telegram")](https://t.me/appstore_discounts "telegram-channel")  to Subscribe
 ## DingTalk
 Click  [![dingtalk](https://img.alicdn.com/imgextra/i3/O1CN01WMvMRG1ks3Ixc9x1v_!!6000000004738-55-tps-32-32.svg "dingtalk")](https://qr.dingtalk.com/action/joingroup?code=v1,k1,tzuNlnnwVLRCmrTUa4cHymeJCIcRiimCcPThTO3THLQ=&_dt_no_comment=1&origin=11 "dingtalk")  to Subscribe
+## Feishu Bot
+Create a custom bot in your Feishu group and configure `FEISHU_WEBHOOK_URL` in your fork repository’s Repository secrets. If signature verification is enabled, also configure `FEISHU_SIGN_SECRET`.
+
+Feishu only sends app price drops, free offers and in-app purchase discounts from Mainland China (CN) and the United States (US).
+
+[See the Feishu Bot setup guide](./docs/FEISHU_BOT.md)
 # Operating Mechanism and Process
 This project automatically executes the following process based on  `GitHub Actions`  timing tasks (every  `180`  minutes):
 ```mermaid
@@ -76,6 +84,7 @@ flowchart LR
   F --> G["Update RSS files"]
   F --> H["Push notification to Telegram"]
   F --> I["Push notification to DingTalk"]
+  F --> J["Push notification to Feishu Bot (CN/US)"]
 ```
 
 1. Fetches app information from the paid rankings
@@ -89,9 +98,10 @@ flowchart LR
 7. Update  `RSS`  files
 8. Push notification to  `Telegram` 
 9. Push notification to  `DingTalk` 
-10. Mark the apps that need to disable push notifications
-11. Update  `README.md`  and related documents
-12. Submit  `Git`  update
+10. Push notification to  `Feishu Bot (CN/US)`
+11. Mark the apps that need to disable push notifications
+12. Update  `README.md`  and related documents
+13. Submit  `Git`  update
 
 Subscribers will receive a push if there is a discount
 # Related Documents

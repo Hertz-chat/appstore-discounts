@@ -78,6 +78,16 @@ export default function Subscription() {
           </Link>,
         )} `,
       )}
+      <H2>{t('飞书 Bot')}</H2>
+      {t(
+        '在自己的飞书群中创建自定义机器人，并在 fork 仓库的 Repository secrets 中配置 {0}；开启签名校验时同时配置 {1}。',
+        '`FEISHU_WEBHOOK_URL`',
+        '`FEISHU_SIGN_SECRET`',
+      )}
+      {'\n\n'}
+      {t('飞书仅推送中国大陆（CN）和美国（US）的应用降价、限免及内购优惠。')}
+      {'\n\n'}
+      <Link href="./docs/FEISHU_BOT.md">{t('查看飞书 Bot 配置说明')}</Link>
     </>
   )
 }

@@ -101,6 +101,7 @@ export default async function pushFeishuNotification(
     let sent = false
     let allSucceeded = true
     for (const [region, apps] of Object.entries(regionDiscountInfos)) {
+      if (region !== 'cn' && region !== 'us') continue
       if (!apps.length) continue
       const chunks = splitMessage(getMessage(region as Region, apps))
       for (const [index, text] of chunks.entries()) {

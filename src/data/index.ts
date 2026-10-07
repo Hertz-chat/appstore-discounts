@@ -9,6 +9,7 @@ import { start, end, summarize } from './timer'
 import pushTelegramNotification from './telegram'
 // import updateIpCounter from './ip'
 import pushDingTalkNotification from './dingtalk'
+import pushFeishuNotification from './feishu'
 import updateAppInfoConfig from './config'
 import updateLog from './log'
 import disableApps from './disableApps'
@@ -61,6 +62,8 @@ async function controller() {
   await pushTelegramNotification(regionDiscountInfo)
 
   await pushDingTalkNotification(regionDiscountInfo)
+
+  await pushFeishuNotification(regionDiscountInfo)
 
   disableApps({
     appConfig,

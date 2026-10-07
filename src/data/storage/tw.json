@@ -125649,6 +125649,25 @@
     "history": [
       [
         {
+          "timestamp": 1791411734325,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "寶石堆": "$90.00",
+            "寶石箱": "$320.00",
+            "金幣堆": "$30.00",
+            "金幣袋": "$150.00",
+            "SF2SEPack20": "$690.00",
+            "寶石袋": "$690.00",
+            "SF2SEPack3": "$90.00",
+            "宝石箱": "$1,490.00",
+            "金幣箱": "$690.00",
+            "SF2SEPack10": "$320.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791388346947,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -174509,6 +174528,24 @@
     "history": [
       [
         {
+          "timestamp": 1791411734325,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Forest Hike": "$90.00",
+            "The Complete Collection": "$1,190.00",
+            "Explorer Pack": "$390.00",
+            "Welcome Offer": "$690.00",
+            "New York 2121 Board": "$220.00",
+            "Cherry Blossom Tokyo Board": "$220.00",
+            "The Ultimate Edition Welcome Offer": "$790.00",
+            "Victorian London Board": "$220.00",
+            "Promotion": "$590.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791173827832,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -185047,7 +185084,7 @@
       "+100 boosters ECO-Initiative!": "$10.00",
       "+2026 boosters ECO-Initiative!": "$150.00",
       "+444! Triple-Four Booster Pack": "$90.00",
-      "Full scenarios": "$30.00"
+      "Full scenarios": "$60.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -185061,6 +185098,19 @@
       "Full scenarios": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791411734325,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "+100 boosters ECO-Initiative!": "$10.00",
+            "+2026 boosters ECO-Initiative!": "$150.00",
+            "Full scenarios": "$60.00",
+            "+444! Triple-Four Booster Pack": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791059903104,

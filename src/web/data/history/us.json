@@ -30642,6 +30642,23 @@
     "history": [
       [
         {
+          "timestamp": 1791411734325,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Superpower 10": "$1.99",
+            "Unlock all level packs including future updates": "$3.99",
+            "Superpower 20": "$3.99",
+            "Superpower 500": "$17.99",
+            "Superpower 50": "$7.99",
+            "Unlock \"Bamboo Chutes\" level pack": "$1.99",
+            "Magnetic Stars Tiny Pack": "$3.99",
+            "Superpower Unlimited": "$24.99",
+            "Superpower 50 Sale": "$4.99",
+            "Unlock \"Bath Time\" level pack": "$1.99"
+          }
+        },
+        {
           "timestamp": 1791388346947,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -200850,6 +200867,23 @@
     "history": [
       [
         {
+          "timestamp": 1791411734325,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Tamer Kit": "$0.99",
+            "Master Package": "$19.99",
+            "Prime Gemma 2500": "$19.99",
+            "Starter Package": "$4.99",
+            "Prime Gemma 1200": "$9.99",
+            "Prime Gemma 500": "$4.99",
+            "Hunter Package": "$9.99",
+            "Evoker Kit": "$0.99",
+            "Prime gemma 100": "$0.99",
+            "Zenith Islands DLC": "$4.99"
+          }
+        },
+        {
           "timestamp": 1791388346947,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -203459,7 +203493,7 @@
       "+100 boosters ECO-Initiative!": "$1.00",
       "+2026 boosters ECO-Initiative!": "$4.99",
       "+444! Triple-Four Booster Pack": "$2.29",
-      "Full scenarios": "$0.99"
+      "Full scenarios": "$1.99"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -203473,6 +203507,19 @@
       "Full scenarios": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791411734325,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "+100 boosters ECO-Initiative!": "$1.00",
+            "+2026 boosters ECO-Initiative!": "$4.29",
+            "Full scenarios": "$1.99",
+            "+444! Triple-Four Booster Pack": "$2.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791059903104,

@@ -19765,14 +19765,33 @@
     "maxPriceInfo": {
       "price": 7.99,
       "formattedPrice": "$7.99",
-      "Annual Upgrade Pass (Mobile)": "$4.99"
+      "Annual Upgrade Pass (Mobile)": "$4.99",
+      "Wonderful Tip": "$10.00",
+      "Generous Tip": "$5.00",
+      "Kind Tip": "$3.00"
     },
     "minPriceInfo": {
       "price": 7.99,
       "formattedPrice": "$7.99",
-      "Annual Upgrade Pass (Mobile)": "$4.99"
+      "Annual Upgrade Pass (Mobile)": "$4.99",
+      "Wonderful Tip": "$10.00",
+      "Generous Tip": "$5.00",
+      "Kind Tip": "$3.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791490715855,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {
+            "Annual Upgrade Pass (Mobile)": "$4.99",
+            "Wonderful Tip": "$10.00",
+            "Generous Tip": "$5.00",
+            "Kind Tip": "$3.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761660771755,
@@ -89831,6 +89850,14 @@
     "history": [
       [
         {
+          "timestamp": 1791490715855,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1767630950722,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -107317,13 +107344,25 @@
     "name": "Codenames",
     "maxPriceInfo": {
       "price": 4.99,
-      "formattedPrice": "$4.99"
+      "formattedPrice": "$4.99",
+      "Krycí jména: Duet": "$4.99"
     },
     "minPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "$0.99"
+      "formattedPrice": "$0.99",
+      "Krycí jména: Duet": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791490715855,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Krycí jména: Duet": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767156201270,
@@ -120354,6 +120393,23 @@
       "Obtain temple main entrance password": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791490715855,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Get the main entrance lighthouse passcode": "$0.99",
+            "Lighthouse obtain exit door passcode": "$0.99",
+            "Get the factory door unlock": "$0.99",
+            "Open the box to the sea": "$0.99",
+            "Obtain temple main entrance password": "$0.99",
+            "Get inside the temple door password": "$0.99",
+            "Rockets get the door unlocking": "$0.99",
+            "Open the box to get the rocket": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784786019188,
@@ -186500,6 +186556,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791490715855,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "每日外刊": "$8.49",
+            "2年联合VIP会员": "$29.99",
+            "VIP连续包季": "$7.99",
+            "一年联合VIP会员": "$19.99",
+            "VIP连续包月": "$3.99",
+            "大学英语_外刊精读 | 2025年度TOP100精选": "$29.99",
+            "肖维青英文原著精读课-纳尼亚传奇篇": "$29.99",
+            "大学英语_外刊精读 | 2021年度TOP100精选": "$29.99",
+            "大学英语_外刊精读 | 2022年度TOP100精选": "$29.99"
+          }
+        },
         {
           "timestamp": 1791462124844,
           "price": 0.99,
@@ -346989,6 +347061,14 @@
     "history": [
       [
         {
+          "timestamp": 1791490715855,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790419954498,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -351474,6 +351554,48 @@
           "timestamp": 1791263120623,
           "price": 9.99,
           "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6812927976": {
+    "name": "Enchanted Survival: Magic RPG",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791490715855,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6775430354": {
+    "name": "Preserve: Complete Edition",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "$6.99"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "$6.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791490715855,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
           "inAppPurchases": {}
         }
       ]

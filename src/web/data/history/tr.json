@@ -14545,14 +14545,33 @@
     "maxPriceInfo": {
       "price": 399.99,
       "formattedPrice": "₺399,99",
-      "Annual Upgrade Pass (Mobile)": "₺29,99"
+      "Annual Upgrade Pass (Mobile)": "₺29,99",
+      "Wonderful Tip": "₺300,00",
+      "Generous Tip": "₺150,00",
+      "Kind Tip": "₺80,00"
     },
     "minPriceInfo": {
       "price": 349.99,
       "formattedPrice": "₺349,99",
-      "Annual Upgrade Pass (Mobile)": "₺29,99"
+      "Annual Upgrade Pass (Mobile)": "₺29,99",
+      "Wonderful Tip": "₺300,00",
+      "Generous Tip": "₺150,00",
+      "Kind Tip": "₺80,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791490715855,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Annual Upgrade Pass (Mobile)": "₺29,99",
+            "Wonderful Tip": "₺300,00",
+            "Generous Tip": "₺150,00",
+            "Kind Tip": "₺80,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -82985,6 +83004,14 @@
     "history": [
       [
         {
+          "timestamp": 1791490715855,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1767630950722,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -95716,13 +95743,25 @@
     "region": "tr",
     "maxPriceInfo": {
       "price": 249.99,
-      "formattedPrice": "₺249,99"
+      "formattedPrice": "₺249,99",
+      "Krycí jména: Duet": "₺249,99"
     },
     "minPriceInfo": {
       "price": 39.99,
-      "formattedPrice": "₺39,99"
+      "formattedPrice": "₺39,99",
+      "Krycí jména: Duet": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791490715855,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Krycí jména: Duet": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767147072737,
@@ -289643,6 +289682,14 @@
     "history": [
       [
         {
+          "timestamp": 1791490715855,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -293551,6 +293598,14 @@
     "history": [
       [
         {
+          "timestamp": 1791490715855,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791173827832,
           "price": 2.99,
           "formattedPrice": "₺2,99",
@@ -294755,6 +294810,52 @@
           "timestamp": 1791263120623,
           "price": 499.99,
           "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6812927976": {
+    "trackId": 6812927976,
+    "trackName": "Enchanted Survival: Magic RPG",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791490715855,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6775430354": {
+    "trackId": 6775430354,
+    "trackName": "Preserve: Complete Edition",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
+    },
+    "minPriceInfo": {
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791490715855,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
           "inAppPurchases": {}
         }
       ]

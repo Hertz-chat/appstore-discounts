@@ -7652,14 +7652,33 @@
     "maxPriceInfo": {
       "price": 8.99,
       "formattedPrice": "8,99 €",
-      "Annual Upgrade Pass (Mobile)": "4,99 €"
+      "Annual Upgrade Pass (Mobile)": "4,99 €",
+      "Gorjeta maravilhosa": "6,00 €",
+      "Gorjeta generosa": "3,00 €",
+      "Gorjeta gentil": "2,00 €"
     },
     "minPriceInfo": {
       "price": 8.99,
       "formattedPrice": "8,99 €",
-      "Annual Upgrade Pass (Mobile)": "4,99 €"
+      "Annual Upgrade Pass (Mobile)": "4,99 €",
+      "Gorjeta maravilhosa": "6,00 €",
+      "Gorjeta generosa": "3,00 €",
+      "Gorjeta gentil": "2,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791490715855,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {
+            "Annual Upgrade Pass (Mobile)": "4,99 €",
+            "Gorjeta maravilhosa": "6,00 €",
+            "Gorjeta generosa": "3,00 €",
+            "Gorjeta gentil": "2,00 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -41221,6 +41240,14 @@
     "history": [
       [
         {
+          "timestamp": 1791490715855,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1767630950722,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -47045,13 +47072,25 @@
     "region": "pt",
     "maxPriceInfo": {
       "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "formattedPrice": "5,99 €",
+      "Krycí jména: Duet": "5,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "formattedPrice": "2,99 €",
+      "Krycí jména: Duet": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791490715855,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Krycí jména: Duet": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767147072737,
@@ -148356,6 +148395,52 @@
           "inAppPurchases": {
             "Comprato Plus": "1,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "6812927976": {
+    "trackId": 6812927976,
+    "trackName": "Enchanted Survival: RPG Loot",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791490715855,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6775430354": {
+    "trackId": 6775430354,
+    "trackName": "Preserve: Complete Edition",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791490715855,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]

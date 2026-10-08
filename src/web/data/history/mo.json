@@ -12125,14 +12125,33 @@
     "maxPriceInfo": {
       "price": 7.99,
       "formattedPrice": "USD 7.99",
-      "年度升級通行證（移動設備）": "USD 4.99"
+      "年度升級通行證（移動設備）": "USD 4.99",
+      "超讚打賞": "USD 8.00",
+      "慷慨打賞": "USD 4.00",
+      "暖心打賞": "USD 2.00"
     },
     "minPriceInfo": {
       "price": 7.99,
       "formattedPrice": "USD 7.99",
-      "年度升級通行證（移動設備）": "USD 4.99"
+      "年度升級通行證（移動設備）": "USD 4.99",
+      "超讚打賞": "USD 8.00",
+      "慷慨打賞": "USD 4.00",
+      "暖心打賞": "USD 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791490715855,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
+          "inAppPurchases": {
+            "超讚打賞": "USD 8.00",
+            "慷慨打賞": "USD 4.00",
+            "暖心打賞": "USD 2.00",
+            "年度升級通行證（移動設備）": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -64052,6 +64071,14 @@
     "history": [
       [
         {
+          "timestamp": 1791490715855,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1767630950722,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -75433,13 +75460,25 @@
     "region": "mo",
     "maxPriceInfo": {
       "price": 4.99,
-      "formattedPrice": "USD 4.99"
+      "formattedPrice": "USD 4.99",
+      "Krycí jména: Duet": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "formattedPrice": "USD 0.99",
+      "Krycí jména: Duet": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791490715855,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Krycí jména: Duet": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767112568849,
@@ -138699,6 +138738,14 @@
     "history": [
       [
         {
+          "timestamp": 1791490715855,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790790015131,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
@@ -152205,6 +152252,14 @@
       "formattedPrice": "USD 0.39"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791490715855,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791042403719,
@@ -171221,6 +171276,14 @@
       "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791490715855,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790885290521,
@@ -194956,6 +195019,16 @@
     "history": [
       [
         {
+          "timestamp": 1791490715855,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "art of rally: australia dlc": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787153393547,
           "price": 7.99,
           "formattedPrice": "USD 7.99",
@@ -207371,6 +207444,25 @@
     "history": [
       [
         {
+          "timestamp": 1791490715855,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "深淵開拓者": "USD 9.99",
+            "超越精華": "USD 29.99",
+            "時間旅行者": "USD 5.99",
+            "魔界擴充通行證": "USD 5.99",
+            "尼奧貝希摩斯": "USD 1.99",
+            "魔界通行證1": "USD 2.99",
+            "隱月造型套裝": "USD 9.99",
+            "訓練記憶": "USD 17.99",
+            "永恆方舟": "USD 29.99",
+            "深淵精華": "USD 19.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791462124844,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -210251,6 +210343,14 @@
       "20 fuel to storage": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791490715855,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790828594798,
@@ -214827,6 +214927,52 @@
           "timestamp": 1791263120623,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6812927976": {
+    "trackId": 6812927976,
+    "trackName": "Enchanted Survival: 刷寶RPG",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791490715855,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6775430354": {
+    "trackId": 6775430354,
+    "trackName": "Preserve: Complete Edition",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791490715855,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
           "inAppPurchases": {}
         }
       ]

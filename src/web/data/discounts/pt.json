@@ -1,5 +1,173 @@
 [
   {
+    "trackId": 882362024,
+    "region": "pt",
+    "timestamp": 1791462124844,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,19 €",
+        "to": "0,49 €",
+        "range": "[0,49 € ~ 1,19 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Main Story Set",
+        "from": "17,99 €",
+        "to": "9,49 €",
+        "range": "[9,49 € ~ 17,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Special Episode",
+        "from": "3,49 €",
+        "to": "1,49 €",
+        "range": "[1,49 € ~ 3,49 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Costume Set",
+        "from": "1,19 €",
+        "to": "0,49 €",
+        "range": "[0,49 € ~ 1,19 €]"
+      }
+    ],
+    "price": 0.49,
+    "formattedPrice": "0,49 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id882362024",
+    "trackName": "Ace Attorney: Dual Destinies",
+    "firstRecordedAt": 1788602462583
+  },
+  {
+    "trackId": 1136993233,
+    "region": "pt",
+    "timestamp": 1791462124844,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,19 €",
+        "to": "0,49 €",
+        "range": "[0,49 € ~ 1,19 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "All Episodes Set",
+        "from": "17,99 €",
+        "to": "9,49 €",
+        "range": "[9,49 € ~ 17,99 €]"
+      }
+    ],
+    "price": 0.49,
+    "formattedPrice": "0,49 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1136993233",
+    "trackName": "Apollo Justice Ace Attorney",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1239299402,
+    "region": "pt",
+    "timestamp": 1791462124844,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1239299402",
+    "trackName": "Street Fighter IV CE",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1621065119,
+    "region": "pt",
+    "timestamp": 1791462124844,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "29,99 €",
+        "to": "9,89 €",
+        "range": "[9,89 € ~ 29,99 €]"
+      }
+    ],
+    "price": 9.89,
+    "formattedPrice": "9,89 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1621065119",
+    "trackName": "Ace Attorney Trilogy",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6446021269,
+    "region": "pt",
+    "timestamp": 1791462124844,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "29,99 €",
+        "to": "2,99 €",
+        "range": "[0,99 € ~ 29,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6446021269",
+    "trackName": "MEGA MAN X DiVE Offline",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6760948683,
+    "region": "pt",
+    "timestamp": 1791462124844,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "1,99 €",
+        "range": "[0,99 € ~ 4,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6760948683",
+    "trackName": "Digline: Mineração Relaxante",
+    "firstRecordedAt": 1781276299651
+  },
+  {
+    "trackId": 6780967766,
+    "region": "pt",
+    "timestamp": 1791462124844,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 1,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6780967766",
+    "trackName": "Comprato",
+    "firstRecordedAt": 1791411734325
+  },
+  {
     "trackId": 857607006,
     "region": "pt",
     "timestamp": 1791411734325,
@@ -2551,7 +2719,7 @@
         "name": "Price",
         "from": "29,99 €",
         "to": "14,99 €",
-        "range": "[14,99 € ~ 29,99 €]"
+        "range": "[9,89 € ~ 29,99 €]"
       }
     ],
     "price": 14.99,
@@ -4364,7 +4532,7 @@
         "name": "Price",
         "from": "29,99 €",
         "to": "14,99 €",
-        "range": "[14,99 € ~ 29,99 €]"
+        "range": "[9,89 € ~ 29,99 €]"
       }
     ],
     "price": 14.99,
@@ -8104,7 +8272,7 @@
         "name": "Price",
         "from": "29,99 €",
         "to": "14,99 €",
-        "range": "[14,99 € ~ 29,99 €]"
+        "range": "[9,89 € ~ 29,99 €]"
       }
     ],
     "price": 14.99,
@@ -11943,7 +12111,7 @@
         "name": "Price",
         "from": "29,99 €",
         "to": "14,99 €",
-        "range": "[14,99 € ~ 29,99 €]"
+        "range": "[9,89 € ~ 29,99 €]"
       }
     ],
     "price": 14.99,
@@ -16514,7 +16682,7 @@
         "name": "Price",
         "from": "29,99 €",
         "to": "14,99 €",
-        "range": "[14,99 € ~ 29,99 €]"
+        "range": "[9,89 € ~ 29,99 €]"
       }
     ],
     "price": 14.99,
@@ -21581,7 +21749,7 @@
         "name": "Price",
         "from": "29,99 €",
         "to": "14,99 €",
-        "range": "[14,99 € ~ 29,99 €]"
+        "range": "[9,89 € ~ 29,99 €]"
       }
     ],
     "price": 14.99,
@@ -26306,7 +26474,7 @@
         "name": "Price",
         "from": "29,99 €",
         "to": "14,99 €",
-        "range": "[14,99 € ~ 29,99 €]"
+        "range": "[9,89 € ~ 29,99 €]"
       }
     ],
     "price": 14.99,

@@ -22168,6 +22168,21 @@
     "history": [
       [
         {
+          "timestamp": 1791462124844,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Complete Set": "USD 3.99",
+            "Full Armor": "USD 1.99",
+            "All Health Boosts": "USD 0.99",
+            "Arranged BGMs": "USD 2.99",
+            "All Weapons": "USD 1.99",
+            "All Subtanks": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790248252162,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -56111,17 +56126,33 @@
       "Episode 3": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99",
-      "Main Story Set": "USD 14.99",
-      "Special Episode": "USD 2.99",
-      "Costume Set": "USD 0.99",
+      "price": 0.49,
+      "formattedPrice": "USD 0.49",
+      "Main Story Set": "USD 9.49",
+      "Special Episode": "USD 1.49",
+      "Costume Set": "USD 0.49",
       "Episode 2": "USD 4.99",
       "Episode 5": "USD 4.99",
       "Episode 4": "USD 4.99",
       "Episode 3": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791462124844,
+          "price": 0.49,
+          "formattedPrice": "USD 0.49",
+          "inAppPurchases": {
+            "Main Story Set": "USD 9.49",
+            "Special Episode": "USD 1.49",
+            "Costume Set": "USD 0.49",
+            "Episode 2": "USD 4.99",
+            "Episode 5": "USD 4.99",
+            "Episode 4": "USD 4.99",
+            "Episode 3": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788602462583,
@@ -85759,15 +85790,29 @@
       "Turnabout Corner": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99",
-      "All Episodes Set": "USD 14.99",
+      "price": 0.49,
+      "formattedPrice": "USD 0.49",
+      "All Episodes Set": "USD 9.49",
       "Turnabout Trump, Part 2": "USD 1.99",
       "Turnabout Succession": "USD 4.99",
       "Turnabout Serenade": "USD 4.99",
       "Turnabout Corner": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791462124844,
+          "price": 0.49,
+          "formattedPrice": "USD 0.49",
+          "inAppPurchases": {
+            "All Episodes Set": "USD 9.49",
+            "Turnabout Trump, Part 2": "USD 1.99",
+            "Turnabout Succession": "USD 4.99",
+            "Turnabout Serenade": "USD 4.99",
+            "Turnabout Corner": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -93698,6 +93743,14 @@
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791462124844,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,
@@ -137832,6 +137885,23 @@
     "history": [
       [
         {
+          "timestamp": 1791462124844,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Starter Package B": "USD 29.99",
+            "Daily Jewel Package": "USD 19.99",
+            "Lite Daily Jewel Package": "USD 6.99",
+            "Starter Package A": "USD 24.99",
+            "Remove AD": "USD 0.99",
+            "Jewel Package D": "USD 34.99",
+            "Jewel Package A": "USD 4.99",
+            "Jewel Package F": "USD 79.99",
+            "Jewel Package C": "USD 17.99",
+            "Jewel Package B": "USD 9.99"
+          }
+        },
+        {
           "timestamp": 1791429422397,
           "price": 0,
           "formattedPrice": "免費",
@@ -160888,10 +160958,18 @@
       "formattedPrice": "USD 24.99"
     },
     "minPriceInfo": {
-      "price": 14.99,
-      "formattedPrice": "USD 14.99"
+      "price": 9.89,
+      "formattedPrice": "USD 9.89"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791462124844,
+          "price": 9.89,
+          "formattedPrice": "USD 9.89",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,
@@ -185108,6 +185186,14 @@
     "history": [
       [
         {
+          "timestamp": 1791462124844,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790248252162,
           "price": 29.99,
           "formattedPrice": "USD 29.99",
@@ -203333,6 +203419,25 @@
       "訓練記憶": "USD 17.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791462124844,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "隱月造型套裝": "USD 9.99",
+            "成長之始": "USD 9.99",
+            "深淵之始": "USD 9.99",
+            "起始精華": "USD 19.99",
+            "深淵精華": "USD 19.99",
+            "魔界擴充通行證": "USD 5.99",
+            "超越精華": "USD 29.99",
+            "時間旅行者": "USD 5.99",
+            "深淵開拓者": "USD 9.99",
+            "永恆方舟": "USD 29.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790885290521,

@@ -122418,6 +122418,23 @@
     "history": [
       [
         {
+          "timestamp": 1791429422397,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "68金玉": "USD 9.99",
+            "禮包1": "USD 0.29",
+            "30金玉": "USD 4.99",
+            "198金玉": "USD 29.99",
+            "6金玉": "USD 0.99",
+            "648金玉": "USD 99.99",
+            "尊享月俸": "USD 4.99",
+            "禮包3": "USD 1.99",
+            "禮包2": "USD 0.99",
+            "禮包5": "USD 4.99"
+          }
+        },
+        {
           "timestamp": 1791411734325,
           "price": 0.29,
           "formattedPrice": "USD 0.29",
@@ -140180,11 +140197,30 @@
       "Jewel Package F": "USD 69.99",
       "Jewel Package C": "USD 14.99",
       "Jewel Package B": "USD 7.99",
-      "Jewel Package E": "USD 69.99",
+      "Jewel Package E": "USD 59.99",
       "Starter Package B": "USD 29.99",
       "Remove AD": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791429422397,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Jewel Package E": "USD 59.99",
+            "Jewel Package B": "USD 9.99",
+            "Jewel Package C": "USD 17.99",
+            "Jewel Package F": "USD 79.99",
+            "Jewel Package A": "USD 4.99",
+            "Jewel Package D": "USD 34.99",
+            "Remove AD": "USD 0.99",
+            "Starter Package A": "USD 24.99",
+            "Lite Daily Jewel Package": "USD 6.99",
+            "Daily Jewel Package": "USD 19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790828594798,

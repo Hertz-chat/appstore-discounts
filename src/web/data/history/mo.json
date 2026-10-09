@@ -27085,6 +27085,19 @@
     "history": [
       [
         {
+          "timestamp": 1791506753682,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "礼包5币": "USD 0.99",
+            "礼包15币": "USD 1.99",
+            "礼包25币": "USD 5.99",
+            "礼包50币": "USD 9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791114629972,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -114095,8 +114108,8 @@
     "trackName": "Notes Writer Pro: 不止 PDF, 筆記",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "USD 9.99",
+      "price": 12.99,
+      "formattedPrice": "USD 12.99",
       "Notes Writer Pro AI Assistant": "USD 3.99"
     },
     "minPriceInfo": {
@@ -114105,6 +114118,16 @@
       "Notes Writer Pro AI Assistant": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791506753682,
+          "price": 12.99,
+          "formattedPrice": "USD 12.99",
+          "inAppPurchases": {
+            "Notes Writer Pro AI Assistant": "USD 3.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790711274462,
@@ -213569,13 +213592,31 @@
     "region": "mo",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "formattedPrice": "USD 2.99",
+      "终身护持": "USD 14.99",
+      "年度护持": "USD 2.99",
+      "月度护持": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "USD 1.99"
+      "formattedPrice": "USD 1.99",
+      "终身护持": "USD 14.99",
+      "年度护持": "USD 2.99",
+      "月度护持": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791506753682,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "终身护持": "USD 14.99",
+            "年度护持": "USD 2.99",
+            "月度护持": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790790015131,

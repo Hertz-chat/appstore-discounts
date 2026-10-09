@@ -64207,7 +64207,8 @@
       "Ford 2005 Enhanced Diagnostics": "$14.99",
       "Toyota 2015 Enhanced Diagnostics": "$14.99",
       "Toyota 2017 Enhanced Diagnostics": "$14.99",
-      "Ford 2013 Enhanced Diagnostics": "$14.99"
+      "Ford 2013 Enhanced Diagnostics": "$14.99",
+      "Toyota 2013 Enhanced Diagnostics": "$14.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -64223,10 +64224,28 @@
       "Ford 2005 Enhanced Diagnostics": "$14.99",
       "Toyota 2015 Enhanced Diagnostics": "$14.99",
       "Toyota 2017 Enhanced Diagnostics": "$14.99",
-      "Ford 2013 Enhanced Diagnostics": "$14.99"
+      "Ford 2013 Enhanced Diagnostics": "$14.99",
+      "Toyota 2013 Enhanced Diagnostics": "$14.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1791506753682,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2013 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2019 Enhanced": "$14.99",
+            "Toyota 2013 Enhanced Diagnostics": "$14.99",
+            "Toyota 2015 Enhanced Diagnostics": "$14.99"
+          }
+        },
         {
           "timestamp": 1791462124844,
           "price": 9.99,
@@ -120395,6 +120414,23 @@
     "history": [
       [
         {
+          "timestamp": 1791506753682,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Open the box to get the rocket": "$0.99",
+            "Get the main entrance lighthouse passcode": "$0.99",
+            "Props Tip: Pyramid": "$0.99",
+            "Props Tip: Temple corner": "$0.99",
+            "Props Tip: flower": "$0.99",
+            "Get coffin password": "$0.99",
+            "Pyramid obtain dial pointer display mode": "$0.99",
+            "Get inside the temple door password": "$0.99",
+            "Rockets get the door unlocking": "$0.99",
+            "Get the factory door unlock": "$0.99"
+          }
+        },
+        {
           "timestamp": 1791490715855,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -151905,6 +151941,23 @@
     "history": [
       [
         {
+          "timestamp": 1791506753682,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "$3.99",
+            "Original Succession Package": "$17.99",
+            "Dark Lord Awakening Complete": "$26.99",
+            "Monster Succession": "$4.99",
+            "Original Lord Complete Package": "$26.99",
+            "Awakened Irea Package": "$4.99",
+            "Dark Lord Boost Package": "$8.99",
+            "Awakening Viper Package": "$4.99",
+            "Torture Master Package": "$22.99",
+            "Original Dungeon Package": "$17.99"
+          }
+        },
+        {
           "timestamp": 1791462124844,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -164284,6 +164337,16 @@
       "Notes Writer Pro AI Assistant": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791506753682,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Notes Writer Pro AI Assistant": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790760074035,
@@ -244532,6 +244595,25 @@
     "history": [
       [
         {
+          "timestamp": 1791506753682,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "All Unit Groups": "$12.99",
+            "All Heroes": "$14.99",
+            "Hero Dragon Kosmos": "$6.99",
+            "Unit Group Jaegers": "$6.99",
+            "Unit Group Rebooted Ascendii": "$2.99",
+            "Hero Red Dragon": "$5.99",
+            "Hero Zhara": "$4.99",
+            "Starter Pack": "$4.99",
+            "Hero Red Dragon On Sale": "$3.99",
+            "Special Daily Pack7": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791088289653,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -321852,6 +321934,25 @@
     "history": [
       [
         {
+          "timestamp": 1791506753682,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$9.99",
+            "Mystic Mayhem Pack": "$5.99",
+            "Sun and Spice Bundle": "$7.99",
+            "Santa Claws Pack": "$4.99",
+            "Beach Day Pack": "$5.99",
+            "Kitchen Chaos Pack": "$5.99",
+            "Mystic Mayhem Card Back": "$0.99",
+            "MysticMayhem Cauldron Creature": "$1.99",
+            "Kitchen Chaos Card Back": "$0.99",
+            "Beach Day Card back": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -350170,13 +350271,31 @@
     "name": "般若心灯",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "$2.99"
+      "formattedPrice": "$2.99",
+      "终身护持": "$14.99",
+      "年度护持": "$2.99",
+      "月度护持": "$0.99"
     },
     "minPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "$1.99"
+      "formattedPrice": "$1.99",
+      "终身护持": "$14.99",
+      "年度护持": "$2.99",
+      "月度护持": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791506753682,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "终身护持": "$14.99",
+            "年度护持": "$2.99",
+            "月度护持": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790790015131,
@@ -351017,6 +351136,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791506753682,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Tower Sniper": "$5.99",
+            "Hero Ignus": "$2.99",
+            "Gems Handful": "$2.99",
+            "Tower Alchemist": "$2.99",
+            "ALL SPELLS BUNDLE": "$12.99",
+            "Tower Wildcat": "$4.99",
+            "ALL HEROES BUNDLE": "$29.99"
+          }
+        },
         {
           "timestamp": 1791462124844,
           "price": 6.99,

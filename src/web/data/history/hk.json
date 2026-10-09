@@ -151115,8 +151115,8 @@
     "trackName": "Notes Writer Pro: 不止 PDF, 筆記",
     "region": "hk",
     "maxPriceInfo": {
-      "price": 88,
-      "formattedPrice": "HK$ 88.00",
+      "price": 118,
+      "formattedPrice": "HK$ 118.00",
       "Notes Writer Pro AI Assistant": "HK$ 32.00"
     },
     "minPriceInfo": {
@@ -151125,6 +151125,16 @@
       "Notes Writer Pro AI Assistant": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791506753682,
+          "price": 118,
+          "formattedPrice": "HK$ 118.00",
+          "inAppPurchases": {
+            "Notes Writer Pro AI Assistant": "HK$ 31.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790711274462,
@@ -262826,6 +262836,25 @@
     "history": [
       [
         {
+          "timestamp": 1791506753682,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 38.00",
+            "The Aircraft Bundle": "HK$ 188.00",
+            "Global scenery - 12 months": "HK$ 148.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Airbus A380": "HK$ 18.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "Global scenery - 3 months": "HK$ 58.00",
+            "Concorde": "HK$ 18.00",
+            "Boeing 747-400": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791388346947,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -303279,13 +303308,31 @@
     "region": "hk",
     "maxPriceInfo": {
       "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "formattedPrice": "HK$ 22.00",
+      "终身护持": "HK$ 118.00",
+      "年度护持": "HK$ 22.00",
+      "月度护持": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 18,
-      "formattedPrice": "HK$ 18.00"
+      "formattedPrice": "HK$ 18.00",
+      "终身护持": "HK$ 118.00",
+      "年度护持": "HK$ 22.00",
+      "月度护持": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791506753682,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "终身护持": "HK$ 118.00",
+            "年度护持": "HK$ 22.00",
+            "月度护持": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790790015131,
@@ -304176,6 +304223,25 @@
       "塔 鍊金術師小屋": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791506753682,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "全塔禮包": "HK$ 148.00",
+            "全英雄禮包": "HK$ 228.00",
+            "英雄 德拉坎": "HK$ 58.00",
+            "英雄 阿什彼特": "HK$ 58.00",
+            "全法術禮包": "HK$ 98.00",
+            "英雄 伊格納斯": "HK$ 22.00",
+            "塔 奧術鍛造匠": "HK$ 38.00",
+            "塔 鍊金術師小屋": "HK$ 22.00",
+            "英雄 鬼侍": "HK$ 38.00",
+            "塔 野貓女獵手": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791462124844,

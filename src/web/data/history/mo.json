@@ -329,14 +329,22 @@
     "trackName": "Airports",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 8.99,
-      "formattedPrice": "USD 8.99"
+      "price": 12.99,
+      "formattedPrice": "USD 12.99"
     },
     "minPriceInfo": {
       "price": 8.99,
       "formattedPrice": "USD 8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791539096914,
+          "price": 12.99,
+          "formattedPrice": "USD 12.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -12120,7 +12128,7 @@
   },
   "390017969": {
     "trackId": 390017969,
-    "trackName": "Due - Reminders & Timers",
+    "trackName": "Due - 快速提醒與定時器",
     "region": "mo",
     "maxPriceInfo": {
       "price": 7.99,
@@ -27084,6 +27092,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791539096914,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "115,000 Geniz (58,750 FREE)": "USD 4.99",
+            "80,000 Geniz (35,000 FREE)": "USD 3.99",
+            "50,000 Geniz (16,250 FREE)": "USD 2.99",
+            "30,000 Geniz (7,500 FREE)": "USD 1.99",
+            "11,250 Geniz": "USD 0.99",
+            "礼包65币": "USD 2.99",
+            "礼包40币": "USD 1.99",
+            "礼包15币": "USD 1.99"
+          }
+        },
         {
           "timestamp": 1791506753682,
           "price": 3.99,
@@ -141076,6 +141099,14 @@
     "history": [
       [
         {
+          "timestamp": 1791539096914,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788303769766,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -143434,6 +143465,14 @@
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791539096914,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788303769766,
@@ -148742,6 +148781,14 @@
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791539096914,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788303769766,
@@ -164984,6 +165031,16 @@
       "Buy Pro Version": "USD 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791539096914,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Buy Pro Version": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791290979408,

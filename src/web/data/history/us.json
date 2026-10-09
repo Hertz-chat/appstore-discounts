@@ -593,14 +593,22 @@
     "trackName": "Airports",
     "region": "us",
     "maxPriceInfo": {
-      "price": 8.99,
-      "formattedPrice": "$8.99"
+      "price": 12.99,
+      "formattedPrice": "$12.99"
     },
     "minPriceInfo": {
       "price": 8.99,
       "formattedPrice": "$8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791539096914,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -124507,6 +124515,14 @@
     "history": [
       [
         {
+          "timestamp": 1791539096914,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790220081058,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -204529,6 +204545,14 @@
     "history": [
       [
         {
+          "timestamp": 1791539096914,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 5.99,
           "formattedPrice": "$5.99",
@@ -205383,6 +205407,14 @@
       "Planetary Hours Pro Monthly": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791539096914,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1779220780927,
@@ -206739,6 +206771,14 @@
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791539096914,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788286205846,
@@ -211923,6 +211963,14 @@
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791539096914,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788286205846,
@@ -223093,6 +223141,14 @@
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791539096914,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788303769766,
@@ -236143,6 +236199,14 @@
     "history": [
       [
         {
+          "timestamp": 1791539096914,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791088289653,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -247391,6 +247455,25 @@
     "history": [
       [
         {
+          "timestamp": 1791539096914,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "All Unit Groups": "$12.99",
+            "All Heroes": "$14.99",
+            "Hero Dragon Kosmos": "$6.99",
+            "Unit Group Jaegers": "$6.99",
+            "Unit Group Rebooted Ascendii": "$2.99",
+            "Hero Red Dragon": "$5.99",
+            "Hero Zhara": "$4.99",
+            "Starter Pack": "$4.99",
+            "Hero Red Dragon On Sale": "$3.99",
+            "Hero Gauntlet": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791506753682,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -253731,6 +253814,16 @@
       "Buy Pro Version": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791539096914,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Buy Pro Version": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791290979408,
@@ -264058,6 +264151,14 @@
     "history": [
       [
         {
+          "timestamp": 1791539096914,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790885290521,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -266127,6 +266228,25 @@
       "Weapon Upgrade Ticket x1 (D)": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791539096914,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$59.99",
+            "Separate Ways": "$9.99",
+            "Extra DLC Pack": "$19.99",
+            "Weapon Upgrade Ticket x5 (A)": "$9.99",
+            "Attaché Case: 'Gold'": "$0.99",
+            "Weapon Upgrade Ticket x3 (A)": "$6.99",
+            "Charm: 'Handgun Ammo'": "$0.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.99",
+            "Charm: 'Green Herb'": "$0.99",
+            "Attaché Case: 'Classic'": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791369813838,
@@ -325334,6 +325454,25 @@
     "history": [
       [
         {
+          "timestamp": 1791539096914,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$9.99",
+            "Mystic Mayhem Pack": "$5.99",
+            "Sun and Spice Bundle": "$7.99",
+            "Santa Claws Pack": "$4.99",
+            "Beach Day Pack": "$5.99",
+            "Kitchen Chaos Pack": "$5.99",
+            "Mystic Mayhem Card Back": "$0.99",
+            "Sea Rat Outfit": "$1.99",
+            "MysticMayhem Cauldron Creature": "$1.99",
+            "Kitchen Chaos Card Back": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791506753682,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -331852,6 +331991,16 @@
       "art of rally: australia dlc": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791539096914,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "art of rally: australia dlc": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787197548448,
@@ -347000,6 +347149,14 @@
     "history": [
       [
         {
+          "timestamp": 1791539096914,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791042403719,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -347126,6 +347283,25 @@
       "Memory of Training": "$17.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791539096914,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "Underworld Expansion Pass": "$5.99",
+            "Moonveil Skin Set": "$9.99",
+            "Neo Behemoth": "$1.99",
+            "Pioneer of the Abyss": "$9.99",
+            "Time Traveler": "$5.99",
+            "Essence of Transcendence": "$29.99",
+            "Underworld Pass 1": "$2.99",
+            "Ark of Eternity": "$29.99",
+            "Memory of Training": "$17.99",
+            "Beginning of the Abyss": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790999952664,

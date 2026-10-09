@@ -841,7 +841,7 @@
 |1488|1512939054|自动|❌|Teach Monster: Reading for Fun|Teach Monster: Reading for Fun|Teach Monster: Reading for Fun|Teach Monster: Reading for Fun|Teach Monster: Reading for Fun|Teach Monster: Reading for Fun|
 |1487|6744589266|自动|❌|DeviDeviSurvivor|DeviDeviSurvivor|DeviDeviSurvivor|DeviDeviSurvivor|DeviDeviSurvivor|DeviDeviSurvivor|
 |1486|6739813869|自动|❌|Fortune Quest - Roguelike|Fortune Quest - Roguelike|Fortune Quest - Roguelike|Fortune Quest - Roguelike Game|❌|❌|
-|1485|390017969|自动|Due - 快速提醒、定时器|Due - Reminders & Timers|Due - Reminders & Timers|Due - Reminders & Timers|Due - Reminders & Timers|Due - Reminders & Timers|Due - Lembretes + Timer|
+|1485|390017969|自动|Due - 快速提醒、定时器|Due - 快速提醒與定時器|Due - 快速提醒與定時器|Due - 快速提醒與定時器|Due - Reminders & Timers|Due - Reminders & Timers|Due - Lembretes + Timer|
 |1484|6742044212|自动|简记快捷记账 - AI自动记账|簡記 - AI記帳&自動記帳|簡記 - AI記帳&自動記帳|簡記 - AI記帳&自動記帳|SnapKoin - Expense Tracker|SnapKoin - Expense Tracker|SnapKoin - Expense Tracker|
 |1483|1637377410|自动|Flying Carpet File Transfer|Flying Carpet File Transfer|Flying Carpet File Transfer|Flying Carpet File Transfer|Flying Carpet File Transfer|Flying Carpet File Transfer|Flying Carpet File Transfer|
 |1482|1449383466|自动|WristChat for Facebook|WristChat for Facebook|WristChat for Facebook|WristChat for Facebook|WristChat for Facebook|WristChat for Facebook|WristChat for Facebook|

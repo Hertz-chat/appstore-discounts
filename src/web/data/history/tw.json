@@ -292,14 +292,22 @@
     "trackName": "Airports",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 290,
-      "formattedPrice": "$290.00"
+      "price": 390,
+      "formattedPrice": "$390.00"
     },
     "minPriceInfo": {
       "price": 290,
       "formattedPrice": "$290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791539096914,
+          "price": 390,
+          "formattedPrice": "$390.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -15591,7 +15599,7 @@
   },
   "390017969": {
     "trackId": 390017969,
-    "trackName": "Due - Reminders & Timers",
+    "trackName": "Due - 快速提醒與定時器",
     "region": "tw",
     "maxPriceInfo": {
       "price": 290,
@@ -66418,6 +66426,25 @@
       "180000 Coins": "$1,490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791539096914,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "15500 Diamonds": "$2,990.00",
+            "6600 Diamonds": "$1,490.00",
+            "3200 Diamonds": "$790.00",
+            "1210 Diamonds": "$320.00",
+            "580 Diamonds": "$150.00",
+            "220 Diamonds": "$60.00",
+            "450000 Coins": "$2,990.00",
+            "180000 Coins": "$1,490.00",
+            "82000 Coins": "$790.00",
+            "30000 Coins": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789158680954,
@@ -123098,6 +123125,25 @@
       "18元礼包": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791539096914,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "江湖名士": "$120.00",
+            "秦王的宝藏": "$790.00",
+            "鳌拜的私房钱": "$290.00",
+            "一盒元宝": "$90.00",
+            "一袋元宝": "$30.00",
+            "168元礼包": "$790.00",
+            "30元礼包": "$120.00",
+            "60元礼包": "$290.00",
+            "6元礼包": "$30.00",
+            "30元礼包四": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791059903104,
@@ -189099,6 +189145,14 @@
     "history": [
       [
         {
+          "timestamp": 1791539096914,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 0,
           "formattedPrice": "免費",
@@ -190579,6 +190633,14 @@
       "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791539096914,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788303769766,
@@ -193138,6 +193200,14 @@
       "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791539096914,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788303769766,
@@ -199523,6 +199593,14 @@
       "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791539096914,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788303769766,
@@ -220055,6 +220133,16 @@
       "Buy Pro Version": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791539096914,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Buy Pro Version": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791290979408,
@@ -296123,6 +296211,23 @@
     "history": [
       [
         {
+          "timestamp": 1791539096914,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "媚娘篇": "$135.00",
+            "盛世全集": "$390.00",
+            "女帝篇": "$299.00",
+            "6800朵鲜花": "$300.00",
+            "6000金花": "$30.00",
+            "6000破蛋": "$30.00",
+            "12800朵鲜花": "$550.00",
+            "600朵鲜花": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791369813838,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -316301,6 +316406,25 @@
       "法術 艾洛拉": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791539096914,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "全塔禮包": "$690.00",
+            "全英雄禮包": "$990.00",
+            "全法術禮包": "$390.00",
+            "英雄 阿什彼特": "$220.00",
+            "英雄 德拉坎": "$220.00",
+            "塔 奧術鍛造匠": "$150.00",
+            "塔 哨兵瞭望塔": "$190.00",
+            "英雄 伊格納斯": "$90.00",
+            "英雄 鬼侍": "$150.00",
+            "塔 野貓女獵手": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791462124844,

@@ -841,7 +841,7 @@ So far, we've covered `7` `Countries or Regions` and  `2319` `Apps` <br />Push n
 |1488|1512939054|Automatic|❌|Teach Monster: Reading for Fun|Teach Monster: Reading for Fun|Teach Monster: Reading for Fun|Teach Monster: Reading for Fun|Teach Monster: Reading for Fun|Teach Monster: Reading for Fun|
 |1487|6744589266|Automatic|❌|DeviDeviSurvivor|DeviDeviSurvivor|DeviDeviSurvivor|DeviDeviSurvivor|DeviDeviSurvivor|DeviDeviSurvivor|
 |1486|6739813869|Automatic|❌|Fortune Quest - Roguelike|Fortune Quest - Roguelike|Fortune Quest - Roguelike|Fortune Quest - Roguelike Game|❌|❌|
-|1485|390017969|Automatic|Due - 快速提醒、定时器|Due - Reminders & Timers|Due - Reminders & Timers|Due - Reminders & Timers|Due - Reminders & Timers|Due - Reminders & Timers|Due - Lembretes + Timer|
+|1485|390017969|Automatic|Due - 快速提醒、定时器|Due - 快速提醒與定時器|Due - 快速提醒與定時器|Due - 快速提醒與定時器|Due - Reminders & Timers|Due - Reminders & Timers|Due - Lembretes + Timer|
 |1484|6742044212|Automatic|简记快捷记账 - AI自动记账|簡記 - AI記帳&自動記帳|簡記 - AI記帳&自動記帳|簡記 - AI記帳&自動記帳|SnapKoin - Expense Tracker|SnapKoin - Expense Tracker|SnapKoin - Expense Tracker|
 |1483|1637377410|Automatic|Flying Carpet File Transfer|Flying Carpet File Transfer|Flying Carpet File Transfer|Flying Carpet File Transfer|Flying Carpet File Transfer|Flying Carpet File Transfer|Flying Carpet File Transfer|
 |1482|1449383466|Automatic|WristChat for Facebook|WristChat for Facebook|WristChat for Facebook|WristChat for Facebook|WristChat for Facebook|WristChat for Facebook|WristChat for Facebook|

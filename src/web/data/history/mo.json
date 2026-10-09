@@ -95134,14 +95134,22 @@
     "trackName": "Cube CFOP: F2L, OLL & PLL",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "USD 1.99"
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791583027946,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756541666587,
@@ -160190,6 +160198,29 @@
       ]
     ]
   },
+  "1605445697": {
+    "trackId": 1605445697,
+    "trackName": "空灵鼓-无忧鼓（含钢舌鼓）",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791583027946,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1605488891": {
     "trackId": 1605488891,
     "trackName": "VESC Tool",
@@ -173789,6 +173820,25 @@
       "武器專屬強化券 x3 (B)": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791583027946,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "USD 59.99",
+            "額外內容擴充包": "USD 19.99",
+            "武器專屬強化券 x5 (A)": "USD 9.99",
+            "武器專屬強化券 x3 (A)": "USD 6.99",
+            "武器專屬強化券 x3 (D)": "USD 6.99",
+            "武器專屬強化券 x3 (C)": "USD 6.99",
+            "武器專屬強化券 x1 (F)": "USD 2.99",
+            "武器專屬強化券 x1 (E)": "USD 2.99",
+            "武器專屬強化券 x1 (A)": "USD 2.99",
+            "武器專屬強化券 x1 (C)": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -212176,7 +212226,7 @@
   },
   "6785090016": {
     "trackId": 6785090016,
-    "trackName": "Alpine Quest Nav PRO",
+    "trackName": "Alpin Quest PRO: Outdoor GPS",
     "region": "mo",
     "maxPriceInfo": {
       "price": 7.99,

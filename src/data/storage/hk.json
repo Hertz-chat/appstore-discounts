@@ -99235,6 +99235,23 @@
     "history": [
       [
         {
+          "timestamp": 1791583027946,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "跳過飛行家小遊戲": "HK$ 8.00",
+            "跳過鍵盤解謎小遊戲": "HK$ 8.00",
+            "跳過青蛙過河小遊戲": "HK$ 8.00",
+            "跳過踩圓點小遊戲": "HK$ 8.00",
+            "跳過種花小遊戲": "HK$ 8.00",
+            "跳過顯微鏡小遊戲": "HK$ 8.00",
+            "跳過旋轉盤小遊戲": "HK$ 8.00",
+            "跳過拼圖小遊戲": "HK$ 8.00",
+            "跳過開門迷宮小遊戲": "HK$ 8.00",
+            "跳過填色小遊戲": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1791567503610,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -120754,14 +120771,22 @@
   "1236657805": {
     "name": "Cube CFOP: F2L, OLL & PLL",
     "maxPriceInfo": {
-      "price": 18,
-      "formattedPrice": "HK$ 18.00"
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 18,
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791583027946,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756541666587,
@@ -171927,6 +171952,23 @@
     "history": [
       [
         {
+          "timestamp": 1791583027946,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "《每日外刊》订阅": "HK$ 68.00",
+            "长期VIP权限": "HK$ 488.00",
+            "一年VIP权限": "HK$ 148.00",
+            "赖世雄中级美语下（视频课）": "HK$ 118.00",
+            "赖世雄中级美语上（视频课）": "HK$ 118.00",
+            "大学英语_外刊精读 | 2025年度TOP100精选": "HK$ 228.00",
+            "On Writing Well 英语原版书精读课": "HK$ 588.00",
+            "听口直通自由—中高级英语精听": "HK$ 488.00",
+            "听口直通自由—口语输出课": "HK$ 288.00",
+            "听口直通自由—语音基础": "HK$ 48.00"
+          }
+        },
+        {
           "timestamp": 1791567503610,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -213259,6 +213301,27 @@
           "timestamp": 1777371742983,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1605445697": {
+    "name": "空灵鼓-无忧鼓（含钢舌鼓）",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791583027946,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
           "inAppPurchases": {}
         }
       ]
@@ -297892,7 +297955,7 @@
     ]
   },
   "6785090016": {
-    "name": "Alpine Quest Nav PRO",
+    "name": "Alpin Quest PRO: Outdoor GPS",
     "maxPriceInfo": {
       "price": 58,
       "formattedPrice": "HK$ 58.00"

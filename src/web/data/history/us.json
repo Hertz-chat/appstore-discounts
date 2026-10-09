@@ -245212,6 +245212,29 @@
       ]
     ]
   },
+  "1605445697": {
+    "trackId": 1605445697,
+    "trackName": "空灵鼓-无忧鼓（含钢舌鼓）",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791583027946,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1605488891": {
     "trackId": 1605488891,
     "trackName": "VESC Tool",
@@ -353137,7 +353160,7 @@
   },
   "6785090016": {
     "trackId": 6785090016,
-    "trackName": "Alpine Quest Nav PRO",
+    "trackName": "Alpin Quest PRO: Outdoor GPS",
     "region": "us",
     "maxPriceInfo": {
       "price": 7.99,
@@ -355552,7 +355575,8 @@
       "Support Tier 3 · Benefactor": "$6.99",
       "Theme Pack · Halvren": "$0.99",
       "Hero · Mukran": "$0.99",
-      "Support Tier 2 · Patron": "$1.99"
+      "Support Tier 2 · Patron": "$1.99",
+      "Hero · Irena von Strahl": "$0.99"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -355562,9 +355586,26 @@
       "Support Tier 3 · Benefactor": "$6.99",
       "Theme Pack · Halvren": "$0.99",
       "Hero · Mukran": "$0.99",
-      "Support Tier 2 · Patron": "$1.99"
+      "Support Tier 2 · Patron": "$1.99",
+      "Hero · Irena von Strahl": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791583027946,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Hero · Irena von Strahl": "$0.99",
+            "Support Tier 1 · Supporter": "$0.49",
+            "Hero · Aldric Halvren": "$0.99",
+            "Support Tier 3 · Benefactor": "$6.99",
+            "Theme Pack · Halvren": "$0.99",
+            "Hero · Mukran": "$0.99",
+            "Support Tier 2 · Patron": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790977922515,

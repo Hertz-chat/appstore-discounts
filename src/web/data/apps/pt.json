@@ -9781,10 +9781,10 @@
   {
     "trackId": 1309638846,
     "region": "pt",
-    "timestamp": 1791070314470,
+    "timestamp": 1791583027946,
     "discounts": [],
-    "price": 2.99,
-    "formattedPrice": "2,99 €",
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1309638846",
     "trackName": "Vintage Camera - Goodak",
@@ -15329,6 +15329,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id1604675493",
     "trackName": "Descenders",
     "firstRecordedAt": 1777371742983
+  },
+  {
+    "trackId": 1605445697,
+    "region": "pt",
+    "timestamp": 1791583027946,
+    "discounts": [],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1605445697",
+    "trackName": "空灵鼓-无忧鼓（含钢舌鼓）",
+    "firstRecordedAt": 1791583027946
   },
   {
     "trackId": 1605488891,
@@ -23119,10 +23131,10 @@
   {
     "trackId": 6761730635,
     "region": "pt",
-    "timestamp": 1777634035508,
+    "timestamp": 1791583027946,
     "discounts": [],
-    "price": 2.99,
-    "formattedPrice": "2,99 €",
+    "price": 4.99,
+    "formattedPrice": "4,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6761730635",
     "trackName": "DNA Altering",
@@ -24081,7 +24093,7 @@
   {
     "trackId": 6801980968,
     "region": "pt",
-    "timestamp": 1790977922515,
+    "timestamp": 1791583027946,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "1,99 €",

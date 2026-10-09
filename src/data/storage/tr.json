@@ -212835,6 +212835,27 @@
       ]
     ]
   },
+  "1605445697": {
+    "name": "空灵鼓-无忧鼓（含钢舌鼓）",
+    "maxPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "minPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791583027946,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1605488891": {
     "name": "VESC Tool",
     "maxPriceInfo": {
@@ -243728,6 +243749,25 @@
       "Airbus A321 XLR": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791583027946,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737-800": "₺149,99",
+            "Global scenery - 3 months": "₺399,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "UH-60": "₺49,99",
+            "Concorde": "₺99,99",
+            "Boeing 787-10": "₺99,99",
+            "Global scenery - 12 months": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791506753682,
@@ -289875,7 +289915,8 @@
       "Support Tier 3 · Benefactor": "₺399,99",
       "Theme Pack · Halvren": "₺49,99",
       "Hero · Mukran": "₺49,99",
-      "Support Tier 2 · Patron": "₺99,99"
+      "Support Tier 2 · Patron": "₺99,99",
+      "Hero · Irena von Strahl": "₺49,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -289885,9 +289926,26 @@
       "Support Tier 3 · Benefactor": "₺399,99",
       "Theme Pack · Halvren": "₺49,99",
       "Hero · Mukran": "₺49,99",
-      "Support Tier 2 · Patron": "₺99,99"
+      "Support Tier 2 · Patron": "₺99,99",
+      "Hero · Irena von Strahl": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791583027946,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Hero · Irena von Strahl": "₺49,99",
+            "Support Tier 1 · Supporter": "₺29,99",
+            "Hero · Aldric Halvren": "₺49,99",
+            "Support Tier 3 · Benefactor": "₺399,99",
+            "Theme Pack · Halvren": "₺49,99",
+            "Hero · Mukran": "₺49,99",
+            "Support Tier 2 · Patron": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790977922515,

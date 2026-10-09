@@ -9219,6 +9219,25 @@
     "history": [
       [
         {
+          "timestamp": 1791583027946,
+          "price": 168,
+          "formattedPrice": "¥168.00",
+          "inAppPurchases": {
+            "forScore Pro": "¥98.00",
+            "Brahms: The Mutopia Collection": "¥0.00",
+            "Liszt: The Mutopia Collection": "¥0.00",
+            "Verdi: The Mutopia Collection": "¥0.00",
+            "Haydn: The Mutopia Collection": "¥0.00",
+            "Burgmüller: The Mutopia Collection": "¥0.00",
+            "Schumann: The Mutopia Collection": "¥0.00",
+            "forScore Pro 30-Day Pass": "¥22.00",
+            "Tchaikovsky: The Mutopia Collection": "¥0.00",
+            "Rameau: The Mutopia Collection": "¥0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788781262725,
           "price": 168,
           "formattedPrice": "¥168.00",
@@ -77474,6 +77493,23 @@
     "history": [
       [
         {
+          "timestamp": 1791583027946,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "空投呼叫器": "¥25.00",
+            "福利升级": "¥6.00",
+            "德.维特礼包": "¥50.00",
+            "解锁德.维特": "¥18.00",
+            "伊芙琳.坎贝尔礼包": "¥50.00",
+            "解锁伊芙琳.坎贝尔": "¥18.00",
+            "大月卡": "¥45.00",
+            "小月卡": "¥25.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791369813838,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -84970,14 +85006,22 @@
   "1236657805": {
     "name": "Cube CFOP: F2L, OLL & PLL",
     "maxPriceInfo": {
-      "price": 15,
-      "formattedPrice": "¥15.00"
+      "price": 22,
+      "formattedPrice": "¥22.00"
     },
     "minPriceInfo": {
       "price": 15,
       "formattedPrice": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791583027946,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756541666587,
@@ -148140,6 +148184,27 @@
           "timestamp": 1767185811544,
           "price": 38,
           "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1605445697": {
+    "name": "空灵鼓-无忧鼓（含钢舌鼓）",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "¥18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "¥18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791583027946,
+          "price": 18,
+          "formattedPrice": "¥18.00",
           "inAppPurchases": {}
         }
       ]
@@ -231557,7 +231622,7 @@
     ]
   },
   "6785090016": {
-    "name": "Alpine Quest Nav PRO",
+    "name": "Alpin Quest PRO: Outdoor GPS",
     "maxPriceInfo": {
       "price": 58,
       "formattedPrice": "¥58.00"

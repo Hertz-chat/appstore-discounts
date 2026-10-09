@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2322` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2323` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2323|1605445697|Automatic|空灵鼓-无忧鼓（含钢舌鼓）|空灵鼓-无忧鼓（含钢舌鼓）|空灵鼓-无忧鼓（含钢舌鼓）|空灵鼓-无忧鼓（含钢舌鼓）|空灵鼓-无忧鼓（含钢舌鼓）|空灵鼓-无忧鼓（含钢舌鼓）|空灵鼓-无忧鼓（含钢舌鼓）|
 |2322|1057703608|Automatic|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|
 |2321|6762412284|Automatic|时光锚点 Days Anchor - 倒数 纪念 小组件|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|
 |2320|6819276809|Automatic|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|
@@ -170,7 +171,7 @@ So far, we've covered `7` `Countries or Regions` and  `2322` `Apps` <br />Push n
 |2162|967376861|Automatic|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|
 |2161|6792072690|Automatic|班主任工作台|❌|❌|❌|班主任工作台|❌|❌|
 |2160|6787737491|Automatic|ProCam MK II - 专业摄影相机|ProCam MK II - 專業相機|ProCam MK II - 專業相機|ProCam MK II - 專業相機|ProCam MK II - Pro Camera|ProCam MK II - Pro Camera|ProCam MK II - Câmera Avançada|
-|2159|6785090016|Automatic|Alpine Quest Nav PRO|Alpine Quest Nav PRO|Alpine Quest Nav PRO|Alpine Quest Nav PRO|Alpine Quest Nav PRO|Alpin Quest PRO: Outdoor GPS|Alpin Quest PRO: Outdoor GPS|
+|2159|6785090016|Automatic|Alpin Quest PRO: Outdoor GPS|Alpin Quest PRO: Outdoor GPS|Alpin Quest PRO: Outdoor GPS|Alpin Quest PRO: Outdoor GPS|Alpin Quest PRO: Outdoor GPS|Alpin Quest PRO: Outdoor GPS|Alpin Quest PRO: Outdoor GPS|
 |2158|625477515|Automatic|❌|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|❌|
 |2157|6785550835|Automatic|LomoHi|LomoHi 菲林相機|LomoHi 菲林相機|LomoHi 菲林相機|LomoHi|LomoHi|LomoHi|
 |2156|6754602459|Automatic|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|

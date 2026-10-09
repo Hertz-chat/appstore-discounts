@@ -2,6 +2,13 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1605445697,
+      "name": {
+        "mo": "空灵鼓-无忧鼓（含钢舌鼓）"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 1057703608,
       "name": {
         "mo": "Gyn Cancer Staging Atlas"

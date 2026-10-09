@@ -8283,7 +8283,7 @@
   {
     "trackId": 1096461203,
     "region": "hk",
-    "timestamp": 1791567503610,
+    "timestamp": 1791583027946,
     "discounts": [],
     "price": 8,
     "formattedPrice": "HK$ 8.00",
@@ -9797,10 +9797,10 @@
   {
     "trackId": 1236657805,
     "region": "hk",
-    "timestamp": 1756541666587,
+    "timestamp": 1791583027946,
     "discounts": [],
-    "price": 18,
-    "formattedPrice": "HK$ 18.00",
+    "price": 22,
+    "formattedPrice": "HK$ 22.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id1236657805",
     "trackName": "Cube CFOP: F2L, OLL & PLL",
@@ -13052,7 +13052,7 @@
   {
     "trackId": 1476509317,
     "region": "hk",
-    "timestamp": 1791567503610,
+    "timestamp": 1791583027946,
     "discounts": [],
     "price": 8,
     "formattedPrice": "HK$ 8.00",
@@ -16549,6 +16549,18 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id1604675493",
     "trackName": "Descenders",
     "firstRecordedAt": 1777371742983
+  },
+  {
+    "trackId": 1605445697,
+    "region": "hk",
+    "timestamp": 1791583027946,
+    "discounts": [],
+    "price": 22,
+    "formattedPrice": "HK$ 22.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1605445697",
+    "trackName": "空灵鼓-无忧鼓（含钢舌鼓）",
+    "firstRecordedAt": 1791583027946
   },
   {
     "trackId": 1605488891,
@@ -25676,7 +25688,7 @@
     "formattedPrice": "HK$ 32.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id6785090016",
-    "trackName": "Alpine Quest Nav PRO",
+    "trackName": "Alpin Quest PRO: Outdoor GPS",
     "firstRecordedAt": 1784860637377
   },
   {

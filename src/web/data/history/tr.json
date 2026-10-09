@@ -96264,6 +96264,29 @@
       ]
     ]
   },
+  "1057703608": {
+    "trackId": 1057703608,
+    "trackName": "Gyn Cancer Staging Atlas",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 999.99,
+      "formattedPrice": "₺999,99"
+    },
+    "minPriceInfo": {
+      "price": 999.99,
+      "formattedPrice": "₺999,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791567503610,
+          "price": 999.99,
+          "formattedPrice": "₺999,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1059218666": {
     "trackId": 1059218666,
     "trackName": "Litchi for DJI Drones",
@@ -121676,17 +121699,25 @@
   },
   "1236657805": {
     "trackId": 1236657805,
-    "trackName": "Cube CFOP",
+    "trackName": "Cube CFOP: F2L, OLL & PLL",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
     },
     "minPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791567503610,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756541666587,
@@ -137068,6 +137099,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791567503610,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "6480心动包": "₺4.999,99",
+            "3280心动包": "₺2.499,99",
+            "1980心动包": "₺1.499,99",
+            "1280心动包": "₺999,99",
+            "980心动包": "₺799,99",
+            "680心动包": "₺499,99",
+            "300心动包": "₺199,99",
+            "180心动包": "₺149,99",
+            "60心动包": "₺39,99",
+            "120心动包": "₺99,99"
+          }
+        },
         {
           "timestamp": 1791539096914,
           "price": 4.99,
@@ -164147,7 +164195,7 @@
       "Shining Obsidian Bundle": "₺2.499,99",
       "Forest Shining Obsidian Bundle": "₺499,99",
       "Snowdrop Valley Obsidian Bundle": "₺499,99",
-      "Kraken Token": "₺129,99",
+      "Kraken Token": "₺149,99",
       "Victorian London Obsidian Tokens": "₺599,99",
       "Diamond Bald Eagle Token": "₺199,99",
       "Diamond Dice": "₺249,99",
@@ -164533,6 +164581,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791567503610,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "The Complete Collection": "₺1.999,99",
+            "The Atlantis Board": "₺399,99",
+            "Ruby Dragon Sale": "₺149,99",
+            "Victorian London Board": "₺399,99",
+            "Welcome Offer": "₺999,99",
+            "Kraken Token": "₺149,99"
+          }
+        },
         {
           "timestamp": 1791506753682,
           "price": 249.99,
@@ -182482,6 +182547,25 @@
       "60元宝": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791567503610,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "终身卡VIP": "₺2.999,99",
+            "终身VIP": "₺2.999,99",
+            "年卡VIP": "₺1.999,99",
+            "月卡VIP": "₺199,99",
+            "880元宝": "₺699,99",
+            "250元宝": "₺199,99",
+            "3880元宝": "₺2.999,99",
+            "2980元宝": "₺1.999,99",
+            "1680元宝": "₺1.299,99",
+            "60元宝": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787620330936,
@@ -283424,7 +283508,7 @@
   },
   "6758324604": {
     "trackId": 6758324604,
-    "trackName": "兒科考一考（香港中醫考牌）",
+    "trackName": "兒科考一考",
     "region": "tr",
     "maxPriceInfo": {
       "price": 249.99,
@@ -286667,7 +286751,7 @@
   },
   "6758929719": {
     "trackId": 6758929719,
-    "trackName": "婦科考一考（香港中醫考牌）",
+    "trackName": "婦科考一考",
     "region": "tr",
     "maxPriceInfo": {
       "price": 249.99,
@@ -291573,7 +291657,7 @@
   },
   "6785090016": {
     "trackId": 6785090016,
-    "trackName": "Alpine Quest Nav PRO",
+    "trackName": "Alpin Quest PRO: Outdoor GPS",
     "region": "tr",
     "maxPriceInfo": {
       "price": 399.99,
@@ -292982,10 +293066,18 @@
       "formattedPrice": "₺249,99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "₺4,99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791567503610,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789314064478,
@@ -293205,7 +293297,7 @@
   },
   "6752662508": {
     "trackId": 6752662508,
-    "trackName": "Footprint|TimeTrails·GPS Route",
+    "trackName": "Footprints·TimeTrails·GPS Log",
     "region": "tr",
     "maxPriceInfo": {
       "price": 49.99,
@@ -294168,6 +294260,23 @@
     "history": [
       [
         {
+          "timestamp": 1791567503610,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Hero Ashbite": "₺399,99",
+            "Tower Alchemist": "₺149,99",
+            "Gems Handful": "₺149,99",
+            "Tower Forger": "₺249,99",
+            "Hero Oni": "₺249,99",
+            "Hero Drakkan": "₺399,99",
+            "Tower Sniper": "₺299,99",
+            "Hero Ignus": "₺149,99",
+            "ALL TOWERS BUNDLE": "₺999,99",
+            "ALL SPELLS BUNDLE": "₺699,99"
+          }
+        },
+        {
           "timestamp": 1791506753682,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -295110,6 +295219,52 @@
           "timestamp": 1791490715855,
           "price": 199.99,
           "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6762412284": {
+    "trackId": 6762412284,
+    "trackName": "Days Anchor - Countdown Events",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791567503610,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6819276809": {
+    "trackId": 6819276809,
+    "trackName": "構造大飯店",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 599.99,
+      "formattedPrice": "₺599,99"
+    },
+    "minPriceInfo": {
+      "price": 599.99,
+      "formattedPrice": "₺599,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791567503610,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
           "inAppPurchases": {}
         }
       ]

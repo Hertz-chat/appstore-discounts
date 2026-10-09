@@ -7713,6 +7713,18 @@
     "notificationDisabled": true
   },
   {
+    "trackId": 1057703608,
+    "region": "mo",
+    "timestamp": 1791567503610,
+    "discounts": [],
+    "price": 19.99,
+    "formattedPrice": "USD 19.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1057703608",
+    "trackName": "Gyn Cancer Staging Atlas",
+    "firstRecordedAt": 1791567503610
+  },
+  {
     "trackId": 1059218666,
     "region": "mo",
     "timestamp": 1745568184983,
@@ -9791,7 +9803,7 @@
     "formattedPrice": "USD 1.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1236657805",
-    "trackName": "Cube CFOP",
+    "trackName": "Cube CFOP: F2L, OLL & PLL",
     "firstRecordedAt": 1756541666587
   },
   {
@@ -10508,10 +10520,10 @@
   {
     "trackId": 1309638846,
     "region": "mo",
-    "timestamp": 1791042403719,
+    "timestamp": 1791567503610,
     "discounts": [],
-    "price": 2.99,
-    "formattedPrice": "USD 2.99",
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1309638846",
     "trackName": "Goodak 底片相機 - 復古即可拍，拍立得膠卷攝影",
@@ -13450,10 +13462,10 @@
   {
     "trackId": 1492049794,
     "region": "mo",
-    "timestamp": 1787620330936,
+    "timestamp": 1791567503610,
     "discounts": [],
-    "price": 0.99,
-    "formattedPrice": "USD 0.99",
+    "price": 0,
+    "formattedPrice": "免費",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1492049794",
     "trackName": "宗師-武林群俠風雲傳",
@@ -14123,7 +14135,7 @@
   {
     "trackId": 1517281147,
     "region": "mo",
-    "timestamp": 1779220780927,
+    "timestamp": 1791567503610,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -23360,7 +23372,7 @@
     "formattedPrice": "USD 0.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6752662508",
-    "trackName": "足跡|TimeTrails·每日軌跡·記錄一生軌跡·GPS",
+    "trackName": "足跡·TimeTrails·每日軌跡·記錄一生軌跡·GPS",
     "firstRecordedAt": 1788345787844
   },
   {
@@ -24205,7 +24217,7 @@
     "formattedPrice": "USD 4.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6758324604",
-    "trackName": "兒科考一考（香港中醫考牌）",
+    "trackName": "兒科考一考",
     "firstRecordedAt": 1770124668070
   },
   {
@@ -24397,7 +24409,7 @@
     "formattedPrice": "USD 4.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6758929719",
-    "trackName": "婦科考一考（香港中醫考牌）",
+    "trackName": "婦科考一考",
     "firstRecordedAt": 1776693666284
   },
   {
@@ -25047,6 +25059,18 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id6762336561",
     "trackName": "Parallax Monitor",
     "firstRecordedAt": 1783249446065
+  },
+  {
+    "trackId": 6762412284,
+    "region": "mo",
+    "timestamp": 1791567503610,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6762412284",
+    "trackName": "Days Anchor - Countdown Events",
+    "firstRecordedAt": 1791567503610
   },
   {
     "trackId": 6762582312,
@@ -25989,10 +26013,10 @@
   {
     "trackId": 6802565793,
     "region": "mo",
-    "timestamp": 1789314064478,
+    "timestamp": 1791567503610,
     "discounts": [],
-    "price": 4.99,
-    "formattedPrice": "USD 4.99",
+    "price": 0,
+    "formattedPrice": "免費",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6802565793",
     "trackName": "我不想当班主任-班主任工作台&教师工作台&班级管理",
@@ -26129,5 +26153,17 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id6812927976",
     "trackName": "Enchanted Survival: 刷寶RPG",
     "firstRecordedAt": 1791490715855
+  },
+  {
+    "trackId": 6819276809,
+    "region": "mo",
+    "timestamp": 1791567503610,
+    "discounts": [],
+    "price": 11.99,
+    "formattedPrice": "USD 11.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6819276809",
+    "trackName": "構造大飯店",
+    "firstRecordedAt": 1791567503610
   }
 ]

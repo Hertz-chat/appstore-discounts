@@ -7809,6 +7809,18 @@
     "notificationDisabled": true
   },
   {
+    "trackId": 1057703608,
+    "region": "us",
+    "timestamp": 1791567503610,
+    "discounts": [],
+    "price": 19.99,
+    "formattedPrice": "$19.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1057703608",
+    "trackName": "Gyn Cancer Staging Atlas",
+    "firstRecordedAt": 1791567503610
+  },
+  {
     "trackId": 1059218666,
     "region": "us",
     "timestamp": 1745568184983,
@@ -9856,13 +9868,13 @@
   {
     "trackId": 1236657805,
     "region": "us",
-    "timestamp": 1756541666587,
+    "timestamp": 1791567503610,
     "discounts": [],
-    "price": 1.99,
-    "formattedPrice": "$1.99",
+    "price": 2.99,
+    "formattedPrice": "$2.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1236657805",
-    "trackName": "Cube CFOP",
+    "trackName": "Cube CFOP: F2L, OLL & PLL",
     "firstRecordedAt": 1756541666587
   },
   {
@@ -13472,10 +13484,10 @@
   {
     "trackId": 1492049794,
     "region": "us",
-    "timestamp": 1787620330936,
+    "timestamp": 1791567503610,
     "discounts": [],
-    "price": 0.99,
-    "formattedPrice": "$0.99",
+    "price": 0,
+    "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1492049794",
     "trackName": "宗师-武林风云传",
@@ -23159,7 +23171,7 @@
     "formattedPrice": "$0.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6752662508",
-    "trackName": "Footprint|TimeTrails·GPS Route",
+    "trackName": "Footprints·TimeTrails·GPS Log",
     "firstRecordedAt": 1788345787844
   },
   {
@@ -23987,7 +23999,7 @@
     "formattedPrice": "$4.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6758324604",
-    "trackName": "兒科考一考（香港中醫考牌）",
+    "trackName": "兒科考一考",
     "firstRecordedAt": 1770124668070
   },
   {
@@ -24179,7 +24191,7 @@
     "formattedPrice": "$4.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6758929719",
-    "trackName": "婦科考一考（香港中醫考牌）",
+    "trackName": "婦科考一考",
     "firstRecordedAt": 1776693666284
   },
   {
@@ -24353,7 +24365,7 @@
   {
     "trackId": 6759664029,
     "region": "us",
-    "timestamp": 1791506753682,
+    "timestamp": 1791567503610,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "$6.99",
@@ -24841,6 +24853,18 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id6762336561",
     "trackName": "Parallax Monitor",
     "firstRecordedAt": 1783249446065
+  },
+  {
+    "trackId": 6762412284,
+    "region": "us",
+    "timestamp": 1791567503610,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6762412284",
+    "trackName": "Days Anchor - Countdown Events",
+    "firstRecordedAt": 1791567503610
   },
   {
     "trackId": 6762582312,
@@ -25783,10 +25807,10 @@
   {
     "trackId": 6802565793,
     "region": "us",
-    "timestamp": 1789314064478,
+    "timestamp": 1791567503610,
     "discounts": [],
-    "price": 4.99,
-    "formattedPrice": "$4.99",
+    "price": 0,
+    "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6802565793",
     "trackName": "我不想当班主任-班主任工作台&教师工作台&班级管理",
@@ -25923,5 +25947,17 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id6812927976",
     "trackName": "Enchanted Survival: Magic RPG",
     "firstRecordedAt": 1791490715855
+  },
+  {
+    "trackId": 6819276809,
+    "region": "us",
+    "timestamp": 1791567503610,
+    "discounts": [],
+    "price": 11.99,
+    "formattedPrice": "$11.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6819276809",
+    "trackName": "構造大飯店",
+    "firstRecordedAt": 1791567503610
   }
 ]

@@ -75879,6 +75879,29 @@
       ]
     ]
   },
+  "1057703608": {
+    "trackId": 1057703608,
+    "trackName": "Gyn Cancer Staging Atlas",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "USD 19.99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "USD 19.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791567503610,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1059218666": {
     "trackId": 1059218666,
     "trackName": "Litchi for DJI Drones",
@@ -95108,7 +95131,7 @@
   },
   "1236657805": {
     "trackId": 1236657805,
-    "trackName": "Cube CFOP",
+    "trackName": "Cube CFOP: F2L, OLL & PLL",
     "region": "mo",
     "maxPriceInfo": {
       "price": 1.99,
@@ -104122,6 +104145,25 @@
       "Black Cam Film Pack": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791567503610,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Design Frame Package": "USD 0.99",
+            "Social Frame Package": "USD 0.99",
+            "Magazine Frame Package": "USD 0.99",
+            "Black Frame Pack": "USD 0.99",
+            "Geometric Frame Pack": "USD 0.99",
+            "Stamp Frame Pack": "USD 0.99",
+            "Retro Frame Pack": "USD 0.99",
+            "Stroke Frame Pack": "USD 0.99",
+            "Color Frame Pack": "USD 0.99",
+            "Upgrade Deluxe Edition": "USD 5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791042403719,
@@ -136246,6 +136288,25 @@
     "history": [
       [
         {
+          "timestamp": 1791567503610,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "880元宝": "USD 12.99",
+            "终身卡VIP": "USD 59.99",
+            "月卡VIP": "USD 3.99",
+            "250元宝": "USD 3.99",
+            "1680元宝": "USD 24.99",
+            "终身VIP": "USD 59.99",
+            "年卡VIP": "USD 34.99",
+            "3880元宝": "USD 59.99",
+            "2980元宝": "USD 39.99",
+            "60元宝": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787620330936,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -139465,6 +139526,14 @@
       "Planetary Hours Pro Monthly": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791567503610,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1779220780927,
@@ -203944,7 +204013,7 @@
   },
   "6758324604": {
     "trackId": 6758324604,
-    "trackName": "兒科考一考（香港中醫考牌）",
+    "trackName": "兒科考一考",
     "region": "mo",
     "maxPriceInfo": {
       "price": 4.99,
@@ -207200,7 +207269,7 @@
   },
   "6758929719": {
     "trackId": 6758929719,
-    "trackName": "婦科考一考（香港中醫考牌）",
+    "trackName": "婦科考一考",
     "region": "mo",
     "maxPriceInfo": {
       "price": 4.99,
@@ -213540,10 +213609,18 @@
       "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791567503610,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789314064478,
@@ -213763,7 +213840,7 @@
   },
   "6752662508": {
     "trackId": 6752662508,
-    "trackName": "足跡|TimeTrails·每日軌跡·記錄一生軌跡·GPS",
+    "trackName": "足跡·TimeTrails·每日軌跡·記錄一生軌跡·GPS",
     "region": "mo",
     "maxPriceInfo": {
       "price": 0.99,
@@ -215071,6 +215148,52 @@
           "timestamp": 1791490715855,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6762412284": {
+    "trackId": 6762412284,
+    "trackName": "Days Anchor - Countdown Events",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791567503610,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6819276809": {
+    "trackId": 6819276809,
+    "trackName": "構造大飯店",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 11.99,
+      "formattedPrice": "USD 11.99"
+    },
+    "minPriceInfo": {
+      "price": 11.99,
+      "formattedPrice": "USD 11.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791567503610,
+          "price": 11.99,
+          "formattedPrice": "USD 11.99",
           "inAppPurchases": {}
         }
       ]

@@ -10473,7 +10473,8 @@
       "Gottschalk: The Mutopia Collection": "$0.00",
       "Verdi: The Mutopia Collection": "$0.00",
       "Sousa: The Mutopia Collection": "$0.00",
-      "Beethoven: The Mutopia Collection": "$30.00"
+      "Beethoven: The Mutopia Collection": "$30.00",
+      "Chopin: The Mutopia Collection": "$30.00"
     },
     "minPriceInfo": {
       "price": 790,
@@ -10501,9 +10502,29 @@
       "Gottschalk: The Mutopia Collection": "$0.00",
       "Verdi: The Mutopia Collection": "$0.00",
       "Sousa: The Mutopia Collection": "$0.00",
-      "Beethoven: The Mutopia Collection": "$30.00"
+      "Beethoven: The Mutopia Collection": "$30.00",
+      "Chopin: The Mutopia Collection": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791567503610,
+          "price": 790,
+          "formattedPrice": "$790.00",
+          "inAppPurchases": {
+            "forScore Pro": "$490.00",
+            "Brahms: The Mutopia Collection": "$0.00",
+            "Liszt: The Mutopia Collection": "$0.00",
+            "Schumann: The Mutopia Collection": "$0.00",
+            "Tchaikovsky: The Mutopia Collection": "$0.00",
+            "forScore Pro 30-Day Pass": "$90.00",
+            "Burgmüller: The Mutopia Collection": "$0.00",
+            "Satie: The Mutopia Collection": "$0.00",
+            "Chopin: The Mutopia Collection": "$30.00",
+            "Haydn: The Mutopia Collection": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791025831979,
@@ -66428,6 +66449,25 @@
     "history": [
       [
         {
+          "timestamp": 1791567503610,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "1210 Diamonds": "$320.00",
+            "14000 Coins": "$150.00",
+            "5000 Coins": "$60.00",
+            "580 Diamonds": "$150.00",
+            "15500 Diamonds": "$2,990.00",
+            "3200 Diamonds": "$790.00",
+            "220 Diamonds": "$60.00",
+            "450000 Coins": "$2,990.00",
+            "82000 Coins": "$790.00",
+            "30000 Coins": "$320.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791539096914,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -96960,6 +97000,29 @@
       ]
     ]
   },
+  "1057703608": {
+    "trackId": 1057703608,
+    "trackName": "Gyn Cancer Staging Atlas",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 690,
+      "formattedPrice": "$690.00"
+    },
+    "minPriceInfo": {
+      "price": 690,
+      "formattedPrice": "$690.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791567503610,
+          "price": 690,
+          "formattedPrice": "$690.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1059218666": {
     "trackId": 1059218666,
     "trackName": "Litchi for DJI Drones",
@@ -122729,17 +122792,25 @@
   },
   "1236657805": {
     "trackId": 1236657805,
-    "trackName": "Cube CFOP",
+    "trackName": "Cube CFOP: F2L, OLL & PLL",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00"
+      "price": 90,
+      "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
       "price": 60,
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791567503610,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756541666587,
@@ -133820,6 +133891,25 @@
       "Geometric Frame Pack": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791567503610,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$190.00",
+            "Retro Frame Pack": "$30.00",
+            "Color Frame Pack": "$30.00",
+            "Stroke Frame Pack": "$30.00",
+            "Blue Cam Film Pack": "$30.00",
+            "Black Cam Film Pack": "$30.00",
+            "Purple Cam Film Pack": "$30.00",
+            "Stamp Frame Pack": "$30.00",
+            "Green Cam Film Pack": "$30.00",
+            "Red Cam Film Pack": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791042403719,
@@ -185155,6 +185245,25 @@
       "年卡VIP": "$1,190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791567503610,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "60元宝": "$30.00",
+            "1680元宝": "$790.00",
+            "2980元宝": "$1,290.00",
+            "3880元宝": "$1,990.00",
+            "250元宝": "$120.00",
+            "880元宝": "$390.00",
+            "月卡VIP": "$120.00",
+            "年卡VIP": "$1,190.00",
+            "终身VIP": "$1,990.00",
+            "终身卡VIP": "$1,990.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787620330936,
@@ -284106,6 +284215,25 @@
     "history": [
       [
         {
+          "timestamp": 1791567503610,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "12.99美元商品2": "$390.00",
+            "19.99美元商品": "$690.00",
+            "39.99美元商品": "$1,290.00",
+            "12.99美元商品": "$390.00",
+            "49.99美元商品": "$1,490.00",
+            "3.99美元商品2": "$120.00",
+            "14.99美元商品": "$490.00",
+            "99.99美元商品": "$2,990.00",
+            "29.99美元商品": "$990.00",
+            "8.99美元商品": "$290.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789992373756,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -304787,7 +304915,7 @@
   },
   "6758324604": {
     "trackId": 6758324604,
-    "trackName": "兒科考一考（香港中醫考牌）",
+    "trackName": "兒科考一考",
     "region": "tw",
     "maxPriceInfo": {
       "price": 150,
@@ -308718,7 +308846,7 @@
   },
   "6758929719": {
     "trackId": 6758929719,
-    "trackName": "婦科考一考（香港中醫考牌）",
+    "trackName": "婦科考一考",
     "region": "tw",
     "maxPriceInfo": {
       "price": 150,
@@ -315390,10 +315518,18 @@
       "formattedPrice": "$150.00"
     },
     "minPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791567503610,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789314064478,
@@ -315613,7 +315749,7 @@
   },
   "6752662508": {
     "trackId": 6752662508,
-    "trackName": "足跡|TimeTrails·每日軌跡·記錄一生軌跡·GPS",
+    "trackName": "足跡·TimeTrails·每日軌跡·記錄一生軌跡·GPS",
     "region": "tw",
     "maxPriceInfo": {
       "price": 30,
@@ -317149,14 +317285,22 @@
     "trackName": "Enchanted Survival: 刷寶RPG",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 60,
+      "formattedPrice": "$60.00"
     },
     "minPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791567503610,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791490715855,
@@ -317185,6 +317329,52 @@
           "timestamp": 1791490715855,
           "price": 120,
           "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6762412284": {
+    "trackId": 6762412284,
+    "trackName": "Days Anchor - Countdown Events",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791567503610,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6819276809": {
+    "trackId": 6819276809,
+    "trackName": "構造大飯店",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 390,
+      "formattedPrice": "$390.00"
+    },
+    "minPriceInfo": {
+      "price": 390,
+      "formattedPrice": "$390.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791567503610,
+          "price": 390,
+          "formattedPrice": "$390.00",
           "inAppPurchases": {}
         }
       ]

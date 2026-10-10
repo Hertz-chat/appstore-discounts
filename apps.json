@@ -2,23 +2,16 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
-      "id": 6737783441,
-      "name": "(Not Boring) Camera"
-    },
-    {
-      "id": 1549615527,
-      "name": {
-        "cn": "咪莫-打破次元壁密室解谜"
-      }
-    },
-    {
-      "id": 6757261839,
-      "name": "CapWorld 单词相机"
-    },
-    {
       "id": 1605445697,
       "name": {
         "mo": "空灵鼓-无忧鼓（含钢舌鼓）"
+      },
+      "addType": "auto"
+    },
+    {
+      "id": 6819276809,
+      "name": {
+        "tw": "構造大飯店"
       },
       "addType": "auto"
     },
@@ -33,13 +26,6 @@
       "id": 6762412284,
       "name": {
         "mo": "Days Anchor - Countdown Events"
-      },
-      "addType": "auto"
-    },
-    {
-      "id": 6819276809,
-      "name": {
-        "tw": "構造大飯店"
       },
       "addType": "auto"
     },
@@ -65,9 +51,37 @@
       "addType": "auto"
     },
     {
+      "id": 396351547,
+      "name": {
+        "mo": "Where's my MBTA Bus?"
+      },
+      "addType": "auto"
+    },
+    {
+      "id": 6737783441,
+      "name": "(Not Boring) Camera"
+    },
+    {
+      "id": 1549615527,
+      "name": {
+        "cn": "咪莫-打破次元壁密室解谜"
+      }
+    },
+    {
+      "id": 6757261839,
+      "name": "CapWorld 单词相机"
+    },
+    {
       "id": 664972496,
       "name": {
         "mo": "Tilt to Live 2: Redonkulous"
+      },
+      "addType": "auto"
+    },
+    {
+      "id": 6761963228,
+      "name": {
+        "mo": "国学日历"
       },
       "addType": "auto"
     },

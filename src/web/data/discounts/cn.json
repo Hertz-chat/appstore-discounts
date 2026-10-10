@@ -2,7 +2,7 @@
   {
     "trackId": 1309638846,
     "region": "cn",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [
       {
         "type": "price",
@@ -22,7 +22,7 @@
   {
     "trackId": 1492049794,
     "region": "cn",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [
       {
         "type": "price",
@@ -42,7 +42,7 @@
   {
     "trackId": 6802565793,
     "region": "cn",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [
       {
         "type": "price",
@@ -62,7 +62,7 @@
   {
     "trackId": 1524418421,
     "region": "cn",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [
       {
         "type": "price",
@@ -82,7 +82,7 @@
   {
     "trackId": 1534488108,
     "region": "cn",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [
       {
         "type": "price",
@@ -102,7 +102,7 @@
   {
     "trackId": 1561849298,
     "region": "cn",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [
       {
         "type": "price",
@@ -122,7 +122,7 @@
   {
     "trackId": 1626320298,
     "region": "cn",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [
       {
         "type": "price",
@@ -142,7 +142,7 @@
   {
     "trackId": 1665759338,
     "region": "cn",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [
       {
         "type": "price",
@@ -162,7 +162,7 @@
   {
     "trackId": 857607006,
     "region": "cn",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [
       {
         "type": "price",
@@ -182,7 +182,7 @@
   {
     "trackId": 1344655035,
     "region": "cn",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [
       {
         "type": "price",
@@ -200,29 +200,9 @@
     "firstRecordedAt": 1721960142187
   },
   {
-    "trackId": 1160943124,
-    "region": "cn",
-    "timestamp": 1791369813838,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "¥8.00",
-        "to": "免费",
-        "range": "[免费 ~ ¥15.00]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "免费",
-    "currency": "CNY",
-    "trackViewUrl": "https://apps.apple.com/cn/app/id1160943124",
-    "trackName": "听写文本：语音识别",
-    "firstRecordedAt": 1752329477829
-  },
-  {
     "trackId": 1481100296,
     "region": "cn",
-    "timestamp": 1791369813838,
+    "timestamp": 1791332575449,
     "discounts": [
       {
         "type": "price",
@@ -238,6 +218,26 @@
     "trackViewUrl": "https://apps.apple.com/cn/app/id1481100296",
     "trackName": "BreatheIn: Calm Breathing",
     "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 1160943124,
+    "region": "cn",
+    "timestamp": 1791316756993,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥8.00",
+        "to": "免费",
+        "range": "[免费 ~ ¥15.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1160943124",
+    "trackName": "听写文本：语音识别",
+    "firstRecordedAt": 1752329477829
   },
   {
     "trackId": 1630541373,

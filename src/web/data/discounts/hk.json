@@ -2,7 +2,7 @@
   {
     "trackId": 1309638846,
     "region": "hk",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [
       {
         "type": "price",
@@ -22,7 +22,7 @@
   {
     "trackId": 1492049794,
     "region": "hk",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [
       {
         "type": "price",
@@ -42,7 +42,7 @@
   {
     "trackId": 6802565793,
     "region": "hk",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [
       {
         "type": "price",
@@ -62,7 +62,7 @@
   {
     "trackId": 966489322,
     "region": "hk",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [
       {
         "type": "inAppPurchase",
@@ -82,7 +82,7 @@
   {
     "trackId": 1524418421,
     "region": "hk",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [
       {
         "type": "price",
@@ -102,7 +102,7 @@
   {
     "trackId": 1534488108,
     "region": "hk",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [
       {
         "type": "price",
@@ -122,7 +122,7 @@
   {
     "trackId": 1561849298,
     "region": "hk",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [
       {
         "type": "price",
@@ -142,7 +142,7 @@
   {
     "trackId": 1580067723,
     "region": "hk",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [
       {
         "type": "price",
@@ -162,7 +162,7 @@
   {
     "trackId": 1664728315,
     "region": "hk",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [
       {
         "type": "price",
@@ -182,7 +182,7 @@
   {
     "trackId": 6459581344,
     "region": "hk",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [
       {
         "type": "price",
@@ -202,7 +202,7 @@
   {
     "trackId": 6762582312,
     "region": "hk",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [
       {
         "type": "price",
@@ -222,7 +222,7 @@
   {
     "trackId": 469343554,
     "region": "hk",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [
       {
         "type": "price",
@@ -242,7 +242,7 @@
   {
     "trackId": 882362024,
     "region": "hk",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [
       {
         "type": "price",
@@ -283,7 +283,7 @@
   {
     "trackId": 1136993233,
     "region": "hk",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [
       {
         "type": "price",
@@ -310,7 +310,7 @@
   {
     "trackId": 1239299402,
     "region": "hk",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [
       {
         "type": "price",
@@ -330,7 +330,7 @@
   {
     "trackId": 1621065119,
     "region": "hk",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [
       {
         "type": "price",
@@ -350,7 +350,7 @@
   {
     "trackId": 6446021269,
     "region": "hk",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [
       {
         "type": "price",
@@ -370,7 +370,7 @@
   {
     "trackId": 857607006,
     "region": "hk",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [
       {
         "type": "price",
@@ -390,7 +390,7 @@
   {
     "trackId": 1435461053,
     "region": "hk",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [
       {
         "type": "price",
@@ -410,7 +410,7 @@
   {
     "trackId": 1537060891,
     "region": "hk",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [
       {
         "type": "price",
@@ -430,7 +430,7 @@
   {
     "trackId": 6754894237,
     "region": "hk",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [
       {
         "type": "price",
@@ -450,7 +450,7 @@
   {
     "trackId": 6762803589,
     "region": "hk",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [
       {
         "type": "price",
@@ -468,9 +468,29 @@
     "firstRecordedAt": 1787131983558
   },
   {
+    "trackId": 1481100296,
+    "region": "hk",
+    "timestamp": 1791332575449,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 58.00",
+        "to": "HK$ 8.00",
+        "range": "[免費 ~ HK$ 58.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1481100296",
+    "trackName": "BreatheIn: Calm Breathing",
+    "firstRecordedAt": 1722784406759
+  },
+  {
     "trackId": 983143183,
     "region": "hk",
-    "timestamp": 1791369813838,
+    "timestamp": 1791316756993,
     "discounts": [
       {
         "type": "price",
@@ -490,7 +510,7 @@
   {
     "trackId": 1160943124,
     "region": "hk",
-    "timestamp": 1791369813838,
+    "timestamp": 1791316756993,
     "discounts": [
       {
         "type": "price",
@@ -508,29 +528,9 @@
     "firstRecordedAt": 1752329477829
   },
   {
-    "trackId": 1481100296,
-    "region": "hk",
-    "timestamp": 1791369813838,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "HK$ 58.00",
-        "to": "HK$ 8.00",
-        "range": "[免費 ~ HK$ 58.00]"
-      }
-    ],
-    "price": 8,
-    "formattedPrice": "HK$ 8.00",
-    "currency": "HKD",
-    "trackViewUrl": "https://apps.apple.com/hk/app/id1481100296",
-    "trackName": "BreatheIn: Calm Breathing",
-    "firstRecordedAt": 1722784406759
-  },
-  {
     "trackId": 6778029370,
     "region": "hk",
-    "timestamp": 1791369813838,
+    "timestamp": 1791316756993,
     "discounts": [
       {
         "type": "price",

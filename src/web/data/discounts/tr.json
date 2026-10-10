@@ -2,7 +2,7 @@
   {
     "trackId": 1309638846,
     "region": "tr",
-    "timestamp": 1791601361280,
+    "timestamp": 1791585205739,
     "discounts": [
       {
         "type": "price",
@@ -22,7 +22,7 @@
   {
     "trackId": 1492049794,
     "region": "tr",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [
       {
         "type": "price",
@@ -42,7 +42,7 @@
   {
     "trackId": 6802565793,
     "region": "tr",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [
       {
         "type": "price",
@@ -62,7 +62,7 @@
   {
     "trackId": 1524418421,
     "region": "tr",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [
       {
         "type": "price",
@@ -82,7 +82,7 @@
   {
     "trackId": 1534488108,
     "region": "tr",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [
       {
         "type": "price",
@@ -102,7 +102,7 @@
   {
     "trackId": 1561849298,
     "region": "tr",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [
       {
         "type": "price",
@@ -122,7 +122,7 @@
   {
     "trackId": 1580067723,
     "region": "tr",
-    "timestamp": 1791506753682,
+    "timestamp": 1791507612931,
     "discounts": [
       {
         "type": "price",
@@ -142,7 +142,7 @@
   {
     "trackId": 1664728315,
     "region": "tr",
-    "timestamp": 1791506753682,
+    "timestamp": 1791507612931,
     "discounts": [
       {
         "type": "price",
@@ -162,7 +162,7 @@
   {
     "trackId": 6459581344,
     "region": "tr",
-    "timestamp": 1791506753682,
+    "timestamp": 1791507612931,
     "discounts": [
       {
         "type": "price",
@@ -182,7 +182,7 @@
   {
     "trackId": 882362024,
     "region": "tr",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [
       {
         "type": "price",
@@ -223,7 +223,7 @@
   {
     "trackId": 1136993233,
     "region": "tr",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [
       {
         "type": "price",
@@ -250,7 +250,7 @@
   {
     "trackId": 1239299402,
     "region": "tr",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [
       {
         "type": "price",
@@ -270,7 +270,7 @@
   {
     "trackId": 1621065119,
     "region": "tr",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [
       {
         "type": "price",
@@ -290,7 +290,7 @@
   {
     "trackId": 6446021269,
     "region": "tr",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [
       {
         "type": "price",
@@ -310,7 +310,7 @@
   {
     "trackId": 777310222,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [
       {
         "type": "inAppPurchase",
@@ -330,7 +330,7 @@
   {
     "trackId": 857607006,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [
       {
         "type": "price",
@@ -350,7 +350,7 @@
   {
     "trackId": 1435461053,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [
       {
         "type": "price",
@@ -370,7 +370,7 @@
   {
     "trackId": 1537060891,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [
       {
         "type": "price",
@@ -390,7 +390,7 @@
   {
     "trackId": 6754894237,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [
       {
         "type": "price",
@@ -410,7 +410,7 @@
   {
     "trackId": 6762803589,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [
       {
         "type": "price",
@@ -430,7 +430,7 @@
   {
     "trackId": 640364616,
     "region": "tr",
-    "timestamp": 1791369813838,
+    "timestamp": 1791332575449,
     "discounts": [
       {
         "type": "price",
@@ -448,29 +448,9 @@
     "firstRecordedAt": 1745328692670
   },
   {
-    "trackId": 777310222,
-    "region": "tr",
-    "timestamp": 1791369813838,
-    "discounts": [
-      {
-        "type": "inAppPurchase",
-        "name": "Auto Sync",
-        "from": "₺499,99",
-        "to": "₺2.999,99",
-        "range": "[₺449,99 ~ ₺2.999,99]"
-      }
-    ],
-    "price": 399.99,
-    "formattedPrice": "₺399,99",
-    "currency": "TRY",
-    "trackViewUrl": "https://apps.apple.com/tr/app/id777310222",
-    "trackName": "GoodReader PDF Editor & Viewer",
-    "firstRecordedAt": 1745328692670
-  },
-  {
     "trackId": 983143183,
     "region": "tr",
-    "timestamp": 1791369813838,
+    "timestamp": 1791332575449,
     "discounts": [
       {
         "type": "price",
@@ -488,29 +468,9 @@
     "firstRecordedAt": 1746847016133
   },
   {
-    "trackId": 1160943124,
-    "region": "tr",
-    "timestamp": 1791369813838,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "₺49,99",
-        "to": "Free",
-        "range": "[Free ~ ₺99,99]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "Free",
-    "currency": "TRY",
-    "trackViewUrl": "https://apps.apple.com/tr/app/id1160943124",
-    "trackName": "Speech to Text : Voice to Text",
-    "firstRecordedAt": 1752329477829
-  },
-  {
     "trackId": 1481100296,
     "region": "tr",
-    "timestamp": 1791369813838,
+    "timestamp": 1791332575449,
     "discounts": [
       {
         "type": "price",
@@ -530,7 +490,7 @@
   {
     "trackId": 6778029370,
     "region": "tr",
-    "timestamp": 1791369813838,
+    "timestamp": 1791332575449,
     "discounts": [
       {
         "type": "price",
@@ -546,6 +506,46 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6778029370",
     "trackName": "Order Automatica",
     "firstRecordedAt": 1788647953625
+  },
+  {
+    "trackId": 777310222,
+    "region": "tr",
+    "timestamp": 1791316756993,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Auto Sync",
+        "from": "₺499,99",
+        "to": "₺2.999,99",
+        "range": "[₺449,99 ~ ₺2.999,99]"
+      }
+    ],
+    "price": 399.99,
+    "formattedPrice": "₺399,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id777310222",
+    "trackName": "GoodReader PDF Editor & Viewer",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1160943124,
+    "region": "tr",
+    "timestamp": 1791316756993,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺49,99",
+        "to": "Free",
+        "range": "[Free ~ ₺99,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1160943124",
+    "trackName": "Speech to Text : Voice to Text",
+    "firstRecordedAt": 1752329477829
   },
   {
     "trackId": 1632719015,

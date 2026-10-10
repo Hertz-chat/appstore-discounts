@@ -146,7 +146,7 @@
   {
     "trackId": 299117180,
     "region": "tr",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 699.99,
     "formattedPrice": "₺699,99",
@@ -1520,7 +1520,7 @@
   {
     "trackId": 390017969,
     "region": "tr",
-    "timestamp": 1791490715855,
+    "timestamp": 1791507612931,
     "discounts": [],
     "price": 399.99,
     "formattedPrice": "₺399,99",
@@ -1672,6 +1672,18 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id396269166",
     "trackName": "The Shadow Sun",
     "firstRecordedAt": 1749741220262
+  },
+  {
+    "trackId": 396351547,
+    "region": "tr",
+    "timestamp": 1791366760269,
+    "discounts": [],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id396351547",
+    "trackName": "Where's my MBTA Bus?",
+    "firstRecordedAt": 1791366760269
   },
   {
     "trackId": 397553707,
@@ -2173,7 +2185,7 @@
   {
     "trackId": 432850619,
     "region": "tr",
-    "timestamp": 1791601361280,
+    "timestamp": 1791606695944,
     "discounts": [],
     "price": 399.99,
     "formattedPrice": "₺399,99",
@@ -2341,7 +2353,7 @@
   {
     "trackId": 449735650,
     "region": "tr",
-    "timestamp": 1791388346947,
+    "timestamp": 1784102929547,
     "discounts": [],
     "price": 99.99,
     "formattedPrice": "₺99,99",
@@ -2704,7 +2716,7 @@
   {
     "trackId": 479516143,
     "region": "tr",
-    "timestamp": 1791429422397,
+    "timestamp": 1791453869385,
     "discounts": [],
     "price": 109,
     "formattedPrice": "₺109,00",
@@ -3776,7 +3788,7 @@
   {
     "trackId": 562989701,
     "region": "tr",
-    "timestamp": 1785862248589,
+    "timestamp": 1791366760269,
     "discounts": [],
     "price": 49.99,
     "formattedPrice": "₺49,99",
@@ -4486,7 +4498,7 @@
   {
     "trackId": 640364616,
     "region": "tr",
-    "timestamp": 1791369813838,
+    "timestamp": 1791332575449,
     "discounts": [],
     "price": 149.99,
     "formattedPrice": "₺149,99",
@@ -4642,14 +4654,14 @@
   {
     "trackId": 664972496,
     "region": "tr",
-    "timestamp": 1791369813838,
+    "timestamp": 1791316756993,
     "discounts": [],
     "price": 149.99,
     "formattedPrice": "₺149,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id664972496",
     "trackName": "Tilt to Live 2: Redonkulous",
-    "firstRecordedAt": 1791369813838
+    "firstRecordedAt": 1791316756993
   },
   {
     "trackId": 665745944,
@@ -4942,7 +4954,7 @@
   {
     "trackId": 700637744,
     "region": "tr",
-    "timestamp": 1791388346947,
+    "timestamp": 1790034627833,
     "discounts": [],
     "price": 99.99,
     "formattedPrice": "₺99,99",
@@ -5038,7 +5050,7 @@
   {
     "trackId": 727544019,
     "region": "tr",
-    "timestamp": 1789314064478,
+    "timestamp": 1791332575449,
     "discounts": [],
     "price": 229.99,
     "formattedPrice": "₺229,99",
@@ -5302,7 +5314,7 @@
   {
     "trackId": 777310222,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 399.99,
     "formattedPrice": "₺399,99",
@@ -5665,7 +5677,7 @@
   {
     "trackId": 857607006,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 99.99,
     "formattedPrice": "₺99,99",
@@ -5762,7 +5774,7 @@
   {
     "trackId": 882362024,
     "region": "tr",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [],
     "price": 20,
     "formattedPrice": "₺20,00",
@@ -6546,7 +6558,7 @@
   {
     "trackId": 946477821,
     "region": "tr",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [],
     "price": 149.99,
     "formattedPrice": "₺149,99",
@@ -7098,7 +7110,7 @@
   {
     "trackId": 983143183,
     "region": "tr",
-    "timestamp": 1791369813838,
+    "timestamp": 1791332575449,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -7688,7 +7700,7 @@
   {
     "trackId": 1044671796,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 199.99,
     "formattedPrice": "₺199,99",
@@ -7761,7 +7773,7 @@
   {
     "trackId": 1055650930,
     "region": "tr",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [],
     "price": 249.99,
     "formattedPrice": "₺249,99",
@@ -7798,14 +7810,14 @@
   {
     "trackId": 1057703608,
     "region": "tr",
-    "timestamp": 1791567503610,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 999.99,
     "formattedPrice": "₺999,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id1057703608",
     "trackName": "Gyn Cancer Staging Atlas",
-    "firstRecordedAt": 1791567503610
+    "firstRecordedAt": 1791540411692
   },
   {
     "trackId": 1059218666,
@@ -8208,7 +8220,7 @@
   {
     "trackId": 1085114709,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1786722657704,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -8702,7 +8714,7 @@
   {
     "trackId": 1118115766,
     "region": "tr",
-    "timestamp": 1791429422397,
+    "timestamp": 1791453869385,
     "discounts": [],
     "price": 399.99,
     "formattedPrice": "₺399,99",
@@ -8895,7 +8907,7 @@
   {
     "trackId": 1136993233,
     "region": "tr",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [],
     "price": 20,
     "formattedPrice": "₺20,00",
@@ -9099,7 +9111,7 @@
   {
     "trackId": 1159700098,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 249.99,
     "formattedPrice": "₺249,99",
@@ -9123,7 +9135,7 @@
   {
     "trackId": 1160943124,
     "region": "tr",
-    "timestamp": 1791369813838,
+    "timestamp": 1791316756993,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -9520,7 +9532,7 @@
   {
     "trackId": 1199912736,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 249.99,
     "formattedPrice": "₺249,99",
@@ -9844,7 +9856,7 @@
   {
     "trackId": 1236657805,
     "region": "tr",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [],
     "price": 149.99,
     "formattedPrice": "₺149,99",
@@ -9893,7 +9905,7 @@
   {
     "trackId": 1239299402,
     "region": "tr",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [],
     "price": 25.99,
     "formattedPrice": "₺25,99",
@@ -10254,7 +10266,7 @@
   {
     "trackId": 1271620263,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 149.99,
     "formattedPrice": "₺149,99",
@@ -10363,7 +10375,7 @@
   {
     "trackId": 1291429551,
     "region": "tr",
-    "timestamp": 1791369813838,
+    "timestamp": 1791332575449,
     "discounts": [],
     "price": 199.99,
     "formattedPrice": "₺199,99",
@@ -10555,7 +10567,7 @@
   {
     "trackId": 1309638846,
     "region": "tr",
-    "timestamp": 1791601361280,
+    "timestamp": 1791585205739,
     "discounts": [],
     "price": 99.99,
     "formattedPrice": "₺99,99",
@@ -10699,7 +10711,7 @@
   {
     "trackId": 1322914367,
     "region": "tr",
-    "timestamp": 1791567503610,
+    "timestamp": 1787928940020,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "₺4,99",
@@ -10975,7 +10987,7 @@
   {
     "trackId": 1353471030,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 499.99,
     "formattedPrice": "₺499,99",
@@ -11205,7 +11217,7 @@
   {
     "trackId": 1380582804,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 149.99,
     "formattedPrice": "₺149,99",
@@ -11469,7 +11481,7 @@
   {
     "trackId": 1410742242,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 499.99,
     "formattedPrice": "₺499,99",
@@ -11517,7 +11529,7 @@
   {
     "trackId": 1422480068,
     "region": "tr",
-    "timestamp": 1791506753682,
+    "timestamp": 1791507612931,
     "discounts": [],
     "price": 390,
     "formattedPrice": "₺390,00",
@@ -11650,7 +11662,7 @@
   {
     "trackId": 1435461053,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 29.99,
     "formattedPrice": "₺29,99",
@@ -11868,7 +11880,7 @@
   {
     "trackId": 1439262206,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 499.99,
     "formattedPrice": "₺499,99",
@@ -12473,7 +12485,7 @@
   {
     "trackId": 1453808408,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 149.99,
     "formattedPrice": "₺149,99",
@@ -12485,7 +12497,7 @@
   {
     "trackId": 1453820315,
     "region": "tr",
-    "timestamp": 1791369813838,
+    "timestamp": 1791332575449,
     "discounts": [],
     "price": 139.99,
     "formattedPrice": "₺139,99",
@@ -12918,7 +12930,7 @@
   {
     "trackId": 1467248737,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 499.99,
     "formattedPrice": "₺499,99",
@@ -13027,7 +13039,7 @@
   {
     "trackId": 1474716211,
     "region": "tr",
-    "timestamp": 1791369813838,
+    "timestamp": 1791332575449,
     "discounts": [],
     "price": 199.99,
     "formattedPrice": "₺199,99",
@@ -13123,7 +13135,7 @@
   {
     "trackId": 1477966166,
     "region": "tr",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [],
     "price": 249.99,
     "formattedPrice": "₺249,99",
@@ -13243,7 +13255,7 @@
   {
     "trackId": 1481100296,
     "region": "tr",
-    "timestamp": 1791369813838,
+    "timestamp": 1791332575449,
     "discounts": [],
     "price": 49.99,
     "formattedPrice": "₺49,99",
@@ -13425,7 +13437,7 @@
   {
     "trackId": 1491530147,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 499.99,
     "formattedPrice": "₺499,99",
@@ -13485,7 +13497,7 @@
   {
     "trackId": 1492049794,
     "region": "tr",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -13833,7 +13845,7 @@
   {
     "trackId": 1504760106,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 49.99,
     "formattedPrice": "₺49,99",
@@ -13977,7 +13989,7 @@
   {
     "trackId": 1511788295,
     "region": "tr",
-    "timestamp": 1791506753682,
+    "timestamp": 1791507612931,
     "discounts": [],
     "price": 499.99,
     "formattedPrice": "₺499,99",
@@ -14134,7 +14146,7 @@
   {
     "trackId": 1517281147,
     "region": "tr",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -14302,7 +14314,7 @@
   {
     "trackId": 1523633394,
     "region": "tr",
-    "timestamp": 1791369813838,
+    "timestamp": 1791332575449,
     "discounts": [],
     "price": 169.99,
     "formattedPrice": "₺169,99",
@@ -14338,7 +14350,7 @@
   {
     "trackId": 1524418421,
     "region": "tr",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 199.99,
     "formattedPrice": "₺199,99",
@@ -14580,7 +14592,7 @@
   {
     "trackId": 1534488108,
     "region": "tr",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 199.99,
     "formattedPrice": "₺199,99",
@@ -14688,7 +14700,7 @@
   {
     "trackId": 1537060891,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 139.99,
     "formattedPrice": "₺139,99",
@@ -15397,7 +15409,7 @@
   {
     "trackId": 1561849298,
     "region": "tr",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 199.99,
     "formattedPrice": "₺199,99",
@@ -15711,7 +15723,7 @@
   {
     "trackId": 1575414319,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 599.99,
     "formattedPrice": "₺599,99",
@@ -15880,7 +15892,7 @@
   {
     "trackId": 1580067723,
     "region": "tr",
-    "timestamp": 1791506753682,
+    "timestamp": 1791507612931,
     "discounts": [],
     "price": 49.99,
     "formattedPrice": "₺49,99",
@@ -15904,7 +15916,7 @@
   {
     "trackId": 1580629864,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 599.99,
     "formattedPrice": "₺599,99",
@@ -16072,7 +16084,7 @@
   {
     "trackId": 1587860402,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 249.99,
     "formattedPrice": "₺249,99",
@@ -16144,7 +16156,7 @@
   {
     "trackId": 1592505377,
     "region": "tr",
-    "timestamp": 1791369813838,
+    "timestamp": 1791316756993,
     "discounts": [],
     "price": 169.99,
     "formattedPrice": "₺169,99",
@@ -16514,18 +16526,6 @@
     "firstRecordedAt": 1777371742983
   },
   {
-    "trackId": 1605445697,
-    "region": "tr",
-    "timestamp": 1791583027946,
-    "discounts": [],
-    "price": 149.99,
-    "formattedPrice": "₺149,99",
-    "currency": "TRY",
-    "trackViewUrl": "https://apps.apple.com/tr/app/id1605445697",
-    "trackName": "空灵鼓-无忧鼓（含钢舌鼓）",
-    "firstRecordedAt": 1791583027946
-  },
-  {
     "trackId": 1605488891,
     "region": "tr",
     "timestamp": 1781864761375,
@@ -16745,7 +16745,7 @@
   {
     "trackId": 1614795077,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 149.99,
     "formattedPrice": "₺149,99",
@@ -16913,7 +16913,7 @@
   {
     "trackId": 1621065119,
     "region": "tr",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [],
     "price": 419,
     "formattedPrice": "₺419,00",
@@ -17082,7 +17082,7 @@
   {
     "trackId": 1630541373,
     "region": "tr",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -17648,7 +17648,7 @@
   {
     "trackId": 1664728315,
     "region": "tr",
-    "timestamp": 1791506753682,
+    "timestamp": 1791507612931,
     "discounts": [],
     "price": 199.99,
     "formattedPrice": "₺199,99",
@@ -17984,7 +17984,7 @@
   {
     "trackId": 6443875944,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 249.99,
     "formattedPrice": "₺249,99",
@@ -18188,7 +18188,7 @@
   {
     "trackId": 6446021269,
     "region": "tr",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [],
     "price": 61.99,
     "formattedPrice": "₺61,99",
@@ -18406,7 +18406,7 @@
   {
     "trackId": 6448928429,
     "region": "tr",
-    "timestamp": 1791506753682,
+    "timestamp": 1791507612931,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -18490,7 +18490,7 @@
   {
     "trackId": 6449233549,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 599.99,
     "formattedPrice": "₺599,99",
@@ -18865,7 +18865,7 @@
   {
     "trackId": 6459581344,
     "region": "tr",
-    "timestamp": 1791506753682,
+    "timestamp": 1791507612931,
     "discounts": [],
     "price": 99.99,
     "formattedPrice": "₺99,99",
@@ -18961,7 +18961,7 @@
   {
     "trackId": 6463616555,
     "region": "tr",
-    "timestamp": 1791369813838,
+    "timestamp": 1791332575449,
     "discounts": [],
     "price": 249.99,
     "formattedPrice": "₺249,99",
@@ -19238,7 +19238,7 @@
   {
     "trackId": 6471594918,
     "region": "tr",
-    "timestamp": 1791369813838,
+    "timestamp": 1791316756993,
     "discounts": [],
     "price": 299.99,
     "formattedPrice": "₺299,99",
@@ -19346,7 +19346,7 @@
   {
     "trackId": 6473001577,
     "region": "tr",
-    "timestamp": 1791583027946,
+    "timestamp": 1791585205739,
     "discounts": [],
     "price": 199.99,
     "formattedPrice": "₺199,99",
@@ -19623,7 +19623,7 @@
   {
     "trackId": 6477541914,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 399.99,
     "formattedPrice": "₺399,99",
@@ -19984,7 +19984,7 @@
   {
     "trackId": 6480501528,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 19.99,
     "formattedPrice": "₺19,99",
@@ -20128,7 +20128,7 @@
   {
     "trackId": 6499431452,
     "region": "tr",
-    "timestamp": 1791369813838,
+    "timestamp": 1791332575449,
     "discounts": [],
     "price": 299.99,
     "formattedPrice": "₺299,99",
@@ -20717,7 +20717,7 @@
   {
     "trackId": 6673906410,
     "region": "tr",
-    "timestamp": 1791369813838,
+    "timestamp": 1791332575449,
     "discounts": [],
     "price": 499.99,
     "formattedPrice": "₺499,99",
@@ -20905,6 +20905,18 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6737512463",
     "trackName": "怦然心动的瞬间-轻科幻真人互动恋爱影游",
     "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6737783441,
+    "region": "tr",
+    "timestamp": 1791568819448,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6737783441",
+    "trackName": "(Not Boring) Camera",
+    "firstRecordedAt": 1791366760269
   },
   {
     "trackId": 6737987084,
@@ -21524,7 +21536,7 @@
   {
     "trackId": 6742472194,
     "region": "tr",
-    "timestamp": 1791369813838,
+    "timestamp": 1791332575449,
     "discounts": [],
     "price": 399.99,
     "formattedPrice": "₺399,99",
@@ -21620,7 +21632,7 @@
   {
     "trackId": 6743021613,
     "region": "tr",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 199.99,
     "formattedPrice": "₺199,99",
@@ -23429,7 +23441,7 @@
   {
     "trackId": 6754894237,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 149.99,
     "formattedPrice": "₺149,99",
@@ -23761,6 +23773,18 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6757187110",
     "trackName": "EKYS Plus",
     "firstRecordedAt": 1770893707294
+  },
+  {
+    "trackId": 6757261839,
+    "region": "tr",
+    "timestamp": 1791366760269,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6757261839",
+    "trackName": "CapWorld 单词相机",
+    "firstRecordedAt": 1791366760269
   },
   {
     "trackId": 6757458905,
@@ -24317,7 +24341,7 @@
   {
     "trackId": 6759664029,
     "region": "tr",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [],
     "price": 399.99,
     "formattedPrice": "₺399,99",
@@ -24497,7 +24521,7 @@
   {
     "trackId": 6760446039,
     "region": "tr",
-    "timestamp": 1791506753682,
+    "timestamp": 1791507612931,
     "discounts": [],
     "price": 149.99,
     "formattedPrice": "₺149,99",
@@ -24617,7 +24641,7 @@
   {
     "trackId": 6760948683,
     "region": "tr",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [],
     "price": 99.99,
     "formattedPrice": "₺99,99",
@@ -24701,7 +24725,7 @@
   {
     "trackId": 6761328517,
     "region": "tr",
-    "timestamp": 1791506753682,
+    "timestamp": 1791507612931,
     "discounts": [],
     "price": 299.99,
     "formattedPrice": "₺299,99",
@@ -24761,7 +24785,7 @@
   {
     "trackId": 6761730635,
     "region": "tr",
-    "timestamp": 1791601361280,
+    "timestamp": 1791585205739,
     "discounts": [],
     "price": 199.99,
     "formattedPrice": "₺199,99",
@@ -24781,6 +24805,18 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6761887952",
     "trackName": "CanonsOfDort",
     "firstRecordedAt": 1789727937882
+  },
+  {
+    "trackId": 6761963228,
+    "region": "tr",
+    "timestamp": 1791316756993,
+    "discounts": [],
+    "price": 39.99,
+    "formattedPrice": "₺39,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6761963228",
+    "trackName": "国学日历",
+    "firstRecordedAt": 1791316756993
   },
   {
     "trackId": 6762279908,
@@ -24833,14 +24869,14 @@
   {
     "trackId": 6762412284,
     "region": "tr",
-    "timestamp": 1791567503610,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 49.99,
     "formattedPrice": "₺49,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6762412284",
     "trackName": "Days Anchor - Countdown Events",
-    "firstRecordedAt": 1791567503610
+    "firstRecordedAt": 1791540411692
   },
   {
     "trackId": 6762582312,
@@ -24881,7 +24917,7 @@
   {
     "trackId": 6762803589,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 99.99,
     "formattedPrice": "₺99,99",
@@ -25157,14 +25193,14 @@
   {
     "trackId": 6775430354,
     "region": "tr",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [],
     "price": 199.99,
     "formattedPrice": "₺199,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6775430354",
     "trackName": "Preserve: Complete Edition",
-    "firstRecordedAt": 1791490715855
+    "firstRecordedAt": 1791484107175
   },
   {
     "trackId": 6776762891,
@@ -25229,7 +25265,7 @@
   {
     "trackId": 6778029370,
     "region": "tr",
-    "timestamp": 1791369813838,
+    "timestamp": 1791332575449,
     "discounts": [],
     "price": 224.99,
     "formattedPrice": "₺224,99",
@@ -25422,7 +25458,7 @@
   {
     "trackId": 6786115854,
     "region": "tr",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 499.99,
     "formattedPrice": "₺499,99",
@@ -25711,7 +25747,7 @@
   {
     "trackId": 6798221075,
     "region": "tr",
-    "timestamp": 1791369813838,
+    "timestamp": 1791366760269,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "₺4,99",
@@ -25783,7 +25819,7 @@
   {
     "trackId": 6801980968,
     "region": "tr",
-    "timestamp": 1791583027946,
+    "timestamp": 1791585205739,
     "discounts": [],
     "price": 99.99,
     "formattedPrice": "₺99,99",
@@ -25807,7 +25843,7 @@
   {
     "trackId": 6802565793,
     "region": "tr",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -25879,7 +25915,7 @@
   {
     "trackId": 6807873317,
     "region": "tr",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [],
     "price": 9.99,
     "formattedPrice": "₺9,99",
@@ -25963,14 +25999,14 @@
   {
     "trackId": 6812927976,
     "region": "tr",
-    "timestamp": 1791490715855,
+    "timestamp": 1791507612931,
     "discounts": [],
     "price": 49.99,
     "formattedPrice": "₺49,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6812927976",
     "trackName": "Enchanted Survival: Magic RPG",
-    "firstRecordedAt": 1791490715855
+    "firstRecordedAt": 1791507612931
   },
   {
     "trackId": 6814047994,
@@ -25987,13 +26023,13 @@
   {
     "trackId": 6819276809,
     "region": "tr",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [],
     "price": 599.99,
     "formattedPrice": "₺599,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6819276809",
     "trackName": "構造大飯店",
-    "firstRecordedAt": 1791567503610
+    "firstRecordedAt": 1791568819448
   }
 ]

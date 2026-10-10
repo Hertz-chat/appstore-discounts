@@ -339,7 +339,7 @@
     "history": [
       [
         {
-          "timestamp": 1791539096914,
+          "timestamp": 1791540411692,
           "price": 12.99,
           "formattedPrice": "USD 12.99",
           "inAppPurchases": {}
@@ -12149,7 +12149,7 @@
     "history": [
       [
         {
-          "timestamp": 1791490715855,
+          "timestamp": 1791507612931,
           "price": 7.99,
           "formattedPrice": "USD 7.99",
           "inAppPurchases": {
@@ -12768,6 +12768,29 @@
       ]
     ]
   },
+  "396351547": {
+    "trackId": 396351547,
+    "trackName": "Where's my MBTA Bus?",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "397553707": {
     "trackId": 397553707,
     "trackName": "德州撲克 - Pokerist Pro",
@@ -13349,42 +13372,6 @@
       "Crystal Ball": "USD 0.99"
     },
     "history": [
-      [
-        {
-          "timestamp": 1791388346947,
-          "price": 2.99,
-          "formattedPrice": "USD 2.99",
-          "inAppPurchases": {
-            "Premium Upgrade Pack": "USD 6.99",
-            "Extreme Map Pack": "USD 1.99",
-            "Rank Up +2 Ranks": "USD 0.99",
-            "Double Cash": "USD 2.99",
-            "Healthy Bananas": "USD 1.99",
-            "Explosive Darts": "USD 1.99",
-            "Double Ranga": "USD 1.99",
-            "Monkey Tycoon": "USD 0.99",
-            "Frag Bombs": "USD 0.99",
-            "Digital Amplification": "USD 0.99"
-          }
-        },
-        {
-          "timestamp": 1791369813838,
-          "price": 2.99,
-          "formattedPrice": "USD 2.99",
-          "inAppPurchases": {
-            "Rank Up +2 Ranks": "USD 0.99",
-            "Double Cash": "USD 2.99",
-            "Healthy Bananas": "USD 1.99",
-            "Explosive Darts": "USD 1.99",
-            "Double Ranga": "USD 1.99",
-            "Monkey Tycoon": "USD 0.99",
-            "Frag Bombs": "USD 0.99",
-            "Digital Amplification": "USD 0.99",
-            "Dreadnought": "USD 0.99",
-            "Crystal Ball": "USD 0.99"
-          }
-        }
-      ],
       [
         {
           "timestamp": 1791059903104,
@@ -22635,7 +22622,7 @@
     "history": [
       [
         {
-          "timestamp": 1791462124844,
+          "timestamp": 1791453869385,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
           "inAppPurchases": {
@@ -26752,6 +26739,78 @@
     "history": [
       [
         {
+          "timestamp": 1791606695944,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Pack of 3 Super Cops": "USD 0.99",
+            "Unlock All Vehicles": "USD 9.99",
+            "Unlock All": "USD 14.99",
+            "Hot Chrome paint job for all vehicles": "USD 2.99",
+            "The Met paint job for all vehicles": "USD 0.99",
+            "East Side paint job for all vehicles": "USD 0.99",
+            "Seoul Rider paint job for all vehicles": "USD 0.99",
+            "Autobahn paint job for all vehicles": "USD 0.99",
+            "Donut Finder": "USD 2.99",
+            "Pack of 50 Super Cops": "USD 12.99"
+          }
+        },
+        {
+          "timestamp": 1791585205739,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Hot Chrome paint job for all vehicles": "USD 2.99",
+            "Seoul Rider paint job for all vehicles": "USD 0.99",
+            "Autobahn paint job for all vehicles": "USD 0.99",
+            "The Met paint job for all vehicles": "USD 0.99",
+            "East Side paint job for all vehicles": "USD 0.99",
+            "Donut Finder": "USD 2.99",
+            "Pack of 50 Super Cops": "USD 12.99",
+            "Pack of 10 Super Cops": "USD 2.99",
+            "Pack of 3 Super Cops": "USD 0.99",
+            "Unlock All Vehicles": "USD 9.99"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Pack of 3 Super Cops": "USD 0.99",
+            "Unlock All Vehicles": "USD 9.99",
+            "Unlock All": "USD 14.99",
+            "Hot Chrome paint job for all vehicles": "USD 2.99",
+            "The Met paint job for all vehicles": "USD 0.99",
+            "East Side paint job for all vehicles": "USD 0.99",
+            "Seoul Rider paint job for all vehicles": "USD 0.99",
+            "Autobahn paint job for all vehicles": "USD 0.99",
+            "Donut Finder": "USD 2.99",
+            "Pack of 50 Super Cops": "USD 12.99"
+          }
+        },
+        {
+          "timestamp": 1791332575449,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Hot Chrome paint job for all vehicles": "USD 2.99",
+            "Seoul Rider paint job for all vehicles": "USD 0.99",
+            "Autobahn paint job for all vehicles": "USD 0.99",
+            "The Met paint job for all vehicles": "USD 0.99",
+            "East Side paint job for all vehicles": "USD 0.99",
+            "Donut Finder": "USD 2.99",
+            "Pack of 50 Super Cops": "USD 12.99",
+            "Pack of 10 Super Cops": "USD 2.99",
+            "Pack of 3 Super Cops": "USD 0.99",
+            "Unlock All Vehicles": "USD 9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784341580677,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -27091,34 +27150,6 @@
       "礼包50币": "USD 9.99"
     },
     "history": [
-      [
-        {
-          "timestamp": 1791539096914,
-          "price": 3.99,
-          "formattedPrice": "USD 3.99",
-          "inAppPurchases": {
-            "115,000 Geniz (58,750 FREE)": "USD 4.99",
-            "80,000 Geniz (35,000 FREE)": "USD 3.99",
-            "50,000 Geniz (16,250 FREE)": "USD 2.99",
-            "30,000 Geniz (7,500 FREE)": "USD 1.99",
-            "11,250 Geniz": "USD 0.99",
-            "礼包65币": "USD 2.99",
-            "礼包40币": "USD 1.99",
-            "礼包15币": "USD 1.99"
-          }
-        },
-        {
-          "timestamp": 1791506753682,
-          "price": 3.99,
-          "formattedPrice": "USD 3.99",
-          "inAppPurchases": {
-            "礼包5币": "USD 0.99",
-            "礼包15币": "USD 1.99",
-            "礼包25币": "USD 5.99",
-            "礼包50币": "USD 9.99"
-          }
-        }
-      ],
       [
         {
           "timestamp": 1791114629972,
@@ -47906,7 +47937,17 @@
       "Mitsubishi 2023": "USD 14.99",
       "FCA 2025": "USD 14.99",
       "Ford 2024 Enhanced": "USD 14.99",
-      "Mazda 2024 Enhanced": "USD 14.99"
+      "Mazda 2024 Enhanced": "USD 14.99",
+      "Ford 1996 Enhanced Diagnostics": "USD 14.99",
+      "Ford 1997 Enhanced Diagnostics": "USD 14.99",
+      "Ford 1998 Enhanced Diagnostics": "USD 14.99",
+      "Ford 1999 Enhanced Diagnostics": "USD 14.99",
+      "Ford 2000 Enhanced Diagnostics": "USD 14.99",
+      "Ford 2001 Enhanced Diagnostics": "USD 14.99",
+      "Ford 2002 Enhanced Diagnostics": "USD 14.99",
+      "Ford 2003 Enhanced Diagnostics": "USD 14.99",
+      "Ford 2004 Enhanced Diagnostics": "USD 14.99",
+      "Ford 2005 Enhanced Diagnostics": "USD 14.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -47920,9 +47961,38 @@
       "Mitsubishi 2023": "USD 14.99",
       "FCA 2025": "USD 14.99",
       "Ford 2024 Enhanced": "USD 14.99",
-      "Mazda 2024 Enhanced": "USD 14.99"
+      "Mazda 2024 Enhanced": "USD 14.99",
+      "Ford 1996 Enhanced Diagnostics": "USD 14.99",
+      "Ford 1997 Enhanced Diagnostics": "USD 14.99",
+      "Ford 1998 Enhanced Diagnostics": "USD 14.99",
+      "Ford 1999 Enhanced Diagnostics": "USD 14.99",
+      "Ford 2000 Enhanced Diagnostics": "USD 14.99",
+      "Ford 2001 Enhanced Diagnostics": "USD 14.99",
+      "Ford 2002 Enhanced Diagnostics": "USD 14.99",
+      "Ford 2003 Enhanced Diagnostics": "USD 14.99",
+      "Ford 2004 Enhanced Diagnostics": "USD 14.99",
+      "Ford 2005 Enhanced Diagnostics": "USD 14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791606695944,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "Ford 1996 Enhanced Diagnostics": "USD 14.99",
+            "Ford 1997 Enhanced Diagnostics": "USD 14.99",
+            "Ford 1998 Enhanced Diagnostics": "USD 14.99",
+            "Ford 1999 Enhanced Diagnostics": "USD 14.99",
+            "Ford 2000 Enhanced Diagnostics": "USD 14.99",
+            "Ford 2001 Enhanced Diagnostics": "USD 14.99",
+            "Ford 2002 Enhanced Diagnostics": "USD 14.99",
+            "Ford 2003 Enhanced Diagnostics": "USD 14.99",
+            "Ford 2004 Enhanced Diagnostics": "USD 14.99",
+            "Ford 2005 Enhanced Diagnostics": "USD 14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791207805972,
@@ -48182,7 +48252,7 @@
     "history": [
       [
         {
-          "timestamp": 1791369813838,
+          "timestamp": 1791316756993,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
           "inAppPurchases": {
@@ -54165,7 +54235,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
           "inAppPurchases": {
@@ -54174,9 +54244,11 @@
             "Auto Sync": "USD 59.99",
             "Pro Pack (monthly)": "USD 3.99"
           }
-        },
+        }
+      ],
+      [
         {
-          "timestamp": 1791369813838,
+          "timestamp": 1791316756993,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
           "inAppPurchases": {
@@ -55501,7 +55573,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
           "inAppPurchases": {}
@@ -57142,7 +57214,7 @@
     "history": [
       [
         {
-          "timestamp": 1791462124844,
+          "timestamp": 1791453869385,
           "price": 0.49,
           "formattedPrice": "USD 0.49",
           "inAppPurchases": {
@@ -59682,6 +59754,42 @@
       "第03課教學影片": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "第01~12課教學影片合購": "USD 8.99",
+            "第12課教學影片": "USD 0.99",
+            "第11課教學影片": "USD 0.99",
+            "第10課教學影片": "USD 0.99",
+            "第09課教學影片": "USD 0.99",
+            "第08課教學影片": "USD 0.99",
+            "第07課教學影片": "USD 0.99",
+            "第06課教學影片": "USD 0.99",
+            "第05課教學影片": "USD 0.99",
+            "第04課教學影片": "USD 0.99"
+          }
+        },
+        {
+          "timestamp": 1791332575449,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "第12課教學影片": "USD 0.99",
+            "第11課教學影片": "USD 0.99",
+            "第10課教學影片": "USD 0.99",
+            "第09課教學影片": "USD 0.99",
+            "第08課教學影片": "USD 0.99",
+            "第07課教學影片": "USD 0.99",
+            "第06課教學影片": "USD 0.99",
+            "第05課教學影片": "USD 0.99",
+            "第04課教學影片": "USD 0.99",
+            "第03課教學影片": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -64107,7 +64215,7 @@
     "history": [
       [
         {
-          "timestamp": 1791490715855,
+          "timestamp": 1791484107175,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
@@ -68594,7 +68702,7 @@
     "history": [
       [
         {
-          "timestamp": 1791369813838,
+          "timestamp": 1791316756993,
           "price": 0,
           "formattedPrice": "免費",
           "inAppPurchases": {
@@ -73106,7 +73214,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
           "inAppPurchases": {}
@@ -75507,7 +75615,7 @@
     "history": [
       [
         {
-          "timestamp": 1791490715855,
+          "timestamp": 1791484107175,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
           "inAppPurchases": {
@@ -75894,7 +76002,7 @@
     "history": [
       [
         {
-          "timestamp": 1791567503610,
+          "timestamp": 1791540411692,
           "price": 19.99,
           "formattedPrice": "USD 19.99",
           "inAppPurchases": {}
@@ -80335,6 +80443,42 @@
       "战力跃升礼包": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791507612931,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "月度礼包": "USD 3.99",
+            "6480根火柴": "USD 99.99",
+            "60根火柴": "USD 0.99",
+            "1元礼包": "USD 0.99",
+            "1680根火柴": "USD 24.99",
+            "助飞战令-3000积分": "USD 0.99",
+            "助飞战令-初级精英战令": "USD 3.99",
+            "助飞战令-6000积分": "USD 4.99",
+            "助飞战令-15000积分": "USD 9.99",
+            "助飞战令-高级精英战令": "USD 3.99"
+          }
+        },
+        {
+          "timestamp": 1791484107175,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "月度礼包": "USD 3.99",
+            "60根火柴": "USD 0.99",
+            "180根火柴": "USD 2.99",
+            "500根火柴": "USD 6.99",
+            "980根火柴": "USD 14.99",
+            "1680根火柴": "USD 24.99",
+            "3280根火柴": "USD 49.99",
+            "6480根火柴": "USD 99.99",
+            "新手礼包": "USD 0.99",
+            "3元礼包": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784804950499,
@@ -87363,7 +87507,7 @@
     "history": [
       [
         {
-          "timestamp": 1791462124844,
+          "timestamp": 1791453869385,
           "price": 0.49,
           "formattedPrice": "USD 0.49",
           "inAppPurchases": {
@@ -88389,7 +88533,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
           "inAppPurchases": {}
@@ -88769,7 +88913,7 @@
     "history": [
       [
         {
-          "timestamp": 1791369813838,
+          "timestamp": 1791316756993,
           "price": 0,
           "formattedPrice": "免費",
           "inAppPurchases": {
@@ -93711,7 +93855,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
           "inAppPurchases": {
@@ -95144,7 +95288,7 @@
     "history": [
       [
         {
-          "timestamp": 1791583027946,
+          "timestamp": 1791568819448,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
@@ -95485,7 +95629,7 @@
     "history": [
       [
         {
-          "timestamp": 1791462124844,
+          "timestamp": 1791453869385,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
@@ -99366,7 +99510,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
@@ -103111,7 +103255,7 @@
     "history": [
       [
         {
-          "timestamp": 1791369813838,
+          "timestamp": 1791316756993,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
           "inAppPurchases": {}
@@ -104155,7 +104299,7 @@
     "history": [
       [
         {
-          "timestamp": 1791567503610,
+          "timestamp": 1791568819448,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
           "inAppPurchases": {
@@ -105438,6 +105582,42 @@
       "特惠礼包": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791420216639,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "60心动包": "USD 0.99",
+            "红包": "USD 0.99",
+            "300心动包": "USD 3.99",
+            "680心动包": "USD 9.99",
+            "超值金币x1440": "USD 0.99",
+            "便捷礼包": "USD 2.99",
+            "180心动包": "USD 2.99",
+            "超凡礼包": "USD 29.99",
+            "超值月卡": "USD 3.99",
+            "120心动包": "USD 1.99"
+          }
+        },
+        {
+          "timestamp": 1791397748865,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "6480心动包": "USD 99.99",
+            "3280心动包": "USD 49.99",
+            "1980心动包": "USD 29.99",
+            "1280心动包": "USD 19.99",
+            "980心动包": "USD 14.99",
+            "680心动包": "USD 9.99",
+            "300心动包": "USD 3.99",
+            "180心动包": "USD 2.99",
+            "60心动包": "USD 0.99",
+            "120心动包": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790885290521,
@@ -107518,7 +107698,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 8.99,
           "formattedPrice": "USD 8.99",
           "inAppPurchases": {
@@ -111916,7 +112096,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
@@ -113818,7 +113998,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 8.99,
           "formattedPrice": "USD 8.99",
           "inAppPurchases": {
@@ -114193,7 +114373,7 @@
     "history": [
       [
         {
-          "timestamp": 1791506753682,
+          "timestamp": 1791507612931,
           "price": 12.99,
           "formattedPrice": "USD 12.99",
           "inAppPurchases": {
@@ -114847,7 +115027,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 1.59,
           "formattedPrice": "USD 1.59",
           "inAppPurchases": {}
@@ -116879,7 +117059,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
           "inAppPurchases": {
@@ -122606,42 +122786,6 @@
     "history": [
       [
         {
-          "timestamp": 1791429422397,
-          "price": 0.29,
-          "formattedPrice": "USD 0.29",
-          "inAppPurchases": {
-            "68金玉": "USD 9.99",
-            "禮包1": "USD 0.29",
-            "30金玉": "USD 4.99",
-            "198金玉": "USD 29.99",
-            "6金玉": "USD 0.99",
-            "648金玉": "USD 99.99",
-            "尊享月俸": "USD 4.99",
-            "禮包3": "USD 1.99",
-            "禮包2": "USD 0.99",
-            "禮包5": "USD 4.99"
-          }
-        },
-        {
-          "timestamp": 1791411734325,
-          "price": 0.29,
-          "formattedPrice": "USD 0.29",
-          "inAppPurchases": {
-            "劇本禮包": "USD 2.99",
-            "存檔位禮包": "USD 1.99",
-            "科技達人禮包": "USD 2.99",
-            "不朽禮包": "USD 1.99",
-            "60玉符": "USD 0.99",
-            "300玉符": "USD 4.99",
-            "旅行家": "USD 9.99",
-            "980玉符": "USD 14.99",
-            "1280玉符": "USD 19.99",
-            "1980玉符": "USD 29.99"
-          }
-        }
-      ],
-      [
-        {
           "timestamp": 1791290979408,
           "price": 0.29,
           "formattedPrice": "USD 0.29",
@@ -125608,7 +125752,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
@@ -125951,7 +126095,7 @@
     "history": [
       [
         {
-          "timestamp": 1791369813838,
+          "timestamp": 1791316756993,
           "price": 7.49,
           "formattedPrice": "USD 7.49",
           "inAppPurchases": {}
@@ -130256,7 +130400,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 8.99,
           "formattedPrice": "USD 8.99",
           "inAppPurchases": {
@@ -130684,7 +130828,7 @@
     "history": [
       [
         {
-          "timestamp": 1791369813838,
+          "timestamp": 1791316756993,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
           "inAppPurchases": {}
@@ -134177,7 +134321,7 @@
     "history": [
       [
         {
-          "timestamp": 1791369813838,
+          "timestamp": 1791332575449,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
@@ -136296,7 +136440,7 @@
     "history": [
       [
         {
-          "timestamp": 1791567503610,
+          "timestamp": 1791568819448,
           "price": 0,
           "formattedPrice": "免費",
           "inAppPurchases": {
@@ -138028,7 +138172,7 @@
     "history": [
       [
         {
-          "timestamp": 1791411734325,
+          "timestamp": 1791397748865,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
           "inAppPurchases": {
@@ -138853,7 +138997,7 @@
     "history": [
       [
         {
-          "timestamp": 1791490715855,
+          "timestamp": 1791484107175,
           "price": 8.99,
           "formattedPrice": "USD 8.99",
           "inAppPurchases": {}
@@ -139536,7 +139680,7 @@
     "history": [
       [
         {
-          "timestamp": 1791567503610,
+          "timestamp": 1791540411692,
           "price": 0,
           "formattedPrice": "免費",
           "inAppPurchases": {}
@@ -140420,47 +140564,11 @@
       "Jewel Package F": "USD 69.99",
       "Jewel Package C": "USD 14.99",
       "Jewel Package B": "USD 7.99",
-      "Jewel Package E": "USD 59.99",
+      "Jewel Package E": "USD 69.99",
       "Starter Package B": "USD 29.99",
       "Remove AD": "USD 0.99"
     },
     "history": [
-      [
-        {
-          "timestamp": 1791462124844,
-          "price": 0,
-          "formattedPrice": "免費",
-          "inAppPurchases": {
-            "Starter Package B": "USD 29.99",
-            "Daily Jewel Package": "USD 19.99",
-            "Lite Daily Jewel Package": "USD 6.99",
-            "Starter Package A": "USD 24.99",
-            "Remove AD": "USD 0.99",
-            "Jewel Package D": "USD 34.99",
-            "Jewel Package A": "USD 4.99",
-            "Jewel Package F": "USD 79.99",
-            "Jewel Package C": "USD 17.99",
-            "Jewel Package B": "USD 9.99"
-          }
-        },
-        {
-          "timestamp": 1791429422397,
-          "price": 0,
-          "formattedPrice": "免費",
-          "inAppPurchases": {
-            "Jewel Package E": "USD 59.99",
-            "Jewel Package B": "USD 9.99",
-            "Jewel Package C": "USD 17.99",
-            "Jewel Package F": "USD 79.99",
-            "Jewel Package A": "USD 4.99",
-            "Jewel Package D": "USD 34.99",
-            "Remove AD": "USD 0.99",
-            "Starter Package A": "USD 24.99",
-            "Lite Daily Jewel Package": "USD 6.99",
-            "Daily Jewel Package": "USD 19.99"
-          }
-        }
-      ],
       [
         {
           "timestamp": 1790828594798,
@@ -140915,7 +141023,7 @@
     "history": [
       [
         {
-          "timestamp": 1791369813838,
+          "timestamp": 1791316756993,
           "price": 8.99,
           "formattedPrice": "USD 8.99",
           "inAppPurchases": {}
@@ -141176,7 +141284,7 @@
     "history": [
       [
         {
-          "timestamp": 1791539096914,
+          "timestamp": 1791540411692,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
           "inAppPurchases": {}
@@ -143544,7 +143652,7 @@
     "history": [
       [
         {
-          "timestamp": 1791539096914,
+          "timestamp": 1791540411692,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
           "inAppPurchases": {}
@@ -143942,7 +144050,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 7.49,
           "formattedPrice": "USD 7.49",
           "inAppPurchases": {
@@ -148860,7 +148968,7 @@
     "history": [
       [
         {
-          "timestamp": 1791539096914,
+          "timestamp": 1791540411692,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
           "inAppPurchases": {}
@@ -151141,7 +151249,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 10.99,
           "formattedPrice": "USD 10.99",
           "inAppPurchases": {
@@ -152401,7 +152509,7 @@
     "history": [
       [
         {
-          "timestamp": 1791490715855,
+          "timestamp": 1791484107175,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
@@ -152913,7 +153021,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 10.99,
           "formattedPrice": "USD 10.99",
           "inAppPurchases": {
@@ -154426,7 +154534,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
           "inAppPurchases": {}
@@ -160198,29 +160306,6 @@
       ]
     ]
   },
-  "1605445697": {
-    "trackId": 1605445697,
-    "trackName": "空灵鼓-无忧鼓（含钢舌鼓）",
-    "region": "mo",
-    "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
-    },
-    "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
-    },
-    "history": [
-      [
-        {
-          "timestamp": 1791583027946,
-          "price": 2.99,
-          "formattedPrice": "USD 2.99",
-          "inAppPurchases": {}
-        }
-      ]
-    ]
-  },
   "1605488891": {
     "trackId": 1605488891,
     "trackName": "VESC Tool",
@@ -160475,7 +160560,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
           "inAppPurchases": {}
@@ -161303,7 +161388,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
           "inAppPurchases": {}
@@ -162071,7 +162156,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
@@ -164013,7 +164098,7 @@
     "history": [
       [
         {
-          "timestamp": 1791462124844,
+          "timestamp": 1791453869385,
           "price": 9.89,
           "formattedPrice": "USD 9.89",
           "inAppPurchases": {}
@@ -165133,7 +165218,7 @@
     "history": [
       [
         {
-          "timestamp": 1791539096914,
+          "timestamp": 1791540411692,
           "price": 0,
           "formattedPrice": "免費",
           "inAppPurchases": {
@@ -171458,7 +171543,7 @@
     "history": [
       [
         {
-          "timestamp": 1791490715855,
+          "timestamp": 1791484107175,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
           "inAppPurchases": {}
@@ -173820,42 +173905,6 @@
       "武器專屬強化券 x3 (B)": "USD 6.99"
     },
     "history": [
-      [
-        {
-          "timestamp": 1791601361280,
-          "price": 0,
-          "formattedPrice": "免費",
-          "inAppPurchases": {
-            "遊戲本體": "USD 59.99",
-            "綠色藥草吊飾": "USD 0.99",
-            "逆命殊途": "USD 9.99",
-            "額外內容擴充包": "USD 19.99",
-            "武器專屬強化券 x5 (A)": "USD 9.99",
-            "武器專屬強化券 x3 (A)": "USD 6.99",
-            "武器專屬強化券 x3 (D)": "USD 6.99",
-            "武器專屬強化券 x3 (C)": "USD 6.99",
-            "武器專屬強化券 x1 (F)": "USD 2.99",
-            "武器專屬強化券 x1 (E)": "USD 2.99"
-          }
-        },
-        {
-          "timestamp": 1791583027946,
-          "price": 0,
-          "formattedPrice": "免費",
-          "inAppPurchases": {
-            "遊戲本體": "USD 59.99",
-            "額外內容擴充包": "USD 19.99",
-            "武器專屬強化券 x5 (A)": "USD 9.99",
-            "武器專屬強化券 x3 (A)": "USD 6.99",
-            "武器專屬強化券 x3 (D)": "USD 6.99",
-            "武器專屬強化券 x3 (C)": "USD 6.99",
-            "武器專屬強化券 x1 (F)": "USD 2.99",
-            "武器專屬強化券 x1 (E)": "USD 2.99",
-            "武器專屬強化券 x1 (A)": "USD 2.99",
-            "武器專屬強化券 x1 (C)": "USD 2.99"
-          }
-        }
-      ],
       [
         {
           "timestamp": 1790805284947,
@@ -180064,6 +180113,44 @@
     "history": [
       [
         {
+          "timestamp": 1791484107175,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "水畔": "USD 0.99",
+            "夜色微醺": "USD 0.99",
+            "怪趣萬聖套裝": "USD 0.99",
+            "秘密教會": "USD 0.99",
+            "魔法使的小屋": "USD 0.49",
+            "星降之夜": "USD 0.99",
+            "不可思議的水之國": "USD 0.49",
+            "ネオンシティ": "USD 0.99",
+            "夏色クリームソーダ": "USD 0.49",
+            "オーロラプール": "USD 0.49"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1791453869385,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "賞燈月夜": "USD 0.49",
+            "紅葉漫步": "USD 0.99",
+            "悠閒和菓子": "USD 0.49",
+            "花火大會": "USD 0.99",
+            "萬聖派對": "USD 0.99",
+            "夏日庭院": "USD 0.49",
+            "夏威夷海灘": "USD 0.49",
+            "夏日野餐": "USD 0.49",
+            "秋日旋律": "USD 0.49",
+            "新年日出": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1775762349274,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -182195,7 +182282,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 0.29,
           "formattedPrice": "USD 0.29",
           "inAppPurchases": {
@@ -182834,7 +182921,7 @@
     "history": [
       [
         {
-          "timestamp": 1791601361280,
+          "timestamp": 1791606695944,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
           "inAppPurchases": {
@@ -183908,7 +183995,7 @@
     "history": [
       [
         {
-          "timestamp": 1791369813838,
+          "timestamp": 1791316756993,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
           "inAppPurchases": {}
@@ -188749,7 +188836,7 @@
     "history": [
       [
         {
-          "timestamp": 1791462124844,
+          "timestamp": 1791453869385,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
@@ -192944,7 +193031,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 10.99,
           "formattedPrice": "USD 10.99",
           "inAppPurchases": {}
@@ -194138,7 +194225,7 @@
     "history": [
       [
         {
-          "timestamp": 1791369813838,
+          "timestamp": 1791316756993,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
           "inAppPurchases": {
@@ -195255,7 +195342,7 @@
     "history": [
       [
         {
-          "timestamp": 1791490715855,
+          "timestamp": 1791484107175,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
           "inAppPurchases": {
@@ -198238,7 +198325,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
           "inAppPurchases": {
@@ -201129,7 +201216,7 @@
     "history": [
       [
         {
-          "timestamp": 1791369813838,
+          "timestamp": 1791316756993,
           "price": 7.99,
           "formattedPrice": "USD 7.99",
           "inAppPurchases": {}
@@ -201704,7 +201791,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
           "inAppPurchases": {
@@ -204539,7 +204626,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
           "inAppPurchases": {}
@@ -206913,7 +207000,7 @@
     "history": [
       [
         {
-          "timestamp": 1791369813838,
+          "timestamp": 1791316756993,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
           "inAppPurchases": {}
@@ -207680,7 +207767,7 @@
     "history": [
       [
         {
-          "timestamp": 1791490715855,
+          "timestamp": 1791484107175,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
           "inAppPurchases": {
@@ -207694,25 +207781,6 @@
             "訓練記憶": "USD 17.99",
             "永恆方舟": "USD 29.99",
             "深淵精華": "USD 19.99"
-          }
-        }
-      ],
-      [
-        {
-          "timestamp": 1791462124844,
-          "price": 2.99,
-          "formattedPrice": "USD 2.99",
-          "inAppPurchases": {
-            "隱月造型套裝": "USD 9.99",
-            "成長之始": "USD 9.99",
-            "深淵之始": "USD 9.99",
-            "起始精華": "USD 19.99",
-            "深淵精華": "USD 19.99",
-            "魔界擴充通行證": "USD 5.99",
-            "超越精華": "USD 29.99",
-            "時間旅行者": "USD 5.99",
-            "深淵開拓者": "USD 9.99",
-            "永恆方舟": "USD 29.99"
           }
         }
       ],
@@ -208191,7 +208259,7 @@
     "history": [
       [
         {
-          "timestamp": 1791601361280,
+          "timestamp": 1791585205739,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
           "inAppPurchases": {}
@@ -208802,6 +208870,38 @@
       "WRC Rally Italia 2026": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791332575449,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "ADAC 3 Städte Rallye 2026": "USD 3.99",
+            "Saaremaa Ralli 2026": "USD 2.99",
+            "ERC Rally Portugal 2026": "USD 2.99",
+            "WRC Rally Italia 2026": "USD 2.99",
+            "SM Porvoon Autopalvelu Ralli 2026": "USD 2.99",
+            "D1 East Belgian Rally 2026": "USD 2.99",
+            "Türi rahvaralli 2026": "USD 2.99",
+            "WRC Rally Chile Bio Bio 2026": "USD 2.99",
+            "D1+D2 A&D Omloop van Vlaanderen '26": "USD 2.99",
+            "ERC Rali Ceredigion 2026": "USD 2.99"
+          }
+        },
+        {
+          "timestamp": 1791316756993,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Rally ALŪKSNE 2025": "USD 1.95",
+            "SM Ralli Kuopio 2025": "USD 1.99",
+            "Rallye Monte-Carlo": "USD 1.99",
+            "Arctic Lapland Rally 2025": "USD 1.99",
+            "Otepää Talveralli": "USD 1.99",
+            "Rally Alūksne 2025": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -210589,7 +210689,7 @@
     "history": [
       [
         {
-          "timestamp": 1791490715855,
+          "timestamp": 1791484107175,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
           "inAppPurchases": {}
@@ -213367,7 +213467,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
           "inAppPurchases": {}
@@ -213710,7 +213810,7 @@
     "history": [
       [
         {
-          "timestamp": 1791567503610,
+          "timestamp": 1791568819448,
           "price": 0,
           "formattedPrice": "免費",
           "inAppPurchases": {}
@@ -213771,7 +213871,7 @@
     "history": [
       [
         {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
           "inAppPurchases": {}
@@ -213836,7 +213936,7 @@
     "history": [
       [
         {
-          "timestamp": 1791506753682,
+          "timestamp": 1791507612931,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
           "inAppPurchases": {
@@ -214129,7 +214229,7 @@
     "history": [
       [
         {
-          "timestamp": 1791369813838,
+          "timestamp": 1791316756993,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
@@ -214270,7 +214370,7 @@
     "history": [
       [
         {
-          "timestamp": 1791369813838,
+          "timestamp": 1791397748865,
           "price": 0.29,
           "formattedPrice": "USD 0.29",
           "inAppPurchases": {
@@ -214654,7 +214754,7 @@
     "history": [
       [
         {
-          "timestamp": 1791601361280,
+          "timestamp": 1791585205739,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
           "inAppPurchases": {
@@ -214713,17 +214813,7 @@
       "全英雄禮包": "USD 29.99",
       "全塔禮包": "USD 19.99",
       "塔 鍊金術師小屋": "USD 2.99",
-      "英雄 德拉坎": "USD 6.99",
-      "英雄 馬力克": "USD 4.99",
-      "一把寶石": "USD 2.99",
-      "一袋寶石": "USD 4.99",
-      "一車寶石": "USD 49.99",
-      "一桶寶石": "USD 9.99",
-      "一箱寶石": "USD 19.99",
-      "寶石山": "USD 99.99",
-      "一袋寶石 - 特惠": "USD 3.99",
-      "英雄 阿什彼特": "USD 6.99",
-      "英雄 伊格納斯 特惠": "USD 1.99"
+      "英雄 德拉坎": "USD 6.99"
     },
     "minPriceInfo": {
       "price": 6.99,
@@ -214741,41 +214831,12 @@
       "全英雄禮包": "USD 29.99",
       "全塔禮包": "USD 19.99",
       "塔 鍊金術師小屋": "USD 2.99",
-      "英雄 德拉坎": "USD 6.99",
-      "英雄 馬力克": "USD 4.99",
-      "一把寶石": "USD 2.99",
-      "一袋寶石": "USD 4.99",
-      "一車寶石": "USD 49.99",
-      "一桶寶石": "USD 9.99",
-      "一箱寶石": "USD 19.99",
-      "寶石山": "USD 99.99",
-      "一袋寶石 - 特惠": "USD 3.99",
-      "英雄 阿什彼特": "USD 6.99",
-      "英雄 伊格納斯 特惠": "USD 1.99"
+      "英雄 德拉坎": "USD 6.99"
     },
     "history": [
       [
         {
-          "timestamp": 1791601361280,
-          "price": 6.99,
-          "formattedPrice": "USD 6.99",
-          "inAppPurchases": {
-            "英雄 馬力克": "USD 4.99",
-            "一把寶石": "USD 2.99",
-            "一袋寶石": "USD 4.99",
-            "一車寶石": "USD 49.99",
-            "一桶寶石": "USD 9.99",
-            "一箱寶石": "USD 19.99",
-            "寶石山": "USD 99.99",
-            "一袋寶石 - 特惠": "USD 3.99",
-            "英雄 阿什彼特": "USD 6.99",
-            "英雄 伊格納斯 特惠": "USD 1.99"
-          }
-        }
-      ],
-      [
-        {
-          "timestamp": 1791388346947,
+          "timestamp": 1791397748865,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
           "inAppPurchases": {
@@ -215259,9 +215320,9 @@
       ]
     ]
   },
-  "6812927976": {
-    "trackId": 6812927976,
-    "trackName": "Enchanted Survival: 刷寶RPG",
+  "6761963228": {
+    "trackId": 6761963228,
+    "trackName": "国学日历",
     "region": "mo",
     "maxPriceInfo": {
       "price": 0.99,
@@ -215274,10 +215335,79 @@
     "history": [
       [
         {
-          "timestamp": 1791490715855,
+          "timestamp": 1791316756993,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6737783441": {
+    "trackId": 6737783441,
+    "trackName": "(Not Boring) Camera",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "!Camera Plus Yearly": "USD 14.99",
+      "Super !Boring Monthly": "USD 7.99",
+      "!Camera Plus Lifetime": "USD 59.99",
+      "Super !Boring Yearly": "USD 29.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "!Camera Plus Yearly": "USD 14.99",
+      "Super !Boring Monthly": "USD 7.99",
+      "!Camera Plus Lifetime": "USD 59.99",
+      "Super !Boring Yearly": "USD 29.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "!Camera Plus Yearly": "USD 14.99",
+            "Super !Boring Monthly": "USD 7.99",
+            "!Camera Plus Lifetime": "USD 59.99",
+            "Super !Boring Yearly": "USD 29.99"
+          }
+        }
+      ]
+    ]
+  },
+  "6757261839": {
+    "trackId": 6757261839,
+    "trackName": "CapWorld 单词相机",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "月度会员": "USD 2.99",
+      "年卡会员": "USD 7.99",
+      "终身会员": "USD 14.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "月度会员": "USD 2.99",
+      "年卡会员": "USD 7.99",
+      "终身会员": "USD 14.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791366760269,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "月度会员": "USD 2.99",
+            "年卡会员": "USD 7.99",
+            "终身会员": "USD 14.99"
+          }
         }
       ]
     ]
@@ -215297,9 +215427,32 @@
     "history": [
       [
         {
-          "timestamp": 1791490715855,
+          "timestamp": 1791484107175,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6812927976": {
+    "trackId": 6812927976,
+    "trackName": "Enchanted Survival: 刷寶RPG",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791507612931,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
         }
       ]
@@ -215320,7 +215473,7 @@
     "history": [
       [
         {
-          "timestamp": 1791567503610,
+          "timestamp": 1791540411692,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
@@ -215343,7 +215496,7 @@
     "history": [
       [
         {
-          "timestamp": 1791567503610,
+          "timestamp": 1791568819448,
           "price": 11.99,
           "formattedPrice": "USD 11.99",
           "inAppPurchases": {}

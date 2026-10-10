@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2026-10-09T23:16:25.736Z</updated>
+    <updated>2026-10-10T00:01:09.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-09T23:16:25.738Z</updated>
+        <updated>2026-10-10T00:01:09.345Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptFri, 09 Oct 2026 23:16:25 GMT</id>
+        <id>rankingptSat, 10 Oct 2026 00:01:09 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-09T23:16:25.739Z</updated>
+        <updated>2026-10-10T00:01:09.345Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -51,13 +51,13 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>2323</b>
+        <b>2327</b>
       </td>
       <td>
-        <b>201</b>
+        <b>204</b>
       </td>
       <td>
-        <b>2122</b>
+        <b>2123</b>
       </td>
       <td>
         <b>107</b>
@@ -68,13 +68,13 @@ feedId:206907475259680768+userId:73658201673997312
         <b>PT</b>
       </td>
       <td>
-        <b>2020</b>
+        <b>2021</b>
       </td>
       <td>
-        <b>144</b>
+        <b>146</b>
       </td>
       <td>
-        <b>1876</b>
+        <b>1875</b>
       </td>
       <td>
         <b>33</b>
@@ -97,6 +97,31 @@ feedId:206907475259680768+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/443646748?lang=en">Fitness Amigo+</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>Compras integradas</span><ol>
+              <li>
+                <i>Premium</i>：<b>1</b>
+              </li><li>
+                <i>Fitness Buddy Premium</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1630541373?lang=en">Private Album - PRAM</a>
       </td>
       <td>
@@ -117,7 +142,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>2</b>
+        <b>3</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1632719015?lang=en">Guardian OL2</a>
@@ -134,7 +159,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/640364616?lang=en">Terraria</a>
@@ -151,7 +176,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/857607006?lang=en">Triple A HD - Touch Visualizer</a>
@@ -168,7 +193,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/882362024?lang=en">Ace Attorney: Dual Destinies</a>
@@ -195,7 +220,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/926177061?lang=en">TinType - Câmera de ferrótipo</a>
@@ -212,7 +237,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/931188326?lang=en">DayCost Pro - Personal Finance</a>
@@ -229,7 +254,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/983143183?lang=en">Neo Monsters</a>
@@ -246,7 +271,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1136993233?lang=en">Apollo Justice Ace Attorney</a>
@@ -269,7 +294,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1160943124?lang=en">Speech to Text : Voice to Text</a>
@@ -286,7 +311,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1239299402?lang=en">Street Fighter IV CE</a>
@@ -303,7 +328,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1287138671?lang=en">Thumper: Pocket Edition</a>
@@ -320,7 +345,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1309638846?lang=en">Vintage Camera - Goodak</a>
@@ -337,7 +362,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1435461053?lang=en">This is the Police</a>
@@ -354,7 +379,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1437211990?lang=en">Raid Manager</a>
@@ -371,7 +396,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1481100296?lang=en">BreatheIn: Calm Breathing</a>
@@ -388,7 +413,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1492049794?lang=en">宗师-武林风云传</a>
@@ -405,7 +430,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1500126852?lang=en">Chord</a>
@@ -422,7 +447,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1524418421?lang=en">SessionBand Jazz Fusion</a>
@@ -439,7 +464,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1534488108?lang=en">SessionBand Jazz 4</a>
@@ -456,7 +481,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1537060891?lang=en">Titan Quest: Legendary Edition</a>
@@ -473,7 +498,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1561849298?lang=en">SessionBand Soul Jazz Funk 3</a>
@@ -490,7 +515,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1621065119?lang=en">Ace Attorney Trilogy</a>
@@ -507,7 +532,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1664728315?lang=en">Mutropolis mobile</a>
@@ -524,7 +549,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6480501528?lang=en">Cat Todo - Lista de tarefas</a>
@@ -541,7 +566,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6811795155?lang=en">Keeps</a>
@@ -558,7 +583,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6761328517?lang=en">Dungeon Within</a>
@@ -575,7 +600,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6740698426?lang=en">Empires Game</a>
@@ -600,7 +625,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6752662508?lang=en">Pegadas·TimeTrails·GPS</a>
@@ -617,7 +642,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6760764479?lang=en">Alpin Quest PRO – Outdoor GPS</a>
@@ -640,7 +665,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6469419567?lang=en">Overwinter Survival</a>
@@ -667,7 +692,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6778029370?lang=en">Order Automatica</a>
@@ -684,7 +709,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6762803589?lang=en">Slots & Daggers</a>
@@ -701,7 +726,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6754894237?lang=en">CloverPit</a>
@@ -718,27 +743,10 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/6780967766?lang=en">Comprato</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>36</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/6760948683?lang=en">Digline: Mineração Relaxante</a>
+        <a href="https://appstore-discounts.eyelly.me/pt/6780967766?lang=en">Comprato</a>
       </td>
       <td>
         <ul>
@@ -772,7 +780,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>38</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/6459581344?lang=en">Art of Rally</a>
+        <a href="https://appstore-discounts.eyelly.me/pt/6760948683?lang=en">Digline: Mineração Relaxante</a>
       </td>
       <td>
         <ul>
@@ -787,6 +795,23 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>
         <b>39</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/6459581344?lang=en">Art of Rally</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>40</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6802565793?lang=en">我不想当班主任-班主任工作台&教师工作台&班级管理</a>
@@ -1113,9 +1138,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Vintage Camera - Goodak]]></title>
-        <id>Vintage Camera - Goodak-pt-1791583027946</id>
+        <id>Vintage Camera - Goodak-pt-1791585205739</id>
         <link href="https://appstore-discounts.eyelly.me/pt/1309638846?lang=en"/>
-        <updated>2026-10-09T21:57:07.946Z</updated>
+        <updated>2026-10-09T22:33:25.739Z</updated>
         <summary type="html"><![CDATA[Price: 2,99 € → 1,99 €]]></summary>
         <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1309638846?lang=en">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6e/12/e2/6e12e20d-cbb9-c638-e2e0-9c298420bb4a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/60x60bb.jpg" />
@@ -1172,9 +1197,9 @@ Goodak is provided as Goodak Studio own product. this app is not the official ap
     </entry>
     <entry>
         <title type="html"><![CDATA[我不想当班主任-班主任工作台&教师工作台&班级管理]]></title>
-        <id>我不想当班主任-班主任工作台&amp;教师工作台&amp;班级管理-pt-1791567503610</id>
+        <id>我不想当班主任-班主任工作台&amp;教师工作台&amp;班级管理-pt-1791568819448</id>
         <link href="https://appstore-discounts.eyelly.me/pt/6802565793?lang=en"/>
-        <updated>2026-10-09T17:38:23.610Z</updated>
+        <updated>2026-10-09T18:00:19.448Z</updated>
         <summary type="html"><![CDATA[Price: 5,99 € → Gratuito]]></summary>
         <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6802565793?lang=en">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/03/b6/2b03b648-fb2a-10c9-a491-5c4e2eb65908/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
@@ -1273,9 +1298,9 @@ Goodak is provided as Goodak Studio own product. this app is not the official ap
     </entry>
     <entry>
         <title type="html"><![CDATA[宗师-武林风云传]]></title>
-        <id>宗师-武林风云传-pt-1791567503610</id>
+        <id>宗师-武林风云传-pt-1791568819448</id>
         <link href="https://appstore-discounts.eyelly.me/pt/1492049794?lang=en"/>
-        <updated>2026-10-09T17:38:23.610Z</updated>
+        <updated>2026-10-09T18:00:19.448Z</updated>
         <summary type="html"><![CDATA[Price: 0,99 € → Gratuito]]></summary>
         <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1492049794?lang=en">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/1a/9d/221a9d58-5f52-ea4c-ef99-1fab86828356/AppIcon_QX-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
@@ -1328,9 +1353,9 @@ Goodak is provided as Goodak Studio own product. this app is not the official ap
     </entry>
     <entry>
         <title type="html"><![CDATA[SessionBand Jazz Fusion]]></title>
-        <id>SessionBand Jazz Fusion-pt-1791539096914</id>
+        <id>SessionBand Jazz Fusion-pt-1791540411692</id>
         <link href="https://appstore-discounts.eyelly.me/pt/1524418421?lang=en"/>
-        <updated>2026-10-09T09:44:56.914Z</updated>
+        <updated>2026-10-09T10:06:51.692Z</updated>
         <summary type="html"><![CDATA[Price: 9,99 € → 3,99 €]]></summary>
         <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1524418421?lang=en">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b4/6b/0f/b46b0f0f-ab52-4f31-1d62-bf5e3f529c32/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
@@ -1402,9 +1427,9 @@ Detailed Product Information:
     </entry>
     <entry>
         <title type="html"><![CDATA[SessionBand Jazz 4]]></title>
-        <id>SessionBand Jazz 4-pt-1791539096914</id>
+        <id>SessionBand Jazz 4-pt-1791540411692</id>
         <link href="https://appstore-discounts.eyelly.me/pt/1534488108?lang=en"/>
-        <updated>2026-10-09T09:44:56.914Z</updated>
+        <updated>2026-10-09T10:06:51.692Z</updated>
         <summary type="html"><![CDATA[Price: 6,99 € → 3,99 €]]></summary>
         <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1534488108?lang=en">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e3/73/04/e373044b-dccf-22fa-21d9-0e858380f136/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
@@ -1484,9 +1509,9 @@ Detailed Product Information:
     </entry>
     <entry>
         <title type="html"><![CDATA[SessionBand Soul Jazz Funk 3]]></title>
-        <id>SessionBand Soul Jazz Funk 3-pt-1791539096914</id>
+        <id>SessionBand Soul Jazz Funk 3-pt-1791540411692</id>
         <link href="https://appstore-discounts.eyelly.me/pt/1561849298?lang=en"/>
-        <updated>2026-10-09T09:44:56.914Z</updated>
+        <updated>2026-10-09T10:06:51.692Z</updated>
         <summary type="html"><![CDATA[Price: 6,99 € → 3,99 €]]></summary>
         <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1561849298?lang=en">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/b5/a8/76b5a891-235d-f871-69a7-618c430d919c/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
@@ -1570,9 +1595,9 @@ All loops are offered royalty-free and can be used freely in your own works.
     </entry>
     <entry>
         <title type="html"><![CDATA[Art of Rally]]></title>
-        <id>Art of Rally-pt-1791506753682</id>
+        <id>Art of Rally-pt-1791507612931</id>
         <link href="https://appstore-discounts.eyelly.me/pt/6459581344?lang=en"/>
-        <updated>2026-10-09T00:45:53.682Z</updated>
+        <updated>2026-10-09T01:00:12.931Z</updated>
         <summary type="html"><![CDATA[Price: 8,99 € → 1,99 €]]></summary>
         <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6459581344?lang=en">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/28/19/d9281983-89f8-a5d9-111d-77204919316f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
@@ -1602,9 +1627,9 @@ Mostra as tuas capacidades, ou os teus momentos preferidos com o modo câmera e 
     </entry>
     <entry>
         <title type="html"><![CDATA[Mutropolis mobile]]></title>
-        <id>Mutropolis mobile-pt-1791506753682</id>
+        <id>Mutropolis mobile-pt-1791507612931</id>
         <link href="https://appstore-discounts.eyelly.me/pt/1664728315?lang=en"/>
-        <updated>2026-10-09T00:45:53.682Z</updated>
+        <updated>2026-10-09T01:00:12.931Z</updated>
         <summary type="html"><![CDATA[Price: 5,99 € → 3,99 €]]></summary>
         <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1664728315?lang=en">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/3d/e5/813de5e1-f201-54e8-3f0f-e7d66bcfe00b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
@@ -1629,10 +1654,64 @@ Características
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/24/bd/3824bd87-e723-1143-d79d-ba674f9a0978/daf87557-8d03-499c-8c1a-7f8b33e18e22_IMG_1858.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/04/78/1e047866-1b15-4b14-3719-7dcfbb5e9437/e97881b2-a1c8-41e0-90e6-53a039693a0a_IMG_1864.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/1e/bf/a11ebfba-5e61-c8ab-578e-ce88e3185889/7715ab6b-9cdd-4787-b780-3f002e132743_IMG_1865.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/c0/0a/6dc00af3-5861-d7fd-8a58-801e4d7c0749/e7a44565-af4c-44c5-bdbd-ef544ae3f34e_IMG_1861.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/cf/61/08cf6107-8b42-4e2e-c745-8de6aa2da873/cfbb5347-bf19-4055-a8b3-3a8cee4d4f02_IMG_1862.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/6b/ef/e46bef14-ac88-44ff-291b-b2ae5b8250f3/387d667d-8884-46ce-bf78-da38e3fc1de8_IMG_1860.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/db/55/addb5585-c058-e304-9e35-650e4631f2fc/c8ce533a-ea3e-4cac-929c-4dced7059007_IMG_1859.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/a2/35/96a23550-a78f-6e82-7bc9-a950a612b310/043a9f9d-a239-4513-bf30-0f76789af615_IMG_1867.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/5a/6e/d75a6e97-b659-0de6-bfd7-222f481b7f07/e3e4c12a-19af-49bc-9cfa-2c0f4118e9e4_IMG_1855.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/96/6a/a8966a7a-163b-4bed-a6db-d7b7551c7b17/cb6648b1-4b95-4c24-9e3d-0452aa3442bc_IMG_1863.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/fa/9a/10fa9a93-7f5c-2ef5-1dce-d42ac433bcc2/644b1d46-6fa2-4d18-862f-03b0cbc7f865_IMG_1858.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/7a/54/ac7a547d-d8dd-4dfd-96cc-2f9928032eff/9b16f150-6f95-481f-b045-602d31b389d1_IMG_1861.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/e0/a8/23e0a85b-8faf-995d-cb78-55cee8b4e7c9/a46c8648-44d3-478f-9935-e8d629db5922_IMG_1855.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/8a/b3/ca8ab320-0480-e696-095e-a2299b76f018/a7530173-de15-4a22-bbda-716ce0b6de2a_IMG_1865.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/5a/d7/a75ad7c1-230b-b798-94f4-22a8c88ff012/1ab71509-7580-486e-9723-1013a46ffb0c_IMG_1860.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/1f/02/871f0221-ba77-964c-a53f-55923346b9b9/c3411717-1e5c-4de1-bf81-18bb75c4a0fd_IMG_1864.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/5e/a1/a65ea1c3-ec6a-2111-b9b3-7c63daf859b1/85a4609e-57b0-449c-aef1-58da84ea3377_IMG_1862.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/c1/e1/6bc1e14a-2280-dcbf-bfcf-6cf46519207c/4632978d-7119-4880-911a-9a49df4b123b_IMG_1863.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/88/35/4b883554-45dc-4cf3-aaf4-5b93dafbb9d6/d9967780-405c-4ec3-a6d4-984c696f92de_IMG_1867.jpg/360x480bb.jpg" />]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Digline: Mineração Relaxante]]></title>
+        <id>Digline: Mineração Relaxante-pt-1791484107175</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/6760948683?lang=en"/>
+        <updated>2026-10-08T18:28:27.175Z</updated>
+        <summary type="html"><![CDATA[Price: 2,99 € → 1,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6760948683?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/f1/6d/faf16d76-624a-d6db-2b3d-9fbd8345e8a7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>2,99 €</span> → <b>
+  <strong>1,99 €</strong>
+</b><span>[0,99 € ~ 4,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>1,99 €</b>
+</p><h2>Application Description</h2><p>
+  Digline é um jogo de perfuração relaxante e fácil de aprender, onde cada descida é uma pequena aposta entre progresso e risco, e a verdadeira recompensa está mais fundo no subsolo.
+
+Comece cada partida na sua oficina, escolha sua configuração e desça com combustível limitado e um equipamento improvisado. Abra caminho através de camadas de terra em constante mudança, decida o que coletar e escolha o momento certo para voltar antes que tudo se esgote.
+
+Cada descida revela novos materiais, descobertas mais raras e padrões inesperados sob a superfície. O que começa como uma simples escavação gradualmente se transforma em um equilíbrio cuidadoso entre exploração, eficiência e tempo.
+
+De volta à superfície, refine sua estratégia e melhore suas partidas:
+
+• Melhore sua perfuradora, capacidade de combustível e eficiência
+• Desbloqueie novos materiais de maior valor e localizados mais profundamente
+• Otimize rotas para maximizar cada descida
+
+O progresso se acumula de forma constante, mas cada partida carrega tensão. Se jogar com muita cautela, você deixa valor para trás. Se avançar demais, corre o risco de perder tudo.
+
+Defina seu próprio ritmo no subsolo: partidas curtas e eficientes, descidas profundas de alto risco ou uma progressão constante rumo ao domínio do que está abaixo.
+
+Top 10 jogos casuais nos Estados Unidos e no Reino Unido, Top 5 na Alemanha, Noruega e outros. Venha se juntar à diversão!
+
+O que começa como uma simples busca por recursos gradualmente se torna algo mais estranho. Seus antigos túneis permanecem, seu mapa se expande com o tempo, e o subsolo passa a parecer menos aleatório e mais como um lugar com sua própria história.
+
+Digline foi projetado para ser fácil de começar, divertido em sessões curtas e recompensador no longo prazo. Escavações rápidas, descidas curtas, muita diversão relaxante.
+
+Recursos:
+
+• controles intuitivos com um dedo em modo retrato
+• partidas curtas que cabem facilmente em um ou dois minutos
+• túneis persistentes e um mapa que cresce a cada expedição
+• múltiplas regiões subterrâneas com diferentes materiais, perigos e surpresas
+• recursos para coletar e usar na criação de melhorias e melhor preparação
+• uma oficina que transforma cada partida bem-sucedida em progresso permanente
+• um sistema de mercado para negociar o que você traz de volta
+• progressão que se constrói ao longo de muitas sessões, não apenas uma única partida
+• uma atmosfera calma e aconchegante com um senso de descoberta por baixo
+• sem anúncios, sem compras dentro do aplicativo e sem sistemas pay-to-win
+• conquistas e competição no placar do Daily Dig
+
+Quanto mais fundo você vai, mais a mina revela.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/9c/90/fd9c9062-0145-e3d5-d67b-bc40a5c1c1c4/pt-pt-1-Introduction.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/4d/e3/e64de30c-88da-ae5c-e36a-f4b38db2abfe/pt-pt-2-Feature_A.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/cd/6d/ebcd6dff-5d96-0884-5261-fc67cf054519/pt-pt-3-Feature_B.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/af/bd/b5afbde1-9b68-0375-a42e-e490183a5842/pt-pt-4-Feature_C.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/9f/43/a69f4335-a17a-5282-7a53-57e5a3c74952/pt-pt-5-Feature_D.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/4c/ff/7f4cffd3-ec50-6207-7652-68d22627e153/pt-pt-6-Feature_E.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/6d/4f/146d4f36-0686-e041-4f75-809defb1492c/pt-pt-7-Feature_F.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/aa/33/d8aa339a-96a5-e144-8599-4a8f9c136142/pt-pt-1-Introduction_iPad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/ba/18/d4ba185e-078b-bede-7e05-71d7b7c2da40/pt-pt-2-Feature_A_iPad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/51/d5/5751d544-00af-3684-73d0-78a3a1955ecf/pt-pt-3-Feature_B_iPad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/01/e2/1401e26c-4a6b-7ed6-14e6-4d4862daa7da/pt-pt-4-Feature_C_iPad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/33/d7/4533d76f-56de-ce51-648d-02af323fbd65/pt-pt-6-Feature_E_iPad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/2e/a3/422ea3f6-5c56-bacf-6b6f-31f20c65a641/pt-pt-7-Feature_F_iPad.png/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Comprato]]></title>
-        <id>Comprato-pt-1791462124844</id>
+        <id>Comprato-pt-1791453869385</id>
         <link href="https://appstore-discounts.eyelly.me/pt/6780967766?lang=en"/>
-        <updated>2026-10-08T12:22:04.844Z</updated>
+        <updated>2026-10-08T10:04:29.385Z</updated>
         <summary type="html"><![CDATA[Price: 1,99 € → Gratuito]]></summary>
         <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6780967766?lang=en">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/38/51/b93851b8-2b31-7acd-e438-7993e56f63e6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
@@ -1705,10 +1784,80 @@ Características
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/52/ef/eb52ef3a-8d4c-6906-ae47-05707e301233/IP_Lista_Main.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/5c/69/3b5c697f-bf81-1b7e-492b-43500b08d37c/IP_Lista_Item.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/9b/37/f19b3754-7652-502a-25d8-5545ea96d366/IP_Despensa.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/e7/67/98e76714-40ff-a716-17ec-48443d341eb0/IP_Posso_Coz_Estraga.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/5f/e7/6e5fe702-d32c-b29e-fd71-430f5b97a013/IP_Receitas.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/62/d2/7b62d215-4144-68be-5656-d3637aeff6e6/Listas-IPad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/2a/55/c52a5599-0025-2782-6852-6c8e97d22ef7/Plano_Savings-Ipad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/6c/b5/ce6cb5c0-3221-bd46-5bfa-efe9cb531381/Plano_Preenchido-Ipad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/f5/1f/d2f51f4c-7074-eb32-d047-2d14f76c8731/Receitas-Ipad.png/360x480bb.jpg" />]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fitness Amigo+]]></title>
+        <id>Fitness Amigo+-pt-1791453869385</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/443646748?lang=en"/>
+        <updated>2026-10-08T10:04:29.385Z</updated>
+        <summary type="html"><![CDATA[Fitness Buddy Premium: 46,99 € → 29,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/443646748?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/6e/b1/236eb1c6-d105-0fd1-aa5e-b70fd54213a0/AppIcon-FB-Pro-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>Compras integradas</h3><ul>
+  <li>
+    <strong>Fitness Buddy Premium：</strong><span>46,99 €</span> → <b>
+  <strong>29,99 €</strong>
+</b><span>[29,99 € ~ 46,99 €]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>3,99 €</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    Premium：<b>43,99 €</b>
+  </li><li>
+    Fitness Buddy Premium：<b>29,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  75% desconto !!! 12 HORAS venda! Acaba de atualizar e agora tem 1700 + exercícios e mais de 1000 vídeos em HD!
+
+Descobrir o porquê ginásio frequentadores estão migrando para Fitness Amigo! Com 1700 + exercícios únicos à sua disposição, que vai revolucionar o seu regime de treinamento. Com este aplicativo, você vai encontrar o processo de acompanhamento de exercícios simples e fácil, a fim de sustentar a sua motivação e fazer cumprir o seu compromisso com suas metas de fitness.
+
+- Características principais ---
+
+- 1700 + exercícios únicos!
+- 1000 vídeos em HD
+- Exercícios abrangentes para todos os principais equipamentos, incluindo barra, ez curl bar, halteres, kettlebells, bandas de resistência, e bolas de estabilidade
+- Exercício categorização (core, parte inferior do corpo, peito, ombros, costas, braços, cardio, trechos)
+- 4000+ fotos de exercícios e animações (resolução de tela retina)
+- Instruções do exercício detalhada e categorizações musculares
+- Capacidades para adicionar seus próprios exercícios personalizados e exercícios favoritos
+
+Interface amigável
+- Acompanhamento de exercícios simples e rápida
+- Barra de pesquisa para encontrar rapidamente os seus exercícios favoritos
+
+75+ rotinas de treino
+- Repertório diverso de rotinas de exercícios, incluindo exercícios para mulheres
+- Rotinas específicas para seus objetivos (construir peito grande, bumbum tom, perder peso, e mais!)
+- rotinas específicas para o seu equipamento (bandas de resistência, kettlebells, peso corporal única, etc.)
+- Construa suas próprias rotinas de treino
+
+acompanhamento de métricas de corpo
+- Acompanhe o seu peso corporal e métricas (tórax, braços, coxas, etc)
+- Graph seu progresso corpo
+
+Sharing App Saúde da Apple
+- Integra-se com a Apple App Saúde (Configurações -> Planos de Apple Saúde App Sharing)
+
+Upgrade para premium para acesso ilimitado a programas Premium e exercícios Playpen Freeplay, vídeos HD, áudio dinâmico e motivacional, resumos de treino e-mail com dicas e conselhos sobre uma vida saudável, apoio prioritário com subscrição iTunes renovável.
+
+E muitos outros recursos para que você possa melhorar a sua experiência de treino. Você não vai se decepcionar quando você treinar duro com Fitness Amigo.
+
+We offer auto-renewing subscriptions with the following specifications:
+- Subscriptions are 1 month or 12 months long
+- Subscriptions are $9.99 USD per month or $29.99 USD per year.
+- Payment will be charged to iTunes Account at confirmation of purchase
+- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+- No cancellation of the current subscription is allowed during active subscription period
+- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication.
+- our Privacy Policy and terms of use: https://www.azumio.com/page/privacypolicy
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/96/12/75/961275af-e0e2-cf7f-a9b1-4319723854dc/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/e0/3d/42/e03d421f-8061-02c9-8bf3-5ede07dd2a8e/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple20/v4/0d/ec/b0/0decb030-ce04-8c00-bcb7-0ea3e6f2c81f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/88/87/61/8887611b-e9a1-8a25-41e4-471eb27e3078/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/5a/3e/fa/5a3efa38-a6ea-1ae2-be22-35442da07b18/pr_source.png/392x696bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ace Attorney: Dual Destinies]]></title>
-        <id>Ace Attorney: Dual Destinies-pt-1791462124844</id>
+        <id>Ace Attorney: Dual Destinies-pt-1791453869385</id>
         <link href="https://appstore-discounts.eyelly.me/pt/882362024?lang=en"/>
-        <updated>2026-10-08T12:22:04.844Z</updated>
+        <updated>2026-10-08T10:04:29.385Z</updated>
         <summary type="html"><![CDATA[Price: 1,19 € → 0,49 €<br/>Main Story Set: 17,99 € → 9,49 €<br/>Special Episode: 3,49 € → 1,49 €<br/>Costume Set: 1,19 € → 0,49 €]]></summary>
         <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/882362024?lang=en">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/08/e3/c808e3b9-1899-7a06-517b-8ebb1c802ff5/iOSAppIconEng-0-0-1x_U007emarketing-0-7-85-220.png/60x60bb.jpg" />
@@ -1811,64 +1960,10 @@ https://itunes.apple.com/us/developer/capcom/id308807391
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/26/40/03/2640038e-89d3-44c0-5db4-1b93f7abd993/mzl.ynnjggig.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/bc/18/bc/bc18bc93-9713-5d40-8374-dc63543fff6f/mzl.bjcjiuxq.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/5a/02/58/5a02583f-7fec-2a97-573d-74e217ce8913/mzl.rjkmwlur.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/76/de/81/76de81a1-3e52-7994-574e-aef90ce7b612/mzl.dfmaewsr.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/23/05/71/230571d7-579e-393c-9c86-08eb7c9b8d5f/mzl.higgbrlf.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/a0/e1/25/a0e1259e-21d5-437b-2a64-fcc1c313af81/mzl.uployhky.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/f6/51/84/f65184a5-58ed-f67c-90bf-80e9f5ecd7b4/mzl.wvupnidn.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/0a/41/b1/0a41b1b6-7f19-d935-5b0a-8ee23e4fc3aa/mzl.hbmsultn.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/a7/a7/a2/a7a7a24a-77f6-9e1f-27e2-8e216e4412d1/mzl.zmdlaepw.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/d0/42/5d/d0425d18-1e2c-4d45-6a1e-d62a61eff898/mzl.ucymfvhq.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Digline: Mineração Relaxante]]></title>
-        <id>Digline: Mineração Relaxante-pt-1791462124844</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/6760948683?lang=en"/>
-        <updated>2026-10-08T12:22:04.844Z</updated>
-        <summary type="html"><![CDATA[Price: 2,99 € → 1,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6760948683?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/f1/6d/faf16d76-624a-d6db-2b3d-9fbd8345e8a7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>2,99 €</span> → <b>
-  <strong>1,99 €</strong>
-</b><span>[0,99 € ~ 4,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>1,99 €</b>
-</p><h2>Application Description</h2><p>
-  Digline é um jogo de perfuração relaxante e fácil de aprender, onde cada descida é uma pequena aposta entre progresso e risco, e a verdadeira recompensa está mais fundo no subsolo.
-
-Comece cada partida na sua oficina, escolha sua configuração e desça com combustível limitado e um equipamento improvisado. Abra caminho através de camadas de terra em constante mudança, decida o que coletar e escolha o momento certo para voltar antes que tudo se esgote.
-
-Cada descida revela novos materiais, descobertas mais raras e padrões inesperados sob a superfície. O que começa como uma simples escavação gradualmente se transforma em um equilíbrio cuidadoso entre exploração, eficiência e tempo.
-
-De volta à superfície, refine sua estratégia e melhore suas partidas:
-
-• Melhore sua perfuradora, capacidade de combustível e eficiência
-• Desbloqueie novos materiais de maior valor e localizados mais profundamente
-• Otimize rotas para maximizar cada descida
-
-O progresso se acumula de forma constante, mas cada partida carrega tensão. Se jogar com muita cautela, você deixa valor para trás. Se avançar demais, corre o risco de perder tudo.
-
-Defina seu próprio ritmo no subsolo: partidas curtas e eficientes, descidas profundas de alto risco ou uma progressão constante rumo ao domínio do que está abaixo.
-
-Top 10 jogos casuais nos Estados Unidos e no Reino Unido, Top 5 na Alemanha, Noruega e outros. Venha se juntar à diversão!
-
-O que começa como uma simples busca por recursos gradualmente se torna algo mais estranho. Seus antigos túneis permanecem, seu mapa se expande com o tempo, e o subsolo passa a parecer menos aleatório e mais como um lugar com sua própria história.
-
-Digline foi projetado para ser fácil de começar, divertido em sessões curtas e recompensador no longo prazo. Escavações rápidas, descidas curtas, muita diversão relaxante.
-
-Recursos:
-
-• controles intuitivos com um dedo em modo retrato
-• partidas curtas que cabem facilmente em um ou dois minutos
-• túneis persistentes e um mapa que cresce a cada expedição
-• múltiplas regiões subterrâneas com diferentes materiais, perigos e surpresas
-• recursos para coletar e usar na criação de melhorias e melhor preparação
-• uma oficina que transforma cada partida bem-sucedida em progresso permanente
-• um sistema de mercado para negociar o que você traz de volta
-• progressão que se constrói ao longo de muitas sessões, não apenas uma única partida
-• uma atmosfera calma e aconchegante com um senso de descoberta por baixo
-• sem anúncios, sem compras dentro do aplicativo e sem sistemas pay-to-win
-• conquistas e competição no placar do Daily Dig
-
-Quanto mais fundo você vai, mais a mina revela.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/9c/90/fd9c9062-0145-e3d5-d67b-bc40a5c1c1c4/pt-pt-1-Introduction.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/4d/e3/e64de30c-88da-ae5c-e36a-f4b38db2abfe/pt-pt-2-Feature_A.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/cd/6d/ebcd6dff-5d96-0884-5261-fc67cf054519/pt-pt-3-Feature_B.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/af/bd/b5afbde1-9b68-0375-a42e-e490183a5842/pt-pt-4-Feature_C.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/9f/43/a69f4335-a17a-5282-7a53-57e5a3c74952/pt-pt-5-Feature_D.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/4c/ff/7f4cffd3-ec50-6207-7652-68d22627e153/pt-pt-6-Feature_E.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/6d/4f/146d4f36-0686-e041-4f75-809defb1492c/pt-pt-7-Feature_F.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/aa/33/d8aa339a-96a5-e144-8599-4a8f9c136142/pt-pt-1-Introduction_iPad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/ba/18/d4ba185e-078b-bede-7e05-71d7b7c2da40/pt-pt-2-Feature_A_iPad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/51/d5/5751d544-00af-3684-73d0-78a3a1955ecf/pt-pt-3-Feature_B_iPad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/01/e2/1401e26c-4a6b-7ed6-14e6-4d4862daa7da/pt-pt-4-Feature_C_iPad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/33/d7/4533d76f-56de-ce51-648d-02af323fbd65/pt-pt-6-Feature_E_iPad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/2e/a3/422ea3f6-5c56-bacf-6b6f-31f20c65a641/pt-pt-7-Feature_F_iPad.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Apollo Justice Ace Attorney]]></title>
-        <id>Apollo Justice Ace Attorney-pt-1791462124844</id>
+        <id>Apollo Justice Ace Attorney-pt-1791453869385</id>
         <link href="https://appstore-discounts.eyelly.me/pt/1136993233?lang=en"/>
-        <updated>2026-10-08T12:22:04.844Z</updated>
+        <updated>2026-10-08T10:04:29.385Z</updated>
         <summary type="html"><![CDATA[Price: 1,19 € → 0,49 €<br/>All Episodes Set: 17,99 € → 9,49 €]]></summary>
         <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1136993233?lang=en">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/f2/73/f5f273bd-7158-fb53-d288-b148b9963fcf/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
@@ -1928,9 +2023,9 @@ PLEASE NOTE: “Apollo Justice: Ace Attorney” offers some optional in game con
     </entry>
     <entry>
         <title type="html"><![CDATA[MEGA MAN X DiVE Offline]]></title>
-        <id>MEGA MAN X DiVE Offline-pt-1791462124844</id>
+        <id>MEGA MAN X DiVE Offline-pt-1791453869385</id>
         <link href="https://appstore-discounts.eyelly.me/pt/6446021269?lang=en"/>
-        <updated>2026-10-08T12:22:04.844Z</updated>
+        <updated>2026-10-08T10:04:29.385Z</updated>
         <summary type="html"><![CDATA[Price: 29,99 € → 2,99 €]]></summary>
         <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6446021269?lang=en">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d1/a8/cb/d1a8cb78-8bdd-04dc-4f2b-6573d1e52d33/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
@@ -1985,9 +2080,9 @@ Pesquise "Capcom" na App Store, ou o nome de um de nossos aplicativos, para mais
     </entry>
     <entry>
         <title type="html"><![CDATA[Ace Attorney Trilogy]]></title>
-        <id>Ace Attorney Trilogy-pt-1791462124844</id>
+        <id>Ace Attorney Trilogy-pt-1791453869385</id>
         <link href="https://appstore-discounts.eyelly.me/pt/1621065119?lang=en"/>
-        <updated>2026-10-08T12:22:04.844Z</updated>
+        <updated>2026-10-08T10:04:29.385Z</updated>
         <summary type="html"><![CDATA[Price: 29,99 € → 9,89 €]]></summary>
         <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1621065119?lang=en">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/00/c6/6f/00c66fb0-2155-e80e-c811-b67de1795236/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
@@ -2044,9 +2139,9 @@ Search for "Capcom" in the App Store, or the name of one of our apps, for more f
     </entry>
     <entry>
         <title type="html"><![CDATA[Street Fighter IV CE]]></title>
-        <id>Street Fighter IV CE-pt-1791462124844</id>
+        <id>Street Fighter IV CE-pt-1791453869385</id>
         <link href="https://appstore-discounts.eyelly.me/pt/1239299402?lang=en"/>
-        <updated>2026-10-08T12:22:04.844Z</updated>
+        <updated>2026-10-08T10:04:29.385Z</updated>
         <summary type="html"><![CDATA[Price: 5,99 € → 0,99 €]]></summary>
         <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1239299402?lang=en">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/b7/9d/37b79d48-f250-0a7a-b93e-e840975c4694/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/60x60bb.jpg" />
@@ -2075,10 +2170,80 @@ https://www.capcom-games.com/product/en-us/streetfighter4-championedition/?t=ope
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/04/83/6b04836b-e4fe-74b7-7c2d-3364625d98f7/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/3b/36/2c3b36a6-b27f-7889-1915-7b3740df12c4/mzl.xjkrlvzs.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/23/a3/4623a392-ff43-61a0-4815-084db7c3a63b/mzl.xglmdoax.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/0f/04/d10f0408-095e-1abb-e161-0f81ddb54954/mzl.hnmfgpne.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/4e/02/c74e0202-b5c3-ca8d-23bf-21367d47406b/mzl.eovkzjwo.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/24/e0/ca24e086-83a4-a0ae-90e3-0ddd11396c9d/mzl.fxihgwzz.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/df/6d/bddf6d9c-a6fd-2842-3aaf-ed9b14fbf754/mzl.xjoyihym.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/a0/bd/52a0bd9d-05b0-88c6-ac8a-b54fefe54131/mzl.okbdgrto.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/53/21/f153212a-d2d0-c05f-2152-323a8c167a6e/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/8f/96/e98f966f-6b7a-ad9a-fb9c-27e9b926e3a6/mzl.bcxnwxpc.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/36/17/cc361784-d541-8681-f601-df20ca2ac7b1/mzl.ekyoymvf.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/fe/d6/a8fed67d-05dc-5469-0463-c04fdef2c15b/mzl.errenflt.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/4b/36/b04b3672-9bd8-4931-df04-0426e2c665c5/mzl.yfyqsfev.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/22/0d/31220dd9-605d-8f12-5aa0-b04f5d3477df/mzl.cnvhdpqf.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/ec/f8/e3ecf8a6-f2ee-5221-6d0d-cf2a9842356d/mzl.stuslswi.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/0d/62/dc0d6241-f8e6-90fe-95d5-2bcca4e770fa/mzl.mtochplp.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fitness Amigo+]]></title>
+        <id>Fitness Amigo+-pt-1791420216639</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/443646748?lang=en"/>
+        <updated>2026-10-08T00:43:36.639Z</updated>
+        <summary type="html"><![CDATA[Premium: 43,99 € → 9,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/443646748?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/6e/b1/236eb1c6-d105-0fd1-aa5e-b70fd54213a0/AppIcon-FB-Pro-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>Compras integradas</h3><ul>
+  <li>
+    <strong>Premium：</strong><span>43,99 €</span> → <b>
+  <strong>9,99 €</strong>
+</b><span>[9,99 € ~ 43,99 €]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>3,99 €</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    Fitness Buddy Premium：<b>46,99 €</b>
+  </li><li>
+    Premium：<b>9,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  75% desconto !!! 12 HORAS venda! Acaba de atualizar e agora tem 1700 + exercícios e mais de 1000 vídeos em HD!
+
+Descobrir o porquê ginásio frequentadores estão migrando para Fitness Amigo! Com 1700 + exercícios únicos à sua disposição, que vai revolucionar o seu regime de treinamento. Com este aplicativo, você vai encontrar o processo de acompanhamento de exercícios simples e fácil, a fim de sustentar a sua motivação e fazer cumprir o seu compromisso com suas metas de fitness.
+
+- Características principais ---
+
+- 1700 + exercícios únicos!
+- 1000 vídeos em HD
+- Exercícios abrangentes para todos os principais equipamentos, incluindo barra, ez curl bar, halteres, kettlebells, bandas de resistência, e bolas de estabilidade
+- Exercício categorização (core, parte inferior do corpo, peito, ombros, costas, braços, cardio, trechos)
+- 4000+ fotos de exercícios e animações (resolução de tela retina)
+- Instruções do exercício detalhada e categorizações musculares
+- Capacidades para adicionar seus próprios exercícios personalizados e exercícios favoritos
+
+Interface amigável
+- Acompanhamento de exercícios simples e rápida
+- Barra de pesquisa para encontrar rapidamente os seus exercícios favoritos
+
+75+ rotinas de treino
+- Repertório diverso de rotinas de exercícios, incluindo exercícios para mulheres
+- Rotinas específicas para seus objetivos (construir peito grande, bumbum tom, perder peso, e mais!)
+- rotinas específicas para o seu equipamento (bandas de resistência, kettlebells, peso corporal única, etc.)
+- Construa suas próprias rotinas de treino
+
+acompanhamento de métricas de corpo
+- Acompanhe o seu peso corporal e métricas (tórax, braços, coxas, etc)
+- Graph seu progresso corpo
+
+Sharing App Saúde da Apple
+- Integra-se com a Apple App Saúde (Configurações -> Planos de Apple Saúde App Sharing)
+
+Upgrade para premium para acesso ilimitado a programas Premium e exercícios Playpen Freeplay, vídeos HD, áudio dinâmico e motivacional, resumos de treino e-mail com dicas e conselhos sobre uma vida saudável, apoio prioritário com subscrição iTunes renovável.
+
+E muitos outros recursos para que você possa melhorar a sua experiência de treino. Você não vai se decepcionar quando você treinar duro com Fitness Amigo.
+
+We offer auto-renewing subscriptions with the following specifications:
+- Subscriptions are 1 month or 12 months long
+- Subscriptions are $9.99 USD per month or $29.99 USD per year.
+- Payment will be charged to iTunes Account at confirmation of purchase
+- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+- No cancellation of the current subscription is allowed during active subscription period
+- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication.
+- our Privacy Policy and terms of use: https://www.azumio.com/page/privacypolicy
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/96/12/75/961275af-e0e2-cf7f-a9b1-4319723854dc/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/e0/3d/42/e03d421f-8061-02c9-8bf3-5ede07dd2a8e/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple20/v4/0d/ec/b0/0decb030-ce04-8c00-bcb7-0ea3e6f2c81f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/88/87/61/8887611b-e9a1-8a25-41e4-471eb27e3078/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/5a/3e/fa/5a3efa38-a6ea-1ae2-be22-35442da07b18/pr_source.png/392x696bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Slots & Daggers]]></title>
-        <id>Slots &amp; Daggers-pt-1791411734325</id>
+        <id>Slots &amp; Daggers-pt-1791420216639</id>
         <link href="https://appstore-discounts.eyelly.me/pt/6762803589?lang=en"/>
-        <updated>2026-10-07T22:22:14.325Z</updated>
+        <updated>2026-10-08T00:43:36.639Z</updated>
         <summary type="html"><![CDATA[Price: 3,99 € → 1,99 €]]></summary>
         <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6762803589?lang=en">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/a2/7c/85a27cac-3117-0225-bb77-9a5940865e5b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
@@ -2121,9 +2286,9 @@ Friedemann
     </entry>
     <entry>
         <title type="html"><![CDATA[Triple A HD - Touch Visualizer]]></title>
-        <id>Triple A HD - Touch Visualizer-pt-1791411734325</id>
+        <id>Triple A HD - Touch Visualizer-pt-1791420216639</id>
         <link href="https://appstore-discounts.eyelly.me/pt/857607006?lang=en"/>
-        <updated>2026-10-07T22:22:14.325Z</updated>
+        <updated>2026-10-08T00:43:36.639Z</updated>
         <summary type="html"><![CDATA[Price: 3,99 € → 1,99 €]]></summary>
         <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/857607006?lang=en">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/56/cc/6756cc92-b358-447f-1260-8afa36451a22/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
@@ -2175,9 +2340,9 @@ www.sunglab.com
     </entry>
     <entry>
         <title type="html"><![CDATA[CloverPit]]></title>
-        <id>CloverPit-pt-1791411734325</id>
+        <id>CloverPit-pt-1791420216639</id>
         <link href="https://appstore-discounts.eyelly.me/pt/6754894237?lang=en"/>
-        <updated>2026-10-07T22:22:14.325Z</updated>
+        <updated>2026-10-08T00:43:36.639Z</updated>
         <summary type="html"><![CDATA[Price: 7,99 € → 2,99 €]]></summary>
         <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6754894237?lang=en">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/83/4f/3d834fff-7e41-dbe7-06ff-e91fd0422963/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
@@ -2214,9 +2379,9 @@ Não mesmo! CloverPit é roguelite de terror, e não um simulador de caça-níqu
     </entry>
     <entry>
         <title type="html"><![CDATA[Titan Quest: Legendary Edition]]></title>
-        <id>Titan Quest: Legendary Edition-pt-1791411734325</id>
+        <id>Titan Quest: Legendary Edition-pt-1791420216639</id>
         <link href="https://appstore-discounts.eyelly.me/pt/1537060891?lang=en"/>
-        <updated>2026-10-07T22:22:14.325Z</updated>
+        <updated>2026-10-08T00:43:36.639Z</updated>
         <summary type="html"><![CDATA[Price: 19,99 € → 7,99 €]]></summary>
         <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1537060891?lang=en">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/98/08/059808ab-9d5d-493f-f7e8-569ed89b159d/AppIcon_FullEdition-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
@@ -2272,9 +2437,9 @@ Características principais:
     </entry>
     <entry>
         <title type="html"><![CDATA[This is the Police]]></title>
-        <id>This is the Police-pt-1791411734325</id>
+        <id>This is the Police-pt-1791420216639</id>
         <link href="https://appstore-discounts.eyelly.me/pt/1435461053?lang=en"/>
-        <updated>2026-10-07T22:22:14.325Z</updated>
+        <updated>2026-10-08T00:43:36.639Z</updated>
         <summary type="html"><![CDATA[Price: 7,99 € → 1,99 €]]></summary>
         <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1435461053?lang=en">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/8f/f1/a48ff181-b0ac-2c9a-9b80-e686482a6636/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
@@ -2308,9 +2473,9 @@ Escolha sua abordagem a cada situação à medida que ela se desenrola. Você à
     </entry>
     <entry>
         <title type="html"><![CDATA[Order Automatica]]></title>
-        <id>Order Automatica-pt-1791369813838</id>
+        <id>Order Automatica-pt-1791332575449</id>
         <link href="https://appstore-discounts.eyelly.me/pt/6778029370?lang=en"/>
-        <updated>2026-10-07T10:43:33.838Z</updated>
+        <updated>2026-10-07T00:22:55.449Z</updated>
         <summary type="html"><![CDATA[Price: 4,99 € → 3,79 €]]></summary>
         <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6778029370?lang=en">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/e1/ee/e9e1ee9c-e430-f2e1-8aaf-b3879f305ba8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
@@ -2344,115 +2509,10 @@ Como jogar xadrez com demónios.
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/7a/f7/127af767-1660-79ee-a3e6-7f3de00fa3c8/iOS_-_order_automatica_-_2796x1290Obszar_kompozycji_1_kopia_3.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/d0/d8/afd0d822-59cf-3390-58c8-92f5d651d506/iOS_-_order_automatica_-_2796x1290Obszar_kompozycji_1_kopia.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/86/a8/0b86a89b-c13b-cae3-41de-e081763b9233/iOS_-_order_automatica_-_2796x1290Obszar_kompozycji_1_kopia_2.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/b2/22/42b2225f-f925-1269-8b7b-92d562e8775a/iOS_-_order_automatica_-_2796x1290Obszar_kompozycji_1_kopia_4.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/41/73/1e4173ab-5f10-e8ce-dcb7-3cc3b4ef25af/iOS_-_order_automatica_-_2796x1290Obszar_kompozycji_1.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/27/d7/7b27d715-1386-cd19-7a2b-b13e8438be10/Image_Sequence_174_0000.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/32/d4/a632d4a4-3256-17a8-2c84-6591fa5164be/Image_Sequence_183_0000.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/e2/af/cee2af99-1f9a-6cdc-66fa-fdea3ae32b14/Image_Sequence_170_0000.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/09/44/570944c5-cbae-2da9-17de-e07e5f161740/Image_Sequence_160_0000.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/7c/b8/be7cb86c-f8c2-4f19-f60e-d4e362368cb5/Image_Sequence_156_0000.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/7d/30/ad7d3038-0635-f3dc-ead9-452974e4fa10/iOS_-_order_automatica_-_2752x2064Obszar_kompozycji_1_kopia_3.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/2a/b4/a82ab4c2-ec6a-33c6-1428-28c0b6e5c6d1/iOS_-_order_automatica_-_2752x2064Obszar_kompozycji_1_kopia.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/23/a8/9623a86d-8416-9d78-746f-a1f18b0161b6/iOS_-_order_automatica_-_2752x2064Obszar_kompozycji_1_kopia_2.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/fa/55/84fa5524-2cae-2661-0459-1912863f549d/iOS_-_order_automatica_-_2752x2064Obszar_kompozycji_1_kopia_4.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/b7/42/5eb74231-a5f7-99c0-9b7e-46809175f05d/iOS_-_order_automatica_-_2752x2064Obszar_kompozycji_1.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/f9/55/fff9552c-0224-c937-7416-3b82dbfc436f/Image_Sequence_175_0000.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/68/c6/7268c62e-1d12-8a77-bd3c-c2b53ca72954/Image_Sequence_184_0000.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/a6/f9/b3a6f9f4-8150-5ef1-0a94-cfc97f940a2d/Image_Sequence_169_0000.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/e8/e6/83e8e6b0-71ca-4b25-5554-809d7531d158/Image_Sequence_161_0000.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/6e/ad/976ead1f-d2b4-3aa2-0276-86f0d4f0e1e0/Image_Sequence_157_0000.png/360x480bb.jpg" />]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Speech to Text : Voice to Text]]></title>
-        <id>Speech to Text : Voice to Text-pt-1791369813838</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/1160943124?lang=en"/>
-        <updated>2026-10-07T10:43:33.838Z</updated>
-        <summary type="html"><![CDATA[Price: 0,99 € → Gratuito]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1160943124?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/40/18/17401875-3655-6e84-3a1e-48cf124dc74a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>0,99 €</span> → <b>
-  <strong>Gratuito</strong>
-</b><span>[Gratuito ~ 1,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Gratuito</b>
-</p><h3>Compras integradas</h3><ul>
-  <li>
-    Year：<b>12,99 €</b>
-  </li><li>
-    6 Months：<b>9,99 €</b>
-  </li><li>
-    Month：<b>2,99 €</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Speech to text : Voice to text  is the powerful, real-time dictation solution. Based on the latest artificial intelligence and using a powerful speech recognition engine, This Dictation app accurately transcribes your speech to text in real time. 
-
-The clean elegant design, along with the non-stop voice recognition and other features means you can relax and focus on your thoughts and content.
-
-Using our app , your words will be magically transcribed into text without your ever needing to touch a keyboard. Now you can use the power of your voice to create your words!
-
-Easily share your text and files later! (Works with Evernote, Dropbox, Google Drive, OneDrive, Facebook, Twitter, Snapchat, WhatsApp and other iOS supported sharing apps.)
-
-
-Whether you’re a professional writer, doctor, lawyer, disabled or somehow prevented from traditional typing, Speech to text : Voice to text app will swiftly solve your transcription problems and help you achieve your writing goals today!
-
-
-
-This fantastic speech-to-text app will allow you to do more with your iPhone/ iPad :
-
-・Longer Record time:
- -DICTATE CONTINUOUSLY up-to 1 HOUR.
-
-・Unlimited save & edits
-
-・Transcribed text can be edited directly.
-・Ideal for both individual and group transcription
-・Background support for voice recognition.
-・On-device Speech Recognition.
-
-• Voice recognition support for 59 languages and accents.
-• Share your text on social networks.
-• Copy your text to other apps.
-• Send your text as an email or text message.
-
-• Create PDF instantly with single click.
-• Convert text your notes, reports, letters into PDF instantly
-• Text Analysis using AI.
-
-►  Currently Supported Speech Recognition Languages: Arabic, Cantonese, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Finnish, French, German, Greek, Hebrew, Hindi, Hungarian, Indonesian, Italian, Japanese, Korean, Malay, Norwegian, Bokmål, Polish, Portuguese, Romanian, Russian, Shanghainese, Slovak, Spanish, Swedish, Thai, Turkish, Ukrainian, Vietnamese.
-
-Technology:
-New iOS 14 Speech framework having state of the art accuracy,
-Faster ,Automatically adapts to the user
-
-Super easy: Simply click the microphone and start dictating. No need to login or register
-
-You can add new paragraphs, punctuation marks, smileys and other special characters using simple voice commands.
-
-Who Should Use Speech to Text : Voice to Text ?
-
-1. Reporters: Interviews, conversations and more are easily recorded and transcribed, preserving the original audio.
-
-2. Writers: Novelists, Authors, can all write in their true voice, capturing their moments of inspiration anytime, anywhere.
-
-3. Professionals: Doctors, lawyers, managers, etc. Easily transcribe your daily tasks, notes, conference calls, letters and more! Your voice makes it happen!
-
-4. Elderly or Disabled: Eliminates slow typing, commonly misspelled words or embarrassing composition mistakes. This app makes it convenient and easy to send and share your words with those you love.
-
-5. Language Students: Text analysis using AI , Easily learn and master new words and languages by practicing dictation with speech to text app !
-
-SUBSCRIPTION PRICING & TERMS
-
-We offer three auto-renewing subscription options:
-
-$1.99 / month
-$9.49 / 6 months - Save 20%
-$14.49 / 1 year - Save 40%
-
-The price corresponds to the same price segment , which are set in the “Apple App Store Matrix” for other currencies
-
-You can cancel a subscription anytime by turning off auto renewal though your iTunes account settings.This must be done 24 hours before the end of subscription period to avoid being charged.
-The cancellation will take effect the day after the last day of the current subscription.
-
-Terms of Service :
-https://voiceovermaker.com/termsofuse
-
-Privacy Policy:
-https://voiceovermaker.com/privacypolicy
-
-
-
-Support:
-Please email for any suggestions/feedback
-voiceovermakerz@gmail.com
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a2/25/9c/a2259cd3-bd59-1ebe-94c5-5d0466ed69e0/mzl.vmygkyjz.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/bc/75/0d/bc750d10-602f-4205-6297-6a2b32a884b6/f9ecb161-b28d-46a0-9a25-00809fc51d99_SpeechText1@z2x.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/3d/ec/f4/3decf434-9544-7c87-b72b-facdfe595127/af36c918-b65f-4d95-b6ec-8a5d95f3a491_SpeechText_iphone5pt5_3@2x.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d4/fa/15/d4fa1546-8b5a-b688-abd7-3d7d9f28305e/52b0a797-e88d-417a-a69d-a3afae3d7c01_SpeechText5@2x.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8d/99/54/8d9954ed-3074-ff5e-cce5-f128a342560d/97a05ad0-b470-4890-b048-a8a5e4240987_Speechtext2@2x.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/43/ec/a8/43eca89e-58da-c527-ee7a-33114291f379/756f491f-13c7-47e8-85ea-8a28b9548484_SpeechText8@2x.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3d/bc/d0/3dbcd094-b683-377c-aa2a-c90cad921927/bb6d4598-81ef-4e64-86f5-d3a7d7c89b7a_SpeechText9@2x.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/da/f6/90/daf690d6-07db-431b-51cd-dd23af8e8216/ff96eba5-6233-423d-94b2-4de07ed6c814_SpeechtextiPad1@1x.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/37/5a/43/375a43c9-7c1e-e0dc-eebd-86d9593a0856/38618a72-0ca3-450f-9024-86c3f9b0df05_SpeechtextiPad4@1x.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/40/4f/93/404f937c-f31c-3aa2-96f5-33c673156463/d953665e-2a03-4615-9de8-2b019db242d5_SpeechtextiPad5@1x.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ba/e2/ac/bae2aca4-d671-e4bd-5070-a38099520477/7265fb5a-c6fd-43f0-be8b-ecca4cd897cc_SpeechtextiPad7@1x.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/59/e4/7d/59e47d7c-849f-efd9-8b06-f9598bb88804/947b0610-f965-4baf-af99-92fb0049fb33_SpeechtextiPad10@1x.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b4/2c/a2/b42ca2c1-be22-9e73-199b-ab6b71a0d51f/8a293e78-3a88-41ae-bd2e-4ff9ed3e6227_SpeechtextiPadold2.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Neo Monsters]]></title>
-        <id>Neo Monsters-pt-1791369813838</id>
+        <id>Neo Monsters-pt-1791332575449</id>
         <link href="https://appstore-discounts.eyelly.me/pt/983143183?lang=en"/>
-        <updated>2026-10-07T10:43:33.838Z</updated>
+        <updated>2026-10-07T00:22:55.449Z</updated>
         <summary type="html"><![CDATA[Price: 0,99 € → Gratuito]]></summary>
         <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/983143183?lang=en">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/5f/5e/7a5f5e06-517a-a2f0-1baf-ca2b77714f6e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
@@ -2521,9 +2581,9 @@ https://www.zigzagame.com/privacy-policy/
     </entry>
     <entry>
         <title type="html"><![CDATA[Terraria]]></title>
-        <id>Terraria-pt-1791369813838</id>
+        <id>Terraria-pt-1791332575449</id>
         <link href="https://appstore-discounts.eyelly.me/pt/640364616?lang=en"/>
-        <updated>2026-10-07T10:43:33.838Z</updated>
+        <updated>2026-10-07T00:22:55.449Z</updated>
         <summary type="html"><![CDATA[Price: 5,99 € → 2,99 €]]></summary>
         <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/640364616?lang=en">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/eb/57/02eb5740-ae95-86fd-0000-f0a64ab1a392/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
@@ -2593,9 +2653,9 @@ Junte-se aos fóruns oficiais de Terraria em: https://forums.terraria.org/
     </entry>
     <entry>
         <title type="html"><![CDATA[BreatheIn: Calm Breathing]]></title>
-        <id>BreatheIn: Calm Breathing-pt-1791369813838</id>
+        <id>BreatheIn: Calm Breathing-pt-1791332575449</id>
         <link href="https://appstore-discounts.eyelly.me/pt/1481100296?lang=en"/>
-        <updated>2026-10-07T10:43:33.838Z</updated>
+        <updated>2026-10-07T00:22:55.449Z</updated>
         <summary type="html"><![CDATA[Price: 8,99 € → 0,99 €]]></summary>
         <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1481100296?lang=en">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/17/46/fa174617-2bb7-620c-12e2-044b8aa082d0/AppIcon-0-0-1x_U007epad-0-85-220-0.jpeg/60x60bb.jpg" />

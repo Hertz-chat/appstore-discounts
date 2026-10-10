@@ -2,7 +2,7 @@
   {
     "trackId": 1309638846,
     "region": "pt",
-    "timestamp": 1791583027946,
+    "timestamp": 1791585205739,
     "discounts": [
       {
         "type": "price",
@@ -22,7 +22,7 @@
   {
     "trackId": 1492049794,
     "region": "pt",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [
       {
         "type": "price",
@@ -42,7 +42,7 @@
   {
     "trackId": 6802565793,
     "region": "pt",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [
       {
         "type": "price",
@@ -62,7 +62,7 @@
   {
     "trackId": 1524418421,
     "region": "pt",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [
       {
         "type": "price",
@@ -82,7 +82,7 @@
   {
     "trackId": 1534488108,
     "region": "pt",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [
       {
         "type": "price",
@@ -102,7 +102,7 @@
   {
     "trackId": 1561849298,
     "region": "pt",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [
       {
         "type": "price",
@@ -122,7 +122,7 @@
   {
     "trackId": 1664728315,
     "region": "pt",
-    "timestamp": 1791506753682,
+    "timestamp": 1791507612931,
     "discounts": [
       {
         "type": "price",
@@ -142,7 +142,7 @@
   {
     "trackId": 6459581344,
     "region": "pt",
-    "timestamp": 1791506753682,
+    "timestamp": 1791507612931,
     "discounts": [
       {
         "type": "price",
@@ -160,9 +160,29 @@
     "firstRecordedAt": 1761797674362
   },
   {
+    "trackId": 6760948683,
+    "region": "pt",
+    "timestamp": 1791484107175,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "1,99 €",
+        "range": "[0,99 € ~ 4,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6760948683",
+    "trackName": "Digline: Mineração Relaxante",
+    "firstRecordedAt": 1781276299651
+  },
+  {
     "trackId": 882362024,
     "region": "pt",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [
       {
         "type": "price",
@@ -203,7 +223,7 @@
   {
     "trackId": 1136993233,
     "region": "pt",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [
       {
         "type": "price",
@@ -230,7 +250,7 @@
   {
     "trackId": 1239299402,
     "region": "pt",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [
       {
         "type": "price",
@@ -250,7 +270,7 @@
   {
     "trackId": 1621065119,
     "region": "pt",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [
       {
         "type": "price",
@@ -270,7 +290,7 @@
   {
     "trackId": 6446021269,
     "region": "pt",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [
       {
         "type": "price",
@@ -288,29 +308,9 @@
     "firstRecordedAt": 1761797674362
   },
   {
-    "trackId": 6760948683,
-    "region": "pt",
-    "timestamp": 1791462124844,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "2,99 €",
-        "to": "1,99 €",
-        "range": "[0,99 € ~ 4,99 €]"
-      }
-    ],
-    "price": 1.99,
-    "formattedPrice": "1,99 €",
-    "currency": "EUR",
-    "trackViewUrl": "https://apps.apple.com/pt/app/id6760948683",
-    "trackName": "Digline: Mineração Relaxante",
-    "firstRecordedAt": 1781276299651
-  },
-  {
     "trackId": 6780967766,
     "region": "pt",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [
       {
         "type": "price",
@@ -325,12 +325,12 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6780967766",
     "trackName": "Comprato",
-    "firstRecordedAt": 1791411734325
+    "firstRecordedAt": 1791397748865
   },
   {
     "trackId": 857607006,
     "region": "pt",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [
       {
         "type": "price",
@@ -350,7 +350,7 @@
   {
     "trackId": 1435461053,
     "region": "pt",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [
       {
         "type": "price",
@@ -370,7 +370,7 @@
   {
     "trackId": 1537060891,
     "region": "pt",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [
       {
         "type": "price",
@@ -390,7 +390,7 @@
   {
     "trackId": 6754894237,
     "region": "pt",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [
       {
         "type": "price",
@@ -410,7 +410,7 @@
   {
     "trackId": 6762803589,
     "region": "pt",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [
       {
         "type": "price",
@@ -430,7 +430,7 @@
   {
     "trackId": 640364616,
     "region": "pt",
-    "timestamp": 1791369813838,
+    "timestamp": 1791332575449,
     "discounts": [
       {
         "type": "price",
@@ -450,7 +450,7 @@
   {
     "trackId": 983143183,
     "region": "pt",
-    "timestamp": 1791369813838,
+    "timestamp": 1791332575449,
     "discounts": [
       {
         "type": "price",
@@ -468,29 +468,9 @@
     "firstRecordedAt": 1761797674362
   },
   {
-    "trackId": 1160943124,
-    "region": "pt",
-    "timestamp": 1791369813838,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "0,99 €",
-        "to": "Gratuito",
-        "range": "[Gratuito ~ 1,99 €]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "Gratuito",
-    "currency": "EUR",
-    "trackViewUrl": "https://apps.apple.com/pt/app/id1160943124",
-    "trackName": "Speech to Text : Voice to Text",
-    "firstRecordedAt": 1761797674362
-  },
-  {
     "trackId": 1481100296,
     "region": "pt",
-    "timestamp": 1791369813838,
+    "timestamp": 1791332575449,
     "discounts": [
       {
         "type": "price",
@@ -510,7 +490,7 @@
   {
     "trackId": 6778029370,
     "region": "pt",
-    "timestamp": 1791369813838,
+    "timestamp": 1791332575449,
     "discounts": [
       {
         "type": "price",
@@ -526,6 +506,26 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id6778029370",
     "trackName": "Order Automatica",
     "firstRecordedAt": 1788647953625
+  },
+  {
+    "trackId": 1160943124,
+    "region": "pt",
+    "timestamp": 1791316756993,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 1,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1160943124",
+    "trackName": "Speech to Text : Voice to Text",
+    "firstRecordedAt": 1761797674362
   },
   {
     "trackId": 1630541373,

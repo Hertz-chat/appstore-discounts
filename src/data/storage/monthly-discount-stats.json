@@ -262,10 +262,10 @@
       "inAppPurchase": {}
     },
     "1662217862": {
-      "all": 2,
+      "all": 3,
       "price": 0,
       "inAppPurchase": {
-        "Filtr": 2
+        "Filtr": 3
       }
     },
     "1664728315": {
@@ -1316,6 +1316,14 @@
     }
   },
   "pt": {
+    "443646748": {
+      "all": 2,
+      "price": 0,
+      "inAppPurchase": {
+        "Premium": 1,
+        "Fitness Buddy Premium": 1
+      }
+    },
     "640364616": {
       "all": 1,
       "price": 1,
@@ -1508,12 +1516,12 @@
       "price": 1,
       "inAppPurchase": {}
     },
-    "6760948683": {
+    "6446021269": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
     },
-    "6446021269": {
+    "6760948683": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}

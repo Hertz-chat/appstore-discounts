@@ -98,7 +98,7 @@
   {
     "trackId": 299117180,
     "region": "cn",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 88,
     "formattedPrice": "¥88.00",
@@ -774,7 +774,7 @@
   {
     "trackId": 363738376,
     "region": "cn",
-    "timestamp": 1791583027946,
+    "timestamp": 1791585205739,
     "discounts": [],
     "price": 168,
     "formattedPrice": "¥168.00",
@@ -1088,7 +1088,7 @@
   {
     "trackId": 390017969,
     "region": "cn",
-    "timestamp": 1791490715855,
+    "timestamp": 1791507612931,
     "discounts": [],
     "price": 58,
     "formattedPrice": "¥58.00",
@@ -1168,6 +1168,18 @@
     "trackViewUrl": "https://apps.apple.com/cn/app/id395680819",
     "trackName": "AVPlayer",
     "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 396351547,
+    "region": "cn",
+    "timestamp": 1791366760269,
+    "discounts": [],
+    "price": 8,
+    "formattedPrice": "¥8.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id396351547",
+    "trackName": "Where's my MBTA Bus?",
+    "firstRecordedAt": 1791366760269
   },
   {
     "trackId": 400666114,
@@ -1463,7 +1475,7 @@
   {
     "trackId": 430270438,
     "region": "cn",
-    "timestamp": 1791411734325,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免费",
@@ -3415,7 +3427,7 @@
   {
     "trackId": 755018884,
     "region": "cn",
-    "timestamp": 1791088289653,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 1,
     "formattedPrice": "¥1.00",
@@ -3499,7 +3511,7 @@
   {
     "trackId": 777310222,
     "region": "cn",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 48,
     "formattedPrice": "¥48.00",
@@ -3670,7 +3682,7 @@
   {
     "trackId": 857607006,
     "region": "cn",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 15,
     "formattedPrice": "¥15.00",
@@ -4417,7 +4429,7 @@
   {
     "trackId": 964708975,
     "region": "cn",
-    "timestamp": 1791411734325,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免费",
@@ -4789,7 +4801,7 @@
   {
     "trackId": 1027403357,
     "region": "cn",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [],
     "price": 15,
     "formattedPrice": "¥15.00",
@@ -4959,14 +4971,14 @@
   {
     "trackId": 1057703608,
     "region": "cn",
-    "timestamp": 1791567503610,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 148,
     "formattedPrice": "¥148.00",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id1057703608",
     "trackName": "Gyn Cancer Staging Atlas",
-    "firstRecordedAt": 1791567503610
+    "firstRecordedAt": 1791540411692
   },
   {
     "trackId": 1059218666,
@@ -5261,7 +5273,7 @@
   {
     "trackId": 1085114709,
     "region": "cn",
-    "timestamp": 1791369813838,
+    "timestamp": 1791316756993,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免费",
@@ -5851,7 +5863,7 @@
   {
     "trackId": 1157863540,
     "region": "cn",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 18,
     "formattedPrice": "¥18.00",
@@ -5863,7 +5875,7 @@
   {
     "trackId": 1159266744,
     "region": "cn",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 6,
     "formattedPrice": "¥6.00",
@@ -5875,7 +5887,7 @@
   {
     "trackId": 1159700098,
     "region": "cn",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 30,
     "formattedPrice": "¥30.00",
@@ -5899,7 +5911,7 @@
   {
     "trackId": 1160943124,
     "region": "cn",
-    "timestamp": 1791369813838,
+    "timestamp": 1791316756993,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免费",
@@ -5923,7 +5935,7 @@
   {
     "trackId": 1163515895,
     "region": "cn",
-    "timestamp": 1790334927745,
+    "timestamp": 1791484107175,
     "discounts": [],
     "price": 30,
     "formattedPrice": "¥30.00",
@@ -5971,7 +5983,7 @@
   {
     "trackId": 1169282239,
     "region": "cn",
-    "timestamp": 1791601361280,
+    "timestamp": 1791585205739,
     "discounts": [],
     "price": 1,
     "formattedPrice": "¥1.00",
@@ -6333,7 +6345,7 @@
   {
     "trackId": 1236657805,
     "region": "cn",
-    "timestamp": 1791583027946,
+    "timestamp": 1791585205739,
     "discounts": [],
     "price": 22,
     "formattedPrice": "¥22.00",
@@ -6597,7 +6609,7 @@
   {
     "trackId": 1271620263,
     "region": "cn",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 18,
     "formattedPrice": "¥18.00",
@@ -6729,7 +6741,7 @@
   {
     "trackId": 1309638846,
     "region": "cn",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [],
     "price": 15,
     "formattedPrice": "¥15.00",
@@ -6909,7 +6921,7 @@
   {
     "trackId": 1344655035,
     "region": "cn",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免费",
@@ -7090,7 +7102,7 @@
   {
     "trackId": 1380582804,
     "region": "cn",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 18,
     "formattedPrice": "¥18.00",
@@ -7246,7 +7258,7 @@
   {
     "trackId": 1422480068,
     "region": "cn",
-    "timestamp": 1791506753682,
+    "timestamp": 1791507612931,
     "discounts": [],
     "price": 69.9,
     "formattedPrice": "¥69.90",
@@ -7332,7 +7344,7 @@
   {
     "trackId": 1436481293,
     "region": "cn",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免费",
@@ -7368,7 +7380,7 @@
   {
     "trackId": 1437479513,
     "region": "cn",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [],
     "price": 30,
     "formattedPrice": "¥30.00",
@@ -7792,7 +7804,7 @@
   {
     "trackId": 1453808408,
     "region": "cn",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 18,
     "formattedPrice": "¥18.00",
@@ -7852,7 +7864,7 @@
   {
     "trackId": 1458460469,
     "region": "cn",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 18,
     "formattedPrice": "¥18.00",
@@ -8153,7 +8165,7 @@
   {
     "trackId": 1481100296,
     "region": "cn",
-    "timestamp": 1791369813838,
+    "timestamp": 1791332575449,
     "discounts": [],
     "price": 8,
     "formattedPrice": "¥8.00",
@@ -8274,7 +8286,7 @@
   {
     "trackId": 1492049794,
     "region": "cn",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免费",
@@ -8670,7 +8682,7 @@
   {
     "trackId": 1517281147,
     "region": "cn",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免费",
@@ -8682,7 +8694,7 @@
   {
     "trackId": 1517349382,
     "region": "cn",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 1,
     "formattedPrice": "¥1.00",
@@ -8814,7 +8826,7 @@
   {
     "trackId": 1523446532,
     "region": "cn",
-    "timestamp": 1791411734325,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 30,
     "formattedPrice": "¥30.00",
@@ -8838,7 +8850,7 @@
   {
     "trackId": 1524418421,
     "region": "cn",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 28,
     "formattedPrice": "¥28.00",
@@ -8899,7 +8911,7 @@
   {
     "trackId": 1530149693,
     "region": "cn",
-    "timestamp": 1788467599321,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 3,
     "formattedPrice": "¥3.00",
@@ -8983,7 +8995,7 @@
   {
     "trackId": 1534488108,
     "region": "cn",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 28,
     "formattedPrice": "¥28.00",
@@ -9115,7 +9127,7 @@
   {
     "trackId": 1544190466,
     "region": "cn",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [],
     "price": 12,
     "formattedPrice": "¥12.00",
@@ -9245,6 +9257,18 @@
     "firstRecordedAt": 1778346131929
   },
   {
+    "trackId": 1549615527,
+    "region": "cn",
+    "timestamp": 1791366760269,
+    "discounts": [],
+    "price": 12,
+    "formattedPrice": "¥12.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1549615527",
+    "trackName": "咪莫-打破次元壁密室解谜",
+    "firstRecordedAt": 1791366760269
+  },
+  {
     "trackId": 1549693927,
     "region": "cn",
     "timestamp": 1748650158057,
@@ -9333,7 +9357,7 @@
   {
     "trackId": 1551596643,
     "region": "cn",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [],
     "price": 18,
     "formattedPrice": "¥18.00",
@@ -9441,7 +9465,7 @@
   {
     "trackId": 1557637265,
     "region": "cn",
-    "timestamp": 1791369813838,
+    "timestamp": 1791332575449,
     "discounts": [],
     "price": 1,
     "formattedPrice": "¥1.00",
@@ -9549,7 +9573,7 @@
   {
     "trackId": 1561849298,
     "region": "cn",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 28,
     "formattedPrice": "¥28.00",
@@ -9828,7 +9852,7 @@
   {
     "trackId": 1584313012,
     "region": "cn",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 25,
     "formattedPrice": "¥25.00",
@@ -10091,18 +10115,6 @@
     "firstRecordedAt": 1767185811544
   },
   {
-    "trackId": 1605445697,
-    "region": "cn",
-    "timestamp": 1791583027946,
-    "discounts": [],
-    "price": 18,
-    "formattedPrice": "¥18.00",
-    "currency": "CNY",
-    "trackViewUrl": "https://apps.apple.com/cn/app/id1605445697",
-    "trackName": "空灵鼓-无忧鼓（含钢舌鼓）",
-    "firstRecordedAt": 1791583027946
-  },
-  {
     "trackId": 1605488891,
     "region": "cn",
     "timestamp": 1781864761375,
@@ -10214,7 +10226,7 @@
   {
     "trackId": 1614200925,
     "region": "cn",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 25,
     "formattedPrice": "¥25.00",
@@ -10334,7 +10346,7 @@
   {
     "trackId": 1621055260,
     "region": "cn",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [],
     "price": 1,
     "formattedPrice": "¥1.00",
@@ -10394,7 +10406,7 @@
   {
     "trackId": 1624326561,
     "region": "cn",
-    "timestamp": 1791369813838,
+    "timestamp": 1791316756993,
     "discounts": [],
     "price": 1,
     "formattedPrice": "¥1.00",
@@ -10418,7 +10430,7 @@
   {
     "trackId": 1626320298,
     "region": "cn",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [],
     "price": 8,
     "formattedPrice": "¥8.00",
@@ -10466,7 +10478,7 @@
   {
     "trackId": 1630541373,
     "region": "cn",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免费",
@@ -10828,7 +10840,7 @@
   {
     "trackId": 1665759338,
     "region": "cn",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [],
     "price": 8,
     "formattedPrice": "¥8.00",
@@ -10996,7 +11008,7 @@
   {
     "trackId": 6443786927,
     "region": "cn",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 18,
     "formattedPrice": "¥18.00",
@@ -11128,7 +11140,7 @@
   {
     "trackId": 6444396120,
     "region": "cn",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 18,
     "formattedPrice": "¥18.00",
@@ -11250,7 +11262,7 @@
   {
     "trackId": 6446614518,
     "region": "cn",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 20,
     "formattedPrice": "¥20.00",
@@ -11442,7 +11454,7 @@
   {
     "trackId": 6450877530,
     "region": "cn",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [],
     "price": 12,
     "formattedPrice": "¥12.00",
@@ -11780,7 +11792,7 @@
   {
     "trackId": 6473332700,
     "region": "cn",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [],
     "price": 35,
     "formattedPrice": "¥35.00",
@@ -12128,7 +12140,7 @@
   {
     "trackId": 6499512726,
     "region": "cn",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 18,
     "formattedPrice": "¥18.00",
@@ -12284,7 +12296,7 @@
   {
     "trackId": 6550914957,
     "region": "cn",
-    "timestamp": 1791506753682,
+    "timestamp": 1791507612931,
     "discounts": [],
     "price": 18,
     "formattedPrice": "¥18.00",
@@ -12344,7 +12356,7 @@
   {
     "trackId": 6612011484,
     "region": "cn",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 18,
     "formattedPrice": "¥18.00",
@@ -12368,7 +12380,7 @@
   {
     "trackId": 6633427774,
     "region": "cn",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [],
     "price": 18,
     "formattedPrice": "¥18.00",
@@ -12534,6 +12546,18 @@
     "firstRecordedAt": 1745328692670
   },
   {
+    "trackId": 6737783441,
+    "region": "cn",
+    "timestamp": 1791366760269,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6737783441",
+    "trackName": "(Not Boring) Camera",
+    "firstRecordedAt": 1791366760269
+  },
+  {
     "trackId": 6737795387,
     "region": "cn",
     "timestamp": 1790354327877,
@@ -12621,7 +12645,7 @@
   {
     "trackId": 6738767315,
     "region": "cn",
-    "timestamp": 1791429422397,
+    "timestamp": 1791453869385,
     "discounts": [],
     "price": 18,
     "formattedPrice": "¥18.00",
@@ -12633,7 +12657,7 @@
   {
     "trackId": 6738767322,
     "region": "cn",
-    "timestamp": 1791429422397,
+    "timestamp": 1791453869385,
     "discounts": [],
     "price": 18,
     "formattedPrice": "¥18.00",
@@ -12669,7 +12693,7 @@
   {
     "trackId": 6739274856,
     "region": "cn",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [],
     "price": 6,
     "formattedPrice": "¥6.00",
@@ -13090,7 +13114,7 @@
   {
     "trackId": 6743021613,
     "region": "cn",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 28,
     "formattedPrice": "¥28.00",
@@ -13870,7 +13894,7 @@
   {
     "trackId": 6749369705,
     "region": "cn",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [],
     "price": 29,
     "formattedPrice": "¥29.00",
@@ -14015,7 +14039,7 @@
   {
     "trackId": 6751309563,
     "region": "cn",
-    "timestamp": 1791369813838,
+    "timestamp": 1791316756993,
     "discounts": [],
     "price": 18,
     "formattedPrice": "¥18.00",
@@ -14401,7 +14425,7 @@
   {
     "trackId": 6755228041,
     "region": "cn",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 30,
     "formattedPrice": "¥30.00",
@@ -14627,6 +14651,18 @@
     "firstRecordedAt": 1772859796667
   },
   {
+    "trackId": 6757261839,
+    "region": "cn",
+    "timestamp": 1791366760269,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6757261839",
+    "trackName": "CapWorld 单词相机",
+    "firstRecordedAt": 1791366760269
+  },
+  {
     "trackId": 6757458905,
     "region": "cn",
     "timestamp": 1772017038104,
@@ -14701,7 +14737,7 @@
   {
     "trackId": 6757943661,
     "region": "cn",
-    "timestamp": 1791088289653,
+    "timestamp": 1791332575449,
     "discounts": [],
     "price": 18,
     "formattedPrice": "¥18.00",
@@ -15025,7 +15061,7 @@
   {
     "trackId": 6760446039,
     "region": "cn",
-    "timestamp": 1791539096914,
+    "timestamp": 1791507612931,
     "discounts": [],
     "price": 18,
     "formattedPrice": "¥18.00",
@@ -15191,6 +15227,18 @@
     "firstRecordedAt": 1789727937882
   },
   {
+    "trackId": 6761963228,
+    "region": "cn",
+    "timestamp": 1791316756993,
+    "discounts": [],
+    "price": 6,
+    "formattedPrice": "¥6.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6761963228",
+    "trackName": "国学日历",
+    "firstRecordedAt": 1791316756993
+  },
+  {
     "trackId": 6762279908,
     "region": "cn",
     "timestamp": 1781693735963,
@@ -15217,14 +15265,14 @@
   {
     "trackId": 6762412284,
     "region": "cn",
-    "timestamp": 1791567503610,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 8,
     "formattedPrice": "¥8.00",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id6762412284",
     "trackName": "时光锚点 Days Anchor - 倒数 纪念 小组件",
-    "firstRecordedAt": 1791567503610
+    "firstRecordedAt": 1791540411692
   },
   {
     "trackId": 6762740657,
@@ -15445,7 +15493,7 @@
   {
     "trackId": 6775828757,
     "region": "cn",
-    "timestamp": 1791411734325,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 1,
     "formattedPrice": "¥1.00",
@@ -15855,7 +15903,7 @@
   {
     "trackId": 6802565793,
     "region": "cn",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免费",
@@ -15903,13 +15951,13 @@
   {
     "trackId": 6819276809,
     "region": "cn",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [],
     "price": 88,
     "formattedPrice": "¥88.00",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id6819276809",
     "trackName": "構造大飯店",
-    "firstRecordedAt": 1791567503610
+    "firstRecordedAt": 1791568819448
   }
 ]

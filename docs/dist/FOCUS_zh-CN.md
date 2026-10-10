@@ -1,20 +1,24 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2323` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2327` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|2323|1605445697|自动|空灵鼓-无忧鼓（含钢舌鼓）|空灵鼓-无忧鼓（含钢舌鼓）|空灵鼓-无忧鼓（含钢舌鼓）|空灵鼓-无忧鼓（含钢舌鼓）|空灵鼓-无忧鼓（含钢舌鼓）|空灵鼓-无忧鼓（含钢舌鼓）|空灵鼓-无忧鼓（含钢舌鼓）|
-|2322|1057703608|自动|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|
-|2321|6762412284|自动|时光锚点 Days Anchor - 倒数 纪念 小组件|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|
-|2320|6819276809|自动|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|
-|2319|6812927976|自动|❌|Enchanted Survival: 刷寶RPG|Enchanted Survival: 刷寶RPG|Enchanted Survival: 刷寶RPG|Enchanted Survival: Magic RPG|Enchanted Survival: Magic RPG|Enchanted Survival: RPG Loot|
-|2318|6775430354|自动|❌|Preserve: Complete Edition|Preserve: Complete Edition|Preserve: Complete Edition|Preserve: Complete Edition|Preserve: Complete Edition|Preserve: Complete Edition|
-|2317|6780967766|自动|❌|❌|❌|❌|❌|❌|Comprato|
-|2316|664972496|自动|❌|Tilt to Live 2: Redonkulous|Tilt to Live 2: Redonkulous|Tilt to Live 2: Redonkulous|Tilt to Live 2: Redonkulous|Tilt to Live 2: Redonkulous|Tilt to Live 2: Redonkulous|
+|2327|6819276809|自动|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|
+|2326|1057703608|自动|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|
+|2325|6762412284|自动|时光锚点 Days Anchor - 倒数 纪念 小组件|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|
+|2324|6812927976|自动|❌|Enchanted Survival: 刷寶RPG|Enchanted Survival: 刷寶RPG|Enchanted Survival: 刷寶RPG|Enchanted Survival: Magic RPG|Enchanted Survival: Magic RPG|Enchanted Survival: RPG Loot|
+|2323|6775430354|自动|❌|Preserve: Complete Edition|Preserve: Complete Edition|Preserve: Complete Edition|Preserve: Complete Edition|Preserve: Complete Edition|Preserve: Complete Edition|
+|2322|6780967766|自动|❌|❌|❌|❌|❌|❌|Comprato|
+|2321|396351547|自动|Where's my MBTA Bus?|Where's my MBTA Bus?|Where's my MBTA Bus?|Where's my MBTA Bus?|Where's my MBTA Bus?|Where's my MBTA Bus?|❌|
+|2320|6737783441|手动|(Not Boring) Camera|(Not Boring) Camera|(Not Boring) Camera|(Not Boring) Camera|(Not Boring) Camera|(Not Boring) Camera|(Not Boring) Camera|
+|2319|1549615527|手动|咪莫-打破次元壁密室解谜|❌|❌|❌|❌|❌|❌|
+|2318|6757261839|手动|CapWorld 单词相机|CapWorld 单词相机|CapWorld 单词相机|CapWorld 单词相机|CapWorld 单词相机|CapWorld 单词相机|CapWorld 单词相机|
+|2317|664972496|自动|❌|Tilt to Live 2: Redonkulous|Tilt to Live 2: Redonkulous|Tilt to Live 2: Redonkulous|Tilt to Live 2: Redonkulous|Tilt to Live 2: Redonkulous|Tilt to Live 2: Redonkulous|
+|2316|6761963228|自动|国学日历|国学日历|国学日历|国学日历|国学日历|国学日历|❌|
 |2315|6762788059|自动|Openrouter Tracker|Openrouter Tracker|Openrouter Tracker|Openrouter Tracker|Openrouter Tracker|Openrouter Tracker|Openrouter Tracker|
 |2314|6811858851|自动|❌|麻將16張|麻將16張|麻將16張|MahJong 16|MahJong 16|麻將16張|
 |2313|650684932|自动|OBD Fusion|OBD Fusion|OBD Fusion|OBD Fusion|OBD Fusion|OBD Fusion|OBD Fusion|

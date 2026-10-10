@@ -134,7 +134,7 @@
   {
     "trackId": 299117180,
     "region": "mo",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 12.99,
     "formattedPrice": "USD 12.99",
@@ -1496,7 +1496,7 @@
   {
     "trackId": 390017969,
     "region": "mo",
-    "timestamp": 1791490715855,
+    "timestamp": 1791507612931,
     "discounts": [],
     "price": 7.99,
     "formattedPrice": "USD 7.99",
@@ -1650,6 +1650,18 @@
     "firstRecordedAt": 1749741220262
   },
   {
+    "trackId": 396351547,
+    "region": "mo",
+    "timestamp": 1791366760269,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id396351547",
+    "trackName": "Where's my MBTA Bus?",
+    "firstRecordedAt": 1791366760269
+  },
+  {
     "trackId": 397553707,
     "region": "mo",
     "timestamp": 1765824087672,
@@ -1775,7 +1787,7 @@
   {
     "trackId": 404553553,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791059903104,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "USD 2.99",
@@ -2644,7 +2656,7 @@
   {
     "trackId": 469343554,
     "region": "mo",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "USD 0.99",
@@ -2788,7 +2800,7 @@
   {
     "trackId": 480956504,
     "region": "mo",
-    "timestamp": 1784341580677,
+    "timestamp": 1791606695944,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "USD 4.99",
@@ -2836,7 +2848,7 @@
   {
     "trackId": 484090401,
     "region": "mo",
-    "timestamp": 1791539096914,
+    "timestamp": 1791114629972,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "USD 3.99",
@@ -4534,7 +4546,7 @@
   {
     "trackId": 650684932,
     "region": "mo",
-    "timestamp": 1791207805972,
+    "timestamp": 1791606695944,
     "discounts": [],
     "price": 9.99,
     "formattedPrice": "USD 9.99",
@@ -4606,14 +4618,14 @@
   {
     "trackId": 664972496,
     "region": "mo",
-    "timestamp": 1791369813838,
+    "timestamp": 1791316756993,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "USD 2.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id664972496",
     "trackName": "Tilt to Live 2: Redonkulous",
-    "firstRecordedAt": 1791369813838
+    "firstRecordedAt": 1791316756993
   },
   {
     "trackId": 665745944,
@@ -5242,7 +5254,7 @@
   {
     "trackId": 777310222,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "USD 6.99",
@@ -5605,7 +5617,7 @@
   {
     "trackId": 857607006,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "USD 1.99",
@@ -5702,7 +5714,7 @@
   {
     "trackId": 882362024,
     "region": "mo",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [],
     "price": 0.49,
     "formattedPrice": "USD 0.49",
@@ -6102,7 +6114,7 @@
   {
     "trackId": 919815747,
     "region": "mo",
-    "timestamp": 1790805284947,
+    "timestamp": 1791366760269,
     "discounts": [],
     "price": 5.99,
     "formattedPrice": "USD 5.99",
@@ -6474,7 +6486,7 @@
   {
     "trackId": 946477821,
     "region": "mo",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "USD 2.99",
@@ -7015,7 +7027,7 @@
   {
     "trackId": 983143183,
     "region": "mo",
-    "timestamp": 1791369813838,
+    "timestamp": 1791316756993,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -7605,7 +7617,7 @@
   {
     "trackId": 1044671796,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "USD 3.99",
@@ -7678,7 +7690,7 @@
   {
     "trackId": 1055650930,
     "region": "mo",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "USD 4.99",
@@ -7715,14 +7727,14 @@
   {
     "trackId": 1057703608,
     "region": "mo",
-    "timestamp": 1791567503610,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 19.99,
     "formattedPrice": "USD 19.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1057703608",
     "trackName": "Gyn Cancer Staging Atlas",
-    "firstRecordedAt": 1791567503610
+    "firstRecordedAt": 1791540411692
   },
   {
     "trackId": 1059218666,
@@ -8307,7 +8319,7 @@
   {
     "trackId": 1099088440,
     "region": "mo",
-    "timestamp": 1784804950499,
+    "timestamp": 1791507612931,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "USD 0.99",
@@ -8824,7 +8836,7 @@
   {
     "trackId": 1136993233,
     "region": "mo",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [],
     "price": 0.49,
     "formattedPrice": "USD 0.49",
@@ -9040,7 +9052,7 @@
   {
     "trackId": 1159700098,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "USD 4.99",
@@ -9064,7 +9076,7 @@
   {
     "trackId": 1160943124,
     "region": "mo",
-    "timestamp": 1791369813838,
+    "timestamp": 1791316756993,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -9473,7 +9485,7 @@
   {
     "trackId": 1199912736,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "USD 4.99",
@@ -9797,7 +9809,7 @@
   {
     "trackId": 1236657805,
     "region": "mo",
-    "timestamp": 1791583027946,
+    "timestamp": 1791568819448,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "USD 2.99",
@@ -9846,7 +9858,7 @@
   {
     "trackId": 1239299402,
     "region": "mo",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "USD 0.99",
@@ -10207,7 +10219,7 @@
   {
     "trackId": 1271620263,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "USD 2.99",
@@ -10316,7 +10328,7 @@
   {
     "trackId": 1291429551,
     "region": "mo",
-    "timestamp": 1791369813838,
+    "timestamp": 1791316756993,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "USD 3.99",
@@ -10520,7 +10532,7 @@
   {
     "trackId": 1309638846,
     "region": "mo",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "USD 1.99",
@@ -10664,7 +10676,7 @@
   {
     "trackId": 1322914367,
     "region": "mo",
-    "timestamp": 1790885290521,
+    "timestamp": 1791420216639,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "USD 0.99",
@@ -10940,7 +10952,7 @@
   {
     "trackId": 1353471030,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 8.99,
     "formattedPrice": "USD 8.99",
@@ -11170,7 +11182,7 @@
   {
     "trackId": 1380582804,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "USD 2.99",
@@ -11434,7 +11446,7 @@
   {
     "trackId": 1410742242,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 8.99,
     "formattedPrice": "USD 8.99",
@@ -11494,7 +11506,7 @@
   {
     "trackId": 1422480068,
     "region": "mo",
-    "timestamp": 1791506753682,
+    "timestamp": 1791507612931,
     "discounts": [],
     "price": 12.99,
     "formattedPrice": "USD 12.99",
@@ -11615,7 +11627,7 @@
   {
     "trackId": 1435461053,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 1.59,
     "formattedPrice": "USD 1.59",
@@ -11833,7 +11845,7 @@
   {
     "trackId": 1439262206,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 9.99,
     "formattedPrice": "USD 9.99",
@@ -12269,7 +12281,7 @@
   {
     "trackId": 1450144092,
     "region": "mo",
-    "timestamp": 1791429422397,
+    "timestamp": 1791290979408,
     "discounts": [],
     "price": 0.29,
     "formattedPrice": "USD 0.29",
@@ -12450,7 +12462,7 @@
   {
     "trackId": 1453808408,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "USD 2.99",
@@ -12462,7 +12474,7 @@
   {
     "trackId": 1453820315,
     "region": "mo",
-    "timestamp": 1791369813838,
+    "timestamp": 1791316756993,
     "discounts": [],
     "price": 7.49,
     "formattedPrice": "USD 7.49",
@@ -12919,7 +12931,7 @@
   {
     "trackId": 1467248737,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 8.99,
     "formattedPrice": "USD 8.99",
@@ -13028,7 +13040,7 @@
   {
     "trackId": 1474716211,
     "region": "mo",
-    "timestamp": 1791369813838,
+    "timestamp": 1791316756993,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "USD 3.99",
@@ -13244,7 +13256,7 @@
   {
     "trackId": 1481100296,
     "region": "mo",
-    "timestamp": 1791369813838,
+    "timestamp": 1791332575449,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "USD 0.99",
@@ -13462,7 +13474,7 @@
   {
     "trackId": 1492049794,
     "region": "mo",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -13810,7 +13822,7 @@
   {
     "trackId": 1504760106,
     "region": "mo",
-    "timestamp": 1791411734325,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "USD 0.99",
@@ -13978,7 +13990,7 @@
   {
     "trackId": 1511788295,
     "region": "mo",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [],
     "price": 8.99,
     "formattedPrice": "USD 8.99",
@@ -14135,7 +14147,7 @@
   {
     "trackId": 1517281147,
     "region": "mo",
-    "timestamp": 1791567503610,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -14291,7 +14303,7 @@
   {
     "trackId": 1523146826,
     "region": "mo",
-    "timestamp": 1791462124844,
+    "timestamp": 1790828594798,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -14303,7 +14315,7 @@
   {
     "trackId": 1523633394,
     "region": "mo",
-    "timestamp": 1791369813838,
+    "timestamp": 1791316756993,
     "discounts": [],
     "price": 8.99,
     "formattedPrice": "USD 8.99",
@@ -14339,7 +14351,7 @@
   {
     "trackId": 1524418421,
     "region": "mo",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "USD 3.99",
@@ -14605,7 +14617,7 @@
   {
     "trackId": 1534488108,
     "region": "mo",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "USD 3.99",
@@ -14713,7 +14725,7 @@
   {
     "trackId": 1537060891,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 7.49,
     "formattedPrice": "USD 7.49",
@@ -15446,7 +15458,7 @@
   {
     "trackId": 1561849298,
     "region": "mo",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "USD 3.99",
@@ -15748,7 +15760,7 @@
   {
     "trackId": 1575414319,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 10.99,
     "formattedPrice": "USD 10.99",
@@ -15917,7 +15929,7 @@
   {
     "trackId": 1580067723,
     "region": "mo",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "USD 0.99",
@@ -15941,7 +15953,7 @@
   {
     "trackId": 1580629864,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 10.99,
     "formattedPrice": "USD 10.99",
@@ -16109,7 +16121,7 @@
   {
     "trackId": 1587860402,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "USD 4.99",
@@ -16575,18 +16587,6 @@
     "firstRecordedAt": 1777371742983
   },
   {
-    "trackId": 1605445697,
-    "region": "mo",
-    "timestamp": 1791583027946,
-    "discounts": [],
-    "price": 2.99,
-    "formattedPrice": "USD 2.99",
-    "currency": "MOP",
-    "trackViewUrl": "https://apps.apple.com/mo/app/id1605445697",
-    "trackName": "空灵鼓-无忧鼓（含钢舌鼓）",
-    "firstRecordedAt": 1791583027946
-  },
-  {
     "trackId": 1605488891,
     "region": "mo",
     "timestamp": 1781864761375,
@@ -16661,7 +16661,7 @@
   {
     "trackId": 1609910024,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "USD 3.99",
@@ -16710,7 +16710,7 @@
   {
     "trackId": 1611723264,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "USD 4.99",
@@ -16842,7 +16842,7 @@
   {
     "trackId": 1614795077,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "USD 2.99",
@@ -17022,7 +17022,7 @@
   {
     "trackId": 1621065119,
     "region": "mo",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [],
     "price": 9.89,
     "formattedPrice": "USD 9.89",
@@ -17203,7 +17203,7 @@
   {
     "trackId": 1630541373,
     "region": "mo",
-    "timestamp": 1791539096914,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -17769,7 +17769,7 @@
   {
     "trackId": 1664728315,
     "region": "mo",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "USD 3.99",
@@ -18105,7 +18105,7 @@
   {
     "trackId": 6443875944,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "USD 4.99",
@@ -18333,7 +18333,7 @@
   {
     "trackId": 6446021269,
     "region": "mo",
-    "timestamp": 1791462124844,
+    "timestamp": 1791453869385,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "USD 2.99",
@@ -18635,7 +18635,7 @@
   {
     "trackId": 6449233549,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 10.99,
     "formattedPrice": "USD 10.99",
@@ -18998,7 +18998,7 @@
   {
     "trackId": 6459581344,
     "region": "mo",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "USD 1.99",
@@ -19034,7 +19034,7 @@
   {
     "trackId": 6462360082,
     "region": "mo",
-    "timestamp": 1791601361280,
+    "timestamp": 1790805284947,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -19082,7 +19082,7 @@
   {
     "trackId": 6463616555,
     "region": "mo",
-    "timestamp": 1791601361280,
+    "timestamp": 1791606695944,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "USD 4.99",
@@ -19263,7 +19263,7 @@
   {
     "trackId": 6469114836,
     "region": "mo",
-    "timestamp": 1775762349274,
+    "timestamp": 1791484107175,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "USD 0.99",
@@ -19371,7 +19371,7 @@
   {
     "trackId": 6471594918,
     "region": "mo",
-    "timestamp": 1791369813838,
+    "timestamp": 1791316756993,
     "discounts": [],
     "price": 5.99,
     "formattedPrice": "USD 5.99",
@@ -19684,7 +19684,7 @@
   {
     "trackId": 6476567182,
     "region": "mo",
-    "timestamp": 1790805284947,
+    "timestamp": 1791332575449,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -19756,7 +19756,7 @@
   {
     "trackId": 6477541914,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "USD 6.99",
@@ -20117,7 +20117,7 @@
   {
     "trackId": 6480501528,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 0.29,
     "formattedPrice": "USD 0.29",
@@ -20261,7 +20261,7 @@
   {
     "trackId": 6499431452,
     "region": "mo",
-    "timestamp": 1791369813838,
+    "timestamp": 1791316756993,
     "discounts": [],
     "price": 7.99,
     "formattedPrice": "USD 7.99",
@@ -20910,7 +20910,7 @@
   {
     "trackId": 6673906410,
     "region": "mo",
-    "timestamp": 1791369813838,
+    "timestamp": 1791316756993,
     "discounts": [],
     "price": 9.99,
     "formattedPrice": "USD 9.99",
@@ -21098,6 +21098,18 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id6737512463",
     "trackName": "怦然心动的瞬间-轻科幻真人互动恋爱影游",
     "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6737783441,
+    "region": "mo",
+    "timestamp": 1791366760269,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6737783441",
+    "trackName": "(Not Boring) Camera",
+    "firstRecordedAt": 1791366760269
   },
   {
     "trackId": 6737987084,
@@ -21741,7 +21753,7 @@
   {
     "trackId": 6742472194,
     "region": "mo",
-    "timestamp": 1791369813838,
+    "timestamp": 1791316756993,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "USD 6.99",
@@ -23695,7 +23707,7 @@
   {
     "trackId": 6754894237,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "USD 2.99",
@@ -24039,6 +24051,18 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id6757171842",
     "trackName": "Green Pond Town",
     "firstRecordedAt": 1779525017362
+  },
+  {
+    "trackId": 6757261839,
+    "region": "mo",
+    "timestamp": 1791366760269,
+    "discounts": [],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6757261839",
+    "trackName": "CapWorld 单词相机",
+    "firstRecordedAt": 1791366760269
   },
   {
     "trackId": 6757458905,
@@ -24595,7 +24619,7 @@
   {
     "trackId": 6759664029,
     "region": "mo",
-    "timestamp": 1791601361280,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "USD 6.99",
@@ -24751,7 +24775,7 @@
   {
     "trackId": 6760446039,
     "region": "mo",
-    "timestamp": 1791506753682,
+    "timestamp": 1791507612931,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "USD 2.99",
@@ -24859,7 +24883,7 @@
   {
     "trackId": 6760948683,
     "region": "mo",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "USD 1.99",
@@ -24943,7 +24967,7 @@
   {
     "trackId": 6761328517,
     "region": "mo",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [],
     "price": 5.99,
     "formattedPrice": "USD 5.99",
@@ -25003,7 +25027,7 @@
   {
     "trackId": 6761730635,
     "region": "mo",
-    "timestamp": 1791601361280,
+    "timestamp": 1791585205739,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "USD 3.99",
@@ -25023,6 +25047,18 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id6761887952",
     "trackName": "CanonsOfDort",
     "firstRecordedAt": 1789727937882
+  },
+  {
+    "trackId": 6761963228,
+    "region": "mo",
+    "timestamp": 1791316756993,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6761963228",
+    "trackName": "国学日历",
+    "firstRecordedAt": 1791316756993
   },
   {
     "trackId": 6762279908,
@@ -25075,14 +25111,14 @@
   {
     "trackId": 6762412284,
     "region": "mo",
-    "timestamp": 1791567503610,
+    "timestamp": 1791540411692,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "USD 0.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6762412284",
     "trackName": "Days Anchor - Countdown Events",
-    "firstRecordedAt": 1791567503610
+    "firstRecordedAt": 1791540411692
   },
   {
     "trackId": 6762582312,
@@ -25135,7 +25171,7 @@
   {
     "trackId": 6762803589,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "USD 1.99",
@@ -25387,14 +25423,14 @@
   {
     "trackId": 6775430354,
     "region": "mo",
-    "timestamp": 1791490715855,
+    "timestamp": 1791484107175,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "USD 3.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6775430354",
     "trackName": "Preserve: Complete Edition",
-    "firstRecordedAt": 1791490715855
+    "firstRecordedAt": 1791484107175
   },
   {
     "trackId": 6776762891,
@@ -25459,7 +25495,7 @@
   {
     "trackId": 6778029370,
     "region": "mo",
-    "timestamp": 1791369813838,
+    "timestamp": 1791316756993,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "USD 2.99",
@@ -25652,7 +25688,7 @@
   {
     "trackId": 6786115854,
     "region": "mo",
-    "timestamp": 1791388346947,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 9.99,
     "formattedPrice": "USD 9.99",
@@ -25929,7 +25965,7 @@
   {
     "trackId": 6798221075,
     "region": "mo",
-    "timestamp": 1791369813838,
+    "timestamp": 1791397748865,
     "discounts": [],
     "price": 0.29,
     "formattedPrice": "USD 0.29",
@@ -26001,7 +26037,7 @@
   {
     "trackId": 6801980968,
     "region": "mo",
-    "timestamp": 1791601361280,
+    "timestamp": 1791585205739,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "USD 1.99",
@@ -26025,7 +26061,7 @@
   {
     "trackId": 6802565793,
     "region": "mo",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -26157,25 +26193,25 @@
   {
     "trackId": 6812927976,
     "region": "mo",
-    "timestamp": 1791490715855,
+    "timestamp": 1791507612931,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "USD 0.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6812927976",
     "trackName": "Enchanted Survival: 刷寶RPG",
-    "firstRecordedAt": 1791490715855
+    "firstRecordedAt": 1791507612931
   },
   {
     "trackId": 6819276809,
     "region": "mo",
-    "timestamp": 1791567503610,
+    "timestamp": 1791568819448,
     "discounts": [],
     "price": 11.99,
     "formattedPrice": "USD 11.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6819276809",
     "trackName": "構造大飯店",
-    "firstRecordedAt": 1791567503610
+    "firstRecordedAt": 1791568819448
   }
 ]

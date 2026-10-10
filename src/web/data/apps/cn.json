@@ -3973,7 +3973,7 @@
   {
     "trackId": 919815747,
     "region": "cn",
-    "timestamp": 1790885290521,
+    "timestamp": 1791631773080,
     "discounts": [],
     "price": 38,
     "formattedPrice": "¥38.00",
@@ -6297,10 +6297,10 @@
   {
     "trackId": 1225490847,
     "region": "cn",
-    "timestamp": 1787230045740,
+    "timestamp": 1791631773080,
     "discounts": [],
-    "price": 22,
-    "formattedPrice": "¥22.00",
+    "price": 0,
+    "formattedPrice": "免费",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id1225490847",
     "trackName": "电子相册大师(专业版)",
@@ -12705,7 +12705,7 @@
   {
     "trackId": 6739274856,
     "region": "cn",
-    "timestamp": 1791568819448,
+    "timestamp": 1791631773080,
     "discounts": [],
     "price": 6,
     "formattedPrice": "¥6.00",

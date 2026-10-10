@@ -110724,6 +110724,18 @@
     "history": [
       [
         {
+          "timestamp": 1791665293817,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Month": "$90.00",
+            "Year": "$390.00",
+            "6 Months": "$290.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791316756993,
           "price": 0,
           "formattedPrice": "免費",
@@ -197789,6 +197801,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791665293817,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Holiday Christmas Pack": "$60.00",
+            "Winter Holidays Bundle": "$220.00",
+            "Festive Bundle": "$320.00",
+            "Generations: 90s Bundle": "$220.00",
+            "Pop Culture Bundle": "$220.00",
+            "Welcome Offer": "$320.00",
+            "Pop Culture Mix Pack 1": "$60.00",
+            "Generations 90s Mix Pack 1": "$60.00",
+            "Pop Culture Mix Pack 2": "$60.00",
+            "Mystery Mix Pack 18": "$60.00"
+          }
+        },
         {
           "timestamp": 1791649753895,
           "price": 60,

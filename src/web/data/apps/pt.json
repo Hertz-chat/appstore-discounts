@@ -4591,7 +4591,7 @@
   {
     "trackId": 727544019,
     "region": "pt",
-    "timestamp": 1791649753895,
+    "timestamp": 1791665293817,
     "discounts": [],
     "price": 5.99,
     "formattedPrice": "5,99 €",
@@ -8399,10 +8399,10 @@
   {
     "trackId": 1160943124,
     "region": "pt",
-    "timestamp": 1791316756993,
+    "timestamp": 1791665293817,
     "discounts": [],
-    "price": 0,
-    "formattedPrice": "Gratuito",
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1160943124",
     "trackName": "Speech to Text : Voice to Text",
@@ -18566,7 +18566,7 @@
   {
     "trackId": 6480501528,
     "region": "pt",
-    "timestamp": 1791420216639,
+    "timestamp": 1791665293817,
     "discounts": [],
     "price": 0.29,
     "formattedPrice": "0,29 €",

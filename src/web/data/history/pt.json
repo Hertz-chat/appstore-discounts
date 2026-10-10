@@ -33389,6 +33389,23 @@
     "history": [
       [
         {
+          "timestamp": 1791665293817,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Race Pass": "5,99 €",
+            "700 Aces": "9,99 €",
+            "300 Aces": "5,99 €",
+            "5000 Aces": "44,99 €",
+            "15000 Aces": "99,99 €",
+            "300 Aces Limited Time Offer": "0,99 €",
+            "700 Aces Limited Time Offer": "5,99 €",
+            "Racing Prodigy Kart TKM TR (T)": "6,99 €",
+            "Racing Prodigy Small Tyre Pack": "2,99 €",
+            "Racing Prodigy X30 La Conca L4": "17,99 €"
+          }
+        },
+        {
           "timestamp": 1791649753895,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -57081,6 +57098,18 @@
       "Month": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791665293817,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Year": "12,99 €",
+            "6 Months": "9,99 €",
+            "Month": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791316756993,
@@ -126052,7 +126081,17 @@
       "Loki": "1,99 €",
       "Civet Theme": "1,99 €",
       "Tuxedo Theme": "0,99 €",
-      "Jingle": "2,99 €"
+      "Jingle": "2,99 €",
+      "Monthly": "1,99 €",
+      "Yearly": "12,99 €",
+      "Bella": "1,99 €",
+      "Calico Theme": "1,99 €",
+      "Orange Theme": "1,99 €",
+      "Simba": "1,99 €",
+      "Siamese Theme": "1,99 €",
+      "Coco": "1,99 €",
+      "City Night Theme": "1,99 €",
+      "Blue Sky Theme": "1,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -126067,9 +126106,38 @@
       "Loki": "0,99 €",
       "Civet Theme": "0,99 €",
       "Tuxedo Theme": "0,99 €",
-      "Jingle": "1,99 €"
+      "Jingle": "1,99 €",
+      "Monthly": "1,99 €",
+      "Yearly": "12,99 €",
+      "Bella": "1,99 €",
+      "Calico Theme": "1,99 €",
+      "Orange Theme": "1,99 €",
+      "Simba": "1,99 €",
+      "Siamese Theme": "1,99 €",
+      "Coco": "1,99 €",
+      "City Night Theme": "1,99 €",
+      "Blue Sky Theme": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791665293817,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "Monthly": "1,99 €",
+            "Yearly": "12,99 €",
+            "Bella": "1,99 €",
+            "Calico Theme": "1,99 €",
+            "Orange Theme": "1,99 €",
+            "Simba": "1,99 €",
+            "Siamese Theme": "1,99 €",
+            "Coco": "1,99 €",
+            "City Night Theme": "1,99 €",
+            "Blue Sky Theme": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791420216639,

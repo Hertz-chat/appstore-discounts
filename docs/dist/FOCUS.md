@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2327` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2328` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2328|1605445697|Automatic|空灵鼓-无忧鼓（含钢舌鼓）|空灵鼓-无忧鼓（含钢舌鼓）|空灵鼓-无忧鼓（含钢舌鼓）|空灵鼓-无忧鼓（含钢舌鼓）|空灵鼓-无忧鼓（含钢舌鼓）|空灵鼓-无忧鼓（含钢舌鼓）|空灵鼓-无忧鼓（含钢舌鼓）|
 |2327|6819276809|Automatic|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|
 |2326|1057703608|Automatic|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|
 |2325|6762412284|Automatic|时光锚点 Days Anchor - 倒数 纪念 小组件|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|
@@ -2206,7 +2207,7 @@ So far, we've covered `7` `Countries or Regions` and  `2327` `Apps` <br />Push n
 |131|1159266744|Manual|双子 Gemini|雙子 Gemini|雙子 Gemini|雙子 Gemini|❌|❌|❌|
 |130|1453808408|Manual|恶果之地|Juicy Realm|Juicy Realm|Juicy Realm|Juicy Realm|Juicy Realm|Juicy Realm|
 |129|1458460469|Manual|人类跌落梦境|❌|❌|❌|❌|❌|❌|
-|128|1481100296|Manual|BreatheIn: Calm Breathing|BreatheIn: Calm Breathing|BreatheIn: Calm Breathing|BreatheIn: Calm Breathing|BreatheIn: Calm Breathing|BreatheIn: Calm Breathing|BreatheIn: Calm Breathing|
+|128|1481100296|Manual|BreatheIn：放松呼吸|BreatheIn: Calm Breathing|BreatheIn: Calm Breathing|BreatheIn: Calm Breathing|BreatheIn: Calm Breathing|BreatheIn: Calm Breathing|BreatheIn: Calm Breathing|
 |127| ~~431033044~~ |Manual| ~~Phone Drive - 云储存管理和文件共享~~ | ~~Phone Drive - 雲儲存管理和文件共享~~ | ~~Phone Drive - 雲儲存管理和文件共享~~ | ~~Phone Drive - 雲儲存管理和文件共享~~ | ~~Phone Drive: File Storage Sync~~ | ~~Phone Drive: File Storage Sync~~ | ~~❌~~ |
 |126|1309638846|Manual|Goodak 复古胶片相机 - 拍立得旅行摄影，拍照水印滤镜|Goodak 底片相機 - 復古即可拍，拍立得膠卷攝影|Goodak 底片相機 - 復古即可拍，拍立得膠卷攝影|Goodak 底片相機 - 復古即可拍，拍立得膠卷攝影|Vintage Camera - Goodak|Vintage Camera - Goodak|Vintage Camera - Goodak|
 |125|1618180398|Manual|照片同步-导出备份相册照片视频|照片同步-備份相冊照片視頻|照片同步-備份相冊照片視頻|照片同步-備份相冊照片視頻|PhotoSync-Backup your photos|PhotoSync-Backup your photos|PhotoSync-Backup your photos|

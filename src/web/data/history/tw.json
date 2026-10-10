@@ -19263,6 +19263,25 @@
     "history": [
       [
         {
+          "timestamp": 1791620717773,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Gold Annual": "$1,290.00",
+            "Gold Monthly": "$290.00",
+            "Gold Level lifetime": "$2,290.00",
+            "Gold Level Free Trial": "$0.00",
+            "Lunar Return Report": "$120.00",
+            "7-day Trial Astrolocality": "$0.00",
+            "Astrolocality Maps": "$790.00",
+            "The Big Three Report": "$120.00",
+            "Relationship Report": "$120.00",
+            "Predictive Report - Untimed": "$90.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 0,
           "formattedPrice": "免費",
@@ -29721,6 +29740,25 @@
       "Cuddly Starter Pack": "$190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791620717773,
+          "price": 235,
+          "formattedPrice": "$235.00",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "$240.00",
+            "Minecraft Store Item 2": "$70.00",
+            "Minecraft Store Item 6": "$200.00",
+            "Realms Monthly Subscription: You + 2 Friends": "$120.00",
+            "Minecraft Store Item 3": "$100.00",
+            "Realms Plus: You + 10 Friends": "$240.00",
+            "Minecraft Store Item 10": "$345.00",
+            "Minecraft Store Item 4": "$135.00",
+            "Minecraft Store Item 5": "$170.00",
+            "Minecraft Store Item 1": "$35.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,
@@ -122604,10 +122642,18 @@
       "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791620717773,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787230045740,
@@ -213404,6 +213450,29 @@
       ]
     ]
   },
+  "1605445697": {
+    "trackId": 1605445697,
+    "trackName": "空灵鼓-无忧鼓（含钢舌鼓）",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791620717773,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1605488891": {
     "trackId": 1605488891,
     "trackName": "VESC Tool",
@@ -250401,6 +250470,25 @@
       "夜色微醺": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791620717773,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "賞燈月夜": "$20.00",
+            "紅葉漫步": "$30.00",
+            "悠閒和菓子": "$20.00",
+            "花火大會": "$30.00",
+            "萬聖派對": "$30.00",
+            "夏日庭院": "$20.00",
+            "夏威夷海灘": "$20.00",
+            "夏日野餐": "$20.00",
+            "秋日旋律": "$20.00",
+            "新年日出": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791453869385,
@@ -316706,7 +316794,8 @@
       "塔 野貓女獵手": "$150.00",
       "英雄 鬼侍": "$150.00",
       "英雄 伊格納斯": "$90.00",
-      "塔 奧術鍛造匠": "$150.00"
+      "塔 奧術鍛造匠": "$150.00",
+      "全英雄禮包_B": "$790.00"
     },
     "minPriceInfo": {
       "price": 220,
@@ -316732,9 +316821,29 @@
       "塔 野貓女獵手": "$150.00",
       "英雄 鬼侍": "$150.00",
       "英雄 伊格納斯": "$90.00",
-      "塔 奧術鍛造匠": "$150.00"
+      "塔 奧術鍛造匠": "$150.00",
+      "全英雄禮包_B": "$790.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791620717773,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "全塔禮包": "$690.00",
+            "全英雄禮包": "$990.00",
+            "全法術禮包": "$390.00",
+            "英雄 阿什彼特": "$220.00",
+            "英雄 德拉坎": "$220.00",
+            "塔 奧術鍛造匠": "$150.00",
+            "塔 哨兵瞭望塔": "$190.00",
+            "英雄 伊格納斯": "$90.00",
+            "全英雄禮包_B": "$790.00",
+            "英雄 鬼侍": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,

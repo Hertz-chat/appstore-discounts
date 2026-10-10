@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2327` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2328` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2328|1605445697|自动|空灵鼓-无忧鼓（含钢舌鼓）|空灵鼓-无忧鼓（含钢舌鼓）|空灵鼓-无忧鼓（含钢舌鼓）|空灵鼓-无忧鼓（含钢舌鼓）|空灵鼓-无忧鼓（含钢舌鼓）|空灵鼓-无忧鼓（含钢舌鼓）|空灵鼓-无忧鼓（含钢舌鼓）|
 |2327|6819276809|自动|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|構造大飯店|
 |2326|1057703608|自动|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|Gyn Cancer Staging Atlas|
 |2325|6762412284|自动|时光锚点 Days Anchor - 倒数 纪念 小组件|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|Days Anchor - Countdown Events|
@@ -2206,7 +2207,7 @@
 |131|1159266744|手动|双子 Gemini|雙子 Gemini|雙子 Gemini|雙子 Gemini|❌|❌|❌|
 |130|1453808408|手动|恶果之地|Juicy Realm|Juicy Realm|Juicy Realm|Juicy Realm|Juicy Realm|Juicy Realm|
 |129|1458460469|手动|人类跌落梦境|❌|❌|❌|❌|❌|❌|
-|128|1481100296|手动|BreatheIn: Calm Breathing|BreatheIn: Calm Breathing|BreatheIn: Calm Breathing|BreatheIn: Calm Breathing|BreatheIn: Calm Breathing|BreatheIn: Calm Breathing|BreatheIn: Calm Breathing|
+|128|1481100296|手动|BreatheIn：放松呼吸|BreatheIn: Calm Breathing|BreatheIn: Calm Breathing|BreatheIn: Calm Breathing|BreatheIn: Calm Breathing|BreatheIn: Calm Breathing|BreatheIn: Calm Breathing|
 |127| ~~431033044~~ |手动| ~~Phone Drive - 云储存管理和文件共享~~ | ~~Phone Drive - 雲儲存管理和文件共享~~ | ~~Phone Drive - 雲儲存管理和文件共享~~ | ~~Phone Drive - 雲儲存管理和文件共享~~ | ~~Phone Drive: File Storage Sync~~ | ~~Phone Drive: File Storage Sync~~ | ~~❌~~ |
 |126|1309638846|手动|Goodak 复古胶片相机 - 拍立得旅行摄影，拍照水印滤镜|Goodak 底片相機 - 復古即可拍，拍立得膠卷攝影|Goodak 底片相機 - 復古即可拍，拍立得膠卷攝影|Goodak 底片相機 - 復古即可拍，拍立得膠卷攝影|Vintage Camera - Goodak|Vintage Camera - Goodak|Vintage Camera - Goodak|
 |125|1618180398|手动|照片同步-导出备份相册照片视频|照片同步-備份相冊照片視頻|照片同步-備份相冊照片視頻|照片同步-備份相冊照片視頻|PhotoSync-Backup your photos|PhotoSync-Backup your photos|PhotoSync-Backup your photos|

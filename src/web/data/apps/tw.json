@@ -2136,7 +2136,7 @@
   {
     "trackId": 430270438,
     "region": "tw",
-    "timestamp": 1790828594798,
+    "timestamp": 1791620717773,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -2752,7 +2752,7 @@
   {
     "trackId": 479516143,
     "region": "tw",
-    "timestamp": 1791507612931,
+    "timestamp": 1791620717773,
     "discounts": [],
     "price": 235,
     "formattedPrice": "$235.00",
@@ -9773,10 +9773,10 @@
   {
     "trackId": 1225490847,
     "region": "tw",
-    "timestamp": 1787230045740,
+    "timestamp": 1791620717773,
     "discounts": [],
-    "price": 90,
-    "formattedPrice": "$90.00",
+    "price": 0,
+    "formattedPrice": "免費",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1225490847",
     "trackName": "電子相冊大師(專業版)",
@@ -16598,6 +16598,18 @@
     "firstRecordedAt": 1777371742983
   },
   {
+    "trackId": 1605445697,
+    "region": "tw",
+    "timestamp": 1791620717773,
+    "discounts": [],
+    "price": 90,
+    "formattedPrice": "$90.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1605445697",
+    "trackName": "空灵鼓-无忧鼓（含钢舌鼓）",
+    "firstRecordedAt": 1791620717773
+  },
+  {
     "trackId": 1605488891,
     "region": "tw",
     "timestamp": 1781864761375,
@@ -19298,7 +19310,7 @@
   {
     "trackId": 6469114836,
     "region": "tw",
-    "timestamp": 1791453869385,
+    "timestamp": 1791620717773,
     "discounts": [],
     "price": 30,
     "formattedPrice": "$30.00",
@@ -24756,7 +24768,7 @@
   {
     "trackId": 6759664029,
     "region": "tw",
-    "timestamp": 1791540411692,
+    "timestamp": 1791620717773,
     "discounts": [],
     "price": 220,
     "formattedPrice": "$220.00",

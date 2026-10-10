@@ -21836,6 +21836,25 @@
     "history": [
       [
         {
+          "timestamp": 1791601361280,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "₺49,99",
+            "Varazdin Orchestral Mobile": "₺199,99",
+            "Voices": "₺49,99",
+            "Sliced Beats": "₺49,99",
+            "Amped Guitar & Bass": "₺149,99",
+            "Synth Lead": "₺99,99",
+            "Acoustic Guitars": "₺49,99",
+            "Ferrous Mobile": "₺149,99",
+            "Oldschool Breakbeats": "₺99,99",
+            "Hyper-Pop Mobile": "₺149,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791290979408,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -134315,6 +134334,25 @@
       "Upgrade Deluxe Edition": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791601361280,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Design Frame Package": "₺49,99",
+            "Social Frame Package": "₺49,99",
+            "Magazine Frame Package": "₺49,99",
+            "Black Frame Pack": "₺49,99",
+            "Geometric Frame Pack": "₺49,99",
+            "Stamp Frame Pack": "₺49,99",
+            "Retro Frame Pack": "₺49,99",
+            "Stroke Frame Pack": "₺49,99",
+            "Color Frame Pack": "₺49,99",
+            "Upgrade Deluxe Edition": "₺299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791070314470,
@@ -283718,14 +283756,22 @@
   "6761730635": {
     "name": "DNA Altering",
     "maxPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
     },
     "minPriceInfo": {
       "price": 149.99,
       "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791601361280,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1777634035508,

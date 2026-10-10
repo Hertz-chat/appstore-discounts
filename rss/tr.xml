@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2026-10-09T19:14:15.134Z</updated>
+    <updated>2026-10-10T04:38:13.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-09T19:14:15.135Z</updated>
+        <updated>2026-10-10T04:38:13.680Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrFri, 09 Oct 2026 19:14:15 GMT</id>
+        <id>rankingtrSat, 10 Oct 2026 04:38:13 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-09T19:14:15.135Z</updated>
+        <updated>2026-10-10T04:38:13.680Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -51,13 +51,13 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>2322</b>
+        <b>2323</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>2121</b>
+        <b>2122</b>
       </td>
       <td>
         <b>107</b>
@@ -68,13 +68,13 @@ feedId:157008924688563200+userId:73658201673997312
         <b>TR</b>
       </td>
       <td>
-        <b>2159</b>
+        <b>2160</b>
       </td>
       <td>
         <b>172</b>
       </td>
       <td>
-        <b>1987</b>
+        <b>1988</b>
       </td>
       <td>
         <b>91</b>
@@ -365,7 +365,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/1435461053?lang=en">This Is the Police</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/1309638846?lang=en">Vintage Camera - Goodak</a>
       </td>
       <td>
         <ul>
@@ -382,7 +382,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>16</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/1437211990?lang=en">Raid Manager</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/1435461053?lang=en">This Is the Police</a>
       </td>
       <td>
         <ul>
@@ -399,7 +399,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>17</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/1481100296?lang=en">BreatheIn: Calm Breathing</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/1437211990?lang=en">Raid Manager</a>
       </td>
       <td>
         <ul>
@@ -416,7 +416,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>18</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/1492049794?lang=en">宗师-武林风云传</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/1481100296?lang=en">BreatheIn: Calm Breathing</a>
       </td>
       <td>
         <ul>
@@ -433,7 +433,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>19</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/1500126852?lang=en">Chord</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/1492049794?lang=en">宗师-武林风云传</a>
       </td>
       <td>
         <ul>
@@ -450,7 +450,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>20</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/1524418421?lang=en">SessionBand Jazz Fusion</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/1500126852?lang=en">Chord</a>
       </td>
       <td>
         <ul>
@@ -467,7 +467,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>21</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/1534488108?lang=en">SessionBand Jazz 4</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/1524418421?lang=en">SessionBand Jazz Fusion</a>
       </td>
       <td>
         <ul>
@@ -484,7 +484,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>22</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/1537060891?lang=en">Titan Quest: Legendary Edition</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/1534488108?lang=en">SessionBand Jazz 4</a>
       </td>
       <td>
         <ul>
@@ -501,7 +501,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>23</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/1561849298?lang=en">SessionBand Soul Jazz Funk 3</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/1537060891?lang=en">Titan Quest: Legendary Edition</a>
       </td>
       <td>
         <ul>
@@ -518,7 +518,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>24</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/1580067723?lang=en">Wall of insanity</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/1561849298?lang=en">SessionBand Soul Jazz Funk 3</a>
       </td>
       <td>
         <ul>
@@ -535,7 +535,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>25</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/1621065119?lang=en">Ace Attorney Trilogy</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/1580067723?lang=en">Wall of insanity</a>
       </td>
       <td>
         <ul>
@@ -552,7 +552,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>26</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/1664728315?lang=en">Mutropolis mobile</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/1621065119?lang=en">Ace Attorney Trilogy</a>
       </td>
       <td>
         <ul>
@@ -569,7 +569,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>27</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/6760948683?lang=en">Digline: Cosy Mining</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/1664728315?lang=en">Mutropolis mobile</a>
       </td>
       <td>
         <ul>
@@ -586,7 +586,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>28</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/6480501528?lang=en">Cat Todo：AI & Tasks & Reminder</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/6760948683?lang=en">Digline: Cosy Mining</a>
       </td>
       <td>
         <ul>
@@ -603,7 +603,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>29</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/6811795155?lang=en">Keeps: Cost Per Use Tracker</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/6480501528?lang=en">Cat Todo：AI & Tasks & Reminder</a>
       </td>
       <td>
         <ul>
@@ -620,7 +620,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>30</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/6808669044?lang=en">Oto Ekspertiz Simülatör</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/6811795155?lang=en">Keeps: Cost Per Use Tracker</a>
       </td>
       <td>
         <ul>
@@ -637,7 +637,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>31</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/6761328517?lang=en">Dungeon Within</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/6808669044?lang=en">Oto Ekspertiz Simülatör</a>
       </td>
       <td>
         <ul>
@@ -654,7 +654,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>32</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/6752662508?lang=en">Footprints·TimeTrails·GPS Log</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/6761328517?lang=en">Dungeon Within</a>
       </td>
       <td>
         <ul>
@@ -669,6 +669,23 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>
         <b>33</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/tr/6752662508?lang=en">Footprints·TimeTrails·GPS Log</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>34</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/6760764479?lang=en">Alpin Quest PRO – Outdoor GPS</a>
@@ -691,7 +708,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/6469419567?lang=en">Overwinter Survival</a>
@@ -718,7 +735,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/6778029370?lang=en">Order Automatica</a>
@@ -735,7 +752,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/6762803589?lang=en">Slots & Daggers</a>
@@ -752,7 +769,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/6754894237?lang=en">CloverPit</a>
@@ -769,7 +786,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/6446021269?lang=en">MEGA MAN X DiVE Offline</a>
@@ -786,7 +803,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/6459581344?lang=en">Art of Rally</a>
@@ -803,7 +820,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/6802565793?lang=en">我不想当班主任-班主任工作台&教师工作台&班级管理</a>
@@ -1649,6 +1666,65 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vintage Camera - Goodak]]></title>
+        <id>Vintage Camera - Goodak-tr-1791601361280</id>
+        <link href="https://appstore-discounts.eyelly.me/tr/1309638846?lang=en"/>
+        <updated>2026-10-10T03:02:41.280Z</updated>
+        <summary type="html"><![CDATA[Price: ₺149,99 → ₺99,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/1309638846?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6e/12/e2/6e12e20d-cbb9-c638-e2e0-9c298420bb4a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺149,99</span> → <b>
+  <strong>₺99,99</strong>
+</b><span>[₺29,99 ~ ₺149,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺99,99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Design Frame Package：<b>₺49,99</b>
+  </li><li>
+    Social Frame Package：<b>₺49,99</b>
+  </li><li>
+    Magazine Frame Package：<b>₺49,99</b>
+  </li><li>
+    Black Frame Pack：<b>₺49,99</b>
+  </li><li>
+    Geometric Frame Pack：<b>₺49,99</b>
+  </li><li>
+    Stamp Frame Pack：<b>₺49,99</b>
+  </li><li>
+    Retro Frame Pack：<b>₺49,99</b>
+  </li><li>
+    Stroke Frame Pack：<b>₺49,99</b>
+  </li><li>
+    Color Frame Pack：<b>₺49,99</b>
+  </li><li>
+    Upgrade Deluxe Edition：<b>₺299,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Some moments may have slipped away in our life, but will last forever in our memory, Now you can turn iPhone into a vintage disposable camera, so that you take each photo looks so unique, full of charm and moving, Goodak® lets you express even the most subtle mood on your photos. 
+
++ CLASSIC DISPOSABLE CAMERA
++ Enhance your images with random films.
++ Photo album import feature.
++ Dynamic photo albums selection.
++ Other adjustable edit function.
++ Automatically load date watermark.
++ Random film photographic lens.
++ Custom Date (Recall Past).
++ Black & white and Lomo cameras.
++ Viewfinder Switching Function.
+
+Goodak is provided as Goodak Studio® own product.
+Thanks for using! We're working on new features and constantly working to improve your experience!
+If you have any questions or feedback, please contact us:
+http://www.psdc.com.tw
+
+DISCLAIMER NOTICE
+Goodak is provided as Goodak Studio own product. this app is not the official app of Kodak and Fuji or any others. Goodak made every effort to ensure not to infringe other's copyrights or trademarks.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ab/a0/86/aba08624-6a06-39cf-a241-25f6d0e4f3ab/mzl.hmqjeztb.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/72/7d/e1727d7b-2dc6-1d43-51b9-28de209d15cd/mzl.uaudkfnw.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/da/0f/0c/da0f0cb6-9071-5e7c-1a1f-4ae42bdd1c11/mzl.tnvgrvvz.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/89/da/5c/89da5c30-8802-df12-d633-1837ba29813f/mzl.zflmcguf.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/af/77/c5/af77c577-7e9f-ee4f-74a1-f62d119a8f8b/mzl.wrrlcrce.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/22/1e/d4/221ed4bb-75f6-202c-cb8c-9dcdf0e1c2fc/mzl.grotjgtl.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/55/ce/f5/55cef5d2-3354-b366-f691-80c40df804d4/mzl.iwvgubsv.png/392x696bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我不想当班主任-班主任工作台&教师工作台&班级管理]]></title>

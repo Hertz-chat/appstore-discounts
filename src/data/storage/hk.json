@@ -10818,6 +10818,25 @@
     "history": [
       [
         {
+          "timestamp": 1791601361280,
+          "price": 188,
+          "formattedPrice": "HK$ 188.00",
+          "inAppPurchases": {
+            "forScore Pro": "HK$ 118.00",
+            "Brahms: The Mutopia Collection": "HK$ 0.00",
+            "Liszt: The Mutopia Collection": "HK$ 0.00",
+            "Tchaikovsky: The Mutopia Collection": "HK$ 0.00",
+            "Schumann: The Mutopia Collection": "HK$ 0.00",
+            "Haydn: The Mutopia Collection": "HK$ 0.00",
+            "Satie: The Mutopia Collection": "HK$ 0.00",
+            "Burgmüller: The Mutopia Collection": "HK$ 0.00",
+            "Händel: The Mutopia Collection": "HK$ 0.00",
+            "forScore Pro + 家人共享": "HK$ 188.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791114629972,
           "price": 188,
           "formattedPrice": "HK$ 188.00",
@@ -293819,14 +293838,22 @@
   "6761730635": {
     "name": "DNA Altering",
     "maxPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
     },
     "minPriceInfo": {
       "price": 22,
       "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791601361280,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1777634035508,
@@ -300129,7 +300156,8 @@
       "贊助第三階・傭兵團恩人": "HK$ 58.00",
       "主題包・哈爾布倫": "HK$ 8.00",
       "付費角色・墨蘭": "HK$ 8.00",
-      "贊助第二階・監護人": "HK$ 18.00"
+      "贊助第二階・監護人": "HK$ 18.00",
+      "付費角色・伊蕾娜": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 18,
@@ -300139,9 +300167,26 @@
       "贊助第三階・傭兵團恩人": "HK$ 58.00",
       "主題包・哈爾布倫": "HK$ 8.00",
       "付費角色・墨蘭": "HK$ 8.00",
-      "贊助第二階・監護人": "HK$ 18.00"
+      "贊助第二階・監護人": "HK$ 18.00",
+      "付費角色・伊蕾娜": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791601361280,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "付費角色・墨蘭": "HK$ 8.00",
+            "付費角色・艾德瑞克": "HK$ 8.00",
+            "主題包・哈爾布倫": "HK$ 8.00",
+            "付費角色・伊蕾娜": "HK$ 8.00",
+            "贊助第一階・贊助者": "HK$ 2.00",
+            "贊助第三階・傭兵團恩人": "HK$ 58.00",
+            "贊助第二階・監護人": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790977922515,

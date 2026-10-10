@@ -170806,6 +170806,23 @@
     "history": [
       [
         {
+          "timestamp": 1791601361280,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "USD 59.99",
+            "綠色藥草吊飾": "USD 0.99",
+            "逆命殊途": "USD 9.99",
+            "額外內容擴充包": "USD 19.99",
+            "武器專屬強化券 x5 (A)": "USD 9.99",
+            "武器專屬強化券 x3 (A)": "USD 6.99",
+            "武器專屬強化券 x3 (D)": "USD 6.99",
+            "武器專屬強化券 x3 (C)": "USD 6.99",
+            "武器專屬強化券 x1 (F)": "USD 2.99",
+            "武器專屬強化券 x1 (E)": "USD 2.99"
+          }
+        },
+        {
           "timestamp": 1791583027946,
           "price": 0,
           "formattedPrice": "免費",
@@ -179578,7 +179595,8 @@
       "Winter Wonderland Purple Colour": "USD 4.99",
       "Winter Wonderland Teal Colour": "USD 4.99",
       "Christmas Sleigh Carriage": "USD 2.99",
-      "Tree-livery Carriage": "USD 2.99"
+      "Tree-livery Carriage": "USD 2.99",
+      "The Ultimate Bundle": "USD 79.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -179636,9 +179654,28 @@
       "Winter Wonderland Purple Colour": "USD 4.99",
       "Winter Wonderland Teal Colour": "USD 4.99",
       "Christmas Sleigh Carriage": "USD 2.99",
-      "Tree-livery Carriage": "USD 2.99"
+      "Tree-livery Carriage": "USD 2.99",
+      "The Ultimate Bundle": "USD 79.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791601361280,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Welcome Offer": "USD 29.99",
+            "The Ultimate Bundle": "USD 79.99",
+            "Christmas Sleigh Carriage": "USD 2.99",
+            "Tree-livery Carriage": "USD 2.99",
+            "Winter Wonderland Purple Colour": "USD 4.99",
+            "Winter Wonderland Teal Colour": "USD 4.99",
+            "Spooktacular Pumpkin Carriage": "USD 1.99",
+            "Spooktacular Vampire Character": "USD 1.99",
+            "Spooktacular Orange Player Colour": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788286205846,
@@ -204182,14 +204219,22 @@
   "6761730635": {
     "name": "DNA Altering",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791601361280,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1777634035508,
@@ -210284,7 +210329,8 @@
       "贊助第三階・傭兵團恩人": "USD 6.99",
       "主題包・哈爾布倫": "USD 0.99",
       "付費角色・墨蘭": "USD 0.99",
-      "贊助第二階・監護人": "USD 1.99"
+      "贊助第二階・監護人": "USD 1.99",
+      "付費角色・伊蕾娜": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -210294,9 +210340,26 @@
       "贊助第三階・傭兵團恩人": "USD 6.99",
       "主題包・哈爾布倫": "USD 0.99",
       "付費角色・墨蘭": "USD 0.99",
-      "贊助第二階・監護人": "USD 1.99"
+      "贊助第二階・監護人": "USD 1.99",
+      "付費角色・伊蕾娜": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791601361280,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "付費角色・伊蕾娜": "USD 0.99",
+            "贊助第一階・贊助者": "USD 0.49",
+            "付費角色・艾德瑞克": "USD 0.99",
+            "贊助第三階・傭兵團恩人": "USD 6.99",
+            "主題包・哈爾布倫": "USD 0.99",
+            "付費角色・墨蘭": "USD 0.99",
+            "贊助第二階・監護人": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790977922515,
@@ -210340,7 +210403,17 @@
       "全英雄禮包": "USD 29.99",
       "全塔禮包": "USD 19.99",
       "塔 鍊金術師小屋": "USD 2.99",
-      "英雄 德拉坎": "USD 6.99"
+      "英雄 德拉坎": "USD 6.99",
+      "英雄 馬力克": "USD 4.99",
+      "一把寶石": "USD 2.99",
+      "一袋寶石": "USD 4.99",
+      "一車寶石": "USD 49.99",
+      "一桶寶石": "USD 9.99",
+      "一箱寶石": "USD 19.99",
+      "寶石山": "USD 99.99",
+      "一袋寶石 - 特惠": "USD 3.99",
+      "英雄 阿什彼特": "USD 6.99",
+      "英雄 伊格納斯 特惠": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 6.99,
@@ -210358,9 +210431,38 @@
       "全英雄禮包": "USD 29.99",
       "全塔禮包": "USD 19.99",
       "塔 鍊金術師小屋": "USD 2.99",
-      "英雄 德拉坎": "USD 6.99"
+      "英雄 德拉坎": "USD 6.99",
+      "英雄 馬力克": "USD 4.99",
+      "一把寶石": "USD 2.99",
+      "一袋寶石": "USD 4.99",
+      "一車寶石": "USD 49.99",
+      "一桶寶石": "USD 9.99",
+      "一箱寶石": "USD 19.99",
+      "寶石山": "USD 99.99",
+      "一袋寶石 - 特惠": "USD 3.99",
+      "英雄 阿什彼特": "USD 6.99",
+      "英雄 伊格納斯 特惠": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791601361280,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "英雄 馬力克": "USD 4.99",
+            "一把寶石": "USD 2.99",
+            "一袋寶石": "USD 4.99",
+            "一車寶石": "USD 49.99",
+            "一桶寶石": "USD 9.99",
+            "一箱寶石": "USD 19.99",
+            "寶石山": "USD 99.99",
+            "一袋寶石 - 特惠": "USD 3.99",
+            "英雄 阿什彼特": "USD 6.99",
+            "英雄 伊格納斯 特惠": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791388346947,

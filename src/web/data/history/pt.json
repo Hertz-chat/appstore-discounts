@@ -15213,6 +15213,14 @@
     "history": [
       [
         {
+          "timestamp": 1791649753895,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789081003914,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -19973,6 +19981,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791649753895,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "TRex 700 N": "2,99 €",
+            "F15 Eagle": "2,99 €",
+            "AH-64 Apache": "2,99 €",
+            "Hughes 500": "2,99 €",
+            "Bell 47": "2,99 €",
+            "Bell 222 Airwolf": "2,99 €",
+            "Boeing 747 Jumbo Jet": "2,99 €",
+            "RC Transformer": "2,99 €",
+            "Race Car": "2,99 €",
+            "Lego Car": "2,99 €"
+          }
+        },
         {
           "timestamp": 1791631773080,
           "price": 2.99,
@@ -33362,6 +33387,25 @@
       "Le Cont Softs - 40 Tyres Pack": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791649753895,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Racing Prodigy X30 La Conca L4": "17,99 €",
+            "Racing Prodigy X30 Atlanta": "17,99 €",
+            "Racing Prodigy X30 Kart Dubai": "17,99 €",
+            "Racing Prodigy X30 B. Vegas": "17,99 €",
+            "Racing Prodigy 50 Quali Tyres": "5,99 €",
+            "10 Pack Qualifying Tyres": "0,99 €",
+            "Figo 100 Octane Fuel Pack - 20": "3,99 €",
+            "Le Cont Hards - 40 Tyre Pack": "3,99 €",
+            "Le Cont Mediums - 40 Tyre Pack": "3,99 €",
+            "Le Cont Softs - 40 Tyres Pack": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790999952664,
@@ -83911,6 +83955,14 @@
     "history": [
       [
         {
+          "timestamp": 1791649753895,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789081003914,
           "price": 6.99,
           "formattedPrice": "6,99 €",
@@ -112351,13 +112403,25 @@
     "region": "pt",
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "formattedPrice": "0,99 €",
+      "Bother Bin Pro": "3,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "formattedPrice": "0,99 €",
+      "Bother Bin Pro": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791649753895,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Bother Bin Pro": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -147353,13 +147417,25 @@
       "月度护持": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "终身护持": "17,99 €",
       "年度护持": "2,99 €",
       "月度护持": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791649753895,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "终身护持": "17,99 €",
+            "年度护持": "2,99 €",
+            "月度护持": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,

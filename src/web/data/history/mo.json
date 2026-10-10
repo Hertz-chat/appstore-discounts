@@ -21521,6 +21521,14 @@
     "history": [
       [
         {
+          "timestamp": 1791649753895,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789055621758,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
@@ -100194,7 +100202,9 @@
       "PuNK EP 01": "USD 4.99",
       "Initial G 2nd Stage": "USD 1.99",
       "Box A 05": "USD 14.99",
-      "Chart Unlock Pass": "USD 9.99"
+      "Chart Unlock Pass": "USD 9.99",
+      "Special Pack 02": "USD 4.99",
+      "Characters & Song Packs Bundle": "USD 26.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -100241,9 +100251,22 @@
       "PuNK EP 01": "USD 1.99",
       "Initial G 2nd Stage": "USD 1.99",
       "Box A 05": "USD 14.99",
-      "Chart Unlock Pass": "USD 4.99"
+      "Chart Unlock Pass": "USD 4.99",
+      "Special Pack 02": "USD 4.99",
+      "Characters & Song Packs Bundle": "USD 26.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791649753895,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Special Pack 02": "USD 4.99",
+            "Characters & Song Packs Bundle": "USD 26.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791263120623,
@@ -135896,6 +135919,14 @@
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791649753895,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789055621758,
@@ -194529,13 +194560,25 @@
     "region": "mo",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "formattedPrice": "USD 2.99",
+      "Bother Bin Pro": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "formattedPrice": "USD 0.99",
+      "Bother Bin Pro": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791649753895,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Bother Bin Pro": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753567948857,
@@ -213975,13 +214018,25 @@
       "月度护持": "USD 0.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "USD 1.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "终身护持": "USD 14.99",
       "年度护持": "USD 2.99",
       "月度护持": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791649753895,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "终身护持": "USD 14.99",
+            "年度护持": "USD 2.99",
+            "月度护持": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,

@@ -4454,6 +4454,23 @@
     "history": [
       [
         {
+          "timestamp": 1791687637772,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {
+            "Max Subwoofer SPL": "HK$ 228.00",
+            "LUFS Meter": "HK$ 88.00",
+            "HAA CinemaTools with HAA Link": "HK$ 1,188.00",
+            "HAA Link": "HK$ 88.00",
+            "HAA Pro Module": "HK$ 148.00",
+            "SPL Enhance": "HK$ 288.00",
+            "All-In Module Access": "HK$ 88.00",
+            "HAA Upgrade to Pro": "HK$ 2,888.00",
+            "HAA Pro Installer Calibration": "HK$ 3,888.00",
+            "HAA Home Theater": "HK$ 788.00"
+          }
+        },
+        {
           "timestamp": 1791649753895,
           "price": 148,
           "formattedPrice": "HK$ 148.00",
@@ -260211,6 +260228,25 @@
     "history": [
       [
         {
+          "timestamp": 1791687637772,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 38.00",
+            "The Aircraft Bundle": "HK$ 188.00",
+            "Global scenery - 12 months": "HK$ 148.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Airbus A380": "HK$ 18.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "Boeing 747-400": "HK$ 18.00",
+            "Global scenery - 3 months": "HK$ 58.00",
+            "Boeing 737 MAX 9": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791507612931,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -277500,6 +277536,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791687637772,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "HK$ 68.00",
+            "Mystic Mayhem Pack": "HK$ 32.00",
+            "Kitchen Chaos Pack": "HK$ 32.00",
+            "Sun and Spice Bundle": "HK$ 58.00",
+            "Santa Claws Pack": "HK$ 32.00",
+            "Beach Day Pack": "HK$ 32.00",
+            "Santa Claws Card Back": "HK$ 8.00",
+            "Under the Tree location": "HK$ 18.00",
+            "Santa Claws Emoji Pack": "HK$ 8.00",
+            "All Wrapped Up outfit": "HK$ 18.00"
+          }
+        },
         {
           "timestamp": 1791676595925,
           "price": 32,

@@ -2165,7 +2165,7 @@ So far, we've covered `7` `Countries or Regions` and  `2330` `Apps` <br />Push n
 |175|6504433140|Manual|LaxtTime - 日常记录/循环提醒/习惯养成/倒计时|LaxtTime|LaxtTime|LaxtTime|LaxtTime - Remember Last Time|LaxtTime - Remember Last Time|LaxtTime - Remember Last Time|
 |174|920133658|Manual|解剖和生理学|Anatomy & Physiology|Anatomy & Physiology|Anatomy & Physiology|Anatomy & Physiology|Anatomy & Physiology|Anatomy & Physiology|
 |173|6463851696|Manual|功德++ : 锁屏，Standby，桌面小组件都可以敲的木鱼|Zen++|Zen++|Zen++|Zen++|❌|❌|
-|172|1358237203|Manual|时间胶囊-寄往未来的信|時間膠囊-寄往未來的信|時間膠囊-寄往未來的信|時間膠囊-寄往未來的信|时间胶囊-寄往未来的信|时间胶囊-寄往未来的信|时间胶囊-寄往未来的信|
+|172|1358237203|Manual|时间胶囊-寄往未来的信|時間膠囊-寄往未來的信|時間膠囊-寄往未來的信|時間膠囊-寄往未來的信|Time Capsule - Future Letters|Time Capsule - Future Letters|时间胶囊-寄往未来的信|
 |171|1316883372|Manual|音乐世界赛特斯2|❌|❌|❌|❌|❌|❌|
 |170|956086985|Manual|美元折纸|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|
 |169|1436481293|Manual|迷失岛3宇宙的尘埃|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|

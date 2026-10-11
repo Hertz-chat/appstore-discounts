@@ -16076,6 +16076,24 @@
     "history": [
       [
         {
+          "timestamp": 1791737634883,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {
+            "FL Cloud Mobile": "USD 4.99",
+            "Ferrous Mobile": "USD 2.99",
+            "Hyper-Pop Mobile": "USD 2.99",
+            "Chip-Tune Mobile": "USD 2.99",
+            "Essential Winds": "USD 1.99",
+            "Essential Strings": "USD 1.99",
+            "DubTechno": "USD 1.99",
+            "Chill-Lo-Fi Mobile": "USD 1.99",
+            "Technocraft": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787447765759,
           "price": 14.99,
           "formattedPrice": "USD 14.99",
@@ -23343,7 +23361,9 @@
       "Furniture Starter Pack": "USD 9.99",
       "Structures Starter Pack": "USD 5.99",
       "Creepy Starter Pack": "USD 9.99",
-      "Cuddly Starter Pack": "USD 5.99"
+      "Cuddly Starter Pack": "USD 5.99",
+      "Explorer Starter Pack": "USD 9.99",
+      "Farming Starter Pack": "USD 5.99"
     },
     "minPriceInfo": {
       "price": 6.99,
@@ -23374,9 +23394,30 @@
       "Furniture Starter Pack": "USD 9.99",
       "Structures Starter Pack": "USD 5.99",
       "Creepy Starter Pack": "USD 9.99",
-      "Cuddly Starter Pack": "USD 5.99"
+      "Cuddly Starter Pack": "USD 5.99",
+      "Explorer Starter Pack": "USD 9.99",
+      "Farming Starter Pack": "USD 5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791737634883,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Explorer Starter Pack": "USD 9.99",
+            "Farming Starter Pack": "USD 5.99",
+            "Creepy Starter Pack": "USD 9.99",
+            "Cuddly Starter Pack": "USD 5.99",
+            "Furniture Starter Pack": "USD 9.99",
+            "Structures Starter Pack": "USD 5.99",
+            "Scary Pack": "USD 9.99",
+            "Weapon Pack": "USD 5.99",
+            "Minecraft Pets Pack": "USD 9.99",
+            "Minecraft Morph Pack": "USD 5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790437951279,
@@ -170530,6 +170571,17 @@
     "history": [
       [
         {
+          "timestamp": 1791737634883,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "甜蜜之家": "USD 0.99",
+            "Hello World!": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788706749034,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -206151,6 +206203,16 @@
       "Supporter Edition: Golden Gear": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791737634883,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Supporter Edition: Golden Gear": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790526512684,

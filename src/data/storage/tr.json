@@ -45235,6 +45235,25 @@
     "history": [
       [
         {
+          "timestamp": 1791737634883,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Unlock Parasite": "₺49,99",
+            "Unlock Virus": "₺49,99",
+            "Unlock Fungus": "₺49,99",
+            "Unlock Prion": "₺49,99",
+            "Unlock NanoVirus": "₺49,99",
+            "Unlock Bio Weapon": "₺49,99",
+            "Unlock 7 Standard Plagues": "₺149,99",
+            "Unlock Cheats": "₺499,99",
+            "Neurax Worm Expansion Pack": "₺99,99",
+            "Unlock All Genes": "₺399,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784946927074,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -138069,7 +138088,7 @@
     ]
   },
   "1358237203": {
-    "name": "时间胶囊-寄往未来的信",
+    "name": "Time Capsule - Future Letters",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
@@ -244087,6 +244106,23 @@
     "history": [
       [
         {
+          "timestamp": 1791737634883,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737-800": "₺149,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Global scenery - 12 months": "₺999,99",
+            "Airbus A321": "₺99,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "UH-60": "₺49,99",
+            "Airbus A350-1000": "₺199,99"
+          }
+        },
+        {
           "timestamp": 1791687637772,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -290464,6 +290500,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791737634883,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tower Alchemist": "₺149,99",
+            "Hero Ashbite": "₺399,99",
+            "Tower Forger": "₺249,99",
+            "Gems Handful": "₺149,99",
+            "Tower Sniper": "₺299,99",
+            "Hero Ignus": "₺149,99",
+            "ALL TOWERS BUNDLE": "₺999,99",
+            "SHOWCASE OFFER 08": "₺249,99",
+            "Tower Wildcat": "₺249,99",
+            "Hero Oni": "₺249,99"
+          }
+        },
         {
           "timestamp": 1791718980381,
           "price": 399.99,

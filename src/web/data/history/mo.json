@@ -98500,6 +98500,23 @@
     "history": [
       [
         {
+          "timestamp": 1791718980381,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "寶石箱": "USD 9.99",
+            "SF2SEPack120": "USD 119.99",
+            "SF2SEPack100": "USD 99.99",
+            "SF2SEPack90": "USD 89.99",
+            "SF2SEPack75": "USD 74.99",
+            "SF2SEPack70": "USD 69.99",
+            "SF2SEPack55": "USD 54.99",
+            "SF2SEPack40": "USD 39.99",
+            "SF2SEPack38": "USD 37.99",
+            "SF2SEPack23": "USD 22.99"
+          }
+        },
+        {
           "timestamp": 1791687637772,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -206787,6 +206804,19 @@
     "history": [
       [
         {
+          "timestamp": 1791718980381,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro": "USD 19.99",
+            "Lite": "USD 4.99",
+            "Pro Max": "USD 99.99",
+            "Pro Ultra": "USD 199.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790790015131,
           "price": 0.29,
           "formattedPrice": "USD 0.29",
@@ -215732,6 +215762,29 @@
           "timestamp": 1791568819448,
           "price": 11.99,
           "formattedPrice": "USD 11.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6814210373": {
+    "trackId": 6814210373,
+    "trackName": "Auday - All-Day Watch Recorder",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791718980381,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
           "inAppPurchases": {}
         }
       ]

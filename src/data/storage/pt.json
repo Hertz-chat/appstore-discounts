@@ -105341,6 +105341,20 @@
     "history": [
       [
         {
+          "timestamp": 1791718980381,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Filtr": "5,99 €",
+            "Yearly Recurring Tip": "9,99 €",
+            "Monthly Recurring Tip": "1,99 €",
+            "Mega Tip": "22,99 €",
+            "Tip": "5,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790857883196,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -145222,6 +145236,27 @@
           "timestamp": 1791568819448,
           "price": 12.99,
           "formattedPrice": "12,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6814210373": {
+    "name": "Auday - All-Day Watch Recorder",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791718980381,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
           "inAppPurchases": {}
         }
       ]

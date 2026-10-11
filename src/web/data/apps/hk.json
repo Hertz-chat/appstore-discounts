@@ -543,7 +543,7 @@
   {
     "trackId": 325307477,
     "region": "hk",
-    "timestamp": 1791687637772,
+    "timestamp": 1791718980381,
     "discounts": [],
     "price": 148,
     "formattedPrice": "HK$ 148.00",
@@ -833,7 +833,7 @@
   {
     "trackId": 342115564,
     "region": "hk",
-    "timestamp": 1787447765759,
+    "timestamp": 1791718980381,
     "discounts": [],
     "price": 38,
     "formattedPrice": "HK$ 38.00",
@@ -13136,7 +13136,7 @@
   {
     "trackId": 1477966166,
     "region": "hk",
-    "timestamp": 1791631773080,
+    "timestamp": 1791718980381,
     "discounts": [],
     "price": 38,
     "formattedPrice": "HK$ 38.00",
@@ -17563,7 +17563,7 @@
   {
     "trackId": 1642733080,
     "region": "hk",
-    "timestamp": 1791649753895,
+    "timestamp": 1791718980381,
     "discounts": [],
     "price": 38,
     "formattedPrice": "HK$ 38.00",
@@ -23336,10 +23336,10 @@
   {
     "trackId": 6751122124,
     "region": "hk",
-    "timestamp": 1790790015131,
+    "timestamp": 1791718980381,
     "discounts": [],
-    "price": 2,
-    "formattedPrice": "HK$ 2.00",
+    "price": 0,
+    "formattedPrice": "免費",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id6751122124",
     "trackName": "Notteka | AI工作台",
@@ -24722,7 +24722,7 @@
   {
     "trackId": 6759664029,
     "region": "hk",
-    "timestamp": 1791631773080,
+    "timestamp": 1791718980381,
     "discounts": [],
     "price": 58,
     "formattedPrice": "HK$ 58.00",
@@ -26328,6 +26328,18 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id6812927976",
     "trackName": "Enchanted Survival: 刷寶RPG",
     "firstRecordedAt": 1791507612931
+  },
+  {
+    "trackId": 6814210373,
+    "region": "hk",
+    "timestamp": 1791718980381,
+    "discounts": [],
+    "price": 88,
+    "formattedPrice": "HK$ 88.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6814210373",
+    "trackName": "Auday - All-Day Watch Recorder",
+    "firstRecordedAt": 1791718980381
   },
   {
     "trackId": 6819276809,

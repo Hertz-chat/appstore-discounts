@@ -151848,6 +151848,29 @@
       ]
     ]
   },
+  "1620745523": {
+    "trackId": 1620745523,
+    "trackName": "aRDP Pro - RDP Remote Desktop",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00"
+    },
+    "minPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791752970806,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1621055260": {
     "trackId": 1621055260,
     "trackName": "百分之一",
@@ -222597,6 +222620,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791752970806,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Raider Mk. 1": "¥22.00",
+            "Raider Mk. 2": "¥28.00",
+            "Raider Mk. 3": "¥48.00",
+            "Raider Weekly": "¥8.00"
+          }
+        },
         {
           "timestamp": 1791737634883,
           "price": 0,

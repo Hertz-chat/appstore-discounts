@@ -10356,6 +10356,18 @@
     "firstRecordedAt": 1745528534252
   },
   {
+    "trackId": 1620745523,
+    "region": "cn",
+    "timestamp": 1791752970806,
+    "discounts": [],
+    "price": 68,
+    "formattedPrice": "¥68.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1620745523",
+    "trackName": "aRDP Pro - RDP Remote Desktop",
+    "firstRecordedAt": 1791752970806
+  },
+  {
     "trackId": 1621055260,
     "region": "cn",
     "timestamp": 1791665293817,
@@ -14449,7 +14461,7 @@
   {
     "trackId": 6755290585,
     "region": "cn",
-    "timestamp": 1791737634883,
+    "timestamp": 1791752970806,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免费",

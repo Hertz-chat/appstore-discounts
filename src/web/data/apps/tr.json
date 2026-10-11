@@ -3379,7 +3379,7 @@
   {
     "trackId": 525818839,
     "region": "tr",
-    "timestamp": 1791737634883,
+    "timestamp": 1791752970806,
     "discounts": [],
     "price": 49.99,
     "formattedPrice": "₺49,99",
@@ -16300,7 +16300,7 @@
   {
     "trackId": 1598130789,
     "region": "tr",
-    "timestamp": 1786682840855,
+    "timestamp": 1791752970806,
     "discounts": [],
     "price": 649,
     "formattedPrice": "₺649,00",
@@ -16909,6 +16909,18 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id1620202676",
     "trackName": "Iron Marines Invasion RTS Game",
     "firstRecordedAt": 1771447813830
+  },
+  {
+    "trackId": 1620745523,
+    "region": "tr",
+    "timestamp": 1791752970806,
+    "discounts": [],
+    "price": 499.99,
+    "formattedPrice": "₺499,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1620745523",
+    "trackName": "aRDP Pro - RDP Remote Desktop",
+    "firstRecordedAt": 1791752970806
   },
   {
     "trackId": 1620883955,
@@ -18913,7 +18925,7 @@
   {
     "trackId": 6462360082,
     "region": "tr",
-    "timestamp": 1791665293817,
+    "timestamp": 1791752970806,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -24937,6 +24949,16 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6762803589",
     "trackName": "Slots & Daggers",
     "firstRecordedAt": 1787131983558
+  },
+  {
+    "trackId": 6762813110,
+    "region": "tr",
+    "timestamp": 1791752970806,
+    "discounts": [],
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6762813110",
+    "trackName": "Sifu",
+    "firstRecordedAt": 1791752970806
   },
   {
     "trackId": 6762850272,

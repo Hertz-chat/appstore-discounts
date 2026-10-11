@@ -182,7 +182,7 @@
   {
     "trackId": 301387274,
     "region": "tw",
-    "timestamp": 1791737634883,
+    "timestamp": 1791752970806,
     "discounts": [],
     "price": 30,
     "formattedPrice": "$30.00",
@@ -7087,7 +7087,7 @@
   {
     "trackId": 983143183,
     "region": "tw",
-    "timestamp": 1791737634883,
+    "timestamp": 1791752970806,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -17031,6 +17031,18 @@
     "firstRecordedAt": 1771447813830
   },
   {
+    "trackId": 1620745523,
+    "region": "tw",
+    "timestamp": 1791752970806,
+    "discounts": [],
+    "price": 320,
+    "formattedPrice": "$320.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1620745523",
+    "trackName": "aRDP Pro - RDP Remote Desktop",
+    "firstRecordedAt": 1791752970806
+  },
+  {
     "trackId": 1620883955,
     "region": "tw",
     "timestamp": 1790094096914,
@@ -19923,7 +19935,7 @@
   {
     "trackId": 6478287619,
     "region": "tw",
-    "timestamp": 1791737634883,
+    "timestamp": 1791752970806,
     "discounts": [],
     "price": 120,
     "formattedPrice": "$120.00",
@@ -20164,7 +20176,7 @@
   {
     "trackId": 6480501528,
     "region": "tw",
-    "timestamp": 1791397748865,
+    "timestamp": 1791752970806,
     "discounts": [],
     "price": 10,
     "formattedPrice": "$10.00",
@@ -25328,6 +25340,18 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id6762803589",
     "trackName": "Slots & Daggers",
     "firstRecordedAt": 1787131983558
+  },
+  {
+    "trackId": 6762813110,
+    "region": "tw",
+    "timestamp": 1791752970806,
+    "discounts": [],
+    "price": 190,
+    "formattedPrice": "$190.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6762813110",
+    "trackName": "Sifu",
+    "firstRecordedAt": 1791752970806
   },
   {
     "trackId": 6762850272,

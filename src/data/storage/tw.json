@@ -443,6 +443,22 @@
     "history": [
       [
         {
+          "timestamp": 1791752970806,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Dance Pack Too": "$30.00",
+            "Tyrannosaurus Rex Skin Pack": "$30.00",
+            "Alien Pack": "$30.00",
+            "Ice Monster Skin Pack": "$30.00",
+            "Holiday Skin Pack": "$30.00",
+            "Halloween Skin Pack": "$30.00",
+            "Medieval Pack": "$30.00",
+            "Retro Games SkinPack": "$30.00",
+            "Japanese Skin Pack": "$30.00"
+          }
+        },
+        {
           "timestamp": 1791737634883,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -84584,6 +84600,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791752970806,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "13 Gems": "$290.00",
+            "6 Gems": "$120.00",
+            "48 Gems": "$990.00",
+            "1 Gem": "$30.00",
+            "150 Gems": "$2,490.00",
+            "74 Gems": "$1,290.00",
+            "28 Gems": "$490.00"
+          }
+        },
         {
           "timestamp": 1791737634883,
           "price": 0,
@@ -214773,6 +214803,27 @@
       ]
     ]
   },
+  "1620745523": {
+    "name": "aRDP Pro - RDP Remote Desktop",
+    "maxPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "minPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791752970806,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1620883955": {
     "name": "Little Nightmares",
     "maxPriceInfo": {
@@ -253981,6 +254032,25 @@
     "history": [
       [
         {
+          "timestamp": 1791752970806,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "Jingle": "$90.00",
+            "2025 Spring Forest Theme": "$60.00",
+            "2025 Spring Lawn Theme": "$90.00",
+            "2025 Spring Flower Theme": "$60.00",
+            "Lawn Theme": "$60.00",
+            "小灰": "$60.00",
+            "軟軟": "$60.00",
+            "招財": "$60.00",
+            "點點": "$60.00",
+            "Civet Theme": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -288934,6 +289004,23 @@
     "history": [
       [
         {
+          "timestamp": 1791752970806,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$290.00",
+            "Sun and Spice Bundle": "$220.00",
+            "Mystic Mayhem Pack": "$120.00",
+            "Kitchen Chaos Pack": "$120.00",
+            "Santa Claws Card Back": "$30.00",
+            "Santa Claws Pack": "$120.00",
+            "Under the Tree location": "$60.00",
+            "Santa Claws Emoji Pack": "$30.00",
+            "All Wrapped Up outfit": "$60.00",
+            "Snow Globe Outfit": "$60.00"
+          }
+        },
+        {
           "timestamp": 1791737634883,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -313982,6 +314069,27 @@
           "timestamp": 1791718980381,
           "price": 320,
           "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6762813110": {
+    "name": "Sifu",
+    "maxPriceInfo": {
+      "price": 190,
+      "formattedPrice": "$190.00"
+    },
+    "minPriceInfo": {
+      "price": 190,
+      "formattedPrice": "$190.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791752970806,
+          "price": 190,
+          "formattedPrice": "$190.00",
           "inAppPurchases": {}
         }
       ]

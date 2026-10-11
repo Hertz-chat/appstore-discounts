@@ -2173,7 +2173,7 @@
   {
     "trackId": 432850619,
     "region": "mo",
-    "timestamp": 1791737634883,
+    "timestamp": 1791752970806,
     "discounts": [],
     "price": 14.99,
     "formattedPrice": "USD 14.99",
@@ -2728,7 +2728,7 @@
   {
     "trackId": 479516143,
     "region": "mo",
-    "timestamp": 1791737634883,
+    "timestamp": 1791752970806,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "USD 6.99",
@@ -10676,7 +10676,7 @@
   {
     "trackId": 1322914367,
     "region": "mo",
-    "timestamp": 1791420216639,
+    "timestamp": 1791752970806,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "USD 0.99",
@@ -17018,6 +17018,18 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id1620202676",
     "trackName": "鋼鐵戰隊",
     "firstRecordedAt": 1771447813830
+  },
+  {
+    "trackId": 1620745523,
+    "region": "mo",
+    "timestamp": 1791752970806,
+    "discounts": [],
+    "price": 9.99,
+    "formattedPrice": "USD 9.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1620745523",
+    "trackName": "aRDP Pro - RDP Remote Desktop",
+    "firstRecordedAt": 1791752970806
   },
   {
     "trackId": 1620883955,
@@ -25191,6 +25203,18 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id6762803589",
     "trackName": "Slots & Daggers",
     "firstRecordedAt": 1787131983558
+  },
+  {
+    "trackId": 6762813110,
+    "region": "mo",
+    "timestamp": 1791752970806,
+    "discounts": [],
+    "price": 7.99,
+    "formattedPrice": "USD 7.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6762813110",
+    "trackName": "Sifu",
+    "firstRecordedAt": 1791752970806
   },
   {
     "trackId": 6762850272,

@@ -4507,7 +4507,7 @@
   {
     "trackId": 700637744,
     "region": "pt",
-    "timestamp": 1791737634883,
+    "timestamp": 1791752970806,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "1,99 €",
@@ -5816,7 +5816,7 @@
   {
     "trackId": 932389062,
     "region": "pt",
-    "timestamp": 1791737634883,
+    "timestamp": 1791752970806,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "0,99 €",
@@ -14095,7 +14095,7 @@
   {
     "trackId": 1555459868,
     "region": "pt",
-    "timestamp": 1791737634883,
+    "timestamp": 1791752970806,
     "discounts": [],
     "price": 5.99,
     "formattedPrice": "5,99 €",
@@ -15117,7 +15117,7 @@
   {
     "trackId": 1598130789,
     "region": "pt",
-    "timestamp": 1791737634883,
+    "timestamp": 1791752970806,
     "discounts": [],
     "price": 14.49,
     "formattedPrice": "14,49 €",
@@ -15713,6 +15713,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id1620202676",
     "trackName": "Iron Marines Invasion",
     "firstRecordedAt": 1771447813830
+  },
+  {
+    "trackId": 1620745523,
+    "region": "pt",
+    "timestamp": 1791752970806,
+    "discounts": [],
+    "price": 9.99,
+    "formattedPrice": "9,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1620745523",
+    "trackName": "aRDP Pro - RDP Remote Desktop",
+    "firstRecordedAt": 1791752970806
   },
   {
     "trackId": 1620883955,
@@ -18146,7 +18158,7 @@
   {
     "trackId": 6476567182,
     "region": "pt",
-    "timestamp": 1790805284947,
+    "timestamp": 1791752970806,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Gratuito",
@@ -23271,6 +23283,16 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id6762803589",
     "trackName": "Slots & Daggers",
     "firstRecordedAt": 1787131983558
+  },
+  {
+    "trackId": 6762813110,
+    "region": "pt",
+    "timestamp": 1791752970806,
+    "discounts": [],
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6762813110",
+    "trackName": "Sifu",
+    "firstRecordedAt": 1791752970806
   },
   {
     "trackId": 6762850272,

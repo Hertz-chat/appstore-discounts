@@ -32041,6 +32041,23 @@
     "history": [
       [
         {
+          "timestamp": 1791752970806,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Rayark Selection Vol.2": "3,99 €",
+            "Rayark Selection Vol.1": "3,99 €",
+            "V.K Collection": "3,99 €",
+            "Forgotten Hourglass": "9,99 €",
+            "MILI Collection": "3,99 €",
+            "M2U X NICODE Collection": "3,99 €",
+            "Sakuzyo Collection": "3,99 €",
+            "Knight Iris": "3,99 €",
+            "Cytus Selection Vol.1": "3,99 €",
+            "Brian Crain Collection": "3,99 €"
+          }
+        },
+        {
           "timestamp": 1791737634883,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -39084,6 +39101,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791752970806,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Free Checkpoints": "0,99 €",
+            "Unlock all stages": "0,99 €",
+            "Large Coin Pack": "2,99 €",
+            "Medium Coin Pack": "1,99 €",
+            "Small Coin Pack": "0,99 €",
+            "Pig": "0,99 €",
+            "Dog": "0,99 €",
+            "Rooster": "0,99 €",
+            "Monkey": "0,99 €",
+            "Goat": "0,99 €"
+          }
+        },
         {
           "timestamp": 1791737634883,
           "price": 0.99,
@@ -90357,6 +90391,23 @@
     "history": [
       [
         {
+          "timestamp": 1791752970806,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Vaul of the Void Promo Pack": "0,00 €",
+            "Dawncaster Origins Bundle": "5,99 €",
+            "Siege of Shadows": "5,99 €",
+            "Dawncaster Mega Bundle": "14,99 €",
+            "Infernal Invasions": "6,99 €",
+            "Masks of Misery": "5,99 €",
+            "Nexus of Nightmares": "6,99 €",
+            "Tribes of Twilight": "5,99 €",
+            "Death of Divinity": "5,99 €",
+            "Synthesis Support Pack": "4,99 €"
+          }
+        },
+        {
           "timestamp": 1791737634883,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -98170,6 +98221,23 @@
     "history": [
       [
         {
+          "timestamp": 1791752970806,
+          "price": 14.49,
+          "formattedPrice": "14,49 €",
+          "inAppPurchases": {
+            "All Content": "0,00 €",
+            "Opposing Fronts": "0,00 €",
+            "Tales of Valor": "0,00 €",
+            "Invasion of Normandy 2-5": "0,00 €",
+            "1 vs 1 Skirmish Maps": "0,00 €",
+            "Invasion of Normandy 6-10": "0,00 €",
+            "3 vs 3 Skirmish Maps": "0,00 €",
+            "2 vs 2 Skirmish Maps": "0,00 €",
+            "Invasion of Normandy 11-15": "0,00 €",
+            "4 vs 4 Skirmish Maps": "0,00 €"
+          }
+        },
+        {
           "timestamp": 1791737634883,
           "price": 14.49,
           "formattedPrice": "14,49 €",
@@ -101495,6 +101563,27 @@
             "Special Daily Pack18": "3,99 €",
             "Special Daily Pack17": "3,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "1620745523": {
+    "name": "aRDP Pro - RDP Remote Desktop",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791752970806,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -138839,7 +138928,13 @@
       "Saaremaa Ralli 2026": "3,89 €",
       "D1 East Belgian Rally 2026": "3,89 €",
       "ERC Rally Portugal 2026": "3,89 €",
-      "WRC Rally Italia 2026": "3,89 €"
+      "WRC Rally Italia 2026": "3,89 €",
+      "Rally ALŪKSNE 2025": "1,95 €",
+      "SM Ralli Kuopio 2025": "2,59 €",
+      "Rallye Monte-Carlo": "2,59 €",
+      "Arctic Lapland Rally 2025": "2,59 €",
+      "Otepää Talveralli": "2,59 €",
+      "Rally Alūksne 2025": "2,59 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -138881,9 +138976,30 @@
       "Saaremaa Ralli 2026": "3,89 €",
       "D1 East Belgian Rally 2026": "3,89 €",
       "ERC Rally Portugal 2026": "3,89 €",
-      "WRC Rally Italia 2026": "3,89 €"
+      "WRC Rally Italia 2026": "3,89 €",
+      "Rally ALŪKSNE 2025": "1,95 €",
+      "SM Ralli Kuopio 2025": "2,59 €",
+      "Rallye Monte-Carlo": "2,59 €",
+      "Arctic Lapland Rally 2025": "2,59 €",
+      "Otepää Talveralli": "2,59 €",
+      "Rally Alūksne 2025": "2,59 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791752970806,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Rally ALŪKSNE 2025": "1,95 €",
+            "SM Ralli Kuopio 2025": "2,59 €",
+            "Rallye Monte-Carlo": "2,59 €",
+            "Arctic Lapland Rally 2025": "2,59 €",
+            "Otepää Talveralli": "2,59 €",
+            "Rally Alūksne 2025": "2,59 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -145333,6 +145449,19 @@
           "timestamp": 1791718980381,
           "price": 9.99,
           "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6762813110": {
+    "name": "Sifu",
+    "maxPriceInfo": {},
+    "minPriceInfo": {},
+    "history": [
+      [
+        {
+          "timestamp": 1791752970806,
           "inAppPurchases": {}
         }
       ]

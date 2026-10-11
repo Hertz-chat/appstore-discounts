@@ -45797,6 +45797,25 @@
     "history": [
       [
         {
+          "timestamp": 1791752970806,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Necroa Virus Expansion Pack": "₺99,99",
+            "Unlock 7 Standard Plagues": "₺149,99",
+            "Unlock Virus": "₺49,99",
+            "Neurax Worm Expansion Pack": "₺99,99",
+            "Unlock All Genes": "₺399,99",
+            "Scenario Pack": "₺149,99",
+            "Simian Flu Expansion Pack": "₺99,99",
+            "Unlock Cheats": "₺499,99",
+            "Plague Pack": "₺699,99",
+            "Shadow Plague Expansion Pack": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791737634883,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -213122,6 +213141,25 @@
     "history": [
       [
         {
+          "timestamp": 1791752970806,
+          "price": 649,
+          "formattedPrice": "₺649,00",
+          "inAppPurchases": {
+            "Spanish Audio": "₺0,00",
+            "Invasion of Normandy 11-15": "₺0,00",
+            "Russian Audio": "₺0,00",
+            "Opposing Fronts - Russian": "₺0,00",
+            "2 vs 2 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 2-5": "₺0,00",
+            "1 vs 1 Skirmish Maps": "₺0,00",
+            "All Content": "₺0,00",
+            "Opposing Fronts": "₺0,00",
+            "3 vs 3 Skirmish Maps": "₺0,00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786682840855,
           "price": 649,
           "formattedPrice": "₺649,00",
@@ -219239,6 +219277,29 @@
             "Special Daily Pack7": "₺99,99",
             "Unit Group Ascendii On Sale": "₺49,99"
           }
+        }
+      ]
+    ]
+  },
+  "1620745523": {
+    "trackId": 1620745523,
+    "trackName": "aRDP Pro - RDP Remote Desktop",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "minPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791752970806,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -231055,6 +231116,25 @@
       "Weapon Upgrade Ticket x1 (E)": "₺41,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791752970806,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "₺2.599,00",
+            "Extra DLC Pack": "₺769,00",
+            "Weapon Upgrade Ticket x5 (A)": "₺349,00",
+            "Weapon Upgrade Ticket x3 (A)": "₺254,99",
+            "Weapon Upgrade Ticket x3 (D)": "₺254,99",
+            "Weapon Upgrade Ticket x3 (C)": "₺254,99",
+            "Weapon Upgrade Ticket x1 (F)": "₺105,00",
+            "Weapon Upgrade Ticket x1 (E)": "₺105,00",
+            "Weapon Upgrade Ticket x1 (A)": "₺105,00",
+            "Weapon Upgrade Ticket x1 (C)": "₺105,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791665293817,
@@ -295994,6 +296074,21 @@
           "timestamp": 1791718980381,
           "price": 9.99,
           "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6762813110": {
+    "trackId": 6762813110,
+    "trackName": "Sifu",
+    "region": "tr",
+    "maxPriceInfo": {},
+    "minPriceInfo": {},
+    "history": [
+      [
+        {
+          "timestamp": 1791752970806,
           "inAppPurchases": {}
         }
       ]

@@ -4310,6 +4310,25 @@
     "history": [
       [
         {
+          "timestamp": 1791676595925,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {
+            "Max Subwoofer SPL": "USD 29.99",
+            "LUFS Meter": "USD 9.99",
+            "HAA CinemaTools with HAA Link": "USD 149.99",
+            "HAA Link": "USD 9.99",
+            "HAA Pro Module": "USD 19.99",
+            "SPL Enhance": "USD 39.99",
+            "All-In Module Access": "USD 9.99",
+            "HAA Upgrade to Pro": "USD 399.99",
+            "HAA Pro Installer Calibration": "USD 499.99",
+            "HAA Home Theater": "USD 99.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786181792801,
           "price": 19.99,
           "formattedPrice": "USD 19.99",
@@ -88936,6 +88955,18 @@
       "Month": "USD 1.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791676595925,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Year": "USD 11.99",
+            "6 Months": "USD 8.99",
+            "Month": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791316756993,
@@ -209796,6 +209827,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791676595925,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "SENSI RANKED iPhone 15 a 17 Pro Max": "USD 1.99",
+            "SENSI RANKED iPhone 13 a 14 Pro Max": "USD 1.99",
+            "SENSI RANKED iPhone X a 12 Pro Max": "USD 1.99",
+            "SENSI RANKED VIP iPhone 3 a 8 Plus": "USD 1.99",
+            "SENSI iPhone 15 a 17 Pro Max": "USD 1.99",
+            "SENSI iPhone 13 a 14 Pro Max": "USD 1.99",
+            "SENSI iPhone X a 12 Pro Max": "USD 1.99",
+            "SENSI APOSTADO/X1 iPhone 3 a 8 Plus": "USD 1.99",
+            "Clone Sensi – 3 Clonagens": "USD 1.99",
+            "Clone de Sensi": "USD 0.99"
+          }
+        },
         {
           "timestamp": 1791665293817,
           "price": 0.99,

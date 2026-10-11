@@ -126121,6 +126121,25 @@
     "history": [
       [
         {
+          "timestamp": 1791676595925,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "Jingle": "2,99 €",
+            "2025 Spring Forest Theme": "1,99 €",
+            "2025 Spring Lawn Theme": "2,99 €",
+            "2025 Spring Flower Theme": "1,99 €",
+            "Lawn Theme": "1,99 €",
+            "Toby": "1,99 €",
+            "Gizmo": "1,99 €",
+            "Lucky": "1,99 €",
+            "Loki": "1,99 €",
+            "Civet Theme": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791665293817,
           "price": 0.29,
           "formattedPrice": "0,29 €",

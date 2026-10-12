@@ -128116,6 +128116,23 @@
     "history": [
       [
         {
+          "timestamp": 1791799508618,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {
+            "所有內容": "USD 0.00",
+            "《Opposing Fronts》火線對決": "USD 3.99",
+            "《Tales of Valor》": "USD 3.99",
+            "1 vs 1 獨立戰役地圖": "USD 0.00",
+            "戰役任務 2-5": "USD 0.00",
+            "3 vs 3 獨立戰役地圖": "USD 0.00",
+            "高畫質模型": "USD 0.00",
+            "4 vs 4 獨立戰役地圖": "USD 0.00",
+            "2 vs 2 獨立戰役地圖": "USD 0.00",
+            "Tales of Valor - Spanish": "USD 0.00"
+          }
+        },
+        {
           "timestamp": 1791773850972,
           "price": 14.99,
           "formattedPrice": "USD 14.99",
@@ -186038,6 +186055,23 @@
     "history": [
       [
         {
+          "timestamp": 1791799508618,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Global scenery - 12 months": "USD 19.99",
+            "Global scenery - 1 month": "USD 4.99",
+            "The Aircraft Bundle": "USD 24.99",
+            "Boeing 747-400": "USD 1.99",
+            "Boeing 777-300ER": "USD 1.99",
+            "Airbus A350-1000": "USD 3.99",
+            "Boeing 737 MAX 9": "USD 1.99",
+            "Airbus A380": "USD 1.99",
+            "Global scenery - 3 months": "USD 7.99",
+            "Airbus A320neo": "USD 3.99"
+          }
+        },
+        {
           "timestamp": 1791773850972,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -216023,6 +216057,29 @@
           "timestamp": 1791752970806,
           "price": 7.99,
           "formattedPrice": "USD 7.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6749456796": {
+    "trackId": 6749456796,
+    "trackName": "Vampire Crawlers",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791799508618,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
           "inAppPurchases": {}
         }
       ]

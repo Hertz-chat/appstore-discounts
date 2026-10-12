@@ -7653,7 +7653,7 @@
   {
     "trackId": 1050535507,
     "region": "hk",
-    "timestamp": 1791453869385,
+    "timestamp": 1791799508618,
     "discounts": [],
     "price": 18,
     "formattedPrice": "HK$ 18.00",
@@ -15230,7 +15230,7 @@
   {
     "trackId": 1555184523,
     "region": "hk",
-    "timestamp": 1791420216639,
+    "timestamp": 1791799508618,
     "discounts": [],
     "price": 58,
     "formattedPrice": "HK$ 58.00",
@@ -19479,7 +19479,7 @@
   {
     "trackId": 6473001577,
     "region": "hk",
-    "timestamp": 1791687637772,
+    "timestamp": 1791799508618,
     "discounts": [],
     "price": 32,
     "formattedPrice": "HK$ 32.00",
@@ -19684,7 +19684,7 @@
   {
     "trackId": 6476567182,
     "region": "hk",
-    "timestamp": 1790828594798,
+    "timestamp": 1791799508618,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -23189,6 +23189,18 @@
     "firstRecordedAt": 1779650230794
   },
   {
+    "trackId": 6749456796,
+    "region": "hk",
+    "timestamp": 1791799508618,
+    "discounts": [],
+    "price": 88,
+    "formattedPrice": "HK$ 88.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6749456796",
+    "trackName": "Vampire Crawlers",
+    "firstRecordedAt": 1791799508618
+  },
+  {
     "trackId": 6749533872,
     "region": "hk",
     "timestamp": 1755627447261,
@@ -24734,7 +24746,7 @@
   {
     "trackId": 6759664029,
     "region": "hk",
-    "timestamp": 1791737634883,
+    "timestamp": 1791799508618,
     "discounts": [],
     "price": 58,
     "formattedPrice": "HK$ 58.00",

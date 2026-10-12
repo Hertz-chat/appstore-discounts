@@ -176152,6 +176152,25 @@
     "history": [
       [
         {
+          "timestamp": 1791799508618,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "68金玉": "$9.99",
+            "30金玉": "$4.99",
+            "648金玉": "$99.99",
+            "6金玉": "$0.99",
+            "198金玉": "$29.99",
+            "禮包5": "$4.99",
+            "禮包6": "$9.99",
+            "328金玉": "$49.99",
+            "禮包7": "$14.99",
+            "尊享月俸": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791631773080,
           "price": 0.29,
           "formattedPrice": "$0.29",
@@ -219864,6 +219883,25 @@
     "history": [
       [
         {
+          "timestamp": 1791799508618,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Nexus of Nightmares": "$5.99",
+            "Synthesis Support Pack": "$3.99",
+            "Infernal Invasions": "$5.99",
+            "Vaul of the Void Promo Pack": "$0.00",
+            "Eclypse Supporter Pack": "$3.99",
+            "Dawncaster Origins Bundle": "$4.99",
+            "Dawncaster Mega Bundle": "$12.99",
+            "Siege of Shadows": "$4.99",
+            "Catalyst Support Pack": "$4.99",
+            "Masks of Misery": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -258189,6 +258227,25 @@
     "history": [
       [
         {
+          "timestamp": 1791799508618,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Season Pass": "$6.99",
+            "Autonomy": "$2.99",
+            "Time Flow": "$2.99",
+            "Wedding Pack": "$4.99",
+            "Neo Package": "$4.99",
+            "Nurse Pack": "$4.99",
+            "Uniform Pack": "$3.99",
+            "Character Pass": "$11.99",
+            "Mecha Pack": "$4.99",
+            "Corrupted Pack": "$6.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -291523,6 +291580,25 @@
       "Ticket to Ride Sale Offer": "$27.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791799508618,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Round the World Ticket": "$49.99",
+            "1910 Ticket Pack": "$3.99",
+            "Europe Expansion": "$14.99",
+            "Welcome Offer": "$29.99",
+            "Ticket to Ride ChristmasBundle": "$9.99",
+            "Ticket to Ride Sale Offer": "$29.99",
+            "Europe Map": "$12.99",
+            "Nordic Expansion": "$12.99",
+            "Legendary Asia Expansion": "$12.99",
+            "San Francisco City Expansion": "$12.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790977922515,
@@ -326306,6 +326382,25 @@
     "history": [
       [
         {
+          "timestamp": 1791799508618,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$9.99",
+            "Sun and Spice Bundle": "$7.99",
+            "Mystic Mayhem Pack": "$5.99",
+            "Santa Claws Pack": "$4.99",
+            "Beach Day Pack": "$5.99",
+            "Kitchen Chaos Pack": "$5.99",
+            "Mystic Mayhem Card Back": "$0.99",
+            "Sea Rat Outfit": "$1.99",
+            "Slice of Heaven Outfit": "$1.99",
+            "MysticMayhem Cauldron Creature": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791718980381,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -343580,7 +343675,8 @@
       "BLACK KITTY FISH": "$1.99",
       "BLACK WHITE KITTY FISH": "$1.99",
       "BAT FISH": "$1.99",
-      "ROBO FISH 06": "$1.99"
+      "ROBO FISH 06": "$1.99",
+      "BLACK VAMPIRE": "$1.99"
     },
     "minPriceInfo": {
       "price": 1.69,
@@ -343629,9 +343725,29 @@
       "BLACK KITTY FISH": "$1.99",
       "BLACK WHITE KITTY FISH": "$1.99",
       "BAT FISH": "$1.99",
-      "ROBO FISH 06": "$1.99"
+      "ROBO FISH 06": "$1.99",
+      "BLACK VAMPIRE": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791799508618,
+          "price": 3.49,
+          "formattedPrice": "$3.49",
+          "inAppPurchases": {
+            "ROBO FISH 01": "$1.99",
+            "BLACK VAMPIRE": "$1.99",
+            "RED-WHITE RYUKIN": "$1.99",
+            "RED RYUKIN": "$1.99",
+            "WIREFRAME WHITE": "$0.99",
+            "CALICO RED/WHITE/BLACK": "$1.99",
+            "GHOST BRIDE": "$1.99",
+            "YELLOW GOLD RYUKIN": "$1.99",
+            "PANDA TELESCOPE": "$1.99",
+            "BAT FISH": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791718980381,
@@ -357421,6 +357537,29 @@
         },
         {
           "timestamp": 1791752970806,
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6749456796": {
+    "trackId": 6749456796,
+    "trackName": "Vampire Crawlers",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791799508618,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
           "inAppPurchases": {}
         }
       ]

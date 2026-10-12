@@ -9219,6 +9219,23 @@
     "history": [
       [
         {
+          "timestamp": 1791799508618,
+          "price": 168,
+          "formattedPrice": "¥168.00",
+          "inAppPurchases": {
+            "forScore Pro": "¥98.00",
+            "Brahms: The Mutopia Collection": "¥0.00",
+            "Liszt: The Mutopia Collection": "¥0.00",
+            "Burgmüller: The Mutopia Collection": "¥0.00",
+            "Verdi: The Mutopia Collection": "¥0.00",
+            "Haydn: The Mutopia Collection": "¥0.00",
+            "Schumann: The Mutopia Collection": "¥0.00",
+            "Tchaikovsky: The Mutopia Collection": "¥0.00",
+            "Rameau: The Mutopia Collection": "¥0.00",
+            "Satie: The Mutopia Collection": "¥0.00"
+          }
+        },
+        {
           "timestamp": 1791773850972,
           "price": 168,
           "formattedPrice": "¥168.00",
@@ -16897,6 +16914,25 @@
       "Gold Monthly": "¥58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791799508618,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "¥28.00",
+            "Gold Level Free Trial": "¥0.00",
+            "7-day Trial Astrolocality": "¥0.00",
+            "Relationship Report": "¥28.00",
+            "Predictive Report - Full": "¥28.00",
+            "Gold Level lifetime": "¥498.00",
+            "Astrolocality Maps": "¥168.00",
+            "Child Report - Full": "¥28.00",
+            "Gold Monthly": "¥58.00",
+            "Predictive Report - No Background": "¥22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791397748865,
@@ -33573,7 +33609,8 @@
       "FCA 2026": "¥98.00",
       "Ford 2025 Enhanced": "¥98.00",
       "Mitsubishi 2024": "¥98.00",
-      "Mitsubishi 2023": "¥98.00"
+      "Mitsubishi 2023": "¥98.00",
+      "Toyota 2021 Enhanced": "¥98.00"
     },
     "minPriceInfo": {
       "price": 68,
@@ -33587,9 +33624,29 @@
       "FCA 2026": "¥98.00",
       "Ford 2025 Enhanced": "¥98.00",
       "Mitsubishi 2024": "¥98.00",
-      "Mitsubishi 2023": "¥98.00"
+      "Mitsubishi 2023": "¥98.00",
+      "Toyota 2021 Enhanced": "¥98.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791799508618,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {
+            "Toyota 2021 Enhanced": "¥98.00",
+            "Toyota 2019 Enhanced": "¥98.00",
+            "FCA 2017": "¥98.00",
+            "Toyota 2014 Enhanced Diagnostics": "¥98.00",
+            "Ford 2026 Enhanced": "¥98.00",
+            "Mazda 2026 Enhanced": "¥98.00",
+            "Mazda 2025 Enhanced": "¥98.00",
+            "FCA 2026": "¥98.00",
+            "Ford 2025 Enhanced": "¥98.00",
+            "Mitsubishi 2024": "¥98.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791207805972,
@@ -107932,6 +107989,23 @@
     "history": [
       [
         {
+          "timestamp": 1791799508618,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {
+            "升级完整版，解锁一切功能": "¥38.00",
+            "使用所有滤镜包": "¥15.00",
+            "所有海报包": "¥22.00",
+            "所有贴纸包": "¥15.00",
+            "Rainbow Film Pack": "¥8.00",
+            "Retro Film Pack": "¥8.00",
+            "Style Film Pack": "¥8.00",
+            "Future Font Pack": "¥0.00",
+            "Bokeh Film Pack": "¥0.00",
+            "Paper Film Pack": "¥0.00"
+          }
+        },
+        {
           "timestamp": 1791773850972,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -169403,6 +169477,25 @@
     "history": [
       [
         {
+          "timestamp": 1791799508618,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "DLC：姐妹连": "¥2.00",
+            "DLC：英雄对决": "¥8.00",
+            "DLC：怪物联盟": "¥12.00",
+            "DLC：龙之神庙": "¥9.00",
+            "DLC：贪婪洞窟": "¥6.00",
+            "DLC：外星入侵": "¥8.00",
+            "DLC：异界": "¥8.00",
+            "DLC：魔法之镜": "¥5.00",
+            "DLC：孤山世界": "¥12.00",
+            "DLC：邪恶之心": "¥12.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791507612931,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -184197,6 +184290,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791799508618,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {
+            "自创武将": "¥18.00",
+            "战国七雄": "¥36.00",
+            "群雄争霸": "¥18.00",
+            "楚汉争霸": "¥36.00",
+            "五子良将": "¥36.00",
+            "自创地图": "¥24.00",
+            "无双战神": "¥36.00",
+            "镇海神威": "¥18.00",
+            "冠绝天下": "¥36.00",
+            "重振汉室": "¥18.00"
+          }
+        },
         {
           "timestamp": 1791737634883,
           "price": 35,

@@ -12315,7 +12315,7 @@
   {
     "trackId": 1450144092,
     "region": "us",
-    "timestamp": 1791631773080,
+    "timestamp": 1791799508618,
     "discounts": [],
     "price": 0.29,
     "formattedPrice": "$0.29",
@@ -15192,7 +15192,7 @@
   {
     "trackId": 1555459868,
     "region": "us",
-    "timestamp": 1790805284947,
+    "timestamp": 1791799508618,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "$4.99",
@@ -17441,7 +17441,7 @@
   {
     "trackId": 1642733080,
     "region": "us",
-    "timestamp": 1791453869385,
+    "timestamp": 1791799508618,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "$4.99",
@@ -18935,7 +18935,7 @@
   {
     "trackId": 6463616555,
     "region": "us",
-    "timestamp": 1790977922515,
+    "timestamp": 1791799508618,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "$4.99",
@@ -19236,7 +19236,7 @@
   {
     "trackId": 6471839445,
     "region": "us",
-    "timestamp": 1791718980381,
+    "timestamp": 1791799508618,
     "discounts": [],
     "price": 3.49,
     "formattedPrice": "$3.49",
@@ -19717,7 +19717,7 @@
   {
     "trackId": 6478287619,
     "region": "us",
-    "timestamp": 1791718980381,
+    "timestamp": 1791799508618,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "$4.99",
@@ -22920,6 +22920,18 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id6749406060",
     "trackName": "Subnautica: Below Zero",
     "firstRecordedAt": 1779650230794
+  },
+  {
+    "trackId": 6749456796,
+    "region": "us",
+    "timestamp": 1791799508618,
+    "discounts": [],
+    "price": 9.99,
+    "formattedPrice": "$9.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6749456796",
+    "trackName": "Vampire Crawlers",
+    "firstRecordedAt": 1791799508618
   },
   {
     "trackId": 6749466141,

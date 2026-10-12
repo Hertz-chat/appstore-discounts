@@ -104912,6 +104912,17 @@
     "history": [
       [
         {
+          "timestamp": 1791773850972,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Hello World!": "0,99 €",
+            "Home Sweet Home": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788734577170,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -109734,11 +109745,21 @@
       "Bother Bin Pro": "3,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "Bother Bin Pro": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791773850972,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Bother Bin Pro": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791649753895,
@@ -136236,6 +136257,16 @@
     "history": [
       [
         {
+          "timestamp": 1791773850972,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Supporter Edition: Golden Gear": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790552524601,
           "price": 4.19,
           "formattedPrice": "4,19 €",
@@ -138985,6 +139016,25 @@
       "Rally Alūksne 2025": "2,59 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791773850972,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "WRC Vodafone Rally de Portugal 2026": "3,89 €",
+            "WRC Central European Rally": "4,69 €",
+            "ADAC 3 Städte Rallye 2026": "3,99 €",
+            "Saaremaa Ralli 2026": "3,89 €",
+            "ERC Rally Portugal 2026": "3,89 €",
+            "WRC Rally Italia 2026": "3,89 €",
+            "SM Porvoon Autopalvelu Ralli 2026": "3,89 €",
+            "D1 East Belgian Rally 2026": "3,89 €",
+            "Türi rahvaralli 2026": "2,89 €",
+            "WRC Rally Chile Bio Bio 2026": "3,89 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791752970806,
@@ -145459,6 +145509,14 @@
     "maxPriceInfo": {},
     "minPriceInfo": {},
     "history": [
+      [
+        {
+          "timestamp": 1791773850972,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791752970806,

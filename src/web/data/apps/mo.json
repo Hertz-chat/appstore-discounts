@@ -10676,7 +10676,7 @@
   {
     "trackId": 1322914367,
     "region": "mo",
-    "timestamp": 1791752970806,
+    "timestamp": 1791773850972,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "USD 0.99",
@@ -12823,7 +12823,7 @@
   {
     "trackId": 1464645812,
     "region": "mo",
-    "timestamp": 1786636713567,
+    "timestamp": 1791773850972,
     "discounts": [],
     "price": 14.99,
     "formattedPrice": "USD 14.99",
@@ -19503,7 +19503,7 @@
   {
     "trackId": 6473001577,
     "region": "mo",
-    "timestamp": 1791157842787,
+    "timestamp": 1791773850972,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "USD 3.99",
@@ -22929,10 +22929,10 @@
   {
     "trackId": 6748287593,
     "region": "mo",
-    "timestamp": 1791649753895,
+    "timestamp": 1791773850972,
     "discounts": [],
-    "price": 0.99,
-    "formattedPrice": "USD 0.99",
+    "price": 0,
+    "formattedPrice": "免費",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6748287593",
     "trackName": "問題盒子 - 清空大腦，告別內耗",
@@ -23257,10 +23257,10 @@
   {
     "trackId": 6751122124,
     "region": "mo",
-    "timestamp": 1791718980381,
+    "timestamp": 1791773850972,
     "discounts": [],
-    "price": 0,
-    "formattedPrice": "免費",
+    "price": 0.29,
+    "formattedPrice": "USD 0.29",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6751122124",
     "trackName": "Notteka | AI工作台",
@@ -26067,7 +26067,7 @@
     "formattedPrice": "USD 2.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6801866888",
-    "trackName": "上次是什麼時候",
+    "trackName": "上次是什麼時候 - 家事·保養紀錄",
     "firstRecordedAt": 1790284283691
   },
   {

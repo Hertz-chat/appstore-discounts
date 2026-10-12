@@ -210433,6 +210433,23 @@
     "history": [
       [
         {
+          "timestamp": 1791773850972,
+          "price": 649,
+          "formattedPrice": "₺649,00",
+          "inAppPurchases": {
+            "Opposing Fronts": "₺0,00",
+            "All Content": "₺0,00",
+            "Tales of Valor": "₺0,00",
+            "1 vs 1 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 2-5": "₺0,00",
+            "2 vs 2 Skirmish Maps": "₺0,00",
+            "4 vs 4 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 6-10": "₺0,00",
+            "3 vs 3 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 11-15": "₺0,00"
+          }
+        },
+        {
           "timestamp": 1791752970806,
           "price": 649,
           "formattedPrice": "₺649,00",
@@ -223666,6 +223683,17 @@
     "history": [
       [
         {
+          "timestamp": 1791773850972,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Hello World!": "₺49,99",
+            "Home Sweet Home": "₺49,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788734577170,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -228095,6 +228123,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791773850972,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "₺2.599,00",
+            "Separate Ways": "₺349,00",
+            "Extra DLC Pack": "₺769,00",
+            "Attaché Case: 'Gold'": "₺35,99",
+            "Weapon Upgrade Ticket x1 (A)": "₺105,00",
+            "Charm: 'Handgun Ammo'": "₺35,99",
+            "Weapon Upgrade Ticket x3 (A)": "₺254,99",
+            "Weapon Upgrade Ticket x5 (A)": "₺349,00",
+            "Charm: 'Green Herb'": "₺35,99",
+            "Attaché Case: 'Classic'": "₺35,99"
+          }
+        },
         {
           "timestamp": 1791752970806,
           "price": 0,
@@ -269474,11 +269519,21 @@
       "Bother Bin Pro": "₺199,99"
     },
     "minPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Bother Bin Pro": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791773850972,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Bother Bin Pro": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791649753895,
@@ -282105,6 +282160,16 @@
     "history": [
       [
         {
+          "timestamp": 1791773850972,
+          "price": 169.99,
+          "formattedPrice": "₺169,99",
+          "inAppPurchases": {
+            "Supporter Edition: Golden Gear": "₺79,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790552524601,
           "price": 119,
           "formattedPrice": "₺119,00",
@@ -291751,6 +291816,12 @@
     "minPriceInfo": {},
     "history": [
       [
+        {
+          "timestamp": 1791773850972,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1791752970806,
           "inAppPurchases": {}

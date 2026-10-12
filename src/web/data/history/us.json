@@ -26042,6 +26042,23 @@
     "history": [
       [
         {
+          "timestamp": 1791773850972,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Synth Lead": "$1.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Synth Plucks": "$1.99",
+            "Groove Machine Synth": "$0.00",
+            "Chill-Lo-Fi Mobile": "$1.99"
+          }
+        },
+        {
           "timestamp": 1791752970806,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -263579,6 +263596,17 @@
     "history": [
       [
         {
+          "timestamp": 1791773850972,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Home Sweet Home": "$0.99",
+            "Hello World!": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788750378321,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -332121,11 +332149,21 @@
       "Bother Bin Pro": "$3.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Bother Bin Pro": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791773850972,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Bother Bin Pro": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791649753895,
@@ -346387,6 +346425,16 @@
     "history": [
       [
         {
+          "timestamp": 1791773850972,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Supporter Edition: Golden Gear": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790567609577,
           "price": 4.89,
           "formattedPrice": "$4.89",
@@ -357365,6 +357413,12 @@
     "minPriceInfo": {},
     "history": [
       [
+        {
+          "timestamp": 1791773850972,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1791752970806,
           "inAppPurchases": {}

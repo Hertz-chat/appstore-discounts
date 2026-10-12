@@ -29821,6 +29821,25 @@
     "history": [
       [
         {
+          "timestamp": 1791837063531,
+          "price": 235,
+          "formattedPrice": "$235.00",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "$70.00",
+            "Realms Plus:10 Friends w/trial": "$240.00",
+            "Minecraft Store Item 6": "$200.00",
+            "Realms Monthly Subscription: You + 2 Friends": "$120.00",
+            "Minecraft Store Item 3": "$100.00",
+            "Realms Plus: You + 10 Friends": "$240.00",
+            "Minecraft Store Item 10": "$345.00",
+            "Minecraft Store Item 4": "$135.00",
+            "Minecraft Store Item 5": "$170.00",
+            "Marketplace Pass Trial": "$120.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791799508618,
           "price": 235,
           "formattedPrice": "$235.00",
@@ -32457,14 +32476,22 @@
     "trackName": "iZip專業版 - Zip RAR 壓縮、解壓縮工具",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 320,
-      "formattedPrice": "$320.00"
+      "price": 390,
+      "formattedPrice": "$390.00"
     },
     "minPriceInfo": {
       "price": 320,
       "formattedPrice": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791837063531,
+          "price": 390,
+          "formattedPrice": "$390.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761380057726,
@@ -299153,6 +299180,19 @@
     "history": [
       [
         {
+          "timestamp": 1791837063531,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "200,000 x Coins": "$320.00",
+            "80,000 x Coins": "$150.00",
+            "40,000 x Coins": "$90.00",
+            "10,000 x Coins": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789225426600,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -300102,11 +300142,11 @@
     "maxPriceInfo": {
       "price": 39,
       "formattedPrice": "$39.00",
-      "年订阅": "$220.00",
+      "年订阅": "$390.00",
       "月订阅": "$150.00",
       "终身会员": "$399.00",
-      "Liftetime": "$399.00",
-      "Lifetime": "$299.00"
+      "Liftetime": "$590.00",
+      "Lifetime": "$590.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -300118,6 +300158,19 @@
       "Lifetime": "$299.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791837063531,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Liftetime": "$590.00",
+            "年订阅": "$390.00",
+            "Lifetime": "$590.00",
+            "月订阅": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784844203152,
@@ -318609,6 +318662,29 @@
       [
         {
           "timestamp": 1791799508618,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6817843628": {
+    "trackId": 6817843628,
+    "trackName": "五行仙途‧香江修仙錄",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "minPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791837063531,
           "price": 320,
           "formattedPrice": "$320.00",
           "inAppPurchases": {}

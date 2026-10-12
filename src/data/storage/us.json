@@ -36710,14 +36710,22 @@
   "479665601": {
     "name": "iZip Pro -Zip Unzip Unrar Tool",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "$9.99"
+      "price": 12.99,
+      "formattedPrice": "$12.99"
     },
     "minPriceInfo": {
       "price": 9.99,
       "formattedPrice": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791837063531,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761380057726,
@@ -139175,6 +139183,25 @@
     "history": [
       [
         {
+          "timestamp": 1791837063531,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Pile of Gems": "$2.99",
+            "Casket of Gems": "$9.99",
+            "Pile of Coins": "$0.99",
+            "Bag of Coins": "$4.99",
+            "Bag of Gems": "$19.99",
+            "SF2SEPack3": "$2.99",
+            "SF2SEPack10": "$9.99",
+            "Chest of Coins": "$19.99",
+            "Chest of Gems": "$49.99",
+            "SF2SEPack20": "$19.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791737634883,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -217358,6 +217385,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791837063531,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Vaul of the Void Promo Pack": "$0.00",
+            "Siege of Shadows": "$4.99",
+            "Dawncaster Mega Bundle": "$12.99",
+            "Tribes of Twilight": "$4.99",
+            "Masks of Misery": "$4.99",
+            "Death of Divinity": "$4.99",
+            "Infernal Invasions": "$5.99",
+            "Nexus of Nightmares": "$5.99",
+            "Dawncaster Origins Bundle": "$4.99",
+            "Eclypse Supporter Pack": "$3.99"
+          }
+        },
         {
           "timestamp": 1791799508618,
           "price": 4.99,
@@ -353226,6 +353270,27 @@
       [
         {
           "timestamp": 1791799508618,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6817843628": {
+    "name": "五行仙途‧香江修仙錄",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791837063531,
           "price": 9.99,
           "formattedPrice": "$9.99",
           "inAppPurchases": {}

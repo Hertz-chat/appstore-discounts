@@ -2454,10 +2454,10 @@
   {
     "trackId": 479665601,
     "region": "pt",
-    "timestamp": 1761797674362,
+    "timestamp": 1791837063531,
     "discounts": [],
-    "price": 9.99,
-    "formattedPrice": "9,99 €",
+    "price": 14.99,
+    "formattedPrice": "14,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id479665601",
     "trackName": "iZip Pro-Zip Unzip Unrar",
@@ -19985,7 +19985,7 @@
   {
     "trackId": 6742044212,
     "region": "pt",
-    "timestamp": 1784844203152,
+    "timestamp": 1791837063531,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Gratuito",
@@ -23035,10 +23035,10 @@
   {
     "trackId": 6760948683,
     "region": "pt",
-    "timestamp": 1791484107175,
+    "timestamp": 1791837063531,
     "discounts": [],
-    "price": 1.99,
-    "formattedPrice": "1,99 €",
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6760948683",
     "trackName": "Digline: Mineração Relaxante",
@@ -24329,6 +24329,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id6814210373",
     "trackName": "Auday - All-Day Watch Recorder",
     "firstRecordedAt": 1791718980381
+  },
+  {
+    "trackId": 6817843628,
+    "region": "pt",
+    "timestamp": 1791837063531,
+    "discounts": [],
+    "price": 9.99,
+    "formattedPrice": "9,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6817843628",
+    "trackName": "五行仙途‧香江修仙錄",
+    "firstRecordedAt": 1791837063531
   },
   {
     "trackId": 6819276809,

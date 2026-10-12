@@ -17911,14 +17911,22 @@
     "trackName": "iZip Pro-Zip Unzip Unrar",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "9,99 €"
+      "price": 14.99,
+      "formattedPrice": "14,99 €"
     },
     "minPriceInfo": {
       "price": 9.99,
       "formattedPrice": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791837063531,
+          "price": 14.99,
+          "formattedPrice": "14,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -109349,7 +109357,7 @@
       "Liftetime": "22,99 €",
       "年订阅": "9,99 €",
       "月订阅": "6,99 €",
-      "Lifetime": "14,99 €"
+      "Lifetime": "19,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -109361,6 +109369,19 @@
       "Lifetime": "14,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791837063531,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Lifetime": "19,99 €",
+            "Liftetime": "22,99 €",
+            "年订阅": "9,99 €",
+            "月订阅": "6,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784844203152,
@@ -144713,6 +144734,14 @@
     "history": [
       [
         {
+          "timestamp": 1791837063531,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791484107175,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -149610,6 +149639,29 @@
       [
         {
           "timestamp": 1791799508618,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6817843628": {
+    "trackId": 6817843628,
+    "trackName": "五行仙途‧香江修仙錄",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791837063531,
           "price": 9.99,
           "formattedPrice": "9,99 €",
           "inAppPurchases": {}

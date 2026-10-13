@@ -63084,7 +63084,7 @@
   },
   "633600716": {
     "trackId": 633600716,
-    "trackName": "432 Player",
+    "trackName": "432 Player: Music in 432 Hz",
     "region": "tr",
     "maxPriceInfo": {
       "price": 299.99,
@@ -63095,8 +63095,8 @@
       "Monthly Membership": "₺229,99"
     },
     "minPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "432 Player Full Features": "₺349,99",
       "Lifetime Membership": "₺4.499,99",
       "Yearly Membership": "₺1.499,99",
@@ -63104,6 +63104,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791916572466,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime Membership": "₺4.499,99",
+            "Yearly Membership": "₺1.499,99",
+            "Monthly Membership": "₺229,99"
+          }
+        },
         {
           "timestamp": 1791884966954,
           "price": 299.99,
@@ -288912,7 +288922,7 @@
   },
   "6757943661": {
     "trackId": 6757943661,
-    "trackName": "阿福出境管家 - 签证通过率评估与材料清单",
+    "trackName": "Afu Visa Check & Checklist",
     "region": "tr",
     "maxPriceInfo": {
       "price": 149.99,
@@ -296697,6 +296707,29 @@
       [
         {
           "timestamp": 1791837063531,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6755046527": {
+    "trackId": 6755046527,
+    "trackName": "Dome Keeper",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "minPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791916572466,
           "price": 499.99,
           "formattedPrice": "₺499,99",
           "inAppPurchases": {}

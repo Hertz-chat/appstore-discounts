@@ -31332,7 +31332,7 @@
   },
   "633600716": {
     "trackId": 633600716,
-    "trackName": "432 Player",
+    "trackName": "432 Player: Music in 432 Hz",
     "region": "pt",
     "maxPriceInfo": {
       "price": 6.99,
@@ -31343,8 +31343,8 @@
       "Monthly Membership": "4,99 €"
     },
     "minPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "6,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "432 Player Full Features": "8,99 €",
       "Lifetime Membership": "99,99 €",
       "Yearly Membership": "34,99 €",
@@ -31352,6 +31352,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791916572466,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Lifetime Membership": "99,99 €",
+            "Yearly Membership": "34,99 €",
+            "Monthly Membership": "4,99 €"
+          }
+        },
         {
           "timestamp": 1791884966954,
           "price": 6.99,
@@ -142435,7 +142445,7 @@
   },
   "6757943661": {
     "trackId": 6757943661,
-    "trackName": "阿福出境管家 - 签证通过率评估与材料清单",
+    "trackName": "阿福出境管家-签证通过率评估与材料清单",
     "region": "pt",
     "maxPriceInfo": {
       "price": 2.99,
@@ -142854,6 +142864,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1791916572466,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "WRC Vodafone Rally de Portugal 2026": "3,89 €",
+            "WRC Central European Rally": "4,69 €",
+            "ADAC 3 Städte Rallye 2026": "3,99 €",
+            "Saaremaa Ralli 2026": "3,89 €",
+            "ERC Rally Portugal 2026": "3,89 €",
+            "WRC Rally Italia 2026": "3,89 €",
+            "SM Porvoon Autopalvelu Ralli 2026": "3,89 €",
+            "D1 East Belgian Rally 2026": "3,89 €",
+            "Türi rahvaralli 2026": "2,89 €",
+            "WRC Rally Chile Bio Bio 2026": "3,89 €"
+          }
+        },
         {
           "timestamp": 1791884966954,
           "price": 0,
@@ -149661,10 +149688,18 @@
       "formattedPrice": "2,99 €"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791916572466,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,
@@ -149806,6 +149841,29 @@
       [
         {
           "timestamp": 1791837063531,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6755046527": {
+    "trackId": 6755046527,
+    "trackName": "Dome Keeper",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791916572466,
           "price": 9.99,
           "formattedPrice": "9,99 €",
           "inAppPurchases": {}

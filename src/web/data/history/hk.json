@@ -15667,6 +15667,18 @@
     "history": [
       [
         {
+          "timestamp": 1791916572466,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Dakota Map Pack": "HK$ 8.00",
+            "Alaska Map Pack": "HK$ 8.00",
+            "Unlock Everything": "HK$ 68.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790790015131,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -58940,7 +58952,7 @@
   },
   "633600716": {
     "trackId": 633600716,
-    "trackName": "432 Player",
+    "trackName": "432 Player: Music in 432 Hz",
     "region": "hk",
     "maxPriceInfo": {
       "price": 48,
@@ -58951,14 +58963,26 @@
       "Monthly Membership": "HK$ 32.00"
     },
     "minPriceInfo": {
-      "price": 48,
-      "formattedPrice": "HK$ 48.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "432 Player Full Features": "HK$ 58.00",
       "Lifetime Membership": "HK$ 688.00",
       "Yearly Membership": "HK$ 228.00",
       "Monthly Membership": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791916572466,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Lifetime Membership": "HK$ 688.00",
+            "Yearly Membership": "HK$ 228.00",
+            "Monthly Membership": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791884966954,
@@ -225690,6 +225714,21 @@
     "history": [
       [
         {
+          "timestamp": 1791916572466,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "一把寶石": "HK$ 8.00",
+            "一屋子寶石": "HK$ 788.00",
+            "一礦車寶石": "HK$ 388.00",
+            "一大箱寶石": "HK$ 148.00",
+            "一小箱寶石": "HK$ 88.00",
+            "一小袋寶石": "HK$ 38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791237018351,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -263756,6 +263795,25 @@
     "history": [
       [
         {
+          "timestamp": 1791916572466,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 38.00",
+            "The Aircraft Bundle": "HK$ 188.00",
+            "Global scenery - 12 months": "HK$ 148.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "Airbus A380": "HK$ 18.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "Boeing 737 MAX 9": "HK$ 18.00",
+            "Boeing 747-400": "HK$ 18.00",
+            "Concorde": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791799508618,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -283910,6 +283968,14 @@
     "history": [
       [
         {
+          "timestamp": 1791916572466,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790711274462,
           "price": 16,
           "formattedPrice": "HK$ 16.00",
@@ -290689,6 +290755,17 @@
       "Hunter's Pack": "HK$ 12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791916572466,
+          "price": 78,
+          "formattedPrice": "HK$ 78.00",
+          "inAppPurchases": {
+            "Steyr Arms Pack": "HK$ 22.00",
+            "Hunter's Pack": "HK$ 15.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790790015131,
@@ -298887,7 +298964,7 @@
   },
   "6757943661": {
     "trackId": 6757943661,
-    "trackName": "阿福出境管家 - 签证通过率评估与材料清单",
+    "trackName": "阿福出境管家-簽證通過率評估與材料清單",
     "region": "hk",
     "maxPriceInfo": {
       "price": 22,
@@ -306824,6 +306901,29 @@
       [
         {
           "timestamp": 1791837063531,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6755046527": {
+    "trackId": 6755046527,
+    "trackName": "Dome Keeper 穹頂守護者",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
+    },
+    "minPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791916572466,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
           "inAppPurchases": {}

@@ -475,6 +475,25 @@
     "history": [
       [
         {
+          "timestamp": 1791857869864,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Adult Swim Customization Pack": "$30.00",
+            "Grimm Skin Pack": "$30.00",
+            "Zombie Skin Pack": "$30.00",
+            "Monster Pack": "$30.00",
+            "Dance Pack Three": "$30.00",
+            "Mondo Pack": "$30.00",
+            "Superbowl Skin Pack": "$30.00",
+            "Candy Land Pack": "$30.00",
+            "Underwater World Pack": "$30.00",
+            "Mafia Pack": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791752970806,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -14820,13 +14839,31 @@
     "region": "tw",
     "maxPriceInfo": {
       "price": 190,
-      "formattedPrice": "$190.00"
+      "formattedPrice": "$190.00",
+      "環月軌道": "$490.00",
+      "地球靜止軌道": "$150.00",
+      "近地軌道": "$60.00"
     },
     "minPriceInfo": {
       "price": 120,
-      "formattedPrice": "$120.00"
+      "formattedPrice": "$120.00",
+      "環月軌道": "$490.00",
+      "地球靜止軌道": "$150.00",
+      "近地軌道": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791857869864,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "環月軌道": "$490.00",
+            "地球靜止軌道": "$150.00",
+            "近地軌道": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1780433363654,
@@ -270764,6 +270801,25 @@
     "history": [
       [
         {
+          "timestamp": 1791857869864,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Global scenery - 12 months": "$690.00",
+            "Boeing 777-300ER": "$60.00",
+            "Boeing 787-10": "$60.00",
+            "Airbus A350-1000": "$120.00",
+            "UH-60": "$30.00",
+            "Airbus A380": "$60.00",
+            "The Aircraft Bundle": "$790.00",
+            "Airbus A321": "$60.00",
+            "Global scenery - 3 months": "$290.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791718980381,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -308940,7 +308996,7 @@
   },
   "6751122124": {
     "trackId": 6751122124,
-    "trackName": "Notteka | AI工作台",
+    "trackName": "Notteka | 香港AI Bot",
     "region": "tw",
     "maxPriceInfo": {
       "price": 30,
@@ -313587,6 +313643,14 @@
       "20 fuel to storage": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791857869864,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791484107175,

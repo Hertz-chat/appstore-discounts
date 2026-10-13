@@ -207051,7 +207051,7 @@
   },
   "6751122124": {
     "trackId": 6751122124,
-    "trackName": "Notteka | AI工作台",
+    "trackName": "Notteka | 香港AI Bot",
     "region": "mo",
     "maxPriceInfo": {
       "price": 0.99,
@@ -211221,6 +211221,14 @@
       "20 fuel to storage": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791857869864,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791484107175,

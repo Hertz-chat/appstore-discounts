@@ -15145,13 +15145,31 @@
     "name": "Living Earth - Clock & Weather",
     "maxPriceInfo": {
       "price": 48,
-      "formattedPrice": "HK$ 48.00"
+      "formattedPrice": "HK$ 48.00",
+      "環月軌道": "HK$ 118.00",
+      "地球靜止軌道": "HK$ 38.00",
+      "近地軌道": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 32,
-      "formattedPrice": "HK$ 32.00"
+      "formattedPrice": "HK$ 32.00",
+      "環月軌道": "HK$ 118.00",
+      "地球靜止軌道": "HK$ 38.00",
+      "近地軌道": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791884966954,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "環月軌道": "HK$ 118.00",
+            "地球靜止軌道": "HK$ 38.00",
+            "近地軌道": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1780433363654,
@@ -58193,14 +58211,32 @@
     "maxPriceInfo": {
       "price": 48,
       "formattedPrice": "HK$ 48.00",
-      "432 Player Full Features": "HK$ 58.00"
+      "432 Player Full Features": "HK$ 58.00",
+      "Lifetime Membership": "HK$ 688.00",
+      "Yearly Membership": "HK$ 228.00",
+      "Monthly Membership": "HK$ 32.00"
     },
     "minPriceInfo": {
       "price": 48,
       "formattedPrice": "HK$ 48.00",
-      "432 Player Full Features": "HK$ 58.00"
+      "432 Player Full Features": "HK$ 58.00",
+      "Lifetime Membership": "HK$ 688.00",
+      "Yearly Membership": "HK$ 228.00",
+      "Monthly Membership": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791884966954,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "Lifetime Membership": "HK$ 688.00",
+            "Yearly Membership": "HK$ 228.00",
+            "Monthly Membership": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789207811514,
@@ -300378,10 +300414,18 @@
       "formattedPrice": "HK$ 38.00"
     },
     "minPriceInfo": {
-      "price": 18,
-      "formattedPrice": "HK$ 18.00"
+      "price": 12,
+      "formattedPrice": "HK$ 12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791884966954,
+          "price": 12,
+          "formattedPrice": "HK$ 12.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790711274462,

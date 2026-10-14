@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2026-10-13T20:15:05.653Z</updated>
+    <updated>2026-10-14T09:47:11.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-13T20:15:05.653Z</updated>
+        <updated>2026-10-14T09:47:11.960Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusTue, 13 Oct 2026 20:15:05 GMT</id>
+        <id>rankingusWed, 14 Oct 2026 09:47:11 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-13T20:15:05.653Z</updated>
+        <updated>2026-10-14T09:47:11.960Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -51,13 +51,13 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>2335</b>
+        <b>2336</b>
       </td>
       <td>
         <b>204</b>
       </td>
       <td>
-        <b>2131</b>
+        <b>2132</b>
       </td>
       <td>
         <b>107</b>
@@ -68,13 +68,13 @@ feedId:157008699750812672+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>2168</b>
+        <b>2169</b>
       </td>
       <td>
         <b>178</b>
       </td>
       <td>
-        <b>1990</b>
+        <b>1991</b>
       </td>
       <td>
         <b>89</b>
@@ -1280,6 +1280,23 @@ feedId:157008699750812672+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>67</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/6757943661?lang=en">AFU Visa Prep: Travel Planner</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -2093,6 +2110,56 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AFU Visa Prep: Travel Planner]]></title>
+        <id>AFU Visa Prep: Travel Planner-us-1791965170280</id>
+        <link href="https://appstore-discounts.eyelly.me/us/6757943661?lang=en"/>
+        <updated>2026-10-14T08:06:10.280Z</updated>
+        <summary type="html"><![CDATA[Price: $2.99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/6757943661?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/22/75/3d22751b-a578-97f3-7b6d-c8f329f07bb4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$2.99</span> → <b>
+  <strong>Free</strong>
+</b><span>[Free ~ $2.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    基础月会员：<b>$0.99</b>
+  </li><li>
+    黄金会员月度：<b>$1.99</b>
+  </li><li>
+    黄金会员买断：<b>$39.99</b>
+  </li><li>
+    解锁报告：<b>$2.99</b>
+  </li><li>
+    Gold 6-Month：<b>$14.99</b>
+  </li><li>
+    黄金会员月：<b>$1.99</b>
+  </li><li>
+    普通会员买断：<b>$22.99</b>
+  </li><li>
+    黄金年会员：<b>$29.99</b>
+  </li><li>
+    黄金月会员：<b>$3.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  AFU Visa Prep helps Chinese passport holders get ready for a trip abroad, from the visa application to arrival.
+
+• Visa readiness check: answer a few questions and see how prepared you are for 38 destinations, including the US, Schengen, the UK, Japan and Korea.
+• Document checklist: a tailored list of what to prepare, with notes on common reasons for refusal.
+• DS-160 helper: guidance and translation help for the US application form.
+• Trip planner: build an itinerary and keep key info in one place.
+• Arrival guide: entry tips, insurance reminders and local transport basics.
+
+Results are guidance only and do not guarantee a visa decision; always confirm requirements with the official embassy or consulate.
+
+Please note: the app interface is in Simplified Chinese.
+
+Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ · Privacy Policy: https://usvisatest.com/privacy
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/0f/cf/ab0fcf55-8a65-872d-8f4e-657c36f06cbe/iphone67_01_report.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/60/8c/d6608c9f-e091-d7fe-0f28-125b8fd65b8e/iphone67_02_eligibility.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/9b/74/2b9b749c-7fc7-7c36-37ac-49b880f91e22/iphone67_03_folder.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/67/54/ca675497-6e56-2abd-6dd6-a0bf2adc608e/iphone67_04_checklist.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/e1/a3/6ee1a33d-0365-e15d-e202-cd495d8baed4/iphone67_05_agency.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/dc/9e/f1dc9e1c-6825-3524-0487-fd0ca92ba416/ipadPro129_01_report.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/7d/af/e47dafd8-9d66-c860-722e-c3b22cab8b12/ipadPro129_02_eligibility.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/ae/24/61ae2428-74c2-1840-353a-7ecde1bedf4f/ipadPro129_03_folder.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/70/9b/74709be6-48bc-2cb6-0636-c9c71b014940/ipadPro129_04_checklist.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/79/12/747912e1-6e32-acbd-d83f-9724e11f5cca/ipadPro129_05_agency.png/360x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Enchanted Survival: Magic RPG]]></title>

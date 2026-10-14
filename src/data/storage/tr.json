@@ -37280,6 +37280,23 @@
     "history": [
       [
         {
+          "timestamp": 1792004450196,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {
+            "Holidays Turkey": "₺49,99",
+            "Religious holidays": "₺49,99",
+            "Moon Phases calendar": "₺49,99",
+            "Calendars - Super Lig Football Men Turkey 2014-2015 edition": "₺49,99",
+            "+800 Emoji Stickers": "₺49,99",
+            "Holidays Ukraine": "₺49,99",
+            "SMI Company Calendars": "₺149,99",
+            "Week Numbers": "₺49,99",
+            "Calendars - PL Football Men Senegal 2015-2016 edition": "₺49,99",
+            "Calendars - Primera Divisio Football Men Andorra 2015-2016 edition": "₺49,99"
+          }
+        },
+        {
           "timestamp": 1791986862260,
           "price": 499.99,
           "formattedPrice": "₺499,99",
@@ -82732,6 +82749,23 @@
     "history": [
       [
         {
+          "timestamp": 1792004450196,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Unlock Rollman Coin": "₺99,99",
+            "Unlock Rollf Coin": "₺99,99",
+            "Unlock Rolly Coin": "₺49,99",
+            "Ultra Punch 30": "₺249,99",
+            "Ultra Punch 5": "₺49,99",
+            "Magnetic Stars 60": "₺249,99",
+            "Ultra Punch Unlimited": "₺999,99",
+            "Ultra Punch 10": "₺99,99",
+            "Magnetic Stars Unlimited": "₺799,99",
+            "Magnetic Stars 20": "₺99,99"
+          }
+        },
+        {
           "timestamp": 1791986862260,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -86913,6 +86947,14 @@
       "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792004450196,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1775990965343,
@@ -98547,6 +98589,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792004450196,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #4": "₺2.299,99",
+            "Parallels Desktop for Mac": "₺2.299,99",
+            "Parallels Desktop for Mac #2": "₺2.299,99",
+            "Parallels Desktop for Mac #5": "₺2.299,99",
+            "Parallels Desktop for Mac #3": "₺2.299,99",
+            "Subscription (1 year)": "₺2.299,99"
+          }
+        },
         {
           "timestamp": 1791986862260,
           "price": 0,
@@ -128459,6 +128514,27 @@
       [
         {
           "timestamp": 1745328692670,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1264568098": {
+    "name": "Spelling Shed",
+    "maxPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "minPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792004450196,
           "price": 149.99,
           "formattedPrice": "₺149,99",
           "inAppPurchases": {}
@@ -285213,7 +285289,8 @@
       "基础月会员": "₺49,99",
       "黄金会员": "₺199,99",
       "普通": "₺149,99",
-      "Gold 6-Month": "₺799,99"
+      "Gold 6-Month": "₺799,99",
+      "完整版": "₺149,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -285227,10 +285304,27 @@
       "基础月会员": "₺49,99",
       "黄金会员": "₺199,99",
       "普通": "₺149,99",
-      "Gold 6-Month": "₺799,99"
+      "Gold 6-Month": "₺799,99",
+      "完整版": "₺149,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1792004450196,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "完整版": "₺149,99",
+            "Gold 6-Month": "₺799,99",
+            "黄金会员月度": "₺99,99",
+            "黄金会员月": "₺99,99",
+            "普通会员买断": "₺1.199,99",
+            "黄金会员买断": "₺1.999,99",
+            "黄金年会员": "₺1.499,99",
+            "黄金月会员": "₺199,99",
+            "基础月会员": "₺49,99"
+          }
+        },
         {
           "timestamp": 1791965170280,
           "price": 0,
@@ -292713,6 +292807,27 @@
             "Buy bread for programmers": "₺39,99",
             "Buy a coffee for designer": "₺99,99"
           }
+        }
+      ]
+    ]
+  },
+  "6739130049": {
+    "name": "Planet of Lana",
+    "maxPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "minPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792004450196,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
         }
       ]
     ]

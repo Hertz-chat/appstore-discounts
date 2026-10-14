@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2026-10-14T15:43:03.861Z</updated>
+    <updated>2026-10-14T20:37:07.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-14T15:43:03.863Z</updated>
+        <updated>2026-10-14T20:37:07.178Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnWed, 14 Oct 2026 15:43:03 GMT</id>
+        <id>rankingcnWed, 14 Oct 2026 20:37:07 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-14T15:43:03.863Z</updated>
+        <updated>2026-10-14T20:37:07.179Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -51,13 +51,13 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>2336</b>
+        <b>2338</b>
       </td>
       <td>
         <b>204</b>
       </td>
       <td>
-        <b>2132</b>
+        <b>2134</b>
       </td>
       <td>
         <b>107</b>
@@ -228,7 +228,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1160943124?lang=zh-CN">听写文本：语音识别</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/968820626?lang=zh-CN">Watch Tuner Lite</a>
       </td>
       <td>
         <ul>
@@ -245,7 +245,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1225490847?lang=zh-CN">电子相册大师(专业版)</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1160943124?lang=zh-CN">听写文本：语音识别</a>
       </td>
       <td>
         <ul>
@@ -262,7 +262,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1309638846?lang=zh-CN">Goodak 复古胶片相机 - 拍立得旅行摄影，拍照水印滤镜</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1225490847?lang=zh-CN">电子相册大师(专业版)</a>
       </td>
       <td>
         <ul>
@@ -279,7 +279,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1344655035?lang=zh-CN">蜡烛人</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1309638846?lang=zh-CN">Goodak 复古胶片相机 - 拍立得旅行摄影，拍照水印滤镜</a>
       </td>
       <td>
         <ul>
@@ -296,7 +296,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1437479513?lang=zh-CN">逃脱者：困境突围</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1344655035?lang=zh-CN">蜡烛人</a>
       </td>
       <td>
         <ul>
@@ -313,7 +313,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1481100296?lang=zh-CN">BreatheIn：放松呼吸</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1437479513?lang=zh-CN">逃脱者：困境突围</a>
       </td>
       <td>
         <ul>
@@ -330,7 +330,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1492049794?lang=zh-CN">宗师-武林风云传</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1481100296?lang=zh-CN">BreatheIn：放松呼吸</a>
       </td>
       <td>
         <ul>
@@ -347,7 +347,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1500126852?lang=zh-CN">Chord</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1492049794?lang=zh-CN">宗师-武林风云传</a>
       </td>
       <td>
         <ul>
@@ -364,7 +364,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>16</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1523446532?lang=zh-CN">重生细胞</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1500126852?lang=zh-CN">Chord</a>
       </td>
       <td>
         <ul>
@@ -381,7 +381,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>17</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1524418421?lang=zh-CN">SessionBand Jazz Fusion</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1523446532?lang=zh-CN">重生细胞</a>
       </td>
       <td>
         <ul>
@@ -398,7 +398,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>18</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1534488108?lang=zh-CN">SessionBand Jazz 4</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1524418421?lang=zh-CN">SessionBand Jazz Fusion</a>
       </td>
       <td>
         <ul>
@@ -415,7 +415,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>19</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1544190466?lang=zh-CN">避难所：生存</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1534488108?lang=zh-CN">SessionBand Jazz 4</a>
       </td>
       <td>
         <ul>
@@ -432,7 +432,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>20</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1551596643?lang=zh-CN">模拟地铁</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1544190466?lang=zh-CN">避难所：生存</a>
       </td>
       <td>
         <ul>
@@ -449,7 +449,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>21</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1561849298?lang=zh-CN">SessionBand Soul Jazz Funk 3</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1551596643?lang=zh-CN">模拟地铁</a>
       </td>
       <td>
         <ul>
@@ -466,7 +466,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>22</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1626320298?lang=zh-CN">极速变色龙</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1561849298?lang=zh-CN">SessionBand Soul Jazz Funk 3</a>
       </td>
       <td>
         <ul>
@@ -483,7 +483,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>23</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1665759338?lang=zh-CN">坐在罐子里的人</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1626320298?lang=zh-CN">极速变色龙</a>
       </td>
       <td>
         <ul>
@@ -500,7 +500,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>24</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6811795155?lang=zh-CN">Keeps</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1665759338?lang=zh-CN">坐在罐子里的人</a>
       </td>
       <td>
         <ul>
@@ -517,7 +517,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>25</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6752662508?lang=zh-CN">时光轨迹-足迹·每日轨迹·记录一生轨迹·GPS</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/6811795155?lang=zh-CN">Keeps</a>
       </td>
       <td>
         <ul>
@@ -532,6 +532,23 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>
         <b>26</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/cn/6752662508?lang=zh-CN">时光轨迹-足迹·每日轨迹·记录一生轨迹·GPS</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>27</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6760764479?lang=zh-CN">Alpin Quest PRO – Outdoor GPS</a>
@@ -554,7 +571,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6802565793?lang=zh-CN">我不想当班主任-班主任工作台&教师工作台&班级管理</a>
@@ -571,7 +588,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6760446039?lang=zh-CN">般若心灯</a>
@@ -588,7 +605,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6755290585?lang=zh-CN">Raiders Map</a>
@@ -611,7 +628,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6748287593?lang=zh-CN">问题盒子-清空大脑，告别内耗</a>
@@ -628,7 +645,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6760777178?lang=zh-CN">Film Light</a>
@@ -645,7 +662,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6757943661?lang=zh-CN">阿福出境管家-签证通过率评估与材料清单</a>
@@ -1241,6 +1258,34 @@ feedId:157007849019630592+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Watch Tuner Lite]]></title>
+        <id>Watch Tuner Lite-cn-1792004450196</id>
+        <link href="https://appstore-discounts.eyelly.me/cn/968820626?lang=zh-CN"/>
+        <updated>2026-10-14T19:00:50.196Z</updated>
+        <summary type="html"><![CDATA[价格: ¥15.00 → ¥8.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/968820626?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/55/27/7655271f-8938-6bda-66f9-bc118c69086d/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥15.00</span> → <b>
+  <strong>¥8.00</strong>
+</b><span>[¥8.00 ~ ¥15.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>¥8.00</b>
+</p><h2>应用描述</h2><p>
+  Watch Tuner Lite measures the accuracy of mechanical and automatic watches. It uses the built-in microphone or headset microphone to record the audible tick of the watch and calculates the seconds-per-day deviation. Works with almost any 'ticking' watch/clock.
+
+Use in a quiet environment. Any ambient noise can affect the accuracy of the results. Complete silence is best.
+
+Recommended way to record the ticks is to touch the crown of the watch with the headset microphone. You will get the best results using original Apple EarPods.
+
+This is a simple version of Watch Tuner application. Not everyone needs detailed information about a watch movement, sometimes only accuracy is important. Watch Tuner Lite uses very similar algorithm like Watch Tuner does but displays only seconds-per-day deviation.
+
+If you want to know how much your watch is fast or slow, this application is for you.
+If you prefer to measure also beat error and amplitude, try Watch Tuner - a bigger brother of this app.
+If you need frequency diagram look at Watch Tuner Timegrapher - the most sophisticated app of Watch Tuner series.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/36/10/f2361086-ca63-b1ac-9499-f9127601b895/wt_lite.jpeg/320x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Notteka - 香港AI Bot]]></title>
         <id>Notteka - 香港AI Bot-cn-1791986862260</id>
         <link href="https://appstore-discounts.eyelly.me/cn/6751122124?lang=zh-CN"/>
@@ -1686,134 +1731,5 @@ iPhone 15 Pro 及后续支持 Apple Log 的机型可获得完整体验。在不�
 人生没有白走的路，每一次记录，都是进步的开始。
 ”问题盒子“ 陪你把焦虑化作基石，让每一步前进都有迹可循。
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/32/5d/f2325d99-b4ec-9b71-e731-fc7c7c53ac16/CN_-_1-home.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/68/15/f6681536-1dcf-ae9e-e240-b4c738d12803/CN_-_2-prog.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/3c/eb/e23ceb41-e2a0-da1c-6f84-467a445603cb/CN_-_3-new.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/77/bc/c477bcf7-b58b-6a6c-adcd-6d57e07da57a/CN_-_4-done.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/16/f0/7116f0cf-e51d-64e0-726c-9b86ed54657b/CN_-_5-fuel.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/e2/58/1ce25832-4d92-e475-e917-e8920f0257b0/CN_-_6-lock.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/03/c5/cd03c57f-0933-a0e1-9686-3cebfef0808d/CN_-_7-dark.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/18/70/2918707c-50c1-a651-b63c-973fd945bda4/iPad_15.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/17/f9/d317f9f6-4adc-5b20-c199-728c1f4988e8/iPad_16.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/c7/47/86c74706-cfb1-ba75-dee3-a0c510277442/iPad_17.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/36/56/c5365601-2c20-8d07-9991-5dc3ffb9d3f6/iPad_18.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/78/76/1a7876c0-56f7-911f-4446-fba9db445821/iPad_19.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/3e/7d/ad3e7dbe-c18b-f2f2-0b5c-87ea6f44f63c/iPad_20.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/3b/31/623b3164-8840-cc5f-ff3e-c032be6e4a34/iPad_21.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notteka - AI 工作台]]></title>
-        <id>Notteka - AI 工作台-cn-1791737634883</id>
-        <link href="https://appstore-discounts.eyelly.me/cn/6751122124?lang=zh-CN"/>
-        <updated>2026-10-11T16:53:54.883Z</updated>
-        <summary type="html"><![CDATA[价格: ¥3.00 → ¥1.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/6751122124?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/9b/e6/e99be6df-8a26-83a6-5db2-cea918f93727/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥3.00</span> → <b>
-  <strong>¥1.00</strong>
-</b><span>[免费 ~ ¥8.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>¥1.00</b>
-</p><h3>App内购买</h3><ul>
-  <li>
-    Pro：<b>¥148.00</b>
-  </li><li>
-    Lite：<b>¥38.00</b>
-  </li><li>
-    Pro Max：<b>¥698.00</b>
-  </li><li>
-    Pro Ultra：<b>¥1,298.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  交回来的，是能直接用的成品。
-
-不是一段建议，而是一份打开就能看的幻灯片、表格、图表、文档、设计稿或网站。你说出要做的事，剩下的交给它跑完。
-
-【它能帮你做什么】
-文档与办公
-・文档处理——合同、报告、规格书丢进来，拆成能逐条对照的表
-・幻灯片——把结论排成能直接上会的页面，.pptx 下载即用
-・电子表格——生成与整理 .xlsx，公式和格式都在
-
-分析与研究
-・数据分析及可视化——多份口径不一的表格对齐、清洗、出图
-・深度研究——多轮检索交叉核对，每个关键数字都带得回原始出处
-・调研（Wide Research）——多个对象、多个维度并排看
-
-视觉与设计
-・生成图片——人物、场景、插画、头像，支持参考图与多轮修改
-・流程图／架构图——谁连着谁、什么顺序，交回一张打开就能看的图
-・设计——海报、封面、宣传图，交回可直接用的成品图
-
-开发与应用
-・网站——双击就打开的页面，手机上也能看
-・应用——单个 .html 文件，数据存在本机、可导出备份
-・游戏——能玩得起来的一局，键盘与触屏都能操作
-
-教育与学习
-・题目讲解——考的是什么、易错在哪一步，再附一道同类题
-
-【会议转写与纪要】
-・普通话、粤语、英语：录音或上传音频，实时转写与翻译
-・自动整理成决议、行动项与待确认问题
-・单次录音最长 5 小时，音频文件上传最大 200MB
-
-
-【怎么计费】
-・免费开始，即开即用
-・订阅后每月获得一笔积分，任务按实际算力从里面扣
-・积分每月重置，不累积
-・会议转录的额度与任务积分分开计算，互不影响
-
-同一个账号在 www.notteka.com 网页版同步，手机上发起、电脑上接着看。
-
-——
-订阅说明
-・Notteka 订阅为自动续期订阅，中国区 ¥88／月；其他地区价格在 App 内购买页显示，确认购买前会再次告知
-・付款在确认购买时记入 Apple ID 账户
-・订阅在当期结束前 24 小时内自动续期，除非在此之前关闭自动续期
-・续期按当期同一价格收取
-・可随时在「设置 › Apple ID › 订阅」中管理或取消；取消于当期结束时生效
-使用条款：https://www.notteka.com/zh/terms
-隐私政策：https://www.notteka.com/zh/privacy
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/a2/d7/50a2d73c-bb1f-5a0a-ba81-ba3278893bdf/01-goal-delivery.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/c9/f3/74c9f34d-eddd-d0f7-056c-b073ae375660/06-three-languages.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/e1/5d/e0e15d09-cde9-bb18-fdb5-91b67dfeda1c/03-finished-files.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/12/d6/4a12d67e-bcb4-5d5d-90b4-b57ffcf3f888/04-ipo-research.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/97/15/4c971597-5508-fa03-1af2-706670602ddb/02-local-information.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/c7/77/45c77799-5fc3-7db5-a6b1-4b70ea920311/05-privacy-first.png/320x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raiders Map]]></title>
-        <id>Raiders Map-cn-1791737634883</id>
-        <link href="https://appstore-discounts.eyelly.me/cn/6755290585?lang=zh-CN"/>
-        <updated>2026-10-11T16:53:54.883Z</updated>
-        <summary type="html"><![CDATA[Raider Mk. 1: ¥22.00 → ¥8.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/6755290585?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/fb/45/eefb4515-58d3-22fa-fe56-83a1f9d8d593/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App内购买</h3><ul>
-  <li>
-    <strong>Raider Mk. 1：</strong><span>¥22.00</span> → <b>
-  <strong>¥8.00</strong>
-</b><span>[¥8.00 ~ ¥38.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>免费</b>
-</p><h3>App内购买</h3><ul>
-  <li>
-    Raider Mk. 2：<b>¥28.00</b>
-  </li><li>
-    Raider Mk. 3：<b>¥48.00</b>
-  </li><li>
-    Raider Mk. 1：<b>¥8.00</b>
-  </li><li>
-    Raider Weekly：<b>¥8.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  Raiders Map is the all-in-one companion for Arc Raiders: interactive maps, loot locations, event timers, material and recycling breakdowns, enemy drop lists, and full quest-line guides.
-
-INTERACTIVE MAPS
-Every extraction point, boss lair, loot cache and quest marker on fully zoomable maps — now with high-detail tiled maps and buttery-smooth rendering, even with 1,000+ markers on screen. Filter by category, search any marker, and jump straight to it.
-
-LIVE EVENT TRACKING
-See every active and upcoming map event at a glance with real-time countdowns. Turn on notifications and get alerted the moment a hot zone goes live.
-
-LOADOUT TOOLS
-Compare weapon stats side by side across tiers and levels, check what's safe to recycle before you scrap it, and plan your skill tree build before you drop.
-
-GUIDES & TRIALS
-Quest walkthroughs, XP guides and trial objectives — everything you need to progress faster.
-
-ENEMY DATABASE
-Every enemy with its full loot drop table, so you always know what's worth the fight.
-
-Raiders Map is the best tool for easy access to everything, along with world class support. You can reach me directly on X for help or to report any issues: All4nDev, or through Discord.
-
-Not affiliated with Embark. Raiders Map is independently owned and managed.
-
-Apple standard EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/e1/b9/c8e1b9ea-18d3-c1ae-30a6-492bf2bc6e55/02_home.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/67/a0/4767a0d6-68e5-25a1-1d74-2d2490bc531c/01_map.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/5d/ff/505dff29-b74f-3031-1119-fea04c25ba32/03_search.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/2c/61/c42c6107-1bde-86bf-b95d-6df6b0159b16/07_guides.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/02/a0/c602a0e8-2c86-b0ab-ae82-6bea2b87bed9/06_skilltree.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/c4/25/9cc42566-c3ad-4d6a-faa2-c85d8551756f/04_weapons.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/af/b2/09afb22f-01f4-f09a-5e61-cc6558c7885e/05_materials.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/cf/c6/77cfc686-f909-5b7f-79fb-37a44e94b6bb/IMG_0416.PNG/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/41/0b/8c410b8b-6502-c9fd-02ba-2772083a1314/IMG_0418.PNG/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/8a/d0/bf8ad090-f8b6-943d-b797-fca71251d3f6/IMG_0417.PNG/360x480bb.jpg" />]]></content>
     </entry>
 </feed>

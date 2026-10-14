@@ -29428,6 +29428,25 @@
     "history": [
       [
         {
+          "timestamp": 1792004450196,
+          "price": 235,
+          "formattedPrice": "$235.00",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "$70.00",
+            "Realms Plus:10 Friends w/trial": "$240.00",
+            "Minecraft Store Item 6": "$200.00",
+            "Realms Monthly Subscription: You + 2 Friends": "$120.00",
+            "Minecraft Store Item 3": "$100.00",
+            "Realms Plus: You + 10 Friends": "$240.00",
+            "Minecraft Store Item 10": "$345.00",
+            "Minecraft Store Item 4": "$135.00",
+            "Minecraft Store Item 5": "$170.00",
+            "Marketplace Pass Trial": "$120.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791965170280,
           "price": 235,
           "formattedPrice": "$235.00",
@@ -74663,6 +74682,25 @@
     "history": [
       [
         {
+          "timestamp": 1792004450196,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "第01~12課教學影片合購": "$290.00",
+            "第01課教學影片": "$30.00",
+            "第03課教學影片": "$30.00",
+            "第12課教學影片": "$30.00",
+            "第08課教學影片": "$30.00",
+            "第07課教學影片": "$30.00",
+            "第09課教學影片": "$30.00",
+            "第11課教學影片": "$30.00",
+            "第02課教學影片": "$30.00",
+            "第06課教學影片": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791986862260,
           "price": 190,
           "formattedPrice": "$190.00",
@@ -84167,6 +84205,14 @@
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792004450196,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1775990965343,
@@ -127372,6 +127418,27 @@
       ]
     ]
   },
+  "1264568098": {
+    "name": "Spelling Shed",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792004450196,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1264608487": {
     "name": "Driving Zone: Germany Pro",
     "maxPriceInfo": {
@@ -132830,6 +132897,25 @@
     "history": [
       [
         {
+          "timestamp": 1792004450196,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Design Frame Package": "$30.00",
+            "Social Frame Package": "$30.00",
+            "Magazine Frame Package": "$30.00",
+            "Black Frame Pack": "$30.00",
+            "Geometric Frame Pack": "$30.00",
+            "Stamp Frame Pack": "$30.00",
+            "Retro Frame Pack": "$30.00",
+            "Stroke Frame Pack": "$30.00",
+            "Color Frame Pack": "$30.00",
+            "Upgrade Deluxe Edition": "$190.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791568819448,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -137475,6 +137561,25 @@
       "原版怪獸卡牌包": "$290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792004450196,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "$120.00",
+            "茶具魔王皮膚卡牌包 C": "$150.00",
+            "茶具魔王皮膚卡牌包 B": "$150.00",
+            "茶具魔王皮膚卡牌包 A": "$150.00",
+            "小墮落勇士造型卡牌包": "$890.00",
+            "小勇士造型卡牌包": "$890.00",
+            "黑暗的魔王皮膚卡牌包": "$290.00",
+            "光芒的魔王皮膚卡牌包": "$290.00",
+            "魔王覺醒蛇女卡牌包": "$150.00",
+            "神話完整卡牌包": "$1,290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789661990052,
@@ -235485,6 +235590,25 @@
     "history": [
       [
         {
+          "timestamp": 1792004450196,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "自創武將": "$90.00",
+            "戰國七雄": "$190.00",
+            "楚漢爭霸": "$190.00",
+            "群雄爭霸": "$90.00",
+            "巾幗綻芳華": "$120.00",
+            "自創武將朝代特色兵種補丁": "$290.00",
+            "重振漢室": "$90.00",
+            "北境狂人": "$90.00",
+            "終身版": "$220.00",
+            "虎嘯鳳鳴": "$120.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791986862260,
           "price": 190,
           "formattedPrice": "$190.00",
@@ -308076,7 +308200,8 @@
       "基础月会员": "$30.00",
       "黄金会员": "$120.00",
       "普通": "$90.00",
-      "Gold 6-Month": "$490.00"
+      "Gold 6-Month": "$490.00",
+      "完整版": "$90.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -308090,9 +308215,28 @@
       "基础月会员": "$30.00",
       "黄金会员": "$120.00",
       "普通": "$90.00",
-      "Gold 6-Month": "$490.00"
+      "Gold 6-Month": "$490.00",
+      "完整版": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792004450196,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "完整版": "$90.00",
+            "Gold 6-Month": "$490.00",
+            "黄金会员月度": "$60.00",
+            "黄金会员月": "$60.00",
+            "普通会员买断": "$790.00",
+            "黄金会员买断": "$1,290.00",
+            "黄金年会员": "$990.00",
+            "黄金月会员": "$120.00",
+            "基础月会员": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791965170280,
@@ -315003,6 +315147,27 @@
             "Buy bread for programmers": "$30.00",
             "Buy a coffee for designer": "$60.00"
           }
+        }
+      ]
+    ]
+  },
+  "6739130049": {
+    "name": "Planet of Lana",
+    "maxPriceInfo": {
+      "price": 290,
+      "formattedPrice": "$290.00"
+    },
+    "minPriceInfo": {
+      "price": 290,
+      "formattedPrice": "$290.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792004450196,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {}
         }
       ]
     ]

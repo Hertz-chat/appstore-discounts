@@ -2486,7 +2486,7 @@
   {
     "trackId": 455826958,
     "region": "us",
-    "timestamp": 1788815378111,
+    "timestamp": 1792004450196,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -6222,7 +6222,7 @@
   {
     "trackId": 921954809,
     "region": "us",
-    "timestamp": 1790760074035,
+    "timestamp": 1792004450196,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "$4.99",
@@ -6894,10 +6894,10 @@
   {
     "trackId": 968820626,
     "region": "us",
-    "timestamp": 1775990965343,
+    "timestamp": 1792004450196,
     "discounts": [],
-    "price": 1.99,
-    "formattedPrice": "$1.99",
+    "price": 0.99,
+    "formattedPrice": "$0.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id968820626",
     "trackName": "Watch Tuner Lite",
@@ -10201,6 +10201,18 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id1262474519",
     "trackName": "Monoposto",
     "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1264568098,
+    "region": "us",
+    "timestamp": 1792004450196,
+    "discounts": [],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1264568098",
+    "trackName": "Spelling Shed",
+    "firstRecordedAt": 1792004450196
   },
   {
     "trackId": 1264608487,
@@ -15192,7 +15204,7 @@
   {
     "trackId": 1555459868,
     "region": "us",
-    "timestamp": 1791986862260,
+    "timestamp": 1792004450196,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "$4.99",
@@ -21098,6 +21110,18 @@
     "firstRecordedAt": 1777578180666
   },
   {
+    "trackId": 6739130049,
+    "region": "us",
+    "timestamp": 1792004450196,
+    "discounts": [],
+    "price": 8.99,
+    "formattedPrice": "$8.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6739130049",
+    "trackName": "Planet of Lana",
+    "firstRecordedAt": 1792004450196
+  },
+  {
     "trackId": 6739179322,
     "region": "us",
     "timestamp": 1745328692670,
@@ -24041,7 +24065,7 @@
   {
     "trackId": 6757943661,
     "region": "us",
-    "timestamp": 1791965170280,
+    "timestamp": 1792004450196,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -24401,7 +24425,7 @@
   {
     "trackId": 6759358968,
     "region": "us",
-    "timestamp": 1791884966954,
+    "timestamp": 1792004450196,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "$2.99",

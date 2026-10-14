@@ -105948,6 +105948,19 @@
     "history": [
       [
         {
+          "timestamp": 1791986862260,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "One house gem": "99,99 €",
+            "A mine car gem": "59,99 €",
+            "A large box of gemstones": "22,99 €",
+            "A small box of gemstones": "9,99 €",
+            "A small bag of precious stones": "5,99 €",
+            "a small handful of gem": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1791936037723,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -133693,6 +133706,16 @@
     "history": [
       [
         {
+          "timestamp": 1791986862260,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "SÜRMEK İÇİN KAMYON SATIN AL": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1778788711752,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -135725,6 +135748,25 @@
       "porches": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791986862260,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "porches": "0,99 €",
+            "passatb8": "0,99 €",
+            "sonsuz paket": "5,99 €",
+            "mega paket": "2,00 €",
+            "büyük paket": "0,99 €",
+            "orta paket": "0,99 €",
+            "mini paket": "0,49 €",
+            "20 gold": "0,99 €",
+            "10 gold": "0,49 €",
+            "5 gold": "0,29 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787488675646,
@@ -147057,6 +147099,22 @@
       "珍品匣檔": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791986862260,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "宗師匣檔": "99,99 €",
+            "問道進階檔": "49,99 €",
+            "定向匣檔": "34,99 €",
+            "輕囊通寶": "2,99 €",
+            "進階材料檔": "17,99 €",
+            "小袋通寶": "0,99 €",
+            "珍品匣檔": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790977922515,

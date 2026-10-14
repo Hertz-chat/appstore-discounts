@@ -37703,7 +37703,15 @@
       "SMI Company Calendars": "₺149,99",
       "Week Numbers": "₺49,99",
       "Calendars - PL Football Men Senegal 2015-2016 edition": "₺49,99",
-      "Calendars - Primera Divisio Football Men Andorra 2015-2016 edition": "₺49,99"
+      "Calendars - Primera Divisio Football Men Andorra 2015-2016 edition": "₺49,99",
+      "Calendars - Segona Divisio Football Men Andorra 2015-2016 edition": "₺49,99",
+      "Calendars - Premier Division Football Men Gibraltar 2015-2016 edition": "₺49,99",
+      "Calendars - Superliga Volleyball Women Brazil 2015-2016 edition": "₺49,99",
+      "Calendars - LPB Basketball Men Portugal 2015-2016 edition": "₺49,99",
+      "Calendars - CBA Basketball Men China 2015-2016 edition": "₺49,99",
+      "Calendars - LFB Basketball Women France 2015-2016 edition": "₺49,99",
+      "Calendars - Eredivisie Handball Men Netherlands 2015-2016 edition": "₺49,99",
+      "Calendars - Eredivisie Handball Women Netherlands 2015-2016 edition": "₺49,99"
     },
     "minPriceInfo": {
       "price": 499.99,
@@ -37717,9 +37725,36 @@
       "SMI Company Calendars": "₺149,99",
       "Week Numbers": "₺49,99",
       "Calendars - PL Football Men Senegal 2015-2016 edition": "₺49,99",
-      "Calendars - Primera Divisio Football Men Andorra 2015-2016 edition": "₺49,99"
+      "Calendars - Primera Divisio Football Men Andorra 2015-2016 edition": "₺49,99",
+      "Calendars - Segona Divisio Football Men Andorra 2015-2016 edition": "₺49,99",
+      "Calendars - Premier Division Football Men Gibraltar 2015-2016 edition": "₺49,99",
+      "Calendars - Superliga Volleyball Women Brazil 2015-2016 edition": "₺49,99",
+      "Calendars - LPB Basketball Men Portugal 2015-2016 edition": "₺49,99",
+      "Calendars - CBA Basketball Men China 2015-2016 edition": "₺49,99",
+      "Calendars - LFB Basketball Women France 2015-2016 edition": "₺49,99",
+      "Calendars - Eredivisie Handball Men Netherlands 2015-2016 edition": "₺49,99",
+      "Calendars - Eredivisie Handball Women Netherlands 2015-2016 edition": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791986862260,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {
+            "Calendars - PL Football Men Senegal 2015-2016 edition": "₺49,99",
+            "Calendars - Primera Divisio Football Men Andorra 2015-2016 edition": "₺49,99",
+            "Calendars - Segona Divisio Football Men Andorra 2015-2016 edition": "₺49,99",
+            "Calendars - Premier Division Football Men Gibraltar 2015-2016 edition": "₺49,99",
+            "Calendars - Superliga Volleyball Women Brazil 2015-2016 edition": "₺49,99",
+            "Calendars - LPB Basketball Men Portugal 2015-2016 edition": "₺49,99",
+            "Calendars - CBA Basketball Men China 2015-2016 edition": "₺49,99",
+            "Calendars - LFB Basketball Women France 2015-2016 edition": "₺49,99",
+            "Calendars - Eredivisie Handball Men Netherlands 2015-2016 edition": "₺49,99",
+            "Calendars - Eredivisie Handball Women Netherlands 2015-2016 edition": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788801558459,
@@ -83801,6 +83836,25 @@
     "history": [
       [
         {
+          "timestamp": 1791986862260,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Ultra Punch 30": "₺249,99",
+            "Ultra Punch 5": "₺49,99",
+            "Magnetic Stars 60": "₺249,99",
+            "Ultra Punch Unlimited": "₺999,99",
+            "Ultra Punch 10": "₺99,99",
+            "Magnetic Stars Unlimited": "₺799,99",
+            "Magnetic Stars 20": "₺99,99",
+            "Magnetic Stars 10": "₺49,99",
+            "Unlock Rollman Coin": "₺99,99",
+            "Unlock Rollf Coin": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1781105652722,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -99858,6 +99912,20 @@
       "Parallels Desktop for Mac #3": "₺2.299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791986862260,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "₺2.299,99",
+            "Parallels Desktop for Mac #4": "₺2.299,99",
+            "Parallels Desktop for Mac #3": "₺2.299,99",
+            "Parallels Desktop for Mac": "₺2.299,99",
+            "Parallels Desktop for Mac #2": "₺2.299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786722657704,
@@ -222996,6 +223064,19 @@
     "history": [
       [
         {
+          "timestamp": 1791986862260,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "One house gem": "₺4.999,99",
+            "A mine car gem": "₺2.499,99",
+            "A large box of gemstones": "₺999,99",
+            "A small box of gemstones": "₺499,99",
+            "A small bag of precious stones": "₺249,99",
+            "a small handful of gem": "₺49,99"
+          }
+        },
+        {
           "timestamp": 1791936037723,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -278476,8 +278557,8 @@
     "trackName": "Etiket Tofask Online",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 49.99,
-      "formattedPrice": "₺49,99",
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
       "SÜRMEK İÇİN KAMYON SATIN AL": "₺149,99"
     },
     "minPriceInfo": {
@@ -278486,6 +278567,16 @@
       "SÜRMEK İÇİN KAMYON SATIN AL": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791986862260,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "SÜRMEK İÇİN KAMYON SATIN AL": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -280685,6 +280776,25 @@
       "200000 money": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791986862260,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "5 ticket": "₺19,99",
+            "passatb8": "₺49,99",
+            "5 gold": "₺19,99",
+            "sonsuz paket": "₺249,99",
+            "15 gold": "₺29,99",
+            "15 ticket": "₺29,99",
+            "30000 money": "₺19,99",
+            "porches": "₺49,99",
+            "10 gold": "₺29,99",
+            "10 ticket": "₺29,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791884966954,
@@ -292997,6 +293107,22 @@
     "history": [
       [
         {
+          "timestamp": 1791986862260,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "宗師匣檔": "₺4.999,99",
+            "問道進階檔": "₺2.499,99",
+            "定向匣檔": "₺1.499,99",
+            "輕囊通寶": "₺149,99",
+            "進階材料檔": "₺799,99",
+            "小袋通寶": "₺49,99",
+            "珍品匣檔": "₺199,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790977922515,
           "price": 299.99,
           "formattedPrice": "₺299,99",
@@ -295108,6 +295234,14 @@
       "formattedPrice": "₺2,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1791986862260,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791025831979,

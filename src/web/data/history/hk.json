@@ -136506,6 +136506,25 @@
     "history": [
       [
         {
+          "timestamp": 1791936037723,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Rate": "HK$ 0.00",
+            "Info": "HK$ 0.00",
+            "Tuner": "HK$ 0.00",
+            "Chromakey": "HK$ 0.00",
+            "Unlock All": "HK$ 58.00",
+            "Paint": "HK$ 0.00",
+            "Erase": "HK$ 8.00",
+            "Blend": "HK$ 8.00",
+            "Distortion": "HK$ 0.00",
+            "Magnifier": "HK$ 0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791752970806,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -306927,6 +306946,39 @@
           "price": 88,
           "formattedPrice": "HK$ 88.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6444561231": {
+    "trackId": 6444561231,
+    "trackName": "小黄历-传统文化手撕黄历日历万年历正宗黄道吉日",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "Buy bread for programmers": "HK$ 8.00",
+      "Buy a coffee for PM": "HK$ 32.00",
+      "Buy a coffee for designer": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "Buy bread for programmers": "HK$ 8.00",
+      "Buy a coffee for PM": "HK$ 32.00",
+      "Buy a coffee for designer": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1791936037723,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Buy bread for programmers": "HK$ 8.00",
+            "Buy a coffee for PM": "HK$ 32.00",
+            "Buy a coffee for designer": "HK$ 18.00"
+          }
         }
       ]
     ]

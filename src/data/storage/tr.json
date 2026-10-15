@@ -68869,6 +68869,25 @@
     "history": [
       [
         {
+          "timestamp": 1792029989391,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "5000 Coins": "₺99,99",
+            "14000 Coins": "₺249,99",
+            "30000 Coins": "₺499,99",
+            "82000 Coins": "₺1.299,99",
+            "180000 Coins": "₺2.499,99",
+            "450000 Coins": "₺4.999,99",
+            "220 Diamonds": "₺99,99",
+            "580 Diamonds": "₺249,99",
+            "1210 Diamonds": "₺499,99",
+            "3200 Diamonds": "₺1.299,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786842907395,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -151918,6 +151937,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792029989391,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Flash Sale Ore Rune 2": "₺99,99",
+            "First Purchase: Legendary Pack": "₺499,99",
+            "Flash Sale Star Rune 2": "₺99,99",
+            "Piggy Bank": "₺149,99",
+            "Flash Sale Crystal 2": "₺149,99",
+            "Flash Sale Crystal 3": "₺99,99",
+            "Flash Sale Ore Rune 1": "₺149,99",
+            "Double Exp Package 1": "₺49,99",
+            "Piggy Bank 5": "₺249,99",
+            "Flash Sale Star Rune 1": "₺149,99"
+          }
+        },
         {
           "timestamp": 1792020712402,
           "price": 49.99,
@@ -291650,6 +291686,25 @@
       "Gems Handful": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792029989391,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Hero Ashbite": "₺399,99",
+            "Tower Alchemist": "₺149,99",
+            "Hero Ignus": "₺149,99",
+            "Tower Forger": "₺249,99",
+            "Tower Wildcat": "₺249,99",
+            "Gems Chest": "₺999,99",
+            "Gems Handful": "₺149,99",
+            "Tower Sniper": "₺299,99",
+            "Hero Drakkan": "₺399,99",
+            "Tower Ironbark": "₺399,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791857869864,

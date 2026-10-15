@@ -70002,13 +70002,28 @@
     "name": "Fine - Photo Editor",
     "maxPriceInfo": {
       "price": 7.99,
-      "formattedPrice": "7,99 €"
+      "formattedPrice": "7,99 €",
+      "Anual": "29,99 €",
+      "Mensal": "3,99 €"
     },
     "minPriceInfo": {
       "price": 7.99,
-      "formattedPrice": "7,99 €"
+      "formattedPrice": "7,99 €",
+      "Anual": "29,99 €",
+      "Mensal": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792050467334,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Anual": "29,99 €",
+            "Mensal": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -83673,9 +83688,9 @@
       "Evoker Kit": "0,99 €",
       "Evoker Package": "4,99 €",
       "Prime gemma 100": "0,99 €",
-      "Prime Gemma 10000": "79,99 €",
+      "Prime Gemma 10000": "39,99 €",
       "Prime Gemma 2500": "9,99 €",
-      "Prime Gemma 5000": "44,99 €",
+      "Prime Gemma 5000": "19,99 €",
       "Zenith Islands DLC": "5,99 €",
       "Prime Dimension DLC": "3,99 €",
       "Fancy Apparel": "17,99 €",
@@ -83694,6 +83709,25 @@
       "Intro Offer (low)": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792050467334,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Prime gemma 100": "0,99 €",
+            "Starter Package": "2,99 €",
+            "Prime Gemma 500": "2,99 €",
+            "Prime Gemma 5000": "19,99 €",
+            "Prime Gemma 1200": "4,99 €",
+            "Master Package": "10,99 €",
+            "Prime Gemma 2500": "9,99 €",
+            "Prime Gemma 10000": "39,99 €",
+            "Tamer Kit": "0,99 €",
+            "Hunter Package": "4,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791620717773,
@@ -98714,14 +98748,22 @@
   "1596736236": {
     "name": "Rovio Classics: Angry Birds",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 4.99,
+      "formattedPrice": "4,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792050467334,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -144511,6 +144553,21 @@
       "700 Diamonds": "22,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792050467334,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "120 Diamonds": "3,99 €",
+            "Starter Pack 1": "1,99 €",
+            "4000 Diamonds": "99,99 €",
+            "50 Diamonds": "1,99 €",
+            "16 Base Heroes Unlock Pack": "44,99 €",
+            "700 Diamonds": "22,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788364904788,

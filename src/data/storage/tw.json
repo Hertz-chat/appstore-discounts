@@ -29500,6 +29500,23 @@
     "history": [
       [
         {
+          "timestamp": 1792050467334,
+          "price": 235,
+          "formattedPrice": "$235.00",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "$70.00",
+            "Realms Plus:10 Friends w/trial": "$240.00",
+            "Minecraft Store Item 6": "$200.00",
+            "Realms Monthly Subscription: You + 2 Friends": "$120.00",
+            "Minecraft Store Item 3": "$100.00",
+            "Realms Plus: You + 10 Friends": "$240.00",
+            "Minecraft Store Item 10": "$345.00",
+            "Minecraft Store Item 4": "$135.00",
+            "Minecraft Store Item 5": "$170.00",
+            "Minecraft Store Item 1": "$35.00"
+          }
+        },
+        {
           "timestamp": 1792004450196,
           "price": 235,
           "formattedPrice": "$235.00",
@@ -75755,6 +75772,23 @@
     "history": [
       [
         {
+          "timestamp": 1792050467334,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Free Checkpoints": "$30.00",
+            "Unlock all stages": "$30.00",
+            "Large Coin Pack": "$90.00",
+            "Small Coin Pack": "$30.00",
+            "Atom": "$30.00",
+            "Dragon": "$30.00",
+            "Snake": "$30.00",
+            "Tiger": "$30.00",
+            "Pig": "$30.00",
+            "B.I.G.": "$30.00"
+          }
+        },
+        {
           "timestamp": 1792029989391,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -83690,6 +83724,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792050467334,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "纯净模式1个月": "$30.00",
+            "永久金紫会员": "$1,290.00",
+            "金紫会员12个月": "$390.00",
+            "金紫会员1个月": "$60.00",
+            "纯净模式永久": "$990.00",
+            "纯净模式12个月": "$240.00",
+            "下载包8": "$30.00",
+            "下载包318": "$1,490.00",
+            "下载次数": "$30.00",
+            "金紫会员永久": "$1,290.00"
+          }
+        },
         {
           "timestamp": 1792029989391,
           "price": 0,
@@ -175868,6 +175919,24 @@
     "history": [
       [
         {
+          "timestamp": 1792050467334,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "The Ultimate Edition Welcome Offer": "$790.00",
+            "The Complete Collection": "$1,190.00",
+            "Explorer Pack": "$390.00",
+            "Emberwing Token": "$320.00",
+            "Welcome Offer": "$690.00",
+            "New York 2121 Board": "$220.00",
+            "Cherry Blossom Tokyo Board": "$220.00",
+            "The Ultimate Edition VIP Offer": "$790.00",
+            "Promotion": "$590.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791965170280,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -208754,14 +208823,22 @@
   "1596736236": {
     "name": "Rovio Classics: Angry Birds",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 150,
+      "formattedPrice": "$150.00"
     },
     "minPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792050467334,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -235781,6 +235858,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792050467334,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "自創武將": "$90.00",
+            "戰國七雄": "$190.00",
+            "楚漢爭霸": "$190.00",
+            "群雄爭霸": "$90.00",
+            "自創武將朝代特色兵種補丁": "$290.00",
+            "巾幗綻芳華": "$120.00",
+            "重振漢室": "$90.00",
+            "終身版": "$220.00",
+            "無雙戰神": "$190.00",
+            "北境狂人": "$90.00"
+          }
+        },
         {
           "timestamp": 1792029989391,
           "price": 190,
@@ -313161,8 +313255,8 @@
   "6759970821": {
     "name": "地牢合併!（Dungeon Merge!）",
     "maxPriceInfo": {
-      "price": 10,
-      "formattedPrice": "$10.00",
+      "price": 90,
+      "formattedPrice": "$90.00",
       "Starter Pack 1": "$60.00",
       "120 Diamonds": "$120.00",
       "4000 Diamonds": "$2,990.00",
@@ -313181,6 +313275,21 @@
       "700 Diamonds": "$690.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792050467334,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Starter Pack 1": "$60.00",
+            "120 Diamonds": "$120.00",
+            "50 Diamonds": "$60.00",
+            "16 Base Heroes Unlock Pack": "$1,290.00",
+            "700 Diamonds": "$690.00",
+            "4000 Diamonds": "$2,990.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787402209195,

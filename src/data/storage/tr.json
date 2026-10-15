@@ -719,6 +719,25 @@
     "history": [
       [
         {
+          "timestamp": 1792050467334,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Adult Swim Customization Pack": "₺49,99",
+            "Grimm Skin Pack": "₺49,99",
+            "Zombie Skin Pack": "₺49,99",
+            "Monster Pack": "₺49,99",
+            "Dance Pack Three": "₺49,99",
+            "Mondo Pack": "₺49,99",
+            "Superbowl Skin Pack": "₺49,99",
+            "Candy Land Pack": "₺49,99",
+            "Underwater World Pack": "₺49,99",
+            "Mafia Pack": "₺49,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787876097640,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -17894,6 +17913,23 @@
     "history": [
       [
         {
+          "timestamp": 1792050467334,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "₺199,99",
+            "Gold Monthly": "₺349,99",
+            "Gold Level Free Trial": "₺0,00",
+            "Predictive Report - Full": "₺199,99",
+            "Relationship Report": "₺199,99",
+            "Birthday Report": "₺199,99",
+            "7-day Trial Astrolocality": "₺0,00",
+            "Child Report - Full": "₺199,99",
+            "Astrolocality Maps": "₺1.299,99",
+            "Predictive Report - No Background": "₺149,99"
+          }
+        },
+        {
           "timestamp": 1792020712402,
           "price": 0,
           "formattedPrice": "Free",
@@ -21904,6 +21940,25 @@
       "Sliced Synth Sequences": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792050467334,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "₺49,99",
+            "Acoustic Guitars": "₺49,99",
+            "Voices": "₺49,99",
+            "Varazdin Orchestral Mobile": "₺199,99",
+            "Sliced Beats": "₺49,99",
+            "Amped Guitar & Bass": "₺149,99",
+            "Synth Lead": "₺99,99",
+            "Technocraft": "₺99,99",
+            "Synthetix Beats": "₺99,99",
+            "Synth Plucks": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791936037723,
@@ -68868,6 +68923,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792050467334,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "5000 Coins": "₺99,99",
+            "220 Diamonds": "₺99,99",
+            "14000 Coins": "₺249,99",
+            "580 Diamonds": "₺249,99",
+            "1210 Diamonds": "₺499,99",
+            "30000 Coins": "₺499,99",
+            "3200 Diamonds": "₺1.299,99",
+            "15500 Diamonds": "₺4.999,99",
+            "82000 Coins": "₺1.299,99",
+            "180000 Coins": "₺2.499,99"
+          }
+        },
         {
           "timestamp": 1792029989391,
           "price": 49.99,
@@ -144139,13 +144211,28 @@
     "name": "Fine - Photo Editor",
     "maxPriceInfo": {
       "price": 399.99,
-      "formattedPrice": "₺399,99"
+      "formattedPrice": "₺399,99",
+      "Yearly": "₺999,99",
+      "Monthly": "₺149,99"
     },
     "minPriceInfo": {
       "price": 249.99,
-      "formattedPrice": "₺249,99"
+      "formattedPrice": "₺249,99",
+      "Yearly": "₺999,99",
+      "Monthly": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792050467334,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Yearly": "₺999,99",
+            "Monthly": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -163098,6 +163185,25 @@
       "Chopper Token": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792050467334,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "The Complete Collection": "₺1.999,99",
+            "Victorian London Board": "₺399,99",
+            "Welcome Offer": "₺999,99",
+            "Lava Dice": "₺249,99",
+            "Golden Dice": "₺249,99",
+            "Champions Token Bundle": "₺799,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791965170280,
@@ -210958,14 +211064,22 @@
   "1596736236": {
     "name": "Red's First Flight",
     "maxPriceInfo": {
-      "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
     },
     "minPriceInfo": {
       "price": 39.99,
       "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792050467334,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -290319,6 +290433,21 @@
     "history": [
       [
         {
+          "timestamp": 1792050467334,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "120 Diamonds": "₺199,99",
+            "Starter Pack 1": "₺99,99",
+            "4000 Diamonds": "₺4.999,99",
+            "50 Diamonds": "₺99,99",
+            "16 Base Heroes Unlock Pack": "₺1.999,99",
+            "700 Diamonds": "₺999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788364904788,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -291687,6 +291816,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792050467334,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Gems Chest": "₺999,99",
+            "Hero Ashbite": "₺399,99",
+            "Tower Alchemist": "₺149,99",
+            "Hero Ignus": "₺149,99",
+            "Tower Forger": "₺249,99",
+            "Tower Wildcat": "₺249,99",
+            "ALL TOWERS BUNDLE": "₺999,99",
+            "Gems Handful": "₺149,99",
+            "Tower Sniper": "₺299,99",
+            "ALL SPELLS BUNDLE": "₺699,99"
+          }
+        },
         {
           "timestamp": 1792029989391,
           "price": 399.99,

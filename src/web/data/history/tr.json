@@ -106313,6 +106313,25 @@
     "history": [
       [
         {
+          "timestamp": 1792089903909,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Pile O Monkey Money Sale": "₺149,99",
+            "Monkey Money": "₺99,99",
+            "(5,000) Monkey XP": "₺19,99",
+            "Full Tower Unlock": "₺249,99",
+            "Pile O Monkey Money": "₺249,99",
+            "Vault O Monkey Money Sale": "₺299,99",
+            "Paragon Unlock": "₺249,99",
+            "Double Cash Mode": "₺399,99",
+            "Extra Monkey Money": "₺99,99",
+            "10 Knowledge Points": "₺399,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -246593,6 +246612,14 @@
     "history": [
       [
         {
+          "timestamp": 1792089903909,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791316756993,
           "price": 299.99,
           "formattedPrice": "₺299,99",
@@ -248363,6 +248390,25 @@
       "Airbus A321 XLR": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792089903909,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Airbus A380": "₺99,99",
+            "Airbus A350-1000": "₺199,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 737-800": "₺149,99",
+            "Boeing 787-10": "₺99,99",
+            "Global scenery - 3 months": "₺399,99",
+            "Concorde": "₺99,99",
+            "UH-60": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791884966954,
@@ -296204,6 +296250,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792089903909,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Gems Chest": "₺999,99",
+            "Hero Ashbite": "₺399,99",
+            "Tower Alchemist": "₺149,99",
+            "Hero Ignus": "₺149,99",
+            "Hero Drakkan": "₺399,99",
+            "Tower Forger": "₺249,99",
+            "Tower Wildcat": "₺249,99",
+            "ALL TOWERS BUNDLE": "₺999,99",
+            "Gems Handful": "₺149,99",
+            "Tower Sniper": "₺299,99"
+          }
+        },
         {
           "timestamp": 1792050467334,
           "price": 399.99,

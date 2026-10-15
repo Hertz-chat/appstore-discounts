@@ -41199,6 +41199,14 @@
     "history": [
       [
         {
+          "timestamp": 1792089903909,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789918283455,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -128516,6 +128524,14 @@
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792089903909,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791131403610,
@@ -262676,6 +262692,14 @@
     "history": [
       [
         {
+          "timestamp": 1792089903909,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791316756993,
           "price": 48,
           "formattedPrice": "HK$ 48.00",
@@ -295565,14 +295589,22 @@
     "trackName": "Aurora Tromsø",
     "region": "hk",
     "maxPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
     },
     "minPriceInfo": {
       "price": 22,
       "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792089903909,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1771305877461,

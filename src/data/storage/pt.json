@@ -22961,6 +22961,58 @@
       ]
     ]
   },
+  "528194758": {
+    "name": "Rushing Alice",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
+      "1600DiamondPack": "19,99 €",
+      "2700DiamondPack": "29,99 €",
+      "1170DiamondPack": "14,99 €",
+      "750DiamondPack": "9,99 €",
+      "350DiamondPack": "5,99 €",
+      "135DiamondPack": "1,99 €",
+      "60DiamondPack": "0,99 €",
+      "186000 Coin Pack": "29,99 €",
+      "26700 Coin Pack": "5,99 €",
+      "110000 Coin Pack": "19,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
+      "1600DiamondPack": "19,99 €",
+      "2700DiamondPack": "29,99 €",
+      "1170DiamondPack": "14,99 €",
+      "750DiamondPack": "9,99 €",
+      "350DiamondPack": "5,99 €",
+      "135DiamondPack": "1,99 €",
+      "60DiamondPack": "0,99 €",
+      "186000 Coin Pack": "29,99 €",
+      "26700 Coin Pack": "5,99 €",
+      "110000 Coin Pack": "19,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792071965226,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "1600DiamondPack": "19,99 €",
+            "2700DiamondPack": "29,99 €",
+            "1170DiamondPack": "14,99 €",
+            "750DiamondPack": "9,99 €",
+            "350DiamondPack": "5,99 €",
+            "135DiamondPack": "1,99 €",
+            "60DiamondPack": "0,99 €",
+            "186000 Coin Pack": "29,99 €",
+            "26700 Coin Pack": "5,99 €",
+            "110000 Coin Pack": "19,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "530060483": {
     "name": "METAL SLUG 3",
     "maxPriceInfo": {
@@ -44448,6 +44500,27 @@
           "timestamp": 1772893888845,
           "price": 44.99,
           "formattedPrice": "44,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1005098334": {
+    "name": "Human Resource Machine",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792071965226,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
           "inAppPurchases": {}
         }
       ]
@@ -70007,13 +70080,22 @@
       "Mensal": "3,99 €"
     },
     "minPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "7,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "Anual": "29,99 €",
       "Mensal": "3,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1792071965226,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Anual": "29,99 €",
+            "Mensal": "3,99 €"
+          }
+        },
         {
           "timestamp": 1792050467334,
           "price": 7.99,
@@ -83710,6 +83792,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792071965226,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Elite Offer": "4,99 €",
+            "Evoker Package": "4,99 €",
+            "Crystal Offer": "10,99 €",
+            "Intro Offer (low)": "2,99 €",
+            "Master Package": "10,99 €",
+            "Starter Package": "2,99 €",
+            "Tamer Kit": "0,99 €",
+            "Prime Gemma 500": "2,99 €",
+            "Hunter Package": "4,99 €",
+            "Prime Gemma 1200": "4,99 €"
+          }
+        },
         {
           "timestamp": 1792050467334,
           "price": 4.99,
@@ -102923,7 +103022,7 @@
     ]
   },
   "1630541373": {
-    "name": "Private Album - PRAM",
+    "name": "Esconder Fotos e Vídeos - PRAM",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €",
@@ -106180,6 +106279,20 @@
       "Filtr": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792071965226,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Filtr": "29,99 €",
+            "Yearly Recurring Tip": "9,99 €",
+            "Monthly Recurring Tip": "1,99 €",
+            "Mega Tip": "22,99 €",
+            "Tip": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791718980381,

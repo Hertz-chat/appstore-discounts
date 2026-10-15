@@ -350,7 +350,7 @@
   {
     "trackId": 308296029,
     "region": "us",
-    "timestamp": 1792050467334,
+    "timestamp": 1792071965226,
     "discounts": [],
     "price": 9.99,
     "formattedPrice": "$9.99",
@@ -3449,6 +3449,18 @@
     "firstRecordedAt": 1745658131479
   },
   {
+    "trackId": 528194758,
+    "region": "us",
+    "timestamp": 1792071965226,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id528194758",
+    "trackName": "Rushing Alice",
+    "firstRecordedAt": 1792071965226
+  },
+  {
     "trackId": 530060483,
     "region": "us",
     "timestamp": 1761919995978,
@@ -4594,7 +4606,7 @@
   {
     "trackId": 650684932,
     "region": "us",
-    "timestamp": 1792029989391,
+    "timestamp": 1792071965226,
     "discounts": [],
     "price": 9.99,
     "formattedPrice": "$9.99",
@@ -7335,6 +7347,18 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id1003788343",
     "trackName": "ClimaVinea",
     "firstRecordedAt": 1772893888845
+  },
+  {
+    "trackId": 1005098334,
+    "region": "us",
+    "timestamp": 1792071965226,
+    "discounts": [],
+    "price": 4.99,
+    "formattedPrice": "$4.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1005098334",
+    "trackName": "Human Resource Machine",
+    "firstRecordedAt": 1792071965226
   },
   {
     "trackId": 1005658093,
@@ -11348,10 +11372,10 @@
   {
     "trackId": 1391571907,
     "region": "us",
-    "timestamp": 1724752925651,
+    "timestamp": 1792071965226,
     "discounts": [],
-    "price": 6.99,
-    "formattedPrice": "$6.99",
+    "price": 0,
+    "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1391571907",
     "trackName": "Fine - Photo Editor",
@@ -16876,7 +16900,7 @@
   {
     "trackId": 1620202676,
     "region": "us",
-    "timestamp": 1791540411692,
+    "timestamp": 1792071965226,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "$2.99",
@@ -17087,7 +17111,7 @@
     "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1630541373",
-    "trackName": "Private Album - PRAM",
+    "trackName": "Hide Photos & Videos - PRAM",
     "firstRecordedAt": 1722784406759
   },
   {

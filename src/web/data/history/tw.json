@@ -42296,6 +42296,14 @@
     "history": [
       [
         {
+          "timestamp": 1792071965226,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789918283455,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -44848,6 +44856,60 @@
           "price": 60,
           "formattedPrice": "$60.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "528194758": {
+    "trackId": 528194758,
+    "trackName": "Rushing Alice",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "10000 Coin Pack": "$60.00",
+      "60DiamondPack": "$30.00",
+      "50000 Coin Pack": "$290.00",
+      "110000 Coin Pack": "$590.00",
+      "350DiamondPack": "$150.00",
+      "26700 Coin Pack": "$150.00",
+      "750DiamondPack": "$290.00",
+      "4500 Coin Pack": "$30.00",
+      "135DiamondPack": "$60.00",
+      "78000 Coin Pack": "$390.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "10000 Coin Pack": "$60.00",
+      "60DiamondPack": "$30.00",
+      "50000 Coin Pack": "$290.00",
+      "110000 Coin Pack": "$590.00",
+      "350DiamondPack": "$150.00",
+      "26700 Coin Pack": "$150.00",
+      "750DiamondPack": "$290.00",
+      "4500 Coin Pack": "$30.00",
+      "135DiamondPack": "$60.00",
+      "78000 Coin Pack": "$390.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792071965226,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "10000 Coin Pack": "$60.00",
+            "60DiamondPack": "$30.00",
+            "50000 Coin Pack": "$290.00",
+            "110000 Coin Pack": "$590.00",
+            "350DiamondPack": "$150.00",
+            "26700 Coin Pack": "$150.00",
+            "750DiamondPack": "$290.00",
+            "4500 Coin Pack": "$30.00",
+            "135DiamondPack": "$60.00",
+            "78000 Coin Pack": "$390.00"
+          }
         }
       ]
     ]
@@ -89304,6 +89366,29 @@
       ]
     ]
   },
+  "1005098334": {
+    "trackId": 1005098334,
+    "trackName": "Human Resource Machine",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792071965226,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1005658093": {
     "trackId": 1005658093,
     "trackName": "The Escapists: Prison Escape",
@@ -129995,6 +130080,14 @@
     "history": [
       [
         {
+          "timestamp": 1792071965226,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791131403610,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -149896,13 +149989,28 @@
     "region": "tw",
     "maxPriceInfo": {
       "price": 220,
-      "formattedPrice": "$220.00"
+      "formattedPrice": "$220.00",
+      "年度方案": "$790.00",
+      "月度方案": "$120.00"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "免費"
+      "formattedPrice": "免費",
+      "年度方案": "$790.00",
+      "月度方案": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792071965226,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "年度方案": "$790.00",
+            "月度方案": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1724752925651,
@@ -221601,7 +221709,7 @@
   },
   "1630541373": {
     "trackId": 1630541373,
-    "trackName": "Private Album - PRAM",
+    "trackName": "私密相簿密碼鎖：隱藏私人照片與影片 - PRAM",
     "region": "tw",
     "maxPriceInfo": {
       "price": 30,
@@ -307602,14 +307710,22 @@
     "trackName": "Aurora Tromsø",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00"
+      "price": 120,
+      "formattedPrice": "$120.00"
     },
     "minPriceInfo": {
       "price": 90,
       "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792071965226,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1771305877461,
@@ -319867,10 +319983,18 @@
       "formattedPrice": "$320.00"
     },
     "minPriceInfo": {
-      "price": 320,
-      "formattedPrice": "$320.00"
+      "price": 250,
+      "formattedPrice": "$250.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792071965226,
+          "price": 250,
+          "formattedPrice": "$250.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791799508618,

@@ -33527,6 +33527,14 @@
     "history": [
       [
         {
+          "timestamp": 1792071965226,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789918283455,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -36575,6 +36583,58 @@
           "price": 1.99,
           "formattedPrice": "USD 1.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "528194758": {
+    "name": "Rushing Alice",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "2700DiamondPack": "USD 26.99",
+      "186000 Coin Pack": "USD 26.99",
+      "10000 Coin Pack": "USD 1.99",
+      "26700 Coin Pack": "USD 4.99",
+      "78000 Coin Pack": "USD 12.99",
+      "60DiamondPack": "USD 0.99",
+      "4500 Coin Pack": "USD 0.99",
+      "1600DiamondPack": "USD 16.99",
+      "1170DiamondPack": "USD 12.99",
+      "750DiamondPack": "USD 8.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "2700DiamondPack": "USD 26.99",
+      "186000 Coin Pack": "USD 26.99",
+      "10000 Coin Pack": "USD 1.99",
+      "26700 Coin Pack": "USD 4.99",
+      "78000 Coin Pack": "USD 12.99",
+      "60DiamondPack": "USD 0.99",
+      "4500 Coin Pack": "USD 0.99",
+      "1600DiamondPack": "USD 16.99",
+      "1170DiamondPack": "USD 12.99",
+      "750DiamondPack": "USD 8.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792071965226,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "2700DiamondPack": "USD 26.99",
+            "186000 Coin Pack": "USD 26.99",
+            "10000 Coin Pack": "USD 1.99",
+            "26700 Coin Pack": "USD 4.99",
+            "78000 Coin Pack": "USD 12.99",
+            "60DiamondPack": "USD 0.99",
+            "4500 Coin Pack": "USD 0.99",
+            "1600DiamondPack": "USD 16.99",
+            "1170DiamondPack": "USD 12.99",
+            "750DiamondPack": "USD 8.99"
+          }
         }
       ]
     ]
@@ -70706,6 +70766,27 @@
       ]
     ]
   },
+  "1005098334": {
+    "name": "Human Resource Machine",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792071965226,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1005658093": {
     "name": "The Escapists: Prison Escape",
     "maxPriceInfo": {
@@ -98670,6 +98751,14 @@
     "history": [
       [
         {
+          "timestamp": 1792071965226,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791131403610,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -111659,13 +111748,28 @@
     "name": "Fine修圖",
     "maxPriceInfo": {
       "price": 6.99,
-      "formattedPrice": "USD 6.99"
+      "formattedPrice": "USD 6.99",
+      "年度方案": "USD 24.99",
+      "月度方案": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "免費"
+      "formattedPrice": "免費",
+      "年度方案": "USD 24.99",
+      "月度方案": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792071965226,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "年度方案": "USD 24.99",
+            "月度方案": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1724752925651,
@@ -163016,7 +163120,7 @@
     ]
   },
   "1630541373": {
-    "name": "Private Album - PRAM",
+    "name": "私密相簿密碼鎖：隱藏私人照片與影片 - PRAM",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99",
@@ -202035,14 +202139,22 @@
   "6755781701": {
     "name": "Aurora Tromsø",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792071965226,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1771305877461,

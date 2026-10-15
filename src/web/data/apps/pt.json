@@ -3040,6 +3040,18 @@
     "firstRecordedAt": 1761797674362
   },
   {
+    "trackId": 528194758,
+    "region": "pt",
+    "timestamp": 1792071965226,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id528194758",
+    "trackName": "Rushing Alice",
+    "firstRecordedAt": 1792071965226
+  },
+  {
     "trackId": 530060483,
     "region": "pt",
     "timestamp": 1761919995978,
@@ -6736,6 +6748,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id1003788343",
     "trackName": "ClimaVinea",
     "firstRecordedAt": 1772893888845
+  },
+  {
+    "trackId": 1005098334,
+    "region": "pt",
+    "timestamp": 1792071965226,
+    "discounts": [],
+    "price": 5.99,
+    "formattedPrice": "5,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1005098334",
+    "trackName": "Human Resource Machine",
+    "firstRecordedAt": 1792071965226
   },
   {
     "trackId": 1005658093,
@@ -10502,10 +10526,10 @@
   {
     "trackId": 1391571907,
     "region": "pt",
-    "timestamp": 1792050467334,
+    "timestamp": 1792071965226,
     "discounts": [],
-    "price": 7.99,
-    "formattedPrice": "7,99 €",
+    "price": 0,
+    "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1391571907",
     "trackName": "Fine - Photo Editor",
@@ -12641,7 +12665,7 @@
   {
     "trackId": 1499001662,
     "region": "pt",
-    "timestamp": 1792050467334,
+    "timestamp": 1792071965226,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "4,99 €",
@@ -15915,7 +15939,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1630541373",
-    "trackName": "Private Album - PRAM",
+    "trackName": "Esconder Fotos e Vídeos - PRAM",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -16438,7 +16462,7 @@
   {
     "trackId": 1662217862,
     "region": "pt",
-    "timestamp": 1791718980381,
+    "timestamp": 1792071965226,
     "discounts": [],
     "price": 5.99,
     "formattedPrice": "5,99 €",

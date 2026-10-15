@@ -194,7 +194,7 @@
   {
     "trackId": 301387274,
     "region": "tr",
-    "timestamp": 1792050467334,
+    "timestamp": 1792071965226,
     "discounts": [],
     "price": 49.99,
     "formattedPrice": "₺49,99",
@@ -3423,6 +3423,18 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id528181527",
     "trackName": "TripREC Dash Cam",
     "firstRecordedAt": 1745658131479
+  },
+  {
+    "trackId": 528194758,
+    "region": "tr",
+    "timestamp": 1792071965226,
+    "discounts": [],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id528194758",
+    "trackName": "Rushing Alice",
+    "firstRecordedAt": 1792071965226
   },
   {
     "trackId": 530060483,
@@ -7322,6 +7334,18 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id1003788343",
     "trackName": "ClimaVinea",
     "firstRecordedAt": 1772893888845
+  },
+  {
+    "trackId": 1005098334,
+    "region": "tr",
+    "timestamp": 1792071965226,
+    "discounts": [],
+    "price": 249.99,
+    "formattedPrice": "₺249,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1005098334",
+    "trackName": "Human Resource Machine",
+    "firstRecordedAt": 1792071965226
   },
   {
     "trackId": 1005658093,
@@ -11349,10 +11373,10 @@
   {
     "trackId": 1391571907,
     "region": "tr",
-    "timestamp": 1792050467334,
+    "timestamp": 1792071965226,
     "discounts": [],
-    "price": 399.99,
-    "formattedPrice": "₺399,99",
+    "price": 0,
+    "formattedPrice": "Free",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id1391571907",
     "trackName": "Fine - Photo Editor",
@@ -17124,7 +17148,7 @@
     "formattedPrice": "Free",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id1630541373",
-    "trackName": "Private Album - PRAM",
+    "trackName": "Photo Vault: Hide Pics - PRAM",
     "firstRecordedAt": 1730693617795
   },
   {
@@ -22936,10 +22960,10 @@
   {
     "trackId": 6749456796,
     "region": "tr",
-    "timestamp": 1791799508618,
+    "timestamp": 1792071965226,
     "discounts": [],
-    "price": 499.99,
-    "formattedPrice": "₺499,99",
+    "price": 399.99,
+    "formattedPrice": "₺399,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6749456796",
     "trackName": "Vampire Crawlers",

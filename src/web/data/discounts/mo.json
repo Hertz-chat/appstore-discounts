@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 510249014,
+    "region": "mo",
+    "timestamp": 1792071965226,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 0.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 0.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id510249014",
+    "trackName": "水準管 HD",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1391571907,
+    "region": "mo",
+    "timestamp": 1792071965226,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 6.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 6.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1391571907",
+    "trackName": "Fine修圖",
+    "firstRecordedAt": 1722784406759
+  },
+  {
     "trackId": 968820626,
     "region": "mo",
     "timestamp": 1792004450196,
@@ -1051,7 +1091,7 @@
     "formattedPrice": "免費",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1630541373",
-    "trackName": "Private Album - PRAM",
+    "trackName": "私密相簿密碼鎖：隱藏私人照片與影片 - PRAM",
     "firstRecordedAt": 1722784406759
   },
   {
@@ -48655,7 +48695,7 @@
     "formattedPrice": "免費",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1630541373",
-    "trackName": "Private Album - PRAM",
+    "trackName": "私密相簿密碼鎖：隱藏私人照片與影片 - PRAM",
     "firstRecordedAt": 1722784406759
   },
   {
@@ -48839,7 +48879,7 @@
     "formattedPrice": "免費",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1630541373",
-    "trackName": "Private Album - PRAM",
+    "trackName": "私密相簿密碼鎖：隱藏私人照片與影片 - PRAM",
     "firstRecordedAt": 1722784406759
   },
   {

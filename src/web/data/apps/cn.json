@@ -5983,7 +5983,7 @@
   {
     "trackId": 1169282239,
     "region": "cn",
-    "timestamp": 1791718980381,
+    "timestamp": 1792071965226,
     "discounts": [],
     "price": 1,
     "formattedPrice": "¥1.00",
@@ -7150,10 +7150,10 @@
   {
     "trackId": 1391571907,
     "region": "cn",
-    "timestamp": 1724752925651,
+    "timestamp": 1792071965226,
     "discounts": [],
-    "price": 48,
-    "formattedPrice": "¥48.00",
+    "price": 0,
+    "formattedPrice": "免费",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id1391571907",
     "trackName": "Fine修图",
@@ -10508,7 +10508,7 @@
     "formattedPrice": "免费",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id1630541373",
-    "trackName": "隐私相册-私密记忆，安心记录，安全保障隐藏秘密PRAM",
+    "trackName": "私密相册：隐藏照片和视频、私人保险箱 - PRAM",
     "firstRecordedAt": 1722784406759
   },
   {
@@ -11828,7 +11828,7 @@
   {
     "trackId": 6473332700,
     "region": "cn",
-    "timestamp": 1792020712402,
+    "timestamp": 1792071965226,
     "discounts": [],
     "price": 35,
     "formattedPrice": "¥35.00",

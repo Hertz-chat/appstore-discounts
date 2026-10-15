@@ -34063,6 +34063,14 @@
     "history": [
       [
         {
+          "timestamp": 1792071965226,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789918283455,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -37141,6 +37149,60 @@
           "price": 1.99,
           "formattedPrice": "USD 1.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "528194758": {
+    "trackId": 528194758,
+    "trackName": "Rushing Alice",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "2700DiamondPack": "USD 26.99",
+      "186000 Coin Pack": "USD 26.99",
+      "10000 Coin Pack": "USD 1.99",
+      "26700 Coin Pack": "USD 4.99",
+      "78000 Coin Pack": "USD 12.99",
+      "60DiamondPack": "USD 0.99",
+      "4500 Coin Pack": "USD 0.99",
+      "1600DiamondPack": "USD 16.99",
+      "1170DiamondPack": "USD 12.99",
+      "750DiamondPack": "USD 8.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "2700DiamondPack": "USD 26.99",
+      "186000 Coin Pack": "USD 26.99",
+      "10000 Coin Pack": "USD 1.99",
+      "26700 Coin Pack": "USD 4.99",
+      "78000 Coin Pack": "USD 12.99",
+      "60DiamondPack": "USD 0.99",
+      "4500 Coin Pack": "USD 0.99",
+      "1600DiamondPack": "USD 16.99",
+      "1170DiamondPack": "USD 12.99",
+      "750DiamondPack": "USD 8.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792071965226,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "2700DiamondPack": "USD 26.99",
+            "186000 Coin Pack": "USD 26.99",
+            "10000 Coin Pack": "USD 1.99",
+            "26700 Coin Pack": "USD 4.99",
+            "78000 Coin Pack": "USD 12.99",
+            "60DiamondPack": "USD 0.99",
+            "4500 Coin Pack": "USD 0.99",
+            "1600DiamondPack": "USD 16.99",
+            "1170DiamondPack": "USD 12.99",
+            "750DiamondPack": "USD 8.99"
+          }
         }
       ]
     ]
@@ -71908,6 +71970,29 @@
       ]
     ]
   },
+  "1005098334": {
+    "trackId": 1005098334,
+    "trackName": "Human Resource Machine",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792071965226,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1005658093": {
     "trackId": 1005658093,
     "trackName": "The Escapists: Prison Escape",
@@ -100380,6 +100465,14 @@
     "history": [
       [
         {
+          "timestamp": 1792071965226,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791131403610,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -113539,13 +113632,28 @@
     "region": "mo",
     "maxPriceInfo": {
       "price": 6.99,
-      "formattedPrice": "USD 6.99"
+      "formattedPrice": "USD 6.99",
+      "年度方案": "USD 24.99",
+      "月度方案": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "免費"
+      "formattedPrice": "免費",
+      "年度方案": "USD 24.99",
+      "月度方案": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792071965226,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "年度方案": "USD 24.99",
+            "月度方案": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1724752925651,
@@ -165879,7 +165987,7 @@
   },
   "1630541373": {
     "trackId": 1630541373,
-    "trackName": "Private Album - PRAM",
+    "trackName": "私密相簿密碼鎖：隱藏私人照片與影片 - PRAM",
     "region": "mo",
     "maxPriceInfo": {
       "price": 0.99,
@@ -205837,14 +205945,22 @@
     "trackName": "Aurora Tromsø",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792071965226,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1771305877461,

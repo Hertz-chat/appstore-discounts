@@ -3258,10 +3258,10 @@
   {
     "trackId": 510249014,
     "region": "tw",
-    "timestamp": 1789918283455,
+    "timestamp": 1792071965226,
     "discounts": [],
-    "price": 30,
-    "formattedPrice": "$30.00",
+    "price": 0,
+    "formattedPrice": "免費",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id510249014",
     "trackName": "水準管 HD",
@@ -3447,6 +3447,18 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id528181527",
     "trackName": "行車記錄儀「TripREC」",
     "firstRecordedAt": 1745658131479
+  },
+  {
+    "trackId": 528194758,
+    "region": "tw",
+    "timestamp": 1792071965226,
+    "discounts": [],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id528194758",
+    "trackName": "Rushing Alice",
+    "firstRecordedAt": 1792071965226
   },
   {
     "trackId": 530060483,
@@ -7301,6 +7313,18 @@
     "firstRecordedAt": 1772893888845
   },
   {
+    "trackId": 1005098334,
+    "region": "tw",
+    "timestamp": 1792071965226,
+    "discounts": [],
+    "price": 150,
+    "formattedPrice": "$150.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1005098334",
+    "trackName": "Human Resource Machine",
+    "firstRecordedAt": 1792071965226
+  },
+  {
     "trackId": 1005658093,
     "region": "tw",
     "timestamp": 1776617512903,
@@ -10338,10 +10362,10 @@
   {
     "trackId": 1287138671,
     "region": "tw",
-    "timestamp": 1791131403610,
+    "timestamp": 1792071965226,
     "discounts": [],
-    "price": 60,
-    "formattedPrice": "$60.00",
+    "price": 150,
+    "formattedPrice": "$150.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1287138671",
     "trackName": "Thumper：便攜版",
@@ -11361,10 +11385,10 @@
   {
     "trackId": 1391571907,
     "region": "tw",
-    "timestamp": 1724752925651,
+    "timestamp": 1792071965226,
     "discounts": [],
-    "price": 220,
-    "formattedPrice": "$220.00",
+    "price": 0,
+    "formattedPrice": "免費",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1391571907",
     "trackName": "Fine修圖",
@@ -17256,7 +17280,7 @@
     "formattedPrice": "免費",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1630541373",
-    "trackName": "Private Album - PRAM",
+    "trackName": "私密相簿密碼鎖：隱藏私人照片與影片 - PRAM",
     "firstRecordedAt": 1722784406759
   },
   {
@@ -23261,10 +23285,10 @@
   {
     "trackId": 6749456796,
     "region": "tw",
-    "timestamp": 1791799508618,
+    "timestamp": 1792071965226,
     "discounts": [],
-    "price": 320,
-    "formattedPrice": "$320.00",
+    "price": 250,
+    "formattedPrice": "$250.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6749456796",
     "trackName": "Vampire Crawlers",
@@ -24048,10 +24072,10 @@
   {
     "trackId": 6755781701,
     "region": "tw",
-    "timestamp": 1771305877461,
+    "timestamp": 1792071965226,
     "discounts": [],
-    "price": 90,
-    "formattedPrice": "$90.00",
+    "price": 120,
+    "formattedPrice": "$120.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6755781701",
     "trackName": "Aurora Tromsø",

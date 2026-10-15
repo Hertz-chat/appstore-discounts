@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1391571907,
+    "region": "us",
+    "timestamp": 1792071965226,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$6.99",
+        "to": "Free",
+        "range": "[Free ~ $6.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1391571907",
+    "trackName": "Fine - Photo Editor",
+    "firstRecordedAt": 1722784406759
+  },
+  {
     "trackId": 549432607,
     "region": "us",
     "timestamp": 1792050467334,
@@ -1004,7 +1024,7 @@
     "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1630541373",
-    "trackName": "Private Album - PRAM",
+    "trackName": "Hide Photos & Videos - PRAM",
     "firstRecordedAt": 1722784406759
   },
   {
@@ -50816,7 +50836,7 @@
     "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1630541373",
-    "trackName": "Private Album - PRAM",
+    "trackName": "Hide Photos & Videos - PRAM",
     "firstRecordedAt": 1722784406759
   },
   {
@@ -50979,7 +50999,7 @@
     "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1630541373",
-    "trackName": "Private Album - PRAM",
+    "trackName": "Hide Photos & Videos - PRAM",
     "firstRecordedAt": 1722784406759
   },
   {

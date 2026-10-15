@@ -17894,6 +17894,25 @@
     "history": [
       [
         {
+          "timestamp": 1792020712402,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "₺199,99",
+            "Gold Monthly": "₺349,99",
+            "Gold Level Free Trial": "₺0,00",
+            "Predictive Report - Full": "₺199,99",
+            "Relationship Report": "₺199,99",
+            "Birthday Report": "₺199,99",
+            "7-day Trial Astrolocality": "₺0,00",
+            "Lunar Return Report": "₺199,99",
+            "Child Report - Full": "₺199,99",
+            "Astrolocality Maps": "₺1.299,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791173827832,
           "price": 0,
           "formattedPrice": "Free",
@@ -51733,6 +51752,22 @@
       "Ultimate Prestige Package": "₺619,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792020712402,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "Fast forward": "₺69,99",
+            "Small Prestige Pack": "₺29,99",
+            "Medium Prestige Pack": "₺149,99",
+            "XP Buff x2": "₺69,99",
+            "Awesome Prestige Pack": "₺349,99",
+            "Insane Prestige Package": "₺3.999,99",
+            "Ultimate Prestige Package": "₺619,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789514712060,
@@ -151884,6 +151919,25 @@
     "history": [
       [
         {
+          "timestamp": 1792020712402,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Dynasty Hero Set": "₺999,99",
+            "Dynasty Pet": "₺799,99",
+            "Ultimate Amulet": "₺299,99",
+            "Ultimate Ring": "₺299,99",
+            "Ultimate Pet": "₺299,99",
+            "Ultimate Ancient": "₺699,99",
+            "Royal Rune": "₺149,99",
+            "Norths Warden Pet Pack": "₺799,99",
+            "Norths Warden Set": "₺999,99",
+            "Black Friday Combo Items": "₺1.499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789687785630,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -178845,6 +178899,18 @@
     "history": [
       [
         {
+          "timestamp": 1792020712402,
+          "price": 91.99,
+          "formattedPrice": "₺91,99",
+          "inAppPurchases": {
+            "1'000'000 Coins": "₺149,99",
+            "200'000 Coins": "₺49,99",
+            "500'000 Coins": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1773745084652,
           "price": 195,
           "formattedPrice": "₺195,00",
@@ -179258,6 +179324,14 @@
       "formattedPrice": "₺5,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792020712402,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789514712060,
@@ -184007,7 +184081,7 @@
     ]
   },
   "1509344823": {
-    "name": "Ezberle",
+    "name": "Ezberle - Kalıcı Kelime Öğren",
     "maxPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99"
@@ -201997,6 +202071,14 @@
     "history": [
       [
         {
+          "timestamp": 1792020712402,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790552524601,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -208208,6 +208290,25 @@
       "Banger Racing Car Pack": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792020712402,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Content Bundle 1": "₺169,99",
+            "Modified Monsters Car Pack": "₺49,99",
+            "Getaway Car Pack": "₺49,99",
+            "Off-Road Car Pack": "₺49,99",
+            "Content Bundle 2": "₺139,99",
+            "Backwoods Bangers Car Pack": "₺49,99",
+            "Steel & Wheels Pack": "₺29,99",
+            "American All-Stars Car Pack": "₺49,99",
+            "Racing Heroes Car Pack": "₺49,99",
+            "Banger Racing Car Pack": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791884966954,
@@ -222185,6 +222286,14 @@
       "formattedPrice": "₺11,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792020712402,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789514712060,
@@ -239349,8 +239458,8 @@
       "Krone BiG M 450": "₺99,99"
     },
     "minPriceInfo": {
-      "price": 134.99,
-      "formattedPrice": "₺134,99",
+      "price": 114.99,
+      "formattedPrice": "₺114,99",
       "1'000'000 Coins": "₺129,99",
       "200'000 Coins": "₺39,99",
       "500'000 Coins": "₺99,99",
@@ -239374,6 +239483,25 @@
       "Krone BiG M 450": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792020712402,
+          "price": 114.99,
+          "formattedPrice": "₺114,99",
+          "inAppPurchases": {
+            "1'000'000 Coins": "₺149,99",
+            "200'000 Coins": "₺49,99",
+            "500'000 Coins": "₺99,99",
+            "Amazone CITAN 15001-C": "₺49,99",
+            "New Holland T8.435 Genesis": "₺99,99",
+            "Krone BiG Pack 1290 HDP VC": "₺49,99",
+            "ClaasLexion8900+ConvioFlex1380": "₺149,99",
+            "Case IH Speed-Tiller": "₺49,99",
+            "KINZE 3665 Blue Drive": "₺49,99",
+            "Versatile 4WD 620": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790857883196,
@@ -271998,6 +272126,14 @@
     "history": [
       [
         {
+          "timestamp": 1792020712402,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -278783,6 +278919,16 @@
     "history": [
       [
         {
+          "timestamp": 1792020712402,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Unholy Fusion": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791420216639,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -279337,6 +279483,14 @@
       "formattedPrice": "₺17,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792020712402,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789514712060,
@@ -286595,13 +286749,25 @@
       "200'000 Coins": "₺49,99"
     },
     "minPriceInfo": {
-      "price": 309,
-      "formattedPrice": "₺309,00",
+      "price": 209,
+      "formattedPrice": "₺209,00",
       "1'000'000 Coins": "₺139,00",
       "500'000 Coins": "₺99,99",
       "200'000 Coins": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792020712402,
+          "price": 209,
+          "formattedPrice": "₺209,00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "₺139,00",
+            "200'000 Coins": "₺49,99",
+            "500'000 Coins": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779184723397,
@@ -289945,6 +290111,14 @@
       "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792020712402,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791420216639,

@@ -150040,18 +150040,33 @@
     ]
   },
   "1422480068": {
-    "name": "Notes Writer Pro: 不止 PDF, 筆記",
+    "name": "Notes Writer Browser: Nautilus",
     "maxPriceInfo": {
       "price": 118,
       "formattedPrice": "HK$ 118.00",
-      "Notes Writer Pro AI Assistant": "HK$ 32.00"
+      "Notes Writer Pro AI Assistant": "HK$ 32.00",
+      "Nautilus Unlock All and AI": "HK$ 118.00",
+      "Nautilus Pro Lifetime": "HK$ 118.00"
     },
     "minPriceInfo": {
-      "price": 88,
-      "formattedPrice": "HK$ 88.00",
-      "Notes Writer Pro AI Assistant": "HK$ 18.00"
+      "price": 0,
+      "formattedPrice": "免費",
+      "Notes Writer Pro AI Assistant": "HK$ 18.00",
+      "Nautilus Unlock All and AI": "HK$ 118.00",
+      "Nautilus Pro Lifetime": "HK$ 118.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792157762180,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Nautilus Unlock All and AI": "HK$ 118.00",
+            "Nautilus Pro Lifetime": "HK$ 118.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,
@@ -303198,6 +303213,14 @@
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792157762180,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791649753895,

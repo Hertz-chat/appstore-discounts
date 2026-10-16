@@ -138425,7 +138425,14 @@
       "Tuner": "₺0,00",
       "Unlock All": "₺399,99",
       "Erase": "₺39,99",
-      "Blend": "₺39,99"
+      "Blend": "₺39,99",
+      "Remove the Ad": "₺39,99",
+      "Dub and Audio": "₺39,99",
+      "Pixelate": "₺39,99",
+      "Filter": "₺39,99",
+      "Add Text": "₺39,99",
+      "Convert into Gif": "₺39,99",
+      "Border": "₺39,99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -138443,9 +138450,35 @@
       "Tuner": "₺0,00",
       "Unlock All": "₺349,99",
       "Erase": "₺39,99",
-      "Blend": "₺39,99"
+      "Blend": "₺39,99",
+      "Remove the Ad": "₺39,99",
+      "Dub and Audio": "₺39,99",
+      "Pixelate": "₺39,99",
+      "Filter": "₺39,99",
+      "Add Text": "₺39,99",
+      "Convert into Gif": "₺39,99",
+      "Border": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792157762180,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "Remove the Ad": "₺39,99",
+            "Crop": "₺0,00",
+            "Dub and Audio": "₺39,99",
+            "Pixelate": "₺39,99",
+            "Filter": "₺39,99",
+            "Add Text": "₺39,99",
+            "Convert into Gif": "₺39,99",
+            "Splice": "₺0,00",
+            "Border": "₺39,99",
+            "Sticker": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790552524601,
@@ -147521,19 +147554,34 @@
   },
   "1422480068": {
     "trackId": 1422480068,
-    "trackName": "Notes Writer Pro: Beyond PDFs",
+    "trackName": "Notes Writer Browser: Nautilus",
     "region": "tr",
     "maxPriceInfo": {
       "price": 390,
       "formattedPrice": "₺390,00",
-      "Notes Writer Pro AI Assistant": "₺179,99"
+      "Notes Writer Pro AI Assistant": "₺179,99",
+      "Nautilus Unlock All and AI": "₺490,00",
+      "Nautilus Pro Lifetime": "₺390,00"
     },
     "minPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99",
-      "Notes Writer Pro AI Assistant": "₺79,99"
+      "price": 0,
+      "formattedPrice": "Free",
+      "Notes Writer Pro AI Assistant": "₺79,99",
+      "Nautilus Unlock All and AI": "₺490,00",
+      "Nautilus Pro Lifetime": "₺390,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792157762180,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Nautilus Unlock All and AI": "₺490,00",
+            "Nautilus Pro Lifetime": "₺390,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,
@@ -165616,6 +165664,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792157762180,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "The Complete Collection": "₺1.999,99",
+            "Emberwing Token": "₺499,99",
+            "The Dragon": "₺199,99",
+            "Transylvania Dice": "₺249,99",
+            "Victorian London Board": "₺399,99",
+            "Welcome Offer": "₺999,99"
+          }
+        },
         {
           "timestamp": 1792115808010,
           "price": 249.99,

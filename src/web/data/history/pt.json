@@ -72737,19 +72737,34 @@
   },
   "1422480068": {
     "trackId": 1422480068,
-    "trackName": "Notes Writer Pro: além dos PDF",
+    "trackName": "Notes Writer Browser: Nautilus",
     "region": "pt",
     "maxPriceInfo": {
       "price": 12.99,
       "formattedPrice": "12,99 €",
-      "Notes Writer Pro AI Assistant": "3,99 €"
+      "Notes Writer Pro AI Assistant": "3,99 €",
+      "Nautilus Unlock All and AI": "12,99 €",
+      "Nautilus Pro Lifetime": "12,99 €"
     },
     "minPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "7,99 €",
-      "Notes Writer Pro AI Assistant": "1,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Notes Writer Pro AI Assistant": "1,99 €",
+      "Nautilus Unlock All and AI": "12,99 €",
+      "Nautilus Pro Lifetime": "12,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792157762180,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Nautilus Unlock All and AI": "12,99 €",
+            "Nautilus Pro Lifetime": "12,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,
@@ -143371,7 +143386,7 @@
   },
   "6757943661": {
     "trackId": 6757943661,
-    "trackName": "阿福出境管家-签证通过率评估与材料清单",
+    "trackName": "阿福出境管家 - 签证通过率评估与材料清单",
     "region": "pt",
     "maxPriceInfo": {
       "price": 2.99,

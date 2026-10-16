@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1422480068,
+    "region": "hk",
+    "timestamp": 1792157762180,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 118.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 118.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1422480068",
+    "trackName": "Notes Writer Browser: Nautilus",
+    "firstRecordedAt": 1722784406759
+  },
+  {
     "trackId": 968820626,
     "region": "hk",
     "timestamp": 1792136164280,
@@ -1959,7 +1979,7 @@
     "formattedPrice": "HK$ 88.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id1422480068",
-    "trackName": "Notes Writer Pro: 不止 PDF, 筆記",
+    "trackName": "Notes Writer Browser: Nautilus",
     "firstRecordedAt": 1722784406759
   },
   {
@@ -50632,7 +50652,7 @@
     "formattedPrice": "HK$ 88.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id1422480068",
-    "trackName": "Notes Writer Pro: 不止 PDF, 筆記",
+    "trackName": "Notes Writer Browser: Nautilus",
     "firstRecordedAt": 1722784406759
   },
   {

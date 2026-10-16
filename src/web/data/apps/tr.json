@@ -10819,7 +10819,7 @@
   {
     "trackId": 1330314351,
     "region": "tr",
-    "timestamp": 1790552524601,
+    "timestamp": 1792157762180,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "₺4,99",
@@ -11565,13 +11565,13 @@
   {
     "trackId": 1422480068,
     "region": "tr",
-    "timestamp": 1791507612931,
+    "timestamp": 1792157762180,
     "discounts": [],
-    "price": 390,
-    "formattedPrice": "₺390,00",
+    "price": 0,
+    "formattedPrice": "Free",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id1422480068",
-    "trackName": "Notes Writer Pro: Beyond PDFs",
+    "trackName": "Notes Writer Browser: Nautilus",
     "firstRecordedAt": 1730693617795
   },
   {
@@ -13171,7 +13171,7 @@
   {
     "trackId": 1477966166,
     "region": "tr",
-    "timestamp": 1792115808010,
+    "timestamp": 1792157762180,
     "discounts": [],
     "price": 249.99,
     "formattedPrice": "₺249,99",

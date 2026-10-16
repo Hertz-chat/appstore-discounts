@@ -4297,7 +4297,7 @@
   {
     "trackId": 954724812,
     "region": "cn",
-    "timestamp": 1792020712402,
+    "timestamp": 1792157762180,
     "discounts": [],
     "price": 1,
     "formattedPrice": "¥1.00",
@@ -7258,13 +7258,13 @@
   {
     "trackId": 1422480068,
     "region": "cn",
-    "timestamp": 1791507612931,
+    "timestamp": 1792157762180,
     "discounts": [],
-    "price": 69.9,
-    "formattedPrice": "¥69.90",
+    "price": 0,
+    "formattedPrice": "免费",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id1422480068",
-    "trackName": "Notes Writer Pro：不止 PDF, 笔记和",
+    "trackName": "Notes Writer Browser: Nautilus",
     "firstRecordedAt": 1722784406759
   },
   {
@@ -14779,7 +14779,7 @@
     "formattedPrice": "免费",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id6757943661",
-    "trackName": "阿福出境管家-签证通过率评估与材料清单",
+    "trackName": "阿福出境管家 - 签证通过率评估与材料清单",
     "firstRecordedAt": 1778176443977
   },
   {

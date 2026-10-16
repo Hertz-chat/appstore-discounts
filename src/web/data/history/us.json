@@ -65588,6 +65588,25 @@
     "history": [
       [
         {
+          "timestamp": 1792157762180,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2013 Enhanced Diagnostics": "$14.99",
+            "Ford 2004 Enhanced Diagnostics": "$14.99",
+            "Toyota 2015 Enhanced Diagnostics": "$14.99",
+            "Toyota 2016 Enhanced Diagnostics": "$14.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792115808010,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -167768,19 +167787,34 @@
   },
   "1422480068": {
     "trackId": 1422480068,
-    "trackName": "Notes Writer Pro: Beyond PDFs",
+    "trackName": "Notes Writer Browser: Nautilus",
     "region": "us",
     "maxPriceInfo": {
       "price": 14.99,
       "formattedPrice": "$14.99",
-      "Notes Writer Pro AI Assistant": "$4.99"
+      "Notes Writer Pro AI Assistant": "$4.99",
+      "Nautilus Unlock All and AI": "$14.99",
+      "Nautilus Pro Lifetime": "$14.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Notes Writer Pro AI Assistant": "$1.99"
+      "Notes Writer Pro AI Assistant": "$1.99",
+      "Nautilus Unlock All and AI": "$14.99",
+      "Nautilus Pro Lifetime": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792157762180,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Nautilus Unlock All and AI": "$14.99",
+            "Nautilus Pro Lifetime": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,
@@ -225344,6 +225378,23 @@
     "history": [
       [
         {
+          "timestamp": 1792157762180,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$9.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Word Bonanza Bundle": "$19.99",
+            "Generations Gen Z Pack": "$1.99",
+            "Midnight Bedroom Pack": "$2.99",
+            "Midnight Night Out Pack": "$2.99",
+            "Mystery Mix Pack 1": "$1.99",
+            "Ready to Roast": "$6.49",
+            "Sports and Games Pack": "$7.99",
+            "Welcome Offer": "$9.99"
+          }
+        },
+        {
           "timestamp": 1792136164280,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -280080,6 +280131,25 @@
     "history": [
       [
         {
+          "timestamp": 1792157762180,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Halloween Party": "$1.79",
+            "Wacky Halloween Set": "$2.39",
+            "2025春さくらスキン": "$0.49",
+            "オーロラプール": "$1.19",
+            "Sunset beach": "$1.19",
+            "2025春いちごスキン": "$0.49",
+            "ネオンシティ": "$1.79",
+            "Starry Night": "$1.79",
+            "Fireworks display": "$1.79",
+            "Christmas night": "$1.79"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792050467334,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -303592,6 +303662,25 @@
       "CRJ900": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792157762180,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Global scenery - 3 months": "$7.99",
+            "Boeing 777-300ER": "$1.99",
+            "Airbus A380": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Concorde": "$1.99",
+            "Airbus A350-1000": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791173827832,
@@ -327762,6 +327851,23 @@
     "history": [
       [
         {
+          "timestamp": 1792157762180,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$9.99",
+            "Mystic Mayhem Pack": "$5.99",
+            "Sun and Spice Bundle": "$7.99",
+            "Santa Claws Pack": "$4.99",
+            "Beach Day Pack": "$5.99",
+            "Mystic Mayhem Card Back": "$0.99",
+            "Kitchen Chaos Pack": "$5.99",
+            "MysticMayhem Cauldron Creature": "$1.99",
+            "Slice of Heaven Outfit": "$1.99",
+            "Sea Rat Outfit": "$1.99"
+          }
+        },
+        {
           "timestamp": 1792136164280,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -344790,6 +344896,25 @@
     "history": [
       [
         {
+          "timestamp": 1792157762180,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "PadLab Full App": "$7.99",
+            "PadLab Worship Complete": "$6.99",
+            "Worship Drum Collection": "$3.99",
+            "Coleção Completa de Pads": "$4.99",
+            "Worship EFX": "$0.99",
+            "Worship 808": "$0.99",
+            "Worship Cinematic": "$0.99",
+            "Worship Drum Kit 3": "$0.99",
+            "Worship Drum Kit 2": "$0.99",
+            "Worship Drum Kit 1": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792020712402,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -345310,6 +345435,25 @@
       "BLACK VAMPIRE": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792157762180,
+          "price": 3.49,
+          "formattedPrice": "$3.49",
+          "inAppPurchases": {
+            "ZOMBIE FISH": "$1.99",
+            "ORANGE & WHITE KITTY FISH": "$1.99",
+            "GHOST TRANSLUCENT": "$1.99",
+            "RED-WHITE RYUKIN": "$1.99",
+            "RED RYUKIN": "$1.99",
+            "ROBO FISH 01": "$1.99",
+            "CALICO RED/WHITE/BLACK": "$1.99",
+            "BLACK VAMPIRE": "$1.99",
+            "PANDA TELESCOPE": "$1.99",
+            "ORANGE/WHITE": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792089903909,
@@ -352374,6 +352518,25 @@
     "history": [
       [
         {
+          "timestamp": 1792157762180,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Pro Mensal": "$1.99",
+            "Elite Annual": "$7.99",
+            "1 Token Coach IA": "$0.99",
+            "3 Tokens Coach IA": "$1.99",
+            "SENSI RANKED iPhone 15 a 17 Pro Max": "$1.99",
+            "Clone de Sensi": "$0.99",
+            "SENSI iPhone 15 a 17 Pro Max": "$1.99",
+            "SENSI iPhone 13 a 14 Pro Max": "$1.99",
+            "10 Tokens Coach IA": "$4.99",
+            "SENSI RANKED iPhone 13 a 14 Pro Max": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792089903909,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -358491,7 +358654,8 @@
       "Tower Wildcat": "$4.99",
       "Hero Ignus": "$2.99",
       "Tower Alchemist": "$2.99",
-      "Gems Handful": "$2.99"
+      "Gems Handful": "$2.99",
+      "Gems Pouch": "$4.99"
     },
     "minPriceInfo": {
       "SHOWCASE OFFER 07": "$4.99",
@@ -358514,9 +358678,29 @@
       "Tower Wildcat": "$4.99",
       "Hero Ignus": "$2.99",
       "Tower Alchemist": "$2.99",
-      "Gems Handful": "$2.99"
+      "Gems Handful": "$2.99",
+      "Gems Pouch": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792157762180,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Tower Sniper": "$5.99",
+            "Tower Wildcat": "$4.99",
+            "Gems Handful": "$2.99",
+            "Hero Ignus": "$2.99",
+            "Tower Alchemist": "$2.99",
+            "Gems Pouch": "$4.99",
+            "Hero Oni": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791568819448,

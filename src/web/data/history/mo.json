@@ -55890,6 +55890,14 @@
     "history": [
       [
         {
+          "timestamp": 1792157762180,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -90252,6 +90260,25 @@
     "history": [
       [
         {
+          "timestamp": 1792157762180,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "促銷禮包5": "USD 14.99",
+            "促銷禮包4": "USD 9.99",
+            "促銷禮包3": "USD 7.99",
+            "促銷禮包2": "USD 4.99",
+            "促銷禮包1": "USD 2.99",
+            "雙倍背包": "USD 1.99",
+            "僱傭超能少年": "USD 1.99",
+            "1代套裝(3星)": "USD 1.99",
+            "雙倍獎勵": "USD 1.99",
+            "一大袋鑽石": "USD 19.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 0.29,
           "formattedPrice": "USD 0.29",
@@ -114969,19 +114996,34 @@
   },
   "1422480068": {
     "trackId": 1422480068,
-    "trackName": "Notes Writer Pro: 不止 PDF, 筆記",
+    "trackName": "Notes Writer Browser: Nautilus",
     "region": "mo",
     "maxPriceInfo": {
       "price": 12.99,
       "formattedPrice": "USD 12.99",
-      "Notes Writer Pro AI Assistant": "USD 3.99"
+      "Notes Writer Pro AI Assistant": "USD 3.99",
+      "Nautilus Pro Lifetime": "USD 12.99",
+      "Nautilus Unlock All and AI": "USD 3.49"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "USD 9.99",
-      "Notes Writer Pro AI Assistant": "USD 1.99"
+      "price": 0,
+      "formattedPrice": "免費",
+      "Notes Writer Pro AI Assistant": "USD 1.99",
+      "Nautilus Pro Lifetime": "USD 12.99",
+      "Nautilus Unlock All and AI": "USD 3.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792157762180,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Nautilus Pro Lifetime": "USD 12.99",
+            "Nautilus Unlock All and AI": "USD 3.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,
@@ -195585,6 +195627,14 @@
     "history": [
       [
         {
+          "timestamp": 1792157762180,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790267673376,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -214258,6 +214308,14 @@
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792157762180,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789661990052,

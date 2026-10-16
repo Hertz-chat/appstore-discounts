@@ -4173,10 +4173,10 @@
   {
     "trackId": 592398757,
     "region": "tw",
-    "timestamp": 1780566948389,
+    "timestamp": 1792175391583,
     "discounts": [],
-    "price": 150,
-    "formattedPrice": "$150.00",
+    "price": 220,
+    "formattedPrice": "$220.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id592398757",
     "trackName": "Grooves: Song Speed Changer",
@@ -4966,7 +4966,7 @@
   {
     "trackId": 700637744,
     "region": "tw",
-    "timestamp": 1792157762180,
+    "timestamp": 1792175391583,
     "discounts": [],
     "price": 60,
     "formattedPrice": "$60.00",
@@ -13865,6 +13865,18 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id1503556909",
     "trackName": "人生畫廊",
     "firstRecordedAt": 1782207512200
+  },
+  {
+    "trackId": 1504000687,
+    "region": "tw",
+    "timestamp": 1792175391583,
+    "discounts": [],
+    "price": 10,
+    "formattedPrice": "$10.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1504000687",
+    "trackName": "雙人遊戲 2 Player Offline Games",
+    "firstRecordedAt": 1792175391583
   },
   {
     "trackId": 1504024081,

@@ -53509,6 +53509,14 @@
     "history": [
       [
         {
+          "timestamp": 1792175391583,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1780566948389,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -61947,6 +61955,25 @@
       "VII Bundle 01": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792175391583,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Rayark Selection Vol.2": "$120.00",
+            "V.K Collection": "$120.00",
+            "被遺忘的沙漏": "$320.00",
+            "Rayark Selection Vol.1": "$120.00",
+            "Cytus Selection Vol.1": "$120.00",
+            "M2U X NICODE Collection": "$120.00",
+            "MILI Collection": "$120.00",
+            "Rayark Selection Vol.3": "$120.00",
+            "Cytus Selection Vol.2": "$120.00",
+            "Knight Iris": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792157762180,
@@ -186896,6 +186923,27 @@
           "timestamp": 1782207512200,
           "price": 60,
           "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1504000687": {
+    "name": "雙人遊戲 2 Player Offline Games",
+    "maxPriceInfo": {
+      "price": 10,
+      "formattedPrice": "$10.00"
+    },
+    "minPriceInfo": {
+      "price": 10,
+      "formattedPrice": "$10.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792175391583,
+          "price": 10,
+          "formattedPrice": "$10.00",
           "inAppPurchases": {}
         }
       ]

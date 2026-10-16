@@ -56880,6 +56880,14 @@
     "history": [
       [
         {
+          "timestamp": 1792175391583,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1780566948389,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -138462,6 +138470,23 @@
     "history": [
       [
         {
+          "timestamp": 1792175391583,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "Crop": "₺0,00",
+            "Magnifier": "₺0,00",
+            "Distortion": "₺0,00",
+            "Paint": "₺0,00",
+            "Rotate": "₺0,00",
+            "Rate": "₺0,00",
+            "Splice": "₺0,00",
+            "Chromakey": "₺0,00",
+            "Info": "₺0,00",
+            "Sticker": "₺0,00"
+          }
+        },
+        {
           "timestamp": 1792157762180,
           "price": 4.99,
           "formattedPrice": "₺4,99",
@@ -186147,6 +186172,29 @@
           "timestamp": 1782207512200,
           "price": 99.99,
           "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1504000687": {
+    "trackId": 1504000687,
+    "trackName": "2 Players 1 Device: Tabletop",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "₺19,99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "₺19,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792175391583,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
           "inAppPurchases": {}
         }
       ]

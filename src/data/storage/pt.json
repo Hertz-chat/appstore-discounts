@@ -28741,6 +28741,14 @@
     "history": [
       [
         {
+          "timestamp": 1792175391583,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1780566948389,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -85320,6 +85328,27 @@
           "timestamp": 1782207512200,
           "price": 1.99,
           "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1504000687": {
+    "name": "2 Players 1 Device: Tabletop",
+    "maxPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "0,29 €"
+    },
+    "minPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "0,29 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792175391583,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
           "inAppPurchases": {}
         }
       ]

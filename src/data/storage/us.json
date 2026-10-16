@@ -56415,6 +56415,14 @@
     "history": [
       [
         {
+          "timestamp": 1792175391583,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1780566948389,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -203254,6 +203262,27 @@
       ]
     ]
   },
+  "1504000687": {
+    "name": "2 Players 1 Device: Tabletop",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792175391583,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1504024081": {
     "name": "Fast Forward Videos -Boomerang",
     "maxPriceInfo": {
@@ -341107,6 +341136,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792175391583,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "PadLab Full App": "$7.99",
+            "Pad Mix Pro": "$1.99",
+            "Pad Pulse Pro": "$1.99",
+            "Sequencer Pro": "$2.99",
+            "Arp Pro": "$1.99",
+            "StageLab": "$5.99",
+            "Worship Pad": "$0.99",
+            "PadLab Worship Complete": "$6.99",
+            "Worship Drum Collection": "$3.99",
+            "Coleção Completa de Pads": "$4.99"
+          }
+        },
         {
           "timestamp": 1792157762180,
           "price": 2.99,

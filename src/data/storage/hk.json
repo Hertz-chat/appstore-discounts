@@ -51424,6 +51424,14 @@
     "history": [
       [
         {
+          "timestamp": 1792175391583,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1780566948389,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -67611,6 +67619,14 @@
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792175391583,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791397748865,
@@ -186084,6 +186100,27 @@
       ]
     ]
   },
+  "1504000687": {
+    "name": "雙人遊戲 2 Player Offline Games",
+    "maxPriceInfo": {
+      "price": 2,
+      "formattedPrice": "HK$ 2.00"
+    },
+    "minPriceInfo": {
+      "price": 2,
+      "formattedPrice": "HK$ 2.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792175391583,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1504024081": {
     "name": "Fast Forward Videos -Boomerang",
     "maxPriceInfo": {
@@ -280171,6 +280208,14 @@
     "history": [
       [
         {
+          "timestamp": 1792175391583,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790267673376,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
@@ -300246,6 +300291,14 @@
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792175391583,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789661990052,

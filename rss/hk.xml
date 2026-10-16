@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2026-10-16T15:09:09.650Z</updated>
+    <updated>2026-10-16T20:06:10.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008141708743680+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-16T15:09:09.650Z</updated>
+        <updated>2026-10-16T20:06:10.659Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008141708743680+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkFri, 16 Oct 2026 15:09:09 GMT</id>
+        <id>rankinghkFri, 16 Oct 2026 20:06:10 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-16T15:09:09.650Z</updated>
+        <updated>2026-10-16T20:06:10.659Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -51,13 +51,13 @@ feedId:157008141708743680+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>2342</b>
+        <b>2343</b>
       </td>
       <td>
         <b>204</b>
       </td>
       <td>
-        <b>2138</b>
+        <b>2139</b>
       </td>
       <td>
         <b>107</b>
@@ -68,13 +68,13 @@ feedId:157008141708743680+userId:73658201673997312
         <b>HK</b>
       </td>
       <td>
-        <b>2201</b>
+        <b>2202</b>
       </td>
       <td>
         <b>181</b>
       </td>
       <td>
-        <b>2020</b>
+        <b>2021</b>
       </td>
       <td>
         <b>98</b>
@@ -1378,6 +1378,23 @@ feedId:157008141708743680+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>73</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/hk/6746136017?lang=zh-CN">Astrea: Six-Sided Oracles</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -2272,6 +2289,32 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astrea: Six-Sided Oracles]]></title>
+        <id>Astrea: Six-Sided Oracles-hk-1792175391583</id>
+        <link href="https://appstore-discounts.eyelly.me/hk/6746136017?lang=zh-CN"/>
+        <updated>2026-10-16T18:29:51.583Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 88.00 → HK$ 58.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/6746136017?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/da/5f/20da5f2f-c61a-865c-2f75-eadc682721ce/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 88.00</span> → <b>
+  <strong>HK$ 58.00</strong>
+</b><span>[HK$ 48.00 ~ HK$ 88.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 58.00</b>
+</p><h2>应用描述</h2><p>
+  建立足夠強大的骰子組合，淨化阿斯特賴亞失控的腐敗並拯救星系。
+
+特色
+• 獨特的雙重「傷害」系統：腐化與淨化——《阿斯特賴亞》有一種新型的「傷害」系統。淨化可以用來傷害敵人或治療自己，而腐化可以用來傷害自己或治療敵人。使用淨化來安撫敵人，或腐化自己來釋放力量以扭轉戰局。
+• 動態生命條系統——將技能附加到生命條後，可以使用腐化來啟用這些技能並釋放強大的能力。但是要小心，如果接受了太多腐敗，你可能會被會被它消耗殆盡。
+• 不是紙牌，是骰子！——建立適合你遊戲風格的骰子組合。從超過350顆骰子和三種骰子類型中選擇：可靠安全、完美平衡或強大有風險。以高風險、高報酬為核心設計的骰子型系統。
+• 自訂骰子——編輯骰子面，以新動作來創造自己的命運，讓強大結果的機率對自己有利。
+• 在六位勇敢神諭者中選擇——每一位都擁有自己獨特的骰子組合、能力與玩法風格。從靈巧的施法者到野蠻的狂戰士，無論是喜歡讓對手挨轟求饒，還是想以智取勝，總有一位適合你。
+• 發現超過170種修改賜福——為神諭者注入獨特的被動技，產生強大的效果，將改變你的基本策略。在恆星賜福（力量較弱的被動效果）或黑洞賜福（具有不利條件的強大被動效果）之間進行選擇。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/2e/6d/652e6d9e-89e5-132d-e993-c685c7976f38/iosIphone6_7MoonieCnTrad.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/df/39/2cdf3956-ada4-9286-bbdb-17e91d88a4bc/iosIphone6_7CellariusCnTrad.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/c7/00/d9c70011-a84d-5de4-3b65-297ec619b3ae/iosIphone6_7HeveliusCnTrad.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/bd/d4/9abdd49b-3c10-e7db-bb82-e0da457c1d3f/iosIphone6_7AustraCnTrad.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/1c/bd/951cbd53-63d2-cc9e-14ca-57252b5b972b/iosIphone6_7SothisCnTrad.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/ff/00/6fff00d4-692e-2133-2fc6-8ebc8e521012/iosIphone6_7OrionCnTrad.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/ab/02/8eab02ea-7975-a7ca-485a-24cf016b2078/iosIpad13MoonieCnTrad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/69/8a/74698aeb-5c8d-a1e3-2653-4cb77c567a93/iosIpad13CellariusCnTrad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/06/53/75065331-097a-2978-aaa1-a3986eb43d1c/iosIpad13HeveliusCnTrad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/00/36/2d00362c-6503-1ffe-1b59-fe619cac3020/iosIpad13AustraCnTrad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/0c/2b/a90c2b97-2094-5059-4f63-dee8695cf19d/iosIpad13SothisCnTrad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/cc/92/09cc925d-4109-5a97-8a49-a7ba8076081b/iosIpad13OrionCnTrad.png/360x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Notes Writer Browser: Nautilus]]></title>
@@ -3237,72 +3280,5 @@ Farming Simulator 23 將於 2023 年 5 月 23 日推出，它是這款成功模�
 
 使用條款：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/39/4d/5b394dfc-82f5-ca4f-148a-fc9f190df2e6/usvisaai_APP_IPHONE_67_0.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/ff/be/93ffbe7f-b823-9981-7ba4-d8ad247827ec/usvisaai_APP_IPHONE_67_1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/0f/42/a40f42f5-1be3-d632-d64a-be4799832e56/usvisaai_APP_IPHONE_67_2.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ad/07/bcad076b-668e-3933-bf0f-2af56b336048/usvisaai_APP_IPHONE_67_3.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/d3/13/65d3132f-61c2-f72b-0d63-14f55c9dc031/usvisaai_APP_IPHONE_67_4.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/d4/6c/d4d46c20-7f9d-d1ef-6d0f-67b0514bfb98/usvisaai_APP_IPAD_PRO_3GEN_129_0.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/d2/c4/07d2c410-a5f2-a2ec-4f2e-9854830ce64b/usvisaai_APP_IPAD_PRO_3GEN_129_1.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/a2/f0/5ba2f012-7082-2741-b53a-4dfba4f5a5a3/usvisaai_APP_IPAD_PRO_3GEN_129_2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/44/c1/5e44c1b0-bc2a-720f-b9b3-474d5c7fcc84/usvisaai_APP_IPAD_PRO_3GEN_129_3.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/b2/ca/44b2ca4a-1b97-1d4b-3499-eccb58adc96e/usvisaai_APP_IPAD_PRO_3GEN_129_4.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[432 Player: Music in 432 Hz]]></title>
-        <id>432 Player: Music in 432 Hz-hk-1791916572466</id>
-        <link href="https://appstore-discounts.eyelly.me/hk/633600716?lang=zh-CN"/>
-        <updated>2026-10-13T18:36:12.466Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 48.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/633600716?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/49/7d/e3497ddf-547d-57f4-4ea3-5532f8f09fab/AppIcon-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 48.00</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ HK$ 48.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h3>App 內購買</h3><ul>
-  <li>
-    Lifetime Membership：<b>HK$ 688.00</b>
-  </li><li>
-    Yearly Membership：<b>HK$ 228.00</b>
-  </li><li>
-    Monthly Membership：<b>HK$ 32.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  432 Player plays the music you already own, retuned live from A = 440 Hz to A = 432 Hz. Nothing is converted or copied in advance: press play and hear your own songs in 432.
-
-YOUR MUSIC, RETUNED AS IT PLAYS
-• 432 Hz, or 528 mode (A = 444 Hz), switched while the song is playing
-• Two ways to retune: Pitch shift keeps the song's speed; Song speed lowers pitch and tempo together, like a turntable
-• Hold Compare to hear the original tuning and decide for yourself
-• A test tone, so you can check the tuning with any tuner
-
-A REAL MUSIC PLAYER
-• Your Music library, the Files app, iCloud Drive and folders you link
-• MP3, AAC, M4A, FLAC, WAV, AIFF and more
-• 10-band equalizer with presets and your own settings
-• Playlists, Up Next, shuffle, repeat and search
-• Lyrics from the song file or a matching .lrc file, in time with the retuned song
-• Sleep timer, AirPlay, lock screen and headphone controls
-• Designed for iPhone and iPad
-
-INCLUDED: THE ALBUM DREAMWORLD
-Twelve tracks by Ophir Paz come with the app, so there is something to play from the first minute. You can hide the album in Settings if you want only your own music.
-
-FREE TO USE
-Every feature is included for free. Free listening gives you 18 minutes of 432 or 528 Hz at a time. Then the tuning rests for one hour, and your music keeps playing at its original pitch.
-
-432 PLAYER PRO
-Pro removes the limit. One membership also unlocks 432 Player Radio, on iPhone and iPad.
-
-ALREADY BOUGHT 432 PLAYER?
-If you bought 432 Player before version 6, you keep full access for life. There is nothing you need to do.
-
-GOOD TO KNOW
-• Songs from an Apple Music subscription are protected and can't be retuned. Songs you own, bought or imported, play in 432.
-• Most recorded music is tuned to A = 440 Hz, and that is what the app assumes.
-• No account and no sign-in. Your music stays on your device.
-
-PRIVACY
-The app collects anonymous usage data and crash reports to help improve it. They are never linked to you and never used for advertising, and you can switch them off in Settings.
-
-SUBSCRIPTIONS
-432 Player Pro is offered as a monthly or a yearly subscription, and to new listeners as a one-time lifetime purchase for a limited time. Payment is charged to your Apple Account when you confirm the purchase. A subscription renews automatically unless it is cancelled at least 24 hours before the end of the current period. You can manage or cancel it in your Apple Account settings.
-
-Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-Privacy Policy: https://432player.com/privacy/
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/fb/a3/a3fba361-9c5a-579a-c05f-f4f3246a0420/01_your-music-in-432.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/92/d9/a792d96d-039a-1816-7e96-40cde500aee0/02_432-or-528.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/d0/83/33d083d7-81a9-7b8c-3efc-ea852b8bf19e/03_retuned-as-it-plays.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/0f/b9/7a0fb9d1-8bce-8c60-acb7-2de44d4689ee/04_equalizer.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/67/e1/9967e16c-7aa4-0baa-296b-41c007882d64/05_all-your-music.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/37/b0/8837b0d2-bf5c-1395-2e91-f5704e859a6c/06_lyrics.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/40/34/274034cb-96a5-70bc-a9df-03425ae31574/07_playlists.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/18/80/62188051-6c25-29e9-57b4-4187ddf50977/01_your-music-in-432.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/3e/2d/363e2dbb-98e1-fee6-01be-5a8fa667ac05/02_528-mode.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/0e/c8/630ec87b-37c3-8430-3596-7f168177c130/03_retuned-as-it-plays.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/93/e8/1b93e83b-0dba-88b4-65b5-df1ecd534a03/04_equalizer.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/28/d4/2228d4ae-63ac-631b-fdbe-5c4836ac73c9/05_all-your-music.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/1e/a2/921ea2d1-feda-b940-ba5e-aef78eb56902/06_lyrics.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/4b/cc/624bccd8-9300-b688-be64-28ad16103b6b/07_playlists.png/360x480bb.jpg" />]]></content>
     </entry>
 </feed>

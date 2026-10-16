@@ -46350,6 +46350,14 @@
     "history": [
       [
         {
+          "timestamp": 1792136164280,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789961512019,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -65203,6 +65211,14 @@
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792136164280,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791366760269,
@@ -97855,10 +97871,18 @@
       "formattedPrice": "$1.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792136164280,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792004450196,
@@ -143541,6 +143565,14 @@
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792136164280,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791173827832,
@@ -225312,6 +225344,25 @@
     "history": [
       [
         {
+          "timestamp": 1792136164280,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$9.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Word Bonanza Bundle": "$19.99",
+            "Generations Gen Z Pack": "$1.99",
+            "Midnight Bedroom Pack": "$2.99",
+            "Midnight Night Out Pack": "$2.99",
+            "Mystery Mix Pack 1": "$1.99",
+            "Ready to Roast": "$6.49",
+            "Sports and Games Pack": "$7.99",
+            "Celebrity Deck": "$6.49"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792020712402,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -249353,6 +249404,25 @@
     "history": [
       [
         {
+          "timestamp": 1792136164280,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "All Unit Groups": "$12.99",
+            "All Heroes": "$14.99",
+            "Hero Dragon Kosmos": "$6.99",
+            "Unit Group Jaegers": "$6.99",
+            "Unit Group Rebooted Ascendii": "$2.99",
+            "Hero Red Dragon": "$5.99",
+            "Hero Zhara": "$4.99",
+            "Starter Pack": "$4.99",
+            "Hero Gauntlet": "$4.99",
+            "Hero Red Dragon On Sale": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792071965226,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -273188,6 +273258,25 @@
       "五子良將": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792136164280,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "戰國七雄": "$5.99",
+            "自創武將": "$2.99",
+            "群雄爭霸": "$2.99",
+            "自創寶物": "$1.99",
+            "自創武將朝代特色兵種補丁": "$7.99",
+            "楚漢爭霸": "$5.99",
+            "終身版": "$6.99",
+            "自創地圖": "$3.99",
+            "無雙戰神": "$5.99",
+            "重振漢室": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792050467334,
@@ -327673,6 +327762,25 @@
     "history": [
       [
         {
+          "timestamp": 1792136164280,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$9.99",
+            "Sun and Spice Bundle": "$7.99",
+            "Mystic Mayhem Pack": "$5.99",
+            "Santa Claws Pack": "$4.99",
+            "Beach Day Pack": "$5.99",
+            "Kitchen Chaos Pack": "$5.99",
+            "MysticMayhem Cauldron Creature": "$1.99",
+            "Mystic Mayhem Card Back": "$0.99",
+            "Sea Rat Outfit": "$1.99",
+            "Beach Day Card back": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792115808010,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -335014,6 +335122,14 @@
     "history": [
       [
         {
+          "timestamp": 1792136164280,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -341453,6 +341569,16 @@
     "history": [
       [
         {
+          "timestamp": 1792136164280,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Unholy Fusion": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -344436,14 +344562,22 @@
     "trackName": "Aurora Tromsø",
     "region": "us",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 3.99,
+      "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792136164280,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1771305877461,
@@ -356932,6 +357066,14 @@
     "history": [
       [
         {
+          "timestamp": 1792136164280,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -357357,6 +357499,14 @@
       "Unlocked! “Akane” & “Koro”": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792136164280,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791453869385,
@@ -359315,6 +359465,52 @@
           "timestamp": 1792004450196,
           "price": 8.99,
           "formattedPrice": "$8.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6783860401": {
+    "trackId": 6783860401,
+    "trackName": "LeftPhoneAlert",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792136164280,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6807273352": {
+    "trackId": 6807273352,
+    "trackName": "J Plan - Daily Planner",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792136164280,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
           "inAppPurchases": {}
         }
       ]

@@ -21958,6 +21958,25 @@
     "history": [
       [
         {
+          "timestamp": 1792136164280,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "₺49,99",
+            "Voices": "₺49,99",
+            "Acoustic Guitars": "₺49,99",
+            "Varazdin Orchestral Mobile": "₺199,99",
+            "Sliced Beats": "₺49,99",
+            "Amped Guitar & Bass": "₺149,99",
+            "Synth Lead": "₺99,99",
+            "Synth Plucks": "₺99,99",
+            "Technocraft": "₺99,99",
+            "Hyper-Pop Mobile": "₺149,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792050467334,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -87189,10 +87208,18 @@
       "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792136164280,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792004450196,
@@ -104911,6 +104938,25 @@
       "Skywarden Unlock Pack": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792136164280,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Pile O Monkey Money Sale": "₺149,99",
+            "Monkey Money": "₺99,99",
+            "(5,000) Monkey XP": "₺19,99",
+            "Full Tower Unlock": "₺249,99",
+            "Pile O Monkey Money": "₺249,99",
+            "Vault O Monkey Money Sale": "₺299,99",
+            "Paragon Unlock": "₺249,99",
+            "Double Cash Mode": "₺399,99",
+            "Extra Monkey Money": "₺99,99",
+            "Tower and Paragon Unlock": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792089903909,
@@ -129845,6 +129891,25 @@
       "Box C 05": "₺799,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792136164280,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Xenon": "₺499,99",
+            "Miku": "₺499,99",
+            "CAPSO": "₺499,99",
+            "ConneR": "₺499,99",
+            "9 Characters": "₺1.999,99",
+            "Cherry": "₺499,99",
+            "Memory Unit [A1]": "₺249,99",
+            "Ilka": "₺499,99",
+            "JOE": "₺499,99",
+            "Nora": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791884966954,
@@ -208628,6 +208693,25 @@
       "Banger Racing Car Pack": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792136164280,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Content Bundle 1": "₺169,99",
+            "Getaway Car Pack": "₺49,99",
+            "Modified Monsters Car Pack": "₺49,99",
+            "Content Bundle 2": "₺139,99",
+            "Off-Road Car Pack": "₺49,99",
+            "Backwoods Bangers Car Pack": "₺49,99",
+            "Steel & Wheels Pack": "₺29,99",
+            "Racing Heroes Car Pack": "₺49,99",
+            "American All-Stars Car Pack": "₺49,99",
+            "Goofy Roofs Pack": "₺19,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792020712402,
@@ -290961,6 +291045,14 @@
     "history": [
       [
         {
+          "timestamp": 1792136164280,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791420216639,
           "price": 499.99,
           "formattedPrice": "₺499,99",
@@ -292051,7 +292143,8 @@
       "Spell Zapper": "₺99,99",
       "Hero Gemina": "₺149,99",
       "SHOWCASE OFFER 08": "₺249,99",
-      "Gems Handful": "₺149,99"
+      "Gems Handful": "₺149,99",
+      "ALL HEROES BUNDLE_B": "₺1.299,99"
     },
     "minPriceInfo": {
       "SHOWCASE OFFER 07": "₺249,99",
@@ -292083,10 +292176,28 @@
       "Spell Zapper": "₺99,99",
       "Hero Gemina": "₺149,99",
       "SHOWCASE OFFER 08": "₺249,99",
-      "Gems Handful": "₺149,99"
+      "Gems Handful": "₺149,99",
+      "ALL HEROES BUNDLE_B": "₺1.299,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1792136164280,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Hero Drakkan": "₺399,99",
+            "Gems Chest": "₺999,99",
+            "Hero Ashbite": "₺399,99",
+            "Spell Aspect of Sol": "₺249,99",
+            "Tower Alchemist": "₺149,99",
+            "Hero Ignus": "₺149,99",
+            "Tower Forger": "₺249,99",
+            "Tower Wildcat": "₺249,99",
+            "Gems Wagon": "₺2.499,99",
+            "ALL HEROES BUNDLE_B": "₺1.299,99"
+          }
+        },
         {
           "timestamp": 1792115808010,
           "price": 399.99,
@@ -293517,6 +293628,48 @@
           "timestamp": 1792004450196,
           "price": 499.99,
           "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6783860401": {
+    "name": "LeftPhoneAlert",
+    "maxPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792136164280,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6807273352": {
+    "name": "J Plan - Daily Planner",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792136164280,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
           "inAppPurchases": {}
         }
       ]

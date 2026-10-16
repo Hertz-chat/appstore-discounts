@@ -153237,6 +153237,25 @@
     "history": [
       [
         {
+          "timestamp": 1792115808010,
+          "price": 2.49,
+          "formattedPrice": "USD 2.49",
+          "inAppPurchases": {
+            "Content Bundle 2": "USD 7.49",
+            "Reckless Car Pack": "USD 2.49",
+            "Off-Road Car Pack": "USD 2.49",
+            "Racing Heroes Car Pack": "USD 2.49",
+            "Steel & Wheels Pack": "USD 1.59",
+            "Goofy Roofs Pack": "USD 0.79",
+            "Getaway Car Pack": "USD 2.49",
+            "American All-Stars Car Pack": "USD 2.49",
+            "Rusty Rats Car Pack": "USD 2.49",
+            "Modified Monsters Car Pack": "USD 2.49"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791986862260,
           "price": 2.49,
           "formattedPrice": "USD 2.49",

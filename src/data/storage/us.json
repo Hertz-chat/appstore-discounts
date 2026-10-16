@@ -4676,6 +4676,23 @@
     "history": [
       [
         {
+          "timestamp": 1792115808010,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Guitar & Bass Sweeteners": "$5.99",
+            "Tuning Tools": "$9.99",
+            "Harmonic Tuning": "$19.99",
+            "Bluegrass Sweeteners": "$5.99",
+            "Full Discounted Upgrade Pack": "$59.99",
+            "Extended Frequency Modes": "$4.99",
+            "Steel Guitar Sweeteners": "$14.99",
+            "Orchestral Sweeteners": "$5.99",
+            "World Sweetener Pack": "$9.99",
+            "Keyboard Sweeteners": "$19.99"
+          }
+        },
+        {
           "timestamp": 1792071965226,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -64788,6 +64805,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792115808010,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2004 Enhanced Diagnostics": "$14.99",
+            "Toyota 2017 Enhanced Diagnostics": "$14.99",
+            "Toyota 2013 Enhanced Diagnostics": "$14.99",
+            "Ford 2013 Enhanced Diagnostics": "$14.99"
+          }
+        },
         {
           "timestamp": 1792071965226,
           "price": 9.99,
@@ -324224,6 +324258,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792115808010,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Santa Claws Card Back": "$0.99",
+            "Santa Claws Pack": "$4.99",
+            "Under the Tree location": "$1.99",
+            "Santa Claws Emoji Pack": "$0.99",
+            "All Wrapped Up outfit": "$1.99",
+            "Snow Globe Outfit": "$1.99",
+            "Mystic Mayhem Location": "$0.99",
+            "MysticMayhem Cauldron Creature": "$1.99",
+            "Mystic Mayhem Emoji Pack": "$1.99",
+            "Mystic Mayhem Card Back": "$0.99"
+          }
+        },
         {
           "timestamp": 1792050467334,
           "price": 4.99,

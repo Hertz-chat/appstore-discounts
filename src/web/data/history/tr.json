@@ -32707,6 +32707,23 @@
     "history": [
       [
         {
+          "timestamp": 1792115808010,
+          "price": 109,
+          "formattedPrice": "₺109,00",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "₺20,99",
+            "Realms Monthly Subscription: You + 2 Friends": "₺10,49",
+            "Realms Plus: You + 10 Friends": "₺20,99",
+            "Minecraft Store Item 2": "₺109,00",
+            "Minecraft Store Item 6": "₺329,00",
+            "Minecraft Store Item 4": "₺219,00",
+            "Marketplace Pass Trial": "₺129,99",
+            "Minecraft Store Item 3": "₺164,99",
+            "Minecraft Store Item 10": "₺559,99",
+            "Minecraft Store Item 5": "₺269,99"
+          }
+        },
+        {
           "timestamp": 1792106595136,
           "price": 109,
           "formattedPrice": "₺109,00",
@@ -165535,6 +165552,25 @@
     "history": [
       [
         {
+          "timestamp": 1792115808010,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "Transylvania Dice": "₺249,99",
+            "The Complete Collection": "₺1.999,99",
+            "The Dragon": "₺199,99",
+            "Victorian London Board": "₺399,99",
+            "Welcome Offer": "₺999,99",
+            "Lava Dice": "₺249,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792050467334,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -281337,6 +281373,23 @@
     "history": [
       [
         {
+          "timestamp": 1792115808010,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "passatb8": "₺49,99",
+            "5 ticket": "₺19,99",
+            "5 gold": "₺19,99",
+            "sonsuz paket": "₺249,99",
+            "15 ticket": "₺29,99",
+            "30000 money": "₺19,99",
+            "15 gold": "₺29,99",
+            "10 ticket": "₺29,99",
+            "25 gold": "₺49,99",
+            "porches": "₺49,99"
+          }
+        },
+        {
           "timestamp": 1792106595136,
           "price": 0,
           "formattedPrice": "Free",
@@ -296323,6 +296376,25 @@
       "Gems Handful": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792115808010,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Hero Drakkan": "₺399,99",
+            "Gems Chest": "₺999,99",
+            "Hero Ashbite": "₺399,99",
+            "Tower Alchemist": "₺149,99",
+            "Spell Aspect of Sol": "₺249,99",
+            "Hero Ignus": "₺149,99",
+            "Tower Forger": "₺249,99",
+            "Tower Wildcat": "₺249,99",
+            "Gems Wagon": "₺2.499,99",
+            "ALL TOWERS BUNDLE": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792089903909,

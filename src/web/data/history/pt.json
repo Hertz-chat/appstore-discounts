@@ -21000,6 +21000,14 @@
     "history": [
       [
         {
+          "timestamp": 1792106595136,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789945234659,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -31776,6 +31784,14 @@
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792106595136,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791332575449,
@@ -64476,6 +64492,14 @@
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792106595136,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791157842787,
@@ -101471,6 +101495,25 @@
       "French Audio": "0,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792106595136,
+          "price": 14.49,
+          "formattedPrice": "14,49 €",
+          "inAppPurchases": {
+            "German Audio": "0,00 €",
+            "Tales of Valor - Russian": "0,00 €",
+            "Tales of Valor": "0,00 €",
+            "Tales of Valor - Spanish": "0,00 €",
+            "Opposing Fronts - French": "0,00 €",
+            "Opposing Fronts - Spanish": "0,00 €",
+            "Tales of Valor - French": "0,00 €",
+            "Invasion of Normandy 6-10": "0,00 €",
+            "High-Quality Models": "0,00 €",
+            "French Audio": "0,00 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791752970806,
@@ -139648,14 +139691,22 @@
     "trackName": "Aurora Tromsø",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792106595136,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1771305877461,

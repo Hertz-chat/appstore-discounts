@@ -91794,6 +91794,23 @@
     "history": [
       [
         {
+          "timestamp": 1792106595136,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "白金方案（每三個月續訂）": "$360.00",
+            "白金方案（每月續訂）": "$150.00",
+            "支線第一章": "$120.00",
+            "擴充章節 R": "$120.00",
+            "擴充章節B": "$120.00",
+            "擴充章節 U": "$120.00",
+            "主線第八章": "$300.00",
+            "擴充章節 I": "$120.00",
+            "一小瓶迴響之核": "$33.00",
+            "支線第二章": "$120.00"
+          }
+        },
+        {
           "timestamp": 1792089903909,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -260445,13 +260462,13 @@
       "Germany Carriage A": "$60.00",
       "Germany Locomotive B": "$60.00",
       "Germany Locomotive A": "$60.00",
-      "Europe Character Bundle": "$90.00",
-      "Bertie Hawkes": "$60.00",
-      "Rocket Locomotive": "$60.00",
-      "Erika Ford": "$60.00",
-      "Lumberjack Carriage": "$60.00",
-      "Oil Baron carriage": "$60.00",
-      "Dolomite Dynamite": "$60.00",
+      "Europe Character Bundle": "$150.00",
+      "Bertie Hawkes": "$90.00",
+      "Rocket Locomotive": "$90.00",
+      "Erika Ford": "$90.00",
+      "Lumberjack Carriage": "$90.00",
+      "Oil Baron carriage": "$90.00",
+      "Dolomite Dynamite": "$90.00",
       "Germany Expansion": "$220.00",
       "Germany Character Bundle": "$90.00",
       "Neue Höhen": "$60.00",
@@ -260524,6 +260541,25 @@
       "Ticket to Ride ChristmasBundle": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792106595136,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Europe Character Bundle": "$150.00",
+            "Bertie Hawkes": "$90.00",
+            "Rocket Locomotive": "$90.00",
+            "Round the World Ticket": "$1,490.00",
+            "Erika Ford": "$90.00",
+            "Europe Expansion": "$490.00",
+            "Europe Map": "$390.00",
+            "Lumberjack Carriage": "$90.00",
+            "Oil Baron carriage": "$90.00",
+            "Dolomite Dynamite": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791718980381,

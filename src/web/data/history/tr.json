@@ -32707,6 +32707,25 @@
     "history": [
       [
         {
+          "timestamp": 1792106595136,
+          "price": 109,
+          "formattedPrice": "₺109,00",
+          "inAppPurchases": {
+            "City Folk - Skin Pack": "₺99,99",
+            "Town Folk - Skin Pack": "₺99,99",
+            "Halloween - Skin Pack": "₺99,99",
+            "Biome Settlers - Skin Pack": "₺99,99",
+            "Holiday 2015 - Skin Pack": "₺99,99",
+            "Redstone Specialists - Skin Pack": "₺99,99",
+            "Journey to the West - Skin Pack": "₺99,99",
+            "Story Mode - Skin Pack": "₺149,99",
+            "Biome Settlers - Skin Pack 2": "₺99,99",
+            "Realms Plus: You + 10 Friends": "₺20,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791884966954,
           "price": 109,
           "formattedPrice": "₺109,00",
@@ -45268,6 +45287,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792106595136,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789945234659,
@@ -63557,6 +63584,14 @@
       "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792106595136,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791332575449,
@@ -131205,6 +131240,14 @@
       "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792106595136,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791157842787,
@@ -281255,7 +281298,9 @@
       "75000 money": "₺29,99",
       "30 gold": "₺49,99",
       "50 gold": "₺99,99",
-      "200000 money": "₺49,99"
+      "200000 money": "₺49,99",
+      "500000 money": "₺99,99",
+      "1000000 money": "₺149,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -281285,9 +281330,30 @@
       "75000 money": "₺29,99",
       "30 gold": "₺49,99",
       "50 gold": "₺99,99",
-      "200000 money": "₺49,99"
+      "200000 money": "₺49,99",
+      "500000 money": "₺99,99",
+      "1000000 money": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792106595136,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "30000 money": "₺19,99",
+            "50000 money": "₺29,99",
+            "200000 money": "₺49,99",
+            "10 ticket": "₺29,99",
+            "15 ticket": "₺29,99",
+            "75000 money": "₺29,99",
+            "100000 money": "₺39,99",
+            "500000 money": "₺99,99",
+            "1000000 money": "₺149,99",
+            "5 ticket": "₺19,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791986862260,
@@ -285982,14 +286048,22 @@
     "trackName": "Aurora Tromsø",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
     },
     "minPriceInfo": {
       "price": 149.99,
       "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792106595136,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1771305877461,

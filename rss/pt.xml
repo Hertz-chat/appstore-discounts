@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2026-10-17T14:11:30.557Z</updated>
+    <updated>2026-10-17T19:05:19.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-17T14:11:30.557Z</updated>
+        <updated>2026-10-17T19:05:19.125Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptSat, 17 Oct 2026 14:11:30 GMT</id>
+        <id>rankingptSat, 17 Oct 2026 19:05:19 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-17T14:11:30.557Z</updated>
+        <updated>2026-10-17T19:05:19.125Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -1394,6 +1394,23 @@ feedId:206907475259680768+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>73</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/6759970821?lang=en">Dungeon Merge!</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -1703,6 +1720,114 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dungeon Merge!]]></title>
+        <id>Dungeon Merge!-pt-1792258533888</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/6759970821?lang=en"/>
+        <updated>2026-10-17T17:35:33.888Z</updated>
+        <summary type="html"><![CDATA[Price: 2,99 € → 0,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6759970821?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/27/e7/0227e7a9-97f7-ec82-6aa0-43f6b8fd2606/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>2,99 €</span> → <b>
+  <strong>0,99 €</strong>
+</b><span>[0,29 € ~ 3,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>0,99 €</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    120 Diamonds：<b>3,99 €</b>
+  </li><li>
+    Starter Pack 1：<b>1,99 €</b>
+  </li><li>
+    4000 Diamonds：<b>99,99 €</b>
+  </li><li>
+    50 Diamonds：<b>1,99 €</b>
+  </li><li>
+    16 Base Heroes Unlock Pack：<b>44,99 €</b>
+  </li><li>
+    700 Diamonds：<b>22,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Dominate the dungeon. Or let it dominate you.
+
+A turn-based deckbuilding roguelite — Dungeon Merge!
+Every run, a different strategy. A different hero. A different ending.
+
+■ Unique Heroes — Not just different stats. A completely different way to play.
+
+Assassin: Double damage to a single target. Pick one. Make it count.
+Engineer: Stack shields, then unleash devastating area attacks. Defense is offense.
+Gambler: Free level-up rerolls. When luck becomes strategy.
+Noble: +1 level-up choice, gold-powered leveling at shrines. Money is your weapon.
+
+…Every hero demands a different strategy.
+
+■ Diverse Skill Cards — Not collection. Combination. Your deck is your strategy.
+
+Chain Lightning: Hit up to 3 enemies in a chain
+Double Cast: Trigger the same skill twice in a row
+Replicate: Copy any card in your deck on the spot
+
+Skill grades: Common → Rare → Epic → Legendary
+Upgrade cards mid-combat and discover powerful combinations.
+
+■ Powerful Relics — Sometimes a single relic changes everything.
+
+Chalice: Revive once with 50% HP upon death
+Shard of Collapse: For the next 3 battles, all non-boss enemies start with 1 HP
+Shackles of Binding: +1 mana per turn, but shop prices increase by 25%
+Sanctuary Lantern: Fully restore HP whenever you enter a shop
+
+■ Distinct Enemies — Every battle is a new puzzle. Read the pattern or die.
+
+Treasure Goblin: Escapes after 7 turns if you fail to defeat it
+Snowman: Freezes you for 1 turn
+Crow: Forces you to discard a random card from your hand
+
+Face powerful bosses with unique attack patterns and multiple phases.
+
+■ Seal System — The real challenge starts here.
+
+Normal mode is only the beginning.
+As you unlock more Seals, increasingly brutal challenges await.
+
+Combine Trials and Contracts to design your own difficulty.
+Only a handful of players will conquer the hardest combinations.
+
+■ Challenge Mode — New rules. New competition. Every week.
+
+Face rotating Grand Pacts and Trials each week.
+Discover powerful builds under unfamiliar rules where old strategies may no longer work.
+
+Compete with other players for the highest score and climb the weekly rankings.
+Clear the final region of a Challenge to unlock Endless Battle.
+
+How long can you survive against enemies that never stop growing stronger?
+
+■ Endless Replayability
+
+3 regions × 11 floors — procedurally generated every run
+Battle, Event, Elite, Shrine, Shop — diverse room types
+Different maps, enemy combinations, and card rewards every time
+
+Even with the same hero, no two adventures are alike.
+
+■ Features
+
+Turn-based strategy + deckbuilding roguelite
+Unique heroes, skills, relics, and enemies
+Seal System — customize difficulty with Trials and Contracts
+Challenge Mode — weekly rules and competitive rankings
+Endless Battle — push your limits against endless enemies
+Procedurally generated dungeons
+Multiple languages supported
+Cloud save
+
+Tear the dungeon apart with your own strategy.
+One run is never enough.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/a1/5d/eea15d50-f840-533b-fe20-3f2a84fd85d3/screenshot_1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/66/46/416646d4-3dc5-0ee5-c8bb-56dbf47d49af/screenshot_2.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/3e/ae/1f3eae22-a560-0e4b-7a0f-e9a724ef1fdc/screenshot_3.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/41/3d/fe413d92-2a51-37c6-78bb-7544026e3b59/screenshot_5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/de/b4/63deb4a4-1e09-288a-c95a-5a48f62a7ab2/screenshot_6.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/22/fb/9a22fb59-febd-3fe5-01dd-543c676810ac/screenshot_4.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/2d/fd/ae2dfdea-8f80-35ff-690a-df843e0c9cd1/screenshot_7.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/cd/72/a6cd7202-4c3c-4857-afe4-3dbc01a78809/iPad2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/d5/e8/5bd5e8a8-5bc6-b8b1-8c10-43596a15e5bf/iPad3.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/37/e8/1137e8a7-7aa2-4f45-30b3-5031029547e8/iPad4.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/c7/84/77c784f1-e895-002f-f835-7f48407dd944/iPad5.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/30/13/ea30130a-3d13-8575-2891-767deea9cbb8/iPad6.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/ff/ca/dfffca9c-09b4-bb53-3d6a-7a916899cd97/iPad7.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/a2/dc/d0a2dcb9-b709-c1a3-6227-6983ef0b3158/iPad1.png/360x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Watch Web Browser]]></title>
@@ -2544,33 +2669,5 @@ Não te preocupes! Há sempre tempo para relaxar e passear pelos vastos terrenos
 
 Os novos tutoriais no jogo mostram-te os cantos à quinta se a vida no campo for uma novidade para ti. Começa a exploração agrícola onde quer que vás e diverte-te!
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ad/b1/11/adb11111-275c-e3f2-efd1-755e9d7c4f5f/d0f88bbb-07d8-481a-858b-3435ace3486a_iPhone5.5-01Machines.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9f/5f/cf/9f5fcf35-5665-239f-024f-eaae1d9835a9/4fa4e610-68b1-4bc0-a666-1a2feb91e815_iPhone5.5-03Production.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8b/2f/fd/8b2ffdb6-da61-2f57-bfb5-17bf10f3b804/046b3737-d5b2-4b2d-b077-0535865246d6_iPhone5.5-06Animals.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2c/e3/7c/2ce37ca0-3ea8-be7b-f22c-cba7f258464d/9df1acb2-8177-4d74-9d6d-34f91db92458_iPhone5.5-05Maps.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9d/bf/41/9dbf41c0-b3f1-0efa-741d-e9417c1a8217/94196d3d-f8f4-463f-bb8b-19baf91d23fb_iPhone5.5-sorghum.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/35/dd/6c/35dd6c0b-ac6b-a200-b8af-60d6843d80b8/b4c3ef23-ab83-4d67-b527-590619e32187_iPhone5.5-grapes.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/5b/ca/02/5bca02b5-eae2-47db-531c-5f769d7d5ec5/f819b99c-dac0-4759-bc25-7e2df5f7f9de_iPhone5.5-seeder.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/2c/19/98/2c19984a-d8db-69a0-2c19-5a69aa70f242/3c367831-d5a7-4064-9d93-2eb311ce188c_iPhone5.5-horse.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4e/74/47/4e744772-8de5-8218-f69f-f144842ec21c/6e8b1d05-6ab0-4b93-9be6-03501f387a8a_iPhone5.5-macktrucks.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8b/e6/47/8be6478b-2901-d20e-87b5-76c479b4fc9d/6b9e543f-e822-48b7-962b-45be7b116676_iPad-01Machines.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/46/d7/bb/46d7bb76-7549-2004-db89-1f2af77a3eed/25e30d22-3cb7-442a-a0e9-c722f8cbd350_iPad-03Production.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ea/52/0d/ea520d94-2b68-b38f-9970-d5460f08be1e/d006148f-55a6-4c25-9cdb-0fb50c2eeb05_iPad-06Animals.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8b/82/d0/8b82d02f-c680-4004-9d2e-91d2d4d70d4e/1f119ef1-cbaf-431c-8f32-c17a282848c2_iPad-05Maps.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ae/80/e7/ae80e75c-1d8c-f397-15a7-5ef9e55c2890/d4553306-1cee-43eb-8d70-fb248e6168e9_iPhad-sorghum.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/34/ef/30/34ef3055-b5a4-a769-cdd7-d335423e4519/6d93e9ce-bd60-4bdf-9ad5-f3ffbb75f695_iPad-grapes.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f3/5c/b1/f35cb150-a848-cd69-d7e6-788bf03c7a9f/3473b47c-2683-4dc6-ac6b-825884333726_iPad-seeder.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/01/2f/8f/012f8fc2-c1c7-2623-cb2d-979265647b45/f75ccfd6-0666-4a6b-8d3f-81aae98a7856_iPad-horse.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e4/1a/47/e41a47ae-16ea-4f12-c592-edd2536898bd/6995cba4-3e4e-49aa-a37c-10b19f01d5dd_iPad-macktrucks.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch Tuner Lite]]></title>
-        <id>Watch Tuner Lite-pt-1792004450196</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/968820626?lang=en"/>
-        <updated>2026-10-14T19:00:50.196Z</updated>
-        <summary type="html"><![CDATA[Price: 1,99 € → 0,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/968820626?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/55/27/7655271f-8938-6bda-66f9-bc118c69086d/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>1,99 €</span> → <b>
-  <strong>0,99 €</strong>
-</b><span>[0,99 € ~ 1,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>0,99 €</b>
-</p><h2>Application Description</h2><p>
-  Watch Tuner Lite measures the accuracy of mechanical and automatic watches. It uses the built-in microphone or headset microphone to record the audible tick of the watch and calculates the seconds-per-day deviation. Works with almost any 'ticking' watch/clock.
-
-Use in a quiet environment. Any ambient noise can affect the accuracy of the results. Complete silence is best.
-
-Recommended way to record the ticks is to touch the crown of the watch with the headset microphone. You will get the best results using original Apple EarPods.
-
-This is a simple version of Watch Tuner application. Not everyone needs detailed information about a watch movement, sometimes only accuracy is important. Watch Tuner Lite uses very similar algorithm like Watch Tuner does but displays only seconds-per-day deviation.
-
-If you want to know how much your watch is fast or slow, this application is for you.
-If you prefer to measure also beat error and amplitude, try Watch Tuner - a bigger brother of this app.
-If you need frequency diagram look at Watch Tuner Timegrapher - the most sophisticated app of Watch Tuner series.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/36/10/f2361086-ca63-b1ac-9499-f9127601b895/wt_lite.jpeg/320x480bb.jpg" />]]></content>
     </entry>
 </feed>

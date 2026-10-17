@@ -357659,6 +357659,21 @@
     "history": [
       [
         {
+          "timestamp": 1792258533888,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "120 Diamonds": "$3.99",
+            "Starter Pack 1": "$1.99",
+            "4000 Diamonds": "$99.99",
+            "50 Diamonds": "$1.99",
+            "16 Base Heroes Unlock Pack": "$39.99",
+            "700 Diamonds": "$19.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792050467334,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -358982,6 +358997,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792258533888,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Drakkan": "$6.99",
+            "Hero Ashbite": "$6.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Tower Sniper": "$5.99",
+            "Tower Wildcat": "$4.99",
+            "Tower Alchemist": "$2.99",
+            "Gems Handful": "$2.99",
+            "Hero Ignus": "$2.99",
+            "Gems Pouch": "$4.99",
+            "ALL SPELLS BUNDLE": "$12.99"
+          }
+        },
         {
           "timestamp": 1792240324701,
           "price": 6.99,

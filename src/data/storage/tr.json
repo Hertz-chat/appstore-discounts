@@ -32293,6 +32293,23 @@
     "history": [
       [
         {
+          "timestamp": 1792258533888,
+          "price": 109,
+          "formattedPrice": "₺109,00",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "₺20,99",
+            "Realms Monthly Subscription: You + 2 Friends": "₺10,49",
+            "Realms Plus: You + 10 Friends": "₺20,99",
+            "Minecraft Store Item 2": "₺109,00",
+            "Minecraft Store Item 6": "₺329,00",
+            "Minecraft Store Item 4": "₺219,00",
+            "Minecraft Store Item 3": "₺164,99",
+            "Marketplace Pass Trial": "₺129,99",
+            "Minecraft Store Item 10": "₺559,99",
+            "Minecraft Store Item 5": "₺269,99"
+          }
+        },
+        {
           "timestamp": 1792191938096,
           "price": 109,
           "formattedPrice": "₺109,00",
@@ -53857,6 +53874,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792258533888,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "Tower Unlock All Upgrades": "₺49,99",
+            "Pile O' Monkey Money": "₺149,99",
+            "Bundle O' Monkey Money": "₺149,99",
+            "500 Monkey Money": "₺49,99",
+            "Vault O' Tokens": "₺499,99",
+            "Double Cash Mode": "₺499,99",
+            "Vault O' Monkey Money": "₺999,99",
+            "Rank Up": "₺49,99",
+            "Bigger Beacons": "₺49,99"
+          }
+        },
         {
           "timestamp": 1792240324701,
           "price": 149.99,
@@ -115750,6 +115783,25 @@
       "Coupé Style Pack": "₺0,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792258533888,
+          "price": 349,
+          "formattedPrice": "₺349,00",
+          "inAppPurchases": {
+            "HD Textures": "₺0,00",
+            "Party Mode HD Textures": "₺0,00",
+            "Street HD Textures": "₺0,00",
+            "Tuner HD Textures": "₺0,00",
+            "Open Wheel HD Textures": "₺0,00",
+            "Endurance HD Textures": "₺0,00",
+            "Touring HD Textures": "₺0,00",
+            "All DLC": "₺0,00",
+            "Black Edition Pack": "₺0,00",
+            "Best of British Pack": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789470674397,
@@ -236662,6 +236714,25 @@
     "history": [
       [
         {
+          "timestamp": 1792258533888,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "Monthly": "₺99,99",
+            "Yearly": "₺499,99",
+            "Bella": "₺99,99",
+            "Calico Theme": "₺99,99",
+            "Orange Theme": "₺99,99",
+            "Simba": "₺99,99",
+            "Siamese Theme": "₺99,99",
+            "Coco": "₺99,99",
+            "City Night Theme": "₺99,99",
+            "Blue Sky Theme": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791420216639,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -291185,6 +291256,21 @@
       "700 Diamonds": "₺999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792258533888,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "120 Diamonds": "₺199,99",
+            "Starter Pack 1": "₺99,99",
+            "4000 Diamonds": "₺4.999,99",
+            "50 Diamonds": "₺99,99",
+            "16 Base Heroes Unlock Pack": "₺1.999,99",
+            "700 Diamonds": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792050467334,

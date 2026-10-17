@@ -60792,6 +60792,23 @@
     "history": [
       [
         {
+          "timestamp": 1792266405252,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {
+            "Toyota 2021 Enhanced": "$490.00",
+            "Mazda 2017 Enhanced": "$490.00",
+            "Mazda 2024 Enhanced": "$490.00",
+            "Nissan 2012 Enhanced": "$490.00",
+            "Ford 2017 Enhanced": "$490.00",
+            "Mazda 2016 Enhanced Diagnostics": "$490.00",
+            "Ford 2013 Enhanced Diagnostics": "$490.00",
+            "Ford 2026 Enhanced": "$490.00",
+            "Mazda 2026 Enhanced": "$490.00",
+            "Mazda 2025 Enhanced": "$490.00"
+          }
+        },
+        {
           "timestamp": 1792258533888,
           "price": 320,
           "formattedPrice": "$320.00",
@@ -116859,6 +116876,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792266405252,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "功能禮包": "$120.00",
+            "綜合禮包": "$490.00",
+            "自動禮包": "$490.00",
+            "戒指禮包": "$790.00",
+            "寶石300個": "$120.00",
+            "魔法禮包": "$290.00",
+            "寶石180個": "$90.00",
+            "魅魔禮包": "$1,290.00",
+            "寶石660個": "$290.00",
+            "覺醒禮包": "$1,290.00"
+          }
+        },
         {
           "timestamp": 1792258533888,
           "price": 30,
@@ -297163,7 +297197,7 @@
     ]
   },
   "6744650366": {
-    "name": "MyScoreTracker – 計分器",
+    "name": "MyScoreTracker 桌遊計分",
     "maxPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00"

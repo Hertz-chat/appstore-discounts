@@ -65642,6 +65642,23 @@
     "history": [
       [
         {
+          "timestamp": 1792266405252,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2013 Enhanced Diagnostics": "$14.99",
+            "Toyota 2017 Enhanced Diagnostics": "$14.99",
+            "Toyota 2005 Enhanced Diagnostics": "$14.99",
+            "Ford 2004 Enhanced Diagnostics": "$14.99"
+          }
+        },
+        {
           "timestamp": 1792221339483,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -337829,7 +337846,7 @@
   },
   "6744650366": {
     "trackId": 6744650366,
-    "trackName": "MyScoreTracker – Score Counter",
+    "trackName": "MyScoreTracker: Board Games",
     "region": "us",
     "maxPriceInfo": {
       "price": 0.99,

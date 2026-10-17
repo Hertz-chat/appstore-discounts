@@ -32745,6 +32745,23 @@
     "history": [
       [
         {
+          "timestamp": 1792266405252,
+          "price": 109,
+          "formattedPrice": "₺109,00",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "₺20,99",
+            "Realms Monthly Subscription: You + 2 Friends": "₺10,49",
+            "Realms Plus: You + 10 Friends": "₺20,99",
+            "Minecraft Store Item 2": "₺109,00",
+            "Minecraft Store Item 6": "₺329,00",
+            "Minecraft Store Item 4": "₺219,00",
+            "Minecraft Store Item 3": "₺164,99",
+            "Marketplace Pass Trial": "₺129,99",
+            "Minecraft Store Item 10": "₺559,99",
+            "Minecraft Store Item 1": "₺53,99"
+          }
+        },
+        {
           "timestamp": 1792258533888,
           "price": 109,
           "formattedPrice": "₺109,00",
@@ -117337,6 +117354,20 @@
     "history": [
       [
         {
+          "timestamp": 1792266405252,
+          "price": 349,
+          "formattedPrice": "₺349,00",
+          "inAppPurchases": {
+            "All DLC": "₺0,00",
+            "HD Textures": "₺0,00",
+            "Best of British Pack": "₺0,00",
+            "Black Edition Pack": "₺0,00",
+            "Road & Track Pack": "₺0,00",
+            "Drag Pack": "₺0,00",
+            "Sprint Pack": "₺0,00"
+          }
+        },
+        {
           "timestamp": 1792258533888,
           "price": 349,
           "formattedPrice": "₺349,00",
@@ -131759,6 +131790,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792266405252,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Kizuna AI": "₺499,99",
+            "Kizuna AI Extend 2026": "₺249,99",
+            "Xenon": "₺499,99",
+            "Miku": "₺499,99",
+            "CAPSO": "₺499,99",
+            "ConneR": "₺499,99",
+            "9 Characters": "₺1.999,99",
+            "Cherry": "₺499,99",
+            "Memory Unit [A1]": "₺249,99",
+            "Ilka": "₺499,99"
+          }
+        },
         {
           "timestamp": 1792240324701,
           "price": 99.99,
@@ -239858,6 +239906,23 @@
     "history": [
       [
         {
+          "timestamp": 1792266405252,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "Jingle": "₺149,99",
+            "2025 Forest Theme": "₺99,99",
+            "2025 Lawn Theme": "₺129,99",
+            "2025 Flower Theme": "₺99,99",
+            "Lawn Theme": "₺99,99",
+            "Toby": "₺99,99",
+            "Gizmo": "₺99,99",
+            "Lucky": "₺99,99",
+            "Loki": "₺99,99",
+            "Civet Theme": "₺99,99"
+          }
+        },
+        {
           "timestamp": 1792258533888,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -248957,6 +249022,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792266405252,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Boeing 777-300ER": "₺99,99",
+            "UH-60": "₺49,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 787-10": "₺99,99",
+            "Airbus A350-1000": "₺199,99",
+            "Boeing 737-800": "₺149,99",
+            "Concorde": "₺99,99",
+            "The Aircraft Bundle": "₺1.299,99"
+          }
+        },
         {
           "timestamp": 1792221339483,
           "price": 199.99,
@@ -278032,7 +278114,7 @@
   },
   "6744650366": {
     "trackId": 6744650366,
-    "trackName": "MyScoreTracker – Score Counter",
+    "trackName": "MyScoreTracker: Board Games",
     "region": "tr",
     "maxPriceInfo": {
       "price": 49.99,

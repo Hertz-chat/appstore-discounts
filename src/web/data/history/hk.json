@@ -22427,6 +22427,24 @@
     "history": [
       [
         {
+          "timestamp": 1792201899634,
+          "price": 118,
+          "formattedPrice": "HK$ 118.00",
+          "inAppPurchases": {
+            "FL Cloud Mobile": "HK$ 38.00",
+            "Ferrous Mobile": "HK$ 22.00",
+            "Hyper-Pop Mobile": "HK$ 22.00",
+            "Chip-Tune Mobile": "HK$ 22.00",
+            "Essential Winds": "HK$ 18.00",
+            "Essential Strings": "HK$ 18.00",
+            "DubTechno": "HK$ 18.00",
+            "Chill-Lo-Fi Mobile": "HK$ 18.00",
+            "Technocraft": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791290979408,
           "price": 118,
           "formattedPrice": "HK$ 118.00",
@@ -306336,9 +306354,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Keeps Pro": "HK$ 44.00"
+      "Keeps Pro": "HK$ 9.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792201899634,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Keeps Pro": "HK$ 9.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790901150979,

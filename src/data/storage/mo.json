@@ -211882,9 +211882,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Keeps Pro": "USD 4.99"
+      "Keeps Pro": "USD 1.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792201899634,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Keeps Pro": "USD 1.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790885290521,

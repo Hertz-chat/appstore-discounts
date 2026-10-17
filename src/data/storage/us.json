@@ -246676,6 +246676,23 @@
     "history": [
       [
         {
+          "timestamp": 1792201899634,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "All Unit Groups": "$12.99",
+            "All Heroes": "$14.99",
+            "Hero Dragon Kosmos": "$6.99",
+            "Unit Group Jaegers": "$6.99",
+            "Unit Group Rebooted Ascendii": "$2.99",
+            "Hero Red Dragon": "$5.99",
+            "Hero Zhara": "$4.99",
+            "Starter Pack": "$4.99",
+            "Hero Gauntlet": "$4.99",
+            "Special Daily Pack7": "$1.99"
+          }
+        },
+        {
           "timestamp": 1792136164280,
           "price": 2.99,
           "formattedPrice": "$2.99",

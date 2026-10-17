@@ -3402,10 +3402,10 @@
   {
     "trackId": 563082328,
     "region": "pt",
-    "timestamp": 1789575216572,
+    "timestamp": 1792221339483,
     "discounts": [],
-    "price": 0,
-    "formattedPrice": "Gratuito",
+    "price": 6.99,
+    "formattedPrice": "6,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id563082328",
     "trackName": "Military Retirement",
@@ -5972,13 +5972,13 @@
   {
     "trackId": 944118456,
     "region": "pt",
-    "timestamp": 1786367132304,
+    "timestamp": 1792221339483,
     "discounts": [],
-    "price": 2.99,
-    "formattedPrice": "2,99 €",
+    "price": 7.99,
+    "formattedPrice": "7,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id944118456",
-    "trackName": "EXIF Viewer by Fluntro",
+    "trackName": "EXIF Viewer: metadados",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -8591,7 +8591,7 @@
   {
     "trackId": 1179421849,
     "region": "pt",
-    "timestamp": 1792201899634,
+    "timestamp": 1792221339483,
     "discounts": [],
     "price": 7.79,
     "formattedPrice": "7,79 €",
@@ -14131,7 +14131,7 @@
   {
     "trackId": 1555184523,
     "region": "pt",
-    "timestamp": 1792201899634,
+    "timestamp": 1792221339483,
     "discounts": [],
     "price": 8.99,
     "formattedPrice": "8,99 €",
@@ -15021,7 +15021,7 @@
   {
     "trackId": 1592505377,
     "region": "pt",
-    "timestamp": 1792201899634,
+    "timestamp": 1792221339483,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "2,99 €",

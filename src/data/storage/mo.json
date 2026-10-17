@@ -34374,6 +34374,25 @@
     "history": [
       [
         {
+          "timestamp": 1792221339483,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Necroa病毒擴展包": "USD 1.99",
+            "解鎖全部基因": "USD 7.99",
+            "瘟疫配套": "USD 12.99",
+            "Neurax蠕蟲擴展包": "USD 1.99",
+            "解鎖七個基礎病原體": "USD 2.99",
+            "解開作弊模式": "USD 9.99",
+            "猿猴流感擴充包": "USD 1.99",
+            "場景包": "USD 2.99",
+            "紅魔瘟疫擴展包": "USD 1.99",
+            "解鎖生化武器": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790134270308,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -40136,6 +40155,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792221339483,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790828594798,
@@ -63361,16 +63388,24 @@
     ]
   },
   "944118456": {
-    "name": "Exif Viewer by Fluntro",
+    "name": "EXIF Viewer：照片中繼資料",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792221339483,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786367132304,
@@ -104418,6 +104453,25 @@
     "history": [
       [
         {
+          "timestamp": 1792221339483,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "6480心动包": "USD 99.99",
+            "3280心动包": "USD 49.99",
+            "1980心动包": "USD 29.99",
+            "1280心动包": "USD 19.99",
+            "980心动包": "USD 14.99",
+            "680心动包": "USD 9.99",
+            "300心动包": "USD 3.99",
+            "180心动包": "USD 2.99",
+            "60心动包": "USD 0.99",
+            "120心动包": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791773850972,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -126826,6 +126880,25 @@
       "《欧·亨利短篇小说精选》": "USD 5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792221339483,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "大学英语_外刊精读 | 2025年度TOP100精选": "USD 29.99",
+            "VIP连续包月": "USD 3.99",
+            "肖维青英文原著精读课-纳尼亚传奇篇": "USD 29.99",
+            "大学英语_外刊精读 | 2021年度TOP100精选": "USD 29.99",
+            "大学英语_外刊精读 | 2022年度TOP100精选": "USD 29.99",
+            "大学英语_外刊精读 | 2024年度TOP100精选": "USD 29.99",
+            "林小鹿英语精读（1-7季合集升级版）": "USD 69.99",
+            "大学英语_外刊精读 | 2023年度TOP100精选": "USD 29.99",
+            "林小鹿经济学人精读": "USD 19.99",
+            "精听党 | 英语六级真题精品课": "USD 7.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791131403610,

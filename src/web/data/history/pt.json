@@ -27718,6 +27718,14 @@
     "history": [
       [
         {
+          "timestamp": 1792221339483,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789575216572,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -41841,17 +41849,25 @@
   },
   "944118456": {
     "trackId": 944118456,
-    "trackName": "EXIF Viewer by Fluntro",
+    "trackName": "EXIF Viewer: metadados",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792221339483,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786367132304,
@@ -59072,6 +59088,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792221339483,
+          "price": 7.79,
+          "formattedPrice": "7,79 €",
+          "inAppPurchases": {
+            "Pacote de DLC": "0,00 €",
+            "Texturas em alta definição": "0,00 €",
+            "Edição Preta": "0,00 €",
+            "Estradas e Pistas": "0,00 €",
+            "Estilo Coupé": "0,00 €",
+            "Melhores Britânicos": "0,00 €",
+            "Lendas do Turismo": "0,00 €",
+            "Pacote de Arrancada": "0,00 €"
+          }
+        },
         {
           "timestamp": 1792201899634,
           "price": 7.79,
@@ -93100,6 +93131,23 @@
     "history": [
       [
         {
+          "timestamp": 1792221339483,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {
+            "Paixão Country": "0,99 €",
+            "Drip Extra": "0,99 €",
+            "Futurista": "0,99 €",
+            "Coração Errante": "0,99 €",
+            "Asseio Listrado": "0,99 €",
+            "Brisa do Lazer": "0,99 €",
+            "Espírito Encantador": "0,99 €",
+            "Xerife de Pedrareia": "0,99 €",
+            "Pijaminha Confortável": "0,99 €",
+            "Gesto Despreocupado": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1792201899634,
           "price": 8.99,
           "formattedPrice": "8,99 €",
@@ -99988,6 +100036,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792221339483,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Content Bundle 1": "9,99 €",
+            "Getaway Car Pack": "2,99 €",
+            "Modified Monsters Car Pack": "2,99 €",
+            "Racing Heroes Car Pack": "2,99 €",
+            "Content Bundle 2": "7,99 €",
+            "Steel & Wheels Pack": "1,99 €",
+            "Reckless Car Pack": "2,99 €",
+            "Rusty Rats Car Pack": "2,99 €",
+            "Off-Road Car Pack": "2,99 €",
+            "Goofy Roofs Pack": "0,99 €"
+          }
+        },
         {
           "timestamp": 1792201899634,
           "price": 2.99,

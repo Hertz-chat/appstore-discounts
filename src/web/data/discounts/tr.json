@@ -7335,7 +7335,7 @@
         "name": "Price",
         "from": "₺149,99",
         "to": "Free",
-        "range": "[Free ~ ₺149,99]"
+        "range": "[Free ~ ₺399,99]"
       }
     ],
     "price": 0,
@@ -30134,7 +30134,7 @@
         "name": "Price",
         "from": "₺149,99",
         "to": "₺49,99",
-        "range": "[Free ~ ₺149,99]"
+        "range": "[Free ~ ₺399,99]"
       }
     ],
     "price": 49.99,

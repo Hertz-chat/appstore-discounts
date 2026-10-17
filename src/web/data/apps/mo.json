@@ -19455,10 +19455,10 @@
   {
     "trackId": 6471594918,
     "region": "mo",
-    "timestamp": 1792089903909,
+    "timestamp": 1792191938096,
     "discounts": [],
-    "price": 0.99,
-    "formattedPrice": "USD 0.99",
+    "price": 4.99,
+    "formattedPrice": "USD 4.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6471594918",
     "trackName": "Just a Simple Image Converter",
@@ -25685,6 +25685,18 @@
     "firstRecordedAt": 1784304900498
   },
   {
+    "trackId": 6780263761,
+    "region": "mo",
+    "timestamp": 1792191938096,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6780263761",
+    "trackName": "Pocket Rumble 〜 軍團即時戰鬥",
+    "firstRecordedAt": 1792191938096
+  },
+  {
     "trackId": 6782209394,
     "region": "mo",
     "timestamp": 1782812098024,
@@ -26181,7 +26193,7 @@
   {
     "trackId": 6801980968,
     "region": "mo",
-    "timestamp": 1791585205739,
+    "timestamp": 1792191938096,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "USD 1.99",

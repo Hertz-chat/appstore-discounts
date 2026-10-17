@@ -11146,6 +11146,25 @@
     "history": [
       [
         {
+          "timestamp": 1792191938096,
+          "price": 188,
+          "formattedPrice": "HK$ 188.00",
+          "inAppPurchases": {
+            "forScore Pro": "HK$ 118.00",
+            "Brahms: The Mutopia Collection": "HK$ 0.00",
+            "forScore Pro 30-Day Pass": "HK$ 22.00",
+            "Liszt: The Mutopia Collection": "HK$ 0.00",
+            "Tchaikovsky: The Mutopia Collection": "HK$ 0.00",
+            "Schumann: The Mutopia Collection": "HK$ 0.00",
+            "Haydn: The Mutopia Collection": "HK$ 0.00",
+            "Satie: The Mutopia Collection": "HK$ 0.00",
+            "Burgmüller: The Mutopia Collection": "HK$ 0.00",
+            "Händel: The Mutopia Collection": "HK$ 0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791620717773,
           "price": 188,
           "formattedPrice": "HK$ 188.00",
@@ -178149,6 +178168,25 @@
     "history": [
       [
         {
+          "timestamp": 1792191938096,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "The Ultimate Edition Welcome Offer": "HK$ 188.00",
+            "Welcome Offer": "HK$ 148.00",
+            "Cherry Blossom Bundle": "HK$ 128.00",
+            "City Break": "HK$ 22.00",
+            "Sagescale Token": "HK$ 88.00",
+            "Orange Steampunk Dragon Token": "HK$ 88.00",
+            "Astronaut Token Sale": "HK$ 22.00",
+            "Jin Token": "HK$ 88.00",
+            "The Ultimate Edition": "HK$ 368.00",
+            "New York 2121 Board": "HK$ 58.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792136164280,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -255730,6 +255768,25 @@
     "history": [
       [
         {
+          "timestamp": 1792191938096,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "Jingle": "HK$ 22.00",
+            "2025 Spring Forest Theme": "HK$ 18.00",
+            "2025 Spring Lawn Theme": "HK$ 18.00",
+            "2025 Spring Flower Theme": "HK$ 18.00",
+            "Lawn Theme": "HK$ 18.00",
+            "小灰": "HK$ 18.00",
+            "軟軟": "HK$ 18.00",
+            "招財": "HK$ 18.00",
+            "點點": "HK$ 18.00",
+            "Civet Theme": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -262788,6 +262845,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792191938096,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792089903909,
@@ -306323,7 +306388,10 @@
       "主題包・哈爾布倫": "HK$ 8.00",
       "付費角色・墨蘭": "HK$ 8.00",
       "贊助第二階・監護人": "HK$ 18.00",
-      "付費角色・伊蕾娜": "HK$ 8.00"
+      "付費角色・伊蕾娜": "HK$ 8.00",
+      "付費角色・蘿潔爾": "HK$ 8.00",
+      "付費角色・薩爾古爾": "HK$ 8.00",
+      "付費角色・菲涅": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 18,
@@ -306334,9 +306402,31 @@
       "主題包・哈爾布倫": "HK$ 8.00",
       "付費角色・墨蘭": "HK$ 8.00",
       "贊助第二階・監護人": "HK$ 18.00",
-      "付費角色・伊蕾娜": "HK$ 8.00"
+      "付費角色・伊蕾娜": "HK$ 8.00",
+      "付費角色・蘿潔爾": "HK$ 8.00",
+      "付費角色・薩爾古爾": "HK$ 8.00",
+      "付費角色・菲涅": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792191938096,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "付費角色・艾德瑞克": "HK$ 8.00",
+            "付費角色・伊蕾娜": "HK$ 8.00",
+            "付費角色・墨蘭": "HK$ 8.00",
+            "主題包・哈爾布倫": "HK$ 8.00",
+            "付費角色・蘿潔爾": "HK$ 8.00",
+            "付費角色・薩爾古爾": "HK$ 8.00",
+            "付費角色・菲涅": "HK$ 8.00",
+            "贊助第一階・贊助者": "HK$ 2.00",
+            "贊助第三階・傭兵團恩人": "HK$ 58.00",
+            "贊助第二階・監護人": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791585205739,
@@ -307941,6 +308031,39 @@
           "price": 18,
           "formattedPrice": "HK$ 18.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6780263761": {
+    "trackId": 6780263761,
+    "trackName": "Pocket Rumble 〜 軍團即時戰鬥",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "1200 Gems": "HK$ 48.00",
+      "600 Gems": "HK$ 22.00",
+      "120 Gems": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "1200 Gems": "HK$ 48.00",
+      "600 Gems": "HK$ 22.00",
+      "120 Gems": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792191938096,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "1200 Gems": "HK$ 48.00",
+            "600 Gems": "HK$ 22.00",
+            "120 Gems": "HK$ 8.00"
+          }
         }
       ]
     ]

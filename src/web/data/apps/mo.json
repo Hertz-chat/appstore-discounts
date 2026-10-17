@@ -2728,7 +2728,7 @@
   {
     "trackId": 479516143,
     "region": "mo",
-    "timestamp": 1791752970806,
+    "timestamp": 1792240324701,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "USD 6.99",
@@ -10712,7 +10712,7 @@
   {
     "trackId": 1322914367,
     "region": "mo",
-    "timestamp": 1792221339483,
+    "timestamp": 1792240324701,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "USD 0.99",
@@ -11458,10 +11458,10 @@
   {
     "trackId": 1410053842,
     "region": "mo",
-    "timestamp": 1790711274462,
+    "timestamp": 1792240324701,
     "discounts": [],
-    "price": 0.99,
-    "formattedPrice": "USD 0.99",
+    "price": 0,
+    "formattedPrice": "免費",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1410053842",
     "trackName": "小漁輪班：排班表與工作行事曆",
@@ -12883,7 +12883,7 @@
   {
     "trackId": 1464850921,
     "region": "mo",
-    "timestamp": 1792221339483,
+    "timestamp": 1792240324701,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "USD 0.99",
@@ -17877,10 +17877,10 @@
   {
     "trackId": 1667072735,
     "region": "mo",
-    "timestamp": 1772635383177,
+    "timestamp": 1792240324701,
     "discounts": [],
-    "price": 0.99,
-    "formattedPrice": "USD 0.99",
+    "price": 0,
+    "formattedPrice": "免費",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1667072735",
     "trackName": "Watch Web Browser",
@@ -19078,6 +19078,18 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id6458733069",
     "trackName": "養生鐘 - 解压小橙子 经络穴位图解",
     "firstRecordedAt": 1747112545061
+  },
+  {
+    "trackId": 6459057077,
+    "region": "mo",
+    "timestamp": 1792240324701,
+    "discounts": [],
+    "price": 3.99,
+    "formattedPrice": "USD 3.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6459057077",
+    "trackName": "德語 Pro: 詞典 & 考試",
+    "firstRecordedAt": 1792240324701
   },
   {
     "trackId": 6459581344,

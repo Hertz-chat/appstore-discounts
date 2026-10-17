@@ -4354,7 +4354,7 @@
   {
     "trackId": 623592465,
     "region": "us",
-    "timestamp": 1792050467334,
+    "timestamp": 1792240324701,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "$1.99",
@@ -11504,10 +11504,10 @@
   {
     "trackId": 1410053842,
     "region": "us",
-    "timestamp": 1790760074035,
+    "timestamp": 1792240324701,
     "discounts": [],
-    "price": 0.99,
-    "formattedPrice": "$0.99",
+    "price": 0,
+    "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1410053842",
     "trackName": "Selene: Shift Calendar",
@@ -17719,10 +17719,10 @@
   {
     "trackId": 1667072735,
     "region": "us",
-    "timestamp": 1772635383177,
+    "timestamp": 1792240324701,
     "discounts": [],
-    "price": 0.99,
-    "formattedPrice": "$0.99",
+    "price": 0,
+    "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1667072735",
     "trackName": "Watch Web Browser",
@@ -18895,6 +18895,18 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id6458733069",
     "trackName": "Health Clock - Sleep & Health",
     "firstRecordedAt": 1747112545061
+  },
+  {
+    "trackId": 6459057077,
+    "region": "us",
+    "timestamp": 1792240324701,
+    "discounts": [],
+    "price": 14.99,
+    "formattedPrice": "$14.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6459057077",
+    "trackName": "German Pro: dictionary & exams",
+    "firstRecordedAt": 1792240324701
   },
   {
     "trackId": 6459581344,
@@ -24521,7 +24533,7 @@
   {
     "trackId": 6759664029,
     "region": "us",
-    "timestamp": 1792191938096,
+    "timestamp": 1792240324701,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "$6.99",
@@ -24881,7 +24893,7 @@
   {
     "trackId": 6761328517,
     "region": "us",
-    "timestamp": 1791540411692,
+    "timestamp": 1792240324701,
     "discounts": [],
     "price": 5.99,
     "formattedPrice": "$5.99",

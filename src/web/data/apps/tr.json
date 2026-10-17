@@ -3824,7 +3824,7 @@
   {
     "trackId": 563718995,
     "region": "tr",
-    "timestamp": 1789443355695,
+    "timestamp": 1792240324701,
     "discounts": [],
     "price": 149.99,
     "formattedPrice": "₺149,99",
@@ -10386,7 +10386,7 @@
   {
     "trackId": 1290687550,
     "region": "tr",
-    "timestamp": 1792136164280,
+    "timestamp": 1792240324701,
     "discounts": [],
     "price": 99.99,
     "formattedPrice": "₺99,99",
@@ -11493,10 +11493,10 @@
   {
     "trackId": 1410053842,
     "region": "tr",
-    "timestamp": 1790726691370,
+    "timestamp": 1792240324701,
     "discounts": [],
-    "price": 39.99,
-    "formattedPrice": "₺39,99",
+    "price": 0,
+    "formattedPrice": "Free",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id1410053842",
     "trackName": "Selene: Shift Calendar",
@@ -16204,7 +16204,7 @@
   {
     "trackId": 1592505377,
     "region": "tr",
-    "timestamp": 1792221339483,
+    "timestamp": 1792240324701,
     "discounts": [],
     "price": 49.99,
     "formattedPrice": "₺49,99",
@@ -17756,10 +17756,10 @@
   {
     "trackId": 1667072735,
     "region": "tr",
-    "timestamp": 1772635383177,
+    "timestamp": 1792240324701,
     "discounts": [],
-    "price": 49.99,
-    "formattedPrice": "₺49,99",
+    "price": 0,
+    "formattedPrice": "Free",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id1667072735",
     "trackName": "Watch Web Browser",
@@ -18945,6 +18945,18 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6458733069",
     "trackName": "养生钟 - 中医时辰 跳绳手表游戏",
     "firstRecordedAt": 1747112545061
+  },
+  {
+    "trackId": 6459057077,
+    "region": "tr",
+    "timestamp": 1792240324701,
+    "discounts": [],
+    "price": 799.99,
+    "formattedPrice": "₺799,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6459057077",
+    "trackName": "German Pro: dictionary & exams",
+    "firstRecordedAt": 1792240324701
   },
   {
     "trackId": 6459581344,
@@ -24461,7 +24473,7 @@
   {
     "trackId": 6759664029,
     "region": "tr",
-    "timestamp": 1792221339483,
+    "timestamp": 1792240324701,
     "discounts": [],
     "price": 399.99,
     "formattedPrice": "₺399,99",

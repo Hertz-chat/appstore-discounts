@@ -61194,6 +61194,25 @@
     "history": [
       [
         {
+          "timestamp": 1792240324701,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Adult Supervision": "$1.99",
+            "Just For Kids": "$0.00",
+            "Happy Holidays": "$1.99",
+            "Mix It Up": "$0.00",
+            "That's So 90s": "$1.99",
+            "The Ellen Show": "$0.00",
+            "Food Fight": "$1.99",
+            "Adult Supervision 2: Even Adultier": "$1.99",
+            "Branded": "$1.99",
+            "Adults Only! Bundle": "$7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792050467334,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -165594,6 +165613,14 @@
     "history": [
       [
         {
+          "timestamp": 1792240324701,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790760074035,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -263641,13 +263668,25 @@
     "name": "Watch Web Browser",
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "$0.99"
+      "formattedPrice": "$0.99",
+      "Pro Unlock": "$1.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 0,
+      "formattedPrice": "Free",
+      "Pro Unlock": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792240324701,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro Unlock": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772635383177,
@@ -346350,6 +346389,25 @@
     "history": [
       [
         {
+          "timestamp": 1792240324701,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "Underworld Expansion Pass": "$5.99",
+            "Moonveil Skin Set": "$9.99",
+            "Neo Behemoth": "$1.99",
+            "Pioneer of the Abyss": "$9.99",
+            "Underworld Pass 1": "$2.99",
+            "Essence of Transcendence": "$29.99",
+            "Ark of Eternity": "$29.99",
+            "Time Traveler": "$5.99",
+            "Memory of Training": "$17.99",
+            "Essence of the Abyss": "$19.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791540411692,
           "price": 5.99,
           "formattedPrice": "$5.99",
@@ -354635,6 +354693,25 @@
     "history": [
       [
         {
+          "timestamp": 1792240324701,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Drakkan": "$6.99",
+            "Hero Ashbite": "$6.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Tower Sniper": "$5.99",
+            "Tower Wildcat": "$4.99",
+            "Tower Alchemist": "$2.99",
+            "Gems Handful": "$2.99",
+            "Hero Ignus": "$2.99",
+            "Gems Pouch": "$4.99",
+            "Hero Oni": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792191938096,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -355633,6 +355710,27 @@
             "1200 Gems": "$5.99",
             "120 Gems": "$0.99"
           }
+        }
+      ]
+    ]
+  },
+  "6459057077": {
+    "name": "German Pro: dictionary & exams",
+    "maxPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "$14.99"
+    },
+    "minPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "$14.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792240324701,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {}
         }
       ]
     ]

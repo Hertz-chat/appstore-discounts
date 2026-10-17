@@ -11505,10 +11505,10 @@
   {
     "trackId": 1410053842,
     "region": "tw",
-    "timestamp": 1790711274462,
+    "timestamp": 1792240324701,
     "discounts": [],
-    "price": 30,
-    "formattedPrice": "$30.00",
+    "price": 0,
+    "formattedPrice": "免費",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1410053842",
     "trackName": "小漁輪班：排班表與工作行事曆",
@@ -17888,10 +17888,10 @@
   {
     "trackId": 1667072735,
     "region": "tw",
-    "timestamp": 1772635383177,
+    "timestamp": 1792240324701,
     "discounts": [],
-    "price": 30,
-    "formattedPrice": "$30.00",
+    "price": 0,
+    "formattedPrice": "免費",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1667072735",
     "trackName": "Watch Web Browser",
@@ -19101,6 +19101,18 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id6458733069",
     "trackName": "養生鐘 - 解压小橙子 经络穴位图解",
     "firstRecordedAt": 1747112545061
+  },
+  {
+    "trackId": 6459057077,
+    "region": "tw",
+    "timestamp": 1792240324701,
+    "discounts": [],
+    "price": 120,
+    "formattedPrice": "$120.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6459057077",
+    "trackName": "德語 Pro: 詞典 & 考試",
+    "firstRecordedAt": 1792240324701
   },
   {
     "trackId": 6459581344,

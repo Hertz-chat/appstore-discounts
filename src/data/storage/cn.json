@@ -46555,16 +46555,24 @@
     ]
   },
   "944118456": {
-    "name": "Exif Viewer by Fluntro",
+    "name": "EXIF Viewer：照片元数据",
     "maxPriceInfo": {
-      "price": 22,
-      "formattedPrice": "¥22.00"
+      "price": 48,
+      "formattedPrice": "¥48.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792240324701,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786377546675,
@@ -111168,6 +111176,14 @@
     "history": [
       [
         {
+          "timestamp": 1792240324701,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790711274462,
           "price": 6,
           "formattedPrice": "¥6.00",
@@ -164613,13 +164629,25 @@
     "name": "Watch Web Browser",
     "maxPriceInfo": {
       "price": 8,
-      "formattedPrice": "¥8.00"
+      "formattedPrice": "¥8.00",
+      "解锁 Pro": "¥15.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
+      "price": 0,
+      "formattedPrice": "免费",
+      "解锁 Pro": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792240324701,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "解锁 Pro": "¥15.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772635383177,
@@ -183332,6 +183360,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792240324701,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "6元礼包": "¥6.00",
+            "1元礼包": "¥1.00",
+            "8元礼包": "¥8.00",
+            "30元礼包": "¥30.00",
+            "98元礼包": "¥98.00",
+            "68元礼包": "¥68.00",
+            "88元礼包": "¥88.00",
+            "128元礼包": "¥128.00",
+            "328元礼包": "¥328.00",
+            "648元礼包": "¥648.00"
+          }
+        },
         {
           "timestamp": 1792221339483,
           "price": 1,
@@ -235379,6 +235424,55 @@
           "timestamp": 1792136164280,
           "price": 15,
           "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6781949759": {
+    "name": "好女子",
+    "maxPriceInfo": {
+      "price": 6,
+      "formattedPrice": "¥6.00",
+      "好女子 VIP 连续包年": "¥98.00",
+      "好女子 VIP 连续包月": "¥15.00"
+    },
+    "minPriceInfo": {
+      "price": 6,
+      "formattedPrice": "¥6.00",
+      "好女子 VIP 连续包年": "¥98.00",
+      "好女子 VIP 连续包月": "¥15.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792240324701,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {
+            "好女子 VIP 连续包年": "¥98.00",
+            "好女子 VIP 连续包月": "¥15.00"
+          }
+        }
+      ]
+    ]
+  },
+  "6459057077": {
+    "name": "德语 Pro: 词典 & 考试",
+    "maxPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "minPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792240324701,
+          "price": 28,
+          "formattedPrice": "¥28.00",
           "inAppPurchases": {}
         }
       ]

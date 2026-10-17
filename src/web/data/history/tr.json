@@ -54494,6 +54494,25 @@
     "history": [
       [
         {
+          "timestamp": 1792240324701,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "Bigger Beacons": "₺49,99",
+            "Healthy Bananas": "₺49,99",
+            "Tower Unlock All Upgrades": "₺49,99",
+            "Handful O' Tokens": "₺49,99",
+            "Pile O' Tokens": "₺249,99",
+            "Vault O' Tokens": "₺499,99",
+            "Rank Up": "₺49,99",
+            "500 Monkey Money": "₺49,99",
+            "Pile O' Monkey Money": "₺249,99",
+            "Vault O' Monkey Money": "₺999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789443355695,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -131689,6 +131708,25 @@
     "history": [
       [
         {
+          "timestamp": 1792240324701,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Kizuna AI": "₺499,99",
+            "Xenon": "₺499,99",
+            "Miku": "₺499,99",
+            "CAPSO": "₺499,99",
+            "ConneR": "₺499,99",
+            "9 Characters": "₺1.999,99",
+            "Cherry": "₺499,99",
+            "Memory Unit [A1]": "₺249,99",
+            "Ilka": "₺499,99",
+            "JOE": "₺499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792136164280,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -147245,6 +147283,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792240324701,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790726691370,
@@ -211579,6 +211625,23 @@
     "history": [
       [
         {
+          "timestamp": 1792240324701,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Content Bundle 1": "₺169,99",
+            "Steel & Wheels Pack": "₺29,99",
+            "Getaway Car Pack": "₺49,99",
+            "Racing Heroes Car Pack": "₺49,99",
+            "American All-Stars Car Pack": "₺49,99",
+            "Rusty Rats Car Pack": "₺49,99",
+            "Reckless Car Pack": "₺49,99",
+            "Modified Monsters Car Pack": "₺49,99",
+            "Content Bundle 2": "₺139,99",
+            "Off-Road Car Pack": "₺49,99"
+          }
+        },
+        {
           "timestamp": 1792221339483,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -229674,13 +229737,25 @@
     "region": "tr",
     "maxPriceInfo": {
       "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "formattedPrice": "₺49,99",
+      "Pro Unlock": "₺99,99"
     },
     "minPriceInfo": {
-      "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "price": 0,
+      "formattedPrice": "Free",
+      "Pro Unlock": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792240324701,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro Unlock": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772635383177,
@@ -296833,6 +296908,23 @@
     "history": [
       [
         {
+          "timestamp": 1792240324701,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Spell Aspect of Sol": "₺249,99",
+            "Hero Ignus": "₺149,99",
+            "Gems Wagon": "₺2.499,99",
+            "Tower Wildcat": "₺249,99",
+            "Hero Drakkan": "₺399,99",
+            "ALL HEROES BUNDLE_B": "₺1.299,99",
+            "ALL TOWERS BUNDLE": "₺999,99",
+            "ALL SPELLS BUNDLE": "₺699,99",
+            "Gems Chest": "₺999,99",
+            "Hero Oni": "₺249,99"
+          }
+        },
+        {
           "timestamp": 1792221339483,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -298440,6 +298532,29 @@
           "timestamp": 1792136164280,
           "price": 99.99,
           "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6459057077": {
+    "trackId": 6459057077,
+    "trackName": "German Pro: dictionary & exams",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 799.99,
+      "formattedPrice": "₺799,99"
+    },
+    "minPriceInfo": {
+      "price": 799.99,
+      "formattedPrice": "₺799,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792240324701,
+          "price": 799.99,
+          "formattedPrice": "₺799,99",
           "inAppPurchases": {}
         }
       ]

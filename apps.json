@@ -2,6 +2,20 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6781949759,
+      "name": {
+        "cn": "好女子"
+      },
+      "addType": "auto"
+    },
+    {
+      "id": 6459057077,
+      "name": {
+        "pt": "Alemão Pro: dicionário exames"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 6780263761,
       "name": {
         "tw": "Pocket Rumble 〜 軍團即時戰鬥"

@@ -79371,16 +79371,24 @@
     ]
   },
   "944118456": {
-    "name": "Exif Viewer by Fluntro",
+    "name": "EXIF Viewer：照片中繼資料",
     "maxPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 58,
+      "formattedPrice": "HK$ 58.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792240324701,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786377546675,
@@ -149656,6 +149664,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792240324701,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790711274462,
@@ -230371,13 +230387,25 @@
     "name": "Watch Web Browser",
     "maxPriceInfo": {
       "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "formattedPrice": "HK$ 8.00",
+      "解鎖 Pro": "HK$ 18.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "price": 0,
+      "formattedPrice": "免費",
+      "解鎖 Pro": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792240324701,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "解鎖 Pro": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772635383177,
@@ -303766,6 +303794,27 @@
             "600 Gems": "HK$ 22.00",
             "120 Gems": "HK$ 8.00"
           }
+        }
+      ]
+    ]
+  },
+  "6459057077": {
+    "name": "德語 Pro: 詞典 & 考試",
+    "maxPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "minPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792240324701,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
         }
       ]
     ]

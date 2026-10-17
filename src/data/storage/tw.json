@@ -149114,6 +149114,14 @@
     "history": [
       [
         {
+          "timestamp": 1792240324701,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790711274462,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -227382,13 +227390,25 @@
     "name": "Watch Web Browser",
     "maxPriceInfo": {
       "price": 30,
-      "formattedPrice": "$30.00"
+      "formattedPrice": "$30.00",
+      "解鎖 Pro": "$60.00"
     },
     "minPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 0,
+      "formattedPrice": "免費",
+      "解鎖 Pro": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792240324701,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "解鎖 Pro": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772635383177,
@@ -316392,6 +316412,27 @@
             "600 Gems": "$90.00",
             "120 Gems": "$30.00"
           }
+        }
+      ]
+    ]
+  },
+  "6459057077": {
+    "name": "德語 Pro: 詞典 & 考試",
+    "maxPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "minPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792240324701,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
         }
       ]
     ]

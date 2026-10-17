@@ -10646,10 +10646,10 @@
   {
     "trackId": 1410053842,
     "region": "pt",
-    "timestamp": 1790726691370,
+    "timestamp": 1792240324701,
     "discounts": [],
-    "price": 0.99,
-    "formattedPrice": "0,99 €",
+    "price": 0,
+    "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1410053842",
     "trackName": "Selene: Calendário de Turnos",
@@ -16522,10 +16522,10 @@
   {
     "trackId": 1667072735,
     "region": "pt",
-    "timestamp": 1772635383177,
+    "timestamp": 1792240324701,
     "discounts": [],
-    "price": 0.99,
-    "formattedPrice": "0,99 €",
+    "price": 0,
+    "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1667072735",
     "trackName": "Watch Web Browser",
@@ -17591,6 +17591,18 @@
     "firstRecordedAt": 1761797674362
   },
   {
+    "trackId": 6459057077,
+    "region": "pt",
+    "timestamp": 1792240324701,
+    "discounts": [],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6459057077",
+    "trackName": "Alemão Pro: dicionário exames",
+    "firstRecordedAt": 1792240324701
+  },
+  {
     "trackId": 6459581344,
     "region": "pt",
     "timestamp": 1791507612931,
@@ -17629,7 +17641,7 @@
   {
     "trackId": 6462360082,
     "region": "pt",
-    "timestamp": 1790805284947,
+    "timestamp": 1792240324701,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Gratuito",

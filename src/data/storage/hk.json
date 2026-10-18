@@ -40725,6 +40725,14 @@
     "history": [
       [
         {
+          "timestamp": 1792345098035,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792089903909,
           "price": 0,
           "formattedPrice": "免費",
@@ -58534,6 +58542,40 @@
           "formattedPrice": "HK$ 48.00",
           "inAppPurchases": {
             "432 Player Full Features": "HK$ 58.00"
+          }
+        }
+      ]
+    ]
+  },
+  "633625517": {
+    "name": "Baldur's Gate II: EE",
+    "maxPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00",
+      "In Defense of the Wild": "HK$ 22.00",
+      "A Price Paid in Blood": "HK$ 22.00",
+      "A Voice in the Dark": "HK$ 22.00",
+      "Gallery of Heroes": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00",
+      "In Defense of the Wild": "HK$ 22.00",
+      "A Price Paid in Blood": "HK$ 22.00",
+      "A Voice in the Dark": "HK$ 22.00",
+      "Gallery of Heroes": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "In Defense of the Wild": "HK$ 22.00",
+            "A Price Paid in Blood": "HK$ 22.00",
+            "A Voice in the Dark": "HK$ 22.00",
+            "Gallery of Heroes": "HK$ 22.00"
           }
         }
       ]
@@ -79366,7 +79408,7 @@
     ]
   },
   "941671702": {
-    "name": "GR Remote Viewer for GR2 & GR3",
+    "name": "GR Viewer for GR2 & GR3",
     "maxPriceInfo": {
       "price": 88,
       "formattedPrice": "HK$ 88.00"
@@ -96186,6 +96228,14 @@
       "formattedPrice": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764693496320,
@@ -120652,6 +120702,25 @@
       "肉包子服": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "回到童年": "HK$ 8.00",
+            "聖誕服": "HK$ 8.00",
+            "肉包子服": "HK$ 8.00",
+            "企鵝服": "HK$ 8.00",
+            "森野熊服": "HK$ 8.00",
+            "跳舞開羅姬": "HK$ 18.00",
+            "跳舞的歪羅君": "HK$ 18.00",
+            "跳舞的開羅君": "HK$ 18.00",
+            "開羅雕像2": "HK$ 18.00",
+            "開羅雕像套組": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791263120623,
@@ -193615,6 +193684,14 @@
     "history": [
       [
         {
+          "timestamp": 1792345098035,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789831584358,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -202690,6 +202767,14 @@
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791986862260,
@@ -228729,6 +228814,17 @@
       "Hello World!": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "甜蜜之家": "HK$ 8.00",
+            "Hello World!": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791737634883,
@@ -303751,14 +303847,22 @@
   "6775430354": {
     "name": "Preserve: Complete Edition",
     "maxPriceInfo": {
-      "price": 38,
-      "formattedPrice": "HK$ 38.00"
+      "price": 48,
+      "formattedPrice": "HK$ 48.00"
     },
     "minPriceInfo": {
       "price": 38,
       "formattedPrice": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791484107175,
@@ -304128,6 +304232,27 @@
           "inAppPurchases": {
             "NaviSyncRock": "HK$ 38.00"
           }
+        }
+      ]
+    ]
+  },
+  "6775851661": {
+    "name": "Agent Limbo: AI Coding",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
         }
       ]
     ]

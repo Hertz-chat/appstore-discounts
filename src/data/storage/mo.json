@@ -20220,7 +20220,11 @@
       "The Machine: Bride of Pin•bot™": "USD 2.99",
       "Stern Pack 1": "USD 4.99",
       "Big Buck Hunter Single Table": "USD 9.99",
-      "Whoa Nellie Single Table": "USD 9.99"
+      "Whoa Nellie Single Table": "USD 9.99",
+      "Three Pack of Launch Tables": "USD 1.99",
+      "The Machine: Bride of Pin•bot™ + Medieval Madness™": "USD 4.99",
+      "Fun House™ + Circqus Voltaire™": "USD 4.99",
+      "Fun House™": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -20234,9 +20238,32 @@
       "The Machine: Bride of Pin•bot™": "USD 2.99",
       "Stern Pack 1": "USD 4.99",
       "Big Buck Hunter Single Table": "USD 9.99",
-      "Whoa Nellie Single Table": "USD 9.99"
+      "Whoa Nellie Single Table": "USD 9.99",
+      "Three Pack of Launch Tables": "USD 1.99",
+      "The Machine: Bride of Pin•bot™ + Medieval Madness™": "USD 4.99",
+      "Fun House™ + Circqus Voltaire™": "USD 4.99",
+      "Fun House™": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Ripley's Believe It or Not® Pinball Table": "USD 1.99",
+            "Theatre of Magic® Pinball Table": "USD 2.99",
+            "Black Hole™ Pinball Table": "USD 1.99",
+            "Three Pack of Launch Tables": "USD 1.99",
+            "The Machine: Bride of Pin•bot™": "USD 2.99",
+            "Medieval Madness™": "USD 2.99",
+            "The Machine: Bride of Pin•bot™ + Medieval Madness™": "USD 4.99",
+            "Fun House™ + Circqus Voltaire™": "USD 4.99",
+            "Fun House™": "USD 2.99",
+            "Cirqus Voltaire™": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787251071801,
@@ -33592,6 +33619,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792071965226,
@@ -47180,6 +47215,40 @@
           "formattedPrice": "USD 5.99",
           "inAppPurchases": {
             "432 Player Full Features": "USD 7.99"
+          }
+        }
+      ]
+    ]
+  },
+  "633625517": {
+    "name": "Baldur's Gate II: EE",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99",
+      "A Price Paid in Blood": "USD 2.99",
+      "A Voice in the Dark": "USD 2.99",
+      "Gallery of Heroes": "USD 2.99",
+      "In Defense of the Wild": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99",
+      "A Price Paid in Blood": "USD 2.99",
+      "A Voice in the Dark": "USD 2.99",
+      "Gallery of Heroes": "USD 2.99",
+      "In Defense of the Wild": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "A Price Paid in Blood": "USD 2.99",
+            "A Voice in the Dark": "USD 2.99",
+            "Gallery of Heroes": "USD 2.99",
+            "In Defense of the Wild": "USD 2.99"
           }
         }
       ]
@@ -63410,7 +63479,7 @@
     ]
   },
   "941671702": {
-    "name": "GR Remote Viewer for GR2 & GR3",
+    "name": "GR Viewer for GR2 & GR3",
     "maxPriceInfo": {
       "price": 9.99,
       "formattedPrice": "USD 9.99"
@@ -75811,6 +75880,14 @@
       "formattedPrice": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764693496320,
@@ -143155,6 +143232,14 @@
     "history": [
       [
         {
+          "timestamp": 1792345098035,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789831584358,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -148523,6 +148608,14 @@
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791986862260,
@@ -168564,6 +168657,17 @@
       "Hello World!": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "甜蜜之家": "USD 0.99",
+            "Hello World!": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791737634883,
@@ -212886,14 +212990,22 @@
   "6775430354": {
     "name": "Preserve: Complete Edition",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791484107175,
@@ -213239,6 +213351,27 @@
           "inAppPurchases": {
             "NaviSyncRock": "USD 4.99"
           }
+        }
+      ]
+    ]
+  },
+  "6775851661": {
+    "name": "Agent Limbo: AI Coding",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
         }
       ]
     ]

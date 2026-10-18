@@ -1961,7 +1961,7 @@
   {
     "trackId": 432850619,
     "region": "pt",
-    "timestamp": 1792020712402,
+    "timestamp": 1792345098035,
     "discounts": [],
     "price": 17.99,
     "formattedPrice": "17,99 €",
@@ -2117,7 +2117,7 @@
   {
     "trackId": 449735650,
     "region": "pt",
-    "timestamp": 1783060427753,
+    "timestamp": 1792345098035,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "1,99 €",
@@ -4023,6 +4023,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id633600716",
     "trackName": "432 Player: Music in 432 Hz",
     "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 633625517,
+    "region": "pt",
+    "timestamp": 1792345098035,
+    "discounts": [],
+    "price": 9.99,
+    "formattedPrice": "9,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id633625517",
+    "trackName": "Baldur's Gate II: EE",
+    "firstRecordedAt": 1792345098035
   },
   {
     "trackId": 634158738,
@@ -5942,7 +5954,7 @@
     "formattedPrice": "9,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id941671702",
-    "trackName": "GR Remote Viewer for GR2 & GR3",
+    "trackName": "GR Viewer for GR2 & GR3",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -23667,6 +23679,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id6775430354",
     "trackName": "Preserve: Complete Edition",
     "firstRecordedAt": 1791484107175
+  },
+  {
+    "trackId": 6775851661,
+    "region": "pt",
+    "timestamp": 1792345098035,
+    "discounts": [],
+    "price": 5.99,
+    "formattedPrice": "5,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6775851661",
+    "trackName": "Agent Limbo: AI Coding",
+    "firstRecordedAt": 1792345098035
   },
   {
     "trackId": 6776762891,

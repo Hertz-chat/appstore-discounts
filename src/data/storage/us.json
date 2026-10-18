@@ -64455,6 +64455,40 @@
       ]
     ]
   },
+  "633625517": {
+    "name": "Baldur's Gate II: EE",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99",
+      "A Price Paid in Blood": "$2.99",
+      "A Voice in the Dark": "$2.99",
+      "In Defense of the Wild": "$2.99",
+      "Gallery of Heroes": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99",
+      "A Price Paid in Blood": "$2.99",
+      "A Voice in the Dark": "$2.99",
+      "In Defense of the Wild": "$2.99",
+      "Gallery of Heroes": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "A Price Paid in Blood": "$2.99",
+            "A Voice in the Dark": "$2.99",
+            "In Defense of the Wild": "$2.99",
+            "Gallery of Heroes": "$2.99"
+          }
+        }
+      ]
+    ]
+  },
   "634158738": {
     "name": "e-Sword LT: Bible Study to Go",
     "maxPriceInfo": {
@@ -69244,6 +69278,25 @@
       "Racing Prodigy X30 Kart Miami": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Racing Prodigy X30 La Conca L4": "$14.99",
+            "Racing Prodigy X30 Atlanta": "$14.99",
+            "Racing Prodigy X30 Kart Dubai": "$14.99",
+            "Racing Prodigy X30 B. Vegas": "$14.99",
+            "Racing Prodigy 50 Quali Tyres": "$4.99",
+            "10 Pack Qualifying Tyres": "$0.99",
+            "Figo 100 Octane Fuel Pack - 20": "$3.99",
+            "Le Cont Hards - 40 Tyre Pack": "$3.99",
+            "Le Cont Mediums - 40 Tyre Pack": "$3.99",
+            "Le Cont Softs - 40 Tyres Pack": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790567609577,
@@ -90990,7 +91043,7 @@
     ]
   },
   "941671702": {
-    "name": "GR Remote Viewer for GR2 & GR3",
+    "name": "GR Viewer for GR2 & GR3",
     "maxPriceInfo": {
       "price": 9.99,
       "formattedPrice": "$9.99"
@@ -356065,6 +356118,27 @@
           "inAppPurchases": {
             "NaviSyncRock": "$4.99"
           }
+        }
+      ]
+    ]
+  },
+  "6775851661": {
+    "name": "Agent Limbo: AI Coding",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
         }
       ]
     ]

@@ -28695,6 +28695,14 @@
     "history": [
       [
         {
+          "timestamp": 1792345098035,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792089903909,
           "price": 0,
           "formattedPrice": "免费",
@@ -119956,6 +119964,16 @@
     "history": [
       [
         {
+          "timestamp": 1792345098035,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {
+            "终身高级版": "¥68.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1783944326400,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -137550,6 +137568,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789831584358,
@@ -163164,6 +163190,17 @@
     "history": [
       [
         {
+          "timestamp": 1792345098035,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "甜蜜之家": "¥6.00",
+            "Hello World!": "¥6.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791737634883,
           "price": 30,
           "formattedPrice": "¥30.00",
@@ -187160,6 +187197,25 @@
       "五子良将": "¥36.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {
+            "自创武将": "¥18.00",
+            "战国七雄": "¥36.00",
+            "群雄争霸": "¥18.00",
+            "楚汉争霸": "¥36.00",
+            "自创地图": "¥24.00",
+            "无双战神": "¥36.00",
+            "五子良将": "¥36.00",
+            "斜谷残阳": "¥36.00",
+            "冠绝天下": "¥36.00",
+            "重振汉室": "¥18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792327843521,
@@ -238301,6 +238357,29 @@
           "inAppPurchases": {
             "NaviSyncRock": "¥38.00"
           }
+        }
+      ]
+    ]
+  },
+  "6775851661": {
+    "trackId": 6775851661,
+    "trackName": "Agent Limbo - AI 编程助手",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
         }
       ]
     ]

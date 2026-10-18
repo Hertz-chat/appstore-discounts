@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2347` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2349` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2349|633625517|Automatic|❌|Baldur's Gate II: EE|Baldur's Gate II: EE|Baldur's Gate II: EE|Baldur's Gate II: EE|Baldur's Gate II: EE|Baldur's Gate II: EE|
+|2348|6775851661|Automatic|Agent Limbo - AI 编程助手|Agent Limbo: AI Coding|Agent Limbo: AI Coding|Agent Limbo: AI Coding|Agent Limbo: AI Coding|Agent Limbo: AI Coding|Agent Limbo: AI Coding|
 |2347|6763518834|Automatic|NaviBeat|NaviBeat|NaviBeat|NaviBeat|NaviBeat|NaviBeat|NaviBeat|
 |2346|6781949759|Automatic|好女子|❌|❌|❌|❌|❌|❌|
 |2345|6459057077|Automatic|德语 Pro: 词典 & 考试|德語 Pro: 詞典 & 考試|德語 Pro: 詞典 & 考試|德語 Pro: 詞典 & 考試|German Pro: dictionary & exams|German Pro: dictionary & exams|Alemão Pro: dicionário exames|
@@ -1320,7 +1322,7 @@ So far, we've covered `7` `Countries or Regions` and  `2347` `Apps` <br />Push n
 |1037| ~~519561306~~ |Automatic| ~~ATracker PRO - 每日时间管理~~ | ~~ATracker PRO - 每日時間管理~~ | ~~ATracker PRO - 每日時間管理~~ | ~~ATracker PRO - 每日時間管理~~ | ~~ATracker PRO Time Tracker~~ | ~~ATracker PRO Time Tracker~~ | ~~❌~~ |
 |1036|1456212639|Automatic|❌|返校|返校|返校|Detention|Detention|Detention|
 |1035|734464614|Automatic|生命密码|生命密碼|生命密碼|生命密碼|Numberology|Numberology|生命密碼|
-|1034|941671702|Automatic|GR Viewer|GR Remote Viewer for GR2 & GR3|GR Remote Viewer for GR2 & GR3|GR Remote Viewer for GR2 & GR3|GR Remote Viewer for GR2 & GR3|GR Remote Viewer for GR2 & GR3|GR Remote Viewer for GR2 & GR3|
+|1034|941671702|Automatic|GR Viewer|GR Viewer for GR2 & GR3|GR Viewer for GR2 & GR3|GR Viewer for GR2 & GR3|GR Viewer for GR2 & GR3|GR Viewer for GR2 & GR3|GR Viewer for GR2 & GR3|
 |1033|744851208|Automatic|❌|賽馬牧場物語|賽馬牧場物語|賽馬牧場物語|Pocket Stables|Pocket Stables|Pocket Stables|
 |1032|1123652342|Automatic|❌|侏羅紀GO - 恐龍抓拍歷險 - 發現並且抓拍可愛、有趣的恐龍|侏羅紀GO - 恐龍抓拍歷險 - 發現並且抓拍可愛、有趣的恐龍|侏羅紀GO - 恐龍抓拍歷險 - 發現並且抓拍可愛、有趣的恐龍|Jurassic GO - Dinosaur Snap Adventures|Jurassic GO - Dinosaur Snap Adventures|Dinossauro GO - Dinosaur Snap Adventures – Descubra e fotografe dinossauros fofos e engraçados!|
 |1031|6742740688|Automatic|无声冲突|❌|❌|❌|❌|❌|❌|

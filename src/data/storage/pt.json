@@ -11102,6 +11102,24 @@
     "history": [
       [
         {
+          "timestamp": 1792345098035,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "FL Cloud Mobile": "5,99 €",
+            "Ferrous Mobile": "2,99 €",
+            "Hyper-Pop Mobile": "2,99 €",
+            "Chip-Tune Mobile": "2,99 €",
+            "Essential Winds": "1,99 €",
+            "Essential Strings": "1,99 €",
+            "DubTechno": "1,99 €",
+            "Chill-Lo-Fi Mobile": "1,99 €",
+            "Technocraft": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792020712402,
           "price": 17.99,
           "formattedPrice": "17,99 €",
@@ -13171,6 +13189,25 @@
       "Cranky Sale Pack": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Mystery Duck Sale Pack": "0,99 €",
+            "Cranky Sale Pack": "0,99 €",
+            "Allie Sale Pack": "0,99 €",
+            "Serralheiro - Todas as fechaduras de Allie": "1,99 €",
+            "História de Allie": "0,99 €",
+            "Sale Pack": "3,99 €",
+            "Locksmith - One Lock": "0,99 €",
+            "Mystery Duck": "2,99 €",
+            "Locksmith - All Mystery Locks": "5,99 €",
+            "Locksmith - All Cranky Locks": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1783060427753,
@@ -31026,6 +31063,40 @@
       ]
     ]
   },
+  "633625517": {
+    "name": "Baldur's Gate II: EE",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €",
+      "Em Defesa do Lado Selvagem": "2,99 €",
+      "Preço Pago Com Sangue": "2,99 €",
+      "Uma Voz na Escuridão": "2,99 €",
+      "Galeria de Heróis": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €",
+      "Em Defesa do Lado Selvagem": "2,99 €",
+      "Preço Pago Com Sangue": "2,99 €",
+      "Uma Voz na Escuridão": "2,99 €",
+      "Galeria de Heróis": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Em Defesa do Lado Selvagem": "2,99 €",
+            "Preço Pago Com Sangue": "2,99 €",
+            "Uma Voz na Escuridão": "2,99 €",
+            "Galeria de Heróis": "2,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "634158738": {
     "name": "e-Sword LT: Bible Study to Go",
     "maxPriceInfo": {
@@ -40799,7 +40870,7 @@
     ]
   },
   "941671702": {
-    "name": "GR Remote Viewer for GR2 & GR3",
+    "name": "GR Viewer for GR2 & GR3",
     "maxPriceInfo": {
       "price": 9.99,
       "formattedPrice": "9,99 €"
@@ -147392,6 +147463,27 @@
           "inAppPurchases": {
             "NaviSyncRock": "5,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "6775851661": {
+    "name": "Agent Limbo: AI Coding",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]

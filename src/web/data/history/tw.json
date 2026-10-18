@@ -42469,6 +42469,14 @@
     "history": [
       [
         {
+          "timestamp": 1792345098035,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792071965226,
           "price": 0,
           "formattedPrice": "免費",
@@ -61219,6 +61227,42 @@
           "formattedPrice": "$190.00",
           "inAppPurchases": {
             "432 Player Full Features": "$290.00"
+          }
+        }
+      ]
+    ]
+  },
+  "633625517": {
+    "trackId": 633625517,
+    "trackName": "Baldur's Gate II: EE",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00",
+      "In Defense of the Wild": "$90.00",
+      "A Price Paid in Blood": "$90.00",
+      "A Voice in the Dark": "$90.00",
+      "Gallery of Heroes": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00",
+      "In Defense of the Wild": "$90.00",
+      "A Price Paid in Blood": "$90.00",
+      "A Voice in the Dark": "$90.00",
+      "Gallery of Heroes": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {
+            "In Defense of the Wild": "$90.00",
+            "A Price Paid in Blood": "$90.00",
+            "A Voice in the Dark": "$90.00",
+            "Gallery of Heroes": "$90.00"
           }
         }
       ]
@@ -81936,7 +81980,7 @@
   },
   "941671702": {
     "trackId": 941671702,
-    "trackName": "GR Remote Viewer for GR2 & GR3",
+    "trackName": "GR Viewer for GR2 & GR3",
     "region": "tw",
     "maxPriceInfo": {
       "price": 320,
@@ -98916,6 +98960,14 @@
       "formattedPrice": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764693496320,
@@ -196113,6 +196165,14 @@
     "history": [
       [
         {
+          "timestamp": 1792345098035,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789831584358,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -203483,6 +203543,14 @@
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791986862260,
@@ -228726,6 +228794,17 @@
       "Hello World!": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "甜蜜之家": "$30.00",
+            "Hello World!": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791737634883,
@@ -320780,14 +320859,22 @@
     "trackName": "Preserve: Complete Edition",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 120,
-      "formattedPrice": "$120.00"
+      "price": 150,
+      "formattedPrice": "$150.00"
     },
     "minPriceInfo": {
       "price": 120,
       "formattedPrice": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791484107175,
@@ -321179,6 +321266,29 @@
           "inAppPurchases": {
             "NaviSyncRock": "$150.00"
           }
+        }
+      ]
+    ]
+  },
+  "6775851661": {
+    "trackId": 6775851661,
+    "trackName": "Agent Limbo: AI Coding",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792345098035,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
         }
       ]
     ]

@@ -5538,6 +5538,25 @@
     "history": [
       [
         {
+          "timestamp": 1792352844500,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {
+            "Bach: The Mutopia Collection": "0,99 €",
+            "Beethoven: The Mutopia Collection": "0,99 €",
+            "Brahms: The Mutopia Collection": "0,00 €",
+            "Burgmüller: The Mutopia Collection": "0,00 €",
+            "Chopin: The Mutopia Collection": "0,99 €",
+            "Gottschalk: The Mutopia Collection": "0,00 €",
+            "Haydn: The Mutopia Collection": "0,00 €",
+            "Händel: The Mutopia Collection": "0,00 €",
+            "Joplin: The Mutopia Collection": "0,99 €",
+            "Liszt: The Mutopia Collection": "0,00 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785006341118,
           "price": 29.99,
           "formattedPrice": "29,99 €",
@@ -11102,6 +11121,23 @@
     "history": [
       [
         {
+          "timestamp": 1792352844500,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "0,99 €",
+            "Acoustic Guitars": "0,99 €",
+            "Voices": "0,99 €",
+            "Varazdin Orchestral Mobile": "3,99 €",
+            "Oldschool Breakbeats": "1,99 €",
+            "Amped Guitar & Bass": "2,99 €",
+            "Brazil Bass": "1,99 €",
+            "Sliced Beats": "0,99 €",
+            "Synth Lead": "1,99 €",
+            "PsyTrance": "2,99 €"
+          }
+        },
+        {
           "timestamp": 1792345098035,
           "price": 17.99,
           "formattedPrice": "17,99 €",
@@ -13190,6 +13226,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792352844500,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Cranky's Story": "2,99 €",
+            "Mystery Duck": "2,99 €",
+            "História de Allie": "0,99 €",
+            "Locksmith - One Lock": "0,99 €",
+            "Locksmith - All Swampy Locks": "5,99 €",
+            "Locksmith - All Cranky Locks": "1,99 €",
+            "Sale Pack": "3,99 €",
+            "Locksmith - All Mystery Locks": "5,99 €",
+            "Serralheiro - Todas as fechaduras de Allie": "1,99 €",
+            "Allie Sale Pack": "0,99 €"
+          }
+        },
         {
           "timestamp": 1792345098035,
           "price": 1.99,
@@ -54601,6 +54654,24 @@
       "Rockets get the door unlocking": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792352844500,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Props Tip: Temple corner": "0,99 €",
+            "Props Tip: Pyramid": "0,99 €",
+            "Props Tip: flower": "0,99 €",
+            "Get tips on holographic camera": "0,99 €",
+            "Get tips about two weeks mesh box factory eye": "0,99 €",
+            "Get tips about the triangle blocks (1-6)": "0,99 €",
+            "Get tips on the bucket": "0,99 €",
+            "Get tips on stone-eyed": "0,99 €",
+            "Get tips about this mysterious stone": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791147283290,
@@ -124498,6 +124569,25 @@
       "Blue Sky Theme": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792352844500,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "Monthly": "1,99 €",
+            "Yearly": "12,99 €",
+            "Bella": "1,99 €",
+            "Calico Theme": "1,99 €",
+            "Orange Theme": "1,99 €",
+            "Simba": "1,99 €",
+            "Siamese Theme": "1,99 €",
+            "Coco": "1,99 €",
+            "City Night Theme": "1,99 €",
+            "Blue Sky Theme": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791676595925,

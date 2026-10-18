@@ -1,23 +1,23 @@
 [
   {
-    "trackId": 966489322,
+    "trackId": 1422480068,
     "region": "us",
-    "timestamp": 1792327843521,
+    "timestamp": 1792352844500,
     "discounts": [
       {
         "type": "inAppPurchase",
-        "name": "永久会员",
+        "name": "Nautilus Unlock All and AI",
         "from": "$14.99",
-        "to": "$12.99",
-        "range": "[$12.99 ~ $19.99]"
+        "to": "$3.99",
+        "range": "[$3.99 ~ $14.99]"
       }
     ],
     "price": 0,
     "formattedPrice": "Free",
     "currency": "USD",
-    "trackViewUrl": "https://apps.apple.com/us/app/id966489322",
-    "trackName": "生辰 — 桌面时间小组件",
-    "firstRecordedAt": 1721960142187
+    "trackViewUrl": "https://apps.apple.com/us/app/id1422480068",
+    "trackName": "Notes Writer Browser: Nautilus",
+    "firstRecordedAt": 1722784406759
   },
   {
     "trackId": 441142802,

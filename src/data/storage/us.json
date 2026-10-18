@@ -69280,6 +69280,23 @@
     "history": [
       [
         {
+          "timestamp": 1792352844500,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Race Pass": "$4.99",
+            "700 Aces": "$9.99",
+            "300 Aces": "$5.99",
+            "5000 Aces": "$39.99",
+            "300 Aces Limited Time Offer": "$0.99",
+            "15000 Aces": "$99.99",
+            "700 Aces Limited Time Offer": "$4.99",
+            "Figo 100 Octane Fuel Pack - 20": "$3.99",
+            "Racing Prodigy 50 Quali Tyres": "$4.99",
+            "Le Cont Softs - 40 Tyres Pack": "$3.99"
+          }
+        },
+        {
           "timestamp": 1792345098035,
           "price": 0,
           "formattedPrice": "Free",
@@ -96313,6 +96330,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792352844500,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "永久会员": "$14.99",
+            "生辰-年度会员": "$12.99",
+            "生辰-季度会员": "$12.99",
+            "生辰年度会员": "$9.99",
+            "月度会员": "$1.99"
+          }
+        },
         {
           "timestamp": 1792327843521,
           "price": 0,
@@ -140263,6 +140292,24 @@
     "history": [
       [
         {
+          "timestamp": 1792352844500,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Pile of Gems": "$2.99",
+            "Casket of Gems": "$9.99",
+            "Pile of Coins": "$0.99",
+            "Bag of Coins": "$4.99",
+            "Bag of Gems": "$19.99",
+            "SF2SEPack3": "$2.99",
+            "Chest of Coins": "$19.99",
+            "SF2SEPack10": "$9.99",
+            "Chest of Gems": "$49.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791837063531,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -166185,10 +166232,21 @@
       "price": 0,
       "formattedPrice": "Free",
       "Notes Writer Pro AI Assistant": "$1.99",
-      "Nautilus Unlock All and AI": "$14.99",
+      "Nautilus Unlock All and AI": "$3.99",
       "Nautilus Pro Lifetime": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792352844500,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Nautilus Pro Lifetime": "$14.99",
+            "Nautilus Unlock All and AI": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792157762180,
@@ -238307,6 +238365,25 @@
     "history": [
       [
         {
+          "timestamp": 1792352844500,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Content Bundle 2": "$8.99",
+            "Reckless Car Pack": "$2.99",
+            "Off-Road Car Pack": "$2.99",
+            "Racing Heroes Car Pack": "$2.99",
+            "Steel & Wheels Pack": "$1.99",
+            "Goofy Roofs Pack": "$0.99",
+            "Getaway Car Pack": "$2.99",
+            "American All-Stars Car Pack": "$2.99",
+            "Rusty Rats Car Pack": "$2.99",
+            "Modified Monsters Car Pack": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792050467334,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -290148,7 +290225,13 @@
       "Japan Expansion": "$12.99",
       "India Expansion": "$12.99",
       "Welcome Offer": "$29.99",
-      "Ticket to Ride Sale Offer": "$29.99"
+      "Ticket to Ride Sale Offer": "$29.99",
+      "Ultimate Bundle": "$64.99",
+      "New York Map": "$9.99",
+      "France Map": "$9.99",
+      "Nederlands Map": "$9.99",
+      "Iberia Map": "$9.99",
+      "Old West Map": "$9.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -290198,9 +290281,30 @@
       "Japan Expansion": "$7.99",
       "India Expansion": "$7.99",
       "Welcome Offer": "$9.99",
-      "Ticket to Ride Sale Offer": "$27.99"
+      "Ticket to Ride Sale Offer": "$27.99",
+      "Ultimate Bundle": "$64.99",
+      "New York Map": "$9.99",
+      "France Map": "$9.99",
+      "Nederlands Map": "$9.99",
+      "Iberia Map": "$9.99",
+      "Old West Map": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792352844500,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Ultimate Bundle": "$64.99",
+            "New York Map": "$9.99",
+            "France Map": "$9.99",
+            "Nederlands Map": "$9.99",
+            "Iberia Map": "$9.99",
+            "Old West Map": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792050467334,

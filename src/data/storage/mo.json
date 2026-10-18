@@ -20247,6 +20247,23 @@
     "history": [
       [
         {
+          "timestamp": 1792352844500,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Ripley's Believe It or Not® Pinball Table": "USD 1.99",
+            "Black Hole™ Pinball Table": "USD 1.99",
+            "Gorgar™ + Monster Bash™": "USD 4.99",
+            "Theatre of Magic® Pinball Table": "USD 2.99",
+            "Cirqus Voltaire™": "USD 2.99",
+            "Medieval Madness™": "USD 2.99",
+            "The Machine: Bride of Pin•bot™": "USD 2.99",
+            "Stern Pack 1": "USD 4.99",
+            "Big Buck Hunter Single Table": "USD 9.99",
+            "Whoa Nellie Single Table": "USD 9.99"
+          }
+        },
+        {
           "timestamp": 1792345098035,
           "price": 0.99,
           "formattedPrice": "USD 0.99",

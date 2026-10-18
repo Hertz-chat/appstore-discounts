@@ -269827,6 +269827,25 @@
     "history": [
       [
         {
+          "timestamp": 1792352844500,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Santa Claws Card Back": "₺49,99",
+            "Santa Claws Pack": "₺199,99",
+            "Under the Tree location": "₺99,99",
+            "Santa Claws Emoji Pack": "₺49,99",
+            "All Wrapped Up outfit": "₺99,99",
+            "Snow Globe Outfit": "₺99,99",
+            "Mystic Mayhem Location": "₺49,99",
+            "MysticMayhem Cauldron Creature": "₺99,99",
+            "Mystic Mayhem Emoji Pack": "₺99,99",
+            "Mystic Mayhem Card Back": "₺49,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784632071349,
           "price": 199.99,
           "formattedPrice": "₺199,99",

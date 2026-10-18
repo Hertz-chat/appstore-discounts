@@ -2752,7 +2752,7 @@
   {
     "trackId": 479516143,
     "region": "tw",
-    "timestamp": 1792288192330,
+    "timestamp": 1792308581189,
     "discounts": [],
     "price": 235,
     "formattedPrice": "$235.00",
@@ -2933,7 +2933,7 @@
   {
     "trackId": 491231653,
     "region": "tw",
-    "timestamp": 1792157762180,
+    "timestamp": 1792308581189,
     "discounts": [],
     "price": 60,
     "formattedPrice": "$60.00",
@@ -3824,7 +3824,7 @@
   {
     "trackId": 562989701,
     "region": "tw",
-    "timestamp": 1792288192330,
+    "timestamp": 1792308581189,
     "discounts": [],
     "price": 30,
     "formattedPrice": "$30.00",
@@ -25484,6 +25484,18 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id6762921522",
     "trackName": "計分器-多人對局",
     "firstRecordedAt": 1780313630056
+  },
+  {
+    "trackId": 6763518834,
+    "region": "tw",
+    "timestamp": 1792308581189,
+    "discounts": [],
+    "price": 190,
+    "formattedPrice": "$190.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6763518834",
+    "trackName": "NaviBeat",
+    "firstRecordedAt": 1792308581189
   },
   {
     "trackId": 6763737180,

@@ -161558,6 +161558,25 @@
     "history": [
       [
         {
+          "timestamp": 1792308581189,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "68金玉": "HK$ 78.00",
+            "30金玉": "HK$ 38.00",
+            "6金玉": "HK$ 8.00",
+            "198金玉": "HK$ 238.00",
+            "648金玉": "HK$ 788.00",
+            "一鍵買斷禮包": "HK$ 38.00",
+            "禮包5": "HK$ 38.00",
+            "尊享月俸": "HK$ 38.00",
+            "328金玉": "HK$ 398.00",
+            "月俸": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791263120623,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -219956,7 +219975,8 @@
       "Unit Group Cathros": "HK$ 38.00",
       "Hero Zhara": "HK$ 38.00",
       "Special Daily Pack7": "HK$ 18.00",
-      "Unit Group Gars": "HK$ 38.00"
+      "Unit Group Gars": "HK$ 38.00",
+      "Special Daily Pack6": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -219986,9 +220006,29 @@
       "Unit Group Cathros": "HK$ 38.00",
       "Hero Zhara": "HK$ 38.00",
       "Special Daily Pack7": "HK$ 18.00",
-      "Unit Group Gars": "HK$ 38.00"
+      "Unit Group Gars": "HK$ 38.00",
+      "Special Daily Pack6": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792308581189,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "All Unit Groups": "HK$ 98.00",
+            "Hero Dragon Kosmos": "HK$ 58.00",
+            "All Heroes": "HK$ 118.00",
+            "Unit Group Jaegers": "HK$ 58.00",
+            "Hero Red Dragon": "HK$ 48.00",
+            "Special Daily Pack6": "HK$ 22.00",
+            "Unit Group Rebooted Ascendii": "HK$ 22.00",
+            "Unit Group Planterras": "HK$ 22.00",
+            "Hero Red Dragon On Sale": "HK$ 32.00",
+            "Unit Group Cathros": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791965170280,
@@ -306868,6 +306908,25 @@
     "history": [
       [
         {
+          "timestamp": 1792308581189,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "全塔禮包": "HK$ 148.00",
+            "全法術禮包": "HK$ 98.00",
+            "英雄 阿什彼特": "HK$ 58.00",
+            "英雄 德拉坎": "HK$ 58.00",
+            "全英雄禮包": "HK$ 228.00",
+            "英雄 鬼侍": "HK$ 38.00",
+            "英雄 伊格納斯": "HK$ 22.00",
+            "全英雄禮包_B": "HK$ 188.00",
+            "塔 奧術鍛造匠": "HK$ 38.00",
+            "塔 哨兵瞭望塔": "HK$ 48.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792004450196,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -308422,6 +308481,33 @@
           "price": 32,
           "formattedPrice": "HK$ 32.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6763518834": {
+    "trackId": 6763518834,
+    "trackName": "NaviBeat",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 48,
+      "formattedPrice": "HK$ 48.00",
+      "NaviSyncRock": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 48,
+      "formattedPrice": "HK$ 48.00",
+      "NaviSyncRock": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792308581189,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "NaviSyncRock": "HK$ 38.00"
+          }
         }
       ]
     ]

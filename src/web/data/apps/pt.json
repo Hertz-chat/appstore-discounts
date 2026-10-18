@@ -12665,7 +12665,7 @@
   {
     "trackId": 1499001662,
     "region": "pt",
-    "timestamp": 1792258533888,
+    "timestamp": 1792308581189,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "4,99 €",
@@ -22843,7 +22843,7 @@
   {
     "trackId": 6759664029,
     "region": "pt",
-    "timestamp": 1791687637772,
+    "timestamp": 1792308581189,
     "discounts": [],
     "price": 7.99,
     "formattedPrice": "7,99 €",
@@ -23427,6 +23427,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id6762921522",
     "trackName": "计分器-多人对局",
     "firstRecordedAt": 1780313630056
+  },
+  {
+    "trackId": 6763518834,
+    "region": "pt",
+    "timestamp": 1792308581189,
+    "discounts": [],
+    "price": 6.99,
+    "formattedPrice": "6,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6763518834",
+    "trackName": "NaviBeat",
+    "firstRecordedAt": 1792308581189
   },
   {
     "trackId": 6763737180,

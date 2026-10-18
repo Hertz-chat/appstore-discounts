@@ -61202,6 +61202,25 @@
     "history": [
       [
         {
+          "timestamp": 1792308581189,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Adult Supervision": "$1.99",
+            "Just For Kids": "$0.00",
+            "Happy Holidays": "$1.99",
+            "Mix It Up": "$0.00",
+            "That's So 90s": "$1.99",
+            "The Ellen Show": "$0.00",
+            "Food Fight": "$1.99",
+            "Adult Supervision 2: Even Adultier": "$1.99",
+            "Branded": "$1.99",
+            "Super Heroes": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792240324701,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -96204,6 +96223,20 @@
       "永久会员": "$12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792308581189,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "永久会员": "$14.99",
+            "生辰-年度会员": "$12.99",
+            "生辰-季度会员": "$12.99",
+            "生辰年度会员": "$9.99",
+            "月度会员": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788638313964,
@@ -235724,6 +235757,14 @@
     "history": [
       [
         {
+          "timestamp": 1792308581189,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791540411692,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -246860,6 +246901,25 @@
       "Hero Bomett On Sale": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792308581189,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "All Unit Groups": "$12.99",
+            "All Heroes": "$14.99",
+            "Hero Dragon Kosmos": "$6.99",
+            "Unit Group Jaegers": "$6.99",
+            "Unit Group Rebooted Ascendii": "$2.99",
+            "Hero Red Dragon": "$5.99",
+            "Hero Zhara": "$4.99",
+            "Starter Pack": "$4.99",
+            "Hero Gauntlet": "$4.99",
+            "Hero Red Dragon On Sale": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792201899634,
@@ -341927,6 +341987,25 @@
     "history": [
       [
         {
+          "timestamp": 1792308581189,
+          "price": 3.49,
+          "formattedPrice": "$3.49",
+          "inAppPurchases": {
+            "RED-WHITE RYUKIN": "$1.99",
+            "RED RYUKIN": "$1.99",
+            "ORANGE & WHITE KITTY FISH": "$1.99",
+            "ZOMBIE FISH": "$1.99",
+            "GHOST TRANSLUCENT": "$1.99",
+            "ROBO FISH 01": "$1.99",
+            "CALICO RED/WHITE/BLACK": "$1.99",
+            "PANDA TELESCOPE": "$1.99",
+            "ORANGE/WHITE": "$1.99",
+            "SKELETON FISH": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792157762180,
           "price": 3.49,
           "formattedPrice": "$3.49",
@@ -355822,6 +355901,31 @@
           "price": 14.99,
           "formattedPrice": "$14.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6763518834": {
+    "name": "NaviBeat",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99",
+      "NaviSyncRock": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99",
+      "NaviSyncRock": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792308581189,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "NaviSyncRock": "$4.99"
+          }
         }
       ]
     ]

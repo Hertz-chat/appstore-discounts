@@ -165906,6 +165906,25 @@
     "history": [
       [
         {
+          "timestamp": 1792308581189,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Dragon": "₺199,99",
+            "The Complete Collection": "₺1.999,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "Victorian London Board": "₺399,99",
+            "Welcome Offer": "₺999,99",
+            "Lava Dice": "₺249,99",
+            "Emberwing Token": "₺499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792157762180,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -222918,6 +222937,25 @@
       "Season 2 Pass": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792308581189,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Ultimate Pack": "₺799,99",
+            "Season 1 Pack": "₺499,99",
+            "Critical Mass": "₺399,99",
+            "Ultimate Pack (discount)": "₺599,99",
+            "Beyond the Bunkers": "₺399,99",
+            "Cheats & Punishment": "₺249,99",
+            "Season 1 Pack (discount)": "₺399,99",
+            "New Leaders": "₺249,99",
+            "Survival Guide": "₺149,99",
+            "Season 2 Pass": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791263120623,
@@ -297092,6 +297130,25 @@
     "history": [
       [
         {
+          "timestamp": 1792308581189,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Hero Drakkan": "₺399,99",
+            "Tower Sniper": "₺299,99",
+            "Hero Oni": "₺249,99",
+            "Tower Alchemist": "₺149,99",
+            "Spell Aspect of Sol": "₺249,99",
+            "Hero Ignus": "₺149,99",
+            "Gems Wagon": "₺2.499,99",
+            "ALL HEROES BUNDLE_B": "₺1.299,99",
+            "Tower Wildcat": "₺249,99",
+            "ALL TOWERS BUNDLE": "₺999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792240324701,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -298740,6 +298797,33 @@
           "price": 799.99,
           "formattedPrice": "₺799,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6763518834": {
+    "trackId": 6763518834,
+    "trackName": "NaviBeat",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 299.99,
+      "formattedPrice": "₺299,99",
+      "NaviSyncRock": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 299.99,
+      "formattedPrice": "₺299,99",
+      "NaviSyncRock": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792308581189,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "NaviSyncRock": "₺249,99"
+          }
         }
       ]
     ]

@@ -272432,6 +272432,23 @@
     "history": [
       [
         {
+          "timestamp": 1792327843521,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Boeing 787-10": "$60.00",
+            "Global scenery - 12 months": "$690.00",
+            "Boeing 777-300ER": "$60.00",
+            "The Aircraft Bundle": "$790.00",
+            "Airbus A380": "$60.00",
+            "Airbus A350-1000": "$120.00",
+            "UH-60": "$30.00",
+            "Concorde": "$60.00",
+            "Boeing 737 MAX 9": "$60.00"
+          }
+        },
+        {
           "timestamp": 1792258533888,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -318432,6 +318449,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792327843521,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Starter Pack 1": "$60.00",
+            "120 Diamonds": "$120.00",
+            "50 Diamonds": "$60.00",
+            "16 Base Heroes Unlock Pack": "$1,290.00",
+            "700 Diamonds": "$690.00",
+            "4000 Diamonds": "$2,990.00"
+          }
+        },
         {
           "timestamp": 1792258533888,
           "price": 30,

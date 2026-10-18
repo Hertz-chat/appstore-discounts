@@ -500,7 +500,10 @@
       "Superbowl Skin Pack": "USD 0.99",
       "Candy Land Pack": "USD 0.99",
       "Underwater World Pack": "USD 0.99",
-      "Spider Pack": "USD 0.99"
+      "Spider Pack": "USD 0.99",
+      "Halloween Skin Pack": "USD 0.99",
+      "Ice Monster Skin Pack": "USD 0.99",
+      "Retro Games SkinPack": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -523,9 +526,30 @@
       "Superbowl Skin Pack": "USD 0.99",
       "Candy Land Pack": "USD 0.99",
       "Underwater World Pack": "USD 0.99",
-      "Spider Pack": "USD 0.99"
+      "Spider Pack": "USD 0.99",
+      "Halloween Skin Pack": "USD 0.99",
+      "Ice Monster Skin Pack": "USD 0.99",
+      "Retro Games SkinPack": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792277094972,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Tyrannosaurus Rex Skin Pack": "USD 0.99",
+            "Halloween Skin Pack": "USD 0.99",
+            "Holiday Skin Pack": "USD 0.99",
+            "Dance Pack Too": "USD 0.99",
+            "Alien Pack": "USD 0.99",
+            "Ice Monster Skin Pack": "USD 0.99",
+            "Retro Games SkinPack": "USD 0.99",
+            "Medieval Pack": "USD 0.99",
+            "Japanese Skin Pack": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789642962261,
@@ -17830,6 +17854,14 @@
       "formattedPrice": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792277094972,
+          "price": 12.99,
+          "formattedPrice": "USD 12.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790437951279,

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2026-10-17T14:11:30.429Z</updated>
+    <updated>2026-10-18T00:21:12.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-17T14:11:30.430Z</updated>
+        <updated>2026-10-18T00:21:12.990Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnSat, 17 Oct 2026 14:11:30 GMT</id>
+        <id>rankingcnSun, 18 Oct 2026 00:21:12 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-17T14:11:30.431Z</updated>
+        <updated>2026-10-18T00:21:12.991Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -177,6 +177,23 @@ feedId:157007849019630592+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
+        <a href="https://appstore-discounts.eyelly.me/cn/441142802?lang=zh-CN">Bass Modes Symmetry School</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>6</b>
+      </td>
+      <td>
         <a href="https://appstore-discounts.eyelly.me/cn/443646748?lang=zh-CN">健身伙伴+：健身房锻炼</a>
       </td>
       <td>
@@ -197,7 +214,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/510249014?lang=zh-CN">水平仪 HD</a>
@@ -214,7 +231,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/633600716?lang=zh-CN">432 Player: Music in 432 Hz</a>
@@ -231,7 +248,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/857607006?lang=zh-CN">Triple A HD - Touch Visualizer</a>
@@ -248,7 +265,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/926177061?lang=zh-CN">TinType - 锡版相机</a>
@@ -265,7 +282,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/931188326?lang=zh-CN">DayCost</a>
@@ -282,7 +299,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1160943124?lang=zh-CN">听写文本：语音识别</a>
@@ -299,7 +316,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1225490847?lang=zh-CN">电子相册大师(专业版)</a>
@@ -316,7 +333,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1309638846?lang=zh-CN">Goodak 复古胶片相机 - 拍立得旅行摄影，拍照水印滤镜</a>
@@ -333,7 +350,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1344655035?lang=zh-CN">蜡烛人</a>
@@ -350,7 +367,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1391571907?lang=zh-CN">Fine修图</a>
@@ -367,7 +384,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1410053842?lang=zh-CN">小渔排班: 倒班日历与轮班闹钟</a>
@@ -384,7 +401,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1422480068?lang=zh-CN">Notes Writer Browser: Nautilus</a>
@@ -401,7 +418,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1437479513?lang=zh-CN">逃脱者：困境突围</a>
@@ -418,7 +435,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1481100296?lang=zh-CN">BreatheIn：放松呼吸</a>
@@ -435,7 +452,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1492049794?lang=zh-CN">宗师-武林风云传</a>
@@ -452,7 +469,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1500126852?lang=zh-CN">Chord</a>
@@ -469,7 +486,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1523446532?lang=zh-CN">重生细胞</a>
@@ -486,7 +503,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1524418421?lang=zh-CN">SessionBand Jazz Fusion</a>
@@ -503,7 +520,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1534488108?lang=zh-CN">SessionBand Jazz 4</a>
@@ -520,7 +537,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1544190466?lang=zh-CN">避难所：生存</a>
@@ -537,7 +554,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1551596643?lang=zh-CN">模拟地铁</a>
@@ -554,7 +571,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1561849298?lang=zh-CN">SessionBand Soul Jazz Funk 3</a>
@@ -571,7 +588,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1626320298?lang=zh-CN">极速变色龙</a>
@@ -588,7 +605,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1665759338?lang=zh-CN">坐在罐子里的人</a>
@@ -605,7 +622,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1667072735?lang=zh-CN">Watch Web Browser</a>
@@ -622,7 +639,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6752662508?lang=zh-CN">时光轨迹-足迹·每日轨迹·记录一生轨迹·GPS</a>
@@ -639,7 +656,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6760764479?lang=zh-CN">Alpin Quest PRO – Outdoor GPS</a>
@@ -662,7 +679,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6802565793?lang=zh-CN">我不想当班主任-班主任工作台&教师工作台&班级管理</a>
@@ -679,7 +696,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6760446039?lang=zh-CN">般若心灯</a>
@@ -696,7 +713,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6755290585?lang=zh-CN">Raiders Map</a>
@@ -719,7 +736,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6748287593?lang=zh-CN">问题盒子-清空大脑，告别内耗</a>
@@ -736,7 +753,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6760777178?lang=zh-CN">Film Light</a>
@@ -753,7 +770,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6757943661?lang=zh-CN">阿福出境管家 - 签证通过率评估与材料清单</a>
@@ -770,7 +787,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6471594918?lang=zh-CN">Just a Simple Image Converter</a>
@@ -1366,6 +1383,65 @@ feedId:157007849019630592+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bass Modes Symmetry School]]></title>
+        <id>Bass Modes Symmetry School-cn-1792277094972</id>
+        <link href="https://appstore-discounts.eyelly.me/cn/441142802?lang=zh-CN"/>
+        <updated>2026-10-17T22:44:54.972Z</updated>
+        <summary type="html"><![CDATA[价格: ¥118.00 → ¥88.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/441142802?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f9/cc/99/f9cc99fd-158a-ad1a-861e-f55511bf1d94/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥118.00</span> → <b>
+  <strong>¥88.00</strong>
+</b><span>[¥68.00 ~ ¥118.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>¥88.00</b>
+</p><h2>应用描述</h2><p>
+  If you love music and want to master your bass guitar in perfection like Richard Bona, Stanley Clarke, John Patitucci, Billy Sheehan, Victor Wooten, Gary Willis, or even better, then you just need to have this app!!!
+
+Demo video: http://www.youtube.com/watch?v=2LPNsS2F6bs
+
+This app is a great collection of bass guitar modes, that gives you an excellent original material for improvisations and solo on the bass! Bass Modes Symmetry School is a triple horizontal system, in which modes are played with three notes on each string. Today many progressive bass guitarists use the wide extended fingering instead of usual traditional. This school presents "horizontal-extended" fingering, that helps you to perform modes in 1-2 octaves bound. The material in this school is also irreplaceable if you want to master a shredding bass technique. The app will be useful as for beginners, so for professionals!
+
+●●●●● Bass Modes Symmetry School features: 
+--------------------------------------
+- 3-notes-per-string approach works perfectly for bass
+- Easy learning of modes
+- Ability to achieve fast performance speed (●SHREDDING●)
+- Theoretical and practical usage for guitar, bass and piano players
+- Given material works best with jazz but also can be used for latin, pop, funk, rock, etc. 
+- This school will work for a beginner as well as for intermediate and advanced players. 
+
+●●●●● App Features: 
+------------------ 
+● 322 + 23 (new) types of different bass modes, which can be easily transposed, resulting in about 3,800 of total modes!
+● Harmony feature: you can see and listen to the chords, over which given modes can be played. More information about these chords you can find in our "International Guitar Chords 1 & 2" apps 
+● Every mode is provided with corresponding optimal fingerings for your comfort 
+● Transpose modes to any desired key by dragging notes on the screen with your finger
+● Metrotone with adjustable tempo and time signature can be used as a trainer
+● 5 different Metrotone click sounds at your choice
+● Cursor can display note names or fingering (selectable) 
+● Notes can display note names or fingering (selectable)
+● Sharp and flat signatures correspond to the current mode's key  
+● Fast cycled playback of modes with adjustable tempo
+● Slow step-by-step playback of modes for easier learning 
+● Six selectable harmony timbres to choose from 
+● Stereo Chorus FX for harmony chords at your choice
+● Reverb effect, applied to bass guitar and harmony (adjustable)
+● designed both for iPhone and iPad
+
+● iOS 10 and up compatible
+ 
+For support and full documentation on this and other our products please visit our website: 
+---------------------------------- 
+http://www.fonexsis.com
+---------------------------------- 
+
+With respect, 
+Fonexsis Creative Group.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2a/f9/b1/2af9b181-1a61-4266-a256-9cb7808eb575/2697b9a3-5107-4701-a163-3ec72ad198bd_Spart1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/08/03/18/0803187e-b972-1a8b-b17a-491200eb218a/eac52098-d175-4313-82eb-244d56e3bb7f_Spart2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/53/5e/af/535eaf65-dd14-1a2e-146a-e6270d28b92c/37a3e561-22c7-4758-bc2c-c8408315a8bd_Spart3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/aa/8a/fa/aa8afa62-0d17-214f-b979-178656ad3dd0/9e7f2eb2-2df9-41c3-a11d-a40693775d62_Spart4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4b/e0/3c/4be03c58-b1e5-7951-7bcb-ca6aabe8e405/cd609484-41e7-419a-b752-43a3fe037647_Spart5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ea/8e/d2/ea8ed21e-f83e-ab28-b278-ea7727ec1d7e/245e6fad-06d0-4e11-9e23-0242da154d10_SIpad1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2c/96/cc/2c96ccce-4f99-21c2-e076-bb4fbcf940c1/11edcd0e-58b2-4a4c-b76d-ca37843d1a90_SIpad2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5a/1f/1a/5a1f1a69-f498-8241-7ce9-6b94621140d3/0e3dd55a-522f-441a-b297-195a20a83bce_SIpad3.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e5/d9/bb/e5d9bb78-2350-8f5f-2152-53bd907fa7aa/9a47bd62-3363-4034-96c1-1004dece8188_SIpad4.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/71/e5/5c/71e55ccb-05e9-c088-5e87-92b393a4da86/d0274f02-9583-4cd8-ae93-77c7abefbf2f_SIpad5.jpg/552x414bb.jpg" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Watch Web Browser]]></title>
         <id>Watch Web Browser-cn-1792240324701</id>
         <link href="https://appstore-discounts.eyelly.me/cn/1667072735?lang=zh-CN"/>
@@ -1748,33 +1824,5 @@ Fine VIP 解锁全部高级工具、滤镜、效果与模板，提供包月和�
 使用条款：https://fine.youthpe.com/terms
 隐私政策：https://fine.youthpe.com/privacy
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/bf/37/02bf37bb-2125-88f9-d05b-67de18808d45/89ffbcdf-f84e-4498-b1f7-57449aed5df7_02.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/e5/d0/6ce5d019-c11d-645a-8c40-71bfb3aaf418/ca1d5dd4-0885-47a1-b56a-89c1dee4f5df_01.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/54/bc/b954bc1f-0df6-3403-dbba-5f136902cad3/dcde3abe-fd6a-4732-9cbd-616f498bf042_03.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/36/79/14367991-f4c2-32b9-3f85-b84cddb22306/95e33c11-e3fc-4bb2-8868-f2fe9ef085e8_06.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/d5/43/90d543f0-83c6-acf3-d5a4-31a4efb6b035/ae358a47-24bc-4270-94d0-2d9fc8670ac7_05.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/69/4b/88694b2c-d805-bb78-cc2f-58d480b26f01/f1db7504-3a11-4523-921a-6f408983c039_08.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/39/91/33399154-5819-47a4-5710-39e1f77cc2f9/b1a69aac-2aa6-4f1b-aee4-4d29a353fa47_07.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/58/a2/9358a2dd-7293-de88-c316-246c60ae0b1a/fc1837f6-ae73-444e-9acc-f6bbeb62ad7c_04.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/cd/74/82cd7438-6be1-a42c-7c63-68c78a5a8484/0a173995-bdd1-48bf-bdb6-96e864974f02_09.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/71/7b/14717bcb-fd77-0b1f-e7ef-05336725064d/609023d9-33b9-4725-9f08-afc1b5980f6a_01.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/dd/c8/b0ddc8d9-68ed-34fd-4c47-957f5eb099a7/63fffd24-b31d-41d8-b772-4c96a5ad14e5_02.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/e8/1a/35e81a30-60a1-e8a3-1e25-f07886c0f0e6/e082a4b4-aada-43a7-8a16-4f877b2371cc_03.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/73/c1/cc73c148-b9ce-fe5e-c51d-69f3279f655e/515c1662-1696-4103-9f20-b35d6ffd3313_06.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/00/33/290033dd-4118-7b24-af0c-bb804dd1e5a2/2a13f15a-7da2-4bd4-9b1d-7d0116d70919_05.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/5d/9d/485d9df3-1a8b-d5cf-2cac-a1f885ba6368/b90fabf3-b208-4ba1-b5f4-db15cd698e92_08.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/9a/63/969a63bc-067a-618f-adfd-ce6d3bd11804/d0244925-0fc9-4bae-b315-be37e0015142_07.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/55/b4/df55b47a-488f-ea41-d413-f918ab6376e0/5997769c-9a5b-4172-8b2c-dcecd56a572c_04.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/31/40/7131405f-fbe5-d0a0-b59c-88cbfd403666/57692a2e-8295-41bf-9685-517807ee5309_09.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch Tuner Lite]]></title>
-        <id>Watch Tuner Lite-cn-1792004450196</id>
-        <link href="https://appstore-discounts.eyelly.me/cn/968820626?lang=zh-CN"/>
-        <updated>2026-10-14T19:00:50.196Z</updated>
-        <summary type="html"><![CDATA[价格: ¥15.00 → ¥8.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/968820626?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/55/27/7655271f-8938-6bda-66f9-bc118c69086d/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥15.00</span> → <b>
-  <strong>¥8.00</strong>
-</b><span>[¥8.00 ~ ¥15.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>¥8.00</b>
-</p><h2>应用描述</h2><p>
-  Watch Tuner Lite measures the accuracy of mechanical and automatic watches. It uses the built-in microphone or headset microphone to record the audible tick of the watch and calculates the seconds-per-day deviation. Works with almost any 'ticking' watch/clock.
-
-Use in a quiet environment. Any ambient noise can affect the accuracy of the results. Complete silence is best.
-
-Recommended way to record the ticks is to touch the crown of the watch with the headset microphone. You will get the best results using original Apple EarPods.
-
-This is a simple version of Watch Tuner application. Not everyone needs detailed information about a watch movement, sometimes only accuracy is important. Watch Tuner Lite uses very similar algorithm like Watch Tuner does but displays only seconds-per-day deviation.
-
-If you want to know how much your watch is fast or slow, this application is for you.
-If you prefer to measure also beat error and amplitude, try Watch Tuner - a bigger brother of this app.
-If you need frequency diagram look at Watch Tuner Timegrapher - the most sophisticated app of Watch Tuner series.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/36/10/f2361086-ca63-b1ac-9499-f9127601b895/wt_lite.jpeg/320x480bb.jpg" />]]></content>
     </entry>
 </feed>

@@ -45405,6 +45405,14 @@
     "history": [
       [
         {
+          "timestamp": 1792363190565,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792106595136,
           "price": 0,
           "formattedPrice": "Free",
@@ -97929,6 +97937,14 @@
       "formattedPrice": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792363190565,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764727484041,
@@ -192635,6 +192651,14 @@
     "history": [
       [
         {
+          "timestamp": 1792363190565,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789857698268,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -205473,6 +205497,14 @@
       "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792363190565,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792020712402,
@@ -228160,6 +228192,17 @@
       "Home Sweet Home": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792363190565,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "Hello World!": "₺49,99",
+            "Home Sweet Home": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791773850972,
@@ -273241,6 +273284,25 @@
     "history": [
       [
         {
+          "timestamp": 1792363190565,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "₺499,99",
+            "Mystic Mayhem Pack": "₺199,99",
+            "Santa Claws Pack": "₺199,99",
+            "Kitchen Chaos Pack": "₺199,99",
+            "Santa Claws Card Back": "₺49,99",
+            "Under the Tree location": "₺99,99",
+            "Santa Claws Emoji Pack": "₺49,99",
+            "All Wrapped Up outfit": "₺99,99",
+            "Snow Globe Outfit": "₺99,99",
+            "Mystic Mayhem Location": "₺49,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792352844500,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -298518,14 +298580,22 @@
     "trackName": "Preserve: Complete Edition",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99"
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
     },
     "minPriceInfo": {
       "price": 199.99,
       "formattedPrice": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792363190565,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791484107175,

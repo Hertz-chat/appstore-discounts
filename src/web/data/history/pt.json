@@ -5706,6 +5706,23 @@
     "history": [
       [
         {
+          "timestamp": 1792363190565,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {
+            "forScore Pro": "17,99 €",
+            "forScore Pro 30-Day Pass": "2,99 €",
+            "Brahms: The Mutopia Collection": "0,00 €",
+            "Liszt: The Mutopia Collection": "0,00 €",
+            "Haydn: The Mutopia Collection": "0,00 €",
+            "Schumann: The Mutopia Collection": "0,00 €",
+            "Satie: The Mutopia Collection": "0,00 €",
+            "Tchaikovsky: The Mutopia Collection": "0,00 €",
+            "Händel: The Mutopia Collection": "0,00 €",
+            "Rameau: The Mutopia Collection": "0,00 €"
+          }
+        },
+        {
           "timestamp": 1792352844500,
           "price": 29.99,
           "formattedPrice": "29,99 €",
@@ -21096,6 +21113,14 @@
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792363190565,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792106595136,
@@ -48588,6 +48613,14 @@
     "history": [
       [
         {
+          "timestamp": 1792363190565,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1764727484041,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -56021,6 +56054,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792363190565,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Open the box to get the rocket": "0,99 €",
+            "Get tips about this mysterious stone": "0,99 €",
+            "Get tips about the diamond pyramid": "0,99 €",
+            "Props Tip: Temple corner": "0,99 €",
+            "Props Tip: Pyramid": "0,99 €",
+            "Props Tip: flower": "0,99 €",
+            "Get tips on holographic camera": "0,99 €",
+            "Get tips about two weeks mesh box factory eye": "0,99 €",
+            "Get tips about the triangle blocks (1-6)": "0,99 €",
+            "Get tips on the bucket": "0,99 €"
+          }
+        },
         {
           "timestamp": 1792352844500,
           "price": 0.99,
@@ -91664,6 +91714,14 @@
     "history": [
       [
         {
+          "timestamp": 1792363190565,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789857698268,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -96876,6 +96934,14 @@
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792363190565,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792020712402,
@@ -108893,6 +108959,17 @@
       "Home Sweet Home": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792363190565,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Hello World!": "0,99 €",
+            "Home Sweet Home": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791773850972,
@@ -127792,6 +127869,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792363190565,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "Jingle": "2,99 €",
+            "2025 Spring Forest Theme": "1,99 €",
+            "2025 Spring Lawn Theme": "2,99 €",
+            "2025 Spring Flower Theme": "1,99 €",
+            "Lawn Theme": "1,99 €",
+            "Toby": "1,99 €",
+            "Gizmo": "1,99 €",
+            "Lucky": "1,99 €",
+            "Loki": "1,99 €",
+            "Civet Theme": "1,99 €"
+          }
+        },
         {
           "timestamp": 1792352844500,
           "price": 0.29,
@@ -151315,14 +151409,22 @@
     "trackName": "Preserve: Complete Edition",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "6,99 €"
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
     },
     "minPriceInfo": {
       "price": 6.99,
       "formattedPrice": "6,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792363190565,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791484107175,

@@ -96331,6 +96331,18 @@
     "history": [
       [
         {
+          "timestamp": 1792363190565,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "月度会员": "$1.99",
+            "生辰-年度会员": "$12.99",
+            "生辰年度会员": "$9.99",
+            "永久会员": "$12.99",
+            "生辰-季度会员": "$12.99"
+          }
+        },
+        {
           "timestamp": 1792352844500,
           "price": 0,
           "formattedPrice": "Free",
@@ -166237,6 +166249,15 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792363190565,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Nautilus Unlock All and AI": "$14.99",
+            "Nautilus Pro Lifetime": "$14.99"
+          }
+        },
         {
           "timestamp": 1792352844500,
           "price": 0,
@@ -238365,6 +238386,23 @@
     "history": [
       [
         {
+          "timestamp": 1792363190565,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Content Bundle 1": "$10.99",
+            "Content Bundle 2": "$8.99",
+            "Getaway Car Pack": "$2.99",
+            "Modified Monsters Car Pack": "$2.99",
+            "Racing Heroes Car Pack": "$2.99",
+            "Off-Road Car Pack": "$2.99",
+            "Steel & Wheels Pack": "$1.99",
+            "American All-Stars Car Pack": "$2.99",
+            "Banger Racing Car Pack": "$2.99",
+            "Rusty Rats Car Pack": "$2.99"
+          }
+        },
+        {
           "timestamp": 1792352844500,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -290291,6 +290329,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792363190565,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Round the World Ticket": "$49.99",
+            "1910 Ticket Pack": "$3.99",
+            "Europe Expansion": "$14.99",
+            "Welcome Offer": "$29.99",
+            "Ticket to Ride ChristmasBundle": "$9.99",
+            "Europe Map": "$12.99",
+            "Ticket to Ride Sale Offer": "$29.99",
+            "Nordic Expansion": "$12.99",
+            "Legendary Asia Expansion": "$12.99",
+            "San Francisco City Expansion": "$12.99"
+          }
+        },
         {
           "timestamp": 1792352844500,
           "price": 4.99,

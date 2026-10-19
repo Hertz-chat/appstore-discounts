@@ -45835,6 +45835,14 @@
     "history": [
       [
         {
+          "timestamp": 1792375600089,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792136164280,
           "price": 0,
           "formattedPrice": "Free",
@@ -109821,6 +109829,14 @@
     "history": [
       [
         {
+          "timestamp": 1792375600089,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1764736516403,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -173690,6 +173706,25 @@
     "history": [
       [
         {
+          "timestamp": 1792375600089,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Teammate Package#2": "$4.99",
+            "Bronze Decree": "$25.99",
+            "Heroic Package#3": "$49.99",
+            "Role Package III": "$9.99",
+            "Suit Package": "$29.99",
+            "Teammate Package": "$4.99",
+            "Role Package": "$2.99",
+            "Heroic Package#2": "$9.99",
+            "Heroic Package#1": "$9.99",
+            "Resource Package": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791752970806,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -175393,6 +175428,25 @@
       "1980玉符": "$29.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792375600089,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "68金玉": "$9.99",
+            "198金玉": "$29.99",
+            "30金玉": "$4.99",
+            "648金玉": "$99.99",
+            "禮包5": "$4.99",
+            "禮包7": "$14.99",
+            "禮包6": "$9.99",
+            "6金玉": "$0.99",
+            "尊享月俸": "$4.99",
+            "禮包9": "$29.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791799508618,
@@ -212573,6 +212627,14 @@
     "history": [
       [
         {
+          "timestamp": 1792375600089,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789875421958,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -231319,6 +231381,14 @@
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792375600089,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792050467334,
@@ -250948,6 +251018,25 @@
     "history": [
       [
         {
+          "timestamp": 1792375600089,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "自建武将皮肤4": "$3.99",
+            "自建武将皮肤3": "$9.99",
+            "自建武将皮肤2": "$3.99",
+            "自创武将皮肤1": "$9.99",
+            "一袋碎片": "$49.99",
+            "一堆碎片": "$3.99",
+            "自定义武将席位6": "$3.99",
+            "自定义武将席位4": "$3.99",
+            "自定义武将席位5": "$3.99",
+            "自定义武将席位3": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786421952117,
           "price": 0.29,
           "formattedPrice": "$0.29",
@@ -262522,6 +262611,17 @@
       "Hello World!": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792375600089,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Home Sweet Home": "$0.99",
+            "Hello World!": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791773850972,
@@ -349238,6 +349338,23 @@
     "history": [
       [
         {
+          "timestamp": 1792375600089,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Pro Mensal": "$1.99",
+            "Elite Annual": "$7.99",
+            "1 Token Coach IA": "$0.99",
+            "SENSI iPhone 15 a 17 Pro Max": "$1.99",
+            "3 Tokens Coach IA": "$1.99",
+            "Clone de Sensi": "$0.99",
+            "SENSI RANKED iPhone 15 a 17 Pro Max": "$1.99",
+            "SENSI iPhone 13 a 14 Pro Max": "$1.99",
+            "SENSI RANKED iPhone 13 a 14 Pro Max": "$1.99",
+            "SENSI iPhone X a 12 Pro Max": "$1.99"
+          }
+        },
+        {
           "timestamp": 1792327843521,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -355918,14 +356035,22 @@
   "6775430354": {
     "name": "Preserve: Complete Edition",
     "maxPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "$6.99"
+      "price": 7.99,
+      "formattedPrice": "$7.99"
     },
     "minPriceInfo": {
       "price": 6.99,
       "formattedPrice": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792375600089,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791484107175,

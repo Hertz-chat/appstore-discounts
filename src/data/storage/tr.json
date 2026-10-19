@@ -292987,6 +292987,25 @@
     "history": [
       [
         {
+          "timestamp": 1792375600089,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Hero Drakkan": "₺399,99",
+            "Hero Ashbite": "₺399,99",
+            "Tower Sniper": "₺299,99",
+            "Tower Alchemist": "₺149,99",
+            "Tower Wildcat": "₺249,99",
+            "Hero Oni": "₺249,99",
+            "Spell Aspect of Sol": "₺249,99",
+            "Hero Ignus": "₺149,99",
+            "Gems Wagon": "₺2.499,99",
+            "ALL HEROES BUNDLE_B": "₺1.299,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792308581189,
           "price": 399.99,
           "formattedPrice": "₺399,99",

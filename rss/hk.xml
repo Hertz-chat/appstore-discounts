@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2026-10-19T17:35:05.325Z</updated>
+    <updated>2026-10-19T23:28:26.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008141708743680+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-19T17:35:05.325Z</updated>
+        <updated>2026-10-19T23:28:26.431Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008141708743680+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkMon, 19 Oct 2026 17:35:05 GMT</id>
+        <id>rankinghkMon, 19 Oct 2026 23:28:26 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-19T17:35:05.325Z</updated>
+        <updated>2026-10-19T23:28:26.431Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -1611,6 +1611,23 @@ feedId:157008141708743680+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>86</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/hk/6742457882?lang=zh-CN">Deco: Wallpaper & Stickers</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -2507,6 +2524,49 @@ feedId:157008141708743680+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Deco: Wallpaper & Stickers]]></title>
+        <id>Deco: Wallpaper &amp; Stickers-hk-1792446504330</id>
+        <link href="https://appstore-discounts.eyelly.me/hk/6742457882?lang=zh-CN"/>
+        <updated>2026-10-19T21:48:24.330Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 22.00 → 免費]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/6742457882?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/ec/75/09ec75d9-9d2f-8575-b4da-a1c46bcd7e7c/Default-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 22.00</span> → <b>
+  <strong>免費</strong>
+</b><span>[免費 ~ HK$ 22.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>免費</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    Deco Plus：<b>HK$ 34.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Make wallpapers, widgets, and watch faces with your photos, text, emoji, and stickers. Create something for your own screens or share it with friends.
+
+MAKE IT YOURS
+Start with a photo, a gradient, stripes, or a solid color. Turn photo cutouts, words, and emoji into stickers. Choose fonts, colors, outlines, and finishes, then move, resize, rotate, and layer your stickers.
+
+WALLPAPERS, WIDGETS, AND WATCH FACES
+Make wallpapers for iPhone and iPad or choose custom dimensions. Create Home Screen widgets with a separate layout for each size. Export your artwork as an Apple Watch face. Use your saved stickers in Messages, too.
+
+CREATE AND SHARE
+Send an image, share an editable copy, or invite friends to a shared creation. Choose who can view or edit. Friends can join for free.
+
+ADD MOVEMENT AND TEXTURE
+Create Live Photo wallpapers with animated sticker effects. Try finishes including chrome, holographic, glitter, embroidery, and risograph, and preview animations as you work.
+
+KEEP YOUR COLLECTION WITH YOU
+Keep your creations and sticker library across your devices with iCloud. Search for artwork by what its images show, explore guides and ideas, and use Shortcuts to create and work with your designs.
+
+DECO PLUS
+Start free with up to three wallpapers, two widgets, and ten saved stickers. Unlock more with Deco Plus, available as a one-time purchase. Every price option includes the same Plus features. If you bought Deco before version 3.0, you keep your paid access.
+
+Privacy Policy: https://docs.aethers.world/deco/privacypolicy
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/0f/35/b10f35c8-e22d-08d7-26d3-559304b356b1/iPhone_Main.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/ba/8b/ecba8b6c-c3ab-15b8-0270-279b0f131ad4/iPhone_Widgets.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/7b/92/d87b92c6-7409-eedb-e94f-f1d98671904f/iPhone_Layout.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/f7/7d/bdf77d67-0063-6769-803a-f4a5d88e0ba7/iPhone_Backgrounds.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/29/5f/bf295fcc-b6f7-b7cd-bf97-1b388b41c10e/iPhone_Collaboration.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/07/c8/7e07c897-cb08-b6c4-e02e-b6851d47d5e9/iPhone_Sticker.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/67/32/0767321a-1816-2377-d3c6-30176932ba34/iPhone_Classic_Special.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/25/77/4e25772f-41da-1bdb-f184-8f4e744868e6/iPad_Main.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/0b/80/290b80dc-88bf-42a3-370f-b75b1ee68a2d/iPad_Widgets.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/fd/f4/fbfdf4af-4979-baf3-db3b-e62b50b267c3/iPad_Layout.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/0f/0d/690f0df8-f303-38bf-823f-c0482a490013/iPad_bg.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/9e/24/829e24c3-5bed-1e67-7fd0-575122964710/iPad_share.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/c6/b1/cfc6b1ce-7d67-ce4b-1b41-e1c1c6f75416/iPad_stickers.png/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kingdom Rush 6: Genesis TD]]></title>
         <id>Kingdom Rush 6: Genesis TD-hk-1792425460361</id>
         <link href="https://appstore-discounts.eyelly.me/hk/6759664029?lang=zh-CN"/>
@@ -3243,31 +3303,5 @@ Keeps Pro
 Keeps 免費版最多可儲存 30 件物品。Keeps Pro 不限數量。 匯入購買記錄是 Keeps Pro 的功能。你可以先查看檔案包含的內容。 無論是否擁有 Pro，你新增的所有內容都會保留。在 Keeps 免費前就已購買？Pro 已包含在內。
 Keeps Pro · 一次性購買
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/55/da/0455da67-5610-a28a-cbcf-27e6cf3b4bfb/zh-Hant_display_69_01.jpeg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/96/67/af9667c1-1822-30db-e81b-adf0ff11f1f4/zh-Hant_display_69_02.jpeg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/5c/31/125c3110-e022-5314-2bed-06bab5365e43/zh-Hant_display_69_03.jpeg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/eb/f1/1bebf1e5-13c7-b33a-53a7-8807eed80cad/zh-Hant_display_69_04.jpeg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/d5/c5/74d5c551-590a-4395-680e-7b7f52361f96/zh-Hant_display_69_05.jpeg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/f4/b6/a3f4b6f0-1210-8fd4-1864-7a7237b2dd90/zh-Hant_display_69_06.jpeg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/b4/b4/68b4b4c5-1f2d-3fd2-b557-cf812a30af0e/zh-Hant_display_13_01.jpeg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/31/6b/14316bd7-06b9-84be-9baf-2a2213b1daf2/zh-Hant_display_13_02.jpeg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/dc/d6/e0dcd65b-89fa-7695-99a5-57dcdfafa483/zh-Hant_display_13_03.jpeg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/5b/0a/2f5b0a04-816f-f91f-5032-2012d5bb2c29/zh-Hant_display_13_04.jpeg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/85/27/d6852772-e542-74f0-76a0-a36ef0428100/zh-Hant_display_13_05.jpeg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/82/5b/93825b32-9d76-3a71-3a24-80d1551f89f3/zh-Hant_display_13_06.jpeg/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astrea: Six-Sided Oracles]]></title>
-        <id>Astrea: Six-Sided Oracles-hk-1792175391583</id>
-        <link href="https://appstore-discounts.eyelly.me/hk/6746136017?lang=zh-CN"/>
-        <updated>2026-10-16T18:29:51.583Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 88.00 → HK$ 58.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/6746136017?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/da/5f/20da5f2f-c61a-865c-2f75-eadc682721ce/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 88.00</span> → <b>
-  <strong>HK$ 58.00</strong>
-</b><span>[HK$ 48.00 ~ HK$ 88.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 58.00</b>
-</p><h2>应用描述</h2><p>
-  建立足夠強大的骰子組合，淨化阿斯特賴亞失控的腐敗並拯救星系。
-
-特色
-• 獨特的雙重「傷害」系統：腐化與淨化——《阿斯特賴亞》有一種新型的「傷害」系統。淨化可以用來傷害敵人或治療自己，而腐化可以用來傷害自己或治療敵人。使用淨化來安撫敵人，或腐化自己來釋放力量以扭轉戰局。
-• 動態生命條系統——將技能附加到生命條後，可以使用腐化來啟用這些技能並釋放強大的能力。但是要小心，如果接受了太多腐敗，你可能會被會被它消耗殆盡。
-• 不是紙牌，是骰子！——建立適合你遊戲風格的骰子組合。從超過350顆骰子和三種骰子類型中選擇：可靠安全、完美平衡或強大有風險。以高風險、高報酬為核心設計的骰子型系統。
-• 自訂骰子——編輯骰子面，以新動作來創造自己的命運，讓強大結果的機率對自己有利。
-• 在六位勇敢神諭者中選擇——每一位都擁有自己獨特的骰子組合、能力與玩法風格。從靈巧的施法者到野蠻的狂戰士，無論是喜歡讓對手挨轟求饒，還是想以智取勝，總有一位適合你。
-• 發現超過170種修改賜福——為神諭者注入獨特的被動技，產生強大的效果，將改變你的基本策略。在恆星賜福（力量較弱的被動效果）或黑洞賜福（具有不利條件的強大被動效果）之間進行選擇。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/2e/6d/652e6d9e-89e5-132d-e993-c685c7976f38/iosIphone6_7MoonieCnTrad.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/df/39/2cdf3956-ada4-9286-bbdb-17e91d88a4bc/iosIphone6_7CellariusCnTrad.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/c7/00/d9c70011-a84d-5de4-3b65-297ec619b3ae/iosIphone6_7HeveliusCnTrad.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/bd/d4/9abdd49b-3c10-e7db-bb82-e0da457c1d3f/iosIphone6_7AustraCnTrad.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/1c/bd/951cbd53-63d2-cc9e-14ca-57252b5b972b/iosIphone6_7SothisCnTrad.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/ff/00/6fff00d4-692e-2133-2fc6-8ebc8e521012/iosIphone6_7OrionCnTrad.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/ab/02/8eab02ea-7975-a7ca-485a-24cf016b2078/iosIpad13MoonieCnTrad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/69/8a/74698aeb-5c8d-a1e3-2653-4cb77c567a93/iosIpad13CellariusCnTrad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/06/53/75065331-097a-2978-aaa1-a3986eb43d1c/iosIpad13HeveliusCnTrad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/00/36/2d00362c-6503-1ffe-1b59-fe619cac3020/iosIpad13AustraCnTrad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/0c/2b/a90c2b97-2094-5059-4f63-dee8695cf19d/iosIpad13SothisCnTrad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/cc/92/09cc925d-4109-5a97-8a49-a7ba8076081b/iosIpad13OrionCnTrad.png/360x480bb.jpg" />]]></content>
     </entry>
 </feed>

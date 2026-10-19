@@ -32247,7 +32247,12 @@
       "Mazda 2026 Enhanced": "17,99 €",
       "Mazda 2025 Enhanced": "17,99 €",
       "FCA 2026": "17,99 €",
-      "Ford 2025 Enhanced": "17,99 €"
+      "Ford 2025 Enhanced": "17,99 €",
+      "Mitsubishi 2024": "17,99 €",
+      "Mitsubishi 2023": "17,99 €",
+      "FCA 2025": "17,99 €",
+      "Ford 2024 Enhanced": "17,99 €",
+      "Mazda 2024 Enhanced": "17,99 €"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -32261,9 +32266,33 @@
       "Mazda 2026 Enhanced": "17,99 €",
       "Mazda 2025 Enhanced": "17,99 €",
       "FCA 2026": "17,99 €",
-      "Ford 2025 Enhanced": "17,99 €"
+      "Ford 2025 Enhanced": "17,99 €",
+      "Mitsubishi 2024": "17,99 €",
+      "Mitsubishi 2023": "17,99 €",
+      "FCA 2025": "17,99 €",
+      "Ford 2024 Enhanced": "17,99 €",
+      "Mazda 2024 Enhanced": "17,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792446504330,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Ford 2026 Enhanced": "17,99 €",
+            "Mazda 2026 Enhanced": "17,99 €",
+            "Mazda 2025 Enhanced": "17,99 €",
+            "FCA 2026": "17,99 €",
+            "Ford 2025 Enhanced": "17,99 €",
+            "Mitsubishi 2024": "17,99 €",
+            "Mitsubishi 2023": "17,99 €",
+            "FCA 2025": "17,99 €",
+            "Ford 2024 Enhanced": "17,99 €",
+            "Mazda 2024 Enhanced": "17,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791207805972,
@@ -91769,6 +91798,14 @@
     "history": [
       [
         {
+          "timestamp": 1792446504330,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792363190565,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -93006,10 +93043,18 @@
       "formattedPrice": "1,99 €"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792446504330,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1773754856197,
@@ -99776,6 +99821,14 @@
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792446504330,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784757792925,
@@ -109970,6 +110023,14 @@
     "history": [
       [
         {
+          "timestamp": 1792446504330,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791507612931,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -116687,6 +116748,19 @@
     "history": [
       [
         {
+          "timestamp": 1792446504330,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Dumb Phone Plus Lifetime": "89,99 €",
+            "Dumb Phone Plus Monthly": "8,99 €",
+            "Dumb Phone Plus Weekly": "1,99 €",
+            "Dumb Phone Plus Yearly": "69,90 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789772536425,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -119511,17 +119585,29 @@
   },
   "6742457882": {
     "trackId": 6742457882,
-    "trackName": "Deco – Lock Screen Wallpapers",
+    "trackName": "Deco: Wallpaper & Stickers",
     "region": "pt",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "formattedPrice": "2,99 €",
+      "Deco Plus": "4,19 €"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Deco Plus": "4,19 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792446504330,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Deco Plus": "4,19 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1768010969598,
@@ -130125,6 +130211,25 @@
       "Mack Trucks Black Anthem 6x4": "2,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792446504330,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "1'000'000 Coins": "3,49 €",
+            "200'000 Coins": "1,19 €",
+            "500'000 Coins": "2,49 €",
+            "ClaasLexion8900+ConvioFlex1380": "3,49 €",
+            "Krone BiG Pack 1290 HDP VC": "1,19 €",
+            "Amazone CITAN 15001-C": "1,19 €",
+            "John Deere 8R 410": "2,49 €",
+            "New Holland T8.435 Genesis": "2,49 €",
+            "Krone BiG M 450": "2,49 €",
+            "Kubota RTV-XG850 SIDEKICK": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792327843521,
@@ -147129,6 +147234,14 @@
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792446504330,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789601594897,

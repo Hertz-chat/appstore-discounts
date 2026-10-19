@@ -189107,17 +189107,29 @@
   },
   "6742457882": {
     "trackId": 6742457882,
-    "trackName": "Deco – Lock Screen Wallpapers",
+    "trackName": "Deco: Wallpaper & Stickers",
     "region": "mo",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "formattedPrice": "USD 2.99",
+      "Deco Plus": "USD 3.29"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 0,
+      "formattedPrice": "免費",
+      "Deco Plus": "USD 3.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792446504330,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Deco Plus": "USD 3.29"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767976661615,

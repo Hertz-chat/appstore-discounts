@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6742457882,
+    "region": "tw",
+    "timestamp": 1792446504330,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "免費",
+        "range": "[免費 ~ $90.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6742457882",
+    "trackName": "Deco: Wallpaper & Stickers",
+    "firstRecordedAt": 1745384546601
+  },
+  {
     "trackId": 1587301632,
     "region": "tw",
     "timestamp": 1792425460361,
@@ -25456,14 +25476,14 @@
         "name": "Price",
         "from": "$90.00",
         "to": "$60.00",
-        "range": "[$30.00 ~ $90.00]"
+        "range": "[免費 ~ $90.00]"
       }
     ],
     "price": 60,
     "formattedPrice": "$60.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6742457882",
-    "trackName": "Deco – Lock Screen Wallpapers",
+    "trackName": "Deco: Wallpaper & Stickers",
     "firstRecordedAt": 1745384546601
   },
   {
@@ -43466,14 +43486,14 @@
         "name": "Price",
         "from": "$90.00",
         "to": "$30.00",
-        "range": "[$30.00 ~ $90.00]"
+        "range": "[免費 ~ $90.00]"
       }
     ],
     "price": 30,
     "formattedPrice": "$30.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6742457882",
-    "trackName": "Deco – Lock Screen Wallpapers",
+    "trackName": "Deco: Wallpaper & Stickers",
     "firstRecordedAt": 1745384546601
   },
   {

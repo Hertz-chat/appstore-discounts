@@ -1,23 +1,23 @@
 [
   {
-    "trackId": 1538124245,
+    "trackId": 1587301632,
     "region": "cn",
-    "timestamp": 1792345098035,
+    "timestamp": 1792425460361,
     "discounts": [
       {
         "type": "price",
         "name": "Price",
-        "from": "¥8.00",
+        "from": "¥28.00",
         "to": "免费",
-        "range": "[免费 ~ ¥8.00]"
+        "range": "[免费 ~ ¥28.00]"
       }
     ],
     "price": 0,
     "formattedPrice": "免费",
     "currency": "CNY",
-    "trackViewUrl": "https://apps.apple.com/cn/app/id1538124245",
-    "trackName": "哪里哪里",
-    "firstRecordedAt": 1723994479838
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1587301632",
+    "trackName": "全能记(录音,备忘,流水)",
+    "firstRecordedAt": 1722784406759
   },
   {
     "trackId": 1644917705,

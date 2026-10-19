@@ -46158,6 +46158,25 @@
     "history": [
       [
         {
+          "timestamp": 1792425460361,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Skatepark: Mondo Ramp": "HK$ 8.00",
+            "Skatepark: The Factory": "HK$ 8.00",
+            "Skatepark: The Berrics": "HK$ 18.00",
+            "Skatepark 6 Pack": "HK$ 38.00",
+            "Skatepark: Inbound": "HK$ 8.00",
+            "Skatepark: The Valley": "HK$ 8.00",
+            "Skatepark: Havasu": "HK$ 18.00",
+            "Sandbox Monthly": "HK$ 38.00",
+            "Skatepark of Tampa": "HK$ 8.00",
+            "SLS 2016 Course Pack": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791025831979,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -68833,6 +68852,25 @@
       "$50 Credit": "HK$ 388.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792425460361,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "1 Mo. CAN Texting": "HK$ 22.00",
+            "1 Mo. Global Texting": "HK$ 32.00",
+            "$5 Credit": "HK$ 42.00",
+            "3 Mo. CAN Texting": "HK$ 42.00",
+            "12 Mo. CAN Texting": "HK$ 148.00",
+            "3 Mo. Global Texting": "HK$ 68.00",
+            "1 Mo. Remove Ads": "HK$ 22.00",
+            "6 Mo. CAN Texting": "HK$ 88.00",
+            "12 Mo. Global Texting": "HK$ 228.00",
+            "1 Mo. Fongo Plus": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791585205739,
@@ -196190,6 +196228,12 @@
     "history": [
       [
         {
+          "timestamp": 1792425460361,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1792345098035,
           "price": 0,
           "formattedPrice": "免費",
@@ -210178,6 +210222,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792425460361,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784728313823,
@@ -233497,6 +233549,14 @@
       "formattedPrice": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792425460361,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791484107175,
@@ -279449,6 +279509,19 @@
     "history": [
       [
         {
+          "timestamp": 1792425460361,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Dumb Phone Plus Weekly": "HK$ 18.00",
+            "Dumb Phone Plus Yearly": "HK$ 488.00",
+            "Dumb Phone Plus Lifetime": "HK$ 588.00",
+            "Dumb Phone Plus Monthly": "HK$ 58.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 0,
           "formattedPrice": "免費",
@@ -294324,6 +294397,16 @@
     "history": [
       [
         {
+          "timestamp": 1792425460361,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "永久会员": "HK$ 48.00",
+            "月度会员": "HK$ 8.00",
+            "季度会员": "HK$ 22.00"
+          }
+        },
+        {
           "timestamp": 1792397485602,
           "price": 0,
           "formattedPrice": "免費",
@@ -297296,10 +297379,18 @@
       "formattedPrice": "HK$ 8.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "price": 2,
+      "formattedPrice": "HK$ 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792425460361,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772535071513,
@@ -302731,6 +302822,14 @@
     "history": [
       [
         {
+          "timestamp": 1792425460361,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791857869864,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -303214,6 +303313,14 @@
       "formattedPrice": "HK$ 14.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792425460361,
+          "price": 15,
+          "formattedPrice": "HK$ 15.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789575216572,
@@ -307104,7 +307211,7 @@
       "展示 禮包 8": "HK$ 32.00",
       "全塔禮包_B": "HK$ 118.00",
       "全塔禮包": "HK$ 148.00",
-      "全英雄禮包": "HK$ 228.00",
+      "全英雄禮包": "HK$ 188.00",
       "英雄 德拉坎": "HK$ 58.00",
       "英雄 阿什彼特": "HK$ 58.00",
       "塔 哨兵瞭望塔": "HK$ 48.00",
@@ -307120,6 +307227,25 @@
       "全英雄禮包_B": "HK$ 188.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792425460361,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "全塔禮包": "HK$ 148.00",
+            "英雄 阿什彼特": "HK$ 58.00",
+            "英雄 德拉坎": "HK$ 58.00",
+            "全法術禮包": "HK$ 98.00",
+            "英雄 鬼侍": "HK$ 38.00",
+            "全英雄禮包_B": "HK$ 188.00",
+            "全英雄禮包": "HK$ 188.00",
+            "英雄 伊格納斯": "HK$ 22.00",
+            "塔 奧術鍛造匠": "HK$ 38.00",
+            "法術 索羅化身": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792327843521,
@@ -308363,14 +308489,22 @@
     "trackName": "Enchanted Survival: 刷寶RPG",
     "region": "hk",
     "maxPriceInfo": {
-      "price": 18,
-      "formattedPrice": "HK$ 18.00"
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792425460361,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792157762180,
@@ -308731,14 +308865,27 @@
     "maxPriceInfo": {
       "price": 48,
       "formattedPrice": "HK$ 48.00",
-      "NaviSyncRock": "HK$ 38.00"
+      "NaviSyncRock": "HK$ 38.00",
+      "Library Doctor": "HK$ 32.00"
     },
     "minPriceInfo": {
       "price": 48,
       "formattedPrice": "HK$ 48.00",
-      "NaviSyncRock": "HK$ 38.00"
+      "NaviSyncRock": "HK$ 38.00",
+      "Library Doctor": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792425460361,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "Library Doctor": "HK$ 32.00",
+            "NaviSyncRock": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792308581189,

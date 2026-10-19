@@ -281576,6 +281576,16 @@
     "history": [
       [
         {
+          "timestamp": 1792425460361,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "季度会员": "₺149,99",
+            "月度会员": "₺49,99",
+            "永久会员": "₺299,99"
+          }
+        },
+        {
           "timestamp": 1792397485602,
           "price": 0,
           "formattedPrice": "Free",
@@ -283829,10 +283839,18 @@
       "formattedPrice": "₺49,99"
     },
     "minPriceInfo": {
-      "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "price": 19.99,
+      "formattedPrice": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792425460361,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772535071513,
@@ -288871,6 +288889,14 @@
       "20 fuel to storage": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792425460361,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791857869864,
@@ -294427,14 +294453,22 @@
   "6812927976": {
     "name": "Enchanted Survival: Magic RPG",
     "maxPriceInfo": {
-      "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
     },
     "minPriceInfo": {
       "price": 49.99,
       "formattedPrice": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792425460361,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,
@@ -294755,14 +294789,27 @@
     "maxPriceInfo": {
       "price": 299.99,
       "formattedPrice": "₺299,99",
-      "NaviSyncRock": "₺249,99"
+      "NaviSyncRock": "₺249,99",
+      "Library Doctor": "₺199,99"
     },
     "minPriceInfo": {
       "price": 299.99,
       "formattedPrice": "₺299,99",
-      "NaviSyncRock": "₺249,99"
+      "NaviSyncRock": "₺249,99",
+      "Library Doctor": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792425460361,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Library Doctor": "₺199,99",
+            "NaviSyncRock": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792308581189,

@@ -1,23 +1,103 @@
 [
   {
-    "trackId": 1422480068,
+    "trackId": 1587301632,
     "region": "tw",
-    "timestamp": 1792397485602,
+    "timestamp": 1792425460361,
     "discounts": [
       {
-        "type": "inAppPurchase",
-        "name": "Nautilus Unlock All and AI",
-        "from": "$400.00",
-        "to": "$100.00",
-        "range": "[$100.00 ~ $400.00]"
+        "type": "price",
+        "name": "Price",
+        "from": "$120.00",
+        "to": "免費",
+        "range": "[免費 ~ $120.00]"
       }
     ],
     "price": 0,
     "formattedPrice": "免費",
     "currency": "TWD",
-    "trackViewUrl": "https://apps.apple.com/tw/app/id1422480068",
-    "trackName": "Notes Writer Browser: Nautilus",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1587301632",
+    "trackName": "全能備忘錄",
     "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 6759238458,
+    "region": "tw",
+    "timestamp": 1792425460361,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$30.00",
+        "to": "$10.00",
+        "range": "[$10.00 ~ $30.00]"
+      }
+    ],
+    "price": 10,
+    "formattedPrice": "$10.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6759238458",
+    "trackName": "上瘾修仙 - 上头的单机新形态文字游戏",
+    "firstRecordedAt": 1772535071513
+  },
+  {
+    "trackId": 6760948683,
+    "region": "tw",
+    "timestamp": 1792425460361,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $120.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6760948683",
+    "trackName": "Digline：療癒挖礦",
+    "firstRecordedAt": 1781276299651
+  },
+  {
+    "trackId": 6757846100,
+    "region": "tw",
+    "timestamp": 1792425460361,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$75.00",
+        "to": "$50.00",
+        "range": "[$50.00 ~ $75.00]"
+      }
+    ],
+    "price": 50,
+    "formattedPrice": "$50.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6757846100",
+    "trackName": "This Aint Even Poker, Ya Joker",
+    "firstRecordedAt": 1781993190082
+  },
+  {
+    "trackId": 6759664029,
+    "region": "tw",
+    "timestamp": 1792425460361,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "全英雄禮包",
+        "from": "$990.00",
+        "to": "$790.00",
+        "range": "[$790.00 ~ $990.00]"
+      }
+    ],
+    "price": 220,
+    "formattedPrice": "$220.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6759664029",
+    "trackName": "Kingdom Rush 6: Genesis TD",
+    "firstRecordedAt": 1790197705213
   },
   {
     "trackId": 6449046261,
@@ -58,26 +138,6 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id1065599938",
     "trackName": "HARVEST MOON: Seeds Of Memories",
     "firstRecordedAt": 1745328692670
-  },
-  {
-    "trackId": 1538124245,
-    "region": "tw",
-    "timestamp": 1792345098035,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "$30.00",
-        "to": "免費",
-        "range": "[免費 ~ $30.00]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "免費",
-    "currency": "TWD",
-    "trackViewUrl": "https://apps.apple.com/tw/app/id1538124245",
-    "trackName": "where I put it",
-    "firstRecordedAt": 1723994479838
   },
   {
     "trackId": 1644917705,

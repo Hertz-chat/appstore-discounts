@@ -33287,6 +33287,23 @@
     "history": [
       [
         {
+          "timestamp": 1792425460361,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Race Pass": "5,99 €",
+            "700 Aces": "9,99 €",
+            "300 Aces": "5,99 €",
+            "5000 Aces": "44,99 €",
+            "15000 Aces": "99,99 €",
+            "300 Aces Limited Time Offer": "0,99 €",
+            "700 Aces Limited Time Offer": "5,99 €",
+            "Racing Prodigy Kart TKM TR (T)": "6,99 €",
+            "Racing Prodigy Small Tyre Pack": "2,99 €",
+            "Racing Prodigy X30 La Conca L4": "17,99 €"
+          }
+        },
+        {
           "timestamp": 1792397485602,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -137600,10 +137617,18 @@
       "formattedPrice": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 0.29,
+      "formattedPrice": "0,29 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792425460361,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772535071513,
@@ -142853,6 +142878,14 @@
     "history": [
       [
         {
+          "timestamp": 1792425460361,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791837063531,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -147562,6 +147595,14 @@
     "history": [
       [
         {
+          "timestamp": 1792425460361,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791916572466,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -147803,14 +147844,27 @@
     "maxPriceInfo": {
       "price": 6.99,
       "formattedPrice": "6,99 €",
-      "NaviSyncRock": "5,99 €"
+      "NaviSyncRock": "5,99 €",
+      "Library Doctor": "3,99 €"
     },
     "minPriceInfo": {
       "price": 6.99,
       "formattedPrice": "6,99 €",
-      "NaviSyncRock": "5,99 €"
+      "NaviSyncRock": "5,99 €",
+      "Library Doctor": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792425460361,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Library Doctor": "3,99 €",
+            "NaviSyncRock": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792308581189,

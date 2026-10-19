@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2026-10-18T19:07:10.557Z</updated>
+    <updated>2026-10-19T09:52:06.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008389768002560+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomemo</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-18T19:07:10.557Z</updated>
+        <updated>2026-10-19T09:52:06.690Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008389768002560+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingmoSun, 18 Oct 2026 19:07:10 GMT</id>
+        <id>rankingmoMon, 19 Oct 2026 09:52:06 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-18T19:07:10.557Z</updated>
+        <updated>2026-10-19T09:52:06.690Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>
@@ -1446,6 +1446,23 @@ feedId:157008389768002560+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>77</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/mo/6449046261?lang=zh-CN">水晶戰爭2-精品生存Roguelike策略塔防單機獨立遊戲</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -2297,6 +2314,58 @@ feedId:157008389768002560+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[水晶戰爭2-精品生存Roguelike策略塔防單機獨立遊戲]]></title>
+        <id>水晶戰爭2-精品生存Roguelike策略塔防單機獨立遊戲-mo-1792397485602</id>
+        <link href="https://appstore-discounts.eyelly.me/mo/6449046261?lang=zh-CN"/>
+        <updated>2026-10-19T08:11:25.602Z</updated>
+        <summary type="html"><![CDATA[价格: USD 2.00 → USD 0.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/mo/6449046261?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/08/04/ff/0804ffc6-fc9f-2626-0a83-15c6af2238dd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>USD 2.00</span> → <b>
+  <strong>USD 0.99</strong>
+</b><span>[USD 0.29 ~ USD 2.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>USD 0.99</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    Super Packs：<b>USD 1.99</b>
+  </li><li>
+    Dragon Knight：<b>USD 2.99</b>
+  </li><li>
+    Ancient Warrior：<b>USD 0.99</b>
+  </li><li>
+    Gems 3：<b>USD 49.99</b>
+  </li><li>
+    Iron Giant：<b>USD 1.99</b>
+  </li><li>
+    Gems 2：<b>USD 9.99</b>
+  </li><li>
+    Gems 1：<b>USD 4.99</b>
+  </li><li>
+    Unicorn Knight：<b>USD 2.99</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  戰無不勝的黑暗領主再度登場！ 踏上這場史詩之旅，組建軍隊，守衛凱斯特利亞的平靜！ 你將一路浴血奮戰，守護凱斯特利亞大陸上每一個水晶神殿，迎戰各大魔族部落的勁敵，與強悍絕倫的頭目們展開死鬥——一切盡在這款充滿策略戰術與史詩感的經典塔防遊戲！
+
+遊戲特色：
+-即時策略、塔防和Roguelike元素的完美融合。
+-你可以隨心所欲挑選兵種、魔法和英雄，打造出最具殺傷力的組合！
+- 60道挑戰關卡，遍佈三座水晶神殿，只等你來征服！
+-十比特驍勇善戰的英雄任你發號施令，絕無一絲猶豫。
+-超過50種强力敵人，讓你絞盡腦汁，調動一切戰術才能克敵制勝。
+-在傳奇般的頭目戰中打倒7比特不可一世的魔王，保衛你的水晶！
+-新能力、新援軍，幫你力克強敵。
+- 80多種武器和裝備供你打造，讓你再多幾成勝算。
+- 30種陞級選擇，讓你的軍隊將潜力發揮得淋漓盡致。
+- 60多種成就、隱藏任務和好玩的東西等你來探索！
+-水晶神殿裏沒Wi-Fi？ 不必擔憂，離線玩就好！
+
+Crystania Wars II是一款嘗試跟所有塔防都不一樣的全新塔防系列。
+祝大家遊戲愉快！ Have fun！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7d/ff/d2/7dffd259-4ae2-b14a-36fa-2bf3c1d178d2/901a731c-62a3-41c3-ac6b-42549f91e393_1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2c/3b/85/2c3b85d2-7ba1-0448-fa49-133e6f2d3dda/0e92742f-46c4-44fa-b7dd-fcdf9dfb08a8_F_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9c/0c/eb/9c0ceb3f-8f3b-eeee-7c22-490c6ebfdc28/0b7ca79b-ddfe-4c86-8285-bce3de063206_F_3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b5/70/00/b57000af-a364-e046-8554-73f8a57d98bf/d50fc251-b1b8-441b-b680-ac5e42521f21_F_5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3d/4c/6d/3d4c6dad-949f-d99a-aec6-6f52d1b4abff/5f890151-b50f-4b31-99ba-49e9cb4c0693_F_4.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d7/31/66/d73166ce-55bc-1f34-a6e8-c2d3fd6b4d9b/9d8444d9-237c-4559-801a-e5cbc6223fd9_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/77/76/41/777641a3-8897-e8b9-1408-334dce3bac82/88734c26-1a13-4287-b766-e24f8c59848c_F_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/04/06/ee/0406ee0d-5f28-d22b-cd1f-73fe8883d1b1/ec4d0d80-e819-45c9-a902-16d965c789f3_F_5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/eb/ee/17/ebee17fd-d40b-cadd-24c4-e7cf2578d513/2143fd9c-ff0b-4424-96a4-f2c82c7c4889_F_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/34/97/37/349737ab-ece3-96e7-fcd3-2b666a92238f/e1310fbd-93a1-4464-9f30-9b79994cab4e_F_3.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[HARVEST MOON: Seeds Of Memories]]></title>
         <id>HARVEST MOON: Seeds Of Memories-mo-1792345098035</id>
         <link href="https://appstore-discounts.eyelly.me/mo/1065599938?lang=zh-CN"/>
@@ -2924,94 +2993,5 @@ http://www.noteswriter.com/Kairoos_Privacy_Policy.html
 使用條款
 https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/c6/2e/8bc62efd-2797-e498-47b4-41cb566d6924/01.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/bc/cc/8dbcccbd-9de7-e4ed-abb2-333759736ea3/02.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/98/95/859895b2-78c7-a54a-6f56-c4d7d315d318/06.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/74/87/eb7487ed-b924-8680-e389-ad22f8fb79b8/04.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/ad/3f/1ead3fcb-5231-3985-b334-48c1672455b7/05.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/a2/a7/13a2a7e9-f1e9-7543-3c68-a66ae2165f82/03.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/5b/d5/3a5bd556-4c55-0afc-0594-028f2f65f71e/07.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/e0/7c/ebe07c35-29e4-4b0c-9ce4-344242da4615/08.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/4e/48/7b4e485a-4b18-4fef-16d3-f97e9d5c16f8/09.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/e4/4d/2fe44d1f-3cca-baed-4779-6cb530a0af7f/10.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/f7/12/99f7122d-c85e-2930-7e5d-104cb8b71ed9/01.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/68/f0/0068f044-ccd4-f2ca-db64-45c4f448404a/02.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/12/4f/12124f2c-4eba-29b3-a7c9-80f58b2bc7e0/06.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/2a/65/ca2a6586-3fd4-6e7d-3ecb-c4ac42776ca3/04.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/6e/e2/5b6ee2da-1c3a-c3e4-5687-aaf5788fd656/05.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/d9/64/cfd96417-5921-3440-6fbb-f9d65318dd0e/03.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/bf/45/e0bf45d2-d319-3d52-299d-d252abd60f76/07.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/b8/28/b0b82863-0ef5-a0a5-bec8-12a1ab9f419a/08.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/f6/f6/b3f6f6c5-4f9c-9606-57b2-43c3b9b6b21b/09.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/0b/15/8e0b1555-bf5e-77e0-1d60-8c6a61dab317/10.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No More Slimes!!: Idle Action]]></title>
-        <id>No More Slimes!!: Idle Action-mo-1792136164280</id>
-        <link href="https://appstore-discounts.eyelly.me/mo/6786115854?lang=zh-CN"/>
-        <updated>2026-10-16T07:36:04.280Z</updated>
-        <summary type="html"><![CDATA[价格: USD 9.99 → USD 5.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/mo/6786115854?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/c2/8c/f7c28c76-8ad6-353e-acb4-c6293c3ec973/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 9.99</span> → <b>
-  <strong>USD 5.99</strong>
-</b><span>[USD 4.99 ~ USD 9.99]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>USD 5.99</b>
-</p><h2>应用描述</h2><p>
-  擊敗史萊姆，收集資源，變得更加強大！
-
-這是一款隨著戰鬥不斷進行，攻擊力與火力會無限提升的增量式動作遊戲。擴展技能樹，組合卡牌與遺物，將鋪滿畫面的史萊姆大軍一舉掃蕩！
-
-■ 越戰越強，看得見的成長
-擊敗史萊姆以獲取資源和戰利品，並強化角色與武器。
-隨著實力不斷累積，起初難以對付的敵人也能在瞬間消滅。體驗增量遊戲的樂趣：變得更強、狩獵更快、獲得更多獎勵。
-
-■ 隨選擇擴展的技能樹
-從攻擊力、攻擊速度、特殊能力等方向中，選擇自己想要的成長路線。
-優先強化哪些技能，將會改變戰鬥方式與成長速度。按照自己的策略建構技能樹，完成強大的流派。
-
-■ 卡牌與遺物帶來的爆炸火力
-組合戰鬥中獲得的卡牌和遺物，即可解鎖新的能力與成長效果。
-召喚閃電、釋放會在牆壁之間反彈的迴旋鏢，並使用強力特殊武器掌控戰場。隨著流派逐漸成形，戰鬥也會變得更加華麗、更為強大。
-
-■ 助力成長與戰鬥的傭兵
-跨越次元而來的個性傭兵，會以各自獨特的方式追蹤並攻擊敵人。
-凍結敵人、召喚隕石，並使用能夠攻擊大範圍區域的傭兵技能。培養並組合傭兵，打造更加高效的戰鬥策略。
-
-■ 不斷變強的武器
-武器強化得越多，攻擊範圍和火力就會變得越強。
-突破成長極限，以壓倒性的攻擊掃蕩蜂擁而來的史萊姆。不斷累積的成長，將化為爆發力十足的爽快打擊感。
-
-■ 簡單操作，深度成長
-體驗任何人都能輕鬆上手的直覺操作，以及豐富多樣的成長系統。
-戰鬥方式雖然簡單，但透過組合技能樹、卡牌、遺物、傭兵和武器，可以打造出截然不同的成長策略。
-
-■ 《史萊姆大騷動》的秘密
-原本寧靜的米阿勒特峽谷，被一支來歷不明的史萊姆軍團占領了。
-獵殺不斷湧來的史萊姆，突破極限並持續成長。你能否找出引發這場巨大騷動的真正幕後黑手，讓峽谷重歸和平？
-
-遊戲特色
-- 越戰越強的增量式成長
-- 透過收集資源與反覆強化提升火力
-- 隨選擇變化的技能樹
-- 運用卡牌和遺物搭配流派
-- 個性十足的異次元傭兵
-- 閃電、冰凍、隕石、迴旋鏢等多種能力
-- 可持續強化的武器
-- 可愛的2D像素畫面
-- 鋪滿畫面的史萊姆與爽快打擊感
-
-※ 注意：查看成長數值時，時間可能會轉眼消失！
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/93/8a/a3938a15-6f32-4b2e-7f1a-06dc27c7d3bb/iPhone.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/fb/96/90fb9626-4c97-e315-33d4-5e076c7de270/2.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/f0/f7/f2f0f728-d5a2-27d6-d043-9739efd9ff7c/3.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/1a/b5/421ab51f-8dd5-7410-d3f0-dc4e29fc3a1b/4.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/89/61/aa89619a-9bb3-6da1-4423-0668e6965650/5.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/a2/6b/04a26b07-d388-d3dc-4b0f-3c9d7779db76/6.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/c8/35/f1c835b4-ae8c-61ee-56da-594d681a213a/7.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/cc/78/27cc789e-a146-1da1-baaf-60784ae8a531/iPad-2.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/48/59/8048590e-04b9-e28e-dae3-37c7f3c60ae2/iPad_2.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/2c/e5/392ce590-0687-d5a4-5e23-7ffd3621473f/iPad_3.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/25/59/102559a3-f6c1-bb9e-309f-00614d27a498/iPad_4.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/7c/b8/ff7cb874-1e55-c62b-6c92-bfba59999f5b/iPad_5.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/33/30/a333304d-e95b-e971-5fc8-39648d47758f/iPad_6.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/aa/97/dbaa97f4-1cac-0545-cc97-0661485b5ce4/iPad_7.jpg/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch Tuner Lite]]></title>
-        <id>Watch Tuner Lite-mo-1792136164280</id>
-        <link href="https://appstore-discounts.eyelly.me/mo/968820626?lang=zh-CN"/>
-        <updated>2026-10-16T07:36:04.280Z</updated>
-        <summary type="html"><![CDATA[价格: USD 0.99 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/mo/968820626?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/55/27/7655271f-8938-6bda-66f9-bc118c69086d/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 0.99</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ USD 1.99]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h2>应用描述</h2><p>
-  Watch Tuner Lite measures the accuracy of mechanical and automatic watches. It uses the built-in microphone or headset microphone to record the audible tick of the watch and calculates the seconds-per-day deviation. Works with almost any 'ticking' watch/clock.
-
-Use in a quiet environment. Any ambient noise can affect the accuracy of the results. Complete silence is best.
-
-Recommended way to record the ticks is to touch the crown of the watch with the headset microphone. You will get the best results using original Apple EarPods.
-
-This is a simple version of Watch Tuner application. Not everyone needs detailed information about a watch movement, sometimes only accuracy is important. Watch Tuner Lite uses very similar algorithm like Watch Tuner does but displays only seconds-per-day deviation.
-
-If you want to know how much your watch is fast or slow, this application is for you.
-If you prefer to measure also beat error and amplitude, try Watch Tuner - a bigger brother of this app.
-If you need frequency diagram look at Watch Tuner Timegrapher - the most sophisticated app of Watch Tuner series.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/36/10/f2361086-ca63-b1ac-9499-f9127601b895/wt_lite.jpeg/320x480bb.jpg" />]]></content>
     </entry>
 </feed>

@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1422480068,
+    "region": "tw",
+    "timestamp": 1792397485602,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Nautilus Unlock All and AI",
+        "from": "$400.00",
+        "to": "$100.00",
+        "range": "[$100.00 ~ $400.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1422480068",
+    "trackName": "Notes Writer Browser: Nautilus",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 6449046261,
+    "region": "tw",
+    "timestamp": 1792397485602,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$60.00",
+        "to": "$30.00",
+        "range": "[$10.00 ~ $60.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6449046261",
+    "trackName": "水晶戰爭2-精品生存Roguelike策略塔防單機獨立遊戲",
+    "firstRecordedAt": 1745431369334
+  },
+  {
     "trackId": 1065599938,
     "region": "tw",
     "timestamp": 1792345098035,

@@ -16145,6 +16145,25 @@
     "history": [
       [
         {
+          "timestamp": 1792397485602,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "1,99 €",
+            "Realms Plus:10 Friends w/trial": "7,99 €",
+            "Minecraft Store Item 6": "6,99 €",
+            "Realms Monthly Subscription: You + 2 Friends": "3,99 €",
+            "Minecraft Store Item 3": "2,99 €",
+            "Minecraft Store Item 10": "9,99 €",
+            "Minecraft Store Item 4": "3,99 €",
+            "Minecraft Store Item 5": "5,99 €",
+            "Minecraft Store Item 8": "8,99 €",
+            "Minecraft Store Item 1": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790197705213,
           "price": 6.99,
           "formattedPrice": "6,99 €",
@@ -34036,6 +34055,25 @@
       "Le Cont Softs - 40 Tyres Pack": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792397485602,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Racing Prodigy X30 La Conca L4": "17,99 €",
+            "Racing Prodigy X30 Atlanta": "17,99 €",
+            "Racing Prodigy X30 Kart Dubai": "17,99 €",
+            "Racing Prodigy X30 B. Vegas": "17,99 €",
+            "Racing Prodigy 50 Quali Tyres": "5,99 €",
+            "10 Pack Qualifying Tyres": "0,99 €",
+            "Figo 100 Octane Fuel Pack - 20": "3,99 €",
+            "Le Cont Hards - 40 Tyre Pack": "3,99 €",
+            "Le Cont Mediums - 40 Tyre Pack": "3,99 €",
+            "Le Cont Softs - 40 Tyres Pack": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791665293817,
@@ -119716,6 +119754,23 @@
     "history": [
       [
         {
+          "timestamp": 1792397485602,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Boeing 747-400": "1,99 €",
+            "Global scenery - 3 months": "8,99 €",
+            "Boeing 787-9": "3,99 €",
+            "Airbus A320neo": "3,99 €",
+            "Airbus A380": "1,99 €",
+            "Swift": "0,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "The Aircraft Bundle": "24,99 €"
+          }
+        },
+        {
           "timestamp": 1792375600089,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -145262,6 +145317,16 @@
     "history": [
       [
         {
+          "timestamp": 1792397485602,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "BikeControl Pro": "2,79 €",
+            "Full Version Unlock": "5,99 €",
+            "BikeControl Pro - Yearly": "24,99 €"
+          }
+        },
+        {
           "timestamp": 1792375600089,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -148883,6 +148948,23 @@
     "history": [
       [
         {
+          "timestamp": 1792397485602,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Green Abyss": "5,99 €",
+            "Patron Character": "0,49 €",
+            "Power Suit": "0,99 €",
+            "Patron Season Pass": "0,49 €",
+            "Patron Skill & Equipment": "0,49 €",
+            "Berserker": "0,99 €",
+            "Saint of Sanmagica": "2,99 €",
+            "Honor of the Knights": "1,99 €",
+            "Altruist": "2,99 €",
+            "The Arena": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1792375600089,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -149788,16 +149870,31 @@
       "formattedPrice": "2,99 €",
       "终身护持": "17,99 €",
       "年度护持": "2,99 €",
-      "月度护持": "0,99 €"
+      "月度护持": "0,99 €",
+      "3-day Trial": "0,00 €"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
       "终身护持": "17,99 €",
       "年度护持": "2,99 €",
-      "月度护持": "0,99 €"
+      "月度护持": "0,99 €",
+      "3-day Trial": "0,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792397485602,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "3-day Trial": "0,00 €",
+            "终身护持": "17,99 €",
+            "年度护持": "2,99 €",
+            "月度护持": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791649753895,

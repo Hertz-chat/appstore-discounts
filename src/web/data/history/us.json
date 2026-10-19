@@ -30920,7 +30920,8 @@
       "Unlock \"Ant Hill\" level pack": "$1.99",
       "Unlock \"Rocket Science\" level pack": "$1.99",
       "Unlock \"Sticky Steps\" level pack": "$1.99",
-      "Unlock \"Handy сandy\" level pack": "$1.99"
+      "Unlock \"Handy сandy\" level pack": "$1.99",
+      "Unlock \"Shooting the candy\" level pack": "$1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -30942,9 +30943,29 @@
       "Unlock \"Ant Hill\" level pack": "$1.99",
       "Unlock \"Rocket Science\" level pack": "$1.99",
       "Unlock \"Sticky Steps\" level pack": "$1.99",
-      "Unlock \"Handy сandy\" level pack": "$1.99"
+      "Unlock \"Handy сandy\" level pack": "$1.99",
+      "Unlock \"Shooting the candy\" level pack": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792397485602,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Superpower 10": "$1.99",
+            "Superpower 20": "$3.99",
+            "Superpower 50": "$7.99",
+            "Superpower 500": "$17.99",
+            "Unlock all level packs including future updates": "$3.99",
+            "Superpower Unlimited": "$24.99",
+            "Unlock \"Sticky Steps\" level pack": "$1.99",
+            "Unlock \"Shooting the candy\" level pack": "$1.99",
+            "Unlock \"Rocket Science\" level pack": "$1.99",
+            "Unlock \"Handy сandy\" level pack": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790354327877,
@@ -175742,6 +175763,25 @@
     "history": [
       [
         {
+          "timestamp": 1792397485602,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Resource Package": "$2.99",
+            "Teammate Package": "$4.99",
+            "Role Package III": "$9.99",
+            "60 gems": "$0.99",
+            "Role Package": "$2.99",
+            "Heroic Package#1": "$9.99",
+            "Teammate Package#2": "$4.99",
+            "Heroic Package#2": "$9.99",
+            "310 gems": "$4.99",
+            "Bronze Decree": "$25.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792375600089,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -195842,7 +195882,16 @@
       "Glow in the Dark Dice": "$4.99",
       "Glow in the Dark Ghost": "$3.49",
       "Glow in the Dark Alien": "$3.49",
-      "Glow in the Dark Frog": "$3.49"
+      "Glow in the Dark Frog": "$3.49",
+      "Pegasus Premium+ Token": "$9.99",
+      "Premium Horses Pack": "$19.99",
+      "Royal Guard Kintsugi Token": "$3.49",
+      "Lion Kintsugi Token": "$3.49",
+      "Crown Kintsugi Token": "$3.49",
+      "Clocktower Kintsugi Token": "$3.49",
+      "Wolf Kintsugi Token": "$3.49",
+      "Throne Kintsugi Token": "$3.49",
+      "Goblet Kintsugi Token": "$3.49"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -196032,9 +196081,36 @@
       "Glow in the Dark Dice": "$4.99",
       "Glow in the Dark Ghost": "$3.49",
       "Glow in the Dark Alien": "$3.49",
-      "Glow in the Dark Frog": "$3.49"
+      "Glow in the Dark Frog": "$3.49",
+      "Pegasus Premium+ Token": "$9.99",
+      "Premium Horses Pack": "$19.99",
+      "Royal Guard Kintsugi Token": "$3.49",
+      "Lion Kintsugi Token": "$3.49",
+      "Crown Kintsugi Token": "$3.49",
+      "Clocktower Kintsugi Token": "$3.49",
+      "Wolf Kintsugi Token": "$3.49",
+      "Throne Kintsugi Token": "$3.49",
+      "Goblet Kintsugi Token": "$3.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792397485602,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Pegasus Premium+ Token": "$9.99",
+            "Premium Horses Pack": "$19.99",
+            "Royal Guard Kintsugi Token": "$3.49",
+            "Lion Kintsugi Token": "$3.49",
+            "Crown Kintsugi Token": "$3.49",
+            "Clocktower Kintsugi Token": "$3.49",
+            "Wolf Kintsugi Token": "$3.49",
+            "Throne Kintsugi Token": "$3.49",
+            "Goblet Kintsugi Token": "$3.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790656083068,
@@ -253850,6 +253926,24 @@
     "history": [
       [
         {
+          "timestamp": 1792397485602,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "心愿礼包": "$5.99",
+            "聚财盆": "$2.99",
+            "超值月卡": "$3.99",
+            "豪华月卡": "$9.99",
+            "犒赏令": "$9.99",
+            "SP武将碎片": "$39.99",
+            "新手成长礼包": "$0.99",
+            "竞赛VIP赛季卡": "$3.99",
+            "新手成长大礼包": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792375600089,
           "price": 0.29,
           "formattedPrice": "$0.29",
@@ -293586,6 +293680,25 @@
     "history": [
       [
         {
+          "timestamp": 1792397485602,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Round the World Ticket": "$49.99",
+            "1910 Ticket Pack": "$3.99",
+            "Europe Expansion": "$14.99",
+            "Welcome Offer": "$29.99",
+            "Ticket to Ride ChristmasBundle": "$9.99",
+            "Ticket to Ride Sale Offer": "$29.99",
+            "Europe Map": "$12.99",
+            "Nordic Expansion": "$12.99",
+            "Legendary Asia Expansion": "$12.99",
+            "Japan Expansion": "$12.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792363190565,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -317045,6 +317158,23 @@
     "history": [
       [
         {
+          "timestamp": 1792397485602,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Ancient Warrior": "$0.99",
+            "Super Packs": "$1.99",
+            "Dragon Knight": "$2.99",
+            "Gems 3": "$49.99",
+            "Iron Giant": "$1.99",
+            "Gems 2": "$9.99",
+            "Gems 1": "$4.99",
+            "Unicorn Knight": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790552524601,
           "price": 2,
           "formattedPrice": "$2.00",
@@ -324907,6 +325037,25 @@
     "history": [
       [
         {
+          "timestamp": 1792397485602,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "12.99美元商品2": "$12.99",
+            "19.99美元商品": "$19.99",
+            "39.99美元商品": "$39.99",
+            "12.99美元商品": "$12.99",
+            "49.99美元商品": "$49.99",
+            "3.99美元商品2": "$3.99",
+            "14.99美元商品": "$14.99",
+            "99.99美元商品": "$99.99",
+            "29.99美元商品": "$29.99",
+            "8.99美元商品": "$8.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792029989391,
           "price": 0.29,
           "formattedPrice": "$0.29",
@@ -328561,6 +328710,25 @@
       "Yucky Buddy Outfit": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792397485602,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$9.99",
+            "Sun and Spice Bundle": "$7.99",
+            "Mystic Mayhem Pack": "$5.99",
+            "Santa Claws Pack": "$4.99",
+            "Beach Day Pack": "$5.99",
+            "Kitchen Chaos Pack": "$5.99",
+            "Mystic Mayhem Card Back": "$0.99",
+            "MysticMayhem Cauldron Creature": "$1.99",
+            "Slice of Heaven Outfit": "$1.99",
+            "Beach Day Card back": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792327843521,
@@ -343430,6 +343598,14 @@
       "永久会员": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792397485602,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1774422739885,
@@ -358593,16 +358769,31 @@
       "formattedPrice": "$2.99",
       "终身护持": "$14.99",
       "年度护持": "$2.99",
-      "月度护持": "$0.99"
+      "月度护持": "$0.99",
+      "3-day Trial": "$0.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
       "终身护持": "$14.99",
       "年度护持": "$2.99",
-      "月度护持": "$0.99"
+      "月度护持": "$0.99",
+      "3-day Trial": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792397485602,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "3-day Trial": "$0.00",
+            "终身护持": "$14.99",
+            "年度护持": "$2.99",
+            "月度护持": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791649753895,
@@ -359585,6 +359776,25 @@
       "Gems Pouch": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792397485602,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Drakkan": "$6.99",
+            "Hero Ashbite": "$6.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Tower Sniper": "$5.99",
+            "Hero Ignus": "$2.99",
+            "Gems Pouch": "$4.99",
+            "Tower Wildcat": "$4.99",
+            "Gems Handful": "$2.99",
+            "Tower Alchemist": "$2.99",
+            "ALL SPELLS BUNDLE": "$12.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792327843521,

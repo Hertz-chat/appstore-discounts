@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2026-10-19T03:46:37.060Z</updated>
+    <updated>2026-10-19T09:52:06.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-19T03:46:37.060Z</updated>
+        <updated>2026-10-19T09:52:06.771Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptMon, 19 Oct 2026 03:46:37 GMT</id>
+        <id>rankingptMon, 19 Oct 2026 09:52:06 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-19T03:46:37.060Z</updated>
+        <updated>2026-10-19T09:52:06.771Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -1496,6 +1496,29 @@ feedId:206907475259680768+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>79</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/6753721284?lang=en">BikeControl: Virtual Shifting</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>Compras integradas</span><ol>
+              <li>
+                <i>BikeControl Pro</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -1805,6 +1828,76 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BikeControl: Virtual Shifting]]></title>
+        <id>BikeControl: Virtual Shifting-pt-1792397485602</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/6753721284?lang=en"/>
+        <updated>2026-10-19T08:11:25.602Z</updated>
+        <summary type="html"><![CDATA[BikeControl Pro: 27,99 € → 2,79 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6753721284?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/f7/52/2ef752d2-976e-b8d6-5da6-0be6bb9aff11/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>Compras integradas</h3><ul>
+  <li>
+    <strong>BikeControl Pro：</strong><span>27,99 €</span> → <b>
+  <strong>2,79 €</strong>
+</b><span>[2,79 € ~ 27,99 €]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>Gratuito</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    BikeControl Pro：<b>2,79 €</b>
+  </li><li>
+    Full Version Unlock：<b>5,99 €</b>
+  </li><li>
+    BikeControl Pro - Yearly：<b>24,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Add virtual shifting to any indoor training app.
+
+BikeControl (formerly SwiftControl) turns a controller you already own into a virtual shifter: Shimano Di2, SRAM AXS / eTap, WHEELTOP EDS, Zwift Click, Zwift Play, Zwift Ride, CYCPLUS BC2, Thinkrider VS200, a Bluetooth remote or a gamepad.
+
+WHAT YOU CAN DO
+▶ Virtual gear shifting - in apps that support it natively, and in apps that do not
+▶ Steering and turning
+▶ Adjust workout intensity
+▶ Control music on your device
+▶ Tune everything around shifting: gear count, ratios, gearing
+▶ More? If you can do it by keyboard, mouse or touch, you can do it with BikeControl
+
+WORKS WITH
+Officially supported, built in natively: MyWhoosh, Rouvy, TrainingPeaks Virtual, Strappo
+Also supported: Zwift, Biketerra, FulGaz and any other app you can drive by keyboard or touch
+
+BikeControl applies the gear change at the trainer and sends the resulting resistance to the app, so virtual shifting works even in apps that have no virtual shifting of their own.
+
+SHIMANO Di2 AND SRAM AXS
+Pair the road shifters you already ride outdoors and use them to shift virtual gears indoors. No extra hardware, no adapters.
+
+SUPPORTED CONTROLLERS
+▶ Zwift Click, Click v2, Ride and Play
+▶ Shimano Di2
+▶ SRAM AXS and eTap, every individual button
+▶ WHEELTOP EDS
+▶ Wahoo Kickr Bike Shift, Pro, V1 and V2
+▶ CYCPLUS BC2 and Thinkrider VS200 virtual shifters
+▶ Elite Sterzo Smart and Elite Square Smart Frame, for steering
+▶ Gamepads, Bluetooth HID devices and keyboards
+▶ Your phone on the handlebar, steering with its sensors
+
+OPEN SOURCE
+BikeControl is open source: https://github.com/OpenBikeControl/bikecontrol
+
+PRIVACY
+▶ BikeControl only accesses your screen to perform the gestures you configure
+▶ All gesture configurations stay on your device
+▶ No personal data is collected or transmitted
+
+Not affiliated with or endorsed by Zwift, Inc., Shimano, SRAM, Wahoo or Elite.
+
+Terms of use: https://bikecontrol.app/terms-of-use
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/49/87/934987d1-0d36-fa22-d04f-b7bd69276923/01_device_iphone65.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/95/da/bf95daae-1e4f-21c3-b146-9fb8fd0004d3/02_devices_iphone65.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/d2/ca/79d2ca31-c1e7-14d6-ca29-836772c91db2/03_virtualshifting-settings_iphone65.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/f8/b8/88f8b802-8155-0e2d-e8db-28a1b5fba20a/04_customization_iphone65.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/4e/9a/f14e9af1-08b1-dc57-d5b2-153a44dca7e1/05_trainer_iphone65.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/c0/74/26c074d4-f097-d229-ade3-4410c898f9a1/06_companion_iphone65.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/9c/94/5b9c948f-1986-71b6-a3cb-10b0204eb4ba/01_device_ipad129.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/25/37/722537fc-5864-71c8-f63f-0f2bf3d18461/02_devices_ipad129.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/7c/a1/aa7ca107-00a0-a111-df7b-095afba89737/03_virtualshifting-settings_ipad129.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/6c/cd/5f6ccdaa-a12c-04ab-3f09-c446add0822f/04_customization_ipad129.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/28/35/0b2835de-2a12-18cd-54b1-0e2e635160ae/05_trainer_ipad129.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/f1/27/84f12756-4cb2-1c01-0a03-c1d2263d3222/06_companion_ipad129.png/360x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Crystania Wars 2-Roguelike TD]]></title>
@@ -2400,94 +2493,5 @@ http://www.noteswriter.com/Kairoos_Privacy_Policy.html
 Termos de utilização
 https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/63/4e/61634ed5-8d3f-ae5f-63fe-9054d5288605/01.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/00/05/6c000537-4c5f-adf6-d60f-f2284ce9eeb9/02.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/9f/75/ad9f75c6-b687-13b7-6082-93b68bb1f2ec/06.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/a5/c8/aba5c830-70dc-cb6a-6558-06505bfdb8b1/04.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/47/fb/ee47fbbc-ea74-fc1e-40e5-0f5aad3a2d34/05.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/25/a4/2425a472-e910-609d-0405-477e650809d6/03.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/20/de/8f20de6f-713a-51a6-a8fa-7548e00048f4/07.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/62/01/0d620161-3304-42bf-94d6-113c37aa3fd0/08.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/d9/30/2ad930bb-d823-87ea-beff-74f6ce10defc/09.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/79/94/ee799417-d143-01be-8f38-9d0e75260c8d/10.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/5d/e4/355de4ee-0f39-82c3-1831-9adcab414da3/01.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/4a/64/084a6417-4226-d559-a866-a228419a4293/02.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/cd/44/65cd4425-0d19-5858-da9c-975abf3ffdfa/06.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/5b/82/cd5b82ae-475e-6abb-0067-d6a058c21fad/04.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/2d/6d/032d6d9b-cf31-4e26-c86d-42d196d6e4e3/05.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/ae/d5/7faed58d-05fd-d5af-0d8f-f8e5b2e683b0/03.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/93/3d/1d933deb-4d53-1ba7-cc3a-0a95a0d19c83/07.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/ab/e3/29abe389-b0eb-9ae0-d4aa-0d0d64b25810/08.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/24/21/1a24212b-a7a1-26d8-78e3-651ec074f92d/09.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/e2/08/bde20804-7fb4-bb80-4da2-c824622a7640/10.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No More Slimes!!: Idle Action]]></title>
-        <id>No More Slimes!!: Idle Action-pt-1792136164280</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/6786115854?lang=en"/>
-        <updated>2026-10-16T07:36:04.280Z</updated>
-        <summary type="html"><![CDATA[Price: 9,99 € → 6,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6786115854?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/c2/8c/f7c28c76-8ad6-353e-acb4-c6293c3ec973/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>9,99 €</span> → <b>
-  <strong>6,99 €</strong>
-</b><span>[5,99 € ~ 9,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>6,99 €</b>
-</p><h2>Application Description</h2><p>
-  Defeat slimes, gather resources, and grow even stronger!
-
-This is an incremental action game where your attack power and firepower increase endlessly with every battle. Expand your skill tree, combine cards and relics, and wipe out the slime hordes filling the screen in a single sweep!
-
-■ Visible Progress with Every Fight
-Defeat slimes to earn resources and loot, then upgrade your character and weapons.
-Enemies that once felt overwhelming can be defeated in an instant as your progress builds up. Experience the fun of an incremental game as you grow stronger, hunt faster, and earn more rewards.
-
-■ A Skill Tree That Grows with Your Choices
-Choose your preferred path of progression, including attack power, attack speed, and special abilities.
-The skills you upgrade first will change both your combat style and progression speed. Build your skill tree around your own strategy and complete a powerful build.
-
-■ Explosive Firepower with Cards and Relics
-Combine cards and relics obtained in battle to unlock new abilities and progression bonuses.
-Call down lightning, summon boomerangs that ricochet off walls, and dominate the battlefield with powerful special weapons. As your build comes together, battles become even flashier and more powerful.
-
-■ Mercenaries That Support Your Progress and Combat
-Unique mercenaries from across dimensions track and attack enemies in their own ways.
-Freeze enemies, call down meteors, and use wide-area mercenary skills. Upgrade and combine mercenaries to create more efficient combat strategies.
-
-■ Weapons That Grow Endlessly Stronger
-Upgrading your weapons increases both their attack range and firepower.
-Break through the limits of progression and sweep away the incoming slime hordes with overwhelming attacks. All the power you have accumulated comes alive through explosive, satisfying hits.
-
-■ Simple Controls, Deep Progression
-Enjoy intuitive controls that anyone can pick up, along with a wide variety of progression systems.
-Combat is simple, but different combinations of skill trees, cards, relics, mercenaries, and weapons allow you to create entirely different progression strategies.
-
-■ The Secret of No More Slimes!!
-The once-peaceful Mialreut Gorge has been occupied by a mysterious slime army.
-Hunt the endless waves of slimes and grow beyond your limits. Can you uncover the true culprit behind this massive chaos and restore peace to the gorge?
-
-Game Features
-- Incremental progression that makes you stronger with every battle
-- Increased firepower through resource gathering and repeated upgrades
-- A skill tree that changes based on your choices
-- Build combinations using cards and relics
-- Unique interdimensional mercenaries
-- A wide variety of abilities, including lightning, freezing, meteors, and boomerangs
-- Weapons that can be continuously upgraded
-- Cute 2D pixel art
-- Screen-filling slime hordes and satisfying combat impact
-
-※ Warning: You may lose track of time while watching your stats go up!
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/20/d2/3d20d210-ad98-4f0d-6ce8-39866c4dc516/iPhone.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/dc/04/6bdc0474-9f59-6384-4255-298ecf160c91/2.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/03/85/3903850d-66ff-6ef5-52df-16cdfbbfddd3/3.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/82/7c/5e827c77-da19-176a-486a-7750152f21aa/4.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/7a/32/537a325e-cb5b-45f7-bfef-09b15f01422a/5.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/e7/3c/4be73c8f-950a-f47c-fe09-d38a12966913/6.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/a5/5d/a1a55d0b-d3b5-cae0-744f-c49af01cd1fe/7.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/80/1b/e0801b59-50af-3b2d-89bf-72c23e986ee1/iPad-2.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/56/df/ae56dfba-3e70-3088-7dc0-814f0859c5af/iPad_2.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/05/2c/ab052ca0-8efe-b23e-745f-0846fc45980e/iPad_3.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/a3/b6/a7a3b6d2-4b8c-7887-ca23-998bbbc19808/iPad_4.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/3c/1e/9e3c1ebf-f908-c98c-1284-cc2c82c6cddf/iPad_5.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/1e/7d/b71e7d5f-88f4-7d06-86a6-dc98a586fdb6/iPad_6.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/d2/4e/99d24e8c-9788-0e16-6fbe-6e2d15527c8f/iPad_7.jpg/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch Tuner Lite]]></title>
-        <id>Watch Tuner Lite-pt-1792136164280</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/968820626?lang=en"/>
-        <updated>2026-10-16T07:36:04.280Z</updated>
-        <summary type="html"><![CDATA[Price: 0,99 € → Gratuito]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/968820626?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/55/27/7655271f-8938-6bda-66f9-bc118c69086d/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>0,99 €</span> → <b>
-  <strong>Gratuito</strong>
-</b><span>[Gratuito ~ 1,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Gratuito</b>
-</p><h2>Application Description</h2><p>
-  Watch Tuner Lite measures the accuracy of mechanical and automatic watches. It uses the built-in microphone or headset microphone to record the audible tick of the watch and calculates the seconds-per-day deviation. Works with almost any 'ticking' watch/clock.
-
-Use in a quiet environment. Any ambient noise can affect the accuracy of the results. Complete silence is best.
-
-Recommended way to record the ticks is to touch the crown of the watch with the headset microphone. You will get the best results using original Apple EarPods.
-
-This is a simple version of Watch Tuner application. Not everyone needs detailed information about a watch movement, sometimes only accuracy is important. Watch Tuner Lite uses very similar algorithm like Watch Tuner does but displays only seconds-per-day deviation.
-
-If you want to know how much your watch is fast or slow, this application is for you.
-If you prefer to measure also beat error and amplitude, try Watch Tuner - a bigger brother of this app.
-If you need frequency diagram look at Watch Tuner Timegrapher - the most sophisticated app of Watch Tuner series.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/36/10/f2361086-ca63-b1ac-9499-f9127601b895/wt_lite.jpeg/320x480bb.jpg" />]]></content>
     </entry>
 </feed>

@@ -35687,6 +35687,23 @@
     "history": [
       [
         {
+          "timestamp": 1792462971499,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "大富翁4 Fun 美國地圖": "$30.00",
+            "「日本香港組合包」": "$30.00",
+            "大富翁 4 fun 仙劍仙靈島組合包": "$30.00",
+            "大富翁 4 fun 韓國地圖組合包": "$30.00",
+            "大富翁 4 fun 軒轅劍太山組合包": "$30.00",
+            "大富翁 4 fun 樂園組合包": "$30.00",
+            "大富翁 4 FUN  巴黎倫敦組合包": "$30.00",
+            "仙五地圖包": "$30.00",
+            "大富翁4 Fun夏日組合包": "$30.00",
+            "很多元寶": "$150.00"
+          }
+        },
+        {
           "timestamp": 1792446504330,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -85639,6 +85656,20 @@
     "history": [
       [
         {
+          "timestamp": 1792462971499,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "13 Gems": "$290.00",
+            "6 Gems": "$120.00",
+            "48 Gems": "$990.00",
+            "1 Gem": "$30.00",
+            "150 Gems": "$2,490.00",
+            "74 Gems": "$1,290.00",
+            "28 Gems": "$490.00"
+          }
+        },
+        {
           "timestamp": 1792446504330,
           "price": 0,
           "formattedPrice": "免費",
@@ -104336,6 +104367,25 @@
       "2,160,000 points": "$2,490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792462971499,
+          "price": 20,
+          "formattedPrice": "$20.00",
+          "inAppPurchases": {
+            "20,000 points": "$30.00",
+            "50 kilometers": "$60.00",
+            "63,000 points": "$90.00",
+            "176,000 points": "$290.00",
+            "225,000 points": "$320.00",
+            "345,000 points": "$490.00",
+            "600,000 points": "$790.00",
+            "1,000,000 points": "$1,290.00",
+            "1,300,000 points": "$1,490.00",
+            "2,160,000 points": "$2,490.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791290979408,
@@ -155933,6 +155983,27 @@
       ]
     ]
   },
+  "1445593893": {
+    "name": "Journey",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792462971499,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1445772666": {
     "name": "Keep Talking & Nobody Explodes",
     "maxPriceInfo": {
@@ -176758,6 +176829,22 @@
     "history": [
       [
         {
+          "timestamp": 1792462971499,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "The Ultimate Edition Welcome Offer": "$790.00",
+            "The Complete Collection": "$1,190.00",
+            "Explorer Pack": "$390.00",
+            "Welcome Offer": "$690.00",
+            "New York 2121 Board": "$220.00",
+            "Cherry Blossom Tokyo Board": "$220.00",
+            "Emberwing Token": "$320.00",
+            "Promotion": "$590.00",
+            "New York 2121": "$490.00"
+          }
+        },
+        {
           "timestamp": 1792446504330,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -195540,10 +195627,18 @@
       "formattedPrice": "$60.00"
     },
     "minPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00"
+      "price": 30,
+      "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792462971499,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1773754856197,
@@ -229813,6 +229908,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792462971499,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "$1,700.00",
+            "逆命殊途": "$280.00",
+            "額外內容擴充包": "$560.00",
+            "武器專屬強化券 x5 (A)": "$280.00",
+            "武器專屬強化券 x3 (A)": "$199.00",
+            "經典公事包": "$29.00",
+            "金色公事包": "$29.00",
+            "手槍彈藥吊飾": "$29.00",
+            "武器專屬強化券 x1 (A)": "$85.00",
+            "綠色藥草吊飾": "$29.00"
+          }
+        },
         {
           "timestamp": 1792446504330,
           "price": 0,
@@ -317379,6 +317491,27 @@
           "timestamp": 1792345098035,
           "price": 150,
           "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6805775608": {
+    "name": "Kahvehane Simülatörü",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792462971499,
+          "price": 30,
+          "formattedPrice": "$30.00",
           "inAppPurchases": {}
         }
       ]

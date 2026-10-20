@@ -120699,6 +120699,27 @@
       ]
     ]
   },
+  "1445593893": {
+    "name": "Journey",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792462971499,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1445772666": {
     "name": "Keep Talking & Nobody Explodes",
     "maxPriceInfo": {
@@ -144990,10 +145011,18 @@
       "formattedPrice": "USD 1.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "USD 1.99"
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792462971499,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1773754856197,
@@ -213606,6 +213635,27 @@
           "timestamp": 1792345098035,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6805775608": {
+    "name": "Kahvehane Simülatörü",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792462971499,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
         }
       ]

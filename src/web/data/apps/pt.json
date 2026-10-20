@@ -2430,7 +2430,7 @@
   {
     "trackId": 479516143,
     "region": "pt",
-    "timestamp": 1792397485602,
+    "timestamp": 1792462971499,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "6,99 €",
@@ -4159,7 +4159,7 @@
   {
     "trackId": 650684932,
     "region": "pt",
-    "timestamp": 1792446504330,
+    "timestamp": 1792462971499,
     "discounts": [],
     "price": 9.99,
     "formattedPrice": "9,99 €",
@@ -8051,7 +8051,7 @@
   {
     "trackId": 1118115766,
     "region": "pt",
-    "timestamp": 1791540411692,
+    "timestamp": 1792462971499,
     "discounts": [],
     "price": 7.99,
     "formattedPrice": "7,99 €",
@@ -11207,6 +11207,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id1445379072",
     "trackName": "GRIS",
     "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1445593893,
+    "region": "pt",
+    "timestamp": 1792462971499,
+    "discounts": [],
+    "price": 5.99,
+    "formattedPrice": "5,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1445593893",
+    "trackName": "Journey",
+    "firstRecordedAt": 1792462971499
   },
   {
     "trackId": 1445772666,
@@ -18073,7 +18085,7 @@
   {
     "trackId": 6473001577,
     "region": "pt",
-    "timestamp": 1792397485602,
+    "timestamp": 1792462971499,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "3,99 €",
@@ -24365,6 +24377,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id6805543429",
     "trackName": "護士投考全攻略 NurseReady",
     "firstRecordedAt": 1789123271061
+  },
+  {
+    "trackId": 6805775608,
+    "region": "pt",
+    "timestamp": 1792462971499,
+    "discounts": [],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6805775608",
+    "trackName": "Kahvehane Simülatörü",
+    "firstRecordedAt": 1792462971499
   },
   {
     "trackId": 6806721202,

@@ -2933,7 +2933,7 @@
   {
     "trackId": 491231653,
     "region": "tw",
-    "timestamp": 1792446504330,
+    "timestamp": 1792462971499,
     "discounts": [],
     "price": 60,
     "formattedPrice": "$60.00",
@@ -7111,7 +7111,7 @@
   {
     "trackId": 983143183,
     "region": "tw",
-    "timestamp": 1792446504330,
+    "timestamp": 1792462971499,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -8547,7 +8547,7 @@
   {
     "trackId": 1108479411,
     "region": "tw",
-    "timestamp": 1791290979408,
+    "timestamp": 1792462971499,
     "discounts": [],
     "price": 20,
     "formattedPrice": "$20.00",
@@ -12181,6 +12181,18 @@
     "firstRecordedAt": 1721960142187
   },
   {
+    "trackId": 1445593893,
+    "region": "tw",
+    "timestamp": 1792462971499,
+    "discounts": [],
+    "price": 150,
+    "formattedPrice": "$150.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1445593893",
+    "trackName": "Journey",
+    "firstRecordedAt": 1792462971499
+  },
+  {
     "trackId": 1445772666,
     "region": "tw",
     "timestamp": 1783519501810,
@@ -13219,7 +13231,7 @@
   {
     "trackId": 1477966166,
     "region": "tw",
-    "timestamp": 1792446504330,
+    "timestamp": 1792462971499,
     "discounts": [],
     "price": 150,
     "formattedPrice": "$150.00",
@@ -15169,10 +15181,10 @@
   {
     "trackId": 1551480486,
     "region": "tw",
-    "timestamp": 1773754856197,
+    "timestamp": 1792462971499,
     "discounts": [],
-    "price": 60,
-    "formattedPrice": "$60.00",
+    "price": 30,
+    "formattedPrice": "$30.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1551480486",
     "trackName": "IFR Trainer",
@@ -19165,7 +19177,7 @@
   {
     "trackId": 6462360082,
     "region": "tw",
-    "timestamp": 1792446504330,
+    "timestamp": 1792462971499,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -26470,6 +26482,18 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id6805543429",
     "trackName": "護士投考全攻略 NurseReady",
     "firstRecordedAt": 1789123271061
+  },
+  {
+    "trackId": 6805775608,
+    "region": "tw",
+    "timestamp": 1792462971499,
+    "discounts": [],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6805775608",
+    "trackName": "Kahvehane Simülatörü",
+    "firstRecordedAt": 1792462971499
   },
   {
     "trackId": 6806721202,

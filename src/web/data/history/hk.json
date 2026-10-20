@@ -36855,6 +36855,23 @@
     "history": [
       [
         {
+          "timestamp": 1792462971499,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "「日本香港組合包」": "HK$ 8.00",
+            "大富翁 4 fun 仙劍仙靈島組合包": "HK$ 8.00",
+            "大富翁4 Fun 美國地圖": "HK$ 8.00",
+            "大富翁 4 fun 韓國地圖組合包": "HK$ 8.00",
+            "大富翁 4 fun 軒轅劍太山組合包": "HK$ 8.00",
+            "大富翁 4 FUN  巴黎倫敦組合包": "HK$ 8.00",
+            "大富翁 4 fun 樂園組合包": "HK$ 8.00",
+            "仙五地圖包": "HK$ 8.00",
+            "大富翁4 Fun夏日組合包": "HK$ 8.00",
+            "很多元寶": "HK$ 38.00"
+          }
+        },
+        {
           "timestamp": 1792446504330,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -159564,6 +159581,29 @@
       ]
     ]
   },
+  "1445593893": {
+    "trackId": 1445593893,
+    "trackName": "Journey",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792462971499,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1445772666": {
     "trackId": 1445772666,
     "trackName": "Keep Talking & Nobody Explodes",
@@ -198715,10 +198755,18 @@
       "formattedPrice": "HK$ 18.00"
     },
     "minPriceInfo": {
-      "price": 18,
-      "formattedPrice": "HK$ 18.00"
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792462971499,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1773754856197,
@@ -308985,6 +309033,29 @@
           "timestamp": 1792345098035,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6805775608": {
+    "trackId": 6805775608,
+    "trackName": "Kahvehane Simülatörü",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792462971499,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
           "inAppPurchases": {}
         }
       ]

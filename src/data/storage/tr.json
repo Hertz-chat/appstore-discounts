@@ -37543,6 +37543,23 @@
     "history": [
       [
         {
+          "timestamp": 1792462971499,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {
+            "Holidays Turkey": "₺49,99",
+            "Religious holidays": "₺49,99",
+            "Moon Phases calendar": "₺49,99",
+            "Calendars - Super Lig Football Men Turkey 2014-2015 edition": "₺49,99",
+            "+800 Emoji Stickers": "₺49,99",
+            "Holidays Ukraine": "₺49,99",
+            "SMI Company Calendars": "₺149,99",
+            "Week Numbers": "₺49,99",
+            "Calendars - PL Football Men Senegal 2015-2016 edition": "₺49,99",
+            "Calendars - Primera Divisio Football Men Andorra 2015-2016 edition": "₺49,99"
+          }
+        },
+        {
           "timestamp": 1792446504330,
           "price": 499.99,
           "formattedPrice": "₺499,99",
@@ -72075,6 +72092,23 @@
     "history": [
       [
         {
+          "timestamp": 1792462971499,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "$5 Credit": "₺299,99",
+            "1 Mo. CAN Texting": "₺149,99",
+            "1 Mo. Global Texting": "₺199,99",
+            "3 Mo. CAN Texting": "₺299,99",
+            "$20 Credit": "₺999,99",
+            "1 Mo. Fongo Plus": "₺499,99",
+            "6 Mo. CAN Texting": "₺499,99",
+            "$50 Credit": "₺2.499,99",
+            "3 Mo. Global Texting": "₺499,99",
+            "12 Mo. CAN Texting": "₺999,99"
+          }
+        },
+        {
           "timestamp": 1792446504330,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -83960,6 +83994,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792462971499,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "金牛会员尊享版连续包年": "₺159,99",
+            "金牛会员尊享版连续包月": "₺12,99",
+            "机构探测器连续包月": "₺379,99",
+            "问财专业版连续包月": "₺999,99",
+            "问财进阶版连续包月": "₺399,99",
+            "598花币": "₺4.999,99",
+            "299花币": "₺1.999,99",
+            "早盘选股宝连续包月": "₺1.299,99",
+            "金牛情报连续包月": "₺219,99",
+            "分时顶底连续包季": "₺389,99"
+          }
+        },
         {
           "timestamp": 1792446504330,
           "price": 4.99,
@@ -151307,6 +151358,27 @@
       ]
     ]
   },
+  "1445593893": {
+    "name": "Journey",
+    "maxPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792462971499,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1445772666": {
     "name": "Keep Talking & Nobody Explodes",
     "maxPriceInfo": {
@@ -190326,6 +190398,14 @@
     "history": [
       [
         {
+          "timestamp": 1792462971499,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792363190565,
           "price": 0,
           "formattedPrice": "Free",
@@ -191964,10 +192044,18 @@
       "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792462971499,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1773754856197,
@@ -207407,6 +207495,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792462971499,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784757792925,
@@ -227001,6 +227097,14 @@
     "history": [
       [
         {
+          "timestamp": 1792462971499,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791507612931,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -240600,6 +240704,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792462971499,
+          "price": 114.99,
+          "formattedPrice": "₺114,99",
+          "inAppPurchases": {
+            "1'000'000 Coins": "₺149,99",
+            "200'000 Coins": "₺49,99",
+            "500'000 Coins": "₺99,99",
+            "Amazone CITAN 15001-C": "₺49,99",
+            "New Holland T8.435 Genesis": "₺99,99",
+            "Krone BiG Pack 1290 HDP VC": "₺49,99",
+            "ClaasLexion8900+ConvioFlex1380": "₺149,99",
+            "Case IH Speed-Tiller": "₺49,99",
+            "KINZE 3665 Blue Drive": "₺49,99",
+            "Versatile 4WD 620": "₺99,99"
+          }
+        },
         {
           "timestamp": 1792446504330,
           "price": 114.99,
@@ -289468,6 +289589,14 @@
     "history": [
       [
         {
+          "timestamp": 1792462971499,
+          "price": 90.99,
+          "formattedPrice": "₺90,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789601594897,
           "price": 129.9,
           "formattedPrice": "₺129,90",
@@ -294958,6 +295087,27 @@
           "timestamp": 1792345098035,
           "price": 249.99,
           "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6805775608": {
+    "name": "Turkish Coffeehouse Simulator",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792462971499,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
           "inAppPurchases": {}
         }
       ]

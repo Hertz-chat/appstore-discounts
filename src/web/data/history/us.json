@@ -97557,6 +97557,18 @@
     "history": [
       [
         {
+          "timestamp": 1792462971499,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "月度会员": "$1.99",
+            "生辰-年度会员": "$12.99",
+            "生辰年度会员": "$9.99",
+            "永久会员": "$12.99",
+            "生辰-季度会员": "$12.99"
+          }
+        },
+        {
           "timestamp": 1792446504330,
           "price": 0,
           "formattedPrice": "Free",
@@ -153767,6 +153779,23 @@
     "history": [
       [
         {
+          "timestamp": 1792462971499,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Crop": "$0.00",
+            "Splice": "$0.00",
+            "Magnifier": "$0.00",
+            "Distortion": "$0.00",
+            "Paint": "$0.00",
+            "Rotate": "$0.00",
+            "Sticker": "$0.00",
+            "Rate": "$0.00",
+            "Chromakey": "$0.00",
+            "Info": "$0.00"
+          }
+        },
+        {
           "timestamp": 1792446504330,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -175571,6 +175600,29 @@
       [
         {
           "timestamp": 1721960142187,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1445593893": {
+    "trackId": 1445593893,
+    "trackName": "Journey",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792462971499,
           "price": 4.99,
           "formattedPrice": "$4.99",
           "inAppPurchases": {}
@@ -215294,6 +215346,14 @@
     "history": [
       [
         {
+          "timestamp": 1792462971499,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792375600089,
           "price": 0,
           "formattedPrice": "Free",
@@ -219322,10 +219382,18 @@
       "formattedPrice": "$1.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99"
+      "price": 0.99,
+      "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792462971499,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1773754856197,
@@ -239919,6 +239987,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792462971499,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784774460939,
@@ -267174,6 +267250,14 @@
       "formattedPrice": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792462971499,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -326152,6 +326236,19 @@
     "history": [
       [
         {
+          "timestamp": 1792462971499,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Dumb Phone Plus Yearly": "$59.90",
+            "Dumb Phone Plus Weekly": "$1.99",
+            "Dumb Phone Plus Monthly": "$7.99",
+            "Dumb Phone Plus Lifetime": "$79.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789787996372,
           "price": 0,
           "formattedPrice": "Free",
@@ -356072,6 +356169,14 @@
     "history": [
       [
         {
+          "timestamp": 1792462971499,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789616262482,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -361277,6 +361382,29 @@
           "timestamp": 1792345098035,
           "price": 4.99,
           "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6805775608": {
+    "trackId": 6805775608,
+    "trackName": "Turkish Coffeehouse Simulator",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792462971499,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
           "inAppPurchases": {}
         }
       ]

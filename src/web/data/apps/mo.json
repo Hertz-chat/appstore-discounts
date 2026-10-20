@@ -12134,6 +12134,18 @@
     "firstRecordedAt": 1721960142187
   },
   {
+    "trackId": 1445593893,
+    "region": "mo",
+    "timestamp": 1792462971499,
+    "discounts": [],
+    "price": 4.99,
+    "formattedPrice": "USD 4.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1445593893",
+    "trackName": "Journey",
+    "firstRecordedAt": 1792462971499
+  },
+  {
     "trackId": 1445772666,
     "region": "mo",
     "timestamp": 1783519501810,
@@ -15134,10 +15146,10 @@
   {
     "trackId": 1551480486,
     "region": "mo",
-    "timestamp": 1773754856197,
+    "timestamp": 1792462971499,
     "discounts": [],
-    "price": 1.99,
-    "formattedPrice": "USD 1.99",
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1551480486",
     "trackName": "IFR Trainer",
@@ -26321,6 +26333,18 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id6805543429",
     "trackName": "護士投考全攻略 NurseReady",
     "firstRecordedAt": 1789123271061
+  },
+  {
+    "trackId": 6805775608,
+    "region": "mo",
+    "timestamp": 1792462971499,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6805775608",
+    "trackName": "Kahvehane Simülatörü",
+    "firstRecordedAt": 1792462971499
   },
   {
     "trackId": 6806721202,

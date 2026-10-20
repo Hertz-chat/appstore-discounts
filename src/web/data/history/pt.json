@@ -16145,6 +16145,25 @@
     "history": [
       [
         {
+          "timestamp": 1792462971499,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "1,99 €",
+            "Realms Plus:10 Friends w/trial": "7,99 €",
+            "Minecraft Store Item 6": "6,99 €",
+            "Realms Monthly Subscription: You + 2 Friends": "3,99 €",
+            "Minecraft Store Item 10": "9,99 €",
+            "Minecraft Store Item 3": "2,99 €",
+            "Minecraft Store Item 4": "3,99 €",
+            "Minecraft Store Item 5": "5,99 €",
+            "Minecraft Store Item 8": "8,99 €",
+            "Marketplace Pass Trial": "3,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792397485602,
           "price": 6.99,
           "formattedPrice": "6,99 €",
@@ -32274,6 +32293,25 @@
       "Mazda 2024 Enhanced": "17,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792462971499,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Toyota 2018 Enhanced": "17,99 €",
+            "Toyota 2014 Enhanced Diagnostics": "17,99 €",
+            "Toyota 2010 Enhanced Diagnostics": "17,99 €",
+            "Mazda 2016 Enhanced Diagnostics": "17,99 €",
+            "Mazda 2015 Enhanced Diagnostics": "17,99 €",
+            "Ford 2026 Enhanced": "17,99 €",
+            "Mazda 2026 Enhanced": "17,99 €",
+            "Mazda 2025 Enhanced": "17,99 €",
+            "FCA 2026": "17,99 €",
+            "Ford 2025 Enhanced": "17,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792446504330,
@@ -52893,6 +52931,25 @@
       "Skywarden Unlock Pack": "8,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792462971499,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Oferta de Pilha de Dinheiro": "3,49 €",
+            "Liberar Torre Totalmente": "5,99 €",
+            "Dinheiro de Macaco": "2,49 €",
+            "XP de Torre": "1,19 €",
+            "Pilha de Dinheiro de Macaco": "5,99 €",
+            "Oferta de Cofre de Dinheiro": "14,99 €",
+            "10 Pontos de Conhecimento": "8,99 €",
+            "Liberar Excelência": "5,99 €",
+            "Ponto de Conhecimento": "1,19 €",
+            "Modo Dinheiro Dobrado": "21,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -75450,6 +75507,29 @@
       [
         {
           "timestamp": 1761797674362,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1445593893": {
+    "trackId": 1445593893,
+    "trackName": "Journey",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792462971499,
           "price": 5.99,
           "formattedPrice": "5,99 €",
           "inAppPurchases": {}
@@ -119857,6 +119937,25 @@
     "history": [
       [
         {
+          "timestamp": 1792462971499,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Boeing 747-400": "1,99 €",
+            "Global scenery - 3 months": "8,99 €",
+            "Boeing 787-9": "3,99 €",
+            "Airbus A380": "1,99 €",
+            "Swift": "0,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Airbus A320neo": "3,99 €",
+            "Boeing 737 MAX 9": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792397485602,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -152082,6 +152181,29 @@
           "timestamp": 1792345098035,
           "price": 5.99,
           "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6805775608": {
+    "trackId": 6805775608,
+    "trackName": "Kahvehane Simülatörü",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792462971499,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
           "inAppPurchases": {}
         }
       ]

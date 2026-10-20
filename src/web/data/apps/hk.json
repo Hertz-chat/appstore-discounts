@@ -2897,7 +2897,7 @@
   {
     "trackId": 491231653,
     "region": "hk",
-    "timestamp": 1792446504330,
+    "timestamp": 1792462971499,
     "discounts": [],
     "price": 18,
     "formattedPrice": "HK$ 18.00",
@@ -12134,6 +12134,18 @@
     "firstRecordedAt": 1721960142187
   },
   {
+    "trackId": 1445593893,
+    "region": "hk",
+    "timestamp": 1792462971499,
+    "discounts": [],
+    "price": 38,
+    "formattedPrice": "HK$ 38.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1445593893",
+    "trackName": "Journey",
+    "firstRecordedAt": 1792462971499
+  },
+  {
     "trackId": 1445772666,
     "region": "hk",
     "timestamp": 1783519501810,
@@ -15134,10 +15146,10 @@
   {
     "trackId": 1551480486,
     "region": "hk",
-    "timestamp": 1773754856197,
+    "timestamp": 1792462971499,
     "discounts": [],
-    "price": 18,
-    "formattedPrice": "HK$ 18.00",
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id1551480486",
     "trackName": "IFR Trainer",
@@ -26436,6 +26448,18 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id6805543429",
     "trackName": "護士投考全攻略 NurseReady",
     "firstRecordedAt": 1789123271061
+  },
+  {
+    "trackId": 6805775608,
+    "region": "hk",
+    "timestamp": 1792462971499,
+    "discounts": [],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6805775608",
+    "trackName": "Kahvehane Simülatörü",
+    "firstRecordedAt": 1792462971499
   },
   {
     "trackId": 6806721202,

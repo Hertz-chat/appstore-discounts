@@ -2752,7 +2752,7 @@
   {
     "trackId": 480102733,
     "region": "tr",
-    "timestamp": 1792446504330,
+    "timestamp": 1792462971499,
     "discounts": [],
     "price": 499.99,
     "formattedPrice": "₺499,99",
@@ -5725,7 +5725,7 @@
   {
     "trackId": 860809977,
     "region": "tr",
-    "timestamp": 1792446504330,
+    "timestamp": 1792462971499,
     "discounts": [],
     "price": 249.99,
     "formattedPrice": "₺249,99",
@@ -6702,7 +6702,7 @@
   {
     "trackId": 954724812,
     "region": "tr",
-    "timestamp": 1792446504330,
+    "timestamp": 1792462971499,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "₺4,99",
@@ -12169,6 +12169,18 @@
     "firstRecordedAt": 1730693617795
   },
   {
+    "trackId": 1445593893,
+    "region": "tr",
+    "timestamp": 1792462971499,
+    "discounts": [],
+    "price": 249.99,
+    "formattedPrice": "₺249,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1445593893",
+    "trackName": "Journey",
+    "firstRecordedAt": 1792462971499
+  },
+  {
     "trackId": 1445772666,
     "region": "tr",
     "timestamp": 1783565841644,
@@ -14796,10 +14808,10 @@
   {
     "trackId": 1538124245,
     "region": "tr",
-    "timestamp": 1792363190565,
+    "timestamp": 1792462971499,
     "discounts": [],
-    "price": 0,
-    "formattedPrice": "Free",
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id1538124245",
     "trackName": "where I put it",
@@ -15109,10 +15121,10 @@
   {
     "trackId": 1551480486,
     "region": "tr",
-    "timestamp": 1773754856197,
+    "timestamp": 1792462971499,
     "discounts": [],
-    "price": 99.99,
-    "formattedPrice": "₺99,99",
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id1551480486",
     "trackName": "IFR Trainer",
@@ -16120,10 +16132,10 @@
   {
     "trackId": 1587301632,
     "region": "tr",
-    "timestamp": 1784757792925,
+    "timestamp": 1792462971499,
     "discounts": [],
-    "price": 199.99,
-    "formattedPrice": "₺199,99",
+    "price": 0,
+    "formattedPrice": "Free",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id1587301632",
     "trackName": "All In One Memo",
@@ -17732,10 +17744,10 @@
   {
     "trackId": 1664728315,
     "region": "tr",
-    "timestamp": 1791507612931,
+    "timestamp": 1792462971499,
     "discounts": [],
-    "price": 199.99,
-    "formattedPrice": "₺199,99",
+    "price": 249.99,
+    "formattedPrice": "₺249,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id1664728315",
     "trackName": "Mutropolis mobile",
@@ -18152,7 +18164,7 @@
   {
     "trackId": 6444400410,
     "region": "tr",
-    "timestamp": 1792446504330,
+    "timestamp": 1792462971499,
     "discounts": [],
     "price": 114.99,
     "formattedPrice": "₺114,99",
@@ -24053,10 +24065,10 @@
   {
     "trackId": 6757846100,
     "region": "tr",
-    "timestamp": 1789601594897,
+    "timestamp": 1792462971499,
     "discounts": [],
-    "price": 129.9,
-    "formattedPrice": "₺129,90",
+    "price": 90.99,
+    "formattedPrice": "₺90,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6757846100",
     "trackName": "This Aint Even Poker, Ya Joker",
@@ -26091,6 +26103,18 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6805543429",
     "trackName": "護士投考全攻略 NurseReady",
     "firstRecordedAt": 1789123271061
+  },
+  {
+    "trackId": 6805775608,
+    "region": "tr",
+    "timestamp": 1792462971499,
+    "discounts": [],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6805775608",
+    "trackName": "Turkish Coffeehouse Simulator",
+    "firstRecordedAt": 1792462971499
   },
   {
     "trackId": 6806721202,

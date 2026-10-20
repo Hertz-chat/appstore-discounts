@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2026-10-19T23:28:26.415Z</updated>
+    <updated>2026-10-20T04:00:11.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-19T23:28:26.417Z</updated>
+        <updated>2026-10-20T04:00:11.125Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnMon, 19 Oct 2026 23:28:26 GMT</id>
+        <id>rankingcnTue, 20 Oct 2026 04:00:11 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-19T23:28:26.417Z</updated>
+        <updated>2026-10-20T04:00:11.126Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -51,13 +51,13 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>2349</b>
+        <b>2351</b>
       </td>
       <td>
         <b>204</b>
       </td>
       <td>
-        <b>2145</b>
+        <b>2147</b>
       </td>
       <td>
         <b>107</b>
@@ -574,7 +574,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>28</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1551596643?lang=zh-CN">模拟地铁</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1551480486?lang=zh-CN">IFR Trainer</a>
       </td>
       <td>
         <ul>
@@ -591,7 +591,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>29</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1561849298?lang=zh-CN">SessionBand Soul Jazz Funk 3</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1551596643?lang=zh-CN">模拟地铁</a>
       </td>
       <td>
         <ul>
@@ -608,7 +608,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>30</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1587301632?lang=zh-CN">全能记(录音,备忘,流水)</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1561849298?lang=zh-CN">SessionBand Soul Jazz Funk 3</a>
       </td>
       <td>
         <ul>
@@ -625,7 +625,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>31</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1626320298?lang=zh-CN">极速变色龙</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1587301632?lang=zh-CN">全能记(录音,备忘,流水)</a>
       </td>
       <td>
         <ul>
@@ -642,7 +642,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>32</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1644917705?lang=zh-CN">无处遁形：全网公敌</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1626320298?lang=zh-CN">极速变色龙</a>
       </td>
       <td>
         <ul>
@@ -659,7 +659,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>33</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1665759338?lang=zh-CN">坐在罐子里的人</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1644917705?lang=zh-CN">无处遁形：全网公敌</a>
       </td>
       <td>
         <ul>
@@ -676,7 +676,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>34</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1667072735?lang=zh-CN">Watch Web Browser</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1665759338?lang=zh-CN">坐在罐子里的人</a>
       </td>
       <td>
         <ul>
@@ -693,7 +693,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>35</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6752662508?lang=zh-CN">时光轨迹-足迹·每日轨迹·记录一生轨迹·GPS</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1667072735?lang=zh-CN">Watch Web Browser</a>
       </td>
       <td>
         <ul>
@@ -708,6 +708,23 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>
         <b>36</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/cn/6752662508?lang=zh-CN">时光轨迹-足迹·每日轨迹·记录一生轨迹·GPS</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>37</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6760764479?lang=zh-CN">Alpin Quest PRO – Outdoor GPS</a>
@@ -730,7 +747,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6802565793?lang=zh-CN">我不想当班主任-班主任工作台&教师工作台&班级管理</a>
@@ -747,7 +764,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6760446039?lang=zh-CN">般若心灯</a>
@@ -764,7 +781,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6755290585?lang=zh-CN">Raiders Map</a>
@@ -787,7 +804,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6748287593?lang=zh-CN">问题盒子-清空大脑，告别内耗</a>
@@ -804,7 +821,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6760777178?lang=zh-CN">Film Light</a>
@@ -821,7 +838,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6757943661?lang=zh-CN">阿福出境管家 - 签证通过率评估与材料清单</a>
@@ -838,7 +855,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6471594918?lang=zh-CN">Just a Simple Image Converter</a>
@@ -855,7 +872,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6742457882?lang=zh-CN">Deco: Wallpaper & Stickers</a>
@@ -1451,6 +1468,30 @@ feedId:157007849019630592+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[IFR Trainer]]></title>
+        <id>IFR Trainer-cn-1792462971499</id>
+        <link href="https://appstore-discounts.eyelly.me/cn/1551480486?lang=zh-CN"/>
+        <updated>2026-10-20T02:22:51.499Z</updated>
+        <summary type="html"><![CDATA[价格: ¥15.00 → ¥8.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/1551480486?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/40/b5/ad40b5df-d80e-b7e7-0186-72a70587db47/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥15.00</span> → <b>
+  <strong>¥8.00</strong>
+</b><span>[¥8.00 ~ ¥15.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>¥8.00</b>
+</p><h2>应用描述</h2><p>
+  Turn your iPad or iPhone into a powerful IFR training tool!
+
+The IFR Trainer is a simple yet effective tool designed to enhance your instrument flight training. Practice course and radial tracking on your device, saving valuable time during your actual flight training.
+
+The IFR Trainer features an Electronic Horizontal Situation Indicator (EHSI) with a DME reading and two bearing pointers. Use the EHSI to intercept VOR radials or track NDB bearings. Alternatively, switch to a landscape dual-gauge mode, displaying both an HSI and a single-needle ADF Indicator with a manually adjustable compass card.
+
+For optimal performance, we recommend using the dark appearance mode, which complies with EASA AMC 25-11. The light appearance mode is ideal for classroom presentations.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/b3/f8/d2b3f86a-a14a-f336-7482-b0f952758474/3858d2bc-d746-4588-a360-775d3ebf19c2_IFR-Trainer-iPhone_8_Plus-1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/e3/72/81e37297-bb4e-ffe5-da7d-a5a2b2c505c3/1fed7d81-2bc4-473b-b033-f23dad5cf1fe_IFR-Trainer-iPhone_8_Plus-2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/0e/b8/700eb8b2-98b5-7b05-580b-677b7fd3ad39/39c529e0-639f-4fff-b7db-a88e407e79ea_IFR-Trainer-iPhone_8_Plus-3.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/a8/00/d0a800db-5666-273e-8623-809ea74dad27/b318d4e3-03f7-4b47-8941-c0a5b6763fc4_IFR-Trainer-iPad.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Deco: Wallpaper & Stickers]]></title>
         <id>Deco: Wallpaper &amp; Stickers-cn-1792446504330</id>
         <link href="https://appstore-discounts.eyelly.me/cn/6742457882?lang=zh-CN"/>
@@ -1769,71 +1810,5 @@ Fonexsis Creative Group.
 欢迎提出建议或反馈使用中遇到的问题。
 联系开发者：App 内「设置 > 联系开发者」。
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/73/97/9f7397b6-9e4e-ebd1-927a-e324deaaeae2/01-calendar.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/33/f6/e433f6ae-8ec7-908b-d16d-4b1e85de4db0/02-icons.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/68/dd/0c68dd5f-f2bd-0c5d-ea40-ec1498f660e6/03-alarms.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fa/a8/9b/faa89bea-e44d-9ad5-ec16-6351472d565a/04-widgets.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/ba/31/e8ba3169-1aff-b422-ea54-26300dc861bc/05-compare.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/82/29/308229c5-9875-40a3-2d4c-7da084931e55/06-overview.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/29/1b/1a291b9b-c8c1-a87a-6670-ac84db76edab/07-report.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/dc/8e/dddc8e0a-bfa8-0e84-8ef8-cd76b41d3fe6/08-export.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/1c/1e/f41c1ef0-36bf-6e43-6346-9b3176b571bc/09-themes.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/b0/24/8cb024d3-28e7-a32e-075c-f95a17643327/02-calendar.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/e3/df/05e3dff7-a273-7453-c9f3-9989da5a6c4e/03-alarms.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/03/e1/a703e107-c895-eeae-5456-dbe9f98f6691/04-widgets.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/e2/78/23e27836-0641-669a-edb9-7bbea3d638ce/05-compare.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/3d/db/e13ddbb6-6cec-7d15-55c2-46123e0f32f3/06-notes.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/c5/3c/c9c53c47-7b3b-4f7e-ff21-7a4dadd7e427/07-dark-mode.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/dd/3a/b2dd3afb-7247-2388-b212-8f7fa0b9800e/08-pdf.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/bb/a7/24bba781-26af-4bfd-1597-aaf525c88150/09-themes.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keeps]]></title>
-        <id>Keeps-cn-1792201899634</id>
-        <link href="https://appstore-discounts.eyelly.me/cn/6811795155?lang=zh-CN"/>
-        <updated>2026-10-17T01:51:39.634Z</updated>
-        <summary type="html"><![CDATA[Keeps Pro: ¥68.00 → ¥13.80]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/6811795155?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/21/20/d4212013-24be-4c2c-f116-20f50a820575/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App内购买</h3><ul>
-  <li>
-    <strong>Keeps Pro：</strong><span>¥68.00</span> → <b>
-  <strong>¥13.80</strong>
-</b><span>[¥13.80 ~ ¥68.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>免费</b>
-</p><h3>App内购买</h3><ul>
-  <li>
-    Keeps Pro：<b>¥13.80</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  用好你已有的东西。使用回顾会找出30天、90天未使用，或从未使用过的在用物品。无需离开回顾，即可记录一次使用并撤销。
-在 iPhone Duo 上并排查看收藏和物品详情，折叠手机时保留当前位置。
-
-Keeps 是你所有物品的家，也是一个诚实的答案：每件东西究竟花了你多少。
-
-添加物品时记录照片、价格和购买日期。Keeps 会用价格除以拥有天数，让每周都穿的外套和被遗忘在抽屉里的小玩意不再看起来一样。看着每日成本随着时间下降，并知道它何时会再次减半。
-
-你的所有物品，尽在一处
-• 每件物品的照片、购买信息、保修日期、备注和标签
-• 自定义类别，配上你自己的图标和顺序
-• 可搜索、筛选并按成本排序的收藏
-
-真实成本
-• 每日成本：由价格和拥有天数计算
-• 每次使用成本：告诉 Keeps 你多久用一次，或自己记录使用
-• 卖出或退役的物品会计入你收回的金额
-• 按月份和类别查看支出概览
-
-轻松添加
-• 导入 Amazon 订单、收据 PDF 或表格，连同照片和价格
-• 粘贴任意商品页面，Keeps 自动读取名称、价格和照片
-• 每条购买记录在进入收藏前都会经过你的确认，退货和重复项会单独列出
-
-让它看起来像你的
-• 舞台: 原图保持不变。你可以随时更改它的展示方式或重置编辑。
-• 在 Keeps 内直接搜索更合适的网络图片
-
-智能，且在你的设备上
-• 描述一件物品，即可获得建议的名称、类别和标签（在支持的设备上由 Apple 智能提供）
-• 就你的收藏提问，答案来自你自己的数据
-
-隐私优先
-• 你的收藏只保存在你的设备和你自己的 iCloud 中
-• 没有账户、广告或分析，不会向我们发送任何内容
-• 可将整个收藏备份为文件并恢复
-
-快捷指令与 Siri：无需打开 App 即可记录使用、查询物品成本、搜索或添加物品。keeps:// 链接可打开任意物品。
-
-反馈会打开可编辑的邮件，包含设备型号、系统版本以及 Keeps 版本号和构建号，不附加诊断日志或收藏数据。
-
-Keeps Pro
-Keeps 免费版最多可保存 30 件物品。Keeps Pro 不限数量。 导入购买记录是 Keeps Pro 的功能。你可以先查看文件包含的内容。 无论是否拥有 Pro，你添加的所有内容都会保留。在 Keeps 免费前就已购买？Pro 已包含在内。
-Keeps Pro · 一次性购买
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/53/a7/9753a78c-e271-b130-6047-d288f0ddcd4e/zh-Hans_display_69_01.jpeg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/e4/39/44e43955-35d0-aca7-f12b-98ee70337fea/zh-Hans_display_69_02.jpeg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/2d/5f/d52d5faf-b827-9c6e-8835-9637e867029e/zh-Hans_display_69_03.jpeg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/7d/38/957d382b-ab89-c3bd-ed44-79a19b08baf4/zh-Hans_display_69_04.jpeg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/f1/1f/b3f11f5c-19b3-8955-945a-65b10c217b0d/zh-Hans_display_69_05.jpeg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/44/41/39444134-8872-dd68-6da1-759ad5a201ae/zh-Hans_display_69_06.jpeg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/89/a9/1b89a9fd-2344-49fe-cab2-f52a34eb8784/zh-Hans_display_13_01.jpeg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/55/0b/90550ba8-d130-fb60-f57f-cbda2d6cdf1d/zh-Hans_display_13_02.jpeg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/ee/16/10ee16ba-bc3f-d1dd-3a7e-8ad7d203f87e/zh-Hans_display_13_03.jpeg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/9d/d0/ef9dd017-1317-4486-53b0-f092487e408f/zh-Hans_display_13_04.jpeg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/b7/0b/a2b70bbf-5fb4-ff45-099f-c33a1045cc87/zh-Hans_display_13_05.jpeg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/f5/46/dff54651-c3cc-59af-8dd1-9c98323aeb76/zh-Hans_display_13_06.jpeg/360x480bb.jpg" />]]></content>
     </entry>
 </feed>

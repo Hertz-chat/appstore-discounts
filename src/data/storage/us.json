@@ -173238,6 +173238,17 @@
     "history": [
       [
         {
+          "timestamp": 1792504570235,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Subscription": "$39.99",
+            "Monthly Subscription": "$7.99",
+            "Lifetime": "$119.99",
+            "Exclusive Lifetime Offer": "$79.99"
+          }
+        },
+        {
           "timestamp": 1792483161643,
           "price": 0,
           "formattedPrice": "Free",
@@ -206897,6 +206908,14 @@
     "history": [
       [
         {
+          "timestamp": 1792504570235,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791540411692,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -212047,6 +212066,14 @@
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792504570235,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -223187,6 +223214,14 @@
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792504570235,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -264540,6 +264575,16 @@
       "Pro Unlock": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792504570235,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Pro Unlock": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792240324701,
@@ -357145,6 +357190,58 @@
           "timestamp": 1792462971499,
           "price": 1.99,
           "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6749500972": {
+    "name": "哔咔漫岛-二次元日韩耽美漫画大全",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "元气漫画季会员": "$4.99",
+      "元气漫画月会员": "$2.99",
+      "元气漫画年会员": "$14.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "元气漫画季会员": "$4.99",
+      "元气漫画月会员": "$2.99",
+      "元气漫画年会员": "$14.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792504570235,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "元气漫画季会员": "$4.99",
+            "元气漫画月会员": "$2.99",
+            "元气漫画年会员": "$14.99"
+          }
+        }
+      ]
+    ]
+  },
+  "6811365567": {
+    "name": "運氣修仙",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792504570235,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
           "inAppPurchases": {}
         }
       ]

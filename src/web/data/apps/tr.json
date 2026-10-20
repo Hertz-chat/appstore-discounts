@@ -6870,7 +6870,7 @@
   {
     "trackId": 964708975,
     "region": "tr",
-    "timestamp": 1792483161643,
+    "timestamp": 1792504570235,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -14434,10 +14434,10 @@
   {
     "trackId": 1524418421,
     "region": "tr",
-    "timestamp": 1791540411692,
+    "timestamp": 1792504570235,
     "discounts": [],
-    "price": 199.99,
-    "formattedPrice": "₺199,99",
+    "price": 499.99,
+    "formattedPrice": "₺499,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id1524418421",
     "trackName": "SessionBand Jazz Fusion",
@@ -14676,10 +14676,10 @@
   {
     "trackId": 1534488108,
     "region": "tr",
-    "timestamp": 1791540411692,
+    "timestamp": 1792504570235,
     "discounts": [],
-    "price": 199.99,
-    "formattedPrice": "₺199,99",
+    "price": 299.99,
+    "formattedPrice": "₺299,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id1534488108",
     "trackName": "SessionBand Jazz 4",
@@ -15493,10 +15493,10 @@
   {
     "trackId": 1561849298,
     "region": "tr",
-    "timestamp": 1791540411692,
+    "timestamp": 1792504570235,
     "discounts": [],
-    "price": 199.99,
-    "formattedPrice": "₺199,99",
+    "price": 299.99,
+    "formattedPrice": "₺299,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id1561849298",
     "trackName": "SessionBand Soul Jazz Funk 3",
@@ -17792,10 +17792,10 @@
   {
     "trackId": 1667072735,
     "region": "tr",
-    "timestamp": 1792240324701,
+    "timestamp": 1792504570235,
     "discounts": [],
-    "price": 0,
-    "formattedPrice": "Free",
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id1667072735",
     "trackName": "Watch Web Browser",
@@ -23030,6 +23030,18 @@
     "firstRecordedAt": 1791799508618
   },
   {
+    "trackId": 6749500972,
+    "region": "tr",
+    "timestamp": 1792504570235,
+    "discounts": [],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6749500972",
+    "trackName": "哔咔漫岛-二次元日韩耽美漫画大全",
+    "firstRecordedAt": 1792504570235
+  },
+  {
     "trackId": 6749550770,
     "region": "tr",
     "timestamp": 1774590314787,
@@ -24509,7 +24521,7 @@
   {
     "trackId": 6759664029,
     "region": "tr",
-    "timestamp": 1792397485602,
+    "timestamp": 1792504570235,
     "discounts": [],
     "price": 399.99,
     "formattedPrice": "₺399,99",
@@ -26187,6 +26199,18 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6808669044",
     "trackName": "Oto Ekspertiz Simülatör",
     "firstRecordedAt": 1789421572923
+  },
+  {
+    "trackId": 6811365567,
+    "region": "tr",
+    "timestamp": 1792504570235,
+    "discounts": [],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6811365567",
+    "trackName": "運氣修仙",
+    "firstRecordedAt": 1792504570235
   },
   {
     "trackId": 6811690345,

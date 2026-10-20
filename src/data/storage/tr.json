@@ -86599,6 +86599,23 @@
     "history": [
       [
         {
+          "timestamp": 1792504570235,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "纯净模式1个月": "₺17,99",
+            "下载包8": "₺49,99",
+            "下载包318": "₺2.499,99",
+            "永久金紫会员": "₺1.999,99",
+            "下载次数": "₺4,99",
+            "金紫会员永久": "₺1.999,99",
+            "金紫会员6个月": "₺229,99",
+            "金紫会员12个月": "₺399,99",
+            "金紫会员1个月": "₺59,99",
+            "纯净模式永久": "₺1.499,99"
+          }
+        },
+        {
           "timestamp": 1792483161643,
           "price": 0,
           "formattedPrice": "Free",
@@ -187738,6 +187755,14 @@
     "history": [
       [
         {
+          "timestamp": 1792504570235,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791540411692,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -189522,6 +189547,14 @@
       "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792504570235,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -196319,6 +196352,14 @@
       "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792504570235,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -227347,6 +227388,16 @@
       "Pro Unlock": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792504570235,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Pro Unlock": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792240324701,
@@ -293469,6 +293520,25 @@
     "history": [
       [
         {
+          "timestamp": 1792504570235,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Hero Drakkan": "₺399,99",
+            "Hero Ashbite": "₺399,99",
+            "Tower Sniper": "₺299,99",
+            "Hero Oni": "₺249,99",
+            "Tower Alchemist": "₺149,99",
+            "Tower Wildcat": "₺249,99",
+            "Hero Ignus": "₺149,99",
+            "Spell Aspect of Sol": "₺249,99",
+            "Gems Wagon": "₺2.499,99",
+            "ALL SPELLS BUNDLE": "₺699,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792397485602,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -295197,6 +295267,58 @@
       [
         {
           "timestamp": 1792462971499,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6749500972": {
+    "name": "哔咔漫岛-二次元日韩耽美漫画大全",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99",
+      "元气漫画年会员": "₺799,99",
+      "元气漫画月会员": "₺149,99",
+      "元气漫画季会员": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99",
+      "元气漫画年会员": "₺799,99",
+      "元气漫画月会员": "₺149,99",
+      "元气漫画季会员": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792504570235,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "元气漫画年会员": "₺799,99",
+            "元气漫画月会员": "₺149,99",
+            "元气漫画季会员": "₺249,99"
+          }
+        }
+      ]
+    ]
+  },
+  "6811365567": {
+    "name": "運氣修仙",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792504570235,
           "price": 49.99,
           "formattedPrice": "₺49,99",
           "inAppPurchases": {}

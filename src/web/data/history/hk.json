@@ -153063,6 +153063,14 @@
     "history": [
       [
         {
+          "timestamp": 1792504570235,
+          "price": 68,
+          "formattedPrice": "HK$ 68.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 15,
           "formattedPrice": "HK$ 15.00",
@@ -184432,6 +184440,18 @@
     "history": [
       [
         {
+          "timestamp": 1792504570235,
+          "price": 45,
+          "formattedPrice": "HK$ 45.00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "HK$ 22.00",
+            "500'000 Coins": "HK$ 18.00",
+            "200'000 Coins": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791986862260,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -192307,6 +192327,14 @@
     "history": [
       [
         {
+          "timestamp": 1792504570235,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791540411692,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -195284,6 +195312,14 @@
     "history": [
       [
         {
+          "timestamp": 1792504570235,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791540411692,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -195703,6 +195739,18 @@
       "Eternal Embers DLC": "HK$ 36.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792504570235,
+          "price": 158,
+          "formattedPrice": "HK$ 158.00",
+          "inAppPurchases": {
+            "Ragnarök for free download": "HK$ 0.00",
+            "Atlantis for free download": "HK$ 0.00",
+            "Eternal Embers DLC": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791397748865,
@@ -203110,6 +203158,14 @@
       "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792504570235,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -260624,6 +260680,25 @@
     "history": [
       [
         {
+          "timestamp": 1792504570235,
+          "price": 54,
+          "formattedPrice": "HK$ 54.00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "HK$ 22.00",
+            "200'000 Coins": "HK$ 8.00",
+            "Amazone CITAN 15001-C": "HK$ 8.00",
+            "ClaasLexion8900+ConvioFlex1380": "HK$ 22.00",
+            "KINZE 3665 Blue Drive": "HK$ 8.00",
+            "Claas Xerion 5000": "HK$ 18.00",
+            "Krone BiG Pack 1290 HDP VC": "HK$ 8.00",
+            "Case IH Speed-Tiller": "HK$ 8.00",
+            "Mack Trucks Black Anthem 6x4": "HK$ 18.00",
+            "Versatile 4WD 620": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792266405252,
           "price": 27,
           "formattedPrice": "HK$ 27.00",
@@ -298569,6 +298644,19 @@
     "history": [
       [
         {
+          "timestamp": 1792504570235,
+          "price": 3,
+          "formattedPrice": "HK$ 3.00",
+          "inAppPurchases": {
+            "Lite": "HK$ 38.00",
+            "Pro": "HK$ 148.00",
+            "Pro Max": "HK$ 788.00",
+            "Pro Ultra": "HK$ 1,488.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791986862260,
           "price": 0,
           "formattedPrice": "免費",
@@ -306718,6 +306806,14 @@
     "history": [
       [
         {
+          "timestamp": 1792504570235,
+          "price": 36,
+          "formattedPrice": "HK$ 36.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791316756993,
           "price": 27,
           "formattedPrice": "HK$ 27.00",
@@ -309111,6 +309207,62 @@
       [
         {
           "timestamp": 1792462971499,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6749500972": {
+    "trackId": 6749500972,
+    "trackName": "哔咔漫岛-二次元日韩耽美漫画大全",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "元气漫画季会员": "HK$ 38.00",
+      "元气漫画月会员": "HK$ 22.00",
+      "元气漫画年会员": "HK$ 118.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "元气漫画季会员": "HK$ 38.00",
+      "元气漫画月会员": "HK$ 22.00",
+      "元气漫画年会员": "HK$ 118.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792504570235,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "元气漫画季会员": "HK$ 38.00",
+            "元气漫画月会员": "HK$ 22.00",
+            "元气漫画年会员": "HK$ 118.00"
+          }
+        }
+      ]
+    ]
+  },
+  "6811365567": {
+    "trackId": 6811365567,
+    "trackName": "運氣修仙",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792504570235,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
           "inAppPurchases": {}

@@ -116016,6 +116016,14 @@
     "history": [
       [
         {
+          "timestamp": 1792504570235,
+          "price": 7.49,
+          "formattedPrice": "USD 7.49",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 1.59,
           "formattedPrice": "USD 1.59",
@@ -135117,6 +135125,18 @@
     "history": [
       [
         {
+          "timestamp": 1792504570235,
+          "price": 5.49,
+          "formattedPrice": "USD 5.49",
+          "inAppPurchases": {
+            "200'000 Coins": "USD 0.99",
+            "500'000 Coins": "USD 1.99",
+            "1'000'000 Coins": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791986862260,
           "price": 2.69,
           "formattedPrice": "USD 2.69",
@@ -142419,6 +142439,14 @@
     "history": [
       [
         {
+          "timestamp": 1792504570235,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791540411692,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -144787,6 +144815,14 @@
     "history": [
       [
         {
+          "timestamp": 1792504570235,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791540411692,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -145183,6 +145219,18 @@
       "Eternal Embers DLC": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792504570235,
+          "price": 17.99,
+          "formattedPrice": "USD 17.99",
+          "inAppPurchases": {
+            "Atlantis for free download": "USD 0.00",
+            "Ragnarök for free download": "USD 0.00",
+            "Eternal Embers DLC": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791397748865,
@@ -150159,6 +150207,14 @@
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792504570235,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -185294,6 +185350,25 @@
     "history": [
       [
         {
+          "timestamp": 1792504570235,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "JD 9000 Series + 390 Plus": "USD 1.99",
+            "Vervaet Hydro Trike 5x5": "USD 1.99",
+            "Kubota RTV-XG850 SIDEKICK": "USD 1.99",
+            "Case IH Austoft 8800 Multi-Row": "USD 1.99",
+            "Krone BiG Pack 1290 HDP VC": "USD 0.99",
+            "Kotte PQ 32000": "USD 0.99",
+            "KINZE 3665 Blue Drive": "USD 0.99",
+            "Versatile 4WD 620": "USD 1.99",
+            "Amazone CITAN 15001-C": "USD 0.99",
+            "Claas Xerion 5000": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791986862260,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -197746,6 +197821,14 @@
     "history": [
       [
         {
+          "timestamp": 1792504570235,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790711274462,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -208443,6 +208526,19 @@
     "history": [
       [
         {
+          "timestamp": 1792504570235,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "Pro": "USD 19.99",
+            "Lite": "USD 4.99",
+            "Pro Max": "USD 99.99",
+            "Pro Ultra": "USD 199.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791986862260,
           "price": 0,
           "formattedPrice": "免費",
@@ -216345,6 +216441,14 @@
     "history": [
       [
         {
+          "timestamp": 1792504570235,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791316756993,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -218082,6 +218186,62 @@
       [
         {
           "timestamp": 1792462971499,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6749500972": {
+    "trackId": 6749500972,
+    "trackName": "哔咔漫岛-二次元日韩耽美漫画大全",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "元气漫画年会员": "USD 14.99",
+      "元气漫画月会员": "USD 2.99",
+      "元气漫画季会员": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "元气漫画年会员": "USD 14.99",
+      "元气漫画月会员": "USD 2.99",
+      "元气漫画季会员": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792504570235,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "元气漫画年会员": "USD 14.99",
+            "元气漫画月会员": "USD 2.99",
+            "元气漫画季会员": "USD 4.99"
+          }
+        }
+      ]
+    ]
+  },
+  "6811365567": {
+    "trackId": 6811365567,
+    "trackName": "運氣修仙",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792504570235,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
           "inAppPurchases": {}

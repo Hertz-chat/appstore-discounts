@@ -3999,14 +3999,22 @@
   "317809458": {
     "name": "LiveATC Air Radio",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99"
+      "price": 5.99,
+      "formattedPrice": "USD 5.99"
     },
     "minPriceInfo": {
       "price": 4.99,
       "formattedPrice": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792522109736,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -170174,6 +170182,16 @@
     "history": [
       [
         {
+          "timestamp": 1792522109736,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "解鎖 Pro": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792240324701,
           "price": 0,
           "formattedPrice": "免費",
@@ -211483,6 +211501,21 @@
       "700 Diamonds": "USD 19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792522109736,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "120 Diamonds": "USD 3.99",
+            "Starter Pack 1": "USD 1.99",
+            "4000 Diamonds": "USD 99.99",
+            "50 Diamonds": "USD 1.99",
+            "16 Base Heroes Unlock Pack": "USD 39.99",
+            "700 Diamonds": "USD 19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792327843521,

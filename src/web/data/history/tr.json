@@ -22360,6 +22360,25 @@
     "history": [
       [
         {
+          "timestamp": 1792483161643,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "₺49,99",
+            "Voices": "₺49,99",
+            "Varazdin Orchestral Mobile": "₺199,99",
+            "Sliced Beats": "₺49,99",
+            "Amped Guitar & Bass": "₺149,99",
+            "Acoustic Guitars": "₺49,99",
+            "Synth Lead": "₺99,99",
+            "Synth Plucks": "₺99,99",
+            "Technocraft": "₺99,99",
+            "Drumaxx": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792397485602,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -87722,6 +87741,25 @@
     "history": [
       [
         {
+          "timestamp": 1792483161643,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "纯净模式1个月": "₺17,99",
+            "纯净模式6个月": "₺87,99",
+            "纯净模式12个月": "₺144,99",
+            "纯净模式永久": "₺1.499,99",
+            "金紫会员1个月": "₺59,99",
+            "金紫会员12个月": "₺399,99",
+            "金紫会员6个月": "₺229,99",
+            "金紫会员永久": "₺1.999,99",
+            "下载次数": "₺4,99",
+            "永久金紫会员": "₺1.999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789269826669,
           "price": 0,
           "formattedPrice": "Free",
@@ -118917,6 +118955,36 @@
           "price": 129.99,
           "formattedPrice": "₺129,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1191380081": {
+    "trackId": 1191380081,
+    "trackName": "PractiScore Competitor",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99",
+      "Pro features monthly subscription": "₺99,99",
+      "Pro features annual subscription": "₺799,99"
+    },
+    "minPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99",
+      "Pro features monthly subscription": "₺99,99",
+      "Pro features annual subscription": "₺799,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792483161643,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {
+            "Pro features monthly subscription": "₺99,99",
+            "Pro features annual subscription": "₺799,99"
+          }
         }
       ]
     ]
@@ -166126,6 +166194,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792483161643,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Complete Collection": "₺1.999,99",
+            "1935 Atlantic City Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "The Dragon": "₺199,99",
+            "Victorian London Board": "₺399,99",
+            "Welcome Offer": "₺999,99",
+            "Lava Dice": "₺249,99"
+          }
+        },
         {
           "timestamp": 1792446504330,
           "price": 249.99,
@@ -276993,6 +277078,14 @@
       "formattedPrice": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792483161643,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790726691370,

@@ -2430,7 +2430,7 @@
   {
     "trackId": 479516143,
     "region": "pt",
-    "timestamp": 1792462971499,
+    "timestamp": 1792483161643,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "6,99 €",
@@ -2994,7 +2994,7 @@
   {
     "trackId": 525818839,
     "region": "pt",
-    "timestamp": 1791965170280,
+    "timestamp": 1792483161643,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "0,99 €",
@@ -8709,6 +8709,18 @@
     "firstRecordedAt": 1761797674362
   },
   {
+    "trackId": 1191380081,
+    "region": "pt",
+    "timestamp": 1792483161643,
+    "discounts": [],
+    "price": 9.99,
+    "formattedPrice": "9,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1191380081",
+    "trackName": "PractiScore Competitor",
+    "firstRecordedAt": 1792483161643
+  },
+  {
     "trackId": 1193531073,
     "region": "pt",
     "timestamp": 1782311362500,
@@ -9408,7 +9420,7 @@
   {
     "trackId": 1261834568,
     "region": "pt",
-    "timestamp": 1789421572923,
+    "timestamp": 1792483161643,
     "discounts": [],
     "price": 5.99,
     "formattedPrice": "5,99 €",
@@ -15885,7 +15897,7 @@
   {
     "trackId": 1624326561,
     "region": "pt",
-    "timestamp": 1761797674362,
+    "timestamp": 1792483161643,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "0,99 €",
@@ -19046,10 +19058,10 @@
   {
     "trackId": 6504453094,
     "region": "pt",
-    "timestamp": 1790726691370,
+    "timestamp": 1792483161643,
     "discounts": [],
-    "price": 0.99,
-    "formattedPrice": "0,99 €",
+    "price": 0.29,
+    "formattedPrice": "0,29 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6504453094",
     "trackName": "Black Border 2",

@@ -92971,6 +92971,36 @@
       ]
     ]
   },
+  "1191380081": {
+    "trackId": 1191380081,
+    "trackName": "PractiScore Competitor",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99",
+      "Pro features monthly subscription": "USD 1.99",
+      "Pro features annual subscription": "USD 14.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99",
+      "Pro features monthly subscription": "USD 1.99",
+      "Pro features annual subscription": "USD 14.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792483161643,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "Pro features monthly subscription": "USD 1.99",
+            "Pro features annual subscription": "USD 14.99"
+          }
+        }
+      ]
+    ]
+  },
   "1191690597": {
     "trackId": 1191690597,
     "trackName": "宮神星",

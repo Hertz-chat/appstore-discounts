@@ -16145,6 +16145,23 @@
     "history": [
       [
         {
+          "timestamp": 1792483161643,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "1,99 €",
+            "Realms Plus:10 Friends w/trial": "7,99 €",
+            "Minecraft Store Item 6": "6,99 €",
+            "Realms Monthly Subscription: You + 2 Friends": "3,99 €",
+            "Minecraft Store Item 3": "2,99 €",
+            "Minecraft Store Item 10": "9,99 €",
+            "Minecraft Store Item 4": "3,99 €",
+            "Minecraft Store Item 5": "5,99 €",
+            "Minecraft Store Item 8": "8,99 €",
+            "Minecraft Store Item 1": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1792462971499,
           "price": 6.99,
           "formattedPrice": "6,99 €",
@@ -21664,6 +21681,24 @@
       "Desbloquear Arma Biológica": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792483161643,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Pacote de Vírus Necroa": "1,99 €",
+            "Desbloquear 7 Pragas Padrão": "2,99 €",
+            "Desbloquear de Verme Neurax": "1,99 €",
+            "Desbloquear Todos os Genes": "8,99 €",
+            "Pacote pragas": "11,99 €",
+            "Desbloquear Vírus": "0,99 €",
+            "Pacote Cenário": "2,99 €",
+            "Pacote de expansão Gripe símia": "1,99 €",
+            "Pacote de Praga das Sombras": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791965170280,
@@ -60133,6 +60168,36 @@
       ]
     ]
   },
+  "1191380081": {
+    "trackId": 1191380081,
+    "trackName": "PractiScore Competitor",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €",
+      "Pro features monthly subscription": "1,99 €",
+      "Pro features annual subscription": "17,99 €"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €",
+      "Pro features monthly subscription": "1,99 €",
+      "Pro features annual subscription": "17,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792483161643,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Pro features monthly subscription": "1,99 €",
+            "Pro features annual subscription": "17,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "1193531073": {
     "trackId": 1193531073,
     "trackName": "WebBLE",
@@ -63659,6 +63724,25 @@
       "SF2SEPack9": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792483161643,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Pilha de Gemas": "2,99 €",
+            "SF2SEPack3": "2,99 €",
+            "Baú de Gemas": "9,99 €",
+            "Pilha de Moedas": "0,99 €",
+            "Bolsa de Moedas": "5,99 €",
+            "Bolsa de Gemas": "22,99 €",
+            "Bau de Moedas": "22,99 €",
+            "SF2SEPack2": "1,99 €",
+            "SF2SEPack120": "129,99 €",
+            "SF2SEPack100": "99,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789421572923,
@@ -106158,7 +106242,17 @@
       "自定义武将席位6": "3,99 €",
       "自定义武将席位4": "3,99 €",
       "自定义武将席位5": "3,99 €",
-      "自定义武将席位3": "3,99 €"
+      "自定义武将席位3": "3,99 €",
+      "若干笼包子": "22,99 €",
+      "一笼包子": "3,99 €",
+      "一个庆丰包子": "59,99 €",
+      "一碟包子": "0,99 €",
+      "一大笼包子": "9,99 €",
+      "一碟庆丰包子": "99,99 €",
+      "豪华月卡": "9,99 €",
+      "节日大礼包": "34,99 €",
+      "节日礼包": "3,99 €",
+      "战役基金": "14,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -106172,9 +106266,38 @@
       "自定义武将席位6": "3,99 €",
       "自定义武将席位4": "3,99 €",
       "自定义武将席位5": "3,99 €",
-      "自定义武将席位3": "3,99 €"
+      "自定义武将席位3": "3,99 €",
+      "若干笼包子": "22,99 €",
+      "一笼包子": "3,99 €",
+      "一个庆丰包子": "59,99 €",
+      "一碟包子": "0,99 €",
+      "一大笼包子": "9,99 €",
+      "一碟庆丰包子": "99,99 €",
+      "豪华月卡": "9,99 €",
+      "节日大礼包": "34,99 €",
+      "节日礼包": "3,99 €",
+      "战役基金": "14,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792483161643,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "若干笼包子": "22,99 €",
+            "一笼包子": "3,99 €",
+            "一个庆丰包子": "59,99 €",
+            "一碟包子": "0,99 €",
+            "一大笼包子": "9,99 €",
+            "一碟庆丰包子": "99,99 €",
+            "豪华月卡": "9,99 €",
+            "节日大礼包": "34,99 €",
+            "节日礼包": "3,99 €",
+            "战役基金": "14,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -113121,6 +113244,14 @@
       "formattedPrice": "0,29 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792483161643,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790726691370,

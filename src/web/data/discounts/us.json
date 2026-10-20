@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1444636541,
+    "region": "us",
+    "timestamp": 1792483161643,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Yearly Subscription",
+        "from": "$39.99",
+        "to": "$29.99",
+        "range": "[$7.99 ~ $39.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1444636541",
+    "trackName": "Photomator – Photo Editor",
+    "firstRecordedAt": 1723994479838
+  },
+  {
+    "trackId": 6504453094,
+    "region": "us",
+    "timestamp": 1792483161643,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "$0.29",
+        "range": "[$0.29 ~ $1.99]"
+      }
+    ],
+    "price": 0.29,
+    "formattedPrice": "$0.29",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6504453094",
+    "trackName": "Black Border 2",
+    "firstRecordedAt": 1755551439427
+  },
+  {
     "trackId": 966489322,
     "region": "us",
     "timestamp": 1792462971499,

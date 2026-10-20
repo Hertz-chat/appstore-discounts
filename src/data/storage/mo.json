@@ -91411,6 +91411,34 @@
       ]
     ]
   },
+  "1191380081": {
+    "name": "PractiScore Competitor",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99",
+      "Pro features monthly subscription": "USD 1.99",
+      "Pro features annual subscription": "USD 14.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99",
+      "Pro features monthly subscription": "USD 1.99",
+      "Pro features annual subscription": "USD 14.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792483161643,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "Pro features monthly subscription": "USD 1.99",
+            "Pro features annual subscription": "USD 14.99"
+          }
+        }
+      ]
+    ]
+  },
   "1191690597": {
     "name": "宮神星",
     "maxPriceInfo": {

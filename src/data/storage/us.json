@@ -20074,7 +20074,7 @@
     ]
   },
   "391269557": {
-    "name": "Apnea Trainer: Freedive",
+    "name": "Apnea Trainer: Freediving",
     "maxPriceInfo": {
       "price": 29.99,
       "formattedPrice": "$29.99",
@@ -69320,7 +69320,7 @@
     ]
   },
   "725234217": {
-    "name": "Rock Drum Machine",
+    "name": "Rock Drum Machine: Real Drums",
     "maxPriceInfo": {
       "price": 17.99,
       "formattedPrice": "$17.99",
@@ -69330,8 +69330,8 @@
       "Rock DM Full Access": "$22.99"
     },
     "minPriceInfo": {
-      "price": 17.99,
-      "formattedPrice": "$17.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "John": "$4.99",
       "Mike": "$4.99",
       "Studio Mix": "$8.99",
@@ -69339,6 +69339,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792591960143,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "John": "$4.99",
+            "Mike": "$4.99",
+            "Studio Mix": "$8.99",
+            "Rock DM Full Access": "$22.99"
+          }
+        },
         {
           "timestamp": 1792569835923,
           "price": 17.99,
@@ -136162,6 +136173,25 @@
     "history": [
       [
         {
+          "timestamp": 1792591960143,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "648元礼包四": "$99.99",
+            "328元礼包四": "$49.99",
+            "168元礼包四": "$24.99",
+            "30元礼包四": "$3.99",
+            "60元礼包四": "$8.99",
+            "18元礼包四": "$2.99",
+            "6元礼包四": "$0.99",
+            "328元礼包三": "$49.99",
+            "168元礼包三": "$24.99",
+            "648元礼包三": "$99.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -140538,6 +140568,23 @@
     "history": [
       [
         {
+          "timestamp": 1792591960143,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Pile of Gems": "$2.99",
+            "Casket of Gems": "$9.99",
+            "Pile of Coins": "$0.99",
+            "Bag of Coins": "$4.99",
+            "Bag of Gems": "$19.99",
+            "SF2SEPack3": "$2.99",
+            "SF2SEPack10": "$9.99",
+            "Chest of Coins": "$19.99",
+            "Chest of Gems": "$49.99",
+            "SF2SEPack20": "$19.99"
+          }
+        },
+        {
           "timestamp": 1792569835923,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -142751,6 +142798,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792591960143,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Miku": "$9.99",
+            "CAPSO": "$9.99",
+            "ConneR": "$9.99",
+            "Xenon": "$9.99",
+            "9 Characters": "$34.99",
+            "Cherry": "$9.99",
+            "Kizuna AI": "$9.99",
+            "Nora": "$9.99",
+            "Neko": "$9.99",
+            "Marvelous Mix vol. 1": "$4.99"
+          }
+        },
         {
           "timestamp": 1792569835923,
           "price": 1.99,
@@ -201568,6 +201632,25 @@
       "Ascensio Kit": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792591960143,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Tamer Kit": "$0.99",
+            "Master Package": "$19.99",
+            "Prime Gemma 2500": "$19.99",
+            "Starter Package": "$4.99",
+            "Prime Gemma 1200": "$9.99",
+            "Prime Gemma 500": "$4.99",
+            "Evoker Kit": "$0.99",
+            "Hunter Package": "$9.99",
+            "Prime gemma 100": "$0.99",
+            "Evoker Package": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792050467334,
@@ -298486,6 +298569,17 @@
     "history": [
       [
         {
+          "timestamp": 1792591960143,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Goblin Tools Pro - Monthly": "$3.99",
+            "Goblin Tools Pro - Yearly": "$39.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789356898180,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -301887,6 +301981,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792591960143,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Global scenery - 3 months": "$7.99",
+            "Airbus A380": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Concorde": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Boeing 747-400": "$1.99"
+          }
+        },
         {
           "timestamp": 1792569835923,
           "price": 3.99,
@@ -322416,6 +322527,25 @@
       "0.99美元商品": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792591960143,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "14.99美元商品": "$14.99",
+            "3.99美元商品2": "$3.99",
+            "19.99美元商品": "$19.99",
+            "39.99美元商品": "$39.99",
+            "49.99美元商品": "$49.99",
+            "12.99美元商品": "$12.99",
+            "12.99美元商品2": "$12.99",
+            "0.99美元商品": "$0.99",
+            "3.99美元商品": "$3.99",
+            "99.99美元商品": "$99.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792425460361,

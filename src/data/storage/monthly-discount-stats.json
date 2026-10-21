@@ -23,6 +23,11 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "725234217": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "857607006": {
       "all": 1,
       "price": 1,
@@ -144,14 +149,15 @@
       "inAppPurchase": {}
     },
     "1595313870": {
-      "all": 2,
+      "all": 3,
       "price": 0,
       "inAppPurchase": {
         "年度会员": 1,
         "月度会员": 1,
         "终身会员": 1,
         "终身会员 - 教育版": 1,
-        "年度会员升级终身会员": 1
+        "年度会员升级终身会员": 1,
+        "季度会员": 1
       }
     },
     "1626320298": {
@@ -246,6 +252,11 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6449003064": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     }
   },
   "hk": {
@@ -275,6 +286,11 @@
       "inAppPurchase": {}
     },
     "633600716": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "725234217": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -327,6 +343,11 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "994157520": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "1065599938": {
       "all": 1,
       "price": 1,
@@ -370,6 +391,11 @@
       "inAppPurchase": {}
     },
     "1410053842": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "1411823462": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -475,12 +501,14 @@
       "inAppPurchase": {}
     },
     "1595313870": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
         "Lifetime Membership": 1,
         "Lifetime - Education": 1,
-        "年度会员升级终身会员": 1
+        "年度会员升级终身会员": 1,
+        "Monthly Membership": 1,
+        "Quarterly Membership": 1
       }
     },
     "1621065119": {
@@ -606,8 +634,8 @@
       "inAppPurchase": {}
     },
     "6812927976": {
-      "all": 1,
-      "price": 1,
+      "all": 2,
+      "price": 2,
       "inAppPurchase": {}
     },
     "6760446039": {
@@ -725,6 +753,31 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6476342802": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6502953520": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6449003064": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6459738231": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6449748961": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     }
   },
   "mo": {
@@ -765,6 +818,11 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "725234217": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "857607006": {
       "all": 1,
       "price": 1,
@@ -795,6 +853,11 @@
       "inAppPurchase": {}
     },
     "983143183": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "994157520": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -842,6 +905,11 @@
       "inAppPurchase": {}
     },
     "1410053842": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "1411823462": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -947,12 +1015,15 @@
       "inAppPurchase": {}
     },
     "1595313870": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
         "Lifetime - Education": 1,
         "年度会员升级终身会员": 1,
-        "Lifetime Membership": 1
+        "Lifetime Membership": 1,
+        "Quarterly Membership": 1,
+        "Yearly Membership": 1,
+        "Monthly Membership": 1
       }
     },
     "1621065119": {
@@ -1190,6 +1261,36 @@
         "New Clan": 1,
         "New Hero": 1
       }
+    },
+    "6812927976": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6476342802": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6502953520": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6449003064": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6459738231": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6449748961": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     }
   },
   "tw": {
@@ -1231,6 +1332,11 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "725234217": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "857607006": {
       "all": 1,
       "price": 1,
@@ -1261,6 +1367,11 @@
       "inAppPurchase": {}
     },
     "983143183": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "994157520": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -1308,6 +1419,11 @@
       "inAppPurchase": {}
     },
     "1410053842": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "1411823462": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -1415,12 +1531,15 @@
       "inAppPurchase": {}
     },
     "1595313870": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
         "Lifetime Membership": 1,
         "Lifetime - Education": 1,
-        "年度会员升级终身会员": 1
+        "年度会员升级终身会员": 1,
+        "Yearly Membership": 1,
+        "Quarterly Membership": 1,
+        "Monthly Membership": 1
       }
     },
     "1621065119": {
@@ -1663,6 +1782,36 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6812927976": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6476342802": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6502953520": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6449003064": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6459738231": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6449748961": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     }
   },
   "us": {
@@ -1697,6 +1846,11 @@
       "inAppPurchase": {}
     },
     "640364616": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "725234217": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -1884,6 +2038,11 @@
       "inAppPurchase": {}
     },
     "1492049794": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "1499001662": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -2203,6 +2362,11 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6449003064": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     }
   },
   "tr": {
@@ -2247,6 +2411,11 @@
       "inAppPurchase": {}
     },
     "640364616": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "725234217": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -2363,6 +2532,11 @@
       "inAppPurchase": {}
     },
     "1492049794": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "1499001662": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -2679,6 +2853,11 @@
         "Raider Mk. 3": 1,
         "Raider Mk. 1": 1
       }
+    },
+    "6449003064": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     }
   },
   "pt": {
@@ -2730,6 +2909,11 @@
       "inAppPurchase": {}
     },
     "640364616": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "725234217": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -2851,6 +3035,11 @@
       "inAppPurchase": {}
     },
     "1492049794": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "1499001662": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -3151,6 +3340,11 @@
       }
     },
     "6504453094": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6449003064": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}

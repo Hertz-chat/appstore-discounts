@@ -944,7 +944,7 @@ So far, we've covered `7` `Countries or Regions` and  `2355` `Apps` <br />Push n
 |1421|663068211|Automatic|❌|SimpleRockets|SimpleRockets|SimpleRockets|SimpleRockets|SimpleRockets|SimpleRockets|
 |1420|1588558691|Automatic|❌|Math Master | 數學遊戲 火柴拼圖 | 交叉数学|Math Master | 數學遊戲 火柴拼圖 | 交叉数学|Math Master | 數學遊戲 火柴拼圖 | 交叉数学|Math Master Cross Math IQ TEST|Math Master Mental Maths QUIZ|Math Master Mathcross QI QUIZ|
 |1419|6738239220|Automatic|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|
-|1418|391269557|Automatic|Apnea Trainer: Freitauchen|Apnea Trainer: Freitauchen|Apnea Trainer: Freitauchen|Apnea Trainer: Freitauchen|Apnea Trainer: Freedive|Apnea Trainer: Freedive|Apnea Trainer: Freitauchen|
+|1418|391269557|Automatic|Apnea Trainer: Freitauchen|Apnea Trainer: Freitauchen|Apnea Trainer: Freitauchen|Apnea Trainer: Freitauchen|Apnea Trainer: Freediving|Apnea Trainer: Freediving|Apnea Trainer: Freitauchen|
 |1417|6749466141|Automatic|❌|❌|❌|❌|Red Dot - ICE Activity Alerts|❌|❌|
 |1416|495937600|Automatic|❌|The Tiny Bang Story|The Tiny Bang Story|The Tiny Bang Story|The Tiny Bang Story|The Tiny Bang Story|The Tiny Bang Story|
 |1415|6753017460|Automatic|TL Assistant|TL Assistant|TL Assistant|TL Assistant|TL Assistant|TL Assistant|TL Assistant|
@@ -1137,7 +1137,7 @@ So far, we've covered `7` `Countries or Regions` and  `2355` `Apps` <br />Push n
 |1228|6746825550|Automatic|SnapCameraPro - 全新好用的相机|❌|❌|❌|❌|❌|❌|
 |1227|612392704|Automatic|VerbForms Português|VerbForms Português|VerbForms Português|VerbForms Português|VerbForms Português|VerbForms Português|VerbForms Português|
 |1226|1659946589|Automatic|❌|Super Dark Deception|Super Dark Deception|Super Dark Deception|Super Dark Deception|Super Dark Deception|Super Dark Deception|
-|1225|725234217|Automatic|Rock Drum Machine|Rock Drum Machine|Rock Drum Machine|Rock Drum Machine|Rock Drum Machine|Rock Drum Machine|Rock Drum Machine|
+|1225|725234217|Automatic|Rock Drum Machine: Real Drums|Rock Drum Machine: Real Drums|Rock Drum Machine: Real Drums|Rock Drum Machine: Real Drums|Rock Drum Machine: Real Drums|Rock Drum Machine: Real Drums|Rock Drum Machine: Real Drums|
 |1224|6572283606|Automatic|❌|中医古籍名著大全（离线版）|中医古籍名著大全（离线版）|中医古籍名著大全（离线版）|中医古籍名著大全（离线版）|中医古籍名著大全（离线版）|❌|
 |1223|6742472194|Automatic|❌|鬼谷八荒 Tale of Immortal|鬼谷八荒 Tale of Immortal|鬼谷八荒 Tale of Immortal|Tale of Immortal|Tale of Immortal|鬼谷八荒 Tale of Immortal|
 |1222|834248867|Automatic|SKRWT|SKRWT|SKRWT|SKRWT|SKRWT|SKRWT|SKRWT|

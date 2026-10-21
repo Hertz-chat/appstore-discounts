@@ -18031,6 +18031,25 @@
     "history": [
       [
         {
+          "timestamp": 1792591960143,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Calendars - PL Football Men Senegal 2015-2016 edition": "0,99 €",
+            "Calendars - Primera Divisio Football Men Andorra 2015-2016 edition": "0,99 €",
+            "Calendars - Segona Divisio Football Men Andorra 2015-2016 edition": "0,99 €",
+            "Calendars - Premier Division Football Men Gibraltar 2015-2016 edition": "0,99 €",
+            "Calendário - Superliga Voleibol Women Brasil 2015-2016 edição": "0,99 €",
+            "Calendário - LPB Basquetebol Men Portugal 2015-2016 edição": "0,99 €",
+            "Calendars - CBA Basketball Men China 2015-2016 edition": "0,99 €",
+            "Calendars - LFB Basketball Women France 2015-2016 edition": "0,99 €",
+            "Calendars - Eredivisie Handball Men Netherlands 2015-2016 edition": "0,99 €",
+            "Calendars - Eredivisie Handball Women Netherlands 2015-2016 edition": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790629496108,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -33411,7 +33430,7 @@
     ]
   },
   "725234217": {
-    "name": "Rock Drum Machine",
+    "name": "Rock Drum Machine: Real Drums",
     "maxPriceInfo": {
       "price": 19.99,
       "formattedPrice": "19,99 €",
@@ -33421,8 +33440,8 @@
       "Rock DM Full Access": "24,99 €"
     },
     "minPriceInfo": {
-      "price": 19.99,
-      "formattedPrice": "19,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "John": "5,99 €",
       "Mike": "5,99 €",
       "Studio Mix": "9,99 €",
@@ -33430,6 +33449,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792591960143,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Studio Mix": "9,99 €",
+            "Rock DM Full Access": "24,99 €",
+            "John": "5,99 €",
+            "Mike": "5,99 €"
+          }
+        },
         {
           "timestamp": 1792569835923,
           "price": 19.99,
@@ -84600,6 +84630,25 @@
     "history": [
       [
         {
+          "timestamp": 1792591960143,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Prime Dimension DLC": "3,99 €",
+            "Zenith Islands DLC": "2,99 €",
+            "Elite Offer": "4,99 €",
+            "Evoker Package": "4,99 €",
+            "Crystal Offer": "10,99 €",
+            "Intro Offer (low)": "2,99 €",
+            "Master Package": "10,99 €",
+            "Starter Package": "2,99 €",
+            "Tamer Kit": "0,99 €",
+            "Prime Gemma 500": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792308581189,
           "price": 4.99,
           "formattedPrice": "4,99 €",
@@ -114397,6 +114446,23 @@
     "history": [
       [
         {
+          "timestamp": 1792591960143,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "12.99美元商品2": "14,99 €",
+            "19.99美元商品": "22,99 €",
+            "39.99美元商品": "44,99 €",
+            "12.99美元商品": "14,99 €",
+            "49.99美元商品": "59,99 €",
+            "3.99美元商品2": "3,99 €",
+            "14.99美元商品": "17,99 €",
+            "99.99美元商品": "99,99 €",
+            "29.99美元商品": "34,99 €",
+            "8.99美元商品": "9,99 €"
+          }
+        },
+        {
           "timestamp": 1792569835923,
           "price": 0.29,
           "formattedPrice": "0,29 €",
@@ -127222,6 +127288,17 @@
       "Goblin Tools Pro - Monthly": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792591960143,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Goblin Tools Pro - Monthly": "3,99 €",
+            "Goblin Tools Pro - Yearly": "39,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789340065932,

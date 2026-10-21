@@ -14723,7 +14723,7 @@
   },
   "391269557": {
     "trackId": 391269557,
-    "trackName": "Apnea Trainer: Freedive",
+    "trackName": "Apnea Trainer: Freediving",
     "region": "tr",
     "maxPriceInfo": {
       "price": 1499.99,
@@ -68292,7 +68292,7 @@
   },
   "725234217": {
     "trackId": 725234217,
-    "trackName": "Rock Drum Machine",
+    "trackName": "Rock Drum Machine: Real Drums",
     "region": "tr",
     "maxPriceInfo": {
       "price": 999.99,
@@ -68303,8 +68303,8 @@
       "Rock DM Full Access": "₺1.199,99"
     },
     "minPriceInfo": {
-      "price": 799.99,
-      "formattedPrice": "₺799,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "John": "₺229,99",
       "Mike": "₺229,99",
       "Studio Mix": "₺499,99",
@@ -68312,6 +68312,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792591960143,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Studio Mix": "₺499,99",
+            "Rock DM Full Access": "₺1.199,99",
+            "John": "₺249,99",
+            "Mike": "₺249,99"
+          }
+        },
         {
           "timestamp": 1792569835923,
           "price": 999.99,
@@ -185333,6 +185344,25 @@
     "history": [
       [
         {
+          "timestamp": 1792591960143,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Prime gemma 100": "₺15,99",
+            "Tamer Kit": "₺15,99",
+            "Master Package": "₺319,99",
+            "Starter Package": "₺80,99",
+            "Prime Gemma 500": "₺80,99",
+            "Spray kit": "₺80,99",
+            "Ascensio Kit": "₺80,99",
+            "Zenith Islands DLC Sale": "₺47,99",
+            "Prime Dimension DLC Sale": "₺47,99",
+            "Crystal Offer Sale": "₺159,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791070314470,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -243719,6 +243749,17 @@
       "Goblin Tools Pro - Monthly": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792591960143,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Goblin Tools Pro - Monthly": "₺199,99",
+            "Goblin Tools Pro - Yearly": "₺1.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789340065932,

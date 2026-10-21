@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 725234217,
+    "region": "us",
+    "timestamp": 1792591960143,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$17.99",
+        "to": "Free",
+        "range": "[Free ~ $17.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id725234217",
+    "trackName": "Rock Drum Machine: Real Drums",
+    "firstRecordedAt": 1752740307644
+  },
+  {
+    "trackId": 1499001662,
+    "region": "us",
+    "timestamp": 1792591960143,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$0.99",
+        "range": "[Free ~ $4.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1499001662",
+    "trackName": "EvoCreo2: Monster Trainer RPG",
+    "firstRecordedAt": 1759940107332
+  },
+  {
+    "trackId": 6449003064,
+    "region": "us",
+    "timestamp": 1792591960143,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1.99",
+        "to": "$0.99",
+        "range": "[Free ~ $2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6449003064",
+    "trackName": "Goblin Tools",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 1595313870,
     "region": "us",
     "timestamp": 1792569835923,
@@ -11325,7 +11385,7 @@
     "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id391269557",
-    "trackName": "Apnea Trainer: Freedive",
+    "trackName": "Apnea Trainer: Freediving",
     "firstRecordedAt": 1759366521700
   },
   {
@@ -12842,7 +12902,7 @@
     "formattedPrice": "$6.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id391269557",
-    "trackName": "Apnea Trainer: Freedive",
+    "trackName": "Apnea Trainer: Freediving",
     "firstRecordedAt": 1759366521700
   },
   {

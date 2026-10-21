@@ -45244,6 +45244,23 @@
     "history": [
       [
         {
+          "timestamp": 1792591960143,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Sandbox Unlock Standard Parts": "$290.00",
+            "Sandbox Unlock All Parts": "$290.00",
+            "Nooleus X Parts Pack": "$120.00",
+            "Transponder Module": "$30.00",
+            "1000 Quick Launches": "$120.00",
+            "Mission Free Unlock-All": "$150.00",
+            "10 Quick Launches": "$30.00",
+            "Mission 06 Demo": "$30.00",
+            "Mission 05 Demo": "$30.00",
+            "50 Quick Launches": "$60.00"
+          }
+        },
+        {
           "timestamp": 1792569835923,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -64633,7 +64650,7 @@
     ]
   },
   "725234217": {
-    "name": "Rock Drum Machine",
+    "name": "Rock Drum Machine: Real Drums",
     "maxPriceInfo": {
       "price": 590,
       "formattedPrice": "$590.00",
@@ -64643,8 +64660,8 @@
       "Rock DM Full Access": "$790.00"
     },
     "minPriceInfo": {
-      "price": 590,
-      "formattedPrice": "$590.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "John": "$150.00",
       "Mike": "$150.00",
       "Studio Mix": "$290.00",
@@ -64652,6 +64669,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792591960143,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "John": "$150.00",
+            "Mike": "$150.00",
+            "Studio Mix": "$290.00",
+            "Rock DM Full Access": "$790.00"
+          }
+        },
         {
           "timestamp": 1792569835923,
           "price": 590,
@@ -87505,6 +87533,20 @@
       "325,000資金": "$1,470.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792591960143,
+          "price": 33,
+          "formattedPrice": "$33.00",
+          "inAppPurchases": {
+            "25,000資金": "$170.00",
+            "60,000資金": "$330.00",
+            "125,000資金": "$630.00",
+            "700,000資金": "$2,990.00",
+            "325,000資金": "$1,470.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790094096914,
@@ -149956,6 +149998,14 @@
     "history": [
       [
         {
+          "timestamp": 1792591960143,
+          "price": 20,
+          "formattedPrice": "$20.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790020348261,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -200083,6 +200133,23 @@
     "history": [
       [
         {
+          "timestamp": 1792591960143,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Holiday Christmas Pack": "$60.00",
+            "Winter Holidays Bundle": "$220.00",
+            "Festive Bundle": "$320.00",
+            "Generations: 90s Bundle": "$220.00",
+            "Pop Culture Bundle": "$220.00",
+            "Welcome Offer": "$320.00",
+            "Pop Culture Mix Pack 1": "$60.00",
+            "Generations 90s Mix Pack 1": "$60.00",
+            "Pop Culture Mix Pack 2": "$60.00",
+            "Mystery Mix Pack 18": "$60.00"
+          }
+        },
+        {
           "timestamp": 1792569835923,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -209534,6 +209601,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792591960143,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Lifetime Membership": "$320.00",
+            "Yearly Membership": "$220.00",
+            "Quarterly Membership": "$120.00",
+            "Lifetime - Education": "$290.00",
+            "Monthly Membership": "$60.00",
+            "年度会员升级终身会员": "$220.00",
+            "年度会员": "$120.00",
+            "月度会员": "$30.00"
+          }
+        },
         {
           "timestamp": 1792569835923,
           "price": 0,
@@ -236923,6 +237005,16 @@
     "history": [
       [
         {
+          "timestamp": 1792591960143,
+          "price": 990,
+          "formattedPrice": "$990.00",
+          "inAppPurchases": {
+            "Lies of P: Overture": "$590.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784476657988,
           "price": 1290,
           "formattedPrice": "$1,290.00",
@@ -237004,6 +237096,14 @@
       "formattedPrice": "$590.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792591960143,
+          "price": 690,
+          "formattedPrice": "$690.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784476657988,
@@ -261432,6 +261532,17 @@
       "Goblin Tools Pro - Monthly": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792591960143,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Goblin Tools Pro - Yearly": "$1,290.00",
+            "Goblin Tools Pro - Monthly": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789314064478,
@@ -309035,10 +309146,18 @@
       "formattedPrice": "$190.00"
     },
     "minPriceInfo": {
-      "price": 150,
-      "formattedPrice": "$150.00"
+      "price": 90,
+      "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792591960143,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1778176443977,
@@ -311334,6 +311453,19 @@
       "皮膚券 x1": "$10.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792591960143,
+          "price": 20,
+          "formattedPrice": "$20.00",
+          "inAppPurchases": {
+            "經驗祝福": "$60.00",
+            "皮膚券 x3": "$30.00",
+            "皮膚券 x8": "$90.00",
+            "皮膚券 x1": "$10.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790020348261,
@@ -317626,6 +317758,14 @@
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792591960143,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792425460361,

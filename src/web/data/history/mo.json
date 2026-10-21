@@ -13488,6 +13488,25 @@
     "history": [
       [
         {
+          "timestamp": 1792591960143,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Premium Upgrade Pack": "USD 6.99",
+            "Extreme Map Pack": "USD 1.99",
+            "Crystal Ball": "USD 0.99",
+            "Dreadnought": "USD 0.99",
+            "Digital Amplification": "USD 0.99",
+            "Frag Bombs": "USD 0.99",
+            "Monkey Tycoon": "USD 0.99",
+            "Double Ranga": "USD 1.99",
+            "Explosive Darts": "USD 1.99",
+            "Healthy Bananas": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791059903104,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -52036,7 +52055,7 @@
   },
   "725234217": {
     "trackId": 725234217,
-    "trackName": "Rock Drum Machine",
+    "trackName": "Rock Drum Machine: Real Drums",
     "region": "mo",
     "maxPriceInfo": {
       "price": 17.99,
@@ -52047,8 +52066,8 @@
       "Rock DM Full Access": "USD 22.99"
     },
     "minPriceInfo": {
-      "price": 17.99,
-      "formattedPrice": "USD 17.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "John": "USD 4.99",
       "Mike": "USD 4.99",
       "Studio Mix": "USD 8.99",
@@ -52056,6 +52075,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792591960143,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Studio Mix": "USD 8.99",
+            "Rock DM Full Access": "USD 22.99",
+            "John": "USD 4.99",
+            "Mike": "USD 4.99"
+          }
+        },
         {
           "timestamp": 1792569835923,
           "price": 17.99,
@@ -70733,6 +70763,20 @@
       "125,000資金": "USD 17.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792591960143,
+          "price": 0.79,
+          "formattedPrice": "USD 0.79",
+          "inAppPurchases": {
+            "700,000資金": "USD 89.99",
+            "60,000資金": "USD 8.99",
+            "325,000資金": "USD 44.99",
+            "25,000資金": "USD 3.99",
+            "125,000資金": "USD 17.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790094096914,
@@ -96828,6 +96872,23 @@
     "history": [
       [
         {
+          "timestamp": 1792591960143,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "江湖名士": "USD 3.99",
+            "鳌拜的私房钱": "USD 8.99",
+            "30元礼包": "USD 3.99",
+            "60元礼包": "USD 8.99",
+            "6元礼包": "USD 0.99",
+            "30元礼包四": "USD 3.99",
+            "秦王的宝藏": "USD 24.99",
+            "168元礼包": "USD 24.99",
+            "一盒元宝": "USD 2.99",
+            "一袋元宝": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1792569835923,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -115114,6 +115175,14 @@
       "formattedPrice": "USD 0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792591960143,
+          "price": 0.49,
+          "formattedPrice": "USD 0.49",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790020348261,
@@ -158054,6 +158123,21 @@
     "history": [
       [
         {
+          "timestamp": 1792591960143,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Quarterly Membership": "USD 3.99",
+            "Lifetime - Education": "USD 7.99",
+            "年度会员升级终身会员": "USD 6.99",
+            "Yearly Membership": "USD 6.99",
+            "Monthly Membership": "USD 1.99",
+            "年度会员": "USD 3.99",
+            "月度会员": "USD 0.99",
+            "Lifetime Membership": "USD 9.99"
+          }
+        },
+        {
           "timestamp": 1792569835923,
           "price": 0,
           "formattedPrice": "免費",
@@ -177790,6 +177874,16 @@
     "history": [
       [
         {
+          "timestamp": 1792591960143,
+          "price": 29.99,
+          "formattedPrice": "USD 29.99",
+          "inAppPurchases": {
+            "Lies of P: Overture": "USD 29.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784476657988,
           "price": 59.99,
           "formattedPrice": "USD 59.99",
@@ -177891,6 +177985,14 @@
       "formattedPrice": "USD 17.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792591960143,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784476657988,
@@ -185165,6 +185267,17 @@
       "Goblin Tools Pro - Monthly": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792591960143,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Goblin Tools Pro - Yearly": "USD 39.99",
+            "Goblin Tools Pro - Monthly": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789314064478,
@@ -209802,10 +209915,18 @@
       "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99"
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792591960143,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1776898472224,
@@ -211578,6 +211699,19 @@
       "皮膚券 x8": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792591960143,
+          "price": 0.49,
+          "formattedPrice": "USD 0.49",
+          "inAppPurchases": {
+            "皮膚券 x3": "USD 0.99",
+            "經驗祝福": "USD 1.99",
+            "皮膚券 x1": "USD 0.29",
+            "皮膚券 x8": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790020348261,
@@ -217215,6 +217349,14 @@
     "history": [
       [
         {
+          "timestamp": 1792591960143,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792191938096,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -217995,6 +218137,14 @@
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792591960143,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792425460361,

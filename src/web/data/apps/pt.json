@@ -2466,7 +2466,7 @@
   {
     "trackId": 480102733,
     "region": "pt",
-    "timestamp": 1790629496108,
+    "timestamp": 1792591960143,
     "discounts": [],
     "price": 9.99,
     "formattedPrice": "9,99 €",
@@ -4603,13 +4603,13 @@
   {
     "trackId": 725234217,
     "region": "pt",
-    "timestamp": 1792569835923,
+    "timestamp": 1792591960143,
     "discounts": [],
-    "price": 19.99,
-    "formattedPrice": "19,99 €",
+    "price": 0,
+    "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id725234217",
-    "trackName": "Rock Drum Machine",
+    "trackName": "Rock Drum Machine: Real Drums",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -12713,10 +12713,10 @@
   {
     "trackId": 1499001662,
     "region": "pt",
-    "timestamp": 1792308581189,
+    "timestamp": 1792591960143,
     "discounts": [],
-    "price": 4.99,
-    "formattedPrice": "4,99 €",
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1499001662",
     "trackName": "EvoCreo 2: Jogo de Monstro RPG",
@@ -17243,10 +17243,10 @@
   {
     "trackId": 6449003064,
     "region": "pt",
-    "timestamp": 1789340065932,
+    "timestamp": 1792591960143,
     "discounts": [],
-    "price": 1.99,
-    "formattedPrice": "1,99 €",
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6449003064",
     "trackName": "Goblin Tools",
@@ -19587,7 +19587,7 @@
   {
     "trackId": 6737434503,
     "region": "pt",
-    "timestamp": 1792569835923,
+    "timestamp": 1792591960143,
     "discounts": [],
     "price": 0.29,
     "formattedPrice": "0,29 €",

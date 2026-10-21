@@ -3331,13 +3331,13 @@
   {
     "trackId": 725234217,
     "region": "cn",
-    "timestamp": 1792569835923,
+    "timestamp": 1792591960143,
     "discounts": [],
-    "price": 128,
-    "formattedPrice": "¥128.00",
+    "price": 0,
+    "formattedPrice": "免费",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id725234217",
-    "trackName": "Rock Drum Machine",
+    "trackName": "Rock Drum Machine: Real Drums",
     "firstRecordedAt": 1752740307644
   },
   {
@@ -9972,7 +9972,7 @@
   {
     "trackId": 1595313870,
     "region": "cn",
-    "timestamp": 1792569835923,
+    "timestamp": 1792591960143,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免费",
@@ -11406,10 +11406,10 @@
   {
     "trackId": 6449003064,
     "region": "cn",
-    "timestamp": 1789314064478,
+    "timestamp": 1792591960143,
     "discounts": [],
-    "price": 15,
-    "formattedPrice": "¥15.00",
+    "price": 8,
+    "formattedPrice": "¥8.00",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id6449003064",
     "trackName": "Goblin Tools",
@@ -11852,7 +11852,7 @@
   {
     "trackId": 6473332700,
     "region": "cn",
-    "timestamp": 1792569835923,
+    "timestamp": 1792591960143,
     "discounts": [],
     "price": 35,
     "formattedPrice": "¥35.00",
@@ -12452,10 +12452,10 @@
   {
     "trackId": 6639610182,
     "region": "cn",
-    "timestamp": 1790683950818,
+    "timestamp": 1792591960143,
     "discounts": [],
-    "price": 18,
-    "formattedPrice": "¥18.00",
+    "price": 24,
+    "formattedPrice": "¥24.00",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id6639610182",
     "trackName": "武士零",
@@ -13954,7 +13954,7 @@
   {
     "trackId": 6749369705,
     "region": "cn",
-    "timestamp": 1792504570235,
+    "timestamp": 1792591960143,
     "discounts": [],
     "price": 29,
     "formattedPrice": "¥29.00",

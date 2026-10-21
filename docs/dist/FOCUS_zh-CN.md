@@ -944,7 +944,7 @@
 |1421|663068211|自动|❌|SimpleRockets|SimpleRockets|SimpleRockets|SimpleRockets|SimpleRockets|SimpleRockets|
 |1420|1588558691|自动|❌|Math Master | 數學遊戲 火柴拼圖 | 交叉数学|Math Master | 數學遊戲 火柴拼圖 | 交叉数学|Math Master | 數學遊戲 火柴拼圖 | 交叉数学|Math Master Cross Math IQ TEST|Math Master Mental Maths QUIZ|Math Master Mathcross QI QUIZ|
 |1419|6738239220|自动|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|
-|1418|391269557|自动|Apnea Trainer: Freitauchen|Apnea Trainer: Freitauchen|Apnea Trainer: Freitauchen|Apnea Trainer: Freitauchen|Apnea Trainer: Freedive|Apnea Trainer: Freedive|Apnea Trainer: Freitauchen|
+|1418|391269557|自动|Apnea Trainer: Freitauchen|Apnea Trainer: Freitauchen|Apnea Trainer: Freitauchen|Apnea Trainer: Freitauchen|Apnea Trainer: Freediving|Apnea Trainer: Freediving|Apnea Trainer: Freitauchen|
 |1417|6749466141|自动|❌|❌|❌|❌|Red Dot - ICE Activity Alerts|❌|❌|
 |1416|495937600|自动|❌|The Tiny Bang Story|The Tiny Bang Story|The Tiny Bang Story|The Tiny Bang Story|The Tiny Bang Story|The Tiny Bang Story|
 |1415|6753017460|自动|TL Assistant|TL Assistant|TL Assistant|TL Assistant|TL Assistant|TL Assistant|TL Assistant|
@@ -1137,7 +1137,7 @@
 |1228|6746825550|自动|SnapCameraPro - 全新好用的相机|❌|❌|❌|❌|❌|❌|
 |1227|612392704|自动|VerbForms Português|VerbForms Português|VerbForms Português|VerbForms Português|VerbForms Português|VerbForms Português|VerbForms Português|
 |1226|1659946589|自动|❌|Super Dark Deception|Super Dark Deception|Super Dark Deception|Super Dark Deception|Super Dark Deception|Super Dark Deception|
-|1225|725234217|自动|Rock Drum Machine|Rock Drum Machine|Rock Drum Machine|Rock Drum Machine|Rock Drum Machine|Rock Drum Machine|Rock Drum Machine|
+|1225|725234217|自动|Rock Drum Machine: Real Drums|Rock Drum Machine: Real Drums|Rock Drum Machine: Real Drums|Rock Drum Machine: Real Drums|Rock Drum Machine: Real Drums|Rock Drum Machine: Real Drums|Rock Drum Machine: Real Drums|
 |1224|6572283606|自动|❌|中医古籍名著大全（离线版）|中医古籍名著大全（离线版）|中医古籍名著大全（离线版）|中医古籍名著大全（离线版）|中医古籍名著大全（离线版）|❌|
 |1223|6742472194|自动|❌|鬼谷八荒 Tale of Immortal|鬼谷八荒 Tale of Immortal|鬼谷八荒 Tale of Immortal|Tale of Immortal|Tale of Immortal|鬼谷八荒 Tale of Immortal|
 |1222|834248867|自动|SKRWT|SKRWT|SKRWT|SKRWT|SKRWT|SKRWT|SKRWT|

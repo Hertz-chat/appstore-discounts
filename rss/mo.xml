@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2026-10-21T01:10:09.659Z</updated>
+    <updated>2026-10-21T03:56:20.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008389768002560+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomemo</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-21T01:10:09.659Z</updated>
+        <updated>2026-10-21T03:56:20.797Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008389768002560+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingmoWed, 21 Oct 2026 01:10:09 GMT</id>
+        <id>rankingmoWed, 21 Oct 2026 03:56:20 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-21T01:10:09.660Z</updated>
+        <updated>2026-10-21T03:56:20.797Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>
@@ -1594,6 +1594,31 @@ feedId:157008389768002560+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>85</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/mo/6740698426?lang=zh-CN">Empires Game</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買</span><ol>
+              <li>
+                <i>New Clan</i>：<b>1</b>
+              </li><li>
+                <i>New Hero</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -2443,6 +2468,42 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Empires Game]]></title>
+        <id>Empires Game-mo-1792548990213</id>
+        <link href="https://appstore-discounts.eyelly.me/mo/6740698426?lang=zh-CN"/>
+        <updated>2026-10-21T02:16:30.213Z</updated>
+        <summary type="html"><![CDATA[New Clan: USD 19.99 → USD 4.99<br/>New Hero: USD 9.99 → USD 2.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/mo/6740698426?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/6c/56/6a6c5650-cd66-b7a2-a161-250efb178fab/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
+  <li>
+    <strong>New Clan：</strong><span>USD 19.99</span> → <b>
+  <strong>USD 4.99</strong>
+</b><span>[USD 4.99 ~ USD 19.99]</span>
+  </li><li>
+    <strong>New Hero：</strong><span>USD 9.99</span> → <b>
+  <strong>USD 2.99</strong>
+</b><span>[USD 2.99 ~ USD 9.99]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>USD 2.99</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    Privilege：<b>USD 0.99</b>
+  </li><li>
+    New Clan：<b>USD 4.99</b>
+  </li><li>
+    New Hero：<b>USD 2.99</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  This is a single-session, save-file turn-based strategy game inspired by the gameplay mechanics of Heroes of Might and Magic, featuring fast-paced auto-chess mode combat.
+
+The game is set in the Age of Empires universe and features multiple civilizations, each reflecting the unique characteristics of historical nations such as French, Chinese, Ancient Roman, and others。 The game adopts  Q-style pixel art aesthetic, blending cute character proportions with retro-inspired visual presentation.
+
+Within each session, players must strategically develop their homeland, train heroes, build armies, explore dynamic maps, and employ tactical combinations to outmaneuver opponents and achieve final victory
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/65/89/86658901-5a67-24e4-5b9b-77107b29f626/IMG_9684.PNG/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/5f/6a/445f6a12-efbd-a566-7677-65d767e5f461/IMG_9689.PNG/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/1f/79/e71f7957-a116-6255-f47c-b7ac20bf62a9/IMG_9687.PNG/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/c6/2b/7bc62b02-4027-26ab-a789-5854a42a8892/IMG_9699.PNG/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/17/ff/7917ff15-61da-471d-6e69-0dda7b20bc3b/IMG_9692.PNG/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/c9/ad/b8c9ad74-8f50-9a5e-4fd1-c6c32046c469/IMG_9695.PNG/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/1e/8b/d61e8be9-d55f-bab9-cb52-7af31c4da657/IMG_9690.PNG/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/00/48/c500488e-32b9-f186-3ac8-2378fed8cf03/IMG_9691.PNG/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/ba/b6/5bbab6c7-d008-f647-715c-6234f12b55a9/Screenshot_20260624-155536.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/0a/6b/4b0a6b95-e274-4d38-27e4-d1dd1a5a30e4/Screenshot_20260624-160142.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/3a/de/133ade61-c61c-600a-e2fc-5abf7a6a6f10/Screenshot_20260624-155754.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/e8/fc/3de8fc2c-ac66-3968-5cbc-7e642006560c/Screenshot_20260624-155704.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/75/5b/f2755be8-5504-edbf-ad0d-ac9bc3285c90/Screenshot_20260624-160533.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/51/cd/5551cd2b-486d-36ed-564f-c1536db308f2/Screenshot_20260624-160409.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/e5/0e/fde50efc-38d4-500d-ec9d-c084f7ccb82d/Screenshot_20260624-160150.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/02/33/3b0233d4-5f2d-eadd-83bf-e69e5ba07822/Screenshot_20260624-160339.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/48/5a/93485afb-0c6b-5855-f732-7bcee1862abd/Screenshot_20260624-155639.png/360x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Deco: Wallpaper & Stickers]]></title>

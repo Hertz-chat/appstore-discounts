@@ -45846,6 +45846,23 @@
     "history": [
       [
         {
+          "timestamp": 1792548990213,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Sandbox Unlock Standard Parts": "$290.00",
+            "Sandbox Unlock All Parts": "$290.00",
+            "Nooleus X Parts Pack": "$120.00",
+            "Transponder Module": "$30.00",
+            "1000 Quick Launches": "$120.00",
+            "Mission Free Unlock-All": "$150.00",
+            "10 Quick Launches": "$30.00",
+            "Mission 06 Demo": "$30.00",
+            "Mission 05 Demo": "$30.00",
+            "50 Quick Launches": "$60.00"
+          }
+        },
+        {
           "timestamp": 1792539105006,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -51934,6 +51951,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792548990213,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Bundle O' Monkey Money": "$90.00",
+            "Tower Unlock All Upgrades": "$30.00",
+            "Pile O' Monkey Money": "$90.00",
+            "500 Monkey Money": "$30.00",
+            "Vault O' Tokens": "$320.00",
+            "Double Cash Mode": "$320.00",
+            "Bigger Beacons": "$30.00",
+            "Vault O' Monkey Money": "$690.00",
+            "Pile O' Tokens": "$150.00"
+          }
+        },
         {
           "timestamp": 1792539105006,
           "price": 90,
@@ -134204,6 +134237,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792548990213,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Power Builder (weekly)": "$40.00",
+            "Power Builder (monthly)": "$100.00",
+            "Micro Tip": "$30.00",
+            "Medium Tip": "$60.00",
+            "Small Tip": "$30.00",
+            "Super Mega Tip": "$320.00",
+            "Power Builder (yearly)": "$860.00",
+            "The Ultimate Tip": "$1,990.00",
+            "Large Tip": "$120.00"
+          }
+        },
         {
           "timestamp": 1792539105006,
           "price": 30,
@@ -273161,6 +273210,25 @@
       "Airbus A321 XLR": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792548990213,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Boeing 787-10": "$60.00",
+            "Global scenery - 12 months": "$690.00",
+            "Boeing 777-300ER": "$60.00",
+            "The Aircraft Bundle": "$790.00",
+            "UH-60": "$30.00",
+            "Airbus A380": "$60.00",
+            "Airbus A350-1000": "$120.00",
+            "Concorde": "$60.00",
+            "Boeing 747-400": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792483161643,

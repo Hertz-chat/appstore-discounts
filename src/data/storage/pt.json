@@ -99482,8 +99482,8 @@
       "price": 0,
       "formattedPrice": "Gratuito",
       "Quarterly Membership": "2,99 €",
-      "Lifetime - Education": "9,99 €",
-      "年度会员升级终身会员": "9,99 €",
+      "Lifetime - Education": "8,99 €",
+      "年度会员升级终身会员": "7,99 €",
       "Yearly Membership": "3,99 €",
       "Monthly Membership": "0,99 €",
       "年度会员": "3,99 €",
@@ -99491,6 +99491,23 @@
       "Lifetime Membership": "8,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792548990213,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Quarterly Membership": "5,99 €",
+            "Lifetime - Education": "8,99 €",
+            "年度会员升级终身会员": "7,99 €",
+            "Yearly Membership": "8,99 €",
+            "Monthly Membership": "2,99 €",
+            "年度会员": "3,99 €",
+            "月度会员": "0,99 €",
+            "Lifetime Membership": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,

@@ -3620,7 +3620,7 @@
   {
     "trackId": 542397575,
     "region": "tw",
-    "timestamp": 1792548990213,
+    "timestamp": 1792569835923,
     "discounts": [],
     "price": 60,
     "formattedPrice": "$60.00",
@@ -5050,7 +5050,7 @@
   {
     "trackId": 725234217,
     "region": "tw",
-    "timestamp": 1752740307644,
+    "timestamp": 1792569835923,
     "discounts": [],
     "price": 590,
     "formattedPrice": "$590.00",
@@ -9821,10 +9821,10 @@
   {
     "trackId": 1225490847,
     "region": "tw",
-    "timestamp": 1791620717773,
+    "timestamp": 1792569835923,
     "discounts": [],
-    "price": 0,
-    "formattedPrice": "免費",
+    "price": 90,
+    "formattedPrice": "$90.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1225490847",
     "trackName": "電子相冊大師(專業版)",
@@ -12942,10 +12942,10 @@
   {
     "trackId": 1464666446,
     "region": "tw",
-    "timestamp": 1790805284947,
+    "timestamp": 1792569835923,
     "discounts": [],
-    "price": 0,
-    "formattedPrice": "免費",
+    "price": 120,
+    "formattedPrice": "$120.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1464666446",
     "trackName": "我的足跡: GPS記錄儀",
@@ -15649,7 +15649,7 @@
   {
     "trackId": 1563932741,
     "region": "tw",
-    "timestamp": 1791665293817,
+    "timestamp": 1792569835923,
     "discounts": [],
     "price": 60,
     "formattedPrice": "$60.00",
@@ -16348,7 +16348,7 @@
   {
     "trackId": 1595313870,
     "region": "tw",
-    "timestamp": 1790805284947,
+    "timestamp": 1792569835923,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -18509,6 +18509,18 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id6446469093",
     "trackName": "口袋時鐘-創意全屏精準錶盤懸浮顯示鎖屏桌面小組件手錶",
     "firstRecordedAt": 1723994479838
+  },
+  {
+    "trackId": 6446654568,
+    "region": "tw",
+    "timestamp": 1792569835923,
+    "discounts": [],
+    "price": 150,
+    "formattedPrice": "$150.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6446654568",
+    "trackName": "Stacklands-Battle",
+    "firstRecordedAt": 1792569835923
   },
   {
     "trackId": 6446826650,
@@ -21269,7 +21281,7 @@
   {
     "trackId": 6737434503,
     "region": "tw",
-    "timestamp": 1792483161643,
+    "timestamp": 1792569835923,
     "discounts": [],
     "price": 10,
     "formattedPrice": "$10.00",

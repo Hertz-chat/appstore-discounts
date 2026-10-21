@@ -46202,6 +46202,25 @@
     "history": [
       [
         {
+          "timestamp": 1792569835923,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Skatepark: Mondo Ramp": "HK$ 8.00",
+            "Skatepark: The Factory": "HK$ 8.00",
+            "Skatepark: The Berrics": "HK$ 18.00",
+            "Skatepark 6 Pack": "HK$ 38.00",
+            "Skatepark: Inbound": "HK$ 8.00",
+            "Skatepark: The Valley": "HK$ 8.00",
+            "Skatepark: Havasu": "HK$ 18.00",
+            "Skatepark of Tampa": "HK$ 8.00",
+            "SLS 2016 Course Pack": "HK$ 18.00",
+            "Slow Motion Mode": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792425460361,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -63455,15 +63474,32 @@
       "price": 148,
       "formattedPrice": "HK$ 148.00",
       "John": "HK$ 38.00",
-      "Mike": "HK$ 38.00"
+      "Mike": "HK$ 38.00",
+      "Studio Mix": "HK$ 68.00",
+      "Rock DM Full Access": "HK$ 188.00"
     },
     "minPriceInfo": {
       "price": 148,
       "formattedPrice": "HK$ 148.00",
       "John": "HK$ 38.00",
-      "Mike": "HK$ 38.00"
+      "Mike": "HK$ 38.00",
+      "Studio Mix": "HK$ 68.00",
+      "Rock DM Full Access": "HK$ 188.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792569835923,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {
+            "John": "HK$ 38.00",
+            "Studio Mix": "HK$ 68.00",
+            "Rock DM Full Access": "HK$ 188.00",
+            "Mike": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -104690,6 +104726,23 @@
     "history": [
       [
         {
+          "timestamp": 1792569835923,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "100,000 points": "HK$ 22.00",
+            "500,000 points": "HK$ 88.00",
+            "300,000 points": "HK$ 58.00",
+            "225,000 points": "HK$ 88.00",
+            "63,000 points": "HK$ 22.00",
+            "25,000 points": "HK$ 8.00",
+            "176,000 points": "HK$ 58.00",
+            "345,000 points": "HK$ 118.00",
+            "850,000 points": "HK$ 118.00",
+            "2,160,000 points": "HK$ 588.00"
+          }
+        },
+        {
           "timestamp": 1792548990213,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -123043,6 +123096,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792569835923,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791631773080,
@@ -178628,6 +178689,25 @@
     "history": [
       [
         {
+          "timestamp": 1792569835923,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "The Ultimate Edition Welcome Offer": "HK$ 188.00",
+            "City Break": "HK$ 22.00",
+            "Welcome Offer": "HK$ 148.00",
+            "Emberwing Token": "HK$ 88.00",
+            "Valkyrie Token": "HK$ 88.00",
+            "Magnus Wizard Token": "HK$ 88.00",
+            "Cherry Blossom Bundle": "HK$ 128.00",
+            "Astronaut Token Sale": "HK$ 22.00",
+            "Speed Die": "HK$ 118.00",
+            "Sagescale Token": "HK$ 88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792266405252,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -214089,14 +214169,31 @@
       "formattedPrice": "免費",
       "Lifetime Membership": "HK$ 58.00",
       "Yearly Membership": "HK$ 32.00",
-      "Lifetime - Education": "HK$ 88.00",
+      "Lifetime - Education": "HK$ 58.00",
       "Monthly Membership": "HK$ 8.00",
       "Quarterly Membership": "HK$ 18.00",
-      "年度会员升级终身会员": "HK$ 88.00",
+      "年度会员升级终身会员": "HK$ 58.00",
       "年度会员": "HK$ 32.00",
       "月度会员": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792569835923,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Yearly Membership": "HK$ 58.00",
+            "Lifetime Membership": "HK$ 88.00",
+            "Lifetime - Education": "HK$ 58.00",
+            "Monthly Membership": "HK$ 22.00",
+            "Quarterly Membership": "HK$ 38.00",
+            "年度会员升级终身会员": "HK$ 58.00",
+            "年度会员": "HK$ 32.00",
+            "月度会员": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -297055,7 +297152,7 @@
     "maxPriceInfo": {
       "price": 22,
       "formattedPrice": "HK$ 22.00",
-      "PadLab Full App": "HK$ 58.00",
+      "PadLab Full App": "HK$ 68.00",
       "PadLab Worship Complete": "HK$ 58.00",
       "Worship Drum Collection": "HK$ 32.00",
       "Coleção Completa de Pads": "HK$ 38.00",
@@ -297081,6 +297178,25 @@
       "Worship Drum Kit 1": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792569835923,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "PadLab Full App": "HK$ 68.00",
+            "PadLab Worship Complete": "HK$ 58.00",
+            "Worship Drum Collection": "HK$ 32.00",
+            "Coleção Completa de Pads": "HK$ 38.00",
+            "Worship EFX": "HK$ 8.00",
+            "Worship 808": "HK$ 8.00",
+            "Worship Cinematic": "HK$ 8.00",
+            "Worship Drum Kit 3": "HK$ 8.00",
+            "Worship Drum Kit 2": "HK$ 8.00",
+            "Worship Drum Kit 1": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788690009839,
@@ -309557,6 +309673,29 @@
           "timestamp": 1792504570235,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6446654568": {
+    "trackId": 6446654568,
+    "trackName": "Stacklands-Battle",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792569835923,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
           "inAppPurchases": {}
         }
       ]

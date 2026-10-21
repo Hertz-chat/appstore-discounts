@@ -3812,7 +3812,7 @@
   {
     "trackId": 563718995,
     "region": "mo",
-    "timestamp": 1792548990213,
+    "timestamp": 1792569835923,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "USD 2.99",
@@ -5002,7 +5002,7 @@
   {
     "trackId": 725234217,
     "region": "mo",
-    "timestamp": 1765824087672,
+    "timestamp": 1792569835923,
     "discounts": [],
     "price": 17.99,
     "formattedPrice": "USD 17.99",
@@ -9761,10 +9761,10 @@
   {
     "trackId": 1225490847,
     "region": "mo",
-    "timestamp": 1791631773080,
+    "timestamp": 1792569835923,
     "discounts": [],
-    "price": 0,
-    "formattedPrice": "免費",
+    "price": 2.99,
+    "formattedPrice": "USD 2.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1225490847",
     "trackName": "電子相冊大師(專業版)",
@@ -9942,7 +9942,7 @@
   {
     "trackId": 1242654932,
     "region": "mo",
-    "timestamp": 1789123271061,
+    "timestamp": 1792569835923,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "USD 0.99",
@@ -16325,7 +16325,7 @@
   {
     "trackId": 1595313870,
     "region": "mo",
-    "timestamp": 1790805284947,
+    "timestamp": 1792569835923,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -18498,6 +18498,18 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id6446469093",
     "trackName": "口袋時鐘-創意全屏精準錶盤懸浮顯示鎖屏桌面小組件手錶",
     "firstRecordedAt": 1723994479838
+  },
+  {
+    "trackId": 6446654568,
+    "region": "mo",
+    "timestamp": 1792569835923,
+    "discounts": [],
+    "price": 3.99,
+    "formattedPrice": "USD 3.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6446654568",
+    "trackName": "Stacklands-Battle",
+    "firstRecordedAt": 1792569835923
   },
   {
     "trackId": 6446826650,
@@ -21668,7 +21680,7 @@
   {
     "trackId": 6740698426,
     "region": "mo",
-    "timestamp": 1792548990213,
+    "timestamp": 1792569835923,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "USD 2.99",
@@ -24739,7 +24751,7 @@
   {
     "trackId": 6759358968,
     "region": "mo",
-    "timestamp": 1788690009839,
+    "timestamp": 1792569835923,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "USD 2.99",

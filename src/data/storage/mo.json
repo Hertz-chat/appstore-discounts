@@ -40416,6 +40416,23 @@
     "history": [
       [
         {
+          "timestamp": 1792569835923,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Tower Unlock All Upgrades": "USD 0.99",
+            "Pile O' Monkey Money": "USD 4.99",
+            "Vault O' Monkey Money": "USD 19.99",
+            "Vault O' Tokens": "USD 9.99",
+            "Bundle O' Monkey Money": "USD 2.99",
+            "Mountain O' Monkey Money": "USD 49.99",
+            "Classic Tack Tower Skin Sale": "USD 0.99",
+            "Classic Tack Tower Skin": "USD 1.99",
+            "Classic Super Monkey Skin Sale": "USD 0.99",
+            "Classic Super Monkey Skin": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1792548990213,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -51193,15 +51210,32 @@
       "price": 17.99,
       "formattedPrice": "USD 17.99",
       "John": "USD 4.99",
-      "Mike": "USD 4.99"
+      "Mike": "USD 4.99",
+      "Studio Mix": "USD 8.99",
+      "Rock DM Full Access": "USD 22.99"
     },
     "minPriceInfo": {
       "price": 17.99,
       "formattedPrice": "USD 17.99",
       "John": "USD 4.99",
-      "Mike": "USD 4.99"
+      "Mike": "USD 4.99",
+      "Studio Mix": "USD 8.99",
+      "Rock DM Full Access": "USD 22.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792569835923,
+          "price": 17.99,
+          "formattedPrice": "USD 17.99",
+          "inAppPurchases": {
+            "Studio Mix": "USD 8.99",
+            "Rock DM Full Access": "USD 22.99",
+            "John": "USD 4.99",
+            "Mike": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -94067,6 +94101,14 @@
     "history": [
       [
         {
+          "timestamp": 1792569835923,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791631773080,
           "price": 0,
           "formattedPrice": "免費",
@@ -95105,7 +95147,11 @@
       "168元礼包": "USD 24.99",
       "秦王的宝藏": "USD 24.99",
       "一盒元宝": "USD 2.99",
-      "一袋元宝": "USD 0.99"
+      "一袋元宝": "USD 0.99",
+      "韦爵爷的饭钱": "USD 3.99",
+      "汉帝的宝箱": "USD 49.99",
+      "传世珍宝": "USD 99.99",
+      "18元礼包": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -95121,9 +95167,32 @@
       "168元礼包": "USD 24.99",
       "秦王的宝藏": "USD 24.99",
       "一盒元宝": "USD 2.99",
-      "一袋元宝": "USD 0.99"
+      "一袋元宝": "USD 0.99",
+      "韦爵爷的饭钱": "USD 3.99",
+      "汉帝的宝箱": "USD 49.99",
+      "传世珍宝": "USD 99.99",
+      "18元礼包": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792569835923,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "一袋元宝": "USD 0.99",
+            "一盒元宝": "USD 2.99",
+            "鳌拜的私房钱": "USD 8.99",
+            "秦王的宝藏": "USD 24.99",
+            "江湖名士": "USD 3.99",
+            "韦爵爷的饭钱": "USD 3.99",
+            "汉帝的宝箱": "USD 49.99",
+            "传世珍宝": "USD 99.99",
+            "18元礼包": "USD 2.99",
+            "6元礼包": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789123271061,
@@ -155262,8 +155331,8 @@
       "price": 0,
       "formattedPrice": "免費",
       "Quarterly Membership": "USD 1.99",
-      "Lifetime - Education": "USD 9.99",
-      "年度会员升级终身会员": "USD 9.99",
+      "Lifetime - Education": "USD 7.99",
+      "年度会员升级终身会员": "USD 6.99",
       "Yearly Membership": "USD 3.99",
       "Monthly Membership": "USD 0.99",
       "年度会员": "USD 3.99",
@@ -155271,6 +155340,23 @@
       "Lifetime Membership": "USD 7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792569835923,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Quarterly Membership": "USD 4.99",
+            "Lifetime - Education": "USD 7.99",
+            "年度会员升级终身会员": "USD 6.99",
+            "Yearly Membership": "USD 7.99",
+            "Monthly Membership": "USD 2.99",
+            "年度会员": "USD 3.99",
+            "月度会员": "USD 0.99",
+            "Lifetime Membership": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -201424,6 +201510,16 @@
     "history": [
       [
         {
+          "timestamp": 1792569835923,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "New Hero": "USD 9.99",
+            "New Clan": "USD 19.99",
+            "Privilege": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1792548990213,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -203188,7 +203284,7 @@
     "maxPriceInfo": {
       "price": 2.99,
       "formattedPrice": "USD 2.99",
-      "PadLab Full App": "USD 7.99",
+      "PadLab Full App": "USD 8.99",
       "PadLab Worship Complete": "USD 6.99",
       "Worship Drum Collection": "USD 3.99",
       "Coleção Completa de Pads": "USD 4.99",
@@ -203214,6 +203310,25 @@
       "Worship Drum Kit 1": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792569835923,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "PadLab Full App": "USD 8.99",
+            "PadLab Worship Complete": "USD 6.99",
+            "Worship Drum Collection": "USD 3.99",
+            "Coleção Completa de Pads": "USD 4.99",
+            "Worship EFX": "USD 0.99",
+            "Worship 808": "USD 0.99",
+            "Worship Cinematic": "USD 0.99",
+            "Worship Drum Kit 3": "USD 0.99",
+            "Worship Drum Kit 2": "USD 0.99",
+            "Worship Drum Kit 1": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788690009839,
@@ -213950,6 +214065,27 @@
           "timestamp": 1792504570235,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6446654568": {
+    "name": "Stacklands-Battle",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792569835923,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
           "inAppPurchases": {}
         }
       ]

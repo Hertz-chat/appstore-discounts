@@ -21764,6 +21764,25 @@
     "history": [
       [
         {
+          "timestamp": 1792569835923,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Pacote de Vírus Necroa": "1,99 €",
+            "Desbloquear 7 Pragas Padrão": "2,99 €",
+            "Desbloquear de Verme Neurax": "1,99 €",
+            "Desbloquear Todos os Genes": "8,99 €",
+            "Desbloquear Vírus": "0,99 €",
+            "Pacote pragas": "14,99 €",
+            "Pacote Cenário": "2,99 €",
+            "Pacote de expansão Gripe símia": "1,99 €",
+            "Pacote de Praga das Sombras": "1,99 €",
+            "Desbloquear Trapaças": "9,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792483161643,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -34033,6 +34052,29 @@
       ]
     ]
   },
+  "703265535": {
+    "trackId": 703265535,
+    "trackName": "FocusDots · Focus What Matters",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792569835923,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "708196645": {
     "trackId": 708196645,
     "trackName": "Oceanhorn ™",
@@ -34142,15 +34184,32 @@
       "price": 19.99,
       "formattedPrice": "19,99 €",
       "John": "5,99 €",
-      "Mike": "5,99 €"
+      "Mike": "5,99 €",
+      "Studio Mix": "9,99 €",
+      "Rock DM Full Access": "24,99 €"
     },
     "minPriceInfo": {
       "price": 19.99,
       "formattedPrice": "19,99 €",
       "John": "5,99 €",
-      "Mike": "5,99 €"
+      "Mike": "5,99 €",
+      "Studio Mix": "9,99 €",
+      "Rock DM Full Access": "24,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792569835923,
+          "price": 19.99,
+          "formattedPrice": "19,99 €",
+          "inAppPurchases": {
+            "Studio Mix": "9,99 €",
+            "Rock DM Full Access": "24,99 €",
+            "John": "5,99 €",
+            "Mike": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -61384,6 +61443,14 @@
     "history": [
       [
         {
+          "timestamp": 1792569835923,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791620717773,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -80380,6 +80447,25 @@
       "The Trophy Tycoon Sale": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792569835923,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "Arcade Dice Sale": "3,99 €",
+            "New York 2121 Board": "6,99 €",
+            "Euro Trip": "3,99 €",
+            "The Ultimate Edition Welcome Offer": "24,99 €",
+            "New York 2121": "14,99 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €",
+            "The Dragon": "3,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792136164280,
@@ -117290,7 +117376,9 @@
       "14.99美元商品": "17,99 €",
       "99.99美元商品": "99,99 €",
       "29.99美元商品": "34,99 €",
-      "8.99美元商品": "9,99 €"
+      "8.99美元商品": "9,99 €",
+      "0.99美元商品": "0,99 €",
+      "3.99美元商品": "3,99 €"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -117304,9 +117392,29 @@
       "14.99美元商品": "17,99 €",
       "99.99美元商品": "99,99 €",
       "29.99美元商品": "34,99 €",
-      "8.99美元商品": "9,99 €"
+      "8.99美元商品": "9,99 €",
+      "0.99美元商品": "0,99 €",
+      "3.99美元商品": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792569835923,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "0.99美元商品": "0,99 €",
+            "49.99美元商品": "59,99 €",
+            "3.99美元商品": "3,99 €",
+            "8.99美元商品": "9,99 €",
+            "29.99美元商品": "34,99 €",
+            "99.99美元商品": "99,99 €",
+            "14.99美元商品": "17,99 €",
+            "3.99美元商品2": "3,99 €",
+            "12.99美元商品": "14,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -120257,6 +120365,25 @@
       "Dr.1": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792569835923,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Boeing 747-400": "1,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Global scenery - 3 months": "8,99 €",
+            "Airbus A320neo": "3,99 €",
+            "Boeing 787-9": "3,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "The Aircraft Bundle": "24,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792462971499,
@@ -130633,6 +130760,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792569835923,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "1'000'000 Coins": "3,49 €",
+            "200'000 Coins": "1,19 €",
+            "500'000 Coins": "2,49 €",
+            "Krone BiG M 450": "2,49 €",
+            "Amazone CITAN 15001-C": "1,19 €",
+            "ClaasLexion8900+ConvioFlex1380": "3,49 €",
+            "John Deere 8R 410": "2,49 €",
+            "Krone BiG Pack 1290 HDP VC": "1,19 €",
+            "New Holland T8.435 Genesis": "2,49 €",
+            "Versatile 4WD 620": "2,49 €"
+          }
+        },
         {
           "timestamp": 1792539105006,
           "price": 5.99,
@@ -141222,7 +141366,7 @@
     "maxPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €",
-      "PadLab Full App": "8,99 €",
+      "PadLab Full App": "9,99 €",
       "PadLab Worship Complete": "7,99 €",
       "Worship Drum Collection": "3,99 €",
       "Coleção Completa de Pads": "5,99 €",
@@ -141256,6 +141400,25 @@
       "Arp Pro": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792569835923,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "PadLab Full App": "9,99 €",
+            "StageLab": "6,99 €",
+            "Pad Mix Pro": "1,99 €",
+            "Sequencer Pro": "2,99 €",
+            "Arp Pro": "1,99 €",
+            "PadLab Worship Complete": "7,99 €",
+            "Worship Drum Collection": "3,99 €",
+            "Coleção Completa de Pads": "5,99 €",
+            "Worship EFX": "0,99 €",
+            "Worship 808": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790933058173,
@@ -151460,7 +151623,9 @@
       "Torre CAÇADORAS": "5,99 €",
       "PACOTE TODAS AS TORRES": "22,99 €",
       "FEITIÇOS OFERTA 1": "5,99 €",
-      "Torre TREANT": "7,99 €"
+      "Torre TREANT": "7,99 €",
+      "BAÚ de Gemas": "22,99 €",
+      "PACOTE TODOS OS HERÓIS": "29,99 €"
     },
     "minPriceInfo": {
       "VITRINE OFERTA 6": "5,99 €",
@@ -151485,10 +151650,29 @@
       "Torre CAÇADORAS": "5,99 €",
       "PACOTE TODAS AS TORRES": "22,99 €",
       "FEITIÇOS OFERTA 1": "5,99 €",
-      "Torre TREANT": "7,99 €"
+      "Torre TREANT": "7,99 €",
+      "BAÚ de Gemas": "22,99 €",
+      "PACOTE TODOS OS HERÓIS": "29,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1792569835923,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "BAÚ de Gemas": "22,99 €",
+            "BOLSA de Gemas": "5,99 €",
+            "PUNHADO de Gemas": "2,99 €",
+            "PACOTE TODAS AS TORRES": "22,99 €",
+            "PACOTE TODOS OS FEITIÇOS": "14,99 €",
+            "PACOTE TODOS OS HERÓIS": "29,99 €",
+            "Herói IGNUS": "2,99 €",
+            "Torre TREANT": "7,99 €",
+            "FEITIÇOS OFERTA 1": "5,99 €",
+            "Herói DRAKKAN": "7,99 €"
+          }
+        },
         {
           "timestamp": 1792539105006,
           "price": 7.99,
@@ -152643,6 +152827,29 @@
           "timestamp": 1792504570235,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6446654568": {
+    "trackId": 6446654568,
+    "trackName": "Stacklands-Battle",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792569835923,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
           "inAppPurchases": {}
         }
       ]

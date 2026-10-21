@@ -1,5 +1,39 @@
 [
   {
+    "trackId": 1595313870,
+    "region": "cn",
+    "timestamp": 1792569835923,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "终身会员",
+        "from": "¥128.00",
+        "to": "¥68.00",
+        "range": "[¥58.00 ~ ¥128.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "终身会员 - 教育版",
+        "from": "¥88.00",
+        "to": "¥58.00",
+        "range": "[¥58.00 ~ ¥88.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "年度会员升级终身会员",
+        "from": "¥88.00",
+        "to": "¥48.00",
+        "range": "[¥48.00 ~ ¥88.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1595313870",
+    "trackName": "瓦尔登 - 日程管理，待办计划，一个就够",
+    "firstRecordedAt": 1722784406759
+  },
+  {
     "trackId": 1551480486,
     "region": "cn",
     "timestamp": 1792462971499,
@@ -7473,7 +7507,7 @@
     "formattedPrice": "¥18.00",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id6740698426",
-    "trackName": "帝国传奇：像素英雄",
+    "trackName": "Empires Game",
     "firstRecordedAt": 1774522842214
   },
   {
@@ -8351,7 +8385,7 @@
     "formattedPrice": "¥18.00",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id6740698426",
-    "trackName": "帝国传奇：像素英雄",
+    "trackName": "Empires Game",
     "firstRecordedAt": 1774522842214
   },
   {
@@ -9829,7 +9863,7 @@
     "formattedPrice": "¥18.00",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id6740698426",
-    "trackName": "帝国传奇：像素英雄",
+    "trackName": "Empires Game",
     "firstRecordedAt": 1774522842214
   },
   {
@@ -10367,7 +10401,7 @@
     "formattedPrice": "¥18.00",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id6740698426",
-    "trackName": "帝国传奇：像素英雄",
+    "trackName": "Empires Game",
     "firstRecordedAt": 1774522842214
   },
   {

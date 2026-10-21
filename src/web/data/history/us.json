@@ -49554,6 +49554,25 @@
     "history": [
       [
         {
+          "timestamp": 1792569835923,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Sandbox Unlock All Parts": "$7.99",
+            "Sandbox Unlock Standard Parts": "$7.99",
+            "Mission Free Unlock-All": "$4.99",
+            "Nooleus X Parts Pack": "$3.99",
+            "1000 Quick Launches": "$3.99",
+            "Transponder Module": "$0.99",
+            "Mission 12 Skip": "$0.99",
+            "Mission 15 Skip": "$0.99",
+            "Mission 02 Skip": "$0.99",
+            "10 Quick Launches": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792029989391,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -61980,6 +61999,25 @@
     "history": [
       [
         {
+          "timestamp": 1792569835923,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Adult Supervision": "$1.99",
+            "Just For Kids": "$0.00",
+            "Happy Holidays": "$1.99",
+            "Mix It Up": "$0.00",
+            "That's So 90s": "$1.99",
+            "The Ellen Show": "$0.00",
+            "Food Fight": "$1.99",
+            "Adult Supervision 2: Even Adultier": "$1.99",
+            "Branded": "$1.99",
+            "Super Heroes": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792327843521,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -70129,15 +70167,32 @@
       "price": 17.99,
       "formattedPrice": "$17.99",
       "John": "$4.99",
-      "Mike": "$4.99"
+      "Mike": "$4.99",
+      "Studio Mix": "$8.99",
+      "Rock DM Full Access": "$22.99"
     },
     "minPriceInfo": {
       "price": 17.99,
       "formattedPrice": "$17.99",
       "John": "$4.99",
-      "Mike": "$4.99"
+      "Mike": "$4.99",
+      "Studio Mix": "$8.99",
+      "Rock DM Full Access": "$22.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792569835923,
+          "price": 17.99,
+          "formattedPrice": "$17.99",
+          "inAppPurchases": {
+            "John": "$4.99",
+            "Mike": "$4.99",
+            "Studio Mix": "$8.99",
+            "Rock DM Full Access": "$22.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752740307644,
@@ -136966,6 +137021,14 @@
     "history": [
       [
         {
+          "timestamp": 1792569835923,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791620717773,
           "price": 0,
           "formattedPrice": "Free",
@@ -142171,6 +142234,24 @@
     "history": [
       [
         {
+          "timestamp": 1792569835923,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Pile of Gems": "$2.99",
+            "Casket of Gems": "$9.99",
+            "Pile of Coins": "$0.99",
+            "Bag of Coins": "$4.99",
+            "Bag of Gems": "$19.99",
+            "SF2SEPack3": "$2.99",
+            "Chest of Coins": "$19.99",
+            "SF2SEPack10": "$9.99",
+            "Chest of Gems": "$49.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792548990213,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -144399,6 +144480,25 @@
       "Characters & Song Packs Bundle": "$26.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792569835923,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "ConneR": "$9.99",
+            "Xenon": "$9.99",
+            "Cherry": "$9.99",
+            "Game Disc vol.1": "$4.99",
+            "Memory Unit [A1]": "$4.99",
+            "JOE": "$9.99",
+            "Marvelous Mix vol. 1": "$4.99",
+            "Aroma": "$9.99",
+            "Nora": "$9.99",
+            "Neko": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791687637772,
@@ -175288,6 +175388,19 @@
       "Suscripción mensual": "$7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792569835923,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Subscription": "$29.99",
+            "Monthly Subscription": "$7.99",
+            "Lifetime": "$119.99",
+            "Exclusive Lifetime Offer": "$79.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792504570235,
@@ -243863,14 +243976,31 @@
       "formattedPrice": "Free",
       "Lifetime Membership": "$7.99",
       "Yearly Membership": "$3.99",
-      "Lifetime - Education": "$9.99",
+      "Lifetime - Education": "$7.99",
       "Monthly Membership": "$0.99",
       "月度会员": "$0.99",
       "Quarterly Membership": "$1.99",
-      "年度会员升级终身会员": "$9.99",
+      "年度会员升级终身会员": "$6.99",
       "年度会员": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792569835923,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime Membership": "$9.99",
+            "Yearly Membership": "$7.99",
+            "Monthly Membership": "$2.99",
+            "Quarterly Membership": "$4.99",
+            "Lifetime - Education": "$7.99",
+            "月度会员": "$0.99",
+            "年度会员升级终身会员": "$6.99",
+            "年度会员": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782790658251,
@@ -260578,6 +260708,25 @@
       "Mecha Jormungand": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792569835923,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Season Pass": "$6.99",
+            "Autonomy": "$2.99",
+            "Time Flow": "$2.99",
+            "Wedding Pack": "$4.99",
+            "Neo Package": "$4.99",
+            "Character Pass": "$11.99",
+            "Nurse Pack": "$4.99",
+            "Uniform Pack": "$3.99",
+            "Monster Pack": "$19.99",
+            "Corrupted Pack": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791965170280,
@@ -281288,6 +281437,25 @@
       "Night Chill": "$1.79"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792569835923,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Halloween Party": "$1.79",
+            "2025春さくらスキン": "$0.49",
+            "2025春いちごスキン": "$0.49",
+            "Wacky Halloween Set": "$2.39",
+            "ネオンシティ": "$1.79",
+            "Sunset beach": "$1.19",
+            "Fireworks display": "$1.79",
+            "オーロラプール": "$1.19",
+            "Christmas night": "$1.79",
+            "Moonlight and Lanterns": "$1.19"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792157762180,
@@ -304928,6 +305096,25 @@
       "CRJ900": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792569835923,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Global scenery - 3 months": "$7.99",
+            "Airbus A380": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Concorde": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Airbus A350-1000": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792483161643,
@@ -346337,7 +346524,7 @@
     "maxPriceInfo": {
       "price": 2.99,
       "formattedPrice": "$2.99",
-      "PadLab Full App": "$7.99",
+      "PadLab Full App": "$8.99",
       "PadLab Worship Complete": "$6.99",
       "Worship Drum Collection": "$3.99",
       "Coleção Completa de Pads": "$4.99",
@@ -346375,6 +346562,25 @@
       "Worship Pad": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792569835923,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "PadLab Full App": "$8.99",
+            "Pad Mix Pro": "$1.99",
+            "Pad Pulse Pro": "$1.99",
+            "StageLab": "$5.99",
+            "Sequencer Pro": "$2.99",
+            "Arp Pro": "$1.99",
+            "Worship Pad": "$0.99",
+            "PadLab Worship Complete": "$6.99",
+            "Worship Drum Collection": "$3.99",
+            "Coleção Completa de Pads": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792175391583,
@@ -354062,6 +354268,25 @@
     "history": [
       [
         {
+          "timestamp": 1792569835923,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Pro Mensal": "$1.99",
+            "Elite Annual": "$7.99",
+            "1 Token Coach IA": "$0.99",
+            "SENSI iPhone 15 a 17 Pro Max": "$1.99",
+            "3 Tokens Coach IA": "$1.99",
+            "Clone de Sensi": "$0.99",
+            "SENSI RANKED iPhone 15 a 17 Pro Max": "$1.99",
+            "SENSI iPhone 13 a 14 Pro Max": "$1.99",
+            "10 Tokens Coach IA": "$4.99",
+            "SENSI RANKED iPhone 13 a 14 Pro Max": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792375600089,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -358399,6 +358624,25 @@
     "history": [
       [
         {
+          "timestamp": 1792569835923,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Altruist": "$2.99",
+            "Saint of Sanmagica": "$2.99",
+            "Honor of the Knights": "$1.99",
+            "Berserker": "$0.99",
+            "The Arena": "$1.99",
+            "The Legendary Fist": "$1.99",
+            "Power Suit": "$0.99",
+            "Green Abyss": "$4.99",
+            "Patron Character": "$0.49",
+            "Patron Season Pass": "$0.49"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792548990213,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -361743,6 +361987,29 @@
           "timestamp": 1792504570235,
           "price": 0.99,
           "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6446654568": {
+    "trackId": 6446654568,
+    "trackName": "Stacklands-Battle",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792569835923,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
           "inAppPurchases": {}
         }
       ]

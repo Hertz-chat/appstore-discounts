@@ -144,11 +144,14 @@
       "inAppPurchase": {}
     },
     "1595313870": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
         "年度会员": 1,
-        "月度会员": 1
+        "月度会员": 1,
+        "终身会员": 1,
+        "终身会员 - 教育版": 1,
+        "年度会员升级终身会员": 1
       }
     },
     "1626320298": {
@@ -470,6 +473,15 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "1595313870": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Lifetime Membership": 1,
+        "Lifetime - Education": 1,
+        "年度会员升级终身会员": 1
+      }
     },
     "1621065119": {
       "all": 1,
@@ -934,6 +946,15 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1595313870": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Lifetime - Education": 1,
+        "年度会员升级终身会员": 1,
+        "Lifetime Membership": 1
+      }
+    },
     "1621065119": {
       "all": 1,
       "price": 1,
@@ -1393,6 +1414,15 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1595313870": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Lifetime Membership": 1,
+        "Lifetime - Education": 1,
+        "年度会员升级终身会员": 1
+      }
+    },
     "1621065119": {
       "all": 1,
       "price": 1,
@@ -1810,10 +1840,10 @@
       "inAppPurchase": {}
     },
     "1444636541": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "Yearly Subscription": 1
+        "Yearly Subscription": 2
       }
     },
     "1467248737": {
@@ -1927,6 +1957,15 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "1595313870": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Lifetime Membership": 1,
+        "Lifetime - Education": 1,
+        "年度会员升级终身会员": 1
+      }
     },
     "1621065119": {
       "all": 1,
@@ -2382,6 +2421,15 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "1595313870": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Lifetime - Education": 1,
+        "年度会员升级终身会员": 1,
+        "Lifetime Membership": 1
+      }
     },
     "1621065119": {
       "all": 1,

@@ -21993,6 +21993,25 @@
     "history": [
       [
         {
+          "timestamp": 1792609257403,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Shooting Stars - Bubble Bust World 2": "$0.99",
+            "Struck by Lightning - Bubble Bust World 3": "$1.99",
+            "Pack of 500 Tokens": "$0.99",
+            "Pack of 1500 Tokens": "$1.99",
+            "Pack of 10 Fireballs": "$0.99",
+            "Pack of 30 Fireballs": "$1.99",
+            "Pack of 5 Bumpers": "$0.99",
+            "Pack of 15 Bumpers": "$1.99",
+            "Bubble Popper Pack": "$3.99",
+            "MEGA Bubble Popper Pack": "$7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788208825680,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -136173,6 +136192,23 @@
     "history": [
       [
         {
+          "timestamp": 1792609257403,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "江湖名士": "$3.99",
+            "秦王的宝藏": "$24.99",
+            "鳌拜的私房钱": "$8.99",
+            "一盒元宝": "$2.99",
+            "30元礼包": "$3.99",
+            "一袋元宝": "$0.99",
+            "60元礼包": "$8.99",
+            "168元礼包": "$24.99",
+            "6元礼包": "$0.99",
+            "30元礼包四": "$3.99"
+          }
+        },
+        {
           "timestamp": 1792591960143,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -140567,6 +140603,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792609257403,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Pile of Gems": "$2.99",
+            "Casket of Gems": "$9.99",
+            "Pile of Coins": "$0.99",
+            "Bag of Coins": "$4.99",
+            "Bag of Gems": "$19.99",
+            "SF2SEPack3": "$2.99",
+            "SF2SEPack10": "$9.99",
+            "Chest of Coins": "$19.99",
+            "Chest of Gems": "$49.99"
+          }
+        },
         {
           "timestamp": 1792591960143,
           "price": 4.99,
@@ -332824,6 +332876,14 @@
     "history": [
       [
         {
+          "timestamp": 1792609257403,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791540411692,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -357766,6 +357826,67 @@
           "timestamp": 1792569835923,
           "price": 4.99,
           "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6808354789": {
+    "name": "Raid Manager 2",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99",
+      "48,000 Diamonds": "$24.99",
+      "26,000 Diamonds": "$14.99",
+      "12,000 Diamonds": "$9.99",
+      "8,000 Diamonds": "$6.99",
+      "3,600 Diamonds": "$3.99",
+      "1,000 Diamonds": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99",
+      "48,000 Diamonds": "$24.99",
+      "26,000 Diamonds": "$14.99",
+      "12,000 Diamonds": "$9.99",
+      "8,000 Diamonds": "$6.99",
+      "3,600 Diamonds": "$3.99",
+      "1,000 Diamonds": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792609257403,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "48,000 Diamonds": "$24.99",
+            "26,000 Diamonds": "$14.99",
+            "12,000 Diamonds": "$9.99",
+            "8,000 Diamonds": "$6.99",
+            "3,600 Diamonds": "$3.99",
+            "1,000 Diamonds": "$0.99"
+          }
+        }
+      ]
+    ]
+  },
+  "6819090967": {
+    "name": "AWTRIX NG",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792609257403,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
           "inAppPurchases": {}
         }
       ]

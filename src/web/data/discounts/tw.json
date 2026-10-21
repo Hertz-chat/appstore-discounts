@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1055650930,
+    "region": "tw",
+    "timestamp": 1792609257403,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$90.00",
+        "range": "[$30.00 ~ $150.00]"
+      }
+    ],
+    "price": 90,
+    "formattedPrice": "$90.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1055650930",
+    "trackName": "Codenames",
+    "firstRecordedAt": 1745560983791
+  },
+  {
+    "trackId": 1499001662,
+    "region": "tw",
+    "timestamp": 1792609257403,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$30.00",
+        "range": "[免費 ~ $150.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1499001662",
+    "trackName": "EvoCreo2: Monster Trainer Game",
+    "firstRecordedAt": 1759940107332
+  },
+  {
     "trackId": 725234217,
     "region": "tw",
     "timestamp": 1792591960143,

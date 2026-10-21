@@ -18443,6 +18443,23 @@
     "history": [
       [
         {
+          "timestamp": 1792609257403,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Fases da Lua calendário": "0,99 €",
+            "Feriados Portugal": "0,99 €",
+            "Tempo calendário": "1,99 €",
+            "Calendars - Primeira Liga Football Men Portugal 2014-2015 edition": "0,99 €",
+            "Números de semana": "0,99 €",
+            "Calendars - PL Football Men Senegal 2015-2016 edition": "0,99 €",
+            "Calendars - Primera Divisio Football Men Andorra 2015-2016 edition": "0,99 €",
+            "Calendars - Segona Divisio Football Men Andorra 2015-2016 edition": "0,99 €",
+            "Calendars - Premier Division Football Men Gibraltar 2015-2016 edition": "0,99 €",
+            "Calendário - Superliga Voleibol Women Brasil 2015-2016 edição": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1792591960143,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -120433,6 +120450,23 @@
     "history": [
       [
         {
+          "timestamp": 1792609257403,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Concorde": "1,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Boeing 747-400": "1,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Global scenery - 3 months": "8,99 €",
+            "Airbus A320neo": "3,99 €",
+            "Boeing 787-9": "3,99 €",
+            "Boeing 737 MAX 9": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1792569835923,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -152927,6 +152961,71 @@
           "timestamp": 1792569835923,
           "price": 5.99,
           "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6808354789": {
+    "trackId": 6808354789,
+    "trackName": "Raid Manager 2",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €",
+      "48,000 Diamonds": "24,99 €",
+      "26,000 Diamonds": "14,99 €",
+      "12,000 Diamonds": "9,99 €",
+      "8,000 Diamonds": "6,99 €",
+      "3,600 Diamonds": "2,99 €",
+      "1,000 Diamonds": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €",
+      "48,000 Diamonds": "24,99 €",
+      "26,000 Diamonds": "14,99 €",
+      "12,000 Diamonds": "9,99 €",
+      "8,000 Diamonds": "6,99 €",
+      "3,600 Diamonds": "2,99 €",
+      "1,000 Diamonds": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792609257403,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "48,000 Diamonds": "24,99 €",
+            "26,000 Diamonds": "14,99 €",
+            "12,000 Diamonds": "9,99 €",
+            "8,000 Diamonds": "6,99 €",
+            "3,600 Diamonds": "2,99 €",
+            "1,000 Diamonds": "0,99 €"
+          }
+        }
+      ]
+    ]
+  },
+  "6819090967": {
+    "trackId": 6819090967,
+    "trackName": "AWTRIX NG",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792609257403,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
           "inAppPurchases": {}
         }
       ]

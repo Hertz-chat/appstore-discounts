@@ -1787,7 +1787,7 @@
   {
     "trackId": 404553553,
     "region": "mo",
-    "timestamp": 1792591960143,
+    "timestamp": 1792609257403,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "USD 2.99",
@@ -9942,7 +9942,7 @@
   {
     "trackId": 1242654932,
     "region": "mo",
-    "timestamp": 1792591960143,
+    "timestamp": 1792609257403,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "USD 0.99",
@@ -13738,10 +13738,10 @@
   {
     "trackId": 1499001662,
     "region": "mo",
-    "timestamp": 1790110562758,
+    "timestamp": 1792609257403,
     "discounts": [],
-    "price": 4.99,
-    "formattedPrice": "USD 4.99",
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1499001662",
     "trackName": "EvoCreo2: Monster Trainer Game",
@@ -26289,7 +26289,7 @@
   {
     "trackId": 6801980968,
     "region": "mo",
-    "timestamp": 1792591960143,
+    "timestamp": 1792609257403,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "USD 1.99",
@@ -26419,6 +26419,18 @@
     "firstRecordedAt": 1789036952061
   },
   {
+    "trackId": 6808354789,
+    "region": "mo",
+    "timestamp": 1792609257403,
+    "discounts": [],
+    "price": 3.99,
+    "formattedPrice": "USD 3.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6808354789",
+    "trackName": "團本經理 - Raid Manager 2",
+    "firstRecordedAt": 1792609257403
+  },
+  {
     "trackId": 6811365567,
     "region": "mo",
     "timestamp": 1792504570235,
@@ -26513,6 +26525,18 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id6817843628",
     "trackName": "五行仙途‧香江修仙錄",
     "firstRecordedAt": 1791837063531
+  },
+  {
+    "trackId": 6819090967,
+    "region": "mo",
+    "timestamp": 1792609257403,
+    "discounts": [],
+    "price": 3.99,
+    "formattedPrice": "USD 3.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6819090967",
+    "trackName": "AWTRIX NG",
+    "firstRecordedAt": 1792609257403
   },
   {
     "trackId": 6819276809,

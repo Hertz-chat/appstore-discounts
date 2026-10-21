@@ -187755,6 +187755,25 @@
     "history": [
       [
         {
+          "timestamp": 1792609257403,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Prime Dimension DLC": "HK$ 39.00",
+            "Prime Gemma 2500": "HK$ 20.00",
+            "Prime Gemma 5000": "HK$ 220.00",
+            "Prime gemma 100": "HK$ 5.00",
+            "Master Package": "HK$ 20.00",
+            "Starter Package": "HK$ 28.00",
+            "Evoker Package": "HK$ 55.00",
+            "Hunter Package": "HK$ 55.00",
+            "Tamer Kit": "HK$ 5.00",
+            "Evoker Kit": "HK$ 5.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790119857097,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -252625,6 +252644,25 @@
     "history": [
       [
         {
+          "timestamp": 1792609257403,
+          "price": 15,
+          "formattedPrice": "HK$ 15.00",
+          "inAppPurchases": {
+            "2025春イースタースキン": "HK$ 8.00",
+            "2025春ネモフィラスキン": "HK$ 2.00",
+            "2025春さくらスキン": "HK$ 2.00",
+            "星降之夜": "HK$ 9.00",
+            "新年日出": "HK$ 9.00",
+            "花火大會": "HK$ 9.00",
+            "2025春いちごスキン": "HK$ 2.00",
+            "夏日庭院": "HK$ 6.00",
+            "萬聖派對": "HK$ 9.00",
+            "夏色クリームソーダ": "HK$ 6.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791540411692,
           "price": 15,
           "formattedPrice": "HK$ 15.00",
@@ -307986,6 +308024,25 @@
     "history": [
       [
         {
+          "timestamp": 1792609257403,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "全塔禮包": "HK$ 148.00",
+            "英雄 阿什彼特": "HK$ 58.00",
+            "英雄 德拉坎": "HK$ 58.00",
+            "全法術禮包": "HK$ 98.00",
+            "英雄 鬼侍": "HK$ 38.00",
+            "全英雄禮包": "HK$ 188.00",
+            "塔 鍊金術師小屋": "HK$ 22.00",
+            "英雄 伊格納斯": "HK$ 22.00",
+            "全英雄禮包_B": "HK$ 188.00",
+            "塔 野貓女獵手": "HK$ 38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792591960143,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -309821,6 +309878,71 @@
           "timestamp": 1792569835923,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6808354789": {
+    "trackId": 6808354789,
+    "trackName": "團本經理 - Raid Manager 2",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00",
+      "鑽石 48,000 個": "HK$ 168.00",
+      "鑽石 26,000 個": "HK$ 98.00",
+      "鑽石 12,000 個": "HK$ 68.00",
+      "鑽石 8,000 個": "HK$ 58.00",
+      "鑽石 3,600 個": "HK$ 28.00",
+      "鑽石 1,000 個": "HK$ 2.00"
+    },
+    "minPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00",
+      "鑽石 48,000 個": "HK$ 168.00",
+      "鑽石 26,000 個": "HK$ 98.00",
+      "鑽石 12,000 個": "HK$ 68.00",
+      "鑽石 8,000 個": "HK$ 58.00",
+      "鑽石 3,600 個": "HK$ 28.00",
+      "鑽石 1,000 個": "HK$ 2.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792609257403,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "鑽石 48,000 個": "HK$ 168.00",
+            "鑽石 26,000 個": "HK$ 98.00",
+            "鑽石 12,000 個": "HK$ 68.00",
+            "鑽石 8,000 個": "HK$ 58.00",
+            "鑽石 3,600 個": "HK$ 28.00",
+            "鑽石 1,000 個": "HK$ 2.00"
+          }
+        }
+      ]
+    ]
+  },
+  "6819090967": {
+    "trackId": 6819090967,
+    "trackName": "AWTRIX NG",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "minPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792609257403,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
           "inAppPurchases": {}
         }
       ]

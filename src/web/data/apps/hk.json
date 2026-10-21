@@ -13738,10 +13738,10 @@
   {
     "trackId": 1499001662,
     "region": "hk",
-    "timestamp": 1790119857097,
+    "timestamp": 1792609257403,
     "discounts": [],
-    "price": 38,
-    "formattedPrice": "HK$ 38.00",
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id1499001662",
     "trackName": "EvoCreo2: Monster Trainer Game",
@@ -19383,7 +19383,7 @@
   {
     "trackId": 6469114836,
     "region": "hk",
-    "timestamp": 1791540411692,
+    "timestamp": 1792609257403,
     "discounts": [],
     "price": 15,
     "formattedPrice": "HK$ 15.00",
@@ -24902,7 +24902,7 @@
   {
     "trackId": 6759664029,
     "region": "hk",
-    "timestamp": 1792591960143,
+    "timestamp": 1792609257403,
     "discounts": [],
     "price": 58,
     "formattedPrice": "HK$ 58.00",
@@ -26534,6 +26534,18 @@
     "firstRecordedAt": 1789036952061
   },
   {
+    "trackId": 6808354789,
+    "region": "hk",
+    "timestamp": 1792609257403,
+    "discounts": [],
+    "price": 32,
+    "formattedPrice": "HK$ 32.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6808354789",
+    "trackName": "團本經理 - Raid Manager 2",
+    "firstRecordedAt": 1792609257403
+  },
+  {
     "trackId": 6811365567,
     "region": "hk",
     "timestamp": 1792504570235,
@@ -26628,6 +26640,18 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id6817843628",
     "trackName": "五行仙途‧香江修仙錄",
     "firstRecordedAt": 1791837063531
+  },
+  {
+    "trackId": 6819090967,
+    "region": "hk",
+    "timestamp": 1792609257403,
+    "discounts": [],
+    "price": 32,
+    "formattedPrice": "HK$ 32.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6819090967",
+    "trackName": "AWTRIX NG",
+    "firstRecordedAt": 1792609257403
   },
   {
     "trackId": 6819276809,

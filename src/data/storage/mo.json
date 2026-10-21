@@ -175086,6 +175086,25 @@
     "history": [
       [
         {
+          "timestamp": 1792539105006,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "五子良將": "USD 5.99",
+            "地圖存檔": "USD 1.99",
+            "劇本存檔": "USD 1.99",
+            "月下追魂": "USD 5.99",
+            "斜谷殘陽": "USD 5.99",
+            "自創寶物": "USD 1.99",
+            "冠絕天下": "USD 5.99",
+            "西涼悍將": "USD 5.99",
+            "江山美人": "USD 2.99",
+            "終身版": "USD 6.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789763272785,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
@@ -186023,9 +186042,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Deco Plus": "USD 3.29"
+      "Deco Plus": "USD 2.79"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792539105006,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Deco Plus": "USD 2.79"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792446504330,
@@ -196461,7 +196490,7 @@
     ]
   },
   "6749698268": {
-    "name": "小易决策-选择困难小救星",
+    "name": "小易决策－六十四卦与日常选择",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99",

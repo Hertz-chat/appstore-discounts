@@ -45846,6 +45846,25 @@
     "history": [
       [
         {
+          "timestamp": 1792539105006,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Mission 37 Gold": "$90.00",
+            "Mission 36 Gold": "$90.00",
+            "Mission 37 Demo": "$30.00",
+            "Mission 36 Demo": "$30.00",
+            "Mission 36 Skip": "$60.00",
+            "Mission 35 Skip": "$60.00",
+            "Mission 35 Gold": "$90.00",
+            "Mission 35 Demo": "$30.00",
+            "Mission 34 Skip": "$60.00",
+            "Mission 34 Gold": "$90.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785342103961,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -51914,6 +51933,25 @@
       "Samurai Ninja Monkey Skin": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792539105006,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Classic Tack Tower Skin Sale": "$30.00",
+            "Classic Tack Tower Skin": "$60.00",
+            "Classic Super Monkey Skin Sale": "$30.00",
+            "Classic Super Monkey Skin": "$60.00",
+            "Classic Ice Tower Skin Sale": "$30.00",
+            "Classic Ice Tower Skin": "$60.00",
+            "Classic Bomb Tower Skin Sale": "$30.00",
+            "Classic Bomb Tower Skin": "$60.00",
+            "Classic Dart Monkey Skin Sale": "$30.00",
+            "Classic Dart Monkey Skin": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786561258693,
@@ -134165,6 +134203,24 @@
       "Super Tip": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792539105006,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Power Builder (monthly)": "$100.00",
+            "Power Builder (yearly)": "$860.00",
+            "Power Builder (weekly)": "$40.00",
+            "The Ultimate Tip": "$1,990.00",
+            "Super Mega Smashing Tip": "$990.00",
+            "Super Smashing Tip": "$590.00",
+            "Super Mega Tip": "$320.00",
+            "Mega Tip": "$190.00",
+            "Super Tip": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784815063449,
@@ -302232,7 +302288,7 @@
   },
   "6749698268": {
     "trackId": 6749698268,
-    "trackName": "小易决策-选择困难小救星",
+    "trackName": "小易决策－六十四卦与日常选择",
     "region": "tw",
     "maxPriceInfo": {
       "price": 30,

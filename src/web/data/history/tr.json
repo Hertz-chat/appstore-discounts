@@ -148858,6 +148858,14 @@
     "history": [
       [
         {
+          "timestamp": 1792539105006,
+          "price": 139.99,
+          "formattedPrice": "₺139,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791420216639,
           "price": 29.99,
           "formattedPrice": "₺29,99",
@@ -182224,6 +182232,18 @@
     "history": [
       [
         {
+          "timestamp": 1792539105006,
+          "price": 195,
+          "formattedPrice": "₺195,00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "₺149,99",
+            "200'000 Coins": "₺49,99",
+            "500'000 Coins": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792020712402,
           "price": 91.99,
           "formattedPrice": "₺91,99",
@@ -192452,6 +192472,18 @@
       "Eternal Embers DLC": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792539105006,
+          "price": 349.99,
+          "formattedPrice": "₺349,99",
+          "inAppPurchases": {
+            "Eternal Embers DLC": "₺89,99",
+            "Ragnarök for free download": "₺0,00",
+            "Atlantis for free download": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791420216639,
@@ -229878,6 +229910,20 @@
     "history": [
       [
         {
+          "timestamp": 1792539105006,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Filtr": "₺149,99",
+            "Yearly Recurring Tip": "₺399,99",
+            "Monthly Recurring Tip": "₺79,99",
+            "Mega Tip": "₺999,99",
+            "Tip": "₺249,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788781262725,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -244051,6 +244097,25 @@
       "Krone BiG M 450": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792539105006,
+          "price": 229,
+          "formattedPrice": "₺229,00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "₺149,99",
+            "200'000 Coins": "₺49,99",
+            "500'000 Coins": "₺99,99",
+            "Amazone CITAN 15001-C": "₺49,99",
+            "New Holland T8.435 Genesis": "₺99,99",
+            "Krone BiG Pack 1290 HDP VC": "₺49,99",
+            "ClaasLexion8900+ConvioFlex1380": "₺149,99",
+            "Case IH Speed-Tiller": "₺49,99",
+            "KINZE 3665 Blue Drive": "₺49,99",
+            "Versatile 4WD 620": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792462971499,
@@ -279380,7 +279445,7 @@
   },
   "6749698268": {
     "trackId": 6749698268,
-    "trackName": "小易决策-选择困难小救星",
+    "trackName": "小易决策－六十四卦与日常选择",
     "region": "tr",
     "maxPriceInfo": {
       "price": 39.99,
@@ -281463,12 +281528,25 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Raider Mk. 3": "₺499,99",
+      "Raider Mk. 3": "₺399,99",
       "Raider Mk. 2": "₺229,99",
       "Raider Mk. 1": "₺49,99",
       "Raider Weekly": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792539105006,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Raider Mk. 2": "₺229,99",
+            "Raider Mk. 3": "₺399,99",
+            "Raider Mk. 1": "₺49,99",
+            "Raider Weekly": "₺79,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787015391260,
@@ -297033,6 +297111,14 @@
       "formattedPrice": "₺224,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792539105006,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791332575449,

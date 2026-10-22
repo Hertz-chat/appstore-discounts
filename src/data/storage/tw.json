@@ -174501,6 +174501,25 @@
     "history": [
       [
         {
+          "timestamp": 1792695331117,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "赖世雄中级美语下（视频课）": "$490.00",
+            "赖世雄中级美语上（视频课）": "$490.00",
+            "大学英语_外刊精读 | 2025年度TOP100精选": "$990.00",
+            "On Writing Well 英语原版书精读课": "$2,290.00",
+            "听口直通自由—中高级英语精听": "$1,990.00",
+            "听口直通自由—口语输出课": "$1,290.00",
+            "听口直通自由—语音基础": "$190.00",
+            "肖维青英文原著精读课-纳尼亚传奇篇": "$990.00",
+            "大学英语_外刊精读 | 2024年度TOP100精选": "$990.00",
+            "Albert：不走弯路学英语": "$190.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791059903104,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -259016,7 +259035,13 @@
       "Legendary Asia Expansion": "$390.00",
       "Nordic Expansion": "$390.00",
       "Welcome Offer": "$990.00",
-      "Ticket to Ride ChristmasBundle": "$390.00"
+      "Ticket to Ride ChristmasBundle": "$390.00",
+      "Ultimate Bundle": "$1,990.00",
+      "New York Map": "$320.00",
+      "France Map": "$320.00",
+      "Nederlands Map": "$320.00",
+      "Iberia Map": "$320.00",
+      "Old West Map": "$320.00"
     },
     "minPriceInfo": {
       "price": 90,
@@ -259067,9 +259092,30 @@
       "Legendary Asia Expansion": "$220.00",
       "Nordic Expansion": "$220.00",
       "Welcome Offer": "$320.00",
-      "Ticket to Ride ChristmasBundle": "$120.00"
+      "Ticket to Ride ChristmasBundle": "$120.00",
+      "Ultimate Bundle": "$1,990.00",
+      "New York Map": "$320.00",
+      "France Map": "$320.00",
+      "Nederlands Map": "$320.00",
+      "Iberia Map": "$320.00",
+      "Old West Map": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792695331117,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Ultimate Bundle": "$1,990.00",
+            "New York Map": "$320.00",
+            "France Map": "$320.00",
+            "Nederlands Map": "$320.00",
+            "Iberia Map": "$320.00",
+            "Old West Map": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792115808010,
@@ -306621,6 +306667,25 @@
     "history": [
       [
         {
+          "timestamp": 1792695331117,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "RED-WHITE RYUKIN": "$60.00",
+            "RED RYUKIN": "$60.00",
+            "WHITE KITTY FISH": "$60.00",
+            "BLACK KITTY FISH": "$60.00",
+            "ROBO FISH 02": "$60.00",
+            "GHOST": "$60.00",
+            "ORANGE/WHITE": "$60.00",
+            "GHOST TRANSLUCENT": "$60.00",
+            "PANDA TELESCOPE": "$60.00",
+            "ORANGE & WHITE KITTY FISH": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792678231846,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -317042,6 +317107,25 @@
     "history": [
       [
         {
+          "timestamp": 1792695331117,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "全塔禮包": "$690.00",
+            "英雄 德拉坎": "$220.00",
+            "英雄 阿什彼特": "$220.00",
+            "全法術禮包": "$390.00",
+            "全英雄禮包": "$790.00",
+            "塔 奧術鍛造匠": "$150.00",
+            "塔 哨兵瞭望塔": "$190.00",
+            "塔 鍊金術師小屋": "$90.00",
+            "一把寶石": "$90.00",
+            "塔 野貓女獵手": "$150.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792678231846,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -318711,6 +318795,27 @@
           "timestamp": 1792678231846,
           "price": 390,
           "formattedPrice": "$390.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6789634028": {
+    "name": "Pilavcı",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792695331117,
+          "price": 30,
+          "formattedPrice": "$30.00",
           "inAppPurchases": {}
         }
       ]

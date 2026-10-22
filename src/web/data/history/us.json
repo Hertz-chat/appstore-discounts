@@ -217321,6 +217321,23 @@
     "history": [
       [
         {
+          "timestamp": 1792695331117,
+          "price": 15.99,
+          "formattedPrice": "$15.99",
+          "inAppPurchases": {
+            "Major Jazz Blues 12 key": "$4.99",
+            "Funk Popular": "$2.99",
+            "Swing Ⅱ-V-I-VI 12key (Long)": "$4.99",
+            "Herbie Hancock & Chick corea": "$4.99",
+            "Rhythm Change 12key": "$4.99",
+            "Bossa Nova Blues 12key": "$2.99",
+            "Minor Blues 12 key": "$4.99",
+            "Neo Soul Jam Track 12key": "$4.99",
+            "Essential Wayne Shorter": "$4.99",
+            "Antonio Carlos Jobim Book Ⅰ.": "$5.99"
+          }
+        },
+        {
           "timestamp": 1792678231846,
           "price": 15.99,
           "formattedPrice": "$15.99",
@@ -259769,6 +259786,14 @@
     "history": [
       [
         {
+          "timestamp": 1792695331117,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789787996372,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -294668,7 +294693,8 @@
       "France Map": "$9.99",
       "Nederlands Map": "$9.99",
       "Iberia Map": "$9.99",
-      "Old West Map": "$9.99"
+      "Old West Map": "$9.99",
+      "The Spooktacular Halloween Bundle": "$7.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -294724,9 +294750,29 @@
       "France Map": "$9.99",
       "Nederlands Map": "$9.99",
       "Iberia Map": "$9.99",
-      "Old West Map": "$9.99"
+      "Old West Map": "$9.99",
+      "The Spooktacular Halloween Bundle": "$7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792695331117,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Round the World Ticket": "$49.99",
+            "1910 Ticket Pack": "$3.99",
+            "Europe Expansion": "$14.99",
+            "Welcome Offer": "$29.99",
+            "Ticket to Ride ChristmasBundle": "$9.99",
+            "Europe Map": "$12.99",
+            "Ticket to Ride Sale Offer": "$29.99",
+            "Nordic Expansion": "$12.99",
+            "The Spooktacular Halloween Bundle": "$7.99",
+            "Legendary Asia Expansion": "$12.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792425460361,
@@ -362715,6 +362761,29 @@
           "timestamp": 1792678231846,
           "price": 11.99,
           "formattedPrice": "$11.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6789634028": {
+    "trackId": 6789634028,
+    "trackName": "Rice Station",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792695331117,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
           "inAppPurchases": {}
         }
       ]

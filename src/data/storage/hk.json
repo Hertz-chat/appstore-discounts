@@ -295496,6 +295496,19 @@
     "history": [
       [
         {
+          "timestamp": 1792695331117,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "Lite": "HK$ 38.00",
+            "Pro": "HK$ 148.00",
+            "Pro Max": "HK$ 788.00",
+            "Pro Ultra": "HK$ 1,488.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792504570235,
           "price": 3,
           "formattedPrice": "HK$ 3.00",
@@ -305871,6 +305884,27 @@
           "timestamp": 1792678231846,
           "price": 98,
           "formattedPrice": "HK$ 98.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6789634028": {
+    "name": "Pilavcı",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792695331117,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
           "inAppPurchases": {}
         }
       ]

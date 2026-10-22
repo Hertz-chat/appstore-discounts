@@ -13183,7 +13183,7 @@
   {
     "trackId": 1476509317,
     "region": "tw",
-    "timestamp": 1791059903104,
+    "timestamp": 1792695331117,
     "discounts": [],
     "price": 30,
     "formattedPrice": "$30.00",
@@ -19285,7 +19285,7 @@
   {
     "trackId": 6463616555,
     "region": "tw",
-    "timestamp": 1792115808010,
+    "timestamp": 1792695331117,
     "discounts": [],
     "price": 150,
     "formattedPrice": "$150.00",
@@ -19586,7 +19586,7 @@
   {
     "trackId": 6471839445,
     "region": "tw",
-    "timestamp": 1792678231846,
+    "timestamp": 1792695331117,
     "discounts": [],
     "price": 120,
     "formattedPrice": "$120.00",
@@ -24972,7 +24972,7 @@
   {
     "trackId": 6759664029,
     "region": "tw",
-    "timestamp": 1792678231846,
+    "timestamp": 1792695331117,
     "discounts": [],
     "price": 220,
     "formattedPrice": "$220.00",
@@ -26229,6 +26229,18 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id6789323764",
     "trackName": "WedSched by IMA",
     "firstRecordedAt": 1784584753338
+  },
+  {
+    "trackId": 6789634028,
+    "region": "tw",
+    "timestamp": 1792695331117,
+    "discounts": [],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6789634028",
+    "trackName": "Pilavcı",
+    "firstRecordedAt": 1792695331117
   },
   {
     "trackId": 6789642793,

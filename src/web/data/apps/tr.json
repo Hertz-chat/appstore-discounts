@@ -19514,7 +19514,7 @@
   {
     "trackId": 6473001577,
     "region": "tr",
-    "timestamp": 1792609257403,
+    "timestamp": 1792695331117,
     "discounts": [],
     "price": 199.99,
     "formattedPrice": "₺199,99",
@@ -25850,6 +25850,18 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6789630173",
     "trackName": "Gece Taksisi",
     "firstRecordedAt": 1784687733040
+  },
+  {
+    "trackId": 6789634028,
+    "region": "tr",
+    "timestamp": 1792695331117,
+    "discounts": [],
+    "price": 9.99,
+    "formattedPrice": "₺9,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6789634028",
+    "trackName": "Rice Station",
+    "firstRecordedAt": 1792695331117
   },
   {
     "trackId": 6789642793,

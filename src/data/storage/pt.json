@@ -13655,7 +13655,10 @@
       "Magnetic Stars Large Pack": "7,99 €",
       "Magnetic Stars Tiny Pack": "3,99 €",
       "Unlock \"Bath Time\" level pack": "1,99 €",
-      "Unlock \"Ant Hill\" level pack": "1,99 €"
+      "Unlock \"Ant Hill\" level pack": "1,99 €",
+      "Superpower Unlimited": "29,99 €",
+      "Unlock \"Shooting the candy\" level pack": "1,99 €",
+      "Unlock \"Handy сandy\" level pack": "1,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -13675,9 +13678,31 @@
       "Magnetic Stars Large Pack": "7,99 €",
       "Magnetic Stars Tiny Pack": "3,99 €",
       "Unlock \"Bath Time\" level pack": "1,99 €",
-      "Unlock \"Ant Hill\" level pack": "1,99 €"
+      "Unlock \"Ant Hill\" level pack": "1,99 €",
+      "Superpower Unlimited": "29,99 €",
+      "Unlock \"Shooting the candy\" level pack": "1,99 €",
+      "Unlock \"Handy сandy\" level pack": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792695331117,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Superpower 10": "1,99 €",
+            "Superpower 20": "3,99 €",
+            "Superpower 50": "8,99 €",
+            "Superpower 500": "19,99 €",
+            "Unlock all level packs including future updates": "3,99 €",
+            "Superpower Unlimited": "29,99 €",
+            "Unlock \"Sticky Steps\" level pack": "1,99 €",
+            "Unlock \"Shooting the candy\" level pack": "1,99 €",
+            "Unlock \"Rocket Science\" level pack": "1,99 €",
+            "Unlock \"Handy сandy\" level pack": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790726691370,
@@ -149278,6 +149303,27 @@
           "timestamp": 1792678231846,
           "price": 12.99,
           "formattedPrice": "12,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6789634028": {
+    "name": "Pilavcı",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792695331117,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]

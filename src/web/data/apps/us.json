@@ -15095,7 +15095,7 @@
   {
     "trackId": 1550721625,
     "region": "us",
-    "timestamp": 1792678231846,
+    "timestamp": 1792695331117,
     "discounts": [],
     "price": 15.99,
     "formattedPrice": "$15.99",
@@ -17405,7 +17405,7 @@
   {
     "trackId": 1637438059,
     "region": "us",
-    "timestamp": 1789787996372,
+    "timestamp": 1792695331117,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "$4.99",
@@ -19079,7 +19079,7 @@
   {
     "trackId": 6463616555,
     "region": "us",
-    "timestamp": 1792425460361,
+    "timestamp": 1792695331117,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "$4.99",
@@ -25874,6 +25874,18 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id6789323764",
     "trackName": "WedSched by IMA",
     "firstRecordedAt": 1784584753338
+  },
+  {
+    "trackId": 6789634028,
+    "region": "us",
+    "timestamp": 1792695331117,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6789634028",
+    "trackName": "Rice Station",
+    "firstRecordedAt": 1792695331117
   },
   {
     "trackId": 6789642793,

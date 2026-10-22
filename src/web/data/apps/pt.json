@@ -2141,7 +2141,7 @@
   {
     "trackId": 450542233,
     "region": "pt",
-    "timestamp": 1790726691370,
+    "timestamp": 1792695331117,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "0,99 €",
@@ -24160,6 +24160,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id6789323764",
     "trackName": "WedSched by IMA",
     "firstRecordedAt": 1784584753338
+  },
+  {
+    "trackId": 6789634028,
+    "region": "pt",
+    "timestamp": 1792695331117,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6789634028",
+    "trackName": "Pilavcı",
+    "firstRecordedAt": 1792695331117
   },
   {
     "trackId": 6790439017,

@@ -18767,6 +18767,27 @@
       ]
     ]
   },
+  "424015306": {
+    "name": "RAL iColours",
+    "maxPriceInfo": {
+      "price": 290,
+      "formattedPrice": "$290.00"
+    },
+    "minPriceInfo": {
+      "price": 290,
+      "formattedPrice": "$290.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "424403441": {
     "name": "Pimple Eraser",
     "maxPriceInfo": {
@@ -29592,6 +29613,25 @@
       "Farming Starter Pack": "$190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 235,
+          "formattedPrice": "$235.00",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "$70.00",
+            "Realms Plus:10 Friends w/trial": "$240.00",
+            "Minecraft Store Item 6": "$200.00",
+            "Realms Monthly Subscription: You + 2 Friends": "$120.00",
+            "Minecraft Store Item 3": "$100.00",
+            "Realms Plus: You + 10 Friends": "$240.00",
+            "Minecraft Store Item 10": "$345.00",
+            "Minecraft Store Item 4": "$135.00",
+            "Minecraft Store Item 5": "$170.00",
+            "Marketplace Pass Trial": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792397485602,
@@ -184888,6 +184928,27 @@
       ]
     ]
   },
+  "1485478290": {
+    "name": "Functional Oral Intake Scale",
+    "maxPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "minPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1486110292": {
     "name": "Minitube for Youtube",
     "maxPriceInfo": {
@@ -205164,6 +205225,14 @@
     "history": [
       [
         {
+          "timestamp": 1792678231846,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792258533888,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -206158,6 +206227,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792425460361,
@@ -220383,7 +220460,7 @@
     "maxPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00",
-      "Buy Pro Version": "$90.00"
+      "Buy Pro Version": "$120.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -220391,6 +220468,16 @@
       "Buy Pro Version": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Buy Pro Version": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -306491,7 +306578,12 @@
       "GHOST LUMINOUS": "$60.00",
       "RED CAP ORANDA": "$60.00",
       "PANDA TELESCOPE": "$60.00",
-      "GRAY WHITE KITTY FISH": "$60.00"
+      "GRAY WHITE KITTY FISH": "$60.00",
+      "ROBO FISH 01": "$60.00",
+      "ROBO FISH 03": "$60.00",
+      "ROBO FISH 04": "$60.00",
+      "ROBO FISH 05": "$60.00",
+      "ROBO FISH 06": "$60.00"
     },
     "minPriceInfo": {
       "price": 60,
@@ -306519,9 +306611,33 @@
       "GHOST LUMINOUS": "$60.00",
       "RED CAP ORANDA": "$60.00",
       "PANDA TELESCOPE": "$60.00",
-      "GRAY WHITE KITTY FISH": "$60.00"
+      "GRAY WHITE KITTY FISH": "$60.00",
+      "ROBO FISH 01": "$60.00",
+      "ROBO FISH 03": "$60.00",
+      "ROBO FISH 04": "$60.00",
+      "ROBO FISH 05": "$60.00",
+      "ROBO FISH 06": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "BLACK KITTY FISH": "$60.00",
+            "ROBO FISH 02": "$60.00",
+            "ROBO FISH 01": "$60.00",
+            "ROBO FISH 03": "$60.00",
+            "ROBO FISH 04": "$60.00",
+            "ROBO FISH 05": "$60.00",
+            "ROBO FISH 06": "$60.00",
+            "WHITE KITTY FISH": "$60.00",
+            "ORANGE & WHITE KITTY FISH": "$60.00",
+            "RED RYUKIN": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,
@@ -309220,6 +309336,16 @@
       "解鎖所有職業": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "解鎖所有職業": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790828594798,
@@ -312134,6 +312260,18 @@
     "history": [
       [
         {
+          "timestamp": 1792678231846,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "$130.00",
+            "200'000 Coins": "$40.00",
+            "500'000 Coins": "$90.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791986862260,
           "price": 180,
           "formattedPrice": "$180.00",
@@ -313035,13 +313173,25 @@
     "name": "Plezy: Media Server Client",
     "maxPriceInfo": {
       "price": 190,
-      "formattedPrice": "$190.00"
+      "formattedPrice": "$190.00",
+      "Supporter": "$120.00"
     },
     "minPriceInfo": {
       "price": 190,
-      "formattedPrice": "$190.00"
+      "formattedPrice": "$190.00",
+      "Supporter": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "Supporter": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1781276299651,
@@ -316855,7 +317005,8 @@
       "全英雄禮包_B": "$790.00",
       "英雄 羅德": "$150.00",
       "一箱寶石": "$690.00",
-      "一袋寶石": "$150.00"
+      "一袋寶石": "$150.00",
+      "一把寶石": "$90.00"
     },
     "minPriceInfo": {
       "price": 220,
@@ -316885,9 +317036,29 @@
       "全英雄禮包_B": "$790.00",
       "英雄 羅德": "$150.00",
       "一箱寶石": "$690.00",
-      "一袋寶石": "$150.00"
+      "一袋寶石": "$150.00",
+      "一把寶石": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "全塔禮包": "$690.00",
+            "英雄 德拉坎": "$220.00",
+            "英雄 阿什彼特": "$220.00",
+            "全法術禮包": "$390.00",
+            "全英雄禮包": "$790.00",
+            "塔 奧術鍛造匠": "$150.00",
+            "塔 哨兵瞭望塔": "$190.00",
+            "塔 鍊金術師小屋": "$90.00",
+            "一把寶石": "$90.00",
+            "全英雄禮包_B": "$790.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792425460361,
@@ -318519,6 +318690,27 @@
           "timestamp": 1792626402303,
           "price": 30,
           "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6785542417": {
+    "name": "懲教署投考全攻略 CSDReady",
+    "maxPriceInfo": {
+      "price": 390,
+      "formattedPrice": "$390.00"
+    },
+    "minPriceInfo": {
+      "price": 390,
+      "formattedPrice": "$390.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 390,
+          "formattedPrice": "$390.00",
           "inAppPurchases": {}
         }
       ]

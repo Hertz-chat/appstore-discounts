@@ -9779,6 +9779,27 @@
       ]
     ]
   },
+  "424015306": {
+    "name": "RAL iColours",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "424591347": {
     "name": "FINAL FANTASY III (3D REMAKE)",
     "maxPriceInfo": {
@@ -59115,6 +59136,23 @@
     "history": [
       [
         {
+          "timestamp": 1792678231846,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Element EXP increase": "9,99 €",
+            "Rebirth EXP increase": "9,99 €",
+            "Rebirth Package": "49,99 €",
+            "12000 Rubies": "99,99 €",
+            "50000 Rebirth Stones": "99,99 €",
+            "Element Package": "17,99 €",
+            "250 Hell Stones": "49,99 €",
+            "120 Hell Stones": "29,99 €",
+            "30 Hell Stones": "9,99 €",
+            "500 Hell Stones": "49,99 €"
+          }
+        },
+        {
           "timestamp": 1792656146968,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -83559,6 +83597,27 @@
       ]
     ]
   },
+  "1485478290": {
+    "name": "Functional Oral Intake Scale",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1486110292": {
     "name": "Minitube for Youtube",
     "maxPriceInfo": {
@@ -104341,7 +104400,7 @@
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €",
-      "Buy Pro Version": "1,99 €"
+      "Buy Pro Version": "3,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -104349,6 +104408,16 @@
       "Buy Pro Version": "0,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Buy Pro Version": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -149188,6 +149257,27 @@
           "timestamp": 1792626402303,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6785542417": {
+    "name": "懲教署投考全攻略 CSDReady",
+    "maxPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "12,99 €"
+    },
+    "minPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "12,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 12.99,
+          "formattedPrice": "12,99 €",
           "inAppPurchases": {}
         }
       ]

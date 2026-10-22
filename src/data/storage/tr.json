@@ -17504,6 +17504,27 @@
       ]
     ]
   },
+  "424015306": {
+    "name": "RAL iColours",
+    "maxPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "minPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "424403441": {
     "name": "Pimple Eraser",
     "maxPriceInfo": {
@@ -181822,6 +181843,27 @@
       ]
     ]
   },
+  "1485478290": {
+    "name": "Functional Oral Intake Scale",
+    "maxPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "minPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1485875855": {
     "name": "Başkanlar",
     "maxPriceInfo": {
@@ -220532,7 +220574,7 @@
     "maxPriceInfo": {
       "price": 49.99,
       "formattedPrice": "₺49,99",
-      "Buy Pro Version": "₺129,99"
+      "Buy Pro Version": "₺199,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -220540,6 +220582,16 @@
       "Buy Pro Version": "₺0,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Buy Pro Version": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -290110,13 +290162,25 @@
     "name": "Plezy: Media Server Client",
     "maxPriceInfo": {
       "price": 299.99,
-      "formattedPrice": "₺299,99"
+      "formattedPrice": "₺299,99",
+      "Supporter": "₺199,99"
     },
     "minPriceInfo": {
       "price": 299.99,
-      "formattedPrice": "₺299,99"
+      "formattedPrice": "₺299,99",
+      "Supporter": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Supporter": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1781276299651,
@@ -294255,6 +294319,23 @@
     "history": [
       [
         {
+          "timestamp": 1792678231846,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tower Sniper": "₺299,99",
+            "Hero Ashbite": "₺399,99",
+            "Hero Drakkan": "₺399,99",
+            "ALL SPELLS BUNDLE": "₺699,99",
+            "Hero Oni": "₺249,99",
+            "Tower Alchemist": "₺149,99",
+            "Tower Wildcat": "₺249,99",
+            "Gems Pouch": "₺249,99",
+            "Tower Ironbark": "₺399,99",
+            "Hero Ignus": "₺149,99"
+          }
+        },
+        {
           "timestamp": 1792656146968,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -296243,6 +296324,27 @@
           "timestamp": 1792626402303,
           "price": 49.99,
           "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6785542417": {
+    "name": "懲教署投考全攻略 CSDReady",
+    "maxPriceInfo": {
+      "price": 599.99,
+      "formattedPrice": "₺599,99"
+    },
+    "minPriceInfo": {
+      "price": 599.99,
+      "formattedPrice": "₺599,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
           "inAppPurchases": {}
         }
       ]

@@ -22801,6 +22801,27 @@
       ]
     ]
   },
+  "424015306": {
+    "name": "RAL iColours",
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "$8.99"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "$8.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "424403441": {
     "name": "Pimple Eraser",
     "maxPriceInfo": {
@@ -200418,6 +200439,27 @@
       ]
     ]
   },
+  "1485478290": {
+    "name": "Functional Oral Intake Scale",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1486110292": {
     "name": "Minitube for Youtube",
     "maxPriceInfo": {
@@ -214769,6 +214811,25 @@
       "Fred Hersch Compositions": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 15.99,
+          "formattedPrice": "$15.99",
+          "inAppPurchases": {
+            "Major Jazz Blues 12 key": "$4.99",
+            "Swing Ⅱ-V-I-VI 12key (Short)": "$4.99",
+            "Swing Ⅱ-V-I-VI 12key (Long)": "$4.99",
+            "Bossa Nova Blues 12key": "$2.99",
+            "Slow Funky Groove 12key": "$4.99",
+            "Neo Soul Jam Track 12key": "$4.99",
+            "Ⅱ-Ⅴ Reharmonization 12key": "$2.99",
+            "So beautiful 12key": "$4.99",
+            "Metheny & Mehldau": "$4.99",
+            "Bird Blues Changes 12key": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786202940203,
@@ -248081,6 +248142,23 @@
     "history": [
       [
         {
+          "timestamp": 1792678231846,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "All Unit Groups": "$12.99",
+            "All Heroes": "$14.99",
+            "Hero Dragon Kosmos": "$6.99",
+            "Unit Group Jaegers": "$6.99",
+            "Unit Group Rebooted Ascendii": "$2.99",
+            "Hero Red Dragon": "$5.99",
+            "Starter Pack": "$4.99",
+            "Hero Zhara": "$4.99",
+            "Hero Gauntlet": "$4.99",
+            "Hero Red Dragon On Sale": "$3.99"
+          }
+        },
+        {
           "timestamp": 1792656146968,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -254597,7 +254675,7 @@
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99",
-      "Buy Pro Version": "$2.99"
+      "Buy Pro Version": "$3.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -254605,6 +254683,16 @@
       "Buy Pro Version": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Buy Pro Version": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,
@@ -352729,13 +352817,25 @@
     "name": "Plezy: Media Server Client",
     "maxPriceInfo": {
       "price": 5.99,
-      "formattedPrice": "$5.99"
+      "formattedPrice": "$5.99",
+      "Supporter": "$3.99"
     },
     "minPriceInfo": {
       "price": 5.99,
-      "formattedPrice": "$5.99"
+      "formattedPrice": "$5.99",
+      "Supporter": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "Supporter": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1781276299651,
@@ -358208,6 +358308,27 @@
           "timestamp": 1792626402303,
           "price": 0.99,
           "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6785542417": {
+    "name": "懲教署投考全攻略 CSDReady",
+    "maxPriceInfo": {
+      "price": 11.99,
+      "formattedPrice": "$11.99"
+    },
+    "minPriceInfo": {
+      "price": 11.99,
+      "formattedPrice": "$11.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 11.99,
+          "formattedPrice": "$11.99",
           "inAppPurchases": {}
         }
       ]

@@ -16822,6 +16822,27 @@
       ]
     ]
   },
+  "424015306": {
+    "name": "RAL iColours",
+    "maxPriceInfo": {
+      "price": 58,
+      "formattedPrice": "¥58.00"
+    },
+    "minPriceInfo": {
+      "price": 58,
+      "formattedPrice": "¥58.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 58,
+          "formattedPrice": "¥58.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "424403441": {
     "name": "瑕疵清除器 (Pimple Eraser)",
     "maxPriceInfo": {
@@ -125576,6 +125597,27 @@
       ]
     ]
   },
+  "1485478290": {
+    "name": "Functional Oral Intake Scale",
+    "maxPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00"
+    },
+    "minPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1486110292": {
     "name": "Minitube for Youtube",
     "maxPriceInfo": {
@@ -145749,6 +145791,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792425460361,
@@ -233846,13 +233896,25 @@
     "name": "Plezy: Media Server Client",
     "maxPriceInfo": {
       "price": 38,
-      "formattedPrice": "¥38.00"
+      "formattedPrice": "¥38.00",
+      "Supporter": "¥28.00"
     },
     "minPriceInfo": {
       "price": 38,
-      "formattedPrice": "¥38.00"
+      "formattedPrice": "¥38.00",
+      "Supporter": "¥28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "Supporter": "¥28.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1781276299651,
@@ -236870,6 +236932,27 @@
           "timestamp": 1792626402303,
           "price": 8,
           "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6785542417": {
+    "name": "懲教署投考全攻略 CSDReady",
+    "maxPriceInfo": {
+      "price": 88,
+      "formattedPrice": "¥88.00"
+    },
+    "minPriceInfo": {
+      "price": 88,
+      "formattedPrice": "¥88.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792678231846,
+          "price": 88,
+          "formattedPrice": "¥88.00",
           "inAppPurchases": {}
         }
       ]

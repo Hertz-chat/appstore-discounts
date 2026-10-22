@@ -37538,6 +37538,22 @@
     "history": [
       [
         {
+          "timestamp": 1792656146968,
+          "price": 1.19,
+          "formattedPrice": "1,19 €",
+          "inAppPurchases": {
+            "Main Story Set": "17,99 €",
+            "Special Episode": "3,49 €",
+            "Costume Set": "1,19 €",
+            "Episode 5": "5,99 €",
+            "Episode 4": "5,99 €",
+            "Episode 2": "5,99 €",
+            "Episode 3": "5,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 0.49,
           "formattedPrice": "0,49 €",
@@ -56044,6 +56060,20 @@
     "history": [
       [
         {
+          "timestamp": 1792656146968,
+          "price": 1.19,
+          "formattedPrice": "1,19 €",
+          "inAppPurchases": {
+            "All Episodes Set": "17,99 €",
+            "Turnabout Trump, Part 2": "2,49 €",
+            "Turnabout Serenade": "5,99 €",
+            "Turnabout Corner": "5,99 €",
+            "Turnabout Succession": "5,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 0.49,
           "formattedPrice": "0,49 €",
@@ -59046,7 +59076,17 @@
       "250 Hell Stones": "49,99 €",
       "120 Hell Stones": "29,99 €",
       "30 Hell Stones": "9,99 €",
-      "500 Hell Stones": "49,99 €"
+      "500 Hell Stones": "49,99 €",
+      "Total Package": "17,99 €",
+      "Magic Package": "9,99 €",
+      "Feature Package": "3,99 €",
+      "Awakening Package": "49,99 €",
+      "Automatic Package": "17,99 €",
+      "Ring Package": "29,99 €",
+      "18000 Rebirth Stones": "49,99 €",
+      "8400 Rebirth Stones": "29,99 €",
+      "2400 Rebirth Stones": "9,99 €",
+      "1100 Rebirth Stones": "3,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -59060,9 +59100,38 @@
       "250 Hell Stones": "49,99 €",
       "120 Hell Stones": "29,99 €",
       "30 Hell Stones": "9,99 €",
-      "500 Hell Stones": "49,99 €"
+      "500 Hell Stones": "49,99 €",
+      "Total Package": "17,99 €",
+      "Magic Package": "9,99 €",
+      "Feature Package": "3,99 €",
+      "Awakening Package": "49,99 €",
+      "Automatic Package": "17,99 €",
+      "Ring Package": "29,99 €",
+      "18000 Rebirth Stones": "49,99 €",
+      "8400 Rebirth Stones": "29,99 €",
+      "2400 Rebirth Stones": "9,99 €",
+      "1100 Rebirth Stones": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792656146968,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Total Package": "17,99 €",
+            "Magic Package": "9,99 €",
+            "Feature Package": "3,99 €",
+            "Awakening Package": "49,99 €",
+            "Automatic Package": "17,99 €",
+            "Ring Package": "29,99 €",
+            "18000 Rebirth Stones": "49,99 €",
+            "8400 Rebirth Stones": "29,99 €",
+            "2400 Rebirth Stones": "9,99 €",
+            "1100 Rebirth Stones": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765159624943,
@@ -103620,6 +103689,14 @@
     "history": [
       [
         {
+          "timestamp": 1792656146968,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 9.89,
           "formattedPrice": "9,89 €",
@@ -115874,6 +115951,14 @@
     "history": [
       [
         {
+          "timestamp": 1792656146968,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -117391,6 +117476,25 @@
       "Dr.1": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792656146968,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Concorde": "1,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 747-400": "1,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Global scenery - 3 months": "8,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Airbus A320neo": "3,99 €",
+            "Boeing 737-800": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792609257403,
@@ -143929,13 +144033,25 @@
     "name": "Plezy: Media Server Client",
     "maxPriceInfo": {
       "price": 6.99,
-      "formattedPrice": "6,99 €"
+      "formattedPrice": "6,99 €",
+      "Supporter": "3,99 €"
     },
     "minPriceInfo": {
       "price": 6.99,
-      "formattedPrice": "6,99 €"
+      "formattedPrice": "6,99 €",
+      "Supporter": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792656146968,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Supporter": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1781276299651,
@@ -147836,6 +147952,25 @@
       "PACOTE TODOS OS HERÓIS": "29,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792656146968,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "PUNHADO de Gemas": "2,99 €",
+            "BAÚ de Gemas": "22,99 €",
+            "BOLSA de Gemas": "5,99 €",
+            "Torre CAÇADORAS": "5,99 €",
+            "PACOTE TODAS AS TORRES": "22,99 €",
+            "PACOTE TODOS OS FEITIÇOS": "14,99 €",
+            "PACOTE TODOS OS HERÓIS": "29,99 €",
+            "Herói IGNUS": "2,99 €",
+            "Torre TREANT": "7,99 €",
+            "FEITIÇOS OFERTA 1": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792569835923,

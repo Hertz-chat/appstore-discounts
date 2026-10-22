@@ -29324,6 +29324,21 @@
     "history": [
       [
         {
+          "timestamp": 1792656146968,
+          "price": 170,
+          "formattedPrice": "$170.00",
+          "inAppPurchases": {
+            "Complete Set": "$130.00",
+            "Full Armor": "$70.00",
+            "All Health Boosts": "$33.00",
+            "All Subtanks": "$33.00",
+            "All Weapons": "$70.00",
+            "Arranged BGMs": "$100.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 33,
           "formattedPrice": "$33.00",
@@ -73511,6 +73526,22 @@
     "history": [
       [
         {
+          "timestamp": 1792656146968,
+          "price": 33,
+          "formattedPrice": "$33.00",
+          "inAppPurchases": {
+            "Main Story Set": "$490.00",
+            "Special Episode": "$100.00",
+            "Costume Set": "$33.00",
+            "Episode 2": "$170.00",
+            "Episode 3": "$170.00",
+            "Episode 5": "$170.00",
+            "Episode 4": "$170.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -112583,6 +112614,20 @@
     "history": [
       [
         {
+          "timestamp": 1792656146968,
+          "price": 33,
+          "formattedPrice": "$33.00",
+          "inAppPurchases": {
+            "All Episodes Set": "$490.00",
+            "Turnabout Trump, Part 2": "$70.00",
+            "Turnabout Succession": "$170.00",
+            "Turnabout Serenade": "$170.00",
+            "Turnabout Corner": "$170.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -125166,7 +125211,8 @@
       "30元礼包二": "$120.00",
       "60元礼包二": "$290.00",
       "18元礼包四": "$90.00",
-      "18元礼包": "$90.00"
+      "18元礼包": "$90.00",
+      "60元礼包三": "$290.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -125184,9 +125230,29 @@
       "30元礼包二": "$120.00",
       "60元礼包二": "$290.00",
       "18元礼包四": "$90.00",
-      "18元礼包": "$90.00"
+      "18元礼包": "$90.00",
+      "60元礼包三": "$290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792656146968,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "江湖名士": "$120.00",
+            "秦王的宝藏": "$790.00",
+            "鳌拜的私房钱": "$290.00",
+            "一盒元宝": "$90.00",
+            "一袋元宝": "$30.00",
+            "30元礼包": "$120.00",
+            "60元礼包三": "$290.00",
+            "30元礼包四": "$120.00",
+            "18元礼包": "$90.00",
+            "168元礼包": "$790.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791718980381,
@@ -220144,6 +220210,14 @@
     "history": [
       [
         {
+          "timestamp": 1792656146968,
+          "price": 790,
+          "formattedPrice": "$790.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 280,
           "formattedPrice": "$280.00",
@@ -285246,6 +285320,14 @@
       "formattedPrice": "$33.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792656146968,
+          "price": 860,
+          "formattedPrice": "$860.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791453869385,

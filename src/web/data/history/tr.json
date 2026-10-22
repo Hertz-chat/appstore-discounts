@@ -26593,6 +26593,14 @@
     "history": [
       [
         {
+          "timestamp": 1792635061631,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Remove ADs": "₺49,99"
+          }
+        },
+        {
           "timestamp": 1792626402303,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -211314,6 +211322,25 @@
       "18000 Coins": "₺449,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792635061631,
+          "price": 79.99,
+          "formattedPrice": "₺79,99",
+          "inAppPurchases": {
+            "Remove Ads": "₺499,99",
+            "Coins Package 1": "₺49,99",
+            "6250 Coins": "₺199,99",
+            "Coins Package 2": "₺99,99",
+            "18000 Coins": "₺499,99",
+            "36000 Coins": "₺999,99",
+            "Best Choice Discount": "₺149,99",
+            "Popular Offer": "₺99,99",
+            "Best Choice": "₺199,99",
+            "Daily Offer": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786929139377,

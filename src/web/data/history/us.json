@@ -22313,6 +22313,23 @@
     "history": [
       [
         {
+          "timestamp": 1792626402303,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Shooting Stars - Bubble Bust World 2": "$0.99",
+            "Struck by Lightning - Bubble Bust World 3": "$1.99",
+            "Pack of 15 Bumpers": "$1.99",
+            "World 2 - Level Pack 2": "$0.99",
+            "Pack of 30 Fireballs": "$1.99",
+            "Pack of 5 Bumpers": "$0.99",
+            "Pack of 10 Fireballs": "$0.99",
+            "MEGA Bubble Popper Pack": "$7.99",
+            "World 3 - Level Pack 2": "$0.99",
+            "Pack of 500 Tokens": "$0.99"
+          }
+        },
+        {
           "timestamp": 1792609257403,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -281574,6 +281591,23 @@
     "history": [
       [
         {
+          "timestamp": 1792626402303,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Halloween Party": "$1.79",
+            "2025春さくらスキン": "$0.49",
+            "2025春ネモフィラスキン": "$0.49",
+            "2025春いちごスキン": "$0.49",
+            "Wacky Halloween Set": "$2.39",
+            "ネオンシティ": "$1.79",
+            "Sunset beach": "$1.19",
+            "Fireworks display": "$1.79",
+            "オーロラプール": "$1.19",
+            "Christmas night": "$1.79"
+          }
+        },
+        {
           "timestamp": 1792569835923,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -336346,6 +336380,14 @@
     "history": [
       [
         {
+          "timestamp": 1792626402303,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "art of rally: australia dlc": "$1.99"
+          }
+        },
+        {
           "timestamp": 1792609257403,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -361337,13 +361379,25 @@
     "region": "us",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "$2.99"
+      "formattedPrice": "$2.99",
+      "후인의 장": "$2.99"
     },
     "minPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "$2.99"
+      "formattedPrice": "$2.99",
+      "후인의 장": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792626402303,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "후인의 장": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790600478680,
@@ -362265,6 +362319,29 @@
           "timestamp": 1792609257403,
           "price": 3.99,
           "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6761129817": {
+    "trackId": 6761129817,
+    "trackName": "Brightroom",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792626402303,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
           "inAppPurchases": {}
         }
       ]

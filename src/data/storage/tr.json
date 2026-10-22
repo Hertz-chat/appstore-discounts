@@ -26227,6 +26227,14 @@
     "history": [
       [
         {
+          "timestamp": 1792626402303,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1786025220529,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -90138,6 +90146,20 @@
     "history": [
       [
         {
+          "timestamp": 1792626402303,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "25,000 Gold": "₺89,99",
+            "60,000 Gold": "₺169,99",
+            "700,000 Gold": "₺4.999,99",
+            "325,000 Gold": "₺769,99",
+            "125,000 Gold": "₺349,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790119857097,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -95758,6 +95780,16 @@
       "Krycí jména: Duet": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792626402303,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "Krycí jména: Duet": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791484107175,
@@ -104874,6 +104906,25 @@
       "幸运转盘": "₺799,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792626402303,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "幸运转盘": "₺799,99",
+            "至尊门票": "₺799,99",
+            "应援十次": "₺199,99",
+            "福运铃铛": "₺799,99",
+            "福运十次": "₺199,99",
+            "战姬参战": "₺4.999,99",
+            "火鸡宴会": "₺799,99",
+            "提升十级": "₺199,99",
+            "宝石通行证": "₺799,99",
+            "休假证明": "₺799,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792609257403,
@@ -128386,6 +128437,24 @@
     "history": [
       [
         {
+          "timestamp": 1792626402303,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Pile of Gems": "₺149,99",
+            "Pile of Coins": "₺49,99",
+            "SF2SEPack3": "₺149,99",
+            "Casket of Gems": "₺499,99",
+            "SF2SEPack15": "₺799,99",
+            "SF2SEPack6": "₺399,99",
+            "Bag of Coins": "₺249,99",
+            "SF2SEPack2": "₺99,99",
+            "SF2SEPack10": "₺499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791965170280,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -144463,6 +144532,22 @@
     "history": [
       [
         {
+          "timestamp": 1792626402303,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "年VIP会员": "₺399,99",
+            "月VIP会员": "₺149,99",
+            "50.4厘米尺长": "₺249,99",
+            "46.08厘米尺长": "₺249,99",
+            "最长测量长度为2千米": "₺249,99",
+            "解锁所有功能": "₺999,99",
+            "移除广告": "₺199,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792609257403,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -146012,6 +146097,14 @@
       "formattedPrice": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792626402303,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790034627833,
@@ -211758,6 +211851,23 @@
     "history": [
       [
         {
+          "timestamp": 1792626402303,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Quarterly Membership": "₺199,99",
+            "Lifetime - Education": "₺399,99",
+            "年度会员升级终身会员": "₺399,99",
+            "Yearly Membership": "₺399,99",
+            "Monthly Membership": "₺99,99",
+            "年度会员": "₺199,99",
+            "月度会员": "₺49,99",
+            "Lifetime Membership": "₺499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792569835923,
           "price": 0,
           "formattedPrice": "Free",
@@ -228310,8 +228420,8 @@
   "6459738231": {
     "name": "Lies of P",
     "maxPriceInfo": {
-      "price": 999.99,
-      "formattedPrice": "₺999,99",
+      "price": 1499.99,
+      "formattedPrice": "₺1.499,99",
       "Lies of P: Overture": "₺500,00"
     },
     "minPriceInfo": {
@@ -228320,6 +228430,16 @@
       "Lies of P: Overture": "₺500,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792626402303,
+          "price": 1499.99,
+          "formattedPrice": "₺1.499,99",
+          "inAppPurchases": {
+            "Lies of P: Overture": "₺500,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784516027314,
@@ -228389,6 +228509,14 @@
       "formattedPrice": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792626402303,
+          "price": 999.99,
+          "formattedPrice": "₺999,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784516027314,
@@ -279355,6 +279483,25 @@
     "history": [
       [
         {
+          "timestamp": 1792626402303,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "5 ticket": "₺19,99",
+            "passatb8": "₺49,99",
+            "5 gold": "₺19,99",
+            "30000 money": "₺19,99",
+            "15 gold": "₺29,99",
+            "porches": "₺49,99",
+            "10 ticket": "₺29,99",
+            "sonsuz paket": "₺249,99",
+            "25 gold": "₺49,99",
+            "15 ticket": "₺29,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792548990213,
           "price": 0,
           "formattedPrice": "Free",
@@ -286685,6 +286832,14 @@
     "history": [
       [
         {
+          "timestamp": 1792626402303,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1778176443977,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -288378,6 +288533,19 @@
       "Skin Ticket x8": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792626402303,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {
+            "Blessing of Experience": "₺99,99",
+            "Skin Ticket x1": "₺19,99",
+            "Skin Ticket x3": "₺49,99",
+            "Skin Ticket x8": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790034627833,
@@ -294962,13 +295130,25 @@
     "name": "무원일생",
     "maxPriceInfo": {
       "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "formattedPrice": "₺149,99",
+      "후인의 장": "₺149,99"
     },
     "minPriceInfo": {
       "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "formattedPrice": "₺149,99",
+      "후인의 장": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792626402303,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "후인의 장": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790600478680,
@@ -295860,6 +296040,27 @@
           "timestamp": 1792609257403,
           "price": 199.99,
           "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6761129817": {
+    "name": "Brightroom",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792626402303,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
           "inAppPurchases": {}
         }
       ]

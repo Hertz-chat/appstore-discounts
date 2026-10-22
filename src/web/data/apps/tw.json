@@ -8739,7 +8739,7 @@
   {
     "trackId": 1118115766,
     "region": "tw",
-    "timestamp": 1792609257403,
+    "timestamp": 1792626402303,
     "discounts": [],
     "price": 220,
     "formattedPrice": "$220.00",
@@ -24456,7 +24456,7 @@
   {
     "trackId": 6757755170,
     "region": "tw",
-    "timestamp": 1792609257403,
+    "timestamp": 1792626402303,
     "discounts": [],
     "price": 30,
     "formattedPrice": "$30.00",
@@ -25268,6 +25268,18 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id6761129391",
     "trackName": "No. 10: Full Confidence",
     "firstRecordedAt": 1786949612773
+  },
+  {
+    "trackId": 6761129817,
+    "region": "tw",
+    "timestamp": 1792626402303,
+    "discounts": [],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6761129817",
+    "trackName": "Brightroom",
+    "firstRecordedAt": 1792626402303
   },
   {
     "trackId": 6761159805,
@@ -26498,7 +26510,7 @@
   {
     "trackId": 6805504523,
     "region": "tw",
-    "timestamp": 1790600478680,
+    "timestamp": 1792626402303,
     "discounts": [],
     "price": 90,
     "formattedPrice": "$90.00",

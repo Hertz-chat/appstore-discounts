@@ -75092,6 +75092,16 @@
     "history": [
       [
         {
+          "timestamp": 1792626402303,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Krycí jména: Duet": "USD 4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791484107175,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -95238,6 +95248,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792626402303,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "江湖名士": "USD 3.99",
+            "鳌拜的私房钱": "USD 8.99",
+            "30元礼包": "USD 3.99",
+            "60元礼包": "USD 8.99",
+            "6元礼包": "USD 0.99",
+            "30元礼包四": "USD 3.99",
+            "秦王的宝藏": "USD 24.99",
+            "168元礼包": "USD 24.99",
+            "一盒元宝": "USD 2.99",
+            "一袋元宝": "USD 0.99"
+          }
+        },
         {
           "timestamp": 1792609257403,
           "price": 0.99,
@@ -213185,7 +213212,10 @@
       "塔 鍊金術師小屋": "USD 2.99",
       "英雄 德拉坎": "USD 6.99",
       "英雄 阿什彼特": "USD 6.99",
-      "英雄 鬼侍": "USD 4.99"
+      "英雄 鬼侍": "USD 4.99",
+      "混合 禮包 12": "USD 7.99",
+      "法術變羊術促銷": "USD 1.99",
+      "法術變羊術": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 6.99,
@@ -213205,9 +213235,31 @@
       "塔 鍊金術師小屋": "USD 2.99",
       "英雄 德拉坎": "USD 6.99",
       "英雄 阿什彼特": "USD 6.99",
-      "英雄 鬼侍": "USD 4.99"
+      "英雄 鬼侍": "USD 4.99",
+      "混合 禮包 12": "USD 7.99",
+      "法術變羊術促銷": "USD 1.99",
+      "法術變羊術": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792626402303,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "英雄 鬼侍": "USD 4.99",
+            "英雄 德拉坎": "USD 6.99",
+            "英雄 阿什彼特": "USD 6.99",
+            "全塔禮包": "USD 19.99",
+            "全法術禮包": "USD 12.99",
+            "塔 鍊金術師小屋": "USD 2.99",
+            "全英雄禮包": "USD 24.99",
+            "混合 禮包 12": "USD 7.99",
+            "法術變羊術促銷": "USD 1.99",
+            "法術變羊術": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792425460361,
@@ -213513,13 +213565,25 @@
     "name": "武元一生",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "formattedPrice": "USD 2.99",
+      "後人之章": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "formattedPrice": "USD 2.99",
+      "後人之章": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792626402303,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "後人之章": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790600478680,
@@ -214373,6 +214437,27 @@
           "timestamp": 1792609257403,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6761129817": {
+    "name": "Brightroom",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792626402303,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
         }
       ]

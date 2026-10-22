@@ -1920,7 +1920,7 @@
   {
     "trackId": 407998895,
     "region": "us",
-    "timestamp": 1792609257403,
+    "timestamp": 1792626402303,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -18959,7 +18959,7 @@
   {
     "trackId": 6459581344,
     "region": "us",
-    "timestamp": 1792609257403,
+    "timestamp": 1792626402303,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "$1.99",
@@ -19236,7 +19236,7 @@
   {
     "trackId": 6469114836,
     "region": "us",
-    "timestamp": 1792569835923,
+    "timestamp": 1792626402303,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "$2.99",
@@ -24927,6 +24927,18 @@
     "firstRecordedAt": 1786949612773
   },
   {
+    "trackId": 6761129817,
+    "region": "us",
+    "timestamp": 1792626402303,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6761129817",
+    "trackName": "Brightroom",
+    "firstRecordedAt": 1792626402303
+  },
+  {
     "trackId": 6761159805,
     "region": "us",
     "timestamp": 1777713247276,
@@ -26143,7 +26155,7 @@
   {
     "trackId": 6805504523,
     "region": "us",
-    "timestamp": 1790600478680,
+    "timestamp": 1792626402303,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "$2.99",

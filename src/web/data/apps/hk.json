@@ -7726,10 +7726,10 @@
   {
     "trackId": 1055650930,
     "region": "hk",
-    "timestamp": 1791484107175,
+    "timestamp": 1792626402303,
     "discounts": [],
-    "price": 38,
-    "formattedPrice": "HK$ 38.00",
+    "price": 22,
+    "formattedPrice": "HK$ 22.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id1055650930",
     "trackName": "Codenames",
@@ -25236,6 +25236,18 @@
     "firstRecordedAt": 1786949612773
   },
   {
+    "trackId": 6761129817,
+    "region": "hk",
+    "timestamp": 1792626402303,
+    "discounts": [],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6761129817",
+    "trackName": "Brightroom",
+    "firstRecordedAt": 1792626402303
+  },
+  {
     "trackId": 6761159805,
     "region": "hk",
     "timestamp": 1790828594798,
@@ -26464,7 +26476,7 @@
   {
     "trackId": 6805504523,
     "region": "hk",
-    "timestamp": 1790600478680,
+    "timestamp": 1792626402303,
     "discounts": [],
     "price": 22,
     "formattedPrice": "HK$ 22.00",

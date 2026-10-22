@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1055650930,
+    "region": "mo",
+    "timestamp": 1792626402303,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 2.99",
+        "range": "[USD 0.99 ~ USD 4.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "USD 2.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1055650930",
+    "trackName": "Codenames",
+    "firstRecordedAt": 1745560983791
+  },
+  {
+    "trackId": 6759664029,
+    "region": "mo",
+    "timestamp": 1792626402303,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "全英雄禮包",
+        "from": "USD 29.99",
+        "to": "USD 24.99",
+        "range": "[USD 24.99 ~ USD 29.99]"
+      }
+    ],
+    "price": 6.99,
+    "formattedPrice": "USD 6.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6759664029",
+    "trackName": "Kingdom Rush 6: Genesis TD",
+    "firstRecordedAt": 1790197705213
+  },
+  {
     "trackId": 1499001662,
     "region": "mo",
     "timestamp": 1792609257403,

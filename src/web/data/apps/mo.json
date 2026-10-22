@@ -7726,10 +7726,10 @@
   {
     "trackId": 1055650930,
     "region": "mo",
-    "timestamp": 1791484107175,
+    "timestamp": 1792626402303,
     "discounts": [],
-    "price": 4.99,
-    "formattedPrice": "USD 4.99",
+    "price": 2.99,
+    "formattedPrice": "USD 2.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1055650930",
     "trackName": "Codenames",
@@ -9942,7 +9942,7 @@
   {
     "trackId": 1242654932,
     "region": "mo",
-    "timestamp": 1792609257403,
+    "timestamp": 1792626402303,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "USD 0.99",
@@ -24811,7 +24811,7 @@
   {
     "trackId": 6759664029,
     "region": "mo",
-    "timestamp": 1792425460361,
+    "timestamp": 1792626402303,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "USD 6.99",
@@ -25131,6 +25131,18 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id6761129391",
     "trackName": "No. 10: Full Confidence",
     "firstRecordedAt": 1786949612773
+  },
+  {
+    "trackId": 6761129817,
+    "region": "mo",
+    "timestamp": 1792626402303,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6761129817",
+    "trackName": "Brightroom",
+    "firstRecordedAt": 1792626402303
   },
   {
     "trackId": 6761159805,
@@ -26349,7 +26361,7 @@
   {
     "trackId": 6805504523,
     "region": "mo",
-    "timestamp": 1790600478680,
+    "timestamp": 1792626402303,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "USD 2.99",

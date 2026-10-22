@@ -107624,6 +107624,23 @@
     "history": [
       [
         {
+          "timestamp": 1792626402303,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "一堆猴幣促銷": "$90.00",
+            "10個知識點": "$290.00",
+            "全塔解鎖": "$150.00",
+            "塔XP": "$30.00",
+            "雙現金模式": "$590.00",
+            "猴幣": "$60.00",
+            "一保險庫的猴幣促銷": "$390.00",
+            "一堆猴幣": "$150.00",
+            "解鎖典範": "$150.00",
+            "知識點": "$30.00"
+          }
+        },
+        {
           "timestamp": 1792609257403,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -308111,6 +308128,15 @@
     "history": [
       [
         {
+          "timestamp": 1792626402303,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "1000 張兌換券": "$320.00",
+            "80 張兌換券": "$30.00"
+          }
+        },
+        {
           "timestamp": 1792609257403,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -321868,13 +321894,25 @@
     "region": "tw",
     "maxPriceInfo": {
       "price": 90,
-      "formattedPrice": "$90.00"
+      "formattedPrice": "$90.00",
+      "後人之章": "$90.00"
     },
     "minPriceInfo": {
       "price": 90,
-      "formattedPrice": "$90.00"
+      "formattedPrice": "$90.00",
+      "後人之章": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792626402303,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "後人之章": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790600478680,
@@ -322814,6 +322852,29 @@
           "timestamp": 1792609257403,
           "price": 120,
           "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6761129817": {
+    "trackId": 6761129817,
+    "trackName": "Brightroom",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792626402303,
+          "price": 30,
+          "formattedPrice": "$30.00",
           "inAppPurchases": {}
         }
       ]

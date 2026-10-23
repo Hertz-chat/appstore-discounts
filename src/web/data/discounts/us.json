@@ -1,23 +1,23 @@
 [
   {
-    "trackId": 924438909,
+    "trackId": 6471594918,
     "region": "us",
-    "timestamp": 1792763643625,
+    "timestamp": 1792781222157,
     "discounts": [
       {
-        "type": "inAppPurchase",
-        "name": "Donation",
+        "type": "price",
+        "name": "Price",
         "from": "$4.99",
         "to": "$0.99",
-        "range": "[$0.99 ~ $4.99]"
+        "range": "[Free ~ $7.99]"
       }
     ],
-    "price": 7.99,
-    "formattedPrice": "$7.99",
+    "price": 0.99,
+    "formattedPrice": "$0.99",
     "currency": "USD",
-    "trackViewUrl": "https://apps.apple.com/us/app/id924438909",
-    "trackName": "ProShot",
-    "firstRecordedAt": 1777050395660
+    "trackViewUrl": "https://apps.apple.com/us/app/id6471594918",
+    "trackName": "Just a Simple Image Converter",
+    "firstRecordedAt": 1745328692670
   },
   {
     "trackId": 6754453691,

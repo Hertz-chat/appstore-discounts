@@ -6294,7 +6294,7 @@
   {
     "trackId": 924438909,
     "region": "us",
-    "timestamp": 1792763643625,
+    "timestamp": 1792781222157,
     "discounts": [],
     "price": 7.99,
     "formattedPrice": "$7.99",
@@ -7809,7 +7809,7 @@
   {
     "trackId": 1050535507,
     "region": "us",
-    "timestamp": 1792656146968,
+    "timestamp": 1792781222157,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "$1.99",
@@ -13796,7 +13796,7 @@
   {
     "trackId": 1499001662,
     "region": "us",
-    "timestamp": 1792763643625,
+    "timestamp": 1792781222157,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -19380,10 +19380,10 @@
   {
     "trackId": 6471594918,
     "region": "us",
-    "timestamp": 1792191938096,
+    "timestamp": 1792781222157,
     "discounts": [],
-    "price": 4.99,
-    "formattedPrice": "$4.99",
+    "price": 0.99,
+    "formattedPrice": "$0.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6471594918",
     "trackName": "Just a Simple Image Converter",
@@ -24629,7 +24629,7 @@
   {
     "trackId": 6759664029,
     "region": "us",
-    "timestamp": 1792446504330,
+    "timestamp": 1792781222157,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "$6.99",
@@ -25321,6 +25321,18 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id6766948602",
     "trackName": "Lighting Gel Combiner",
     "firstRecordedAt": 1783962732921
+  },
+  {
+    "trackId": 6767158612,
+    "region": "us",
+    "timestamp": 1792781222157,
+    "discounts": [],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6767158612",
+    "trackName": "Matplotlib Tutorial Guide",
+    "firstRecordedAt": 1792781222157
   },
   {
     "trackId": 6767624690,
@@ -26179,7 +26191,7 @@
   {
     "trackId": 6801980968,
     "region": "us",
-    "timestamp": 1792191938096,
+    "timestamp": 1792781222157,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "$1.99",

@@ -30147,6 +30147,25 @@
     "history": [
       [
         {
+          "timestamp": 1792781222157,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "「日本香港組合包」": "USD 0.99",
+            "大富翁4 Fun 美國地圖": "USD 0.99",
+            "大富翁 4 fun 仙劍仙靈島組合包": "USD 0.99",
+            "大富翁 4 fun 軒轅劍太山組合包": "USD 0.99",
+            "大富翁 4 fun 韓國地圖組合包": "USD 0.99",
+            "大富翁 4 fun 樂園組合包": "USD 0.99",
+            "仙五地圖包": "USD 0.99",
+            "大富翁 4 FUN  巴黎倫敦組合包": "USD 0.99",
+            "大富翁4 Fun夏日組合包": "USD 0.99",
+            "大富翁 4 fun 水上世界組合包": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792763643625,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -183091,6 +183110,14 @@
     "history": [
       [
         {
+          "timestamp": 1792781222157,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792191938096,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -215070,6 +215097,27 @@
       [
         {
           "timestamp": 1792763643625,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6767158612": {
+    "name": "Matplotlib教程大全-Python数据可视化编程工具",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792781222157,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
           "inAppPurchases": {}

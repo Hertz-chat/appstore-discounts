@@ -19527,10 +19527,10 @@
   {
     "trackId": 6471594918,
     "region": "hk",
-    "timestamp": 1792191938096,
+    "timestamp": 1792781222157,
     "discounts": [],
-    "price": 38,
-    "formattedPrice": "HK$ 38.00",
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id6471594918",
     "trackName": "Just a Simple Image Converter",
@@ -24938,7 +24938,7 @@
   {
     "trackId": 6759664029,
     "region": "hk",
-    "timestamp": 1792609257403,
+    "timestamp": 1792781222157,
     "discounts": [],
     "price": 58,
     "formattedPrice": "HK$ 58.00",
@@ -25642,6 +25642,18 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id6766948602",
     "trackName": "Lighting Gel Combiner",
     "firstRecordedAt": 1783962732921
+  },
+  {
+    "trackId": 6767158612,
+    "region": "hk",
+    "timestamp": 1792781222157,
+    "discounts": [],
+    "price": 18,
+    "formattedPrice": "HK$ 18.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6767158612",
+    "trackName": "Matplotlib教程大全-Python数据可视化编程工具",
+    "firstRecordedAt": 1792781222157
   },
   {
     "trackId": 6767624690,

@@ -9279,6 +9279,23 @@
     "history": [
       [
         {
+          "timestamp": 1792781222157,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Shooting Stars - Bubble Bust World 2": "0,99 €",
+            "Struck by Lightning - Bubble Bust World 3": "1,99 €",
+            "World 2 - Level Pack 2": "0,99 €",
+            "Pack of 30 Fireballs": "1,99 €",
+            "Pack of 5 Bumpers": "0,99 €",
+            "Pack of 10 Fireballs": "0,99 €",
+            "World 3 - Level Pack 2": "0,99 €",
+            "Pack of 15 Bumpers": "1,99 €",
+            "Pack of 500 Tokens": "0,99 €",
+            "MEGA Bubble Popper Pack": "8,99 €"
+          }
+        },
+        {
           "timestamp": 1792763643625,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -23859,6 +23876,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792781222157,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Sandbox Unlock All Parts": "8,99 €",
+            "Sandbox Unlock Standard Parts": "8,99 €",
+            "Mission 16 Gold": "1,99 €",
+            "Nooleus X Parts Pack": "3,99 €",
+            "Transponder Module": "0,99 €",
+            "Mission 12 Skip": "0,99 €",
+            "Mission Free Unlock-All": "5,99 €",
+            "1000 Quick Launches": "3,99 €",
+            "Mission 15 Gold": "1,99 €",
+            "Mission 15 Skip": "0,99 €"
+          }
+        },
         {
           "timestamp": 1792763643625,
           "price": 1.99,
@@ -92441,6 +92475,23 @@
     "history": [
       [
         {
+          "timestamp": 1792781222157,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Vaul of the Void Promo Pack": "0,00 €",
+            "Dawncaster Origins Bundle": "5,99 €",
+            "Siege of Shadows": "5,99 €",
+            "Dawncaster Mega Bundle": "14,99 €",
+            "Infernal Invasions": "6,99 €",
+            "Masks of Misery": "5,99 €",
+            "Tribes of Twilight": "5,99 €",
+            "Death of Divinity": "5,99 €",
+            "Nexus of Nightmares": "6,99 €",
+            "Synthesis Support Pack": "4,99 €"
+          }
+        },
+        {
           "timestamp": 1792763643625,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -130687,6 +130738,14 @@
     "history": [
       [
         {
+          "timestamp": 1792781222157,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792191938096,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -148167,7 +148226,11 @@
       "Hero · Irena von Strahl": "0,99 €",
       "Hero · Rosel Ironbloom": "0,99 €",
       "Hero · Sargul Krach": "0,99 €",
-      "Hero · Fine Kaltenbach": "0,99 €"
+      "Hero · Fine Kaltenbach": "0,99 €",
+      "Fantasia · Pacote Halloween 3": "2,99 €",
+      "Fantasia · Pacote Halloween 2": "2,99 €",
+      "Fantasia · Pacote Halloween 1": "2,99 €",
+      "Herói · Elowyn Briar": "0,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -148181,9 +148244,32 @@
       "Hero · Irena von Strahl": "0,99 €",
       "Hero · Rosel Ironbloom": "0,99 €",
       "Hero · Sargul Krach": "0,99 €",
-      "Hero · Fine Kaltenbach": "0,99 €"
+      "Hero · Fine Kaltenbach": "0,99 €",
+      "Fantasia · Pacote Halloween 3": "2,99 €",
+      "Fantasia · Pacote Halloween 2": "2,99 €",
+      "Fantasia · Pacote Halloween 1": "2,99 €",
+      "Herói · Elowyn Briar": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792781222157,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Fantasia · Pacote Halloween 3": "2,99 €",
+            "Fantasia · Pacote Halloween 2": "2,99 €",
+            "Fantasia · Pacote Halloween 1": "2,99 €",
+            "Herói · Elowyn Briar": "0,99 €",
+            "Hero · Rosel Ironbloom": "0,99 €",
+            "Hero · Sargul Krach": "0,99 €",
+            "Hero · Fine Kaltenbach": "0,99 €",
+            "Hero · Irena von Strahl": "0,99 €",
+            "Support Tier 1 · Supporter": "0,49 €",
+            "Hero · Aldric Halvren": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792191938096,
@@ -149732,6 +149818,27 @@
       [
         {
           "timestamp": 1792763643625,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6767158612": {
+    "name": "Matplotlib教程大全-Python数据可视化编程工具",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792781222157,
           "price": 1.99,
           "formattedPrice": "1,99 €",
           "inAppPurchases": {}

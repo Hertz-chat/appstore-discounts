@@ -2,6 +2,13 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6767158612,
+      "name": {
+        "mo": "Matplotlib教程大全-Python数据可视化编程工具"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 583700229,
       "name": {
         "mo": "Reorder Contacts - Reorder It!"

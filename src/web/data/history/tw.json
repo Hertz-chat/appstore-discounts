@@ -116086,6 +116086,25 @@
     "history": [
       [
         {
+          "timestamp": 1792781222157,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "一筆鑽石": "$150.00",
+            "1代套裝(3星)": "$60.00",
+            "僱傭超能少年": "$60.00",
+            "促銷禮包3": "$290.00",
+            "一小袋鑽石": "$320.00",
+            "雙倍獎勵": "$60.00",
+            "100鑽石": "$30.00",
+            "雙倍背包": "$60.00",
+            "促銷禮包2": "$150.00",
+            "一大袋鑽石": "$690.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792763643625,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -169362,7 +169381,8 @@
       "LegendaryPackage": "$690.00",
       "Cosmetic Starlight": "$150.00",
       "Cosmetic Crystal": "$150.00",
-      "Demon Pass": "$320.00"
+      "Demon Pass": "$320.00",
+      "Legendary Wings Pack 2": "$150.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -169407,9 +169427,29 @@
       "LegendaryPackage": "$690.00",
       "Cosmetic Starlight": "$150.00",
       "Cosmetic Crystal": "$150.00",
-      "Demon Pass": "$320.00"
+      "Demon Pass": "$320.00",
+      "Legendary Wings Pack 2": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792781222157,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Flash Sale Star Rune 1": "$90.00",
+            "First Purchase: Legendary Pack": "$320.00",
+            "Legendary Wings Pack 2": "$150.00",
+            "Flash Sale Ore Rune 1": "$90.00",
+            "Flash Sale Ore Rune 2": "$60.00",
+            "Flash Sale Crystal 2": "$90.00",
+            "Demon Pass": "$320.00",
+            "Flash Sale Star Rune 2": "$60.00",
+            "Piggy Bank": "$90.00",
+            "Double Exp Package 1": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792712656381,
@@ -219021,6 +219061,25 @@
       "Special Daily Pack13": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792781222157,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "All Unit Groups": "$390.00",
+            "All Heroes": "$490.00",
+            "Hero Dragon Kosmos": "$220.00",
+            "Starter Pack": "$150.00",
+            "Special Daily Pack20": "$90.00",
+            "Unit Group Jaegers": "$220.00",
+            "Special Daily Pack7": "$60.00",
+            "Hero Red Dragon On Sale": "$120.00",
+            "Unit Group Rebooted Ascendii": "$90.00",
+            "Hero Red Dragon": "$190.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790711274462,
@@ -272307,6 +272366,14 @@
     "history": [
       [
         {
+          "timestamp": 1792781222157,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792191938096,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -273949,6 +274016,25 @@
       "Airbus A321 XLR": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792781222157,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Boeing 777-300ER": "$60.00",
+            "Boeing 787-10": "$60.00",
+            "Global scenery - 12 months": "$690.00",
+            "Airbus A350-1000": "$120.00",
+            "The Aircraft Bundle": "$790.00",
+            "UH-60": "$30.00",
+            "Airbus A380": "$60.00",
+            "Boeing 737 MAX 9": "$60.00",
+            "Concorde": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792548990213,
@@ -323704,6 +323790,29 @@
       [
         {
           "timestamp": 1792763643625,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6767158612": {
+    "trackId": 6767158612,
+    "trackName": "Matplotlib教程大全-Python数据可视化编程工具",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792781222157,
           "price": 60,
           "formattedPrice": "$60.00",
           "inAppPurchases": {}

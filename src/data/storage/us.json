@@ -86796,6 +86796,14 @@
     "history": [
       [
         {
+          "timestamp": 1792781222157,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {
+            "Donation": "$4.99"
+          }
+        },
+        {
           "timestamp": 1792763643625,
           "price": 7.99,
           "formattedPrice": "$7.99",
@@ -103224,6 +103232,25 @@
       "Challenge Pass \"Virtual Campus\"": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792781222157,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Side Story Chapter 1": "$3.99",
+            "Side Story Chapter 2": "$3.99",
+            "Expansion Chapter B": "$3.99",
+            "Expansion Chapter C": "$3.99",
+            "Expansion Chapter D": "$3.99",
+            "Expansion Chapter E": "$3.99",
+            "Expansion Chapter F": "$3.99",
+            "Expansion Chapter G": "$3.99",
+            "Expansion Chapter H": "$3.99",
+            "Expansion Chapter I": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792656146968,
@@ -201932,6 +201959,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792781222157,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Tamer Kit": "$0.99",
+            "Master Package": "$19.99",
+            "Prime Gemma 2500": "$19.99",
+            "Prime Gemma 1200": "$9.99",
+            "Starter Package": "$4.99",
+            "Prime Gemma 500": "$4.99",
+            "Hunter Package": "$9.99",
+            "Evoker Kit": "$0.99",
+            "Prime gemma 100": "$0.99",
+            "Evoker Package": "$9.99"
+          }
+        },
         {
           "timestamp": 1792763643625,
           "price": 0.99,
@@ -300984,6 +301028,14 @@
     "history": [
       [
         {
+          "timestamp": 1792781222157,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792191938096,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -357060,7 +357112,11 @@
       "Hero · Irena von Strahl": "$0.99",
       "Hero · Rosel Ironbloom": "$0.99",
       "Hero · Sargul Krach": "$0.99",
-      "Hero · Fine Kaltenbach": "$0.99"
+      "Hero · Fine Kaltenbach": "$0.99",
+      "Costume · Halloween Set 3": "$2.99",
+      "Costume · Halloween Set 2": "$2.99",
+      "Costume · Halloween Set 1": "$2.99",
+      "Hero · Elowyn Briar": "$0.99"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -357074,9 +357130,32 @@
       "Hero · Irena von Strahl": "$0.99",
       "Hero · Rosel Ironbloom": "$0.99",
       "Hero · Sargul Krach": "$0.99",
-      "Hero · Fine Kaltenbach": "$0.99"
+      "Hero · Fine Kaltenbach": "$0.99",
+      "Costume · Halloween Set 3": "$2.99",
+      "Costume · Halloween Set 2": "$2.99",
+      "Costume · Halloween Set 1": "$2.99",
+      "Hero · Elowyn Briar": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792781222157,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Costume · Halloween Set 3": "$2.99",
+            "Costume · Halloween Set 2": "$2.99",
+            "Costume · Halloween Set 1": "$2.99",
+            "Hero · Elowyn Briar": "$0.99",
+            "Hero · Rosel Ironbloom": "$0.99",
+            "Hero · Sargul Krach": "$0.99",
+            "Hero · Fine Kaltenbach": "$0.99",
+            "Hero · Irena von Strahl": "$0.99",
+            "Support Tier 1 · Supporter": "$0.49",
+            "Hero · Aldric Halvren": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792191938096,
@@ -357188,6 +357267,25 @@
       "Gems Pouch": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792781222157,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Tower Sniper": "$5.99",
+            "Tower Alchemist": "$2.99",
+            "Tower Wildcat": "$4.99",
+            "Gems Pouch": "$4.99",
+            "Hero Oni": "$4.99",
+            "Hero Ignus": "$2.99",
+            "Spell Aspect of Sol": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792446504330,
@@ -358738,6 +358836,27 @@
       [
         {
           "timestamp": 1792763643625,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6767158612": {
+    "name": "Matplotlib Tutorial Guide",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792781222157,
           "price": 1.99,
           "formattedPrice": "$1.99",
           "inAppPurchases": {}

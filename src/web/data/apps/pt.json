@@ -12557,10 +12557,10 @@
   {
     "trackId": 1492049794,
     "region": "pt",
-    "timestamp": 1791568819448,
+    "timestamp": 1792721789601,
     "discounts": [],
-    "price": 0,
-    "formattedPrice": "Gratuito",
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1492049794",
     "trackName": "宗师-武林风云传",
@@ -18902,10 +18902,10 @@
   {
     "trackId": 6501973975,
     "region": "pt",
-    "timestamp": 1765514320840,
+    "timestamp": 1792721789601,
     "discounts": [],
-    "price": 3.99,
-    "formattedPrice": "3,99 €",
+    "price": 0,
+    "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6501973975",
     "trackName": "Off Day",
@@ -23943,6 +23943,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id6783321513",
     "trackName": "Forensic Examiner",
     "firstRecordedAt": 1783087390633
+  },
+  {
+    "trackId": 6783860401,
+    "region": "pt",
+    "timestamp": 1792721789601,
+    "discounts": [],
+    "price": 5.99,
+    "formattedPrice": "5,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6783860401",
+    "trackName": "LeftPhoneAlert",
+    "firstRecordedAt": 1792721789601
   },
   {
     "trackId": 6783872393,

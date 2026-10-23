@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2026-10-23T01:20:10.550Z</updated>
+    <updated>2026-10-23T03:56:24.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-23T01:20:10.550Z</updated>
+        <updated>2026-10-23T03:56:24.170Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptFri, 23 Oct 2026 01:20:10 GMT</id>
+        <id>rankingptFri, 23 Oct 2026 03:56:24 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-23T01:20:10.550Z</updated>
+        <updated>2026-10-23T03:56:24.170Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -68,13 +68,13 @@ feedId:206907475259680768+userId:73658201673997312
         <b>PT</b>
       </td>
       <td>
-        <b>2053</b>
+        <b>2054</b>
       </td>
       <td>
         <b>147</b>
       </td>
       <td>
-        <b>1906</b>
+        <b>1907</b>
       </td>
       <td>
         <b>33</b>
@@ -1870,6 +1870,23 @@ feedId:206907475259680768+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>99</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/6501973975?lang=en">Off Day</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -2179,6 +2196,38 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Off Day]]></title>
+        <id>Off Day-pt-1792721789601</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/6501973975?lang=en"/>
+        <updated>2026-10-23T02:16:29.601Z</updated>
+        <summary type="html"><![CDATA[Price: 3,99 € → Gratuito]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6501973975?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/d2/8b/59d28bb2-b747-f538-7957-d10c71432cc5/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>3,99 €</span> → <b>
+  <strong>Gratuito</strong>
+</b><span>[Gratuito ~ 3,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Gratuito</b>
+</p><h2>Application Description</h2><p>
+  Off Day is an open-source project. Anyone can compile it themselves, or consider purchasing this app directly to support this project.
+
+Off Day is a holiday alarm clock app that comes with a variety of built-in holiday templates, featuring holiday information from China, Japan, Singapore, Thailand, Korea, and the United States.
+
+Simply follow the steps and utilize system shortcuts for automation, and never worry about being woken up by your alarm on a day off again.
+
+In addition to the built-in holiday information, users can manually mark their holiday work schedules.
+
+Whether a day is an Off Day or a Work Day, the final decision is entirely up to you.
+
+(Paid app – Ensure this holiday alarm (works with Shortcuts) fits your needs before purchase.)
+
+-----------
+
+EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/71/a1/3971a18c-2b61-9587-5708-e621af9a5a54/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-09-17_at_23.55.40.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/19/3b/27193bdd-8873-9ac8-7126-988d88b90ff9/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-09-17_at_23.55.55.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/9c/e6/5f9ce6e0-82c3-f0b6-7677-38f44e95acf4/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-09-17_at_23.55.50.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/c7/be/3bc7be77-7c3b-e595-721f-30ed81680474/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-09-17_at_23.56.00.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/ac/79/ceac7976-eedd-5c10-9ed2-0aaa502bfad8/ebaf960c-547e-41f6-8f10-6f4982d71777_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-06_at_11.57.48.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/af/d9/eeafd95b-1283-80aa-060d-8bfeafac1e32/e1b8ac45-d33a-4077-aa39-8fdf2852f522_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-06_at_11.57.53.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/6e/e3/a36ee33d-a300-5202-acc9-c64c4ee41295/ee6cc7b3-e133-4865-9864-aaac2a1aafba_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-06_at_11.57.57.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/47/0a/c7470a49-eb96-811c-87a1-c147aa392d3d/4a9cbce0-ae86-4157-baba-cd534ec1dfad_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-06_at_11.58.01.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/2f/6d/832f6dbb-b7ad-6ab6-f21c-c7bac0f1fb92/d41dacf6-068d-4469-9591-bdc9cc17192c_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-06_at_11.58.05.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dungeon Tracer]]></title>

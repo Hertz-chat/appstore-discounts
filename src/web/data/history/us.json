@@ -239589,6 +239589,14 @@
     "history": [
       [
         {
+          "timestamp": 1792721789601,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792308581189,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -240627,6 +240635,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792721789601,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792462971499,
@@ -328499,10 +328515,18 @@
       "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
-      "price": 2.49,
-      "formattedPrice": "$2.49"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792721789601,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1765514320840,
@@ -352105,6 +352129,16 @@
     "history": [
       [
         {
+          "timestamp": 1792721789601,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "All Classes Unlocked": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -355953,6 +355987,18 @@
       "200'000 Coins": "$1.19"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792721789601,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {
+            "1'000'000 Coins": "$3.49",
+            "200'000 Coins": "$1.19",
+            "500'000 Coins": "$2.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792050467334,

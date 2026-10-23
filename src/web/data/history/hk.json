@@ -281852,10 +281852,18 @@
       "formattedPrice": "HK$ 32.00"
     },
     "minPriceInfo": {
-      "price": 19,
-      "formattedPrice": "HK$ 19.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792721789601,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1765514320840,

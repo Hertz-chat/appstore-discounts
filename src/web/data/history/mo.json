@@ -185024,6 +185024,19 @@
     "history": [
       [
         {
+          "timestamp": 1792721789601,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Welcome Offer": "USD 29.99",
+            "Ultimate Bundle": "USD 64.99",
+            "New York Map": "USD 9.99",
+            "France Map": "USD 9.99",
+            "Nederlands Map": "USD 9.99",
+            "Iberia Map": "USD 9.99"
+          }
+        },
+        {
           "timestamp": 1792712656381,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -195058,10 +195071,18 @@
       "formattedPrice": "USD 3.99"
     },
     "minPriceInfo": {
-      "price": 2.49,
-      "formattedPrice": "USD 2.49"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792721789601,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1765514320840,

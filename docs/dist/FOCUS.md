@@ -28,7 +28,7 @@ So far, we've covered `7` `Countries or Regions` and  `2363` `Apps` <br />Push n
 |2345|6459057077|Automatic|德语 Pro: 词典 & 考试|德語 Pro: 詞典 & 考試|德語 Pro: 詞典 & 考試|德語 Pro: 詞典 & 考試|German Pro: dictionary & exams|German Pro: dictionary & exams|Alemão Pro: dicionário exames|
 |2344|6780263761|Automatic|❌|Pocket Rumble 〜 軍團即時戰鬥|Pocket Rumble 〜 軍團即時戰鬥|Pocket Rumble 〜 軍團即時戰鬥|Pocket Rumble: Army Raid RPG|❌|❌|
 |2343|1504000687|Automatic|❌|雙人遊戲 2 Player Offline Games|雙人遊戲 2 Player Offline Games|雙人遊戲 2 Player Offline Games|2 Players 1 Device: Tabletop|2 Players 1 Device: Tabletop|2 Players 1 Device: Tabletop|
-|2342|6783860401|Automatic|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|❌|
+|2342|6783860401|Automatic|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|
 |2341|6807273352|Automatic|J Plan - Daily Planner|J Plan - Daily Planner|J Plan - Daily Planner|J Plan - Daily Planner|J Plan - Daily Planner|J Plan - Daily Planner|❌|
 |2340|528194758|Automatic|❌|Rushing Alice|Rushing Alice|Rushing Alice|Rushing Alice|Rushing Alice|Rushing Alice|
 |2339|1005098334|Automatic|❌|Human Resource Machine|Human Resource Machine|Human Resource Machine|Human Resource Machine|Human Resource Machine|Human Resource Machine|

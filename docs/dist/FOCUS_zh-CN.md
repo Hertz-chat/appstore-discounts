@@ -28,7 +28,7 @@
 |2345|6459057077|自动|德语 Pro: 词典 & 考试|德語 Pro: 詞典 & 考試|德語 Pro: 詞典 & 考試|德語 Pro: 詞典 & 考試|German Pro: dictionary & exams|German Pro: dictionary & exams|Alemão Pro: dicionário exames|
 |2344|6780263761|自动|❌|Pocket Rumble 〜 軍團即時戰鬥|Pocket Rumble 〜 軍團即時戰鬥|Pocket Rumble 〜 軍團即時戰鬥|Pocket Rumble: Army Raid RPG|❌|❌|
 |2343|1504000687|自动|❌|雙人遊戲 2 Player Offline Games|雙人遊戲 2 Player Offline Games|雙人遊戲 2 Player Offline Games|2 Players 1 Device: Tabletop|2 Players 1 Device: Tabletop|2 Players 1 Device: Tabletop|
-|2342|6783860401|自动|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|❌|
+|2342|6783860401|自动|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|LeftPhoneAlert|
 |2341|6807273352|自动|J Plan - Daily Planner|J Plan - Daily Planner|J Plan - Daily Planner|J Plan - Daily Planner|J Plan - Daily Planner|J Plan - Daily Planner|❌|
 |2340|528194758|自动|❌|Rushing Alice|Rushing Alice|Rushing Alice|Rushing Alice|Rushing Alice|Rushing Alice|
 |2339|1005098334|自动|❌|Human Resource Machine|Human Resource Machine|Human Resource Machine|Human Resource Machine|Human Resource Machine|Human Resource Machine|

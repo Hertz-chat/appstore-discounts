@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2026-10-23T01:20:10.516Z</updated>
+    <updated>2026-10-23T03:56:24.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-23T01:20:10.517Z</updated>
+        <updated>2026-10-23T03:56:24.140Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrFri, 23 Oct 2026 01:20:10 GMT</id>
+        <id>rankingtrFri, 23 Oct 2026 03:56:24 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-23T01:20:10.518Z</updated>
+        <updated>2026-10-23T03:56:24.140Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -1856,6 +1856,23 @@ feedId:157008924688563200+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>99</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/tr/6501973975?lang=en">Off Day</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -2687,6 +2704,38 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Off Day]]></title>
+        <id>Off Day-tr-1792721789601</id>
+        <link href="https://appstore-discounts.eyelly.me/tr/6501973975?lang=en"/>
+        <updated>2026-10-23T02:16:29.601Z</updated>
+        <summary type="html"><![CDATA[Price: ₺199,99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/6501973975?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/d2/8b/59d28bb2-b747-f538-7957-d10c71432cc5/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺199,99</span> → <b>
+  <strong>Free</strong>
+</b><span>[Free ~ ₺199,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h2>Application Description</h2><p>
+  Off Day is an open-source project. Anyone can compile it themselves, or consider purchasing this app directly to support this project.
+
+Off Day is a holiday alarm clock app that comes with a variety of built-in holiday templates, featuring holiday information from China, Japan, Singapore, Thailand, Korea, and the United States.
+
+Simply follow the steps and utilize system shortcuts for automation, and never worry about being woken up by your alarm on a day off again.
+
+In addition to the built-in holiday information, users can manually mark their holiday work schedules.
+
+Whether a day is an Off Day or a Work Day, the final decision is entirely up to you.
+
+(Paid app – Ensure this holiday alarm (works with Shortcuts) fits your needs before purchase.)
+
+-----------
+
+EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/71/a1/3971a18c-2b61-9587-5708-e621af9a5a54/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-09-17_at_23.55.40.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/19/3b/27193bdd-8873-9ac8-7126-988d88b90ff9/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-09-17_at_23.55.55.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/9c/e6/5f9ce6e0-82c3-f0b6-7677-38f44e95acf4/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-09-17_at_23.55.50.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/c7/be/3bc7be77-7c3b-e595-721f-30ed81680474/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-09-17_at_23.56.00.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/ac/79/ceac7976-eedd-5c10-9ed2-0aaa502bfad8/ebaf960c-547e-41f6-8f10-6f4982d71777_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-06_at_11.57.48.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/af/d9/eeafd95b-1283-80aa-060d-8bfeafac1e32/e1b8ac45-d33a-4077-aa39-8fdf2852f522_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-06_at_11.57.53.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/6e/e3/a36ee33d-a300-5202-acc9-c64c4ee41295/ee6cc7b3-e133-4865-9864-aaac2a1aafba_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-06_at_11.57.57.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/47/0a/c7470a49-eb96-811c-87a1-c147aa392d3d/4a9cbce0-ae86-4157-baba-cd534ec1dfad_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-06_at_11.58.01.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/2f/6d/832f6dbb-b7ad-6ab6-f21c-c7bac0f1fb92/d41dacf6-068d-4469-9591-bdc9cc17192c_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-06_at_11.58.05.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kokoreççi]]></title>
@@ -3823,85 +3872,5 @@ Each day as a border inspector brings new challenges that will push your customs
 
 Download Black Border 2 today and get ready to defend the nation!
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/65/70/a265708b-3467-dcbd-1bde-ce88f9cf8f71/8a11fa2e-2c5d-4ffd-9dd2-e198d069c565_bribe.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/f7/58/a5f758fe-3619-f8e6-9b5c-dec351437413/557e5cf9-c9d3-4c98-af27-90da82315f0b_all_docs.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/19/fb/4719fb02-706e-0a53-d642-593b7328d6fb/4ebd63a4-0b06-413b-b995-893907286632_trucks_queue.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/87/0e/7e870ec6-712a-61a0-a877-0836a1ba9d1c/af16d2ec-2462-40d3-b147-31b5e88457e1_tower.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/5c/5e/6e5c5e5f-dccd-4214-c0c2-5aea4885ba83/692e61a2-9f46-478b-8a0a-ed17d03a467c_X-RAY-ios1.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/39/54/36395401-69fc-4968-81ea-c82c216d78bc/a1915147-3b3f-410f-9569-25a5dd7bbaee_bribe.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/79/6f/90796f9a-d425-cabd-fa86-492f7caefc27/b378a307-9729-4867-8695-1c9d3806c641_all_docs.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/15/eb/1915eb9e-cdac-cd52-a266-dc2786c43bc2/c8df3a54-794d-4776-a0c9-38526d39e347_trucks_queue.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/cb/ea/bbcbea0e-47c3-3f75-aeb6-f9bd45304c10/8f99f15a-c380-4b2d-9c5e-0d2169051445_tower.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/25/77/f02577c8-6634-519c-00ba-549642335c66/54d76749-0d97-42d0-a806-7281aa6691fd_X-RAY-ios1.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Aint Even Poker, Ya Joker]]></title>
-        <id>This Aint Even Poker, Ya Joker-tr-1792462971499</id>
-        <link href="https://appstore-discounts.eyelly.me/tr/6757846100?lang=en"/>
-        <updated>2026-10-20T02:22:51.499Z</updated>
-        <summary type="html"><![CDATA[Price: ₺129,90 → ₺90,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/6757846100?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/bd/e8/ffbde8d7-46bf-9301-1afd-39b241076416/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺129,90</span> → <b>
-  <strong>₺90,99</strong>
-</b><span>[₺90,99 ~ ₺129,90]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>₺90,99</b>
-</p><h2>Application Description</h2><p>
-  Welcome to This Ain’t Even Poker, Ya Joker - a unique incremental idle clicker where you flip cards to earn money, grow your hand, buy new decks, unlock powerful upgrades, discover new cards, and more. Can you defeat the Jester and escape the carnival?
-Steam: Very Positive, 89%
-
-GROW YOUR HAND
-Buy new cards to increase your odds of hitting good hands. If you're rich enough, you can even break the rules and get over 5 cards.
-
-ESTABLISH DOMINANCE
-Even though the Jester doesn't like it, you can buy new decks of cards in order to play more hands at once. Use this to your advantage to grow those numbers even faster!
-
-GET UPGRADED
-Buy powerful upgrades using your hard earned coins, enabling you to progress quicker, open up new avenues, and take on the evil Jester!
-
-GO ON EXPEDITIONS
-Once unlocked, you can send your minions on expeditions to discover new otherworldy cards with powerful benefits. Upgrade these missions to provide even more powerful benefits as you progress. You can even unlock missions to destroy cards from your deck that you don't want, to ensure every hand is exactly how you want it.
-
-ASCEND TO GREATNESS
-Make a deal with the Jester to start over in exchange for Poker Chips (poker chips? But this ain't even poker...?), use those chips to buy even more powerful upgrades.
-
-ESCAPE THE HOUSE OF CARDS
-You're trapped in the Jester's domain, can you manage to defeat him and escape? Or will he keep you there, trapped forever in an endless cycle?
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/ad/21/4ead2129-2f3c-26ac-989c-cdd6f0c0faf3/iPhone_6-9_01.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/68/5f/b2685f74-f8be-97a0-5bd7-04b49c48025e/iPhone_6-9_02.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/02/7a/99027a2b-7506-2d1f-33d5-708121d2bedc/iPhone_6-9_03.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/46/c6/4a46c6ac-b72e-cdae-c186-90124ef1338d/iPhone_6-9_04.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/96/d3/4996d3aa-ef0e-5480-bd28-2f45861330ca/iPhone_6-9_05.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/e4/bd/fae4bda5-7a56-68cc-a35c-fc09b2432851/iPhone_6-9_06.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/45/97/19459748-f410-e877-ff2c-f098823b5405/ENG_-_iPad_13_01.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/6e/33/1d6e3399-cde1-39a5-6cb7-49bb903bed2f/ENG_-_iPad_13_02.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/b4/cb/06b4cbe3-3440-b6b4-9ace-5cb0c16e252d/ENG_-_iPad_13_03.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/7a/5e/fc7a5eec-0743-2830-6f34-eeaafc77d131/ENG_-_iPad_13_04.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/b0/4b/9eb04b3b-cb22-8e4c-107f-8babf8f33bcb/ENG_-_iPad_13_05.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/a1/2a/52a12af2-c505-2129-a5fb-079f93497148/ENG_-_iPad_13_06.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IFR Trainer]]></title>
-        <id>IFR Trainer-tr-1792462971499</id>
-        <link href="https://appstore-discounts.eyelly.me/tr/1551480486?lang=en"/>
-        <updated>2026-10-20T02:22:51.499Z</updated>
-        <summary type="html"><![CDATA[Price: ₺99,99 → ₺49,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/1551480486?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/40/b5/ad40b5df-d80e-b7e7-0186-72a70587db47/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺99,99</span> → <b>
-  <strong>₺49,99</strong>
-</b><span>[₺49,99 ~ ₺99,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>₺49,99</b>
-</p><h2>Application Description</h2><p>
-  Turn your iPad or iPhone into a powerful IFR training tool!
-
-The IFR Trainer is a simple yet effective tool designed to enhance your instrument flight training. Practice course and radial tracking on your device, saving valuable time during your actual flight training.
-
-The IFR Trainer features an Electronic Horizontal Situation Indicator (EHSI) with a DME reading and two bearing pointers. Use the EHSI to intercept VOR radials or track NDB bearings. Alternatively, switch to a landscape dual-gauge mode, displaying both an HSI and a single-needle ADF Indicator with a manually adjustable compass card.
-
-For optimal performance, we recommend using the dark appearance mode, which complies with EASA AMC 25-11. The light appearance mode is ideal for classroom presentations.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/b3/f8/d2b3f86a-a14a-f336-7482-b0f952758474/3858d2bc-d746-4588-a360-775d3ebf19c2_IFR-Trainer-iPhone_8_Plus-1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/e3/72/81e37297-bb4e-ffe5-da7d-a5a2b2c505c3/1fed7d81-2bc4-473b-b033-f23dad5cf1fe_IFR-Trainer-iPhone_8_Plus-2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/0e/b8/700eb8b2-98b5-7b05-580b-677b7fd3ad39/39c529e0-639f-4fff-b7db-a88e407e79ea_IFR-Trainer-iPhone_8_Plus-3.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/a8/00/d0a800db-5666-273e-8623-809ea74dad27/b318d4e3-03f7-4b47-8941-c0a5b6763fc4_IFR-Trainer-iPad.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All In One Memo]]></title>
-        <id>All In One Memo-tr-1792462971499</id>
-        <link href="https://appstore-discounts.eyelly.me/tr/1587301632?lang=en"/>
-        <updated>2026-10-20T02:22:51.499Z</updated>
-        <summary type="html"><![CDATA[Price: ₺199,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/1587301632?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/89/59/96/8959968b-9509-d517-6970-bf90d931691e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺199,99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ ₺199,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h2>Application Description</h2><p>
-  Keep the words, pictures, videos, voice and positions you want to record at any time and anywhere.
-And there are reminders that you can never forget.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/21/d9/b7/21d9b748-5450-6c9a-126d-c89003a8706e/f800892f-a55d-455c-ade4-0eeb7b43b15c_8plus01en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9f/6d/bb/9f6dbb7c-38ee-d336-0747-931bdecc3bad/5e170518-34df-42b6-8675-19706b96808a_8plus02en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6e/4c/06/6e4c06dd-7d88-b505-c4b1-8065c89e9d44/95dcaa79-2c3f-4159-8629-21d5c4bfd435_8plus03en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e1/cc/49/e1cc49e8-6363-7f7a-d413-2b7ea3000986/be9ed823-cb8b-45ac-9c87-62c0df31eb63_8plus04en.png/392x696bb.png" />]]></content>
     </entry>
 </feed>

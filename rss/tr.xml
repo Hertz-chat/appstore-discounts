@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2026-10-23T09:42:24.904Z</updated>
+    <updated>2026-10-23T15:22:20.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-23T09:42:24.906Z</updated>
+        <updated>2026-10-23T15:22:20.972Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrFri, 23 Oct 2026 09:42:24 GMT</id>
+        <id>rankingtrFri, 23 Oct 2026 15:22:20 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-23T09:42:24.906Z</updated>
+        <updated>2026-10-23T15:22:20.972Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -51,13 +51,13 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>2366</b>
+        <b>2368</b>
       </td>
       <td>
         <b>204</b>
       </td>
       <td>
-        <b>2162</b>
+        <b>2164</b>
       </td>
       <td>
         <b>107</b>
@@ -68,13 +68,13 @@ feedId:157008924688563200+userId:73658201673997312
         <b>TR</b>
       </td>
       <td>
-        <b>2199</b>
+        <b>2201</b>
       </td>
       <td>
         <b>174</b>
       </td>
       <td>
-        <b>2025</b>
+        <b>2027</b>
       </td>
       <td>
         <b>91</b>
@@ -131,6 +131,31 @@ feedId:157008924688563200+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
+        <a href="https://appstore-discounts.eyelly.me/tr/484090401?lang=en">Akinator VIP</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Pack 5 credits</i>：<b>1</b>
+              </li><li>
+                <i>Pack 15 credits</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>4</b>
+      </td>
+      <td>
         <a href="https://appstore-discounts.eyelly.me/tr/968820626?lang=en">Watch Tuner Lite</a>
       </td>
       <td>
@@ -145,7 +170,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/1580067723?lang=en">Wall of insanity</a>
@@ -162,7 +187,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/1595313870?lang=en">Walden - Calendar/ToDo/Notes</a>
@@ -193,7 +218,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/1630541373?lang=en">Photo Vault: Hide Pics - PRAM</a>
@@ -216,7 +241,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/6760948683?lang=en">Digline: Cosy Mining</a>
@@ -233,7 +258,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/6811795155?lang=en">Keeps: Cost Per Use Tracker</a>
@@ -256,7 +281,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/6759970821?lang=en">Dungeon Merge!</a>
@@ -273,7 +298,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/6742457882?lang=en">Deco: Wallpaper & Stickers</a>
@@ -296,7 +321,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/441142802?lang=en">Bass Modes Symmetry School</a>
@@ -313,7 +338,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/459189186?lang=en">Machinarium</a>
@@ -324,29 +349,6 @@ feedId:157008924688563200+userId:73658201673997312
             <span>Total Times</span>：<b>1</b>
           </li><li>
             <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>13</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/484090401?lang=en">Akinator VIP</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Pack 5 credits</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -1896,6 +1898,23 @@ feedId:157008924688563200+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>101</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/tr/6754453691?lang=en">Knight & Dragon IV</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -2727,6 +2746,125 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Akinator VIP]]></title>
+        <id>Akinator VIP-tr-1792763643625</id>
+        <link href="https://appstore-discounts.eyelly.me/tr/484090401?lang=en"/>
+        <updated>2026-10-23T13:54:03.625Z</updated>
+        <summary type="html"><![CDATA[Pack 15 credits: ₺99,99 → ₺49,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/484090401?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/ac/e4/c7ace4f2-5085-3db2-1103-70e7e8943b1e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Pack 15 credits：</strong><span>₺99,99</span> → <b>
+  <strong>₺49,99</strong>
+</b><span>[₺49,99 ~ ₺99,99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>₺199,99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    11,250 Geniz：<b>₺49,99</b>
+  </li><li>
+    115,000 Geniz (58,750 FREE)：<b>₺249,99</b>
+  </li><li>
+    30,000 Geniz (7,500 FREE)：<b>₺99,99</b>
+  </li><li>
+    50,000 Geniz (16,250 FREE)：<b>₺149,99</b>
+  </li><li>
+    Pack 15 credits：<b>₺49,99</b>
+  </li><li>
+    Pack 10 credits：<b>₺49,99</b>
+  </li><li>
+    Pack 5 credits：<b>₺99,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Akinator can read your mind just like magic and tell you what character you are thinking of, just by asking a few questions. Think of a real or fictional character and Akinator will try to guess who it is.
+Will you dare challenge the genie? And what about other themes like movies, animals…?
+ 
+###NEW###
+ENJOY A NEW EXPERIENCE!
+Discover a redesigned genie with new emotions and fully animated.
+
+3 ADDITIONAL THEMES BESIDES THE CHARACTERS
+Akinator is getting stronger and stronger... The genie has increased his knowledge, and now you have the opportunity to also challenge him on movies, animals and objects!
+Will you manage to defeat Akinator?
+ 
+GO IN SEARCH FOR AKI AWARDS
+The blue Genie invites you to think outside the box. As you know, he likes to guess characters and to take on difficult challenges. To do that, make him guess forgotten characters who have not been played for a very long time and you may win the best Aki Awards.
+ 
+BE THE BEST PLAYER
+Challenge the other players on the leaderboards to prove who the best is. You may write your name on the Last Super Awards board or on the Hall of Fame.
+ 
+KEEP ON GUESSING
+Each day, try to find the 5 mysterious characters and win some additional and specific Aki Awards. Complete the full Daily Challenge and earn the Gold Daily Challenge Aki Award, one of the most prestigious Aki Awards.
+
+KEEP TRACK OF YOUR ACHIEVEMENTS
+Akinator lets you create your own user account. It will record the Aki Awards you've won and your Genizs' balance. They will follow you everywhere now, even if you change your mobile device. 
+
+Main features:
+-17 languages (French, English, Spanish, Portuguese, German, Japanese, Arabic, Russian, Italian, Chinese, Turkish, Korean, Hebrew, Polish, Indonesian, Vietnamese and Dutch)
+-Get 3 additional themes: Movies, Animals and Objects
+-Aki Awards Board to get an overview of your collection
+-Hall of Fame with both current and previous ranking
+-Last super awards for Black, Platinum and Gold Aki Awards
+-Daily Challenges Board
+-Add magic by proposing a photo or some questions
+-The sensitive content filter 
+ 
+---------------------------
+Follow Akinator on:
+Facebook @officialakinator
+Twitter @akinator_team
+Instagram @akinatorgenieapp
+---------------------------
+ 
+Genie’s tips:
+-Akinator requires an Internet connection to use his magic lamp. Turn on Wifi or be sure to have a data plan.
+-Don’t forget to scroll down the list to find and select your language
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/61/33/35613388-4fd3-bb5e-8aec-ea8ecf07af30/001_Akin000_Ator_V9_EN_iPhone6_U002c9_01.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/92/a6/b792a668-4ddc-0b34-45d9-f5e12dd3d9f8/002_Akin000_Ator_V9_EN_iPhone6_U002c9_02.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/b8/93/14b89313-f3e1-623f-8155-4e82a2b11dbe/003_Akin000_Ator_V9_EN_iPhone6_U002c9_03.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/5c/71/055c71bc-61f3-b992-f597-7440465ce8be/004_Akin000_Ator_V9_EN_iPhone6_U002c9_04.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/79/fd/e079fdc2-3f06-23c4-0166-58ee57e086a6/006_Akin000_Ator_V9_EN_iPhone6_U002c9_06.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/b1/c6/84b1c6dc-8590-08d3-770a-6bae4c39ab05/005_Akin000_Ator_V9_EN_iPhone6_U002c9_05.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/c7/72/43c77260-cc60-2942-8c26-4bd0587fe31d/007_Akin000_Ator_V9_EN_iPhone6_U002c9_07.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/70/9b/bb709b75-e8da-a18c-ce2c-0e67ad3d6311/009_Akin000_Ator_V9_EN_iPhone6_U002c9_09.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/96/77/d696774f-2aff-4312-27ac-e4ff68d71b76/010_Akin000_Ator_V9_EN_iPhone6_U002c9_010.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/7d/d8/dd7dd808-6dfd-b835-e9e3-0cfde156368b/008_Akin000_Ator_V9_EN_iPhone6_U002c9_08.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/3b/5f/953b5f05-9482-41d2-58e3-42ba525fe4ac/Akinator_V9_EN_iPad13_U0027_01.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/4d/7a/ee4d7a2d-81ad-05e3-5be6-27a4c4d5fc62/Akinator_V9_EN_iPad13_U0027_02.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/ff/76/3eff76da-9bd4-c754-48fe-ea87aa59355d/Akinator_V9_EN_iPad13_U0027_03.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/34/ae/1734aed6-12b9-e06e-706f-3b5e9a04cfd4/Akinator_V9_EN_iPad13_U0027_04.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/5b/9c/a45b9c62-0bdb-d715-c9b0-5f609c19c0a6/Akinator_V9_EN_iPad13_U0027_06.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/2c/6c/ad2c6c92-17eb-aae5-49fe-85253a7a2d34/Akinator_V9_EN_iPad13_U0027_05.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/9e/20/969e2033-29f4-e2b2-23c5-394eb06c3a6c/Akinator_V9_EN_iPad13_U0027_07.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/2e/f4/6b2ef47d-2118-79fd-447f-165a42f5f4ee/Akinator_V9_EN_iPad13_U0027_09.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/65/d1/bc65d1d4-5035-25da-e467-b8391cfb077d/Akinator_V9_EN_iPad13_U0027_08.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/e0/18/b2e018cc-d517-7e49-a298-62e920205e60/Akinator_V9_EN_iPad13_U0027_010.png/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knight & Dragon IV]]></title>
+        <id>Knight &amp; Dragon IV-tr-1792763643625</id>
+        <link href="https://appstore-discounts.eyelly.me/tr/6754453691?lang=en"/>
+        <updated>2026-10-23T13:54:03.625Z</updated>
+        <summary type="html"><![CDATA[Price: ₺199,99 → ₺99,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/6754453691?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/a2/d7/06a2d72d-e28f-ef6c-b68b-29110ed586ca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺199,99</span> → <b>
+  <strong>₺99,99</strong>
+</b><span>[₺99,99 ~ ₺199,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺99,99</b>
+</p><h2>Application Description</h2><p>
+  Rare drops! Class changes! And an epic story.
+The 4th installment of the hardcore Hack & Slash RPG "Knight & Dragon," packed with replay value!
+
+"Knight & Dragon 4" is the fourth title in this Hack & Slash RPG series built within a medieval fantasy world.
+
+The story takes place about 30 years prior to the events of the previous game, III. The setting is the "Hundred Years' War" between the great Lindar Empire and the Kingdom of Langheim, one of the Eldorua kingdoms. The journey begins in a refugee camp located near the border of these two great powers.
+In a world swirling with conspiracy, people from all walks of life are swept up in the chaos of war. The stories of their respective knights and dragons eventually converge toward a single conclusion. Enjoy an epic narrative featuring characters from previous titles.
+
+[Features of Knight & Dragon 4]
+
+* Heated Real-Time Battles: The core systems of a "replayable RPG," such as rare item drops and class changes, follow the beloved formula of previous titles!
+* Expanded Party Size: You can now battle with a party of 6 members. Time pauses while selecting commands, allowing for more intuitive control!
+* Deep Strategic Gameplay: With new systems like "Formations" and "Skill Chaining," the battle system is more refined, offering even more depth and replayability!
+* New Jobs Added: With the addition of the "Beast Tamer" and "Gladiator," there are now 8 jobs in total. New skills have also been added to complement existing jobs!
+* Revamped World: A completely renewed world map to color the epic story. Of course, post-game content is included!
+* Legacy Content: Many characters from the previous game appear, with significant text additions that supplement the scenarios of the past titles!
+* Classic Features: Popular basic functions from the previous game, such as Party Dispatch, Persona functions, and Equipment Enhancement/Customization, are all here!
+
+...
+
+If you would like to experience the atmosphere of the game before purchasing, the previous title "Knight & Dragon" is available completely free of charge, so please give it a try.
+
+Official Website
+http://dgjam.com/knightdragon4
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/22/26/3b22263b-d2bb-fc3d-21c0-90fe583d1eb7/iphone_en__U2013_1.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/05/36/b60536cf-8042-b29d-d2b4-d2aa3a120073/iphone_en__U2013_2.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/39/d3/1d39d366-ad6c-e9f3-3f85-9ceb092dc30f/iphone_en__U2013_3.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/d7/4f/72d74f91-e829-22b9-e7cd-3bd8f9ee3706/iphone_en__U2013_4.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/45/e0/7345e059-48e9-ab94-e6b3-e11e064ea897/iphone_en__U2013_5.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/46/e3/8846e344-e428-2af9-a1d4-3e7955429de3/iphone_en__U2013_6.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/e2/a1/57e2a15d-d435-7cfd-3c44-4f1b7095112a/eng.ipad1.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/84/7f/71847f27-4fd7-2541-7e2f-4eeff2a6352c/eng.ipad2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/24/a3/3524a395-25d8-3561-bd05-0099cb66d29f/eng.ipad3.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/35/5e/11355e1e-d7ef-5929-aa7b-a89efd5143a4/eng.ipad4.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/1f/56/b81f56a9-261e-9e05-9d5f-6eceb5ac99c9/eng.ipad5.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/3d/50/f23d5066-bfea-c4ce-be0a-238df8d467c4/eng.ipad6.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/96/68/2d966857-2e4f-edd3-7754-c4e0ccf9cb60/eng.ipad7.png/360x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Akinator VIP]]></title>

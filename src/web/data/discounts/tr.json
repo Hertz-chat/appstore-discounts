@@ -1,23 +1,23 @@
 [
   {
-    "trackId": 484090401,
+    "trackId": 6754453691,
     "region": "tr",
-    "timestamp": 1792742526515,
+    "timestamp": 1792763643625,
     "discounts": [
       {
-        "type": "inAppPurchase",
-        "name": "Pack 5 credits",
-        "from": "₺99,99",
-        "to": "₺49,99",
-        "range": "[₺49,99 ~ ₺99,99]"
+        "type": "price",
+        "name": "Price",
+        "from": "₺199,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺199,99]"
       }
     ],
-    "price": 199.99,
-    "formattedPrice": "₺199,99",
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
     "currency": "TRY",
-    "trackViewUrl": "https://apps.apple.com/tr/app/id484090401",
-    "trackName": "Akinator VIP",
-    "firstRecordedAt": 1787838577561
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6754453691",
+    "trackName": "Knight & Dragon IV",
+    "firstRecordedAt": 1767824910231
   },
   {
     "trackId": 6501973975,

@@ -2860,7 +2860,7 @@
   {
     "trackId": 484090401,
     "region": "tr",
-    "timestamp": 1792742526515,
+    "timestamp": 1792763643625,
     "discounts": [],
     "price": 199.99,
     "formattedPrice": "₺199,99",
@@ -4085,6 +4085,18 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id582584117",
     "trackName": "Solocator - GPS Field Camera",
     "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 583700229,
+    "region": "tr",
+    "timestamp": 1792763643625,
+    "discounts": [],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id583700229",
+    "trackName": "Reorder Contacts - Reorder It!",
+    "firstRecordedAt": 1792763643625
   },
   {
     "trackId": 583922375,
@@ -19514,7 +19526,7 @@
   {
     "trackId": 6473001577,
     "region": "tr",
-    "timestamp": 1792695331117,
+    "timestamp": 1792763643625,
     "discounts": [],
     "price": 199.99,
     "formattedPrice": "₺199,99",
@@ -23584,10 +23596,10 @@
   {
     "trackId": 6754453691,
     "region": "tr",
-    "timestamp": 1788148503316,
+    "timestamp": 1792763643625,
     "discounts": [],
-    "price": 199.99,
-    "formattedPrice": "₺199,99",
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6754453691",
     "trackName": "Knight & Dragon IV",
@@ -26463,5 +26475,17 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6819276809",
     "trackName": "構造大飯店",
     "firstRecordedAt": 1791568819448
+  },
+  {
+    "trackId": 6820324856,
+    "region": "tr",
+    "timestamp": 1792763643625,
+    "discounts": [],
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6820324856",
+    "trackName": "Take01: Teleprompter Studio",
+    "firstRecordedAt": 1792763643625
   }
 ]

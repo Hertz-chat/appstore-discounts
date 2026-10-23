@@ -30147,6 +30147,25 @@
     "history": [
       [
         {
+          "timestamp": 1792763643625,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "大正晝夜譚組合包": "USD 0.99",
+            "遺跡探險組合包": "USD 0.99",
+            "大富翁 4 fun 天使帝國組合包": "USD 0.99",
+            "大富翁 4 Fun Paid 夢幻精靈島組合包": "USD 0.99",
+            "大富翁 4 Fun Paid 古文明組合包": "USD 0.99",
+            "大富翁 4 Fun Paid 妖怪村組合包": "USD 0.99",
+            "大富翁 4 fun 海底世界組合包": "USD 0.99",
+            "大富翁 4 fun 寶藏島組合包": "USD 0.99",
+            "大富翁 4 fun 水上世界組合包": "USD 0.99",
+            "大富翁 4 FUN  巴黎倫敦組合包": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785938837508,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -42868,6 +42887,27 @@
           "inAppPurchases": {
             "Industry Pack": "USD 5.99"
           }
+        }
+      ]
+    ]
+  },
+  "583700229": {
+    "name": "Reorder Contacts - Reorder It!",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792763643625,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -103811,6 +103851,25 @@
       "Black Cam Film Pack": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792763643625,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Design Frame Package": "USD 0.99",
+            "Social Frame Package": "USD 0.99",
+            "Magazine Frame Package": "USD 0.99",
+            "Black Frame Pack": "USD 0.99",
+            "Geometric Frame Pack": "USD 0.99",
+            "Stamp Frame Pack": "USD 0.99",
+            "Retro Frame Pack": "USD 0.99",
+            "Stroke Frame Pack": "USD 0.99",
+            "Color Frame Pack": "USD 0.99",
+            "Upgrade Deluxe Edition": "USD 5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791568819448,
@@ -193486,6 +193545,14 @@
     "history": [
       [
         {
+          "timestamp": 1792763643625,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792157762180,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -201756,6 +201823,14 @@
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792763643625,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788106055024,
@@ -210128,7 +210203,7 @@
     "maxPriceInfo": {
       "price": 2.99,
       "formattedPrice": "USD 2.99",
-      "Pro 年費": "USD 6.00",
+      "Pro 年費": "USD 6.99",
       "Pro 月費": "USD 1.00"
     },
     "minPriceInfo": {
@@ -210138,6 +210213,17 @@
       "Pro 月費": "USD 1.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792763643625,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Pro 年費": "USD 6.99",
+            "Pro 月費": "USD 1.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786571006662,
@@ -214966,6 +215052,27 @@
             "1 TB · Annual": "USD 149.99",
             "1 TB · Monthly": "USD 14.99"
           }
+        }
+      ]
+    ]
+  },
+  "6820324856": {
+    "name": "Take01: Teleprompter Studio",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792763643625,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
         }
       ]
     ]

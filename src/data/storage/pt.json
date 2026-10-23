@@ -9279,6 +9279,25 @@
     "history": [
       [
         {
+          "timestamp": 1792763643625,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "World 3 - Level Pack 2": "0,99 €",
+            "World 2 - Level Pack 2": "0,99 €",
+            "Unlock all Levels": "0,99 €",
+            "MEGA Bubble Popper Pack": "8,99 €",
+            "Bubble Popper Pack": "3,99 €",
+            "Pack of 15 Bumpers": "1,99 €",
+            "Pack of 5 Bumpers": "0,99 €",
+            "Pack of 30 Fireballs": "1,99 €",
+            "Pack of 10 Fireballs": "0,99 €",
+            "Pack of 1500 Tokens": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1778958942418,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -23794,7 +23813,16 @@
       "Mission 35 Gold": "2,99 €",
       "Mission 35 Demo": "0,99 €",
       "Mission 34 Skip": "1,99 €",
-      "Mission 34 Gold": "2,99 €"
+      "Mission 34 Gold": "2,99 €",
+      "Mission 01 Demo": "0,99 €",
+      "Mission 02 Demo": "0,99 €",
+      "Mission 01 Skip": "0,99 €",
+      "Mission 02 Skip": "0,99 €",
+      "Mission 01 Gold": "1,99 €",
+      "Mission 03 Gold": "1,99 €",
+      "Mission 02 Gold": "1,99 €",
+      "Mission 03 Skip": "0,99 €",
+      "Mission 03 Demo": "0,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -23818,9 +23846,37 @@
       "Mission 35 Gold": "2,99 €",
       "Mission 35 Demo": "0,99 €",
       "Mission 34 Skip": "1,99 €",
-      "Mission 34 Gold": "2,99 €"
+      "Mission 34 Gold": "2,99 €",
+      "Mission 01 Demo": "0,99 €",
+      "Mission 02 Demo": "0,99 €",
+      "Mission 01 Skip": "0,99 €",
+      "Mission 02 Skip": "0,99 €",
+      "Mission 01 Gold": "1,99 €",
+      "Mission 03 Gold": "1,99 €",
+      "Mission 02 Gold": "1,99 €",
+      "Mission 03 Skip": "0,99 €",
+      "Mission 03 Demo": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792763643625,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Mission 01 Demo": "0,99 €",
+            "Mission 02 Demo": "0,99 €",
+            "Mission 01 Skip": "0,99 €",
+            "Mission 02 Skip": "0,99 €",
+            "Mission 01 Gold": "1,99 €",
+            "Mission 03 Gold": "1,99 €",
+            "Mission Free Unlock-All": "5,99 €",
+            "Mission 02 Gold": "1,99 €",
+            "Mission 03 Skip": "0,99 €",
+            "Mission 03 Demo": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786377546675,
@@ -29028,6 +29084,27 @@
           "inAppPurchases": {
             "Industry Pack": "6,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "583700229": {
+    "name": "Reorder Contacts - Reorder It!",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792763643625,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -92364,6 +92441,25 @@
     "history": [
       [
         {
+          "timestamp": 1792763643625,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Tribes of Twilight": "5,99 €",
+            "Buy the devs a coffee": "5,99 €",
+            "Death of Divinity": "5,99 €",
+            "Infinitum Support Banner": "3,99 €",
+            "Masks of Misery": "5,99 €",
+            "Catalyst Support Pack": "5,99 €",
+            "Siege of Shadows": "5,99 €",
+            "Dawncaster Mega Bundle": "14,99 €",
+            "Dawncaster Origins Bundle": "5,99 €",
+            "Eclypse Supporter Pack": "4,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791752970806,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -136413,6 +136509,14 @@
     "history": [
       [
         {
+          "timestamp": 1792763643625,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788148503316,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -149610,6 +149714,27 @@
             "1 TB · Annual": "179,99 €",
             "1 TB · Monthly": "17,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "6820324856": {
+    "name": "Take01: Teleprompter Studio",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792763643625,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]

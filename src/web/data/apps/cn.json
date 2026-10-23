@@ -2740,6 +2740,18 @@
     "firstRecordedAt": 1745328692670
   },
   {
+    "trackId": 583700229,
+    "region": "cn",
+    "timestamp": 1792763643625,
+    "discounts": [],
+    "price": 8,
+    "formattedPrice": "¥8.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id583700229",
+    "trackName": "Reorder Contacts - Reorder It!",
+    "firstRecordedAt": 1792763643625
+  },
+  {
     "trackId": 583922375,
     "region": "cn",
     "timestamp": 1787067055994,
@@ -8730,7 +8742,7 @@
   {
     "trackId": 1517349382,
     "region": "cn",
-    "timestamp": 1791884966954,
+    "timestamp": 1792763643625,
     "discounts": [],
     "price": 1,
     "formattedPrice": "¥1.00",
@@ -11212,7 +11224,7 @@
   {
     "trackId": 6444508254,
     "region": "cn",
-    "timestamp": 1790760074035,
+    "timestamp": 1792763643625,
     "discounts": [],
     "price": 6,
     "formattedPrice": "¥6.00",
@@ -12928,7 +12940,7 @@
     "formattedPrice": "¥18.00",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id6740698426",
-    "trackName": "Empires Game",
+    "trackName": "帝国传奇：像素英雄",
     "firstRecordedAt": 1774522842214
   },
   {
@@ -16187,5 +16199,17 @@
     "trackViewUrl": "https://apps.apple.com/cn/app/id6819720065",
     "trackName": "P's Pocket",
     "firstRecordedAt": 1792742526515
+  },
+  {
+    "trackId": 6820324856,
+    "region": "cn",
+    "timestamp": 1792763643625,
+    "discounts": [],
+    "price": 15,
+    "formattedPrice": "¥15.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6820324856",
+    "trackName": "Take01: Teleprompter Studio",
+    "firstRecordedAt": 1792763643625
   }
 ]

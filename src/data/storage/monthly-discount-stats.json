@@ -262,6 +262,13 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6444508254": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "华夏九州-水浒英雄传": 1
+      }
     }
   },
   "hk": {
@@ -803,6 +810,11 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6754453691": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     }
   },
   "mo": {
@@ -1333,6 +1345,11 @@
       "inAppPurchase": {}
     },
     "6501973975": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6754453691": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -1877,6 +1894,11 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6754453691": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     }
   },
   "us": {
@@ -1932,6 +1954,13 @@
         "Main Story Set": 1,
         "Special Episode": 1,
         "Costume Set": 1
+      }
+    },
+    "924438909": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Donation": 1
       }
     },
     "926177061": {
@@ -2480,6 +2509,11 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6754453691": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     }
   },
   "tr": {
@@ -2494,10 +2528,11 @@
       "inAppPurchase": {}
     },
     "484090401": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "Pack 5 credits": 1
+        "Pack 5 credits": 1,
+        "Pack 15 credits": 1
       }
     },
     "510249014": {
@@ -3017,6 +3052,11 @@
       "inAppPurchase": {}
     },
     "6501973975": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6754453691": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -3555,6 +3595,11 @@
       "inAppPurchase": {}
     },
     "6501973975": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6754453691": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}

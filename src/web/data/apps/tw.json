@@ -2764,7 +2764,7 @@
   {
     "trackId": 479516143,
     "region": "tw",
-    "timestamp": 1792742526515,
+    "timestamp": 1792763643625,
     "discounts": [],
     "price": 235,
     "formattedPrice": "$235.00",
@@ -4109,6 +4109,18 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id582584117",
     "trackName": "Solocator - GPS Field Camera",
     "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 583700229,
+    "region": "tw",
+    "timestamp": 1792763643625,
+    "discounts": [],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id583700229",
+    "trackName": "Reorder Contacts - Reorder It!",
+    "firstRecordedAt": 1792763643625
   },
   {
     "trackId": 583922375,
@@ -9280,7 +9292,7 @@
   {
     "trackId": 1166143148,
     "region": "tw",
-    "timestamp": 1787337297898,
+    "timestamp": 1792763643625,
     "discounts": [],
     "price": 10,
     "formattedPrice": "$10.00",
@@ -10001,7 +10013,7 @@
   {
     "trackId": 1242654932,
     "region": "tw",
-    "timestamp": 1792656146968,
+    "timestamp": 1792763643625,
     "discounts": [],
     "price": 30,
     "formattedPrice": "$30.00",
@@ -10651,10 +10663,10 @@
   {
     "trackId": 1309638846,
     "region": "tw",
-    "timestamp": 1792020712402,
+    "timestamp": 1792763643625,
     "discounts": [],
-    "price": 60,
-    "formattedPrice": "$60.00",
+    "price": 90,
+    "formattedPrice": "$90.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1309638846",
     "trackName": "Goodak 底片相機 - 復古即可拍，拍立得膠卷攝影",
@@ -21907,7 +21919,7 @@
   {
     "trackId": 6742218180,
     "region": "tw",
-    "timestamp": 1786571006662,
+    "timestamp": 1792763643625,
     "discounts": [],
     "price": 90,
     "formattedPrice": "$90.00",
@@ -22758,10 +22770,10 @@
   {
     "trackId": 6746136017,
     "region": "tw",
-    "timestamp": 1792157762180,
+    "timestamp": 1792763643625,
     "discounts": [],
-    "price": 220,
-    "formattedPrice": "$220.00",
+    "price": 320,
+    "formattedPrice": "$320.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6746136017",
     "trackName": "Astrea: Six-Sided Oracles",
@@ -23975,10 +23987,10 @@
   {
     "trackId": 6754453691,
     "region": "tw",
-    "timestamp": 1788106055024,
+    "timestamp": 1792763643625,
     "discounts": [],
-    "price": 120,
-    "formattedPrice": "$120.00",
+    "price": 60,
+    "formattedPrice": "$60.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6754453691",
     "trackName": "Knight & Dragon IV",
@@ -25332,7 +25344,7 @@
   {
     "trackId": 6761328517,
     "region": "tw",
-    "timestamp": 1791687637772,
+    "timestamp": 1792763643625,
     "discounts": [],
     "price": 190,
     "formattedPrice": "$190.00",
@@ -26806,5 +26818,17 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id6819720065",
     "trackName": "P's Pocket",
     "firstRecordedAt": 1792742526515
+  },
+  {
+    "trackId": 6820324856,
+    "region": "tw",
+    "timestamp": 1792763643625,
+    "discounts": [],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6820324856",
+    "trackName": "Take01: Teleprompter Studio",
+    "firstRecordedAt": 1792763643625
   }
 ]

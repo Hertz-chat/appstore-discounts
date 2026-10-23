@@ -1709,7 +1709,7 @@
   {
     "trackId": 407998895,
     "region": "pt",
-    "timestamp": 1778958942418,
+    "timestamp": 1792763643625,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "0,99 €",
@@ -3210,7 +3210,7 @@
   {
     "trackId": 542397575,
     "region": "pt",
-    "timestamp": 1786377546675,
+    "timestamp": 1792763643625,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "1,99 €",
@@ -3662,6 +3662,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id582584117",
     "trackName": "Solocator - GPS Field Camera",
     "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 583700229,
+    "region": "pt",
+    "timestamp": 1792763643625,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id583700229",
+    "trackName": "Reorder Contacts - Reorder It!",
+    "firstRecordedAt": 1792763643625
   },
   {
     "trackId": 583922375,
@@ -14215,7 +14227,7 @@
   {
     "trackId": 1555459868,
     "region": "pt",
-    "timestamp": 1791752970806,
+    "timestamp": 1792763643625,
     "discounts": [],
     "price": 5.99,
     "formattedPrice": "5,99 €",
@@ -21990,10 +22002,10 @@
   {
     "trackId": 6754453691,
     "region": "pt",
-    "timestamp": 1788148503316,
+    "timestamp": 1792763643625,
     "discounts": [],
-    "price": 3.99,
-    "formattedPrice": "3,99 €",
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6754453691",
     "trackName": "Knight & Dragon IV",
@@ -24701,5 +24713,17 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id6819276809",
     "trackName": "構造大飯店",
     "firstRecordedAt": 1791568819448
+  },
+  {
+    "trackId": 6820324856,
+    "region": "pt",
+    "timestamp": 1792763643625,
+    "discounts": [],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6820324856",
+    "trackName": "Take01: Teleprompter Studio",
+    "firstRecordedAt": 1792763643625
   }
 ]

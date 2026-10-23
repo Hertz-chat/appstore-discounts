@@ -2450,7 +2450,7 @@
   {
     "trackId": 455826958,
     "region": "hk",
-    "timestamp": 1792742526515,
+    "timestamp": 1792763643625,
     "discounts": [],
     "price": 8,
     "formattedPrice": "HK$ 8.00",
@@ -4073,6 +4073,18 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id582584117",
     "trackName": "Solocator - GPS Field Camera",
     "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 583700229,
+    "region": "hk",
+    "timestamp": 1792763643625,
+    "discounts": [],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id583700229",
+    "trackName": "Reorder Contacts - Reorder It!",
+    "firstRecordedAt": 1792763643625
   },
   {
     "trackId": 583922375,
@@ -10604,10 +10616,10 @@
   {
     "trackId": 1309638846,
     "region": "hk",
-    "timestamp": 1791568819448,
+    "timestamp": 1792763643625,
     "discounts": [],
-    "price": 18,
-    "formattedPrice": "HK$ 18.00",
+    "price": 22,
+    "formattedPrice": "HK$ 22.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id1309638846",
     "trackName": "Goodak 底片相機 - 復古即可拍，拍立得膠卷攝影",
@@ -21873,7 +21885,7 @@
   {
     "trackId": 6742218180,
     "region": "hk",
-    "timestamp": 1786571006662,
+    "timestamp": 1792763643625,
     "discounts": [],
     "price": 22,
     "formattedPrice": "HK$ 22.00",
@@ -22736,10 +22748,10 @@
   {
     "trackId": 6746136017,
     "region": "hk",
-    "timestamp": 1792175391583,
+    "timestamp": 1792763643625,
     "discounts": [],
-    "price": 58,
-    "formattedPrice": "HK$ 58.00",
+    "price": 88,
+    "formattedPrice": "HK$ 88.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id6746136017",
     "trackName": "Astrea: Six-Sided Oracles",
@@ -23941,10 +23953,10 @@
   {
     "trackId": 6754453691,
     "region": "hk",
-    "timestamp": 1788106055024,
+    "timestamp": 1792763643625,
     "discounts": [],
-    "price": 32,
-    "formattedPrice": "HK$ 32.00",
+    "price": 18,
+    "formattedPrice": "HK$ 18.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id6754453691",
     "trackName": "Knight & Dragon IV",
@@ -26772,5 +26784,17 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id6819720065",
     "trackName": "P's Pocket",
     "firstRecordedAt": 1792742526515
+  },
+  {
+    "trackId": 6820324856,
+    "region": "hk",
+    "timestamp": 1792763643625,
+    "discounts": [],
+    "price": 18,
+    "formattedPrice": "HK$ 18.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6820324856",
+    "trackName": "Take01: Teleprompter Studio",
+    "firstRecordedAt": 1792763643625
   }
 ]

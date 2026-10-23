@@ -2860,7 +2860,7 @@
   {
     "trackId": 484090401,
     "region": "tr",
-    "timestamp": 1787838577561,
+    "timestamp": 1792742526515,
     "discounts": [],
     "price": 199.99,
     "formattedPrice": "₺199,99",
@@ -13219,7 +13219,7 @@
   {
     "trackId": 1477966166,
     "region": "tr",
-    "timestamp": 1792656146968,
+    "timestamp": 1792742526515,
     "discounts": [],
     "price": 249.99,
     "formattedPrice": "₺249,99",
@@ -13593,10 +13593,10 @@
   {
     "trackId": 1492049794,
     "region": "tr",
-    "timestamp": 1791568819448,
+    "timestamp": 1792742526515,
     "discounts": [],
-    "price": 0,
-    "formattedPrice": "Free",
+    "price": 4.99,
+    "formattedPrice": "₺4,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id1492049794",
     "trackName": "宗师-武林风云传",
@@ -18562,7 +18562,7 @@
   {
     "trackId": 6448928429,
     "region": "tr",
-    "timestamp": 1792626402303,
+    "timestamp": 1792742526515,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -24557,7 +24557,7 @@
   {
     "trackId": 6759664029,
     "region": "tr",
-    "timestamp": 1792678231846,
+    "timestamp": 1792742526515,
     "discounts": [],
     "price": 399.99,
     "formattedPrice": "₺399,99",
@@ -25371,6 +25371,18 @@
     "firstRecordedAt": 1779853677173
   },
   {
+    "trackId": 6771652722,
+    "region": "tr",
+    "timestamp": 1792742526515,
+    "discounts": [],
+    "price": 699.99,
+    "formattedPrice": "₺699,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6771652722",
+    "trackName": "ONE PIECE: Grand Gourmet",
+    "firstRecordedAt": 1792742526515
+  },
+  {
     "trackId": 6772053026,
     "region": "tr",
     "timestamp": 1786626497675,
@@ -25922,6 +25934,18 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6792675339",
     "trackName": "ACO 投考全攻略 ACOReady",
     "firstRecordedAt": 1785072025219
+  },
+  {
+    "trackId": 6793744610,
+    "region": "tr",
+    "timestamp": 1792742526515,
+    "discounts": [],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6793744610",
+    "trackName": "2AM CAM",
+    "firstRecordedAt": 1792742526515
   },
   {
     "trackId": 6793951574,

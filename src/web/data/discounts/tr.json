@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 484090401,
+    "region": "tr",
+    "timestamp": 1792742526515,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Pack 5 credits",
+        "from": "₺99,99",
+        "to": "₺49,99",
+        "range": "[₺49,99 ~ ₺99,99]"
+      }
+    ],
+    "price": 199.99,
+    "formattedPrice": "₺199,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id484090401",
+    "trackName": "Akinator VIP",
+    "firstRecordedAt": 1787838577561
+  },
+  {
     "trackId": 6501973975,
     "region": "tr",
     "timestamp": 1792721789601,

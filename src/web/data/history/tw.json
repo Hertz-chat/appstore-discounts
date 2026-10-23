@@ -24089,6 +24089,23 @@
     "history": [
       [
         {
+          "timestamp": 1792742526515,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "大頑固的故事": "$90.00",
+            "神秘鴨": "$90.00",
+            "愛麗的故事": "$30.00",
+            "鎖匠 - 一把鎖": "$30.00",
+            "假日優惠套裝": "$120.00",
+            "鎖匠 - 全部的小頑皮鎖": "$150.00",
+            "鎖匠 – 全部的神秘鎖": "$150.00",
+            "鎖匠 – 全部的大頑固鎖": "$60.00",
+            "鎖匠 － 全部愛麗鎖": "$60.00",
+            "神秘鴨優惠套裝": "$30.00"
+          }
+        },
+        {
           "timestamp": 1792721789601,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -30092,6 +30109,25 @@
       "Farming Starter Pack": "$190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792742526515,
+          "price": 235,
+          "formattedPrice": "$235.00",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "$70.00",
+            "Realms Plus:10 Friends w/trial": "$240.00",
+            "Minecraft Store Item 6": "$200.00",
+            "Realms Monthly Subscription: You + 2 Friends": "$120.00",
+            "Minecraft Store Item 3": "$100.00",
+            "Realms Plus: You + 10 Friends": "$240.00",
+            "Minecraft Store Item 10": "$345.00",
+            "Minecraft Store Item 4": "$135.00",
+            "Minecraft Store Item 5": "$170.00",
+            "Minecraft Store Item 1": "$35.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792678231846,
@@ -179583,6 +179619,24 @@
     "history": [
       [
         {
+          "timestamp": 1792742526515,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "The Complete Collection": "$1,190.00",
+            "Explorer Pack": "$390.00",
+            "The Ultimate Edition Welcome Offer": "$790.00",
+            "Welcome Offer": "$690.00",
+            "New York 2121 Board": "$220.00",
+            "Cherry Blossom Tokyo Board": "$220.00",
+            "Promotion": "$590.00",
+            "New York 2121": "$490.00",
+            "Theme Collection": "$690.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792462971499,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -187990,6 +188044,25 @@
       "年卡VIP": "$1,190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792742526515,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "月卡VIP": "$120.00",
+            "3880元宝": "$1,990.00",
+            "880元宝": "$390.00",
+            "250元宝": "$120.00",
+            "60元宝": "$30.00",
+            "1680元宝": "$790.00",
+            "终身卡VIP": "$1,990.00",
+            "2980元宝": "$1,290.00",
+            "终身VIP": "$1,990.00",
+            "年卡VIP": "$1,190.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791568819448,
@@ -323368,6 +323441,106 @@
           "price": 60,
           "formattedPrice": "$60.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6771652722": {
+    "trackId": 6771652722,
+    "trackName": "ONE PIECE 海洋盛宴",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 430,
+      "formattedPrice": "$430.00"
+    },
+    "minPriceInfo": {
+      "price": 430,
+      "formattedPrice": "$430.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792742526515,
+          "price": 430,
+          "formattedPrice": "$430.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6819720065": {
+    "trackId": 6819720065,
+    "trackName": "P's Pocket",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "minPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792742526515,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6793744610": {
+    "trackId": 6793744610,
+    "trackName": "2AM CAM",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "64 GB · Annual": "$690.00",
+      "128 GB · Monthly": "$90.00",
+      "512 GB · Annual": "$2,990.00",
+      "256 GB · Annual": "$1,490.00",
+      "64 GB · Monthly": "$60.00",
+      "128 GB · Annual": "$990.00",
+      "256 GB · Monthly": "$150.00",
+      "512 GB · Monthly": "$290.00",
+      "1 TB · Annual": "$4,990.00",
+      "1 TB · Monthly": "$490.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "64 GB · Annual": "$690.00",
+      "128 GB · Monthly": "$90.00",
+      "512 GB · Annual": "$2,990.00",
+      "256 GB · Annual": "$1,490.00",
+      "64 GB · Monthly": "$60.00",
+      "128 GB · Annual": "$990.00",
+      "256 GB · Monthly": "$150.00",
+      "512 GB · Monthly": "$290.00",
+      "1 TB · Annual": "$4,990.00",
+      "1 TB · Monthly": "$490.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792742526515,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "64 GB · Annual": "$690.00",
+            "128 GB · Monthly": "$90.00",
+            "512 GB · Annual": "$2,990.00",
+            "256 GB · Annual": "$1,490.00",
+            "64 GB · Monthly": "$60.00",
+            "128 GB · Annual": "$990.00",
+            "256 GB · Monthly": "$150.00",
+            "512 GB · Monthly": "$290.00",
+            "1 TB · Annual": "$4,990.00",
+            "1 TB · Monthly": "$490.00"
+          }
         }
       ]
     ]

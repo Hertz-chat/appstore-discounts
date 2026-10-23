@@ -13570,10 +13570,10 @@
   {
     "trackId": 1492049794,
     "region": "mo",
-    "timestamp": 1791568819448,
+    "timestamp": 1792742526515,
     "discounts": [],
-    "price": 0,
-    "formattedPrice": "免費",
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1492049794",
     "trackName": "宗師-武林群俠風雲傳",
@@ -24835,7 +24835,7 @@
   {
     "trackId": 6759664029,
     "region": "mo",
-    "timestamp": 1792626402303,
+    "timestamp": 1792742526515,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "USD 6.99",
@@ -25613,6 +25613,18 @@
     "firstRecordedAt": 1779853677173
   },
   {
+    "trackId": 6771652722,
+    "region": "mo",
+    "timestamp": 1792742526515,
+    "discounts": [],
+    "price": 12.99,
+    "formattedPrice": "USD 12.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6771652722",
+    "trackName": "ONE PIECE 海洋盛宴",
+    "firstRecordedAt": 1792742526515
+  },
+  {
     "trackId": 6772182116,
     "region": "mo",
     "timestamp": 1780433363654,
@@ -26154,6 +26166,18 @@
     "firstRecordedAt": 1785072025219
   },
   {
+    "trackId": 6793744610,
+    "region": "mo",
+    "timestamp": 1792742526515,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6793744610",
+    "trackName": "2AM CAM",
+    "firstRecordedAt": 1792742526515
+  },
+  {
     "trackId": 6793951574,
     "region": "mo",
     "timestamp": 1786388186899,
@@ -26621,5 +26645,17 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id6819276809",
     "trackName": "構造大飯店",
     "firstRecordedAt": 1791568819448
+  },
+  {
+    "trackId": 6819720065,
+    "region": "mo",
+    "timestamp": 1792742526515,
+    "discounts": [],
+    "price": 9.99,
+    "formattedPrice": "USD 9.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6819720065",
+    "trackName": "P's Pocket",
+    "firstRecordedAt": 1792742526515
   }
 ]

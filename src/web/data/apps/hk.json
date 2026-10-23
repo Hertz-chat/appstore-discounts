@@ -2450,7 +2450,7 @@
   {
     "trackId": 455826958,
     "region": "hk",
-    "timestamp": 1790760074035,
+    "timestamp": 1792742526515,
     "discounts": [],
     "price": 8,
     "formattedPrice": "HK$ 8.00",
@@ -6342,7 +6342,7 @@
   {
     "trackId": 932389062,
     "region": "hk",
-    "timestamp": 1791540411692,
+    "timestamp": 1792742526515,
     "discounts": [],
     "price": 8,
     "formattedPrice": "HK$ 8.00",
@@ -13220,7 +13220,7 @@
   {
     "trackId": 1477966166,
     "region": "hk",
-    "timestamp": 1792656146968,
+    "timestamp": 1792742526515,
     "discounts": [],
     "price": 38,
     "formattedPrice": "HK$ 38.00",
@@ -13570,10 +13570,10 @@
   {
     "trackId": 1492049794,
     "region": "hk",
-    "timestamp": 1791568819448,
+    "timestamp": 1792742526515,
     "discounts": [],
-    "price": 0,
-    "formattedPrice": "免費",
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id1492049794",
     "trackName": "宗師-武林群俠風雲傳",
@@ -25298,7 +25298,7 @@
   {
     "trackId": 6761328517,
     "region": "hk",
-    "timestamp": 1791484107175,
+    "timestamp": 1792742526515,
     "discounts": [],
     "price": 48,
     "formattedPrice": "HK$ 48.00",
@@ -25714,6 +25714,18 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id6771400576",
     "trackName": "Baby Food Cookbook",
     "firstRecordedAt": 1779853677173
+  },
+  {
+    "trackId": 6771652722,
+    "region": "hk",
+    "timestamp": 1792742526515,
+    "discounts": [],
+    "price": 98,
+    "formattedPrice": "HK$ 98.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6771652722",
+    "trackName": "ONE PIECE 海洋盛宴",
+    "firstRecordedAt": 1792742526515
   },
   {
     "trackId": 6772182116,
@@ -26257,6 +26269,18 @@
     "firstRecordedAt": 1785072025219
   },
   {
+    "trackId": 6793744610,
+    "region": "hk",
+    "timestamp": 1792742526515,
+    "discounts": [],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6793744610",
+    "trackName": "2AM CAM",
+    "firstRecordedAt": 1792742526515
+  },
+  {
     "trackId": 6793864256,
     "region": "hk",
     "timestamp": 1786005279085,
@@ -26736,5 +26760,17 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id6819276809",
     "trackName": "構造大飯店",
     "firstRecordedAt": 1791568819448
+  },
+  {
+    "trackId": 6819720065,
+    "region": "hk",
+    "timestamp": 1792742526515,
+    "discounts": [],
+    "price": 88,
+    "formattedPrice": "HK$ 88.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6819720065",
+    "trackName": "P's Pocket",
+    "firstRecordedAt": 1792742526515
   }
 ]

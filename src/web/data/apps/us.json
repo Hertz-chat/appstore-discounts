@@ -13592,10 +13592,10 @@
   {
     "trackId": 1492049794,
     "region": "us",
-    "timestamp": 1791568819448,
+    "timestamp": 1792742526515,
     "discounts": [],
-    "price": 0,
-    "formattedPrice": "Free",
+    "price": 0.99,
+    "formattedPrice": "$0.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1492049794",
     "trackName": "宗师-武林风云传",
@@ -18512,7 +18512,7 @@
   {
     "trackId": 6448928429,
     "region": "us",
-    "timestamp": 1790933058173,
+    "timestamp": 1792742526515,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -25395,6 +25395,18 @@
     "firstRecordedAt": 1779853677173
   },
   {
+    "trackId": 6771652722,
+    "region": "us",
+    "timestamp": 1792742526515,
+    "discounts": [],
+    "price": 12.99,
+    "formattedPrice": "$12.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6771652722",
+    "trackName": "ONE PIECE: Grand Gourmet",
+    "firstRecordedAt": 1792742526515
+  },
+  {
     "trackId": 6772182116,
     "region": "us",
     "timestamp": 1780433363654,
@@ -25948,6 +25960,18 @@
     "firstRecordedAt": 1785072025219
   },
   {
+    "trackId": 6793744610,
+    "region": "us",
+    "timestamp": 1792742526515,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6793744610",
+    "trackName": "2AM CAM",
+    "firstRecordedAt": 1792742526515
+  },
+  {
     "trackId": 6793951574,
     "region": "us",
     "timestamp": 1786388186899,
@@ -26415,5 +26439,17 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id6819276809",
     "trackName": "構造大飯店",
     "firstRecordedAt": 1791568819448
+  },
+  {
+    "trackId": 6819720065,
+    "region": "us",
+    "timestamp": 1792742526515,
+    "discounts": [],
+    "price": 9.99,
+    "formattedPrice": "$9.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6819720065",
+    "trackName": "P's Pocket",
+    "firstRecordedAt": 1792742526515
   }
 ]

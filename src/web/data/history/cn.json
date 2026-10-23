@@ -172579,6 +172579,23 @@
     "history": [
       [
         {
+          "timestamp": 1792712656381,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "DLC：姐妹连": "¥2.00",
+            "DLC：英雄对决": "¥8.00",
+            "DLC：怪物联盟": "¥12.00",
+            "DLC：龙之神庙": "¥9.00",
+            "DLC：外星入侵": "¥8.00",
+            "DLC：贪婪洞窟": "¥6.00",
+            "DLC：异界": "¥8.00",
+            "DLC：邪恶之心": "¥12.00",
+            "奇境森林": "¥15.00",
+            "DLC：孤山世界": "¥12.00"
+          }
+        },
+        {
           "timestamp": 1792695331117,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -183097,6 +183114,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792712656381,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "每月": "¥6.00",
+            "每年": "¥58.00",
+            "可可": "¥15.00",
+            "Siamese Theme": "¥15.00",
+            "招财": "¥15.00",
+            "City Night Theme": "¥15.00",
+            "Calico Theme": "¥15.00",
+            "叮当": "¥22.00",
+            "2025 Spring Forest Theme": "¥15.00",
+            "2025 Spring Lawn Theme": "¥18.00"
+          }
+        },
         {
           "timestamp": 1792695331117,
           "price": 0,

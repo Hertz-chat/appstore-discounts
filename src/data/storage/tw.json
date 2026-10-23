@@ -167137,7 +167137,8 @@
       "Black Weapons Set": "$90.00",
       "LegendaryPackage": "$690.00",
       "Cosmetic Starlight": "$150.00",
-      "Cosmetic Crystal": "$150.00"
+      "Cosmetic Crystal": "$150.00",
+      "Demon Pass": "$320.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -167181,9 +167182,29 @@
       "Black Weapons Set": "$90.00",
       "LegendaryPackage": "$690.00",
       "Cosmetic Starlight": "$150.00",
-      "Cosmetic Crystal": "$150.00"
+      "Cosmetic Crystal": "$150.00",
+      "Demon Pass": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792712656381,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Flash Sale Star Rune 1": "$90.00",
+            "Demon Pass": "$320.00",
+            "First Purchase: Legendary Pack": "$320.00",
+            "Flash Sale Ore Rune 1": "$90.00",
+            "Flash Sale Ore Rune 2": "$60.00",
+            "Flash Sale Crystal 2": "$90.00",
+            "Flash Sale Star Rune 2": "$60.00",
+            "Piggy Bank": "$90.00",
+            "Double Exp Package 1": "$30.00",
+            "Flash Sale Ultimate Essence 1": "$490.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786336645189,
@@ -174500,6 +174521,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792712656381,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "每日英语听力VIP订阅": "$120.00",
+            "国家地理百科精读（第一期）": "$190.00",
+            "赖世雄中级美语下（视频课）": "$490.00",
+            "赖世雄中级美语上（视频课）": "$490.00",
+            "大学英语_外刊精读 | 2025年度TOP100精选": "$990.00",
+            "On Writing Well 英语原版书精读课": "$2,290.00",
+            "听口直通自由—中高级英语精听": "$1,990.00",
+            "听口直通自由—口语输出课": "$1,290.00",
+            "听口直通自由—语音基础": "$190.00",
+            "肖维青英文原著精读课-纳尼亚传奇篇": "$990.00"
+          }
+        },
         {
           "timestamp": 1792695331117,
           "price": 30,
@@ -259103,6 +259141,23 @@
     "history": [
       [
         {
+          "timestamp": 1792712656381,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Round the World Ticket": "$1,490.00",
+            "Welcome Offer": "$990.00",
+            "Europe Expansion": "$490.00",
+            "Japan Expansion": "$390.00",
+            "Legendary Asia Expansion": "$390.00",
+            "Europe Map": "$390.00",
+            "Japan Map": "$320.00",
+            "Legendary Asia Map": "$320.00",
+            "1910 Ticket Pack": "$120.00",
+            "Ticket to Ride ChristmasBundle": "$320.00"
+          }
+        },
+        {
           "timestamp": 1792695331117,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -318816,6 +318871,27 @@
           "timestamp": 1792695331117,
           "price": 30,
           "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6817821959": {
+    "name": "Cafe Days：咖啡店經營",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792712656381,
+          "price": 60,
+          "formattedPrice": "$60.00",
           "inAppPurchases": {}
         }
       ]

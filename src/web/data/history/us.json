@@ -259786,6 +259786,15 @@
     "history": [
       [
         {
+          "timestamp": 1792712656381,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Monthly": "$3.99",
+            "Yearly": "$35.99"
+          }
+        },
+        {
           "timestamp": 1792695331117,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -362784,6 +362793,29 @@
           "timestamp": 1792695331117,
           "price": 0.99,
           "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6817821959": {
+    "trackId": 6817821959,
+    "trackName": "cafedays",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792712656381,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
           "inAppPurchases": {}
         }
       ]

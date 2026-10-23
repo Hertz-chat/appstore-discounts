@@ -13686,6 +13686,25 @@
     "history": [
       [
         {
+          "timestamp": 1792712656381,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Superpower 10": "1,99 €",
+            "Unlock all level packs including future updates": "3,99 €",
+            "Superpower 500": "19,99 €",
+            "Superpower 20": "3,99 €",
+            "Superpower 50": "8,99 €",
+            "Unlock \"Bamboo Chutes\" level pack": "1,99 €",
+            "Unlock \"Sticky Steps\" level pack": "1,99 €",
+            "Unlock \"Rocket Science\" level pack": "1,99 €",
+            "Magnetic Stars Superior Pack": "29,99 €",
+            "Superpower 50 Sale": "5,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792695331117,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -21344,6 +21363,24 @@
       "Desbloquear Arma Biológica": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792712656381,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Pacote de Vírus Necroa": "1,99 €",
+            "Desbloquear 7 Pragas Padrão": "2,99 €",
+            "Desbloquear de Verme Neurax": "1,99 €",
+            "Desbloquear Todos os Genes": "8,99 €",
+            "Desbloquear Vírus": "0,99 €",
+            "Pacote pragas": "11,99 €",
+            "Pacote Cenário": "2,99 €",
+            "Pacote de expansão Gripe símia": "1,99 €",
+            "Pacote de Praga das Sombras": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792569835923,
@@ -97967,6 +98004,14 @@
     "history": [
       [
         {
+          "timestamp": 1792712656381,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792446504330,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -140597,6 +140642,16 @@
     "history": [
       [
         {
+          "timestamp": 1792712656381,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Todas as classes": "9,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790828594798,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -143174,6 +143229,18 @@
       "500'000 Coins": "2,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792712656381,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "1'000'000 Coins": "3,49 €",
+            "200'000 Coins": "1,19 €",
+            "500'000 Coins": "2,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792020712402,
@@ -149324,6 +149391,27 @@
           "timestamp": 1792695331117,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6817821959": {
+    "name": "Cafe Days: gerencie um café",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792712656381,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
           "inAppPurchases": {}
         }
       ]

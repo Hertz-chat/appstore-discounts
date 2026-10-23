@@ -12472,7 +12472,7 @@
   {
     "trackId": 1450908177,
     "region": "tw",
-    "timestamp": 1786336645189,
+    "timestamp": 1792712656381,
     "discounts": [],
     "price": 30,
     "formattedPrice": "$30.00",
@@ -13183,7 +13183,7 @@
   {
     "trackId": 1476509317,
     "region": "tw",
-    "timestamp": 1792695331117,
+    "timestamp": 1792712656381,
     "discounts": [],
     "price": 30,
     "formattedPrice": "$30.00",
@@ -19285,7 +19285,7 @@
   {
     "trackId": 6463616555,
     "region": "tw",
-    "timestamp": 1792695331117,
+    "timestamp": 1792712656381,
     "discounts": [],
     "price": 150,
     "formattedPrice": "$150.00",
@@ -26722,6 +26722,18 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id6814210373",
     "trackName": "Auday - All-Day Watch Recorder",
     "firstRecordedAt": 1791718980381
+  },
+  {
+    "trackId": 6817821959,
+    "region": "tw",
+    "timestamp": 1792712656381,
+    "discounts": [],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6817821959",
+    "trackName": "Cafe Days：咖啡店經營",
+    "firstRecordedAt": 1792712656381
   },
   {
     "trackId": 6817843628,

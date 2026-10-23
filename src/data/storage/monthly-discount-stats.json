@@ -2680,8 +2680,8 @@
       "inAppPurchase": {}
     },
     "1580067723": {
-      "all": 1,
-      "price": 1,
+      "all": 2,
+      "price": 2,
       "inAppPurchase": {}
     },
     "1587301632": {
@@ -2968,6 +2968,16 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6811690345": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6502634839": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     }
   },
   "pt": {
@@ -3002,10 +3012,10 @@
       "inAppPurchase": {}
     },
     "525818839": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "Pacote pragas": 1
+        "Pacote pragas": 2
       }
     },
     "549432607": {
@@ -3493,6 +3503,11 @@
       "inAppPurchase": {}
     },
     "6449748961": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6502634839": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}

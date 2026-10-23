@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1580067723,
+    "region": "tr",
+    "timestamp": 1792712656381,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺149,99",
+        "to": "₺49,99",
+        "range": "[₺19,99 ~ ₺149,99]"
+      }
+    ],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1580067723",
+    "trackName": "Wall of insanity",
+    "firstRecordedAt": 1745614934030
+  },
+  {
+    "trackId": 6502634839,
+    "region": "tr",
+    "timestamp": 1792712656381,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺149,99",
+        "range": "[Free ~ ₺249,99]"
+      }
+    ],
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6502634839",
+    "trackName": "Dungeon Tracer",
+    "firstRecordedAt": 1776705257529
+  },
+  {
+    "trackId": 6811690345,
+    "region": "tr",
+    "timestamp": 1792712656381,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺9,99",
+        "to": "₺2,99",
+        "range": "[₺2,99 ~ ₺9,99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "₺2,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6811690345",
+    "trackName": "Kokoreççi",
+    "firstRecordedAt": 1790526512684
+  },
+  {
     "trackId": 994157520,
     "region": "tr",
     "timestamp": 1792626402303,

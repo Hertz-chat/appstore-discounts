@@ -66972,6 +66972,25 @@
     "history": [
       [
         {
+          "timestamp": 1792798647744,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "6,99 €",
+            "Design Frame Package": "0,99 €",
+            "Social Frame Package": "0,99 €",
+            "Magazine Frame Package": "0,99 €",
+            "Black Frame Pack": "0,99 €",
+            "Geometric Frame Pack": "0,99 €",
+            "Stamp Frame Pack": "0,99 €",
+            "Retro Frame Pack": "0,99 €",
+            "Stroke Frame Pack": "0,99 €",
+            "Color Frame Pack": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791585205739,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -112186,6 +112205,14 @@
     "history": [
       [
         {
+          "timestamp": 1792798647744,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792191938096,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -145031,7 +145058,7 @@
     "maxPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €",
-      "Pro Yearly": "7,00 €",
+      "Pro Yearly": "7,99 €",
       "Pro Monthly": "1,00 €"
     },
     "minPriceInfo": {
@@ -145041,6 +145068,17 @@
       "Pro Monthly": "1,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792798647744,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Pro Yearly": "7,99 €",
+            "Pro Monthly": "1,00 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786561258693,
@@ -149841,6 +149879,48 @@
           "timestamp": 1792781222157,
           "price": 1.99,
           "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6817070335": {
+    "name": "Deck-Man: Cassette Player",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792798647744,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6816896250": {
+    "name": "Tiny Computers",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792798647744,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
           "inAppPurchases": {}
         }
       ]

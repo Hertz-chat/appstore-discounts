@@ -9877,10 +9877,10 @@
   {
     "trackId": 1309638846,
     "region": "pt",
-    "timestamp": 1791585205739,
+    "timestamp": 1792798647744,
     "discounts": [],
-    "price": 1.99,
-    "formattedPrice": "1,99 €",
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1309638846",
     "trackName": "Vintage Camera - Goodak",
@@ -20201,7 +20201,7 @@
   {
     "trackId": 6742218180,
     "region": "pt",
-    "timestamp": 1786561258693,
+    "timestamp": 1792798647744,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "2,99 €",
@@ -20969,10 +20969,10 @@
   {
     "trackId": 6746136017,
     "region": "pt",
-    "timestamp": 1792191938096,
+    "timestamp": 1792798647744,
     "discounts": [],
-    "price": 7.99,
-    "formattedPrice": "7,99 €",
+    "price": 9.99,
+    "formattedPrice": "9,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6746136017",
     "trackName": "Astrea: Six-Sided Oracles",
@@ -24677,6 +24677,30 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id6814210373",
     "trackName": "Auday - All-Day Watch Recorder",
     "firstRecordedAt": 1791718980381
+  },
+  {
+    "trackId": 6816896250,
+    "region": "pt",
+    "timestamp": 1792798647744,
+    "discounts": [],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6816896250",
+    "trackName": "Tiny Computers",
+    "firstRecordedAt": 1792798647744
+  },
+  {
+    "trackId": 6817070335,
+    "region": "pt",
+    "timestamp": 1792798647744,
+    "discounts": [],
+    "price": 5.99,
+    "formattedPrice": "5,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6817070335",
+    "trackName": "Deck-Man: Cassette Player",
+    "firstRecordedAt": 1792798647744
   },
   {
     "trackId": 6817821959,

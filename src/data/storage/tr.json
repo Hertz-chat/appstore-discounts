@@ -5138,7 +5138,7 @@
       "Unlock All Tier 5": "₺12.999,99",
       "Unlock All Tier 7": "₺19.999,99",
       "Unlock All Tier 4": "₺9.999,99",
-      "THD+n Module": "₺449,99",
+      "THD+n Module": "₺499,99",
       "Impedance Module": "₺1.499,99",
       "SPL Traffic Light": "₺499,99",
       "Gated Noise RT60": "₺1.999,99",
@@ -5180,6 +5180,25 @@
       "Max Subwoofer SPL": "₺1.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792798647744,
+          "price": 999.99,
+          "formattedPrice": "₺999,99",
+          "inAppPurchases": {
+            "SPL Graph Module": "₺499,99",
+            "SPL Pro Module": "₺399,99",
+            "Polarity Test Module": "₺199,99",
+            "ETC Module": "₺299,99",
+            "THD+n Module": "₺499,99",
+            "Impedance Module": "₺1.499,99",
+            "Speaker Distortion": "₺299,99",
+            "IR Module": "₺2.499,99",
+            "SPL Traffic Light": "₺499,99",
+            "SoundScope VR": "₺1.299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787423346326,
@@ -136138,6 +136157,25 @@
     "history": [
       [
         {
+          "timestamp": 1792798647744,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "Design Frame Package": "₺49,99",
+            "Social Frame Package": "₺49,99",
+            "Magazine Frame Package": "₺49,99",
+            "Black Frame Pack": "₺49,99",
+            "Geometric Frame Pack": "₺49,99",
+            "Stamp Frame Pack": "₺49,99",
+            "Retro Frame Pack": "₺49,99",
+            "Stroke Frame Pack": "₺49,99",
+            "Color Frame Pack": "₺49,99",
+            "Upgrade Deluxe Edition": "₺299,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791585205739,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -164378,6 +164416,25 @@
       "Chopper Token": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792798647744,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺599,99",
+            "Orient Express": "₺199,99",
+            "New York 2121 Board": "₺399,99",
+            "The Dragon": "₺199,99",
+            "Golden Dice": "₺249,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "The Complete Collection": "₺1.999,99",
+            "Big Cities USA Explorer Pack": "₺149,99",
+            "Diamond Bundle": "₺699,99",
+            "Victorian London Board": "₺399,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792781222157,
@@ -204529,6 +204586,25 @@
     "history": [
       [
         {
+          "timestamp": 1792798647744,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Daniel skin": "₺49,99",
+            "Reyna skin": "₺49,99",
+            "Jorge skin": "₺49,99",
+            "Gloria skin": "₺49,99",
+            "Purple menu color": "₺199,99",
+            "Red menu color": "₺99,99",
+            "Yellow menu color": "₺49,99",
+            "James character": "₺49,99",
+            "Lisa character": "₺0,00",
+            "Elsa character": "₺49,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786701637597,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -241534,6 +241610,25 @@
     "history": [
       [
         {
+          "timestamp": 1792798647744,
+          "price": 229,
+          "formattedPrice": "₺229,00",
+          "inAppPurchases": {
+            "JD 9000 Series + 390 Plus": "₺99,99",
+            "Vervaet Hydro Trike 5x5": "₺99,99",
+            "Kubota RTV-XG850 SIDEKICK": "₺99,99",
+            "Case IH Austoft 8800 Multi-Row": "₺99,99",
+            "Krone BiG Pack 1290 HDP VC": "₺49,99",
+            "Kotte PQ 32000": "₺49,99",
+            "KINZE 3665 Blue Drive": "₺49,99",
+            "Versatile 4WD 620": "₺99,99",
+            "Amazone CITAN 15001-C": "₺49,99",
+            "Claas Xerion 5000": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792656146968,
           "price": 229,
           "formattedPrice": "₺229,00",
@@ -272810,6 +272905,14 @@
     "history": [
       [
         {
+          "timestamp": 1792798647744,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792191938096,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -291017,7 +291120,7 @@
     "maxPriceInfo": {
       "price": 149.99,
       "formattedPrice": "₺149,99",
-      "Pro Yearly": "₺299,99",
+      "Pro Yearly": "₺399,99",
       "Pro Monthly": "₺49,99"
     },
     "minPriceInfo": {
@@ -291027,6 +291130,17 @@
       "Pro Monthly": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792798647744,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "Pro Yearly": "₺399,99",
+            "Pro Monthly": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786561258693,
@@ -294616,6 +294730,25 @@
     "history": [
       [
         {
+          "timestamp": 1792798647744,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tower Sniper": "₺299,99",
+            "Hero Ashbite": "₺399,99",
+            "Hero Drakkan": "₺399,99",
+            "Spell Aspect of Sol": "₺249,99",
+            "ALL TOWERS BUNDLE": "₺999,99",
+            "ALL SPELLS BUNDLE": "₺699,99",
+            "Hero Oni": "₺249,99",
+            "Tower Alchemist": "₺149,99",
+            "Tower Wildcat": "₺249,99",
+            "Tower Ironbark": "₺399,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792742526515,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -296826,6 +296959,48 @@
           "timestamp": 1792781222157,
           "price": 99.99,
           "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6817070335": {
+    "name": "Deck-Man: Cassette Player",
+    "maxPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792798647744,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6816896250": {
+    "name": "Tiny Computers",
+    "maxPriceInfo": {
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
+    },
+    "minPriceInfo": {
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792798647744,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
           "inAppPurchases": {}
         }
       ]

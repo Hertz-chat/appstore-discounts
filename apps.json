@@ -2,6 +2,20 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6817070335,
+      "name": {
+        "us": "Deck-Man: Cassette Player"
+      },
+      "addType": "auto"
+    },
+    {
+      "id": 6816896250,
+      "name": {
+        "us": "Tiny Computers"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 6767158612,
       "name": {
         "mo": "Matplotlib教程大全-Python数据可视化编程工具"

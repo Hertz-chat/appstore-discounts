@@ -4654,7 +4654,7 @@
   {
     "trackId": 650684932,
     "region": "us",
-    "timestamp": 1792656146968,
+    "timestamp": 1792846729867,
     "discounts": [],
     "price": 9.99,
     "formattedPrice": "$9.99",
@@ -5122,7 +5122,7 @@
   {
     "trackId": 727544019,
     "region": "us",
-    "timestamp": 1792352844500,
+    "timestamp": 1792846729867,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -7833,7 +7833,7 @@
   {
     "trackId": 1050535507,
     "region": "us",
-    "timestamp": 1792827674174,
+    "timestamp": 1792846729867,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "$1.99",
@@ -12326,7 +12326,7 @@
   {
     "trackId": 1448573670,
     "region": "us",
-    "timestamp": 1792827674174,
+    "timestamp": 1792846729867,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -13820,7 +13820,7 @@
   {
     "trackId": 1499001662,
     "region": "us",
-    "timestamp": 1792781222157,
+    "timestamp": 1792846729867,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -24495,6 +24495,18 @@
     "firstRecordedAt": 1775743448156
   },
   {
+    "trackId": 6758999138,
+    "region": "us",
+    "timestamp": 1792846729867,
+    "discounts": [],
+    "price": 4.99,
+    "formattedPrice": "$4.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6758999138",
+    "trackName": "Knightica",
+    "firstRecordedAt": 1792846729867
+  },
+  {
     "trackId": 6759071028,
     "region": "us",
     "timestamp": 1777558450612,
@@ -24653,7 +24665,7 @@
   {
     "trackId": 6759664029,
     "region": "us",
-    "timestamp": 1792827674174,
+    "timestamp": 1792846729867,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "$6.99",
@@ -25325,7 +25337,7 @@
   {
     "trackId": 6766166468,
     "region": "us",
-    "timestamp": 1792569835923,
+    "timestamp": 1792846729867,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -26427,6 +26439,18 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id6812927976",
     "trackName": "Enchanted Survival: Magic RPG",
     "firstRecordedAt": 1791507612931
+  },
+  {
+    "trackId": 6813841355,
+    "region": "us",
+    "timestamp": 1792846729867,
+    "discounts": [],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6813841355",
+    "trackName": "Toastie: grilled cheese game",
+    "firstRecordedAt": 1792846729867
   },
   {
     "trackId": 6814210373,

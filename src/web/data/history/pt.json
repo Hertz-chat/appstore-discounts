@@ -51961,6 +51961,23 @@
     "history": [
       [
         {
+          "timestamp": 1792846729867,
+          "price": 0.49,
+          "formattedPrice": "0,49 €",
+          "inAppPurchases": {
+            "20,000 points": "0,99 €",
+            "63,000 points": "2,99 €",
+            "500,000 points": "9,99 €",
+            "176,000 points": "8,99 €",
+            "100,000 points": "2,99 €",
+            "25,000 points": "0,99 €",
+            "225,000 points": "9,99 €",
+            "345,000 points": "17,99 €",
+            "300,000 points": "8,99 €",
+            "7,000,000 points": "89,99 €"
+          }
+        },
+        {
           "timestamp": 1792827674174,
           "price": 0.49,
           "formattedPrice": "0,49 €",
@@ -154161,6 +154178,52 @@
           "timestamp": 1792798647744,
           "price": 3.99,
           "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6758999138": {
+    "trackId": 6758999138,
+    "trackName": "Knightica",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792846729867,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6813841355": {
+    "trackId": 6813841355,
+    "trackName": "Toastie: grilled cheese game",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792846729867,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
           "inAppPurchases": {}
         }
       ]

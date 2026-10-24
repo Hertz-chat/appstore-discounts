@@ -32994,7 +32994,15 @@
       "Calendars - CBA Basketball Men China 2015-2016 edition": "HK$ 8.00",
       "Calendars - LFB Basketball Women France 2015-2016 edition": "HK$ 8.00",
       "Calendars - Eredivisie Handball Men Netherlands 2015-2016 edition": "HK$ 8.00",
-      "Calendars - Eredivisie Handball Women Netherlands 2015-2016 edition": "HK$ 8.00"
+      "Calendars - Eredivisie Handball Women Netherlands 2015-2016 edition": "HK$ 8.00",
+      "AEX Company Calendars": "HK$ 22.00",
+      "DAX Company Calendars": "HK$ 22.00",
+      "FTSE 100 Company Calendars": "HK$ 22.00",
+      "DJ 30 Company Calendars": "HK$ 22.00",
+      "AMX Company Calendars": "HK$ 22.00",
+      "BEL 20 Company Calendars": "HK$ 22.00",
+      "CAC 40 Company Calendars": "HK$ 22.00",
+      "NASDAQ 100 Company Calendars": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 88,
@@ -33017,9 +33025,36 @@
       "Calendars - CBA Basketball Men China 2015-2016 edition": "HK$ 8.00",
       "Calendars - LFB Basketball Women France 2015-2016 edition": "HK$ 8.00",
       "Calendars - Eredivisie Handball Men Netherlands 2015-2016 edition": "HK$ 8.00",
-      "Calendars - Eredivisie Handball Women Netherlands 2015-2016 edition": "HK$ 8.00"
+      "Calendars - Eredivisie Handball Women Netherlands 2015-2016 edition": "HK$ 8.00",
+      "AEX Company Calendars": "HK$ 22.00",
+      "DAX Company Calendars": "HK$ 22.00",
+      "FTSE 100 Company Calendars": "HK$ 22.00",
+      "DJ 30 Company Calendars": "HK$ 22.00",
+      "AMX Company Calendars": "HK$ 22.00",
+      "BEL 20 Company Calendars": "HK$ 22.00",
+      "CAC 40 Company Calendars": "HK$ 22.00",
+      "NASDAQ 100 Company Calendars": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792846729867,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "+800 Emoji Stickers": "HK$ 8.00",
+            "AEX Company Calendars": "HK$ 22.00",
+            "DAX Company Calendars": "HK$ 22.00",
+            "FTSE 100 Company Calendars": "HK$ 22.00",
+            "DJ 30 Company Calendars": "HK$ 22.00",
+            "Religious holidays": "HK$ 8.00",
+            "AMX Company Calendars": "HK$ 22.00",
+            "BEL 20 Company Calendars": "HK$ 22.00",
+            "CAC 40 Company Calendars": "HK$ 22.00",
+            "NASDAQ 100 Company Calendars": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791316756993,
@@ -306508,6 +306543,48 @@
           "timestamp": 1792798647744,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6758999138": {
+    "name": "鬥陣騎士 Knightica",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792846729867,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6813841355": {
+    "name": "Toastie: grilled cheese game",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792846729867,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
           "inAppPurchases": {}
         }
       ]

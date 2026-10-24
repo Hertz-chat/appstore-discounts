@@ -149872,6 +149872,25 @@
     "history": [
       [
         {
+          "timestamp": 1792808084244,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$5.99",
+            "Retro Frame Pack": "$0.99",
+            "Color Frame Pack": "$0.99",
+            "Blue Cam Film Pack": "$0.99",
+            "Stroke Frame Pack": "$0.99",
+            "Black Cam Film Pack": "$0.99",
+            "Purple Cam Film Pack": "$0.99",
+            "Green Cam Film Pack": "$0.99",
+            "Stamp Frame Pack": "$0.99",
+            "Red Cam Film Pack": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791606695944,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -332840,6 +332859,14 @@
     "history": [
       [
         {
+          "timestamp": 1792808084244,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792221339483,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -344175,6 +344202,25 @@
     "history": [
       [
         {
+          "timestamp": 1792808084244,
+          "price": 3.49,
+          "formattedPrice": "$3.49",
+          "inAppPurchases": {
+            "WIREFRAME RAINBOW": "$0.99",
+            "RED-WHITE RYUKIN": "$1.99",
+            "RED RYUKIN": "$1.99",
+            "CALICO RED/WHITE/BLACK": "$1.99",
+            "PANDA TELESCOPE": "$1.99",
+            "ROBO FISH 01": "$1.99",
+            "ORANGE & WHITE KITTY FISH": "$1.99",
+            "ORANGE/WHITE": "$1.99",
+            "ZOMBIE FISH": "$1.99",
+            "SKELETON FISH": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792308581189,
           "price": 3.49,
           "formattedPrice": "$3.49",
@@ -353759,7 +353805,7 @@
     "maxPriceInfo": {
       "price": 2.99,
       "formattedPrice": "$2.99",
-      "Pro Yearly": "$6.00",
+      "Pro Yearly": "$6.99",
       "Pro Monthly": "$1.00"
     },
     "minPriceInfo": {
@@ -353769,6 +353815,17 @@
       "Pro Monthly": "$1.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792808084244,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Pro Yearly": "$6.99",
+            "Pro Monthly": "$1.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786571006662,

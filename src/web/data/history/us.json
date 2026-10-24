@@ -61699,6 +61699,29 @@
       ]
     ]
   },
+  "603037910": {
+    "trackId": 603037910,
+    "trackName": "SP Camera",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792827674174,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "605274104": {
     "trackId": 605274104,
     "trackName": "Matthew Henry Study Bible",
@@ -78663,6 +78686,29 @@
           "timestamp": 1745604174662,
           "price": 2.99,
           "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "847381935": {
+    "trackId": 847381935,
+    "trackName": "DRAGON QUEST IV",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "$8.99"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "$8.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792827674174,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
           "inAppPurchases": {}
         }
       ]
@@ -104530,6 +104576,25 @@
       "Challenge Pass \"Virtual Campus\"": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792827674174,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Side Story Chapter 1": "$3.99",
+            "Side Story Chapter 2": "$3.99",
+            "Expansion Chapter B": "$3.99",
+            "Expansion Chapter C": "$3.99",
+            "Expansion Chapter D": "$3.99",
+            "Expansion Chapter E": "$3.99",
+            "Expansion Chapter F": "$3.99",
+            "Expansion Chapter G": "$3.99",
+            "Expansion Chapter H": "$3.99",
+            "Expansion Chapter I": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792798647744,
@@ -144790,6 +144855,25 @@
     "history": [
       [
         {
+          "timestamp": 1792827674174,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Miku": "$9.99",
+            "CAPSO": "$9.99",
+            "ConneR": "$9.99",
+            "Xenon": "$9.99",
+            "9 Characters": "$34.99",
+            "Cherry": "$9.99",
+            "Kizuna AI": "$9.99",
+            "Nora": "$9.99",
+            "Neko": "$9.99",
+            "Marvelous Mix vol. 1": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792763643625,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -176503,6 +176587,25 @@
       "2080 gems": "$29.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792827674174,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "7200 gems": "$99.99",
+            "60 gems": "$0.99",
+            "310 gems": "$4.99",
+            "2080 gems": "$29.99",
+            "Gold Decree": "$89.99",
+            "Silver Decree": "$49.99",
+            "Resource Package": "$2.99",
+            "Heroic Package#1": "$9.99",
+            "Heroic Package#2": "$9.99",
+            "Role Package": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792397485602,
@@ -294951,6 +295054,25 @@
     "history": [
       [
         {
+          "timestamp": 1792827674174,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Round the World Ticket": "$49.99",
+            "1910 Ticket Pack": "$3.99",
+            "Europe Expansion": "$14.99",
+            "The Spooktacular Halloween Bundle": "$7.99",
+            "Welcome Offer": "$29.99",
+            "Ticket to Ride ChristmasBundle": "$9.99",
+            "Europe Map": "$12.99",
+            "Ticket to Ride Sale Offer": "$29.99",
+            "Nordic Expansion": "$12.99",
+            "Legendary Asia Expansion": "$12.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792763643625,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -361645,6 +361767,25 @@
     "history": [
       [
         {
+          "timestamp": 1792827674174,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Tower Sniper": "$5.99",
+            "Gems Pouch": "$4.99",
+            "Tower Wildcat": "$4.99",
+            "Hero Oni": "$4.99",
+            "Tower Alchemist": "$2.99",
+            "Hero Ignus": "$2.99",
+            "ALL SPELLS BUNDLE": "$12.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792798647744,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -362049,13 +362190,28 @@
     "region": "us",
     "maxPriceInfo": {
       "price": 19.99,
-      "formattedPrice": "$19.99"
+      "formattedPrice": "$19.99",
+      "Professional Dates Yearly": "$119.99",
+      "Professional Dates Monthly": "$14.99"
     },
     "minPriceInfo": {
       "price": 19.99,
-      "formattedPrice": "$19.99"
+      "formattedPrice": "$19.99",
+      "Professional Dates Yearly": "$119.99",
+      "Professional Dates Monthly": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792827674174,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "Professional Dates Yearly": "$119.99",
+            "Professional Dates Monthly": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,

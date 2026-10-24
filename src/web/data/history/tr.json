@@ -18350,6 +18350,25 @@
     "history": [
       [
         {
+          "timestamp": 1792827674174,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "₺199,99",
+            "Gold Monthly": "₺349,99",
+            "Predictive Report - Full": "₺199,99",
+            "Gold Level Free Trial": "₺0,00",
+            "Relationship Report": "₺199,99",
+            "Birthday Report": "₺199,99",
+            "7-day Trial Astrolocality": "₺0,00",
+            "Child Report - Full": "₺199,99",
+            "Astrolocality Maps": "₺1.299,99",
+            "Predictive Report - No Background": "₺149,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792781222157,
           "price": 0,
           "formattedPrice": "Free",
@@ -22444,6 +22463,25 @@
       "Sliced Synth Sequences": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792827674174,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "₺49,99",
+            "Voices": "₺49,99",
+            "Varazdin Orchestral Mobile": "₺199,99",
+            "Sliced Beats": "₺49,99",
+            "Amped Guitar & Bass": "₺149,99",
+            "Synth Lead": "₺99,99",
+            "Acoustic Guitars": "₺49,99",
+            "Synth Plucks": "₺99,99",
+            "Drumaxx": "₺99,99",
+            "Brazil Bass": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792569835923,
@@ -60524,6 +60562,29 @@
       ]
     ]
   },
+  "603037910": {
+    "trackId": 603037910,
+    "trackName": "SP Camera",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "minPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792827674174,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "605274104": {
     "trackId": 605274104,
     "trackName": "Matthew Henry Study Bible",
@@ -73112,6 +73173,29 @@
           "timestamp": 1745604174662,
           "price": 129.99,
           "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "847381935": {
+    "trackId": 847381935,
+    "trackName": "DRAGON QUEST IV",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "minPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792827674174,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
           "inAppPurchases": {}
         }
       ]
@@ -166632,6 +166716,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792827674174,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺599,99",
+            "Orient Express": "₺199,99",
+            "New York 2121 Board": "₺399,99",
+            "Golden Dice": "₺249,99",
+            "The Dragon": "₺199,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "The Complete Collection": "₺1.999,99",
+            "Victorian London Board": "₺399,99",
+            "Welcome Offer": "₺999,99",
+            "Big Cities USA Explorer Pack": "₺149,99"
+          }
+        },
         {
           "timestamp": 1792798647744,
           "price": 249.99,
@@ -300101,13 +300202,28 @@
     "region": "tr",
     "maxPriceInfo": {
       "price": 999.99,
-      "formattedPrice": "₺999,99"
+      "formattedPrice": "₺999,99",
+      "Professional Dates Yearly": "₺5.999,99",
+      "Professional Dates Monthly": "₺799,99"
     },
     "minPriceInfo": {
       "price": 999.99,
-      "formattedPrice": "₺999,99"
+      "formattedPrice": "₺999,99",
+      "Professional Dates Yearly": "₺5.999,99",
+      "Professional Dates Monthly": "₺799,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792827674174,
+          "price": 999.99,
+          "formattedPrice": "₺999,99",
+          "inAppPurchases": {
+            "Professional Dates Yearly": "₺5.999,99",
+            "Professional Dates Monthly": "₺799,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,

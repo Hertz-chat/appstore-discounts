@@ -48878,6 +48878,23 @@
     "history": [
       [
         {
+          "timestamp": 1792871696104,
+          "price": 11.99,
+          "formattedPrice": "USD 11.99",
+          "inAppPurchases": {
+            "STANDARD ROCK KIT": "USD 0.00",
+            "DEEP BLUE": "USD 0.00",
+            "BEEPING BOBBIE": "USD 0.00",
+            "ISAAC'S NEW TONES": "USD 0.99",
+            "GROOVY GUT SHAKER": "USD 1.99",
+            "DARK DUNGEON OF DESPAIR": "USD 0.99",
+            "CAMPBELL'S CANS": "USD 0.99",
+            "FUSION FLIPPO": "USD 0.99",
+            "BLADE OF JUSTICE": "USD 0.99",
+            "HIGH FIVE": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1792863731561,
           "price": 11.99,
           "formattedPrice": "USD 11.99",
@@ -61069,8 +61086,8 @@
     "trackName": "ProShot",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "USD 7.99",
+      "price": 8.99,
+      "formattedPrice": "USD 8.99",
       "捐款": "USD 4.99"
     },
     "minPriceInfo": {
@@ -61079,6 +61096,16 @@
       "捐款": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792871696104,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {
+            "捐款": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784016228442,
@@ -216249,6 +216276,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792871696104,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "綠色深淵": "USD 4.99",
+            "聖魔法學會的聖女": "USD 2.99",
+            "騎士的榮耀": "USD 1.99",
+            "角鬥場": "USD 1.99",
+            "動力裝甲": "USD 0.99",
+            "殉道者": "USD 2.99",
+            "狂戰士": "USD 0.99",
+            "傳奇之拳": "USD 1.99",
+            "支持者角色": "USD 0.49",
+            "支持者季票": "USD 0.49"
+          }
+        },
         {
           "timestamp": 1792863731561,
           "price": 6.99,

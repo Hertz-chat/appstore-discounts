@@ -13220,6 +13220,16 @@
     "history": [
       [
         {
+          "timestamp": 1792871696104,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Premium": "22,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -39812,8 +39822,8 @@
   "924438909": {
     "name": "ProShot",
     "maxPriceInfo": {
-      "price": 8.99,
-      "formattedPrice": "8,99 €",
+      "price": 9.99,
+      "formattedPrice": "9,99 €",
       "Donation": "5,99 €"
     },
     "minPriceInfo": {
@@ -39822,6 +39832,16 @@
       "Donation": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792871696104,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Donation": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777050395660,

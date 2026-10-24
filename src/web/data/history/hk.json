@@ -76396,8 +76396,8 @@
     "trackName": "ProShot",
     "region": "hk",
     "maxPriceInfo": {
-      "price": 58,
-      "formattedPrice": "HK$ 58.00",
+      "price": 68,
+      "formattedPrice": "HK$ 68.00",
       "捐款": "HK$ 38.00"
     },
     "minPriceInfo": {
@@ -76406,6 +76406,16 @@
       "捐款": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792871696104,
+          "price": 68,
+          "formattedPrice": "HK$ 68.00",
+          "inAppPurchases": {
+            "捐款": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790933058173,

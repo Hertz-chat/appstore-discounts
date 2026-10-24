@@ -79262,8 +79262,8 @@
   "924438909": {
     "name": "ProShot",
     "maxPriceInfo": {
-      "price": 399.99,
-      "formattedPrice": "₺399,99",
+      "price": 499.99,
+      "formattedPrice": "₺499,99",
       "Donation": "₺249,99"
     },
     "minPriceInfo": {
@@ -79272,6 +79272,16 @@
       "Donation": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792871696104,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {
+            "Donation": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777050395660,

@@ -51202,14 +51202,22 @@
     "trackName": "Tuner T1 Pro",
     "region": "cn",
     "maxPriceInfo": {
-      "price": 38,
-      "formattedPrice": "¥38.00"
+      "price": 88,
+      "formattedPrice": "¥88.00"
     },
     "minPriceInfo": {
       "price": 22,
       "formattedPrice": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792863731561,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750255981109,
@@ -141492,6 +141500,14 @@
       "formattedPrice": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792863731561,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792462971499,
@@ -238840,7 +238856,7 @@
   },
   "6752662508": {
     "trackId": 6752662508,
-    "trackName": "时光轨迹-足迹·每日轨迹·记录一生轨迹·GPS",
+    "trackName": "足迹-时光轨迹·每日轨迹·记录一生轨迹·GPS",
     "region": "cn",
     "maxPriceInfo": {
       "price": 8,

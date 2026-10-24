@@ -96853,14 +96853,22 @@
     "trackName": "Tuner T1 Pro",
     "region": "us",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99"
+      "price": 12.99,
+      "formattedPrice": "$12.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792863731561,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750255981109,
@@ -222579,6 +222587,25 @@
     "history": [
       [
         {
+          "timestamp": 1792863731561,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Nexus of Nightmares": "$5.99",
+            "Synthesis Support Pack": "$3.99",
+            "Infernal Invasions": "$5.99",
+            "Vaul of the Void Promo Pack": "$0.00",
+            "Eclypse Supporter Pack": "$3.99",
+            "Dawncaster Origins Bundle": "$4.99",
+            "Dawncaster Mega Bundle": "$12.99",
+            "Siege of Shadows": "$4.99",
+            "Catalyst Support Pack": "$4.99",
+            "Masks of Misery": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792004450196,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -270520,6 +270547,25 @@
       "Weapon Upgrade Ticket x1 (D)": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792863731561,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Separate Ways": "$9.99",
+            "Attaché Case: 'Gold'": "$0.99",
+            "Attaché Case: 'Classic'": "$0.99",
+            "Charm: 'Handgun Ammo'": "$0.99",
+            "Weapon Upgrade Ticket x1 (B)": "$2.99",
+            "Charm: 'Green Herb'": "$0.99",
+            "Weapon Upgrade Ticket x1 (D)": "$2.99",
+            "Weapon Upgrade Ticket x3 (B)": "$6.99",
+            "Weapon Upgrade Ticket x1 (C)": "$2.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791540411692,

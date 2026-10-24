@@ -27860,6 +27860,14 @@
     "history": [
       [
         {
+          "timestamp": 1792863731561,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791649753895,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -84390,14 +84398,22 @@
   "954982733": {
     "name": "Tuner T1 Pro",
     "maxPriceInfo": {
-      "price": 150,
-      "formattedPrice": "$150.00"
+      "price": 390,
+      "formattedPrice": "$390.00"
     },
     "minPriceInfo": {
       "price": 90,
       "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792863731561,
+          "price": 390,
+          "formattedPrice": "$390.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750255981109,
@@ -91475,6 +91491,25 @@
       "秘密書房精選輯第十四部-B": "$220.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792863731561,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "支線第一章": "$120.00",
+            "支線第二章": "$120.00",
+            "擴充章節B": "$120.00",
+            "擴充章節C": "$120.00",
+            "擴充章節D": "$120.00",
+            "擴充章節E": "$120.00",
+            "擴充章節F": "$120.00",
+            "擴充章節G": "$120.00",
+            "擴充章節H": "$120.00",
+            "擴充章節 I": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792136164280,
@@ -185309,6 +185344,14 @@
     "history": [
       [
         {
+          "timestamp": 1792863731561,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791649753895,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -196532,6 +196575,14 @@
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792863731561,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792462971499,
@@ -220985,6 +221036,14 @@
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792863731561,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788969564190,
@@ -283470,6 +283529,17 @@
       "The Weaver": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792863731561,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "The Weaver": "$90.00",
+            "Developer Supporter Pack": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786025220529,

@@ -65939,6 +65939,23 @@
     "history": [
       [
         {
+          "timestamp": 1792893676791,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2015 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2013 Enhanced Diagnostics": "$14.99",
+            "Toyota 2017 Enhanced Diagnostics": "$14.99",
+            "Ford 2013 Enhanced Diagnostics": "$14.99"
+          }
+        },
+        {
           "timestamp": 1792881993930,
           "price": 9.99,
           "formattedPrice": "$9.99",

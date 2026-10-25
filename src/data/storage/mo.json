@@ -90796,6 +90796,23 @@
     "history": [
       [
         {
+          "timestamp": 1792893676791,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "全部 DLC": "USD 0.00",
+            "高清材質": "USD 0.00",
+            "All DLC": "USD 0.00",
+            "HD Textures": "USD 0.00",
+            "道路與賽道套件": "USD 0.00",
+            "房車傳奇套件": "USD 0.00",
+            "衝刺套件": "USD 0.00",
+            "直線競速賽套件": "USD 0.00",
+            "英式精粹套件": "USD 0.00",
+            "黑色版本套件": "USD 0.00"
+          }
+        },
+        {
           "timestamp": 1792881993930,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -105295,6 +105312,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792893676791,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "60心动包": "USD 0.99",
+            "红包": "USD 0.99",
+            "300心动包": "USD 3.99",
+            "680心动包": "USD 9.99",
+            "超值金币x1440": "USD 0.99",
+            "便捷礼包": "USD 2.99",
+            "180心动包": "USD 2.99",
+            "超凡礼包": "USD 29.99",
+            "超值月卡": "USD 3.99",
+            "120心动包": "USD 1.99"
+          }
+        },
         {
           "timestamp": 1792881993930,
           "price": 0.99,

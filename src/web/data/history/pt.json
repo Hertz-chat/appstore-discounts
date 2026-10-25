@@ -15355,6 +15355,25 @@
     "history": [
       [
         {
+          "timestamp": 1792893676791,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Stern Pack 1": "5,99 €",
+            "Big Buck Hunter Single Table": "9,99 €",
+            "Whoa Nellie Single Table": "9,99 €",
+            "Stern Pack 3": "17,99 €",
+            "Star Trek Single Table": "5,99 €",
+            "Mustang Single Table": "9,99 €",
+            "Ghostbusters Single Table": "9,99 €",
+            "Dr. Who Master of Time": "5,99 €",
+            "Farsight Ball Pack": "1,99 €",
+            "Stern Ball Pack 1": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790020348261,
           "price": 0.99,
           "formattedPrice": "0,99 €",

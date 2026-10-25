@@ -1110,7 +1110,7 @@
   {
     "trackId": 363738376,
     "region": "tw",
-    "timestamp": 1792871696104,
+    "timestamp": 1792881993930,
     "discounts": [],
     "price": 790,
     "formattedPrice": "$790.00",
@@ -2945,7 +2945,7 @@
   {
     "trackId": 491231653,
     "region": "tw",
-    "timestamp": 1792808084244,
+    "timestamp": 1792881993930,
     "discounts": [],
     "price": 60,
     "formattedPrice": "$60.00",
@@ -6726,7 +6726,7 @@
   {
     "trackId": 954724812,
     "region": "tw",
-    "timestamp": 1791687637772,
+    "timestamp": 1792881993930,
     "discounts": [],
     "price": 30,
     "formattedPrice": "$30.00",
@@ -11252,7 +11252,7 @@
   {
     "trackId": 1370362850,
     "region": "tw",
-    "timestamp": 1788476366977,
+    "timestamp": 1792881993930,
     "discounts": [],
     "price": 30,
     "formattedPrice": "$30.00",
@@ -19718,7 +19718,7 @@
   {
     "trackId": 6473001577,
     "region": "tw",
-    "timestamp": 1792846729867,
+    "timestamp": 1792881993930,
     "discounts": [],
     "price": 120,
     "formattedPrice": "$120.00",
@@ -23761,7 +23761,7 @@
     "formattedPrice": "$30.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6752662508",
-    "trackName": "足跡·TimeTrails·每日軌跡·記錄一生軌跡·GPS",
+    "trackName": "足跡·TimeTrails GPS軌跡記錄",
     "firstRecordedAt": 1788345787844
   },
   {
@@ -25020,7 +25020,7 @@
   {
     "trackId": 6759664029,
     "region": "tw",
-    "timestamp": 1792846729867,
+    "timestamp": 1792881993930,
     "discounts": [],
     "price": 220,
     "formattedPrice": "$220.00",
@@ -25412,6 +25412,18 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id6761413198",
     "trackName": "That's not my Neighbor.",
     "firstRecordedAt": 1779367775031
+  },
+  {
+    "trackId": 6761418873,
+    "region": "tw",
+    "timestamp": 1792881993930,
+    "discounts": [],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6761418873",
+    "trackName": "Kolluk",
+    "firstRecordedAt": 1792881993930
   },
   {
     "trackId": 6761488276,

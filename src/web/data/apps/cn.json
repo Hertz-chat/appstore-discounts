@@ -11900,7 +11900,7 @@
   {
     "trackId": 6473332700,
     "region": "cn",
-    "timestamp": 1792695331117,
+    "timestamp": 1792881993930,
     "discounts": [],
     "price": 35,
     "formattedPrice": "¥35.00",
@@ -15333,6 +15333,18 @@
     "trackViewUrl": "https://apps.apple.com/cn/app/id6761366366",
     "trackName": "ZineControl",
     "firstRecordedAt": 1781945771294
+  },
+  {
+    "trackId": 6761418873,
+    "region": "cn",
+    "timestamp": 1792881993930,
+    "discounts": [],
+    "price": 1,
+    "formattedPrice": "¥1.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6761418873",
+    "trackName": "Kolluk",
+    "firstRecordedAt": 1792881993930
   },
   {
     "trackId": 6761575159,

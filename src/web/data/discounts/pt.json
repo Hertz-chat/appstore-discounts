@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 443646748,
+    "region": "pt",
+    "timestamp": 1792881993930,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Fitness Buddy Premium",
+        "from": "46,99 €",
+        "to": "29,99 €",
+        "range": "[29,99 € ~ 46,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id443646748",
+    "trackName": "Fitness Amigo+",
+    "firstRecordedAt": 1788900351663
+  },
+  {
+    "trackId": 1630887189,
+    "region": "pt",
+    "timestamp": 1792881993930,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "3,99 €",
+        "range": "[1,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1630887189",
+    "trackName": "20 Minutes Till Dawn",
+    "firstRecordedAt": 1773607101601
+  },
+  {
+    "trackId": 6477535804,
+    "region": "pt",
+    "timestamp": 1792881993930,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6477535804",
+    "trackName": "Vault of the Void",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 6471594918,
     "region": "pt",
     "timestamp": 1792781222157,
@@ -2046,7 +2106,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6752662508",
-    "trackName": "Pegadas·TimeTrails·GPS",
+    "trackName": "TimeTrails: Registo GPS",
     "firstRecordedAt": 1788345787844
   },
   {

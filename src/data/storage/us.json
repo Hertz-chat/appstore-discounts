@@ -65119,7 +65119,17 @@
       "Ford 2016 Enhanced Diagnostics": "$14.99",
       "Toyota 2016 Enhanced Diagnostics": "$14.99",
       "Ford 2004 Enhanced Diagnostics": "$14.99",
-      "Toyota 2014 Enhanced Diagnostics": "$14.99"
+      "Toyota 2014 Enhanced Diagnostics": "$14.99",
+      "Ford 2026 Enhanced": "$14.99",
+      "Mazda 2026 Enhanced": "$14.99",
+      "Mazda 2025 Enhanced": "$14.99",
+      "FCA 2026": "$14.99",
+      "Ford 2025 Enhanced": "$14.99",
+      "Mitsubishi 2024": "$14.99",
+      "Mitsubishi 2023": "$14.99",
+      "FCA 2025": "$14.99",
+      "Ford 2024 Enhanced": "$14.99",
+      "Mazda 2024 Enhanced": "$14.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -65140,10 +65150,37 @@
       "Ford 2016 Enhanced Diagnostics": "$14.99",
       "Toyota 2016 Enhanced Diagnostics": "$14.99",
       "Ford 2004 Enhanced Diagnostics": "$14.99",
-      "Toyota 2014 Enhanced Diagnostics": "$14.99"
+      "Toyota 2014 Enhanced Diagnostics": "$14.99",
+      "Ford 2026 Enhanced": "$14.99",
+      "Mazda 2026 Enhanced": "$14.99",
+      "Mazda 2025 Enhanced": "$14.99",
+      "FCA 2026": "$14.99",
+      "Ford 2025 Enhanced": "$14.99",
+      "Mitsubishi 2024": "$14.99",
+      "Mitsubishi 2023": "$14.99",
+      "FCA 2025": "$14.99",
+      "Ford 2024 Enhanced": "$14.99",
+      "Mazda 2024 Enhanced": "$14.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1792881993930,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Ford 2026 Enhanced": "$14.99",
+            "Mazda 2026 Enhanced": "$14.99",
+            "Mazda 2025 Enhanced": "$14.99",
+            "FCA 2026": "$14.99",
+            "Ford 2025 Enhanced": "$14.99",
+            "Mitsubishi 2024": "$14.99",
+            "Mitsubishi 2023": "$14.99",
+            "FCA 2025": "$14.99",
+            "Ford 2024 Enhanced": "$14.99",
+            "Mazda 2024 Enhanced": "$14.99"
+          }
+        },
         {
           "timestamp": 1792846729867,
           "price": 9.99,
@@ -351512,6 +351549,23 @@
     "history": [
       [
         {
+          "timestamp": 1792881993930,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Pro Mensal": "$1.99",
+            "1 Token Coach IA": "$0.99",
+            "Elite Annual": "$7.99",
+            "SENSI RANKED iPhone 15 a 17 Pro Max": "$1.99",
+            "SENSI iPhone 15 a 17 Pro Max": "$1.99",
+            "3 Tokens Coach IA": "$1.99",
+            "Clone de Sensi": "$0.99",
+            "SENSI iPhone 13 a 14 Pro Max": "$1.99",
+            "SENSI RANKED iPhone 13 a 14 Pro Max": "$1.99",
+            "10 Tokens Coach IA": "$4.99"
+          }
+        },
+        {
           "timestamp": 1792846729867,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -356806,7 +356860,7 @@
     ]
   },
   "6752662508": {
-    "name": "Footprints·TimeTrails·GPS Log",
+    "name": "TimeTrails: GPS Route Tracker",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99"
@@ -359403,6 +359457,27 @@
           "timestamp": 1792846729867,
           "price": 2.99,
           "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6761418873": {
+    "name": "Kolluk",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792881993930,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
           "inAppPurchases": {}
         }
       ]

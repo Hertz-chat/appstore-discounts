@@ -2,6 +2,13 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6761418873,
+      "name": {
+        "tr": "Kolluk"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 6758999138,
       "name": {
         "mo": "鬥陣騎士 Knightica"

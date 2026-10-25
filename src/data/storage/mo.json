@@ -23246,6 +23246,25 @@
     "history": [
       [
         {
+          "timestamp": 1792881993930,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "USD 7.99",
+            "Minecraft Store Item 6": "USD 5.99",
+            "Minecraft Store Item 2": "USD 1.99",
+            "Realms Monthly Subscription: You + 2 Friends": "USD 3.99",
+            "Minecraft Store Item 4": "USD 3.99",
+            "Minecraft Store Item 10": "USD 9.99",
+            "Minecraft Store Item 5": "USD 4.99",
+            "Minecraft Store Item 3": "USD 2.99",
+            "Realms Plus: You + 10 Friends": "USD 7.99",
+            "Minecraft Store Item 8": "USD 7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792397485602,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -90777,6 +90796,25 @@
     "history": [
       [
         {
+          "timestamp": 1792881993930,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "Road & Track Pack": "USD 0.00",
+            "Drag Pack": "USD 0.00",
+            "Touring Legends Pack": "USD 0.00",
+            "Sprint Pack": "USD 0.00",
+            "Coupé Style Pack": "USD 0.00",
+            "Best of British Pack": "USD 0.00",
+            "Black Edition Pack": "USD 0.00",
+            "Touring HD Textures": "USD 0.00",
+            "Endurance HD Textures": "USD 0.00",
+            "Open Wheel HD Textures": "USD 0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788781262725,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -105256,6 +105294,25 @@
       "特惠礼包": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792881993930,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "6480心动包": "USD 99.99",
+            "3280心动包": "USD 49.99",
+            "1980心动包": "USD 29.99",
+            "1280心动包": "USD 19.99",
+            "980心动包": "USD 14.99",
+            "680心动包": "USD 9.99",
+            "300心动包": "USD 3.99",
+            "180心动包": "USD 2.99",
+            "60心动包": "USD 0.99",
+            "120心动包": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792240324701,
@@ -213101,7 +213158,7 @@
     ]
   },
   "6752662508": {
-    "name": "足跡·TimeTrails·每日軌跡·記錄一生軌跡·GPS",
+    "name": "足跡·TimeTrails GPS軌跡記錄",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99"
@@ -215540,6 +215597,27 @@
           "timestamp": 1792846729867,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6761418873": {
+    "name": "Kolluk",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792881993930,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
         }
       ]

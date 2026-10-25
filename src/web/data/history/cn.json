@@ -17277,6 +17277,25 @@
     "history": [
       [
         {
+          "timestamp": 1792950991459,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Gold Annual": "¥298.00",
+            "Gold Monthly": "¥58.00",
+            "Gold Level lifetime": "¥498.00",
+            "Gold Level Free Trial": "¥0.00",
+            "Lunar Return Report": "¥28.00",
+            "7-day Trial Astrolocality": "¥0.00",
+            "Astrolocality Maps": "¥168.00",
+            "The Big Three Report": "¥28.00",
+            "Relationship Report": "¥28.00",
+            "Predictive Report - Untimed": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791799508618,
           "price": 0,
           "formattedPrice": "免费",
@@ -64540,6 +64559,25 @@
       "限时礼包-4": "¥30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792950991459,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "助飞战令-3000积分": "¥6.00",
+            "助飞战令-初级精英战令": "¥30.00",
+            "助飞战令-6000积分": "¥38.00",
+            "助飞战令-15000积分": "¥68.00",
+            "助飞战令-高级精英战令": "¥30.00",
+            "翅膀初绽礼包": "¥6.00",
+            "翅膀焕新礼包": "¥18.00",
+            "神器微光礼包": "¥6.00",
+            "战力启航礼包": "¥6.00",
+            "战力跃升礼包": "¥18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792462971499,
@@ -203976,6 +204014,19 @@
     "history": [
       [
         {
+          "timestamp": 1792950991459,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Dumb Phone Plus Yearly": "¥98.00",
+            "Dumb Phone Plus Monthly": "¥38.00",
+            "Dumb Phone Plus Weekly": "¥15.00",
+            "Dumb Phone Plus Lifetime": "¥598.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792425460361,
           "price": 0,
           "formattedPrice": "免费",
@@ -225487,6 +225538,19 @@
       "Raider Weekly": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792950991459,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Raider Mk. 2": "¥28.00",
+            "Raider Mk. 3": "¥48.00",
+            "Raider Mk. 1": "¥8.00",
+            "Raider Weekly": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791752970806,

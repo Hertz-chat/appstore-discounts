@@ -84134,6 +84134,14 @@
     "history": [
       [
         {
+          "timestamp": 1792950991459,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788734577170,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -164726,6 +164734,23 @@
     "history": [
       [
         {
+          "timestamp": 1792950991459,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺599,99",
+            "Orient Express": "₺199,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "The Complete Collection": "₺1.999,99",
+            "Golden Dice": "₺249,99",
+            "The Dragon": "₺199,99",
+            "The Ultimate Edition Sale": "₺1.299,99",
+            "Astronaut Token Sale": "₺149,99",
+            "Victorian London Board": "₺399,99"
+          }
+        },
+        {
           "timestamp": 1792934734921,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -195060,6 +195085,25 @@
       "Nexus of Nightmares": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792950991459,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Nexus of Nightmares": "₺299,99",
+            "Synthesis Support Pack": "₺199,99",
+            "Infernal Invasions": "₺299,99",
+            "Vaul of the Void Promo Pack": "₺0,00",
+            "Eclypse Supporter Pack": "₺199,99",
+            "Dawncaster Origins Bundle": "₺249,99",
+            "Dawncaster Mega Bundle": "₺699,99",
+            "Siege of Shadows": "₺249,99",
+            "Catalyst Support Pack": "₺249,99",
+            "Masks of Misery": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785738185111,

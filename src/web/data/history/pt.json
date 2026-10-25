@@ -43160,6 +43160,14 @@
     "history": [
       [
         {
+          "timestamp": 1792950991459,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788734577170,
           "price": 14.99,
           "formattedPrice": "14,99 €",
@@ -142428,6 +142436,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792950991459,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "PadLab Full App": "9,99 €",
+            "StageLab": "6,99 €",
+            "Pad Mix Pro": "1,99 €",
+            "Sequencer Pro": "2,99 €",
+            "Arp Pro": "1,99 €",
+            "PadLab Worship Complete": "7,99 €",
+            "Worship Drum Collection": "3,99 €",
+            "Coleção Completa de Pads": "5,99 €",
+            "Worship EFX": "0,99 €",
+            "Worship 808": "0,99 €"
+          }
+        },
         {
           "timestamp": 1792934734921,
           "price": 2.99,

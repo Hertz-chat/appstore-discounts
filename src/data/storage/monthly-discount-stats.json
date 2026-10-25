@@ -222,10 +222,10 @@
       "inAppPurchase": {}
     },
     "6755290585": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "Raider Mk. 1": 1
+        "Raider Mk. 1": 2
       }
     },
     "6748287593": {
@@ -280,6 +280,14 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6451376191": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Dumb Phone Plus Yearly": 1,
+        "Dumb Phone Plus Monthly": 1
+      }
     }
   },
   "hk": {
@@ -836,6 +844,19 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6757541297": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6451376191": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Dumb Phone Plus Yearly": 1,
+        "Dumb Phone Plus Monthly": 1
+      }
     }
   },
   "mo": {
@@ -1384,6 +1405,19 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6757541297": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6451376191": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Dumb Phone Plus Yearly": 1,
+        "Dumb Phone Plus Monthly": 1
+      }
     }
   },
   "tw": {
@@ -2663,6 +2697,11 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "953426154": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "968820626": {
       "all": 2,
       "price": 2,
@@ -3219,6 +3258,11 @@
       "inAppPurchase": {}
     },
     "931188326": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "953426154": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}

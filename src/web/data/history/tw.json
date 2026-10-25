@@ -45462,7 +45462,11 @@
       "750DiamondPack": "$290.00",
       "4500 Coin Pack": "$30.00",
       "135DiamondPack": "$60.00",
-      "78000 Coin Pack": "$390.00"
+      "78000 Coin Pack": "$390.00",
+      "1600DiamondPack": "$590.00",
+      "2700DiamondPack": "$890.00",
+      "1170DiamondPack": "$390.00",
+      "186000 Coin Pack": "$890.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -45476,9 +45480,32 @@
       "750DiamondPack": "$290.00",
       "4500 Coin Pack": "$30.00",
       "135DiamondPack": "$60.00",
-      "78000 Coin Pack": "$390.00"
+      "78000 Coin Pack": "$390.00",
+      "1600DiamondPack": "$590.00",
+      "2700DiamondPack": "$890.00",
+      "1170DiamondPack": "$390.00",
+      "186000 Coin Pack": "$890.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792950991459,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "1600DiamondPack": "$590.00",
+            "2700DiamondPack": "$890.00",
+            "1170DiamondPack": "$390.00",
+            "750DiamondPack": "$290.00",
+            "350DiamondPack": "$150.00",
+            "135DiamondPack": "$60.00",
+            "60DiamondPack": "$30.00",
+            "186000 Coin Pack": "$890.00",
+            "26700 Coin Pack": "$150.00",
+            "110000 Coin Pack": "$590.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792071965226,
@@ -68199,6 +68226,25 @@
     "history": [
       [
         {
+          "timestamp": 1792950991459,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "15500 Diamonds": "$2,990.00",
+            "6600 Diamonds": "$1,490.00",
+            "3200 Diamonds": "$790.00",
+            "1210 Diamonds": "$320.00",
+            "580 Diamonds": "$150.00",
+            "220 Diamonds": "$60.00",
+            "450000 Coins": "$2,990.00",
+            "180000 Coins": "$1,490.00",
+            "82000 Coins": "$790.00",
+            "30000 Coins": "$320.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789158680954,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -83520,6 +83566,25 @@
       "手机高级诊股连续包月": "$40.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792950991459,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "问财专业版连续包月": "$790.00",
+            "问财进阶版连续包月": "$320.00",
+            "598花币": "$2,990.00",
+            "299花币": "$1,290.00",
+            "早盘选股宝连续包月": "$1,290.00",
+            "机构探测器连续包月": "$560.00",
+            "金牛情报连续包月": "$340.00",
+            "分时顶底连续包季": "$600.00",
+            "波段雷达连续包季": "$1,350.00",
+            "主力密码连续包月": "$560.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792893676791,
@@ -189296,6 +189361,25 @@
     "history": [
       [
         {
+          "timestamp": 1792950991459,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Spray kit": "$89.00",
+            "Ascensio Kit": "$89.00",
+            "Zenith Islands DLC Sale": "$55.00",
+            "Prime Dimension DLC Sale": "$55.00",
+            "Crystal Offer Sale": "$180.00",
+            "Elite Offer Sale": "$89.00",
+            "Fancy Apparel Offer Sale": "$160.00",
+            "Starter Offer Sale": "$35.00",
+            "Hunter Offer Sale": "$89.00",
+            "Master Offer Sale": "$180.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792609257403,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -224436,6 +224520,25 @@
       "過去的陰影": "$220.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792950991459,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "終極套件": "$490.00",
+            "第1季套件": "$320.00",
+            "作弊與懲罰": "$150.00",
+            "超越掩體": "$220.00",
+            "終極套件 (折扣)": "$390.00",
+            "新領導者": "$150.00",
+            "祕密地堡": "$220.00",
+            "生存指南": "$90.00",
+            "第1季套件 (折扣)": "$220.00",
+            "過去的陰影": "$220.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792934734921,

@@ -27086,7 +27086,8 @@
       "Calendars - LPB Basketball Men Portugal 2015-2016 edition": "USD 0.99",
       "Calendars - CBA Basketball Men China 2015-2016 edition": "USD 0.99",
       "Calendars - LFB Basketball Women France 2015-2016 edition": "USD 0.99",
-      "Calendars - Eredivisie Handball Men Netherlands 2015-2016 edition": "USD 0.99"
+      "Calendars - Eredivisie Handball Men Netherlands 2015-2016 edition": "USD 0.99",
+      "Calendars - Eredivisie Handball Women Netherlands 2015-2016 edition": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -27100,9 +27101,29 @@
       "Calendars - LPB Basketball Men Portugal 2015-2016 edition": "USD 0.99",
       "Calendars - CBA Basketball Men China 2015-2016 edition": "USD 0.99",
       "Calendars - LFB Basketball Women France 2015-2016 edition": "USD 0.99",
-      "Calendars - Eredivisie Handball Men Netherlands 2015-2016 edition": "USD 0.99"
+      "Calendars - Eredivisie Handball Men Netherlands 2015-2016 edition": "USD 0.99",
+      "Calendars - Eredivisie Handball Women Netherlands 2015-2016 edition": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792950991459,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "Calendars - PL Football Men Senegal 2015-2016 edition": "USD 0.99",
+            "Calendars - Primera Divisio Football Men Andorra 2015-2016 edition": "USD 0.99",
+            "Calendars - Segona Divisio Football Men Andorra 2015-2016 edition": "USD 0.99",
+            "Calendars - Premier Division Football Men Gibraltar 2015-2016 edition": "USD 0.99",
+            "Calendars - Superliga Volleyball Women Brazil 2015-2016 edition": "USD 0.99",
+            "Calendars - LPB Basketball Men Portugal 2015-2016 edition": "USD 0.99",
+            "Calendars - CBA Basketball Men China 2015-2016 edition": "USD 0.99",
+            "Calendars - LFB Basketball Women France 2015-2016 edition": "USD 0.99",
+            "Calendars - Eredivisie Handball Men Netherlands 2015-2016 edition": "USD 0.99",
+            "Calendars - Eredivisie Handball Women Netherlands 2015-2016 edition": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788801558459,
@@ -159691,6 +159712,25 @@
     "history": [
       [
         {
+          "timestamp": 1792950991459,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {
+            "西班牙語音頻": "USD 0.00",
+            "戰役任務 11-15": "USD 0.00",
+            "俄語音頻": "USD 0.00",
+            "Opposing Fronts - Russian": "USD 0.00",
+            "2 vs 2 獨立戰役地圖": "USD 0.00",
+            "戰役任務 2-5": "USD 0.00",
+            "1 vs 1 獨立戰役地圖": "USD 0.00",
+            "所有內容": "USD 0.00",
+            "《Opposing Fronts》火線對決": "USD 0.00",
+            "3 vs 3 獨立戰役地圖": "USD 0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788122280956,
           "price": 19.99,
           "formattedPrice": "USD 19.99",
@@ -194269,6 +194309,19 @@
     "history": [
       [
         {
+          "timestamp": 1792950991459,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Dumb Phone Plus Weekly": "USD 1.99",
+            "Dumb Phone Plus Yearly": "USD 14.99",
+            "Dumb Phone Plus Lifetime": "USD 79.99",
+            "Dumb Phone Plus Monthly": "USD 4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792425460361,
           "price": 0,
           "formattedPrice": "免費",
@@ -216771,6 +216824,14 @@
       "formattedPrice": "USD 7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792950991459,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787411997217,

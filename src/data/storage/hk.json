@@ -201801,6 +201801,25 @@
     "history": [
       [
         {
+          "timestamp": 1792934734921,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Winter Holidays Bundle": "HK$ 48.00",
+            "Festive Bundle": "HK$ 88.00",
+            "Generations: 90s Bundle": "HK$ 48.00",
+            "Pop Culture Bundle": "HK$ 48.00",
+            "Welcome Offer": "HK$ 88.00",
+            "Pop Culture Mix Pack 1": "HK$ 18.00",
+            "Generations 90s Mix Pack 1": "HK$ 18.00",
+            "Pop Culture Mix Pack 2": "HK$ 18.00",
+            "Mystery Mix Pack 18": "HK$ 18.00",
+            "Generations 90s Mix Pack 2": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791965170280,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -230607,6 +230626,27 @@
             "甜蜜之家": "HK$ 8.00",
             "Hello World!": "HK$ 8.00"
           }
+        }
+      ]
+    ]
+  },
+  "1658365944": {
+    "name": "DS Download Manager",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792934734921,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -300297,6 +300337,14 @@
     "history": [
       [
         {
+          "timestamp": 1792934734921,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792425460361,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -304537,6 +304585,23 @@
     "history": [
       [
         {
+          "timestamp": 1792934734921,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "全塔禮包": "HK$ 148.00",
+            "英雄 阿什彼特": "HK$ 58.00",
+            "英雄 德拉坎": "HK$ 58.00",
+            "全英雄禮包": "HK$ 188.00",
+            "全法術禮包": "HK$ 98.00",
+            "英雄 鬼侍": "HK$ 38.00",
+            "塔 奧術鍛造匠": "HK$ 38.00",
+            "塔 哨兵瞭望塔": "HK$ 48.00",
+            "塔 野貓女獵手": "HK$ 38.00",
+            "法術 索羅化身": "HK$ 38.00"
+          }
+        },
+        {
           "timestamp": 1792914758864,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -305921,6 +305986,14 @@
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792934734921,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792591960143,

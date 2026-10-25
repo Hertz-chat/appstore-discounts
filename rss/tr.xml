@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2026-10-25T00:12:11.741Z</updated>
+    <updated>2026-10-25T15:04:15.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-25T00:12:11.743Z</updated>
+        <updated>2026-10-25T15:04:15.488Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrSun, 25 Oct 2026 00:12:11 GMT</id>
+        <id>rankingtrSun, 25 Oct 2026 15:04:15 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-25T00:12:11.743Z</updated>
+        <updated>2026-10-25T15:04:15.488Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -51,13 +51,13 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>2376</b>
+        <b>2377</b>
       </td>
       <td>
         <b>204</b>
       </td>
       <td>
-        <b>2172</b>
+        <b>2173</b>
       </td>
       <td>
         <b>107</b>
@@ -68,13 +68,13 @@ feedId:157008924688563200+userId:73658201673997312
         <b>TR</b>
       </td>
       <td>
-        <b>2209</b>
+        <b>2210</b>
       </td>
       <td>
         <b>174</b>
       </td>
       <td>
-        <b>2035</b>
+        <b>2036</b>
       </td>
       <td>
         <b>91</b>
@@ -1949,6 +1949,23 @@ feedId:157008924688563200+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>104</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/tr/6812927976?lang=en">Enchanted Survival: Magic RPG</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -2780,6 +2797,52 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enchanted Survival: Magic RPG]]></title>
+        <id>Enchanted Survival: Magic RPG-tr-1792934734921</id>
+        <link href="https://appstore-discounts.eyelly.me/tr/6812927976?lang=en"/>
+        <updated>2026-10-25T13:25:34.921Z</updated>
+        <summary type="html"><![CDATA[Price: ₺149,99 → ₺99,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/6812927976?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/7a/95/217a95d8-841b-75d7-2745-6c86a98d0ea0/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺149,99</span> → <b>
+  <strong>₺99,99</strong>
+</b><span>[₺49,99 ~ ₺149,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺99,99</b>
+</p><h2>Application Description</h2><p>
+  Every enchantment is a gamble. Some of them make you stronger. Others, change the world completely.
+
+Enchanted Survival is a survival roguelite. The weapons fire themselves, so the only thing you control is where you stand, and what you enchant and upgrade. Between waves the fighting stops and you walk to a lit shrine, feed it the crystals you picked up off the dead, and ask for an enchantment without being told what is coming.
+
+Most enchantments improve an item. Then a pair of boots comes back with Frozenfoot, the lake you have been fighting beside freezes solid under your feet, and the half of the map you could never reach is the half you fight on for the rest of the run. 
+
+Over 650 enchantments across lots of equipment. Pay for a deeper ritual and the rare results get likelier, and now and then two arrive at once. A clue tells you what the rite is leaning toward. 
+
+KEEP WHAT YOU ROLLED, OR PUSH IT
+Strengthen an enchantment through three tiers. Wager crystals at the anvil to temper a piece and raise its own number, then watch the bar run without knowing where it stops. Strip an enchantment out and free the socket. All of it is paid in the same crystals you could have spent on a fresh roll instead.
+
+TEN LEVELS THAT EACH FIGHT BACK
+A meadow built around a lake. A desert of pyramids and one oasis. Glacier basin, volcanic field, mushroom marsh, storm plateau, lighthouse coast, sunken ruins, crystal cavern. Some of them fall dark, and light turns into something you carry, place and stand near. 
+
+THREE HEROES WHO PLAY DIFFERENTLY
+The Adventurer, who starts the way the game was written. The Fisher, who swims open water instead of drowning in it and gets chased faster for the privilege. The Ranger, who opens with the bow and turns every ritual up a level.
+
+CARRY ONE THING FORWARD
+Clear a level and one worn item comes with you into every run after it. Finish a run and it pays out shards, which the stall at the head of the road turns into a second weapon, a better starting item, or a first ritual rolled a level deeper than you paid for.
+
+FEATURES
+- Over 650 enchantments, every one of them doing something you can see
+- Enchant, strengthen, temper and strip, all on one currency
+- Elites, minibosses and bosses that hold the wave until they fall
+- Dark levels where light is something you have to bring
+- A Codex and a bestiary that fill in as you go
+- One thumb, landscape, built for a phone
+- Eight languages
+- Paid once. No ads, no in-app purchases, fully offline
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/a8/49/87a84982-f922-f256-c18d-6e7e733921e8/screenshot_1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/77/68/257768ff-4c88-a508-a5d9-e1722ecf3031/screenshot_2.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/1b/bb/5f1bbb5d-d898-3213-108e-69b823e494f4/screenshot_3.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/92/b1/e792b115-f830-56ef-03b4-7339268ca20f/screenshot_4.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/9c/8e/fc9c8e48-edcc-9a53-089f-3c9418369dc5/screenshot_5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/94/1d/0b941dd8-74cd-539b-9251-d23a40e18b01/screenshot_6.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/ad/4d/f5ad4dd6-a732-fc44-c329-063e73b8a7f9/screenshot_7.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/58/62/8258627c-5736-9ba2-00f7-ba49dcad7453/screenshot_8.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/e0/fa/e7e0facd-8c68-dba0-4639-9637b20de0c0/screenshot_1.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/4c/5c/6d4c5cec-c393-d38c-fc27-36d30779ea02/screenshot_2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/f4/cc/4cf4cc98-a321-2914-14da-c945f78ce643/screenshot_3.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/1b/02/4f1b02f8-8d5a-3c87-bea4-00dd08d59f0b/screenshot_4.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/5e/d8/305ed879-9344-ae4b-1b79-e94bc4324fa4/screenshot_5.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/ea/92/72ea92b5-f8b6-769c-de90-9fc80eb682dc/screenshot_6.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/76/e3/0076e3be-7870-ff7d-2b18-a163d7f07fa9/screenshot_7.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/c2/7e/8ac27e4a-4405-99fa-9820-7a8f9f5ca3bc/screenshot_8.png/360x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[20 Minutes Till Dawn:Premium]]></title>

@@ -774,6 +774,22 @@
     "history": [
       [
         {
+          "timestamp": 1792934734921,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Dance Pack Too": "$0.99",
+            "Tyrannosaurus Rex Skin Pack": "$0.99",
+            "Alien Pack": "$0.99",
+            "Retro Games SkinPack": "$0.99",
+            "Halloween Skin Pack": "$0.99",
+            "Holiday Skin Pack": "$0.99",
+            "Medieval Pack": "$0.99",
+            "Japanese Skin Pack": "$0.99",
+            "Ice Monster Skin Pack": "$0.99"
+          }
+        },
+        {
           "timestamp": 1792914758864,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -142747,6 +142763,24 @@
     "history": [
       [
         {
+          "timestamp": 1792934734921,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Pile of Coins": "$0.99",
+            "Bag of Coins": "$4.99",
+            "Chest of Coins": "$19.99",
+            "Pile of Gems": "$2.99",
+            "Casket of Gems": "$9.99",
+            "Chest of Gems": "$49.99",
+            "Bag of Gems": "$19.99",
+            "SF2SEPack2": "$1.99",
+            "SF2SEPack3": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792609257403,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -169129,6 +169163,17 @@
       "Nautilus Pro Lifetime": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792934734921,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Nautilus Pro Lifetime": "$14.99",
+            "Nautilus Unlock All and AI": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792363190565,
@@ -227287,6 +227332,25 @@
     "history": [
       [
         {
+          "timestamp": 1792934734921,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$9.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Word Bonanza Bundle": "$19.99",
+            "Generations Gen Z Pack": "$1.99",
+            "Midnight Bedroom Pack": "$2.99",
+            "Midnight Night Out Pack": "$2.99",
+            "Mystery Mix Pack 1": "$1.99",
+            "Ready to Roast": "$6.49",
+            "Welcome Offer": "$9.99",
+            "Sports and Games Pack": "$7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792656146968,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -267758,6 +267822,29 @@
             "Home Sweet Home": "$0.99",
             "Hello World!": "$0.99"
           }
+        }
+      ]
+    ]
+  },
+  "1658365944": {
+    "trackId": 1658365944,
+    "trackName": "DS Download Manager",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792934734921,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -357583,6 +357670,14 @@
     "history": [
       [
         {
+          "timestamp": 1792934734921,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792425460361,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -363147,6 +363242,14 @@
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792934734921,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792425460361,

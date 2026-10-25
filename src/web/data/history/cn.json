@@ -20662,6 +20662,25 @@
     "history": [
       [
         {
+          "timestamp": 1792934734921,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {
+            "Acoustic Guitars": "¥8.00",
+            "Varazdin Orchestral Mobile": "¥28.00",
+            "Tuned 808 Bass": "¥8.00",
+            "Voices": "¥8.00",
+            "Amped Guitar & Bass": "¥22.00",
+            "Synth Lead": "¥15.00",
+            "Groove Machine Synth": "¥0.00",
+            "Sliced Beats": "¥8.00",
+            "Synth Plucks": "¥15.00",
+            "Essential Strings": "¥15.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791263120623,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -164467,6 +164486,29 @@
       ]
     ]
   },
+  "1658365944": {
+    "trackId": 1658365944,
+    "trackName": "DS Download Manager",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792934734921,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1658579911": {
     "trackId": 1658579911,
     "trackName": "小特钥匙 - 特斯拉蓝牙手表钥匙",
@@ -233961,10 +234003,18 @@
       "formattedPrice": "¥88.00"
     },
     "minPriceInfo": {
-      "price": 48,
-      "formattedPrice": "¥48.00"
+      "price": 28,
+      "formattedPrice": "¥28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792934734921,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788106055024,

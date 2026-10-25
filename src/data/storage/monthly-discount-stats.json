@@ -275,6 +275,11 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6759071028": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     }
   },
   "hk": {
@@ -1935,6 +1940,19 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6757541297": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6451376191": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Dumb Phone Plus Yearly": 1,
+        "Dumb Phone Plus Monthly": 1
+      }
     }
   },
   "us": {
@@ -2117,10 +2135,10 @@
       "inAppPurchase": {}
     },
     "1422480068": {
-      "all": 2,
+      "all": 3,
       "price": 1,
       "inAppPurchase": {
-        "Nautilus Unlock All and AI": 1
+        "Nautilus Unlock All and AI": 2
       }
     },
     "1435461053": {
@@ -2445,8 +2463,8 @@
       "inAppPurchase": {}
     },
     "6812927976": {
-      "all": 1,
-      "price": 1,
+      "all": 2,
+      "price": 2,
       "inAppPurchase": {}
     },
     "6757943661": {
@@ -3116,6 +3134,11 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6812927976": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     }
   },
   "pt": {
@@ -3542,8 +3565,8 @@
       "inAppPurchase": {}
     },
     "6812927976": {
-      "all": 1,
-      "price": 1,
+      "all": 2,
+      "price": 2,
       "inAppPurchase": {}
     },
     "6757943661": {

@@ -10137,6 +10137,23 @@
     "history": [
       [
         {
+          "timestamp": 1792934734921,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "3,99 €",
+            "Predictive Report - Full": "3,99 €",
+            "Birthday Report": "3,99 €",
+            "Gold Monthly": "8,99 €",
+            "Gold Level Free Trial": "0,00 €",
+            "Relationship Report": "3,99 €",
+            "Child Report - Full": "3,99 €",
+            "Predictive Report - No Background": "2,99 €",
+            "7-day Trial Astrolocality": "0,00 €",
+            "Gold Level lifetime": "79,99 €"
+          }
+        },
+        {
           "timestamp": 1792914758864,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -107827,6 +107844,27 @@
       ]
     ]
   },
+  "1658365944": {
+    "name": "DS Download Manager",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792934734921,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1658579911": {
     "name": "小特钥匙 - 特斯拉蓝牙手表钥匙",
     "maxPriceInfo": {
@@ -138822,7 +138860,13 @@
       "Pad Mix Pro": "1,99 €",
       "StageLab": "6,99 €",
       "Sequencer Pro": "2,99 €",
-      "Arp Pro": "1,99 €"
+      "Arp Pro": "1,99 €",
+      "Pad Pulse Pro": "1,99 €",
+      "Worship Pad": "0,99 €",
+      "Analog Pad 2": "0,99 €",
+      "Atmospheric Pad EFX": "0,99 €",
+      "Haze Pad EFX": "0,99 €",
+      "Pad Wind EFX": "0,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -138840,9 +138884,34 @@
       "Pad Mix Pro": "1,99 €",
       "StageLab": "6,99 €",
       "Sequencer Pro": "2,99 €",
-      "Arp Pro": "1,99 €"
+      "Arp Pro": "1,99 €",
+      "Pad Pulse Pro": "1,99 €",
+      "Worship Pad": "0,99 €",
+      "Analog Pad 2": "0,99 €",
+      "Atmospheric Pad EFX": "0,99 €",
+      "Haze Pad EFX": "0,99 €",
+      "Pad Wind EFX": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792934734921,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "StageLab": "6,99 €",
+            "Pad Mix Pro": "1,99 €",
+            "Pad Pulse Pro": "1,99 €",
+            "Arp Pro": "1,99 €",
+            "Sequencer Pro": "2,99 €",
+            "Worship Pad": "0,99 €",
+            "Analog Pad 2": "0,99 €",
+            "Atmospheric Pad EFX": "0,99 €",
+            "Haze Pad EFX": "0,99 €",
+            "Pad Wind EFX": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792569835923,
@@ -144588,6 +144657,14 @@
     "history": [
       [
         {
+          "timestamp": 1792934734921,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792425460361,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -149508,6 +149585,14 @@
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792934734921,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792425460361,

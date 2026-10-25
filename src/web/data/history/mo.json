@@ -173264,6 +173264,29 @@
       ]
     ]
   },
+  "1658365944": {
+    "trackId": 1658365944,
+    "trackName": "DS Download Manager",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792934734921,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1658579911": {
     "trackId": 1658579911,
     "trackName": "小特钥匙 - 特斯拉蓝牙手表钥匙",
@@ -213919,6 +213942,14 @@
     "history": [
       [
         {
+          "timestamp": 1792934734921,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792425460361,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -219177,6 +219208,14 @@
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792934734921,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792591960143,

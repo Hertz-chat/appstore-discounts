@@ -194,7 +194,7 @@
   {
     "trackId": 301387274,
     "region": "us",
-    "timestamp": 1792914758864,
+    "timestamp": 1792934734921,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -10253,7 +10253,7 @@
   {
     "trackId": 1261834568,
     "region": "us",
-    "timestamp": 1792609257403,
+    "timestamp": 1792934734921,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "$4.99",
@@ -11648,7 +11648,7 @@
   {
     "trackId": 1422480068,
     "region": "us",
-    "timestamp": 1792363190565,
+    "timestamp": 1792934734921,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -15612,7 +15612,7 @@
   {
     "trackId": 1563932741,
     "region": "us",
-    "timestamp": 1792656146968,
+    "timestamp": 1792934734921,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "$1.99",
@@ -17629,6 +17629,18 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id1644917705",
     "trackName": "Cyber Manhunt",
     "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1658365944,
+    "region": "us",
+    "timestamp": 1792934734921,
+    "discounts": [],
+    "price": 4.99,
+    "formattedPrice": "$4.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1658365944",
+    "trackName": "DS Download Manager",
+    "firstRecordedAt": 1792934734921
   },
   {
     "trackId": 1658579911,
@@ -24941,10 +24953,10 @@
   {
     "trackId": 6760948683,
     "region": "us",
-    "timestamp": 1792425460361,
+    "timestamp": 1792934734921,
     "discounts": [],
-    "price": 0.99,
-    "formattedPrice": "$0.99",
+    "price": 1.99,
+    "formattedPrice": "$1.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6760948683",
     "trackName": "Digline: Cozy Mining",
@@ -26443,10 +26455,10 @@
   {
     "trackId": 6812927976,
     "region": "us",
-    "timestamp": 1792425460361,
+    "timestamp": 1792934734921,
     "discounts": [],
-    "price": 2.99,
-    "formattedPrice": "$2.99",
+    "price": 1.99,
+    "formattedPrice": "$1.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6812927976",
     "trackName": "Enchanted Survival: Magic RPG",

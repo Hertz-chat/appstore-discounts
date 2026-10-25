@@ -179145,6 +179145,25 @@
     "history": [
       [
         {
+          "timestamp": 1792914758864,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "The Ultimate Edition Welcome Offer": "HK$ 188.00",
+            "Welcome Offer": "HK$ 148.00",
+            "The Ultimate Edition Sale": "HK$ 188.00",
+            "City Break": "HK$ 22.00",
+            "Glow in the Dark Pack": "HK$ 88.00",
+            "The Sports Car": "HK$ 28.00",
+            "Cthulhu Token": "HK$ 88.00",
+            "Emberwing Token": "HK$ 88.00",
+            "Speed Die": "HK$ 118.00",
+            "Diamond Bundle": "HK$ 98.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792827674174,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -308875,6 +308894,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792914758864,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "全塔禮包": "HK$ 148.00",
+            "全英雄禮包": "HK$ 188.00",
+            "英雄 阿什彼特": "HK$ 58.00",
+            "英雄 德拉坎": "HK$ 58.00",
+            "全法術禮包": "HK$ 98.00",
+            "英雄 鬼侍": "HK$ 38.00",
+            "塔 哨兵瞭望塔": "HK$ 48.00",
+            "塔 野貓女獵手": "HK$ 38.00",
+            "塔 奧術鍛造匠": "HK$ 38.00",
+            "英雄 伊格納斯": "HK$ 22.00"
+          }
+        },
         {
           "timestamp": 1792881993930,
           "price": 58,

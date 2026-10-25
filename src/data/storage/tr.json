@@ -37719,7 +37719,15 @@
       "Calendars - CBA Basketball Men China 2015-2016 edition": "₺49,99",
       "Calendars - LFB Basketball Women France 2015-2016 edition": "₺49,99",
       "Calendars - Eredivisie Handball Men Netherlands 2015-2016 edition": "₺49,99",
-      "Calendars - Eredivisie Handball Women Netherlands 2015-2016 edition": "₺49,99"
+      "Calendars - Eredivisie Handball Women Netherlands 2015-2016 edition": "₺49,99",
+      "AEX Company Calendars": "₺149,99",
+      "DAX Company Calendars": "₺149,99",
+      "FTSE 100 Company Calendars": "₺149,99",
+      "DJ 30 Company Calendars": "₺149,99",
+      "AMX Company Calendars": "₺149,99",
+      "BEL 20 Company Calendars": "₺149,99",
+      "CAC 40 Company Calendars": "₺149,99",
+      "NASDAQ 100 Company Calendars": "₺149,99"
     },
     "minPriceInfo": {
       "price": 499.99,
@@ -37741,9 +37749,36 @@
       "Calendars - CBA Basketball Men China 2015-2016 edition": "₺49,99",
       "Calendars - LFB Basketball Women France 2015-2016 edition": "₺49,99",
       "Calendars - Eredivisie Handball Men Netherlands 2015-2016 edition": "₺49,99",
-      "Calendars - Eredivisie Handball Women Netherlands 2015-2016 edition": "₺49,99"
+      "Calendars - Eredivisie Handball Women Netherlands 2015-2016 edition": "₺49,99",
+      "AEX Company Calendars": "₺149,99",
+      "DAX Company Calendars": "₺149,99",
+      "FTSE 100 Company Calendars": "₺149,99",
+      "DJ 30 Company Calendars": "₺149,99",
+      "AMX Company Calendars": "₺149,99",
+      "BEL 20 Company Calendars": "₺149,99",
+      "CAC 40 Company Calendars": "₺149,99",
+      "NASDAQ 100 Company Calendars": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792958987542,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {
+            "+800 Emoji Stickers": "₺49,99",
+            "AEX Company Calendars": "₺149,99",
+            "DAX Company Calendars": "₺149,99",
+            "FTSE 100 Company Calendars": "₺149,99",
+            "DJ 30 Company Calendars": "₺149,99",
+            "Religious holidays": "₺49,99",
+            "AMX Company Calendars": "₺149,99",
+            "BEL 20 Company Calendars": "₺149,99",
+            "CAC 40 Company Calendars": "₺149,99",
+            "NASDAQ 100 Company Calendars": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792462971499,
@@ -130871,7 +130906,8 @@
       "Game Disc vol.2": "₺249,99",
       "Special Pack 02": "₺249,99",
       "Characters & Song Packs Bundle": "₺1.499,99",
-      "Box C 05": "₺799,99"
+      "Box C 05": "₺799,99",
+      "PΛFF": "₺499,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -130928,11 +130964,22 @@
       "Neko": "₺199,99",
       "Game Disc vol.2": "₺99,99",
       "Special Pack 02": "₺249,99",
-      "Characters & Song Packs Bundle": "₺1.499,99",
-      "Box C 05": "₺799,99"
+      "Characters & Song Packs Bundle": "₺1.199,99",
+      "Box C 05": "₺799,99",
+      "PΛFF": "₺499,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1792958987542,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "PΛFF": "₺499,99",
+            "Special Pack 02": "₺249,99",
+            "Characters & Song Packs Bundle": "₺1.199,99"
+          }
+        },
         {
           "timestamp": 1792881993930,
           "price": 99.99,
@@ -195087,6 +195134,23 @@
     "history": [
       [
         {
+          "timestamp": 1792958987542,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Vaul of the Void Promo Pack": "₺0,00",
+            "Infernal Invasions": "₺299,99",
+            "Nexus of Nightmares": "₺299,99",
+            "Siege of Shadows": "₺249,99",
+            "Dawncaster Mega Bundle": "₺699,99",
+            "Masks of Misery": "₺249,99",
+            "Dawncaster Origins Bundle": "₺249,99",
+            "Death of Divinity": "₺249,99",
+            "Tribes of Twilight": "₺249,99",
+            "Eclypse Supporter Pack": "₺199,99"
+          }
+        },
+        {
           "timestamp": 1792950991459,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -234831,6 +234895,25 @@
       "Special Training": "₺449,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792958987542,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "120 Gold": "₺99,99",
+            "Backpack Expansion": "₺99,99",
+            "Double Combat Rewards": "₺99,99",
+            "3280 Gold": "₺2.499,99",
+            "1280 Gold": "₺999,99",
+            "300 Gold": "₺249,99",
+            "980 Gold": "₺799,99",
+            "6480 Gold": "₺4.999,99",
+            "1980 Gold": "₺1.499,99",
+            "60 Gold": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,

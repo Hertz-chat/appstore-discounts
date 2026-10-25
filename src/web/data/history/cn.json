@@ -17277,6 +17277,23 @@
     "history": [
       [
         {
+          "timestamp": 1792958987542,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "¥28.00",
+            "Gold Level Free Trial": "¥0.00",
+            "Relationship Report": "¥28.00",
+            "Predictive Report - Full": "¥28.00",
+            "7-day Trial Astrolocality": "¥0.00",
+            "Gold Monthly": "¥58.00",
+            "Gold Level lifetime": "¥498.00",
+            "Astrolocality Maps": "¥168.00",
+            "Child Report - Full": "¥28.00",
+            "Predictive Report - No Background": "¥22.00"
+          }
+        },
+        {
           "timestamp": 1792950991459,
           "price": 0,
           "formattedPrice": "免费",
@@ -47647,6 +47664,14 @@
     "history": [
       [
         {
+          "timestamp": 1792958987542,
+          "price": 58,
+          "formattedPrice": "¥58.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788706749034,
           "price": 98,
           "formattedPrice": "¥98.00",
@@ -63458,6 +63483,25 @@
     "history": [
       [
         {
+          "timestamp": 1792958987542,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {
+            "跳过飞行家小游戏": "¥8.00",
+            "跳过青蛙过河小游戏": "¥8.00",
+            "跳过键盘解谜小游戏": "¥8.00",
+            "跳过踩圆点小游戏": "¥8.00",
+            "跳过种花小游戏": "¥8.00",
+            "跳过显微镜小游戏": "¥8.00",
+            "跳过旋转盘小游戏": "¥8.00",
+            "跳过拼图小游戏": "¥8.00",
+            "跳过开门迷宫小游戏": "¥8.00",
+            "跳过填色小游戏": "¥8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792539105006,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -64560,6 +64604,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792958987542,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "60根火柴": "¥6.00",
+            "月度礼包": "¥25.00",
+            "180根火柴": "¥18.00",
+            "限时礼包-2": "¥6.00",
+            "980根火柴": "¥98.00",
+            "1元礼包": "¥1.00",
+            "1元火柴礼包": "¥1.00",
+            "500根火柴": "¥50.00",
+            "超值礼包-1": "¥18.00",
+            "成长基金": "¥30.00"
+          }
+        },
         {
           "timestamp": 1792950991459,
           "price": 1,
@@ -225539,6 +225600,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792958987542,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Raider Mk. 1": "¥22.00",
+            "Raider Mk. 2": "¥28.00",
+            "Raider Mk. 3": "¥48.00",
+            "Raider Weekly": "¥8.00"
+          }
+        },
         {
           "timestamp": 1792950991459,
           "price": 0,

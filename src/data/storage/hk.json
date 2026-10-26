@@ -25540,6 +25540,25 @@
     "history": [
       [
         {
+          "timestamp": 1793051997931,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Superpower 10": "HK$ 18.00",
+            "Superpower 20": "HK$ 32.00",
+            "Superpower 50": "HK$ 58.00",
+            "Superpower 500": "HK$ 148.00",
+            "Unlock all level packs including future updates": "HK$ 32.00",
+            "Superpower Unlimited": "HK$ 188.00",
+            "Unlock \"Sticky Steps\" level pack": "HK$ 18.00",
+            "Unlock \"Shooting the candy\" level pack": "HK$ 18.00",
+            "Unlock \"Rocket Science\" level pack": "HK$ 18.00",
+            "Unlock \"Handy сandy\" level pack": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787045539992,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -224266,7 +224285,12 @@
       "終極套件 (大折扣)": "HK$ 38.00",
       "第1季套件 (完整版)": "HK$ 148.00",
       "過去的陰影": "HK$ 58.00",
-      "終極套件 (完整版)": "HK$ 488.00"
+      "終極套件 (完整版)": "HK$ 488.00",
+      "Custom Scenarios": "HK$ 58.00",
+      "Seeds of Hope": "HK$ 58.00",
+      "Season 2 Pass (Full)": "HK$ 148.00",
+      "Season 2 Pass (Discount)": "HK$ 58.00",
+      "Season 2 Pass": "HK$ 88.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -224283,9 +224307,33 @@
       "終極套件 (大折扣)": "HK$ 38.00",
       "第1季套件 (完整版)": "HK$ 148.00",
       "過去的陰影": "HK$ 58.00",
-      "終極套件 (完整版)": "HK$ 488.00"
+      "終極套件 (完整版)": "HK$ 488.00",
+      "Custom Scenarios": "HK$ 58.00",
+      "Seeds of Hope": "HK$ 58.00",
+      "Season 2 Pass (Full)": "HK$ 148.00",
+      "Season 2 Pass (Discount)": "HK$ 58.00",
+      "Season 2 Pass": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793051997931,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Custom Scenarios": "HK$ 58.00",
+            "Seeds of Hope": "HK$ 58.00",
+            "Season 2 Pass (Full)": "HK$ 148.00",
+            "Season 2 Pass (Discount)": "HK$ 58.00",
+            "Season 2 Pass": "HK$ 88.00",
+            "過去的陰影": "HK$ 58.00",
+            "超越掩體": "HK$ 58.00",
+            "第1季套件 (折扣)": "HK$ 58.00",
+            "終極套件 (折扣)": "HK$ 88.00",
+            "祕密地堡": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779962495535,
@@ -227440,6 +227488,25 @@
       "機械耶夢加得": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793051997931,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "護士禮包": "HK$ 38.00",
+            "解鎖旁觀者": "HK$ 22.00",
+            "解鎖九尾狐": "HK$ 22.00",
+            "賽季3戰鬥通行證": "HK$ 18.00",
+            "制服禮包": "HK$ 32.00",
+            "解鎖巴弗滅": "HK$ 22.00",
+            "賽季2戰鬥通行證": "HK$ 18.00",
+            "怪物禮包2": "HK$ 228.00",
+            "信息禮包": "HK$ 98.00",
+            "鍛造禮包": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791718980381,
@@ -304984,7 +305051,8 @@
       "英雄達莉雅": "HK$ 38.00",
       "塔樓貓頭鷹騎士促銷": "HK$ 22.00",
       "英雄奧斯尼爾促銷": "HK$ 22.00",
-      "塔樓貓頭鷹騎士": "HK$ 38.00"
+      "塔樓貓頭鷹騎士": "HK$ 38.00",
+      "英雄 潔米娜": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 58,
@@ -305023,9 +305091,29 @@
       "英雄達莉雅": "HK$ 38.00",
       "塔樓貓頭鷹騎士促銷": "HK$ 22.00",
       "英雄奧斯尼爾促銷": "HK$ 22.00",
-      "塔樓貓頭鷹騎士": "HK$ 38.00"
+      "塔樓貓頭鷹騎士": "HK$ 38.00",
+      "英雄 潔米娜": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793051997931,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "全塔禮包": "HK$ 148.00",
+            "英雄 阿什彼特": "HK$ 58.00",
+            "全法術禮包": "HK$ 98.00",
+            "全英雄禮包": "HK$ 188.00",
+            "英雄 德拉坎": "HK$ 58.00",
+            "英雄 鬼侍": "HK$ 38.00",
+            "英雄 伊格納斯": "HK$ 22.00",
+            "英雄 伊莉安娜": "HK$ 38.00",
+            "塔 奧術鍛造匠": "HK$ 38.00",
+            "英雄 潔米娜": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793028871794,

@@ -21555,6 +21555,25 @@
     "history": [
       [
         {
+          "timestamp": 1793051997931,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Unlock Anti-Vax": "0,99 €",
+            "Alien Chemistry": "0,99 €",
+            "Atmospheric Interference": "0,99 €",
+            "Void Signal": "0,99 €",
+            "Brittle Lattice": "0,99 €",
+            "Quantum Obfuscation": "0,99 €",
+            "Synaptic Pulse": "0,99 €",
+            "Lattice Shedding": "0,99 €",
+            "Crystal Overclock": "0,99 €",
+            "Magnetic Siphon": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792827674174,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -41806,7 +41825,7 @@
     ]
   },
   "944118456": {
-    "name": "EXIF Viewer: metadados",
+    "name": "EXIF Viewer Tool by Fluntro",
     "maxPriceInfo": {
       "price": 7.99,
       "formattedPrice": "7,99 €"
@@ -110240,6 +110259,19 @@
     "history": [
       [
         {
+          "timestamp": 1793051997931,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "200,000 x Coins": "9,99 €",
+            "80,000 x Coins": "5,99 €",
+            "40,000 x Coins": "2,99 €",
+            "10,000 x Coins": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791857869864,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -118310,6 +118342,25 @@
       "Dr.1": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793051997931,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Airbus A380": "1,99 €",
+            "Global scenery - 12 months": "19,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "EC135": "0,99 €",
+            "Concorde": "1,99 €",
+            "Boeing 747-400": "1,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Boeing 737-800": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792914758864,
@@ -134269,6 +134320,19 @@
     "history": [
       [
         {
+          "timestamp": 1793051997931,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Raider Mk. 1": "3,99 €",
+            "Raider Mk. 2": "14,99 €",
+            "Raider Mk. 3": "22,99 €",
+            "Raider Weekly": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789592098699,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -138880,10 +138944,18 @@
       "formattedPrice": "3,99 €"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793051997931,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792106595136,
@@ -142298,8 +142370,8 @@
       "Desbloquear tudo (Upgrade 3)": "1,99 €"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "SG-1000": "0,99 €",
       "Master System": "0,99 €",
       "Game Gear": "0,99 €",
@@ -142313,6 +142385,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793051997931,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "SG-1000": "0,99 €",
+            "Master System": "0,99 €",
+            "Game Gear": "0,99 €",
+            "Mega Drive": "0,99 €",
+            "Atari 2600": "0,99 €",
+            "Pokémon Mini": "0,99 €",
+            "SNES": "0,99 €",
+            "Game Boy Advance": "0,99 €",
+            "Desbloquear tudo (Upgrade 4)": "0,99 €",
+            "Desbloquear tudo (Upgrade 3)": "1,99 €"
+          }
+        },
         {
           "timestamp": 1793028871794,
           "price": 1.99,

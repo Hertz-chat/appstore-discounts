@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6755781701,
+    "region": "tw",
+    "timestamp": 1793051997931,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$120.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $120.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6755781701",
+    "trackName": "Aurora Tromsø",
+    "firstRecordedAt": 1771305877461
+  },
+  {
     "trackId": 527358348,
     "region": "tw",
     "timestamp": 1793028871794,

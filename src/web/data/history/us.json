@@ -66145,6 +66145,23 @@
     "history": [
       [
         {
+          "timestamp": 1793051997931,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2015 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2017 Enhanced Diagnostics": "$14.99",
+            "Toyota 2014 Enhanced Diagnostics": "$14.99"
+          }
+        },
+        {
           "timestamp": 1793028871794,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -152390,6 +152407,23 @@
     "history": [
       [
         {
+          "timestamp": 1793051997931,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$5.99",
+            "Retro Frame Pack": "$0.99",
+            "Color Frame Pack": "$0.99",
+            "Blue Cam Film Pack": "$0.99",
+            "Stroke Frame Pack": "$0.99",
+            "Black Cam Film Pack": "$0.99",
+            "Purple Cam Film Pack": "$0.99",
+            "Green Cam Film Pack": "$0.99",
+            "Stamp Frame Pack": "$0.99",
+            "Red Cam Film Pack": "$0.99"
+          }
+        },
+        {
           "timestamp": 1793028871794,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -177326,6 +177360,25 @@
       "2080 gems": "$29.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793051997931,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Teammate Package#2": "$4.99",
+            "Bronze Decree": "$25.99",
+            "Heroic Package#3": "$49.99",
+            "Role Package III": "$9.99",
+            "Suit Package": "$29.99",
+            "Teammate Package": "$4.99",
+            "Role Package": "$2.99",
+            "Heroic Package#2": "$9.99",
+            "Heroic Package#1": "$9.99",
+            "Resource Package": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792846729867,
@@ -348491,10 +348544,18 @@
       "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793051997931,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792136164280,

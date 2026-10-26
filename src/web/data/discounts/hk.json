@@ -1,25 +1,5 @@
 [
   {
-    "trackId": 1621267448,
-    "region": "hk",
-    "timestamp": 1792968791930,
-    "discounts": [
-      {
-        "type": "inAppPurchase",
-        "name": "weekly pro",
-        "from": "HK$ 88.00",
-        "to": "HK$ 18.00",
-        "range": "[HK$ 18.00 ~ HK$ 88.00]"
-      }
-    ],
-    "price": 8,
-    "formattedPrice": "HK$ 8.00",
-    "currency": "HKD",
-    "trackViewUrl": "https://apps.apple.com/hk/app/id1621267448",
-    "trackName": "FormCheck AI: 表格检查",
-    "firstRecordedAt": 1772046909953
-  },
-  {
     "trackId": 953426154,
     "region": "hk",
     "timestamp": 1792958987542,

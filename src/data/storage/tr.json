@@ -32546,6 +32546,23 @@
     "history": [
       [
         {
+          "timestamp": 1792980161097,
+          "price": 109,
+          "formattedPrice": "₺109,00",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "₺20,99",
+            "Realms Monthly Subscription: You + 2 Friends": "₺10,49",
+            "Realms Plus: You + 10 Friends": "₺20,99",
+            "Minecraft Store Item 2": "₺109,00",
+            "Minecraft Store Item 6": "₺329,00",
+            "Marketplace Pass Trial": "₺129,99",
+            "Minecraft Store Item 4": "₺219,00",
+            "Minecraft Store Item 3": "₺164,99",
+            "Minecraft Store Item 10": "₺559,99",
+            "Minecraft Store Item 1": "₺53,99"
+          }
+        },
+        {
           "timestamp": 1792968791930,
           "price": 109,
           "formattedPrice": "₺109,00",
@@ -43600,6 +43617,25 @@
       "Vaca Valley RC Club": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792980161097,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "Boeing 747 Jumbo Jet": "₺149,99",
+            "RC Transformer": "₺149,99",
+            "Race Car": "₺149,99",
+            "Lego Car": "₺149,99",
+            "XB-70 Valkirie": "₺149,99",
+            "BVM King Cat": "₺149,99",
+            "B17 Flying Fortress": "₺149,99",
+            "A6M Zero": "₺149,99",
+            "P-47 Thunderbolt": "₺149,99",
+            "Curtiss P-40 Warhawk": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789408041891,
@@ -83793,7 +83829,10 @@
       "Ultra Punch 10": "₺99,99",
       "Magnetic Stars Unlimited": "₺799,99",
       "Magnetic Stars 20": "₺99,99",
-      "Magnetic Stars 10": "₺49,99"
+      "Magnetic Stars 10": "₺49,99",
+      "Unlock Strawberry Candy": "₺99,99",
+      "Unlock Chocolate Candy": "₺99,99",
+      "Unlock Mint Candy": "₺99,99"
     },
     "minPriceInfo": {
       "price": 49.99,
@@ -83808,9 +83847,31 @@
       "Ultra Punch 10": "₺99,99",
       "Magnetic Stars Unlimited": "₺799,99",
       "Magnetic Stars 20": "₺99,99",
-      "Magnetic Stars 10": "₺49,99"
+      "Magnetic Stars 10": "₺49,99",
+      "Unlock Strawberry Candy": "₺99,99",
+      "Unlock Chocolate Candy": "₺99,99",
+      "Unlock Mint Candy": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792980161097,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Unlock Strawberry Candy": "₺99,99",
+            "Unlock Chocolate Candy": "₺99,99",
+            "Unlock Mint Candy": "₺99,99",
+            "Unlock Rolly Coin": "₺49,99",
+            "Unlock Rollf Coin": "₺99,99",
+            "Unlock Rollman Coin": "₺99,99",
+            "Magnetic Stars 10": "₺49,99",
+            "Magnetic Stars 20": "₺99,99",
+            "Magnetic Stars Unlimited": "₺799,99",
+            "Ultra Punch 10": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792004450196,
@@ -105939,6 +106000,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1792980161097,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Pile O Monkey Money Sale": "₺149,99",
+            "Monkey Money": "₺99,99",
+            "(5,000) Monkey XP": "₺19,99",
+            "Full Tower Unlock": "₺249,99",
+            "Pile O Monkey Money": "₺249,99",
+            "Vault O Monkey Money Sale": "₺299,99",
+            "Double Cash Mode": "₺399,99",
+            "Paragon Unlock": "₺249,99",
+            "Vault O Monkey Money": "₺999,99",
+            "Tower and Paragon Unlock": "₺499,99"
+          }
+        },
         {
           "timestamp": 1792968791930,
           "price": 399.99,

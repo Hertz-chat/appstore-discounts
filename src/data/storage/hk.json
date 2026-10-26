@@ -43459,19 +43459,37 @@
       "14,000 Coins": "HK$ 98.00",
       "30,000 Coins": "HK$ 148.00",
       "70,000 Coins": "HK$ 288.00",
-      "200,000 Coins": "HK$ 788.00"
+      "200,000 Coins": "HK$ 788.00",
+      "Field Commission": "HK$ 38.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "2,000 Coins": "HK$ 22.00",
       "7,000 Coins": "HK$ 68.00",
       "14,000 Coins": "HK$ 98.00",
       "30,000 Coins": "HK$ 148.00",
       "70,000 Coins": "HK$ 288.00",
-      "200,000 Coins": "HK$ 788.00"
+      "200,000 Coins": "HK$ 788.00",
+      "Field Commission": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793028871794,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "2,000 Coins": "HK$ 22.00",
+            "7,000 Coins": "HK$ 68.00",
+            "14,000 Coins": "HK$ 98.00",
+            "30,000 Coins": "HK$ 148.00",
+            "70,000 Coins": "HK$ 288.00",
+            "200,000 Coins": "HK$ 788.00",
+            "Field Commission": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -287095,6 +287113,19 @@
     "history": [
       [
         {
+          "timestamp": 1793028871794,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "200,000 x Coins": "HK$ 88.00",
+            "80,000 x Coins": "HK$ 38.00",
+            "40,000 x Coins": "HK$ 22.00",
+            "10,000 x Coins": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791837063531,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -298209,13 +298240,52 @@
     "name": "ArcEmu",
     "maxPriceInfo": {
       "price": 18,
-      "formattedPrice": "HK$ 18.00"
+      "formattedPrice": "HK$ 18.00",
+      "SG-1000": "HK$ 8.00",
+      "Master System": "HK$ 8.00",
+      "Game Gear": "HK$ 8.00",
+      "Mega Drive / Genesis": "HK$ 8.00",
+      "Atari 2600": "HK$ 8.00",
+      "Pokémon Mini": "HK$ 8.00",
+      "SNES": "HK$ 8.00",
+      "Game Boy Advance": "HK$ 8.00",
+      "Unlock All (Upgrade 4)": "HK$ 8.00",
+      "Unlock All (Upgrade 3)": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 18,
-      "formattedPrice": "HK$ 18.00"
+      "formattedPrice": "HK$ 18.00",
+      "SG-1000": "HK$ 8.00",
+      "Master System": "HK$ 8.00",
+      "Game Gear": "HK$ 8.00",
+      "Mega Drive / Genesis": "HK$ 8.00",
+      "Atari 2600": "HK$ 8.00",
+      "Pokémon Mini": "HK$ 8.00",
+      "SNES": "HK$ 8.00",
+      "Game Boy Advance": "HK$ 8.00",
+      "Unlock All (Upgrade 4)": "HK$ 8.00",
+      "Unlock All (Upgrade 3)": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793028871794,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "SG-1000": "HK$ 8.00",
+            "Master System": "HK$ 8.00",
+            "Game Gear": "HK$ 8.00",
+            "Mega Drive / Genesis": "HK$ 8.00",
+            "Atari 2600": "HK$ 8.00",
+            "Pokémon Mini": "HK$ 8.00",
+            "SNES": "HK$ 8.00",
+            "Game Boy Advance": "HK$ 8.00",
+            "Unlock All (Upgrade 4)": "HK$ 8.00",
+            "Unlock All (Upgrade 3)": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777728419058,
@@ -304957,6 +305027,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793028871794,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "全塔禮包": "HK$ 148.00",
+            "英雄 阿什彼特": "HK$ 58.00",
+            "全英雄禮包": "HK$ 188.00",
+            "全法術禮包": "HK$ 98.00",
+            "英雄 德拉坎": "HK$ 58.00",
+            "英雄 伊格納斯": "HK$ 22.00",
+            "塔 奧術鍛造匠": "HK$ 38.00",
+            "全塔禮包_B": "HK$ 118.00",
+            "塔 野貓女獵手": "HK$ 38.00",
+            "塔 哨兵瞭望塔": "HK$ 48.00"
+          }
+        },
         {
           "timestamp": 1793002369190,
           "price": 58,

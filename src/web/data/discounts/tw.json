@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 527358348,
+    "region": "tw",
+    "timestamp": 1793028871794,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "免費",
+        "range": "[免費 ~ $90.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id527358348",
+    "trackName": "Fieldrunners 2",
+    "firstRecordedAt": 1753640241129
+  },
+  {
     "trackId": 1575588022,
     "region": "tw",
     "timestamp": 1793002369190,
@@ -31464,7 +31484,7 @@
     "formattedPrice": "$120.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id314192799",
-    "trackName": "Acrobits Softphone",
+    "trackName": "Acrobits: VoIP SIP Softphone",
     "firstRecordedAt": 1745334141417
   },
   {

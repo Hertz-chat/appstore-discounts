@@ -2098,7 +2098,7 @@
   },
   "314192799": {
     "trackId": 314192799,
-    "trackName": "Acrobits Softphone",
+    "trackName": "Acrobits: VoIP SIP Softphone",
     "region": "pt",
     "maxPriceInfo": {
       "price": 7.99,
@@ -24040,19 +24040,37 @@
       "14,000 Coins": "14,99 €",
       "70,000 Coins": "44,99 €",
       "30,000 Coins": "22,99 €",
-      "200,000 Coins": "99,99 €"
+      "200,000 Coins": "99,99 €",
+      "Field Commission": "5,99 €"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "2,000 Coins": "2,99 €",
       "7,000 Coins": "9,99 €",
       "14,000 Coins": "14,99 €",
       "70,000 Coins": "44,99 €",
       "30,000 Coins": "22,99 €",
-      "200,000 Coins": "99,99 €"
+      "200,000 Coins": "99,99 €",
+      "Field Commission": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793028871794,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "2,000 Coins": "2,99 €",
+            "7,000 Coins": "9,99 €",
+            "14,000 Coins": "14,99 €",
+            "70,000 Coins": "44,99 €",
+            "30,000 Coins": "22,99 €",
+            "Field Commission": "5,99 €",
+            "200,000 Coins": "99,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -145963,13 +145981,52 @@
     "region": "pt",
     "maxPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "formattedPrice": "1,99 €",
+      "SG-1000": "0,99 €",
+      "Master System": "0,99 €",
+      "Game Gear": "0,99 €",
+      "Mega Drive": "0,99 €",
+      "Atari 2600": "0,99 €",
+      "Pokémon Mini": "0,99 €",
+      "SNES": "0,99 €",
+      "Game Boy Advance": "0,99 €",
+      "Desbloquear tudo (Upgrade 4)": "0,99 €",
+      "Desbloquear tudo (Upgrade 3)": "1,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "formattedPrice": "1,99 €",
+      "SG-1000": "0,99 €",
+      "Master System": "0,99 €",
+      "Game Gear": "0,99 €",
+      "Mega Drive": "0,99 €",
+      "Atari 2600": "0,99 €",
+      "Pokémon Mini": "0,99 €",
+      "SNES": "0,99 €",
+      "Game Boy Advance": "0,99 €",
+      "Desbloquear tudo (Upgrade 4)": "0,99 €",
+      "Desbloquear tudo (Upgrade 3)": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793028871794,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "SG-1000": "0,99 €",
+            "Master System": "0,99 €",
+            "Game Gear": "0,99 €",
+            "Mega Drive": "0,99 €",
+            "Atari 2600": "0,99 €",
+            "Pokémon Mini": "0,99 €",
+            "SNES": "0,99 €",
+            "Game Boy Advance": "0,99 €",
+            "Desbloquear tudo (Upgrade 4)": "0,99 €",
+            "Desbloquear tudo (Upgrade 3)": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777728419058,

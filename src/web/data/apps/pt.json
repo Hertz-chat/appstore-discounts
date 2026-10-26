@@ -368,7 +368,7 @@
     "formattedPrice": "7,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id314192799",
-    "trackName": "Acrobits Softphone",
+    "trackName": "Acrobits: VoIP SIP Softphone",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -3030,10 +3030,10 @@
   {
     "trackId": 527358348,
     "region": "pt",
-    "timestamp": 1761797674362,
+    "timestamp": 1793028871794,
     "discounts": [],
-    "price": 2.99,
-    "formattedPrice": "2,99 €",
+    "price": 0,
+    "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id527358348",
     "trackName": "Fieldrunners 2",
@@ -18830,7 +18830,7 @@
   {
     "trackId": 6496282733,
     "region": "pt",
-    "timestamp": 1777728419058,
+    "timestamp": 1793028871794,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "1,99 €",

@@ -4042,7 +4042,7 @@
     ]
   },
   "314192799": {
-    "name": "Acrobits Softphone",
+    "name": "Acrobits: VoIP SIP Softphone",
     "maxPriceInfo": {
       "price": 220,
       "formattedPrice": "$220.00",
@@ -29695,6 +29695,25 @@
     "history": [
       [
         {
+          "timestamp": 1793028871794,
+          "price": 235,
+          "formattedPrice": "$235.00",
+          "inAppPurchases": {
+            "Explorer Starter Pack": "$320.00",
+            "Farming Starter Pack": "$190.00",
+            "Creepy Starter Pack": "$320.00",
+            "Cuddly Starter Pack": "$190.00",
+            "Furniture Starter Pack": "$320.00",
+            "Structures Starter Pack": "$190.00",
+            "Scary Pack": "$320.00",
+            "Weapon Pack": "$190.00",
+            "Minecraft Pets Pack": "$320.00",
+            "Minecraft Morph Pack": "$190.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792934734921,
           "price": 235,
           "formattedPrice": "$235.00",
@@ -44813,19 +44832,37 @@
       "30,000 Coins": "$690.00",
       "14,000 Coins": "$390.00",
       "70,000 Coins": "$1,290.00",
-      "200,000 Coins": "$2,990.00"
+      "200,000 Coins": "$2,990.00",
+      "Field Commission": "$150.00"
     },
     "minPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "2,000 Coins": "$90.00",
       "7,000 Coins": "$290.00",
       "30,000 Coins": "$690.00",
       "14,000 Coins": "$390.00",
       "70,000 Coins": "$1,290.00",
-      "200,000 Coins": "$2,990.00"
+      "200,000 Coins": "$2,990.00",
+      "Field Commission": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793028871794,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "2,000 Coins": "$90.00",
+            "7,000 Coins": "$290.00",
+            "30,000 Coins": "$690.00",
+            "14,000 Coins": "$390.00",
+            "70,000 Coins": "$1,290.00",
+            "200,000 Coins": "$2,990.00",
+            "Field Commission": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753640241129,
@@ -61557,7 +61594,13 @@
       "Ford 2002 Enhanced Diagnostics": "$490.00",
       "Ford 2003 Enhanced Diagnostics": "$490.00",
       "Ford 2004 Enhanced Diagnostics": "$490.00",
-      "Ford 2005 Enhanced Diagnostics": "$490.00"
+      "Ford 2005 Enhanced Diagnostics": "$490.00",
+      "FCA 2026": "$490.00",
+      "Ford 2025 Enhanced": "$490.00",
+      "Mitsubishi 2024": "$490.00",
+      "Mitsubishi 2023": "$490.00",
+      "FCA 2025": "$490.00",
+      "Ford 2024 Enhanced": "$490.00"
     },
     "minPriceInfo": {
       "price": 320,
@@ -61581,9 +61624,34 @@
       "Ford 2002 Enhanced Diagnostics": "$490.00",
       "Ford 2003 Enhanced Diagnostics": "$490.00",
       "Ford 2004 Enhanced Diagnostics": "$490.00",
-      "Ford 2005 Enhanced Diagnostics": "$490.00"
+      "Ford 2005 Enhanced Diagnostics": "$490.00",
+      "FCA 2026": "$490.00",
+      "Ford 2025 Enhanced": "$490.00",
+      "Mitsubishi 2024": "$490.00",
+      "Mitsubishi 2023": "$490.00",
+      "FCA 2025": "$490.00",
+      "Ford 2024 Enhanced": "$490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793028871794,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {
+            "Ford 2026 Enhanced": "$490.00",
+            "Mazda 2026 Enhanced": "$490.00",
+            "Mazda 2025 Enhanced": "$490.00",
+            "FCA 2026": "$490.00",
+            "Ford 2025 Enhanced": "$490.00",
+            "Mitsubishi 2024": "$490.00",
+            "Mitsubishi 2023": "$490.00",
+            "FCA 2025": "$490.00",
+            "Ford 2024 Enhanced": "$490.00",
+            "Mazda 2024 Enhanced": "$490.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792266405252,
@@ -271420,6 +271488,23 @@
     "history": [
       [
         {
+          "timestamp": 1793028871794,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Boeing 777-300ER": "$60.00",
+            "Boeing 787-10": "$60.00",
+            "Global scenery - 12 months": "$690.00",
+            "The Aircraft Bundle": "$790.00",
+            "Airbus A380": "$60.00",
+            "Airbus A350-1000": "$120.00",
+            "Concorde": "$60.00",
+            "Boeing 747-400": "$60.00",
+            "UH-60": "$30.00"
+          }
+        },
+        {
           "timestamp": 1792968791930,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -299977,6 +300062,19 @@
     "history": [
       [
         {
+          "timestamp": 1793028871794,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "200,000 x Coins": "$320.00",
+            "80,000 x Coins": "$150.00",
+            "40,000 x Coins": "$90.00",
+            "10,000 x Coins": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791837063531,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -312007,13 +312105,52 @@
     "name": "ArcEmu",
     "maxPriceInfo": {
       "price": 60,
-      "formattedPrice": "$60.00"
+      "formattedPrice": "$60.00",
+      "SG-1000": "$30.00",
+      "Master System": "$30.00",
+      "Game Gear": "$30.00",
+      "Mega Drive / Genesis": "$30.00",
+      "Atari 2600": "$30.00",
+      "Pokémon Mini": "$30.00",
+      "SNES": "$30.00",
+      "Game Boy Advance": "$30.00",
+      "Unlock All (Upgrade 4)": "$30.00",
+      "Unlock All (Upgrade 3)": "$60.00"
     },
     "minPriceInfo": {
       "price": 60,
-      "formattedPrice": "$60.00"
+      "formattedPrice": "$60.00",
+      "SG-1000": "$30.00",
+      "Master System": "$30.00",
+      "Game Gear": "$30.00",
+      "Mega Drive / Genesis": "$30.00",
+      "Atari 2600": "$30.00",
+      "Pokémon Mini": "$30.00",
+      "SNES": "$30.00",
+      "Game Boy Advance": "$30.00",
+      "Unlock All (Upgrade 4)": "$30.00",
+      "Unlock All (Upgrade 3)": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793028871794,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "SG-1000": "$30.00",
+            "Master System": "$30.00",
+            "Game Gear": "$30.00",
+            "Mega Drive / Genesis": "$30.00",
+            "Atari 2600": "$30.00",
+            "Pokémon Mini": "$30.00",
+            "SNES": "$30.00",
+            "Game Boy Advance": "$30.00",
+            "Unlock All (Upgrade 4)": "$30.00",
+            "Unlock All (Upgrade 3)": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777728419058,
@@ -318164,6 +318301,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793028871794,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "服裝 · 萬聖節套組 3": "$90.00",
+            "服裝 · 萬聖節套組 2": "$90.00",
+            "服裝 · 萬聖節套組 1": "$90.00",
+            "付費角色・艾洛溫": "$30.00",
+            "付費角色・蘿潔爾": "$30.00",
+            "付費角色・薩爾古爾": "$30.00",
+            "付費角色・菲涅": "$30.00",
+            "付費角色・伊蕾娜": "$30.00",
+            "贊助第一階・贊助者": "$20.00",
+            "付費角色・艾德瑞克": "$30.00"
+          }
+        },
         {
           "timestamp": 1793002369190,
           "price": 60,

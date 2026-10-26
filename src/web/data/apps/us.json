@@ -392,7 +392,7 @@
     "formattedPrice": "$6.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id314192799",
-    "trackName": "Acrobits Softphone",
+    "trackName": "Acrobits: VoIP SIP Softphone",
     "firstRecordedAt": 1745334141417
   },
   {
@@ -3439,10 +3439,10 @@
   {
     "trackId": 527358348,
     "region": "us",
-    "timestamp": 1753640241129,
+    "timestamp": 1793028871794,
     "discounts": [],
-    "price": 2.99,
-    "formattedPrice": "$2.99",
+    "price": 0,
+    "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id527358348",
     "trackName": "Fieldrunners 2",
@@ -4654,7 +4654,7 @@
   {
     "trackId": 650684932,
     "region": "us",
-    "timestamp": 1793002369190,
+    "timestamp": 1793028871794,
     "discounts": [],
     "price": 9.99,
     "formattedPrice": "$9.99",
@@ -10674,7 +10674,7 @@
   {
     "trackId": 1309638846,
     "region": "us",
-    "timestamp": 1792808084244,
+    "timestamp": 1793028871794,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "$2.99",
@@ -13820,7 +13820,7 @@
   {
     "trackId": 1499001662,
     "region": "us",
-    "timestamp": 1792846729867,
+    "timestamp": 1793028871794,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -19524,7 +19524,7 @@
   {
     "trackId": 6473001577,
     "region": "us",
-    "timestamp": 1792763643625,
+    "timestamp": 1793028871794,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "$3.99",
@@ -20210,7 +20210,7 @@
   {
     "trackId": 6496282733,
     "region": "us",
-    "timestamp": 1777728419058,
+    "timestamp": 1793028871794,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "$1.99",
@@ -22002,7 +22002,7 @@
   {
     "trackId": 6743459503,
     "region": "us",
-    "timestamp": 1792980161097,
+    "timestamp": 1793028871794,
     "discounts": [],
     "price": 5.99,
     "formattedPrice": "$5.99",

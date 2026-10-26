@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2026-10-25T21:49:09.588Z</updated>
+    <updated>2026-10-26T09:53:20.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-25T21:49:09.589Z</updated>
+        <updated>2026-10-26T09:53:20.848Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnSun, 25 Oct 2026 21:49:09 GMT</id>
+        <id>rankingcnMon, 26 Oct 2026 09:53:20 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-25T21:49:09.589Z</updated>
+        <updated>2026-10-26T09:53:20.849Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -51,13 +51,13 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>2377</b>
+        <b>2379</b>
       </td>
       <td>
         <b>204</b>
       </td>
       <td>
-        <b>2173</b>
+        <b>2175</b>
       </td>
       <td>
         <b>107</b>
@@ -757,14 +757,20 @@ feedId:157007849019630592+userId:73658201673997312
         <b>37</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1587301632?lang=zh-CN">全能记(录音,备忘,流水)</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1575588022?lang=zh-CN">MenubarX - 强大的菜单栏浏览器</a>
       </td>
       <td>
         <ul>
           <li>
             <span>总次数</span>：<b>1</b>
           </li><li>
-            <span>价格</span>：<b>1</b>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App内购买</span><ol>
+              <li>
+                <i>MenubarX Pro</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -774,7 +780,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>38</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1626320298?lang=zh-CN">极速变色龙</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1587301632?lang=zh-CN">全能记(录音,备忘,流水)</a>
       </td>
       <td>
         <ul>
@@ -791,7 +797,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>39</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1644917705?lang=zh-CN">无处遁形：全网公敌</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1626320298?lang=zh-CN">极速变色龙</a>
       </td>
       <td>
         <ul>
@@ -808,7 +814,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>40</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1665759338?lang=zh-CN">坐在罐子里的人</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1644917705?lang=zh-CN">无处遁形：全网公敌</a>
       </td>
       <td>
         <ul>
@@ -825,7 +831,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>41</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1667072735?lang=zh-CN">Watch Web Browser</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1665759338?lang=zh-CN">坐在罐子里的人</a>
       </td>
       <td>
         <ul>
@@ -842,7 +848,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>42</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6752662508?lang=zh-CN">足迹-时光轨迹·每日轨迹·记录一生轨迹·GPS</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1667072735?lang=zh-CN">Watch Web Browser</a>
       </td>
       <td>
         <ul>
@@ -857,6 +863,23 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>
         <b>43</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/cn/6752662508?lang=zh-CN">足迹-时光轨迹·每日轨迹·记录一生轨迹·GPS</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>44</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6760764479?lang=zh-CN">Alpin Quest PRO – Outdoor GPS</a>
@@ -879,7 +902,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6802565793?lang=zh-CN">我不想当班主任-班主任工作台&教师工作台&班级管理</a>
@@ -896,7 +919,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6760446039?lang=zh-CN">般若心灯</a>
@@ -913,7 +936,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6748287593?lang=zh-CN">问题盒子-清空大脑，告别内耗</a>
@@ -930,7 +953,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6760777178?lang=zh-CN">Film Light</a>
@@ -947,7 +970,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6757943661?lang=zh-CN">阿福出境管家 - 签证通过率评估与材料清单</a>
@@ -964,7 +987,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6742457882?lang=zh-CN">Deco: Wallpaper & Stickers</a>
@@ -981,7 +1004,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6449003064?lang=zh-CN">Goblin Tools</a>
@@ -998,7 +1021,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>51</b>
+        <b>52</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6501973975?lang=zh-CN">休息日</a>
@@ -1015,7 +1038,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>52</b>
+        <b>53</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6447693393?lang=zh-CN">灵感卡片 - 创意笔记</a>
@@ -1032,7 +1055,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>53</b>
+        <b>54</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6759071028?lang=zh-CN">A32X Tools · A320 ECAM Resets</a>
@@ -1049,7 +1072,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>54</b>
+        <b>55</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6451376191?lang=zh-CN">Dumb Phone</a>
@@ -1068,6 +1091,23 @@ feedId:157007849019630592+userId:73658201673997312
                 <i>Dumb Phone Plus Monthly</i>：<b>1</b>
               </li>
             </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>56</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/cn/6775828757?lang=zh-CN">新世界：暗影成双</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
           </li>
         </ul>
       </td>
@@ -1653,6 +1693,119 @@ feedId:157007849019630592+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[新世界：暗影成双]]></title>
+        <id>新世界：暗影成双-cn-1793002369190</id>
+        <link href="https://appstore-discounts.eyelly.me/cn/6775828757?lang=zh-CN"/>
+        <updated>2026-10-26T08:12:49.190Z</updated>
+        <summary type="html"><![CDATA[价格: ¥1.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/6775828757?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/77/1a/b4771ab4-7839-1484-fec1-e220768d3eff/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥1.00</span> → <b>
+  <strong>免费</strong>
+</b><span>[免费 ~ ¥1.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    单人份完整版：<b>¥36.80</b>
+  </li><li>
+    双人份完整版：<b>¥73.00</b>
+  </li><li>
+    好友赠礼完整版：<b>¥36.80</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  1941年，阴谋笼罩下的「孤岛」上海。一场银行爆炸，将两个陌生人的命运绑在一起。
+你和TA为逃过追捕与审查，不得不假扮夫妻。围绕着货币与城市命脉，一场金融暗战悄然打响。暗杀、假钞与阴谋接踵而至，你们两人必须一起圆谎、调查、潜入、营救......同路、错过，还是相爱相杀？
+
+【付费说明】
+本作为内购买断制产品。完整版原价36.8元。限时折扣不定期开启，具体折扣价格与活动时间以产品内购买页面为准~
+邀请搭档一起玩，可免费体验序章部分内容，付费后一次性解锁完整剧情。
+注意：免费体验阶段不提供大厅匹配功能，无固定搭档的特工可通过一次性付费解锁【匹配】和【全部剧情】，无重复收费
+
+【一人一半真相】
+两个人，两块屏幕，两种视角。你以为的真相，可能是 TA 的伪装；TA 的一个选择，将改写你的命运。你与TA都是主角！
+【近百种结局，哪一种属于你们？】
+9个章节，130+分支选择，100余种结局。你们是哪种关系，就会走进哪种结局；换一个选择，改写一段命运。
+【从博弈到默契】
+25+双人玩法，随剧情层层铺开：圆谎、跟踪、推理、解谜、并肩、试探。博弈时暗流涌动，配合时心有灵犀。
+【玩出你们的关系】
+100+ 表情包，随时和 TA 斗图开战；每章结束，再给 TA 贴枚标签。情侣、闺蜜、兄弟、网友......各有各的风味。「天作之合」还是「塑料搭子」？一测便知。
+【高度还原的 1941】
+十里洋场，霓虹闪烁；暗巷深处，杀机四伏。8小时真人实拍，交织皮影戏、纪实、手绘卡通等十余种风格，沉浸式体验一个乱世的繁华与危机。
+【一个人，也能入局】
+没搭子也不怕——进大厅在线匹配。移动端双端互通，内置语音功能，还可挑选进度。怎么玩都方便！
+
+双人合作互动影游《新世界：暗影成双》9月23日好戏正式开场。一起选择，一起经历，一起抵达结局。戏会落幕，但那段记忆只属于你们彼此。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/97/ce/f197cef7-5663-b843-25b7-b4d0fe891012/1_U9996_U56fe2736.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/8e/ca/6d8ecaa7-6b44-5735-7f72-a147aeadfd41/2_U5bf9_U624b2736.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/89/24/4f8924ff-5459-f1cd-9efa-fb2caaedb787/3_U65b0_U6545_U4e8b2736.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/b5/dd/ebb5ddd4-320d-ea1d-a14e-83523653714a/4_U4e00_U8d77_U73a92736.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/27/9e/2f279eea-9322-0aef-388b-c9b50b2bbdf4/_U82f9_U679c2736.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/c5/d2/17c5d2ba-2733-02e3-e83c-0c0b85126d9b/_U82f9_U679c2736.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/9d/74/7b9d749b-3aec-b7f6-b12e-685926f22895/1_U9996_U56fe2732.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/d1/10/76d1104e-2663-1ec0-6f1e-a1f1af9f78ff/2_U5bf9_U624b2732.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/08/6c/78086c00-801c-def2-e7fb-77e128935a0e/3_U65b0_U6545_U4e8b2732.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/db/2a/70db2a2f-eb29-58fa-1264-12f97f799e48/4_U4e00_U8d77_U73a92732.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/07/86/04078645-df5f-4a73-f20f-0799da99f447/_U82f9_U679c2732.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/97/a4/a497a43d-5235-c668-a7b3-f5fa92b21a79/_U82f9_U679c2732.jpg/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MenubarX - 强大的菜单栏浏览器]]></title>
+        <id>MenubarX - 强大的菜单栏浏览器-cn-1793002369190</id>
+        <link href="https://appstore-discounts.eyelly.me/cn/1575588022?lang=zh-CN"/>
+        <updated>2026-10-26T08:12:49.190Z</updated>
+        <summary type="html"><![CDATA[MenubarX Pro: ¥48.00 → ¥38.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/1575588022?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/a7/67/90a76757-84d0-9e53-d8dd-02c6c6e11022/AppIcon-0-0-85-220-0-0-5-0-2x-0-0-0.png/60x60bb.png" />
+</a><h2>优惠信息</h2><h3>App内购买</h3><ul>
+  <li>
+    <strong>MenubarX Pro：</strong><span>¥48.00</span> → <b>
+  <strong>¥38.00</strong>
+</b><span>[¥28.00 ~ ¥48.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    MenubarX Pro：<b>¥38.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  MenubarX 是一款强大的 Mac 菜单栏浏览器，把网页添加到菜单栏上，像原生 App 一样即开即用，为你打开 Web Apps 的新世界。
+
+- 荣登 ProductHunt 日榜和周榜评奖
+- 被海外媒体评选为最值得常驻的菜单栏应用
+
+完美支持各种 Web、Wap、PWA 网站，再也不用烦恼没有官方 App 的服务了，仅需一个链接便可享用全部功能。在菜单栏即可拥有 iPhone、iPad 甚至是 Kindle 模拟器，是 Mac 用户的提效利器，也是兼顾劳逸结合的神器，听音乐、看视频、玩游戏，真正做到随开随用。
+
+多达 29+ 功能点：
+1.无限标签页，无限可能
+2.无限书签收藏
+3.自定义首页
+4.自定义网站图标
+5.支持 AdBlock 自动广告屏蔽
+6.支持自定义JS/CSS脚本
+7.置顶窗口，不遮挡
+8.摘下窗口，不受束缚
+9.移动设备模拟器
+10.切换用户代理
+11.调节尺寸，响应式布局
+12.自动刷新，想你所想
+13.老板键
+14.深色模式
+15.丰富的快捷键
+16.支持 5 种语言
+17.下载管理器
+18.彩色网站图标
+19.网站通知推送
+20.地址栏快捷搜索
+21.原生应用模式
+22.音频持续后台播放
+23.本地开发调试
+24.第三方整合
+25.更低资源消耗
+26.丰富的 Web Apps
+27.支持iCloud同步/备份
+28.自动销毁页面以释放资源 
+29.支持本地文件预览
+30.自定义用户代理
+31. 网页深色模式
+32. 自定义网络代理（HTTP/Socks5）
+
+更多强大功能持续开发中...
+也欢迎在 Twitter(@MenubarX) 或 MenubarX@gmail.com 上反馈和建议
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8e/ae/69/8eae690e-a195-c386-8362-01b4f11d15d4/4cc185b6-c509-4bd5-a816-54c2b9eec68d_2880x1800-Banner-1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ba/72/8d/ba728d7e-3437-8dea-1fa4-a33995d1adc8/46a18fb5-88f8-4052-ad27-13efc0956e16_2880x1800-Banner-2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3a/9b/88/3a9b8825-43a1-3d1c-e0e2-411f39e7d735/8099ad8d-eeeb-494f-928e-6bcc8a823bed_2880x1800-Banner-3.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/d4/48/61/d44861e6-a38b-8a6f-0ebd-84b5699fb322/71495b86-16d7-4d15-b1dd-57986297a1da_cc.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/22/43/c6/2243c605-066d-b608-2572-67d0b56f5b80/969084d5-9ba1-4332-97e0-0d465b12a587_2880x1800-Banner-5.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/40/84/ca/4084ca8d-1eb3-398d-8777-23ebb1e9e885/29cae22e-2fd3-423d-9afa-8bb7202fc7c2_2880x1800-Banner-6.png/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Be Focused Pro: Pomodoro Timer]]></title>
         <id>Be Focused Pro: Pomodoro Timer-cn-1792958987542</id>
         <link href="https://appstore-discounts.eyelly.me/cn/953426154?lang=zh-CN"/>
@@ -2232,39 +2385,5 @@ TapTap社区：https://www.taptap.com/app/65333
 五：在战场上，玩家只需要指挥自己和私兵部队来取得胜利。获得傲人的功绩，成为战役胜利的关键力量。
 六：玩家通过不断地推关挑战，攻城略地，最终帮助自己的君主成就统一霸业，也达成自己的从龙觅封侯的宏愿！六：玩家通过不断地推关挑战，攻城略地，最终帮助自己的君主成就统一霸业，也达成自己的从龙觅封侯的野望！
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/a9/aa/78a9aaab-0221-b121-41d7-db86722ffe1d/768e93e9-dff2-437b-a317-24f2148a9100_2208x1242_U0028_U7b80_U4f53_U0029.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/11/0c/67110c59-4e19-7d1a-a27b-bcec82c5ad3e/08d67d95-a14c-41d4-ba45-92f193a8b142_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/c2/da/1dc2da0f-4556-5007-a3ff-79f6f96344e6/2e612c64-3df2-427f-90c0-131630bfb94c__U5b89_U90a6_U9f50_U6c11.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/93/3f/88933fc1-1bae-b4dc-683a-638a335893a7/b44ac90f-e322-4620-b5e5-65dc1695e44c__U7fa4_U82f1_U9f50_U805a.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/c1/ab/1ec1abac-ab5d-e060-2882-b048c10be5a6/676e79ca-838c-4d7b-b440-d09ae87d3448__U4f20_U5947_U5175_U79cd.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/77/94/0e779400-ee34-eada-a821-3d3c94db8646/c24460c5-7ec8-4dde-9beb-6c4a852aedb0__U91ce_U6218_U5730_U56fe.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/7e/0f/0a7e0fe7-d12e-fc6a-34b1-fbddd59151bc/b7c38907-017d-4764-9498-6c3e5a8560aa__U5b50_U5973_U57f9_U517b.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/04/3c/ab043ce7-e2eb-ce25-b19f-f767a553413b/2eda3974-58da-4e45-8775-8e1473b32376__U795e_U5175_U4eb2_U9020.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/aa/d2/69aad2f1-0509-bcbf-e410-a6e206975c21/fcb91eb7-0468-4246-894c-dbe75948af3a_2732x2048_Uff08_U7b80_U4f53_Uff09.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/96/fb/a996fb32-a64c-e613-2e44-7b63690ed51c/632e2730-6c28-4bcb-82dc-b5abb41bf0aa_2732x20481.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/9e/fd/6c9efdf1-0150-671b-7d8d-4a407273cfdc/0a12f10b-c5e6-4e51-91ce-bfbf658f7bcc__U5b89_U90a6_U9f50_U6c11.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/18/a2/ff18a28a-dca0-c159-307e-b53c434ef1be/84078e23-a734-4c76-860d-cc4a1fd6d02b__U7fa4_U82f1_U9f50_U805a.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/c6/7e/20c67e16-cb0f-980b-612d-604970f01b30/c63075fc-182f-44ce-95ea-ad02ec28a65c__U91ce_U6218_U5730_U56fe.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/7c/9e/907c9ecd-f1d6-fcfc-1c0b-664d4aed6b31/e42d0bfa-1f54-4a6d-bdc6-3f6f8eadeae2_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/2c/2d/dd2c2dc6-98d3-ee9b-97a2-334b29763477/3772daed-d12d-4537-88d8-f178718fae13__U5b50_U5973_U57f9_U517b.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/5d/97/7f5d9712-a31b-4552-5d43-de8d7d371392/fc40cb3f-a371-4014-82bd-0612a742975f__U795e_U5175_U4eb2_U9020.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[休息日]]></title>
-        <id>休息日-cn-1792721789601</id>
-        <link href="https://appstore-discounts.eyelly.me/cn/6501973975?lang=zh-CN"/>
-        <updated>2026-10-23T02:16:29.601Z</updated>
-        <summary type="html"><![CDATA[价格: ¥28.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/6501973975?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/d2/8b/59d28bb2-b747-f538-7957-d10c71432cc5/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥28.00</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥28.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免费</b>
-</p><h2>应用描述</h2><p>
-  「休息日」是一个开源项目，任何人都可以自行编译项目，或者也可以考虑直接购买本 App 以支持项目。
-
------------
-
-「休息日」是一款内置多种放假模板的节假日闹钟神器，包含中国、日本、新加坡、美国、泰国、韩国的放假信息。
-
-按照步骤做，配合系统的快捷指令自动化（必须配合快捷指令），就不怕放假的早晨被闹钟吵醒了。
-
-除了内置的放假信息外，用户还可以自己手动标记放假上班的安排。
-
-究竟某一天是“休息日”还是“工作日”，一切最终决定权都在你。
-
-（温馨提示：本 App 是付费 App，购买时请确认这个配合快捷指令的节假日闹钟 App 是你需要的吗？）
-
------------
-
-最终用户许可协议： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/cb/74/66cb74da-77e9-5036-8d84-3457b26102b8/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-09-17_at_23.56.40.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/ee/b4/cdeeb449-9dde-d1b3-cbf2-e656d514dd39/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-09-17_at_23.56.49.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/5f/9c/a55f9ce2-f876-4b73-a973-f41310c46aef/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-09-18_at_00.01.10.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/9f/52/239f5203-d6ed-fc17-48a8-d8289d6bf5fa/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-09-18_at_00.01.28.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/14/7f/f8147fb3-8ee6-fff4-af02-2f85b00260fe/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-09-17_at_23.59.30.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/ef/7d/a0ef7d59-c1ea-cac1-ff53-1a62a3261e99/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-09-17_at_23.59.20.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/68/1c/df681c7d-93d0-b412-df57-6edbc342c8a6/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-09-17_at_23.59.23.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/53/c7/3553c72c-6dd5-cf17-8b5b-79e53d23bd3a/bf763c9a-2a5c-4409-ba3f-25c10665d9c6_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-06_at_11.57.08.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/b3/b3/0db3b364-5677-272a-d3bf-f1a90d6d0259/6f2bc8ee-62e8-48af-b482-3ed18ddf656b_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-06_at_11.57.17.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/38/08/43380822-4c01-5e0c-eaae-5ab366c247f1/0c120c1a-4d79-4cd6-975b-044e49ed44c1_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-06_at_11.57.24.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/3e/22/5c3e22d5-d03d-1768-9e92-4f2817377f59/ab3c96c2-af72-4c78-94fc-ad60514093dd_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-06_at_11.57.26.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/78/b2/fb78b22c-21cb-1d1a-4840-ec62c5ca6711/d86796e7-067b-41f9-87e6-8e255f2f66ff_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-06_at_11.57.30.png/576x768bb.png" />]]></content>
     </entry>
 </feed>

@@ -765,6 +765,23 @@
     "history": [
       [
         {
+          "timestamp": 1793002369190,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "10,000 coins": "1,99 €",
+            "1000 coins": "0,99 €",
+            "1000 candies": "0,99 €",
+            "30,000 coins": "2,99 €",
+            "100,000 coins": "3,99 €",
+            "15000 eggs": "2,99 €",
+            "10000 candies": "2,99 €",
+            "Soccer coins": "0,99 €",
+            "300,000 gold": "2,99 €",
+            "100,000 gold": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1792980161097,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -43153,6 +43170,23 @@
     "history": [
       [
         {
+          "timestamp": 1793002369190,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Ultra Punch 30": "5,99 €",
+            "Ultra Punch 5": "0,99 €",
+            "Magnetic Stars 60": "5,99 €",
+            "Ultra Punch Unlimited": "22,99 €",
+            "Ultra Punch 10": "1,99 €",
+            "Magnetic Stars Unlimited": "17,99 €",
+            "Magnetic Stars 20": "1,99 €",
+            "Magnetic Stars 10": "0,99 €",
+            "Unlock Rollman Coin": "1,99 €",
+            "Unlock Rollf Coin": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1792980161097,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -80950,7 +80984,8 @@
       "Gorilla Token": "2,99 €",
       "Diamondhoof Token": "9,99 €",
       "Kraken Token": "2,99 €",
-      "The Trophy Tycoon Sale": "2,99 €"
+      "The Trophy Tycoon Sale": "2,99 €",
+      "Enchanted Forest Token Bundle": "9,99 €"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -81136,9 +81171,29 @@
       "Gorilla Token": "2,99 €",
       "Diamondhoof Token": "9,99 €",
       "Kraken Token": "2,99 €",
-      "The Trophy Tycoon Sale": "2,99 €"
+      "The Trophy Tycoon Sale": "2,99 €",
+      "Enchanted Forest Token Bundle": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793002369190,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "Enchanted Forest Token Bundle": "9,99 €",
+            "New York 2121 Board": "6,99 €",
+            "Euro Trip": "3,99 €",
+            "New York 2121": "14,99 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €",
+            "Arcade Dice Sale": "3,99 €",
+            "The Dragon": "3,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792569835923,
@@ -99841,6 +99896,16 @@
       "MenubarX Pro": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793002369190,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "MenubarX Pro": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -131826,6 +131891,25 @@
     "history": [
       [
         {
+          "timestamp": 1793002369190,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "1'000'000 Coins": "3,49 €",
+            "200'000 Coins": "1,19 €",
+            "500'000 Coins": "2,49 €",
+            "Amazone CITAN 15001-C": "1,19 €",
+            "John Deere 8R 410": "2,49 €",
+            "ClaasLexion8900+ConvioFlex1380": "3,49 €",
+            "Krone BiG Pack 1290 HDP VC": "1,19 €",
+            "Versatile 4WD 620": "2,49 €",
+            "KINZE 3665 Blue Drive": "1,19 €",
+            "Case IH Speed-Tiller": "1,19 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792742526515,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -154635,6 +154719,29 @@
           "timestamp": 1792881993930,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6804997193": {
+    "trackId": 6804997193,
+    "trackName": "Laboratório de Cataclismos",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "0,29 €"
+    },
+    "minPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "0,29 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793002369190,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
           "inAppPurchases": {}
         }
       ]

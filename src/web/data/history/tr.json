@@ -44153,6 +44153,23 @@
     "history": [
       [
         {
+          "timestamp": 1793002369190,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "TRex 700 N": "₺149,99",
+            "TRex 500": "₺149,99",
+            "AH-64 Apache": "₺149,99",
+            "Blast 450 3D": "₺149,99",
+            "Bell 222": "₺149,99",
+            "Bell 222 Airwolf": "₺149,99",
+            "A10 Warthog": "₺149,99",
+            "Hughes 500": "₺149,99",
+            "Bell 47": "₺149,99",
+            "Montana 3D": "₺149,99"
+          }
+        },
+        {
           "timestamp": 1792980161097,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -84970,6 +84987,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793002369190,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Unlock Rollman Coin": "₺99,99",
+            "Unlock Rollf Coin": "₺99,99",
+            "Unlock Rolly Coin": "₺49,99",
+            "Ultra Punch 30": "₺249,99",
+            "Ultra Punch 5": "₺49,99",
+            "Magnetic Stars 60": "₺249,99",
+            "Ultra Punch Unlimited": "₺999,99",
+            "Ultra Punch 10": "₺99,99",
+            "Magnetic Stars Unlimited": "₺799,99",
+            "Magnetic Stars 20": "₺99,99"
+          }
+        },
         {
           "timestamp": 1792980161097,
           "price": 49.99,
@@ -167159,6 +167193,23 @@
     "history": [
       [
         {
+          "timestamp": 1793002369190,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺599,99",
+            "Orient Express": "₺199,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "The Complete Collection": "₺1.999,99",
+            "Golden Dice": "₺249,99",
+            "The Dragon": "₺199,99",
+            "Ruby Dragon Sale": "₺149,99",
+            "Victorian London Board": "₺399,99",
+            "The Ultimate Edition Sale": "₺1.299,99"
+          }
+        },
+        {
           "timestamp": 1792968791930,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -186383,7 +186434,7 @@
       "Master Package": "₺319,99",
       "Prime Gemma 500": "₺80,99",
       "Starter Package": "₺80,99",
-      "Evoker Kit": "₺29,99",
+      "Evoker Kit": "₺15,99",
       "Evoker Package": "₺449,99",
       "Hunter Package": "₺449,99",
       "Tamer Kit": "₺15,99",
@@ -186406,6 +186457,25 @@
       "Master Offer Sale": "₺159,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793002369190,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Tamer Kit": "₺15,99",
+            "Evoker Kit": "₺15,99",
+            "Prime gemma 100": "₺15,99",
+            "Master Package": "₺319,99",
+            "Starter Package": "₺80,99",
+            "Prime Gemma 500": "₺80,99",
+            "Spray kit": "₺80,99",
+            "Ascensio Kit": "₺80,99",
+            "Zenith Islands DLC Sale": "₺47,99",
+            "Prime Dimension DLC Sale": "₺47,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792591960143,
@@ -209519,6 +209589,16 @@
       "MenubarX Pro": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793002369190,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "MenubarX Pro": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1770095870549,
@@ -251296,6 +251376,25 @@
     "history": [
       [
         {
+          "timestamp": 1793002369190,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Airbus A350-1000": "₺199,99",
+            "Boeing 737-800": "₺149,99",
+            "Boeing 787-10": "₺99,99",
+            "Airbus A321": "₺99,99",
+            "UH-60": "₺49,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792914758864,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -284609,6 +284708,25 @@
     "history": [
       [
         {
+          "timestamp": 1793002369190,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "5 ticket": "₺19,99",
+            "5 gold": "₺19,99",
+            "passatb8": "₺49,99",
+            "30000 money": "₺19,99",
+            "sonsuz paket": "₺249,99",
+            "10 ticket": "₺29,99",
+            "15 gold": "₺29,99",
+            "porches": "₺49,99",
+            "15 ticket": "₺29,99",
+            "10 gold": "₺29,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792881993930,
           "price": 0,
           "formattedPrice": "Free",
@@ -300026,6 +300144,23 @@
     "history": [
       [
         {
+          "timestamp": 1793002369190,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Hero Ashbite": "₺399,99",
+            "Hero Drakkan": "₺399,99",
+            "Tower Alchemist": "₺149,99",
+            "Spell Aspect of Sol": "₺249,99",
+            "Hero Ignus": "₺149,99",
+            "Tower Sniper": "₺299,99",
+            "Tower Wildcat": "₺249,99",
+            "Spell Wrath": "₺149,99",
+            "Tower Ironbark": "₺399,99",
+            "Hero Oni": "₺249,99"
+          }
+        },
+        {
           "timestamp": 1792968791930,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -302588,6 +302723,29 @@
           "timestamp": 1792968791930,
           "price": 149.99,
           "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6804997193": {
+    "trackId": 6804997193,
+    "trackName": "Planet Cataclysm Lab",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "₺19,99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "₺19,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793002369190,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
           "inAppPurchases": {}
         }
       ]

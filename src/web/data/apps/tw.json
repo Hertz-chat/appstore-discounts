@@ -12508,7 +12508,7 @@
   {
     "trackId": 1450908177,
     "region": "tw",
-    "timestamp": 1792781222157,
+    "timestamp": 1793002369190,
     "discounts": [],
     "price": 30,
     "formattedPrice": "$30.00",
@@ -15939,7 +15939,7 @@
   {
     "trackId": 1575588022,
     "region": "tw",
-    "timestamp": 1790805284947,
+    "timestamp": 1793002369190,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -21353,7 +21353,7 @@
   {
     "trackId": 6737434503,
     "region": "tw",
-    "timestamp": 1792569835923,
+    "timestamp": 1793002369190,
     "discounts": [],
     "price": 10,
     "formattedPrice": "$10.00",
@@ -25392,7 +25392,7 @@
   {
     "trackId": 6761328517,
     "region": "tw",
-    "timestamp": 1792763643625,
+    "timestamp": 1793002369190,
     "discounts": [],
     "price": 190,
     "formattedPrice": "$190.00",
@@ -26606,7 +26606,7 @@
   {
     "trackId": 6801980968,
     "region": "tw",
-    "timestamp": 1792934734921,
+    "timestamp": 1793002369190,
     "discounts": [],
     "price": 60,
     "formattedPrice": "$60.00",
@@ -26662,6 +26662,18 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id6804636118",
     "trackName": "Oto Galerici Simülatörü",
     "firstRecordedAt": 1790999952664
+  },
+  {
+    "trackId": 6804997193,
+    "region": "tw",
+    "timestamp": 1793002369190,
+    "discounts": [],
+    "price": 10,
+    "formattedPrice": "$10.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6804997193",
+    "trackName": "星球災變實驗室",
+    "firstRecordedAt": 1793002369190
   },
   {
     "trackId": 6805504523,

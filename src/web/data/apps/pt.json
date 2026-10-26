@@ -302,7 +302,7 @@
   {
     "trackId": 307727765,
     "region": "pt",
-    "timestamp": 1792980161097,
+    "timestamp": 1793002369190,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "1,99 €",
@@ -6164,7 +6164,7 @@
   {
     "trackId": 952764370,
     "region": "pt",
-    "timestamp": 1792980161097,
+    "timestamp": 1793002369190,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "0,99 €",
@@ -12257,7 +12257,7 @@
   {
     "trackId": 1477966166,
     "region": "pt",
-    "timestamp": 1792569835923,
+    "timestamp": 1793002369190,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "4,99 €",
@@ -14720,7 +14720,7 @@
   {
     "trackId": 1575588022,
     "region": "pt",
-    "timestamp": 1790805284947,
+    "timestamp": 1793002369190,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Gratuito",
@@ -16978,7 +16978,7 @@
   {
     "trackId": 6444400410,
     "region": "pt",
-    "timestamp": 1792742526515,
+    "timestamp": 1793002369190,
     "discounts": [],
     "price": 5.99,
     "formattedPrice": "5,99 €",
@@ -24581,6 +24581,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id6804636118",
     "trackName": "Oto Galerici Simülatörü",
     "firstRecordedAt": 1790999952664
+  },
+  {
+    "trackId": 6804997193,
+    "region": "pt",
+    "timestamp": 1793002369190,
+    "discounts": [],
+    "price": 0.29,
+    "formattedPrice": "0,29 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6804997193",
+    "trackName": "Laboratório de Cataclismos",
+    "firstRecordedAt": 1793002369190
   },
   {
     "trackId": 6805504523,

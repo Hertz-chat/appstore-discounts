@@ -543,7 +543,7 @@
   {
     "trackId": 325307477,
     "region": "hk",
-    "timestamp": 1791718980381,
+    "timestamp": 1792968791930,
     "discounts": [],
     "price": 148,
     "formattedPrice": "HK$ 148.00",
@@ -3427,7 +3427,7 @@
   {
     "trackId": 528194758,
     "region": "hk",
-    "timestamp": 1792071965226,
+    "timestamp": 1792968791930,
     "discounts": [],
     "price": 8,
     "formattedPrice": "HK$ 8.00",
@@ -7737,7 +7737,7 @@
   {
     "trackId": 1050535507,
     "region": "hk",
-    "timestamp": 1791965170280,
+    "timestamp": 1792968791930,
     "discounts": [],
     "price": 18,
     "formattedPrice": "HK$ 18.00",
@@ -17178,7 +17178,7 @@
   {
     "trackId": 1621267448,
     "region": "hk",
-    "timestamp": 1772046909953,
+    "timestamp": 1792968791930,
     "discounts": [],
     "price": 8,
     "formattedPrice": "HK$ 8.00",
@@ -17263,7 +17263,7 @@
   {
     "trackId": 1624326561,
     "region": "hk",
-    "timestamp": 1792958987542,
+    "timestamp": 1792968791930,
     "discounts": [],
     "price": 2,
     "formattedPrice": "HK$ 2.00",
@@ -18369,7 +18369,7 @@
   {
     "trackId": 6444400410,
     "region": "hk",
-    "timestamp": 1792958987542,
+    "timestamp": 1792968791930,
     "discounts": [],
     "price": 54,
     "formattedPrice": "HK$ 54.00",
@@ -19274,7 +19274,7 @@
   {
     "trackId": 6463616555,
     "region": "hk",
-    "timestamp": 1792958987542,
+    "timestamp": 1792968791930,
     "discounts": [],
     "price": 38,
     "formattedPrice": "HK$ 38.00",
@@ -26712,6 +26712,18 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id6808354789",
     "trackName": "團本經理 - Raid Manager 2",
     "firstRecordedAt": 1792609257403
+  },
+  {
+    "trackId": 6810002638,
+    "region": "hk",
+    "timestamp": 1792968791930,
+    "discounts": [],
+    "price": 22,
+    "formattedPrice": "HK$ 22.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6810002638",
+    "trackName": "漁樂無窮",
+    "firstRecordedAt": 1792968791930
   },
   {
     "trackId": 6811365567,

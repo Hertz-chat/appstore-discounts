@@ -96328,6 +96328,23 @@
     "history": [
       [
         {
+          "timestamp": 1792968791930,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Lisa character": "0,00 €",
+            "Founders Pack": "0,99 €",
+            "Marco character": "0,99 €",
+            "Gloria skin": "0,99 €",
+            "Jorge skin": "0,99 €",
+            "Daniel skin": "0,99 €",
+            "Reyna skin": "0,99 €",
+            "Purple menu color": "3,99 €",
+            "Red menu color": "1,99 €",
+            "Yellow menu color": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1792958987542,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -115082,6 +115099,19 @@
       "Dumb Phone Plus Weekly": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792968791930,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Dumb Phone Plus Lifetime": "89,99 €",
+            "Dumb Phone Plus Monthly": "5,99 €",
+            "Dumb Phone Plus Weekly": "1,99 €",
+            "Dumb Phone Plus Yearly": "17,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792446504330,
@@ -147251,6 +147281,14 @@
       "formattedPrice": "8,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792968791930,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787447765759,

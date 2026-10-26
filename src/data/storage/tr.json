@@ -32500,7 +32500,9 @@
       "Furniture Starter Pack": "₺499,99",
       "Structures Starter Pack": "₺299,99",
       "Creepy Starter Pack": "₺499,99",
-      "Cuddly Starter Pack": "₺299,99"
+      "Cuddly Starter Pack": "₺299,99",
+      "Explorer Starter Pack": "₺499,99",
+      "Farming Starter Pack": "₺299,99"
     },
     "minPriceInfo": {
       "price": 89.99,
@@ -32537,9 +32539,30 @@
       "Furniture Starter Pack": "₺499,99",
       "Structures Starter Pack": "₺299,99",
       "Creepy Starter Pack": "₺499,99",
-      "Cuddly Starter Pack": "₺299,99"
+      "Cuddly Starter Pack": "₺299,99",
+      "Explorer Starter Pack": "₺499,99",
+      "Farming Starter Pack": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792968791930,
+          "price": 109,
+          "formattedPrice": "₺109,00",
+          "inAppPurchases": {
+            "Explorer Starter Pack": "₺499,99",
+            "Farming Starter Pack": "₺299,99",
+            "Creepy Starter Pack": "₺499,99",
+            "Cuddly Starter Pack": "₺299,99",
+            "Furniture Starter Pack": "₺499,99",
+            "Structures Starter Pack": "₺299,99",
+            "Scary Pack": "₺499,99",
+            "Weapon Pack": "₺299,99",
+            "Minecraft Pets Pack": "₺499,99",
+            "Minecraft Morph Pack": "₺299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792266405252,
@@ -37760,6 +37783,25 @@
       "NASDAQ 100 Company Calendars": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792968791930,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {
+            "Holidays Turkey": "₺49,99",
+            "Religious holidays": "₺49,99",
+            "Moon Phases calendar": "₺49,99",
+            "Calendars - Super Lig Football Men Turkey 2014-2015 edition": "₺49,99",
+            "+800 Emoji Stickers": "₺49,99",
+            "Holidays Ukraine": "₺49,99",
+            "SMI Company Calendars": "₺149,99",
+            "Week Numbers": "₺49,99",
+            "Calendars - PL Football Men Senegal 2015-2016 edition": "₺49,99",
+            "Calendars - Primera Divisio Football Men Andorra 2015-2016 edition": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792958987542,
@@ -105830,7 +105872,16 @@
       "He-Man Booster Pack": "₺199,99",
       "He-Man Prestige Pack": "₺999,99",
       "Portable Lake Pro": "₺199,99",
-      "Skywarden Unlock Pack": "₺399,99"
+      "Skywarden Unlock Pack": "₺399,99",
+      "Sauda Hero Bundle Sale": "₺199,99",
+      "Sauda Hero Bundle": "₺399,99",
+      "Insta Monkey Bucket 7": "₺399,99",
+      "Insta Monkey Bucket 5": "₺249,99",
+      "Insta Monkey Bucket 4": "₺199,99",
+      "Insta Monkey Bucket 3": "₺149,99",
+      "Insta Monkey Bucket 2": "₺99,99",
+      "Insta Monkey Bucket 1.5": "₺79,99",
+      "Insta Monkey Bucket 1": "₺49,99"
     },
     "minPriceInfo": {
       "price": 179.99,
@@ -105875,9 +105926,37 @@
       "He-Man Booster Pack": "₺199,99",
       "He-Man Prestige Pack": "₺999,99",
       "Portable Lake Pro": "₺199,99",
-      "Skywarden Unlock Pack": "₺399,99"
+      "Skywarden Unlock Pack": "₺399,99",
+      "Sauda Hero Bundle Sale": "₺199,99",
+      "Sauda Hero Bundle": "₺399,99",
+      "Insta Monkey Bucket 7": "₺399,99",
+      "Insta Monkey Bucket 5": "₺249,99",
+      "Insta Monkey Bucket 4": "₺199,99",
+      "Insta Monkey Bucket 3": "₺149,99",
+      "Insta Monkey Bucket 2": "₺99,99",
+      "Insta Monkey Bucket 1.5": "₺79,99",
+      "Insta Monkey Bucket 1": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792968791930,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Sauda Hero Bundle Sale": "₺199,99",
+            "Sauda Hero Bundle": "₺399,99",
+            "Insta Monkey Bucket 7": "₺399,99",
+            "Insta Monkey Bucket 5": "₺249,99",
+            "Insta Monkey Bucket 4": "₺199,99",
+            "Insta Monkey Bucket 3": "₺149,99",
+            "Insta Monkey Bucket 2": "₺99,99",
+            "Insta Monkey Bucket 1.5": "₺79,99",
+            "Insta Monkey Bucket 1": "₺49,99",
+            "Portable Lake Pro": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792881993930,
@@ -130969,6 +131048,25 @@
       "PΛFF": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792968791930,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Xenon": "₺499,99",
+            "Miku": "₺499,99",
+            "CAPSO": "₺499,99",
+            "ConneR": "₺499,99",
+            "9 Characters": "₺1.999,99",
+            "Cherry": "₺499,99",
+            "Memory Unit [A1]": "₺249,99",
+            "Ilka": "₺499,99",
+            "JOE": "₺499,99",
+            "Nora": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792958987542,
@@ -164779,6 +164877,25 @@
       "Chopper Token": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792968791930,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺599,99",
+            "Orient Express": "₺199,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "The Complete Collection": "₺1.999,99",
+            "Golden Dice": "₺249,99",
+            "Ruby Dragon Sale": "₺149,99",
+            "The Dragon": "₺199,99",
+            "The Ultimate Edition Sale": "₺1.299,99",
+            "Astronaut Token Sale": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792950991459,
@@ -234897,6 +235014,25 @@
     "history": [
       [
         {
+          "timestamp": 1792968791930,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "60 Gold": "₺49,99",
+            "Double Combat Rewards": "₺99,99",
+            "Monthly Card": "₺249,99",
+            "120 Gold": "₺99,99",
+            "Backpack Expansion": "₺99,99",
+            "3280 Gold": "₺2.499,99",
+            "1280 Gold": "₺999,99",
+            "300 Gold": "₺249,99",
+            "980 Gold": "₺799,99",
+            "6480 Gold": "₺4.999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792958987542,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -268726,6 +268862,19 @@
     "history": [
       [
         {
+          "timestamp": 1792968791930,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Dumb Phone Plus Weekly": "₺99,99",
+            "Dumb Phone Plus Yearly": "₺799,99",
+            "Dumb Phone Plus Monthly": "₺249,99",
+            "Dumb Phone Plus Lifetime": "₺3.999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792446504330,
           "price": 0,
           "formattedPrice": "Free",
@@ -293727,6 +293876,14 @@
     "history": [
       [
         {
+          "timestamp": 1792968791930,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787447765759,
           "price": 499.99,
           "formattedPrice": "₺499,99",
@@ -295479,6 +295636,25 @@
       "Gems Pouch": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1792968791930,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Hero Ashbite": "₺399,99",
+            "Tower Sniper": "₺299,99",
+            "Tower Wildcat": "₺249,99",
+            "Hero Drakkan": "₺399,99",
+            "Spell Wrath": "₺149,99",
+            "Tower Ironbark": "₺399,99",
+            "Hero Oni": "₺249,99",
+            "Tower Alchemist": "₺149,99",
+            "Gems Handful": "₺149,99",
+            "Spell Aspect of Sol": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792934734921,
@@ -297891,6 +298067,27 @@
           "timestamp": 1792881993930,
           "price": 9.99,
           "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6810002638": {
+    "name": "Rich Fish",
+    "maxPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "minPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1792968791930,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
           "inAppPurchases": {}
         }
       ]

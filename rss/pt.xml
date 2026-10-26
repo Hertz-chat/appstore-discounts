@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2026-10-25T19:38:05.794Z</updated>
+    <updated>2026-10-26T00:19:22.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-25T19:38:05.794Z</updated>
+        <updated>2026-10-26T00:19:22.750Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptSun, 25 Oct 2026 19:38:05 GMT</id>
+        <id>rankingptMon, 26 Oct 2026 00:19:22 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-25T19:38:05.794Z</updated>
+        <updated>2026-10-26T00:19:22.750Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -51,13 +51,13 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>2377</b>
+        <b>2378</b>
       </td>
       <td>
         <b>204</b>
       </td>
       <td>
-        <b>2173</b>
+        <b>2174</b>
       </td>
       <td>
         <b>107</b>
@@ -1955,6 +1955,48 @@ feedId:206907475259680768+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>104</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/6757541297?lang=en">Sally Face</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>105</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/6451376191?lang=en">Dumb Phone</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>Compras integradas</span><ol>
+              <li>
+                <i>Dumb Phone Plus Monthly</i>：<b>1</b>
+              </li><li>
+                <i>Dumb Phone Plus Yearly</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -2264,6 +2306,104 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sally Face]]></title>
+        <id>Sally Face-pt-1792968791930</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/6757541297?lang=en"/>
+        <updated>2026-10-25T22:53:11.930Z</updated>
+        <summary type="html"><![CDATA[Price: 9,99 € → 8,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6757541297?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/99/40/29994074-5beb-eb81-e48c-37a1df7d9067/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>9,99 €</span> → <b>
+  <strong>8,99 €</strong>
+</b><span>[8,99 € ~ 9,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>8,99 €</b>
+</p><h2>Application Description</h2><p>
+  UM SEGREDO OBSCURO É REVELADO...
+Acompanhe a aventura aterrorizante de um rapaz com uma prótese de rosto, que utiliza seu video game portátil para falar com os mortos e conhecer suas histórias. Após uma série de assassinatos misteriosos, Sal e seus três amigos descobrem algo tenebroso está se espalhando por toda uma pequena cidadezinha do interior.
+
+FEATURES
+* Fale com os fantasmas usando seu Gear Boy;
+* Desenvolvido por um único desenvolvedor (incluindo materiais de arte, design e som);
+* Inspirado em animações dos anos 90 e pesadelos pessoais;
+* Enigmas opcionais que revelam novos trechos da história;
+* Personagens bizarros, com maria-chiquinhas, bate-cabeça e muito mais;
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/26/0f/cb260f91-190a-0952-de7d-503add8e7d9d/salCloseUp.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/c7/ea/19c7eaaf-e103-d731-a126-8d852728712b/2_surge.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/0e/95/5d0e95db-ab99-8641-00eb-e0c76dd5aede/sgb.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/cd/c0/56cdc0af-41e2-05a8-6f4c-022799f99b45/2_larrySal.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/65/b7/0b65b725-f9bf-39b9-5af5-917017a69504/3_goat.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/d0/f8/d8d0f8b3-276a-fca4-6124-dec7de59a33e/3_freezer.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/40/d8/8740d8a0-c49c-0d7e-4671-877a2379dc08/ep4_03.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/96/67/5f966734-0a87-f798-b902-ef00b1239586/ep4_04.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/6b/e5/fb6be54e-9deb-de61-397c-084633dcf0ea/iPad_1.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/b5/3c/9db53c6c-a1ff-34ad-59e7-ecf95e1161ca/iPad_2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/c2/cb/77c2cb56-f1dd-c75c-b57b-03129b623c2b/iPad_3.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/76/6c/42766cce-41aa-8e3a-5fdb-2d6fe093f5f2/iPad_4.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/ae/00/caae000f-18e3-0586-38aa-633f2ab9907e/iPad_5.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/f8/ff/25f8ffd9-0cd0-b2de-d4a1-8cc8bf0b8c08/iPad_6.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/54/b5/d254b5aa-80ce-95b9-da7d-488047e7a154/iPad_7.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/31/56/ed31566e-7e0f-07e8-81a1-6ae179d77a2b/iPad_8.png/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dumb Phone]]></title>
+        <id>Dumb Phone-pt-1792968791930</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/6451376191?lang=en"/>
+        <updated>2026-10-25T22:53:11.930Z</updated>
+        <summary type="html"><![CDATA[Dumb Phone Plus Monthly: 8,99 € → 5,99 €<br/>Dumb Phone Plus Yearly: 69,90 € → 17,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6451376191?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/16/b1/2816b128-07f9-cdf7-0e1a-045033a0a173/MyAppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>Compras integradas</h3><ul>
+  <li>
+    <strong>Dumb Phone Plus Monthly：</strong><span>8,99 €</span> → <b>
+  <strong>5,99 €</strong>
+</b><span>[3,49 € ~ 8,99 €]</span>
+  </li><li>
+    <strong>Dumb Phone Plus Yearly：</strong><span>69,90 €</span> → <b>
+  <strong>17,99 €</strong>
+</b><span>[8,29 € ~ 69,99 €]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>Gratuito</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    Dumb Phone Plus Lifetime：<b>89,99 €</b>
+  </li><li>
+    Dumb Phone Plus Monthly：<b>5,99 €</b>
+  </li><li>
+    Dumb Phone Plus Weekly：<b>1,99 €</b>
+  </li><li>
+    Dumb Phone Plus Yearly：<b>17,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Torna o teu iPhone mais calmo.
+
+O Dumb Phone ajuda-te a mudar a forma como o telemóvel se sente ao usar — não através de imposições, mas reduzindo o ruído e adicionando intenção.
+
+Sem deslocação infinita. Sem tentação constante.
+Apenas uma forma mais calma de usar o teu telemóvel.
+
+◆ Ecrã principal minimalista
+
+Substitui um ecrã principal confuso e distrativo por um layout calmo e minimalista.
+Mostra apenas as aplicações que realmente importam.
+Também podes adicionar widgets opcionais como Data e Hora, Meteorologia ou Saúde — nada mais do que isso.
+
+Os dados de saúde são opcionais e utilizados apenas para os widgets apresentados no ecrã principal.
+Todas as permissões são geridas integralmente através da app Apple Saúde.
+
+◆ Controlo de aplicações e sites
+
+Tu decides quando e como utilizar aplicações que distraem.
+
+• Bloqueia aplicações ou sites instantaneamente por um período definido  
+• Agenda períodos de foco diários ou semanais  
+• Define limites de tempo suaves para aplicações selecionadas  
+• Limita o número de vezes que uma aplicação pode ser aberta por dia  
+• Adiciona uma ação antes de abrir uma aplicação — como uma pausa, movimento ou um momento de reflexão
+
+◆ Pausas conscientes
+
+Adiciona um breve momento de consciência antes de abrir aplicações selecionadas.
+Por vezes, uma simples pausa é suficiente para quebrar hábitos automáticos.
+
+◆ Perspetivas
+
+Consulta perspetivas simples sobre tempo de ecrã, utilização de aplicações e notificações — sem julgamentos ou pressão.
+
+O Dumb Phone não tenta controlar-te.
+Apenas torna o teu telemóvel mais fácil de usar no dia a dia.
+
+Termos de utilização: https://dumbphone.my/terms/
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/ef/6e/45ef6eb6-1077-89fa-a28c-22e0d79b5d28/7f89869b-1777-423e-bd9e-69a2ddf3e937_Iphone_5.5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/fd/f9/5dfdf9fb-3ed9-67c6-93d5-f7cc221f067c/5d75d079-619a-4cb7-8369-96da15f47e7f_Iphone_5.5-1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/b1/44/45b14452-eb40-7183-8581-5cc06df8f883/8af20be0-9bf2-46f9-afeb-2eff93521742_Iphone_5.5-2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/2b/3f/982b3f4d-59ad-e9d1-6895-d00e9878448a/19b55c22-5238-421f-bfc1-b9c06ae0a3d4_Iphone_5.5-3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/8f/3a/988f3a3b-8536-1cc4-6ef0-467c89804da6/05fb0379-623a-459c-9c47-75c2e854d59e_Iphone_5.5-4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/5c/26/005c26b6-8a92-fb06-4d14-35a66bdf135b/f90cf53b-1a0e-4da4-9827-5b4bf82ced87_Iphone_5.5-5.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/09/94/e909940b-3f1c-405f-60e9-6b2fbfb8e394/21cf7995-e8eb-42ad-9995-e4fa76c81366_iPad_3d_Gen.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/b3/29/adb32955-a16a-4950-b917-e7caa694d7dc/2f62c5eb-5891-4ab3-85bb-5e85492ae027_iPad_3d_Gen-1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/6e/07/026e079b-1e01-7187-284f-177b7afcf224/2168243e-8c14-4c32-94cb-9064fb49d862_iPad_3d_Gen-2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/3d/e6/3e3de647-c562-5929-cc1e-009fe522a7d1/0cc86fb6-5d14-46e2-bbde-d8451ee5b8cb_iPad_3d_Gen-3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/b1/45/14b14587-9772-d858-077b-a415ccd8c3d3/14d065cd-66fa-44c3-8173-4506191acc38_iPad_3d_Gen-4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/03/dc/5903dc20-eae3-32d9-9309-ee612e84e3ef/b6d99707-5edf-45de-a33a-ecff9ed994fc_iPad_3d_Gen-5.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Be Focused Pro: Timer Pomodoro]]></title>
@@ -2634,175 +2774,5 @@ Whether a day is an Off Day or a Work Day, the final decision is entirely up to 
 
 EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/71/a1/3971a18c-2b61-9587-5708-e621af9a5a54/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-09-17_at_23.55.40.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/19/3b/27193bdd-8873-9ac8-7126-988d88b90ff9/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-09-17_at_23.55.55.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/9c/e6/5f9ce6e0-82c3-f0b6-7677-38f44e95acf4/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-09-17_at_23.55.50.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/c7/be/3bc7be77-7c3b-e595-721f-30ed81680474/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-09-17_at_23.56.00.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/ac/79/ceac7976-eedd-5c10-9ed2-0aaa502bfad8/ebaf960c-547e-41f6-8f10-6f4982d71777_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-06_at_11.57.48.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/af/d9/eeafd95b-1283-80aa-060d-8bfeafac1e32/e1b8ac45-d33a-4077-aa39-8fdf2852f522_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-06_at_11.57.53.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/6e/e3/a36ee33d-a300-5202-acc9-c64c4ee41295/ee6cc7b3-e133-4865-9864-aaac2a1aafba_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-06_at_11.57.57.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/47/0a/c7470a49-eb96-811c-87a1-c147aa392d3d/4a9cbce0-ae86-4157-baba-cd534ec1dfad_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-06_at_11.58.01.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/2f/6d/832f6dbb-b7ad-6ab6-f21c-c7bac0f1fb92/d41dacf6-068d-4469-9591-bdc9cc17192c_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-06_at_11.58.05.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dungeon Tracer]]></title>
-        <id>Dungeon Tracer-pt-1792712656381</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/6502634839?lang=en"/>
-        <updated>2026-10-22T23:44:16.381Z</updated>
-        <summary type="html"><![CDATA[Price: 5,99 € → 2,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6502634839?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/8c/19/078c19e1-d16d-90bc-6204-bf0f5da0bb10/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>5,99 €</span> → <b>
-  <strong>2,99 €</strong>
-</b><span>[Gratuito ~ 5,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>2,99 €</b>
-</p><h3>Compras integradas</h3><ul>
-  <li>
-    Todas as classes：<b>9,99 €</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Sobreviva em masmorras infinitas conectando blocos para atacar, defender e curar.
-
-Dungeon Tracer é um jogo de exploração de masmorras em turnos que combina puzzle, roguelike e RPG. Conecte blocos do mesmo tipo para atacar com a espada, defender com o escudo e curar com poções. Cada escolha em cada turno determina a batalha e a sobrevivência.
-
-Os controles são simples, mas a estratégia é profunda. Ative efeitos poderosos conectando blocos por mais tempo e faça as melhores escolhas lendo os padrões dos inimigos e o estado do campo de batalha. Cada batalha traz um fluxo e escolhas diferentes, criando uma nova experiência de jogo.
-
-■ Recomendado para:
-Jogadores que gostam de RPGs de puzzle e roguelike
-Jogadores que apreciam batalhas estratégicas em turnos
-Jogadores que buscam um jogo de masmorras offline
-Jogadores que desejam a diversão de criar novas builds e estratégias em jogadas repetidas
-
-■ Jogabilidade principal
-Conecte blocos do mesmo tipo para atacar, defender e curar
-Combate estratégico em puzzle onde cada escolha é importante a cada turno
-Efeitos de combo que se tornam mais fortes quanto mais você conecta
-Desafio roguelike onde você começa do zero ao morrer
-Estratégias de sobrevivência que se completam em situações sempre diferentes
-
-■ Batalhas estratégicas profundas
-A diversão intuitiva dos puzzles de conexão de blocos se combina com a estratégia de combate de RPGs roguelike. Seu estilo de jogo muda drasticamente com a disposição dos blocos, combinações de inimigos, escolhas de habilidades e combinações de itens.
-
-■ 10 classes e 10 raças
-Cada classe possui habilidades e características únicas, e a combinação com as características da raça cria builds completamente diferentes. Experimente diversas combinações e crie suas próprias estratégias.
-
-■ Diversas habilidades e builds
-Com mais de 40 habilidades ativas e elementos de crescimento, você pode completar seu próprio estilo de combate. A escolha de habilidades e itens resulta em desenvolvimentos diferentes a cada vez.
-
-■ Monstros especiais e debuffs de bloco
-43 tipos de monstros especiais, como lich, vingador, kamikaze e assassino, aparecem. Além disso, debuffs de bloco como congelamento, fogo, veneno, destruição e bloqueio mudam constantemente o fluxo da batalha. Não basta apenas conectar muitos blocos para vencer.
-
-■ Desafio roguelike justo
-Um sistema aleatório determinístico baseado em sementes garante que em cada corrida e turno, os resultados sejam os mesmos. Aproveite um desafio justo onde escolhas e julgamentos são mais importantes que a sorte.
-
-■ Crescimento que se torna mais divertido com a repetição
-Escolhas de habilidades que mudam a cada nível
-Design de builds focado em upgrades e itens
-Masmoas que se desenvolvem de forma nova a cada corrida
-Uma única falha cria uma estrutura desafiadora que aumenta a tensão
-
-■ Classificação global
-Compita com jogadores de todo o mundo por pontos. Desafie-se nas classificações globais por dificuldade e deixe seu melhor registro.
-
-■ 4 níveis de dificuldade
-Fácil, Normal, Difícil, Muito Difícil
-Oferecemos níveis de dificuldade que podem ser desfrutados desde iniciantes até jogadores experientes.
-
-■ RPG premium offline
-Sem anúncios
-Sem compras no aplicativo
-Jogo offline disponível
-
-Com uma única compra, você pode desfrutar de todo o conteúdo.
-
-■ Suporte a vários idiomas e salvamento na nuvem
-Suporte a 22 idiomas e você pode continuar seu progresso de forma segura ao trocar de dispositivo.
-
-Masmasmorras infinitas, monstros cada vez mais fortes e escolhas que mudam a cada turno.
-Quanto tempo você consegue sobreviver?
-Experimente a profunda estratégia de RPG de puzzle roguelike agora em Dungeon Tracer.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/21/23/442123fb-22fe-0048-24eb-a3f10b947f35/screenshot_20250606_151206.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/21/d2/6421d245-ab27-d005-9018-02622328a695/screenshot_20250606_151250.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/bc/9e/a2bc9ee7-7cf0-1e4d-21cd-29514e6fd955/screenshot_20250606_151258.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/69/9d/4e699df2-fdb2-6ee5-3324-318dc7f6a06d/screenshot_20250606_151247.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/cc/4c/2acc4cba-48d6-07b2-4d53-1edd893bc9d3/screenshot_20250606_151243.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/20/93/1e20935a-9f7f-6a99-4fd3-1224b1fc3dc2/screenshot_20250606_151301.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/3d/2e/a53d2ef2-5d11-7868-0c9c-e5704ca4eba7/screenshot_20250606_151210.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/ab/90/28ab9007-ac09-160a-62cd-21769e824b35/screenshot_20250606_151226.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/7a/66/bf7a6681-6e4f-26ec-c276-be72757579e2/screenshot_20250606_151229.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/e1/f0/18e1f007-0d2c-cd9e-7b0c-3750bc9d9dbc/screenshot_20250606_151231.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/42/4b/86424b18-c772-7cd9-f41f-26c59d36ea3a/ipad_pt_BR_01.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/cf/8b/66cf8b3d-5e30-6ea5-70e9-1d88623aac2d/ipad_pt_BR_02.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/9c/ac/6d9cac64-9718-dfcc-0ddb-88e907be46cf/ipad_pt_BR_03.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/3e/37/cc3e37eb-7b51-fd25-5356-3e9b11e9e4d7/ipad_pt_BR_04.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/3a/6a/d33a6a02-6bf1-ac16-b269-84d921aea41e/ipad_pt_BR_05.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/3b/d7/f03bd739-ad37-6073-a24b-231f62e4d722/ipad_pt_BR_06.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/b1/e5/01b1e595-62a1-154b-87f6-946fe2cd1de3/ipad_pt_BR_07.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/cf/4a/01cf4abb-ca85-aa5e-2396-c1d0614de4cc/ipad_pt_BR_08.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/d8/65/add865e4-24f3-d039-5a5e-c11c430f865b/ipad_pt_BR_09.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/46/37/42463721-baf4-ab03-0f8f-b4e592633908/ipad_pt_BR_10.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plague Inc.]]></title>
-        <id>Plague Inc.-pt-1792712656381</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/525818839?lang=en"/>
-        <updated>2026-10-22T23:44:16.381Z</updated>
-        <summary type="html"><![CDATA[Pacote pragas: 14,99 € → 11,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/525818839?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/74/1c/dd741c2a-043b-dc73-d83d-3c81abed681a/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>Compras integradas</h3><ul>
-  <li>
-    <strong>Pacote pragas：</strong><span>14,99 €</span> → <b>
-  <strong>11,99 €</strong>
-</b><span>[11,99 € ~ 14,99 €]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>0,99 €</b>
-</p><h3>Compras integradas</h3><ul>
-  <li>
-    Pacote de Vírus Necroa：<b>1,99 €</b>
-  </li><li>
-    Desbloquear 7 Pragas Padrão：<b>2,99 €</b>
-  </li><li>
-    Desbloquear de Verme Neurax：<b>1,99 €</b>
-  </li><li>
-    Desbloquear Todos os Genes：<b>8,99 €</b>
-  </li><li>
-    Desbloquear Vírus：<b>0,99 €</b>
-  </li><li>
-    Pacote pragas：<b>11,99 €</b>
-  </li><li>
-    Pacote Cenário：<b>2,99 €</b>
-  </li><li>
-    Pacote de expansão Gripe símia：<b>1,99 €</b>
-  </li><li>
-    Pacote de Praga das Sombras：<b>1,99 €</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Você consegue contaminar o mundo? Plague Inc. é uma mistura única de alta estratégia e simulação terrivelmente realista. 
-
-Seu agente patogênico acabou de contaminar o 'Paciente zero'. Agora você deve acabar com a história da humanidade evoluindo para uma mortal Praga global, enquanto se adapta a tudo que a humanidade pode fazer para se defender. 
-
-Brilhantemente executado, com jogabilidade inovadora e construido especificamente para iPhone e iPad, Plague Inc. é uma evolução do gênero de estratégia e leva os jogos em dispositivos móves (e você) a novos níveis. É Você contra o mundo - só o forte sobrevive! 
-
-◈◈◈ Jogo #1 globalmente com mais de 500 milhões de jogos jogados ◈◈◈
-
-Plague Inc. é um hit global com mais de meio milhão de classificações de 5 estrelas e reportagens em jornais como The Economist, New York Post, Boston Herald, The Guardian e London Metro! 
-
-O desenvolvedor de Plague Inc. foi convidado a falar no CDC em Atlanta sobre os modelos de doenças do jogo!
-
-▶ “O jogo cria um mundo convincente que engaja o público em tópicos sérios de saúde pública” – The Centers for Disease Control and Prevention
-▶ “Melhor jogo para tablet de 2012” - New York Daily News 
-▶ “Plague Inc. vai captar sua atenção de todas as formas certas, e vai mantê-la” - Touch Arcade 
-▶ “Não há como negar o alto nível de qualidade de Plague Inc.” - Modojo 
-▶ “Plague Inc. não deveria ser tão divertido como é” – London Metro 
-▶ “Vai deixar você na esperança de destruir o mundo, tudo em nome de um pouco de diversão” – Pocket Lint 
-▶ “A jogabilidade de Plague Inc.'s é contagiosa” - Slide to Play 
-▶ Vencedor – “Melhor jogo do ano” – Pocket Gamer
-▶ “Matar bilhões nunca foi tão divertido” – IGN 
-
-◈◈◈
-
-Características: 
-● Lindos gráficos retina com uma interface bastante refinada (Contágio garantido) 
-● Mundo hiperrealistas, altamente detalhado, com IA avançada (Gerenciamento de epidemia) 
-● Sistema abrangente de ajudar e tutorial (Eu sou a lenda da ajuda) 
-● 12 diferentes tipos de doenças com estratégias radicalmente diferentes para dominar (12 Macacos?) 
-● Funcionalidade completa de Salvamento/Carregamento (28 salvamentos depois!) 
-● 50+ países para contaminar, centenas de caractetísticas para evoluir e milhares de eventos mundiais para se adaptar (Evolução pandêmica) 
-● Suporte total ao jogo 
-● Atualizações de expansão acrescentam o Verme Neurax que controla a mente, o Vírus Necroa que produz zumbis, Corridas de velocidade e Cenários da vida real!
-● Você consegue salvar o mundo? Assuma o controle e vença uma doença mundial na nossa maior expansão!
-● Enfrente as Doenças Diárias, ganhe melhorias poderosas e compita contra o mundo no Modo Surto!
-
-
-Traduzido para Inglês, Alemão, Espanhol, Português do Brasil, Italiano, Francês, Japonês, Coreano e Russo. (mais em breve) 
-
-P.S. Dê um tapa nas suas costas se entendeu todos as referências da literatura do tema! 
-
-Preço promocional especial para celebrar o fato de ser o 5º jogo de iPhone mais popular de 2015!
-
-◈◈◈
-
-Curta Plague Inc. no Facebook: 
-http://www.facebook.com/PlagueInc 
-
-Siga-me no Twitter: 
-www.twitter.com/NdemicCreations
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/8f/73/0d8f73ae-01a0-53f3-ceb2-de361890349e/iPhone5-5inch_brazilian.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/f2/f0/33f2f0e6-f7a6-e3b4-dbeb-21d207e09fc8/mzl.dkeuvhuk.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/b5/94/7cb59459-943f-4d68-844b-c6ceafb41df2/xenolith_5.5inch_brazilian.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/e2/cd/b6e2cd6d-bd68-34c5-29c0-a64b5a18ef4f/mzl.wcedscal.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/d0/9c/95d09caa-941c-93c3-2a68-06faaa546320/mzl.hkgfxnxl.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/7c/fe/617cfeb7-d8ce-0e38-d739-3fd0109deed6/mzl.synvsosd.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/64/08/ba6408a2-bcc8-b39b-ae36-049c2d5cb59a/mzl.fvmsjvym.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/a4/78/66a47870-4c62-6069-8637-9a10b75f3266/mzl.zujghhqo.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/46/1d/c6461dc4-7560-b3bd-e48e-787936d1da28/mzl.gdfeodnt.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/ee/0a/41ee0a15-4e8b-8e0e-4339-7e9ea9f501b6/mzl.qzmlqnfx.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/f9/69/cef96990-2d17-5e3f-9a8a-eac9dec525b5/209b56e2-d3be-4f20-9525-b13e57fde592_Portuguese_Store_1_iOS_12.9_display_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/11/25/80112519-9edc-9749-4863-bbc5f2c13bac/mzl.dvncuybt.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/c6/d3/cfc6d348-9dd4-bcda-dd66-63636be3f81c/mzl.zhjifkvi.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/90/f3/c290f31d-fb89-e93f-95b0-e65aff5d8bc9/mzl.teurlqen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/c3/37/25c3371f-6496-499d-b736-f13b42e87c8e/mzl.dkzlwthg.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/d5/b6/dcd5b63a-f25e-b22e-4f43-22f110f132da/mzl.vrjdgafm.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/bd/4e/d7bd4e5e-dde0-2b34-aa90-a69ea1209a21/mzl.qolzxotr.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/d3/14/10d3148a-a294-d05c-aa11-af230d39d1a0/mzl.uvgfiblj.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/79/63/267963b2-ac9e-8f4a-da96-c73373389221/mzl.dhuumtrw.png/552x414bb.png" />]]></content>
     </entry>
 </feed>

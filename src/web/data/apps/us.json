@@ -1122,7 +1122,7 @@
   {
     "trackId": 363738376,
     "region": "us",
-    "timestamp": 1791752970806,
+    "timestamp": 1792968791930,
     "discounts": [],
     "price": 24.99,
     "formattedPrice": "$24.99",
@@ -7833,7 +7833,7 @@
   {
     "trackId": 1050535507,
     "region": "us",
-    "timestamp": 1792846729867,
+    "timestamp": 1792968791930,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "$1.99",
@@ -9591,7 +9591,7 @@
   {
     "trackId": 1195035357,
     "region": "us",
-    "timestamp": 1792914758864,
+    "timestamp": 1792968791930,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -10048,7 +10048,7 @@
   {
     "trackId": 1242654932,
     "region": "us",
-    "timestamp": 1792958987542,
+    "timestamp": 1792968791930,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -10890,7 +10890,7 @@
   {
     "trackId": 1330314351,
     "region": "us",
-    "timestamp": 1792462971499,
+    "timestamp": 1792968791930,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -17585,7 +17585,7 @@
   {
     "trackId": 1642733080,
     "region": "us",
-    "timestamp": 1792569835923,
+    "timestamp": 1792968791930,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "$4.99",
@@ -19428,7 +19428,7 @@
   {
     "trackId": 6471839445,
     "region": "us",
-    "timestamp": 1792808084244,
+    "timestamp": 1792968791930,
     "discounts": [],
     "price": 3.49,
     "formattedPrice": "$3.49",
@@ -22002,7 +22002,7 @@
   {
     "trackId": 6743459503,
     "region": "us",
-    "timestamp": 1792136164280,
+    "timestamp": 1792968791930,
     "discounts": [],
     "price": 5.99,
     "formattedPrice": "$5.99",
@@ -26391,6 +26391,18 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id6808354789",
     "trackName": "Raid Manager 2",
     "firstRecordedAt": 1792609257403
+  },
+  {
+    "trackId": 6810002638,
+    "region": "us",
+    "timestamp": 1792968791930,
+    "discounts": [],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6810002638",
+    "trackName": "Rich Fish",
+    "firstRecordedAt": 1792968791930
   },
   {
     "trackId": 6811365567,

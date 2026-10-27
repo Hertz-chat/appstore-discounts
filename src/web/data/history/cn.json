@@ -9349,6 +9349,25 @@
     "history": [
       [
         {
+          "timestamp": 1793068805806,
+          "price": 168,
+          "formattedPrice": "¥168.00",
+          "inAppPurchases": {
+            "forScore Pro": "¥98.00",
+            "Brahms: The Mutopia Collection": "¥0.00",
+            "Liszt: The Mutopia Collection": "¥0.00",
+            "Burgmüller: The Mutopia Collection": "¥0.00",
+            "Schumann: The Mutopia Collection": "¥0.00",
+            "Gottschalk: The Mutopia Collection": "¥0.00",
+            "Tchaikovsky: The Mutopia Collection": "¥0.00",
+            "Haydn: The Mutopia Collection": "¥0.00",
+            "Verdi: The Mutopia Collection": "¥0.00",
+            "Rameau: The Mutopia Collection": "¥0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792397485602,
           "price": 168,
           "formattedPrice": "¥168.00",
@@ -64621,6 +64640,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793068805806,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "60根火柴": "¥6.00",
+            "月度礼包": "¥25.00",
+            "180根火柴": "¥18.00",
+            "限时礼包-2": "¥6.00",
+            "980根火柴": "¥98.00",
+            "1元礼包": "¥1.00",
+            "1元火柴礼包": "¥1.00",
+            "500根火柴": "¥50.00",
+            "超值礼包-1": "¥18.00",
+            "成长基金": "¥30.00"
+          }
+        },
         {
           "timestamp": 1793051997931,
           "price": 1,
@@ -232030,10 +232066,18 @@
       "formattedPrice": "¥28.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "¥22.00"
+      "price": 15,
+      "formattedPrice": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793068805806,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792089903909,

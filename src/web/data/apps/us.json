@@ -3848,7 +3848,7 @@
   {
     "trackId": 563718995,
     "region": "us",
-    "timestamp": 1789443355695,
+    "timestamp": 1793068805806,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "$2.99",
@@ -6762,7 +6762,7 @@
   {
     "trackId": 954724812,
     "region": "us",
-    "timestamp": 1792958987542,
+    "timestamp": 1793068805806,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -12326,7 +12326,7 @@
   {
     "trackId": 1448573670,
     "region": "us",
-    "timestamp": 1793051997931,
+    "timestamp": 1793068805806,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -13820,7 +13820,7 @@
   {
     "trackId": 1499001662,
     "region": "us",
-    "timestamp": 1793028871794,
+    "timestamp": 1793068805806,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -16251,7 +16251,7 @@
   {
     "trackId": 1592505377,
     "region": "us",
-    "timestamp": 1792363190565,
+    "timestamp": 1793068805806,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "$2.99",
@@ -20210,10 +20210,10 @@
   {
     "trackId": 6496282733,
     "region": "us",
-    "timestamp": 1793028871794,
+    "timestamp": 1793068805806,
     "discounts": [],
-    "price": 1.99,
-    "formattedPrice": "$1.99",
+    "price": 0,
+    "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6496282733",
     "trackName": "ArcEmu",
@@ -22984,10 +22984,10 @@
   {
     "trackId": 6748572801,
     "region": "us",
-    "timestamp": 1791857869864,
+    "timestamp": 1793068805806,
     "discounts": [],
-    "price": 1.99,
-    "formattedPrice": "$1.99",
+    "price": 4.99,
+    "formattedPrice": "$4.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6748572801",
     "trackName": "Seoul Exorcist 1111: Roguelite",
@@ -24677,7 +24677,7 @@
   {
     "trackId": 6759664029,
     "region": "us",
-    "timestamp": 1793002369190,
+    "timestamp": 1793068805806,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "$6.99",

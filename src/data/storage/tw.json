@@ -46980,6 +46980,23 @@
     "history": [
       [
         {
+          "timestamp": 1793068805806,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Skatepark: Mondo Ramp": "$30.00",
+            "Skatepark: The Berrics": "$60.00",
+            "Skatepark: The Factory": "$30.00",
+            "Skatepark: The Valley": "$30.00",
+            "Skatepark of Tampa": "$30.00",
+            "Skatepark 6 Pack": "$150.00",
+            "Skatepark: Havasu": "$60.00",
+            "Skatepark: Schoolyard": "$30.00",
+            "Skatepark: Macba": "$60.00",
+            "The Alley": "$30.00"
+          }
+        },
+        {
           "timestamp": 1793051997931,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -76114,6 +76131,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793068805806,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "第01~12課教學影片合購": "$290.00",
+            "第01課教學影片": "$30.00",
+            "第03課教學影片": "$30.00",
+            "第12課教學影片": "$30.00",
+            "第08課教學影片": "$30.00",
+            "第07課教學影片": "$30.00",
+            "第09課教學影片": "$30.00",
+            "第11課教學影片": "$30.00",
+            "第02課教學影片": "$30.00",
+            "第06課教學影片": "$30.00"
+          }
+        },
         {
           "timestamp": 1793051997931,
           "price": 190,
@@ -197650,6 +197684,25 @@
     "history": [
       [
         {
+          "timestamp": 1793068805806,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {
+            "潮流前線": "$30.00",
+            "未來光波": "$30.00",
+            "沙石探員": "$30.00",
+            "駝咩咩睡衣": "$30.00",
+            "舒適暖心": "$30.00",
+            "隨性而動": "$30.00",
+            "條紋正裝": "$30.00",
+            "純真回憶": "$30.00",
+            "深藍魅影": "$30.00",
+            "田園風情": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788781262725,
           "price": 290,
           "formattedPrice": "$290.00",
@@ -299970,7 +300023,7 @@
     ]
   },
   "6747307749": {
-    "name": "CHAKK - Stickers for Stories",
+    "name": "CHAKK－讓你的 Instagram 限時動態更好玩！",
     "maxPriceInfo": {
       "price": 60,
       "formattedPrice": "$60.00",
@@ -312254,8 +312307,8 @@
       "Unlock All (Upgrade 3)": "$60.00"
     },
     "minPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "SG-1000": "$30.00",
       "Master System": "$30.00",
       "Game Gear": "$30.00",
@@ -312268,6 +312321,25 @@
       "Unlock All (Upgrade 3)": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793068805806,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "SG-1000": "$30.00",
+            "Master System": "$30.00",
+            "Game Gear": "$30.00",
+            "Mega Drive / Genesis": "$30.00",
+            "Atari 2600": "$30.00",
+            "Pokémon Mini": "$30.00",
+            "SNES": "$30.00",
+            "Game Boy Advance": "$30.00",
+            "Unlock All (Upgrade 4)": "$30.00",
+            "Unlock All (Upgrade 3)": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793028871794,

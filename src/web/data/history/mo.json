@@ -23702,6 +23702,23 @@
     "history": [
       [
         {
+          "timestamp": 1793068805806,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "USD 7.99",
+            "Minecraft Store Item 6": "USD 5.99",
+            "Minecraft Store Item 2": "USD 1.99",
+            "Realms Monthly Subscription: You + 2 Friends": "USD 3.99",
+            "Minecraft Store Item 10": "USD 9.99",
+            "Minecraft Store Item 4": "USD 3.99",
+            "Minecraft Store Item 5": "USD 4.99",
+            "Minecraft Store Item 3": "USD 2.99",
+            "Realms Plus: You + 10 Friends": "USD 7.99",
+            "Minecraft Store Item 20": "USD 19.99"
+          }
+        },
+        {
           "timestamp": 1793051997931,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -200601,7 +200618,7 @@
   },
   "6747307749": {
     "trackId": 6747307749,
-    "trackName": "CHAKK - Stickers for Stories",
+    "trackName": "CHAKK－讓你的 Instagram 限時動態更好玩！",
     "region": "mo",
     "maxPriceInfo": {
       "price": 1.99,
@@ -211737,8 +211754,8 @@
       "Unlock All (Upgrade 3)": "USD 1.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "USD 1.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "SG-1000": "USD 0.99",
       "Master System": "USD 0.99",
       "Game Gear": "USD 0.99",
@@ -211751,6 +211768,25 @@
       "Unlock All (Upgrade 3)": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793068805806,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "SG-1000": "USD 0.99",
+            "Master System": "USD 0.99",
+            "Game Gear": "USD 0.99",
+            "Mega Drive / Genesis": "USD 0.99",
+            "Atari 2600": "USD 0.99",
+            "Pokémon Mini": "USD 0.99",
+            "SNES": "USD 0.99",
+            "Game Boy Advance": "USD 0.99",
+            "Unlock All (Upgrade 4)": "USD 0.99",
+            "Unlock All (Upgrade 3)": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793028871794,

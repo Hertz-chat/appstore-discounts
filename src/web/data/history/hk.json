@@ -25932,6 +25932,23 @@
     "history": [
       [
         {
+          "timestamp": 1793068805806,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Superpower 10": "HK$ 18.00",
+            "Unlock all level packs including future updates": "HK$ 32.00",
+            "Superpower 500": "HK$ 148.00",
+            "Superpower 20": "HK$ 32.00",
+            "Superpower 50": "HK$ 58.00",
+            "Unlock \"Bamboo Chutes\" level pack": "HK$ 18.00",
+            "Magnetic Stars Tiny Pack": "HK$ 32.00",
+            "Superpower Unlimited": "HK$ 188.00",
+            "Unlock \"Rocket Science\" level pack": "HK$ 18.00",
+            "Unlock \"Bath Time\" level pack": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1793051997931,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -227207,6 +227224,23 @@
     "history": [
       [
         {
+          "timestamp": 1793068805806,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "終極套件": "HK$ 118.00",
+            "第1季套件": "HK$ 88.00",
+            "超越掩體": "HK$ 58.00",
+            "作弊與懲罰": "HK$ 38.00",
+            "終極套件 (折扣)": "HK$ 88.00",
+            "祕密地堡": "HK$ 58.00",
+            "第1季套件 (折扣)": "HK$ 58.00",
+            "生存指南": "HK$ 22.00",
+            "新領導者": "HK$ 38.00",
+            "過去的陰影": "HK$ 58.00"
+          }
+        },
+        {
           "timestamp": 1793051997931,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -230433,6 +230467,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793068805806,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Autonomy": "HK$ 22.00",
+            "Time Flow": "HK$ 22.00",
+            "賽季通行證": "HK$ 58.00",
+            "角色通行證": "HK$ 88.00",
+            "婚禮禮包": "HK$ 38.00",
+            "尼奧禮包": "HK$ 38.00",
+            "勇者研究": "HK$ 48.00",
+            "解鎖性質": "HK$ 58.00",
+            "賽季０戰鬥通行證": "HK$ 18.00",
+            "鍛造禮包": "HK$ 58.00"
+          }
+        },
         {
           "timestamp": 1793051997931,
           "price": 38,
@@ -257876,6 +257927,25 @@
       "Grey Theme": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793068805806,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "每月": "HK$ 18.00",
+            "每年": "HK$ 88.00",
+            "乖乖": "HK$ 18.00",
+            "Calico Theme": "HK$ 18.00",
+            "Orange Theme": "HK$ 18.00",
+            "辛巴": "HK$ 18.00",
+            "Siamese Theme": "HK$ 18.00",
+            "可可": "HK$ 18.00",
+            "City Night Theme": "HK$ 18.00",
+            "Blue Sky Theme": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792893676791,
@@ -290503,7 +290573,7 @@
   },
   "6747307749": {
     "trackId": 6747307749,
-    "trackName": "CHAKK - Stickers for Stories",
+    "trackName": "CHAKK－讓你的 Instagram 限時動態更好玩！",
     "region": "hk",
     "maxPriceInfo": {
       "price": 18,
@@ -298335,10 +298405,18 @@
       "formattedPrice": "HK$ 32.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793068805806,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792089903909,
@@ -302340,8 +302418,8 @@
       "Unlock All (Upgrade 3)": "HK$ 18.00"
     },
     "minPriceInfo": {
-      "price": 18,
-      "formattedPrice": "HK$ 18.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "SG-1000": "HK$ 8.00",
       "Master System": "HK$ 8.00",
       "Game Gear": "HK$ 8.00",
@@ -302354,6 +302432,25 @@
       "Unlock All (Upgrade 3)": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793068805806,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "SG-1000": "HK$ 8.00",
+            "Master System": "HK$ 8.00",
+            "Game Gear": "HK$ 8.00",
+            "Mega Drive / Genesis": "HK$ 8.00",
+            "Atari 2600": "HK$ 8.00",
+            "Pokémon Mini": "HK$ 8.00",
+            "SNES": "HK$ 8.00",
+            "Game Boy Advance": "HK$ 8.00",
+            "Unlock All (Upgrade 4)": "HK$ 8.00",
+            "Unlock All (Upgrade 3)": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793028871794,

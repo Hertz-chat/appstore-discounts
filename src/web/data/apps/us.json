@@ -3848,7 +3848,7 @@
   {
     "trackId": 563718995,
     "region": "us",
-    "timestamp": 1793068805806,
+    "timestamp": 1793089647083,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "$2.99",
@@ -4654,7 +4654,7 @@
   {
     "trackId": 650684932,
     "region": "us",
-    "timestamp": 1793051997931,
+    "timestamp": 1793089647083,
     "discounts": [],
     "price": 9.99,
     "formattedPrice": "$9.99",
@@ -6762,7 +6762,7 @@
   {
     "trackId": 954724812,
     "region": "us",
-    "timestamp": 1793068805806,
+    "timestamp": 1793089647083,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -14855,7 +14855,7 @@
   {
     "trackId": 1537782938,
     "region": "us",
-    "timestamp": 1775531867945,
+    "timestamp": 1793089647083,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -16251,7 +16251,7 @@
   {
     "trackId": 1592505377,
     "region": "us",
-    "timestamp": 1793068805806,
+    "timestamp": 1793089647083,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "$2.99",
@@ -19428,7 +19428,7 @@
   {
     "trackId": 6471839445,
     "region": "us",
-    "timestamp": 1792968791930,
+    "timestamp": 1793089647083,
     "discounts": [],
     "price": 3.49,
     "formattedPrice": "$3.49",
@@ -19524,7 +19524,7 @@
   {
     "trackId": 6473001577,
     "region": "us",
-    "timestamp": 1793028871794,
+    "timestamp": 1793089647083,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "$3.99",
@@ -22002,7 +22002,7 @@
   {
     "trackId": 6743459503,
     "region": "us",
-    "timestamp": 1793028871794,
+    "timestamp": 1793089647083,
     "discounts": [],
     "price": 5.99,
     "formattedPrice": "$5.99",
@@ -23857,6 +23857,18 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id6755353645",
     "trackName": "Eat Slowly",
     "firstRecordedAt": 1781864761375
+  },
+  {
+    "trackId": 6755391836,
+    "region": "us",
+    "timestamp": 1793089647083,
+    "discounts": [],
+    "price": 4.99,
+    "formattedPrice": "$4.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6755391836",
+    "trackName": "KidoQuiz: Animals (Full)",
+    "firstRecordedAt": 1793089647083
   },
   {
     "trackId": 6755577839,

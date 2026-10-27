@@ -54465,6 +54465,24 @@
     "history": [
       [
         {
+          "timestamp": 1793089647083,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "500 Monkey Money": "$0.99",
+            "Tower Unlock All Upgrades": "$0.99",
+            "Bundle O' Monkey Money": "$2.99",
+            "Pile O' Monkey Money": "$2.99",
+            "Rank Up": "$0.99",
+            "Vault O' Tokens": "$9.99",
+            "Double Cash Mode": "$9.99",
+            "Vault O' Monkey Money": "$19.99",
+            "Pile O' Tokens": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793068805806,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -65388,6 +65406,25 @@
       "Mazda 2024 Enhanced": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793089647083,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2015 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2017 Enhanced Diagnostics": "$14.99",
+            "Toyota 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2013 Enhanced Diagnostics": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793051997931,
@@ -92911,6 +92948,25 @@
       "12花币": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793089647083,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "金牛会员尊享版连续包月": "$0.99",
+            "金牛会员连续包月": "$0.99",
+            "金牛会员月版": "$2.99",
+            "金牛会员尊享版连续包年": "$14.99",
+            "手机Level-2包年服务": "$12.99",
+            "手机超级Level-2连续包半年": "$6.49",
+            "手机高级诊股连续包月": "$0.99",
+            "手机超级Level2两年版": "$22.99",
+            "神奇电波连续包季": "$27.99",
+            "金牛会员年版": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793068805806,
@@ -214531,21 +214587,21 @@
       "price": 0.99,
       "formattedPrice": "$0.99",
       "增加 500 个马克": "$0.99",
-      "增加 1 个补签卡": "$0.99",
+      "增加 1 个补签卡": "$1.99",
       "增加 800 个马克": "$1.99",
       "增加 4000 个马克": "$7.99",
       "增加 1800 个马克": "$3.99",
       "增加 16000 个马克": "$24.99",
       "增加 8000 个马克": "$12.99",
-      "增加 500 个记忆币": "$0.99",
-      "增加 800 个记忆币": "$1.99",
-      "增加 4000 个记忆币": "$7.99",
-      "增加 1800 个记忆币": "$3.99",
-      "增加 16000 个记忆币": "$24.99",
-      "增加 8000 个记忆币": "$12.99",
-      "月卡": "$3.99",
-      "季卡": "$8.99",
-      "年卡": "$24.99"
+      "增加 500 个记忆币": "$1.99",
+      "增加 800 个记忆币": "$2.99",
+      "增加 4000 个记忆币": "$11.99",
+      "增加 1800 个记忆币": "$5.99",
+      "增加 16000 个记忆币": "$44.99",
+      "增加 8000 个记忆币": "$22.99",
+      "月卡": "$7.99",
+      "季卡": "$15.99",
+      "年卡": "$44.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -214568,6 +214624,25 @@
       "年卡": "$24.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793089647083,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "增加 500 个记忆币": "$1.99",
+            "增加 800 个记忆币": "$2.99",
+            "增加 1 个补签卡": "$1.99",
+            "月卡": "$7.99",
+            "季卡": "$15.99",
+            "年卡": "$44.99",
+            "增加 1800 个记忆币": "$5.99",
+            "增加 4000 个记忆币": "$11.99",
+            "增加 16000 个记忆币": "$44.99",
+            "增加 8000 个记忆币": "$22.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1775531867945,
@@ -240656,6 +240731,25 @@
       "Retro Rammers Car Pack": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793089647083,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Content Bundle 1": "$10.99",
+            "Content Bundle 2": "$8.99",
+            "Getaway Car Pack": "$2.99",
+            "Modified Monsters Car Pack": "$2.99",
+            "Racing Heroes Car Pack": "$2.99",
+            "Off-Road Car Pack": "$2.99",
+            "Steel & Wheels Pack": "$1.99",
+            "American All-Stars Car Pack": "$2.99",
+            "Rusty Rats Car Pack": "$2.99",
+            "Banger Racing Car Pack": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793068805806,
@@ -273437,6 +273531,25 @@
     "history": [
       [
         {
+          "timestamp": 1793089647083,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "五子良將": "$5.99",
+            "無雙戰神": "$5.99",
+            "重振漢室": "$2.99",
+            "虎嘯鳳鳴": "$3.99",
+            "巾幗綻芳華": "$3.99",
+            "冠絕天下": "$5.99",
+            "鎮海神威": "$2.99",
+            "斜谷殘陽": "$5.99",
+            "北境狂人": "$2.99",
+            "公路霸業": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793028871794,
           "price": 5.99,
           "formattedPrice": "$5.99",
@@ -303913,6 +304026,25 @@
       "CRJ900": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793089647083,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Global scenery - 3 months": "$7.99",
+            "Airbus A380": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Airbus A350-1000": "$3.99",
+            "Concorde": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793028871794,
@@ -345633,6 +345765,25 @@
     "history": [
       [
         {
+          "timestamp": 1793089647083,
+          "price": 3.49,
+          "formattedPrice": "$3.49",
+          "inAppPurchases": {
+            "RED RYUKIN": "$1.99",
+            "PANDA TELESCOPE": "$1.99",
+            "SKELETON FISH": "$1.99",
+            "YELLOW GOLD RYUKIN": "$1.99",
+            "GHOST TRANSLUCENT": "$1.99",
+            "RED-WHITE RYUKIN": "$1.99",
+            "CALICO KITTY FISH": "$1.99",
+            "SAKURA RYUKIN": "$1.99",
+            "BLACK WITCH": "$1.99",
+            "CALICO RED/WHITE/BLACK": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792968791930,
           "price": 3.49,
           "formattedPrice": "$3.49",
@@ -360788,6 +360939,27 @@
           "timestamp": 1793002369190,
           "price": 0.29,
           "formattedPrice": "$0.29",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6755391836": {
+    "name": "KidoQuiz: Animals (Full)",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793089647083,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
           "inAppPurchases": {}
         }
       ]

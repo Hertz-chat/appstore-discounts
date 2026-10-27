@@ -254727,6 +254727,23 @@
     "history": [
       [
         {
+          "timestamp": 1793089647083,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "每年": "HK$ 88.00",
+            "辛巴": "HK$ 18.00",
+            "每月": "HK$ 18.00",
+            "招財": "HK$ 18.00",
+            "Blue Sky Theme": "HK$ 18.00",
+            "City Night Theme": "HK$ 18.00",
+            "Calico Theme": "HK$ 18.00",
+            "Siamese Theme": "HK$ 18.00",
+            "2025 Spring Flower Theme": "HK$ 18.00",
+            "Civet Theme": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1793068805806,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -305032,6 +305049,25 @@
     "history": [
       [
         {
+          "timestamp": 1793089647083,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "付費角色・艾德瑞克": "HK$ 8.00",
+            "主題包・哈爾布倫": "HK$ 8.00",
+            "贊助第一階・贊助者": "HK$ 2.00",
+            "付費角色・墨蘭": "HK$ 8.00",
+            "付費角色・伊蕾娜": "HK$ 8.00",
+            "服裝 · 萬聖節套組 3": "HK$ 22.00",
+            "服裝 · 萬聖節套組 2": "HK$ 22.00",
+            "服裝 · 萬聖節套組 1": "HK$ 22.00",
+            "付費角色・艾洛溫": "HK$ 8.00",
+            "付費角色・蘿潔爾": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792798647744,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -307577,6 +307613,27 @@
           "timestamp": 1793002369190,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6755391836": {
+    "name": "KidoQuiz: Animals (Full)",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793089647083,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
           "inAppPurchases": {}
         }
       ]

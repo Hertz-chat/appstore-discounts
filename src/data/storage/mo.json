@@ -39663,6 +39663,22 @@
     "history": [
       [
         {
+          "timestamp": 1793113178688,
+          "price": 2.49,
+          "formattedPrice": "USD 2.49",
+          "inAppPurchases": {
+            "無限的快進 !": "USD 2.99",
+            "小型聲望包": "USD 1.59",
+            "無限的雙倍 XP 值！": "USD 2.99",
+            "很棒的聲望包": "USD 17.99",
+            "瘋狂的尊貴套餐": "USD 79.99",
+            "終極尊貴包": "USD 32.99",
+            "中聲望包": "USD 7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791986862260,
           "price": 0.79,
           "formattedPrice": "USD 0.79",
@@ -134225,6 +134241,14 @@
     "history": [
       [
         {
+          "timestamp": 1793113178688,
+          "price": 7.49,
+          "formattedPrice": "USD 7.49",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791986862260,
           "price": 0.79,
           "formattedPrice": "USD 0.79",
@@ -144149,16 +144173,16 @@
       "增加 800 个马克": "USD 1.99",
       "增加 1800 个马克": "USD 3.99",
       "增加 4000 个马克": "USD 7.99",
-      "增加 1 个补签卡": "USD 0.99",
-      "增加 500 个记忆币": "USD 0.99",
-      "增加 16000 个记忆币": "USD 24.99",
-      "增加 8000 个记忆币": "USD 12.99",
-      "增加 800 个记忆币": "USD 1.99",
-      "增加 1800 个记忆币": "USD 3.99",
-      "增加 4000 个记忆币": "USD 7.99",
-      "月卡": "USD 3.99",
-      "季卡": "USD 8.99",
-      "年卡": "USD 24.99"
+      "增加 1 个补签卡": "USD 1.99",
+      "增加 500 个记忆币": "USD 1.99",
+      "增加 16000 个记忆币": "USD 44.99",
+      "增加 8000 个记忆币": "USD 22.99",
+      "增加 800 个记忆币": "USD 2.99",
+      "增加 1800 个记忆币": "USD 5.99",
+      "增加 4000 个记忆币": "USD 11.99",
+      "月卡": "USD 7.99",
+      "季卡": "USD 15.99",
+      "年卡": "USD 44.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -144181,6 +144205,25 @@
       "年卡": "USD 24.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793113178688,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "月卡": "USD 7.99",
+            "季卡": "USD 15.99",
+            "年卡": "USD 44.99",
+            "增加 500 个记忆币": "USD 1.99",
+            "增加 16000 个记忆币": "USD 44.99",
+            "增加 8000 个记忆币": "USD 22.99",
+            "增加 800 个记忆币": "USD 2.99",
+            "增加 1800 个记忆币": "USD 5.99",
+            "增加 4000 个记忆币": "USD 11.99",
+            "增加 1 个补签卡": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790828594798,
@@ -154795,6 +154838,25 @@
     "history": [
       [
         {
+          "timestamp": 1793113178688,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {
+            "Content Bundle 1": "USD 8.99",
+            "Content Bundle 2": "USD 7.49",
+            "Reckless Car Pack": "USD 2.49",
+            "Off-Road Car Pack": "USD 2.49",
+            "Racing Heroes Car Pack": "USD 2.49",
+            "Steel & Wheels Pack": "USD 1.59",
+            "Goofy Roofs Pack": "USD 0.79",
+            "Getaway Car Pack": "USD 2.49",
+            "American All-Stars Car Pack": "USD 2.49",
+            "Rusty Rats Car Pack": "USD 2.49"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792136164280,
           "price": 2.49,
           "formattedPrice": "USD 2.49",
@@ -161562,6 +161624,20 @@
     "history": [
       [
         {
+          "timestamp": 1793113178688,
+          "price": 1.49,
+          "formattedPrice": "USD 1.49",
+          "inAppPurchases": {
+            "1030 星鑽": "USD 9.99",
+            "2080 星鑽": "USD 19.99",
+            "510 星鑽": "USD 4.99",
+            "300 星鑽": "USD 2.95",
+            "100 星鑽": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787672459010,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -167397,6 +167473,14 @@
       "formattedPrice": "USD 1.39"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793113178688,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791986862260,
@@ -183902,6 +183986,17 @@
     "history": [
       [
         {
+          "timestamp": 1793113178688,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Supporter Pack": "USD 0.99",
+            "The Boglands DLC": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789055621758,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -191501,8 +191596,8 @@
     "maxPriceInfo": {
       "price": 9.99,
       "formattedPrice": "USD 9.99",
-      "连续包年会员": "USD 14.99",
-      "连续包季会员": "USD 6.99"
+      "连续包年会员": "USD 19.99",
+      "连续包季会员": "USD 7.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -191511,6 +191606,17 @@
       "连续包季会员": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793113178688,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "连续包年会员": "USD 19.99",
+            "连续包季会员": "USD 7.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790828594798,
@@ -201966,6 +202072,14 @@
     "history": [
       [
         {
+          "timestamp": 1793113178688,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791986862260,
           "price": 2.49,
           "formattedPrice": "USD 2.49",
@@ -209535,6 +209649,14 @@
     "history": [
       [
         {
+          "timestamp": 1793113178688,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787239953273,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -216058,6 +216180,27 @@
           "timestamp": 1793089647083,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6821872148": {
+    "name": "Duopaper: 摺疊螢幕全景桌布，展開發現畫裡隱藏的驚喜",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793113178688,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
         }
       ]

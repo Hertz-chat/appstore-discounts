@@ -194,7 +194,7 @@
   {
     "trackId": 301387274,
     "region": "tr",
-    "timestamp": 1792071965226,
+    "timestamp": 1793113178688,
     "discounts": [],
     "price": 49.99,
     "formattedPrice": "₺49,99",
@@ -19562,7 +19562,7 @@
   {
     "trackId": 6473001577,
     "region": "tr",
-    "timestamp": 1793089647083,
+    "timestamp": 1793113178688,
     "discounts": [],
     "price": 199.99,
     "formattedPrice": "₺199,99",
@@ -26631,5 +26631,17 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6820324856",
     "trackName": "Take01: Teleprompter Studio",
     "firstRecordedAt": 1792763643625
+  },
+  {
+    "trackId": 6821872148,
+    "region": "tr",
+    "timestamp": 1793113178688,
+    "discounts": [],
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6821872148",
+    "trackName": "Duopaper: Panoramic Wallpapers",
+    "firstRecordedAt": 1793113178688
   }
 ]

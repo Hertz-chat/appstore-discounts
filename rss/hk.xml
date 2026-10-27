@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2026-10-27T04:06:21.915Z</updated>
+    <updated>2026-10-27T16:28:37.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008141708743680+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-27T04:06:21.915Z</updated>
+        <updated>2026-10-27T16:28:37.570Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008141708743680+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkTue, 27 Oct 2026 04:06:21 GMT</id>
+        <id>rankinghkTue, 27 Oct 2026 16:28:37 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-27T04:06:21.915Z</updated>
+        <updated>2026-10-27T16:28:37.570Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -51,13 +51,13 @@ feedId:157008141708743680+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>2379</b>
+        <b>2381</b>
       </td>
       <td>
         <b>204</b>
       </td>
       <td>
-        <b>2175</b>
+        <b>2177</b>
       </td>
       <td>
         <b>107</b>
@@ -68,13 +68,13 @@ feedId:157008141708743680+userId:73658201673997312
         <b>HK</b>
       </td>
       <td>
-        <b>2237</b>
+        <b>2239</b>
       </td>
       <td>
         <b>181</b>
       </td>
       <td>
-        <b>2056</b>
+        <b>2058</b>
       </td>
       <td>
         <b>98</b>
@@ -1240,7 +1240,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>64</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/1621065119?lang=zh-CN">逆轉裁判123成步堂精選集</a>
+        <a href="https://appstore-discounts.eyelly.me/hk/1614771445?lang=zh-CN">Rotaeno - 旋轉音律</a>
       </td>
       <td>
         <ul>
@@ -1255,6 +1255,23 @@ feedId:157008141708743680+userId:73658201673997312
     <tr>
       <td>
         <b>65</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/hk/1621065119?lang=zh-CN">逆轉裁判123成步堂精選集</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>66</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1621267448?lang=zh-CN">FormCheck AI: 表格检查</a>
@@ -1277,7 +1294,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>66</b>
+        <b>67</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1630887189?lang=zh-CN">20 Minutes Till Dawn</a>
@@ -1294,7 +1311,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>67</b>
+        <b>68</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1642715290?lang=zh-CN">Little Big Workshop</a>
@@ -1311,7 +1328,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>68</b>
+        <b>69</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1644917705?lang=zh-CN">無處遁形：全網公敵</a>
@@ -1328,7 +1345,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>69</b>
+        <b>70</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1664728315?lang=zh-CN">Mutropolis mobile</a>
@@ -1345,7 +1362,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>70</b>
+        <b>71</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1667072735?lang=zh-CN">Watch Web Browser</a>
@@ -1362,7 +1379,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>71</b>
+        <b>72</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6480501528?lang=zh-CN">Cat Todo - 備忘錄 & 待辦事項 & 記事本</a>
@@ -1379,7 +1396,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>72</b>
+        <b>73</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6761328517?lang=zh-CN">地牢深處</a>
@@ -1396,7 +1413,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>73</b>
+        <b>74</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6752662508?lang=zh-CN">足跡·TimeTrails GPS軌跡記錄</a>
@@ -1413,7 +1430,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>74</b>
+        <b>75</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6760764479?lang=zh-CN">Alpin Quest PRO – Outdoor GPS</a>
@@ -1436,7 +1453,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>75</b>
+        <b>76</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6469419567?lang=zh-CN">Overwinter Survival</a>
@@ -1463,7 +1480,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>76</b>
+        <b>77</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6778029370?lang=zh-CN">九格生死战</a>
@@ -1480,7 +1497,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>77</b>
+        <b>78</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6762803589?lang=zh-CN">Slots & Daggers</a>
@@ -1497,7 +1514,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>78</b>
+        <b>79</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6754894237?lang=zh-CN">CloverPit</a>
@@ -1514,7 +1531,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>79</b>
+        <b>80</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6446021269?lang=zh-CN">ROCKMAN X DiVE Offline</a>
@@ -1531,7 +1548,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>80</b>
+        <b>81</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6459581344?lang=zh-CN">Art of Rally</a>
@@ -1548,7 +1565,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>81</b>
+        <b>82</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6802565793?lang=zh-CN">我不想当班主任-班主任工作台&教师工作台&班级管理</a>
@@ -1565,7 +1582,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>82</b>
+        <b>83</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6760446039?lang=zh-CN">般若心灯</a>
@@ -1582,7 +1599,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>83</b>
+        <b>84</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6748287593?lang=zh-CN">問題盒子 - 清空大腦，告別內耗</a>
@@ -1599,7 +1616,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>84</b>
+        <b>85</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6742044212?lang=zh-CN">簡記 - AI記帳&自動記帳</a>
@@ -1622,7 +1639,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>85</b>
+        <b>86</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6748572801?lang=zh-CN">首爾驅魔人1111: Roguelite</a>
@@ -1639,7 +1656,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>86</b>
+        <b>87</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6760777178?lang=zh-CN">Film Light</a>
@@ -1656,7 +1673,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>87</b>
+        <b>88</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6757943661?lang=zh-CN">阿福出境管家-簽證通過率評估與材料清單</a>
@@ -1673,7 +1690,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>88</b>
+        <b>89</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6770101449?lang=zh-CN">五道門：文字江湖</a>
@@ -1690,7 +1707,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>89</b>
+        <b>90</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6748056918?lang=zh-CN">Farming Simulator 26 Mobile</a>
@@ -1707,7 +1724,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>90</b>
+        <b>91</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6445992619?lang=zh-CN">SpongeBob - The Cosmic Shake</a>
@@ -1724,7 +1741,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>91</b>
+        <b>92</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6444400410?lang=zh-CN">Farming Simulator 23</a>
@@ -1741,7 +1758,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>92</b>
+        <b>93</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6749456796?lang=zh-CN">Vampire Crawlers</a>
@@ -1758,7 +1775,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>93</b>
+        <b>94</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6786115854?lang=zh-CN">No More Slimes!!: Idle Action</a>
@@ -1775,7 +1792,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>94</b>
+        <b>95</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6746136017?lang=zh-CN">Astrea: Six-Sided Oracles</a>
@@ -1792,7 +1809,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>95</b>
+        <b>96</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6449046261?lang=zh-CN">水晶戰爭2-精品生存Roguelike策略塔防單機獨立遊戲</a>
@@ -1809,7 +1826,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>96</b>
+        <b>97</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6759664029?lang=zh-CN">Kingdom Rush 6: Genesis TD</a>
@@ -1832,7 +1849,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>97</b>
+        <b>98</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6757846100?lang=zh-CN">This Aint Even Poker, Ya Joker</a>
@@ -1849,7 +1866,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>98</b>
+        <b>99</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6759238458?lang=zh-CN">上瘾修仙 - 上头的单机新形态文字游戏</a>
@@ -1866,7 +1883,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>99</b>
+        <b>100</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6504453094?lang=zh-CN">Black Border 2</a>
@@ -1883,7 +1900,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>100</b>
+        <b>101</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6476342802?lang=zh-CN">Skel和Defense：地下城Roguelike防禦</a>
@@ -1900,7 +1917,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>101</b>
+        <b>102</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6502953520?lang=zh-CN">Control Ultimate Edition</a>
@@ -1917,7 +1934,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>102</b>
+        <b>103</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6449003064?lang=zh-CN">Goblin Tools</a>
@@ -1934,7 +1951,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>103</b>
+        <b>104</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6459738231?lang=zh-CN">Lies of P</a>
@@ -1951,7 +1968,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>104</b>
+        <b>105</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6449748961?lang=zh-CN">DEATH STRANDING DIRECTOR'S CUT</a>
@@ -1968,7 +1985,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>105</b>
+        <b>106</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6502634839?lang=zh-CN">Dungeon Tracer</a>
@@ -1985,7 +2002,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>106</b>
+        <b>107</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6501973975?lang=zh-CN">休息日</a>
@@ -2002,7 +2019,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>107</b>
+        <b>108</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6754453691?lang=zh-CN">Knight & Dragon IV</a>
@@ -2019,7 +2036,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>108</b>
+        <b>109</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6477535804?lang=zh-CN">虛空穹牢</a>
@@ -2036,7 +2053,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>109</b>
+        <b>110</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6757541297?lang=zh-CN">Sally Face</a>
@@ -2053,7 +2070,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>110</b>
+        <b>111</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6451376191?lang=zh-CN">Dumb Phone</a>
@@ -2078,7 +2095,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>111</b>
+        <b>112</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6496282733?lang=zh-CN">ArcEmu</a>
@@ -2095,10 +2112,61 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>112</b>
+        <b>113</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6755781701?lang=zh-CN">Aurora Tromsø</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>114</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/hk/6801980968?lang=zh-CN">塔與傭兵團</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>115</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/hk/6749406060?lang=zh-CN">Subnautica: Below Zero</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>116</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/hk/6504841512?lang=zh-CN">Halls of Torment: Premium</a>
       </td>
       <td>
         <ul>
@@ -3004,6 +3072,222 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[塔與傭兵團]]></title>
+        <id>塔與傭兵團-hk-1793113178688</id>
+        <link href="https://appstore-discounts.eyelly.me/hk/6801980968?lang=zh-CN"/>
+        <updated>2026-10-27T14:59:38.688Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 18.00 → HK$ 13.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/6801980968?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/96/a4/9e96a4b9-2164-c454-0197-bb8b0981bc22/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 18.00</span> → <b>
+  <strong>HK$ 13.00</strong>
+</b><span>[HK$ 13.00 ~ HK$ 18.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 13.00</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    付費角色・艾德瑞克：<b>HK$ 8.00</b>
+  </li><li>
+    主題包・哈爾布倫：<b>HK$ 8.00</b>
+  </li><li>
+    贊助第一階・贊助者：<b>HK$ 2.00</b>
+  </li><li>
+    付費角色・墨蘭：<b>HK$ 8.00</b>
+  </li><li>
+    付費角色・伊蕾娜：<b>HK$ 8.00</b>
+  </li><li>
+    服裝 · 萬聖節套組 3：<b>HK$ 22.00</b>
+  </li><li>
+    服裝 · 萬聖節套組 2：<b>HK$ 22.00</b>
+  </li><li>
+    服裝 · 萬聖節套組 1：<b>HK$ 22.00</b>
+  </li><li>
+    付費角色・艾洛溫：<b>HK$ 8.00</b>
+  </li><li>
+    付費角色・蘿潔爾：<b>HK$ 8.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  你是傭兵團的團長。
+
+連結世界的高塔已經開啟。穿越崩毀王國、迷霧竹林，以及鋼鐵與火藥的帝國，前往龍巢。征服50層高塔後，第51層起將進入深淵。超越第100層，登塔之旅仍會繼續。
+
+[挑選並培育傭兵]
+邂逅不同種族與職業的傭兵。評估潛力，安排訓練、休息與薪資。年齡、疲勞和士氣都會影響戰力。分配裝備、升級設施，準備下一次遠征。
+
+[編隊並觀戰]
+戰鬥會自動進行。由誰守住前排、誰負責治療、誰攻擊敵方後排，都由團長決定。針對樓層變異，準備隊伍與遺物。
+
+[留下同伴的紀錄]
+各有故事的傳奇英雄與羈絆委託，以及同伴的成長、退休、陣亡與轉生，正等著你。在塔中邂逅其他傭兵團，與他們交易或交戰。編年史與圖鑑，將留下同行的紀錄。
+
+[迎向下個挑戰]
+從素材地城、討伐戰、深淵契約與特權，選擇下一個目標。
+
+將iPad轉為橫向，每個畫面都會換成寬版配置。
+可離線遊玩，無須註冊帳號。
+無廣告、無訂閱。一次購買即可玩到第999層的結局。
+另有自由選購的項目（贊助・裝飾・付費傳奇英雄），推進遊戲不需要任何額外購買。
+한국어 · English · 日本語 · 繁體中文 · Français · Deutsch · Italiano · Español · Português · Русский
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/12/0d/c8120d6b-fbae-1b89-7206-b82eccbf1df8/01-battle.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/f3/87/6bf3870f-f503-f25e-176b-c0d3f9a72e2a/02-lounge.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/cc/a5/0bcca50d-4390-0f70-62ae-7130fc18c97b/03-costume.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/55/42/4c55425d-808d-5582-cbd2-80ae5077d759/04-gallery.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/e6/62/67e66270-1569-a199-6a13-57c86b4924d3/05-battle2.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/4b/2c/474b2c79-1352-932e-eb07-e2d4e6661588/06-home.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/b8/de/24b8def4-4a29-72c7-d854-097167b64a49/07-condition.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/9c/e7/9e9ce7d7-e7ba-66cb-53af-d600b2c6d71f/08-forge.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/2d/27/9c2d27d3-20f5-41da-f8ac-ec98955d3c0d/09-story.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/b5/f2/09b5f2c2-e119-c036-0ee8-dd14df088723/10-named.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/ed/18/7ded18d7-839d-9853-dea0-0e6a3584a550/01-fight-6.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/40/83/3f408334-ddd1-cb85-656c-c68e8b852dd9/02-home.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/89/87/d08987ad-8877-27ea-3cfc-46f5b3db61f5/03-party.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/61/ac/1561ac05-af1a-9eb0-45ca-32eb91047139/04-roster.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/6a/07/6c6a072f-8869-745e-386d-64334b4d1211/05-fight-10.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/18/06/b81806c6-2c0c-e13d-7d39-513408b10879/06-shop.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/a7/cb/7ca7cb9b-7278-683a-c17e-f462206049c7/07-named-events.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/9d/6b/129d6b92-d215-4ae1-fcbb-a9e38d9ca0ed/08-story.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/94/9b/7a949bb9-76a1-2f47-4245-88d61cf19692/09-title.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/73/03/0c7303fe-f31d-6a18-8048-d09800f4ef43/10-founding.png/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subnautica: Below Zero]]></title>
+        <id>Subnautica: Below Zero-hk-1793113178688</id>
+        <link href="https://appstore-discounts.eyelly.me/hk/6749406060?lang=zh-CN"/>
+        <updated>2026-10-27T14:59:38.688Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 88.00 → HK$ 58.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/6749406060?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/e8/6e/92e86ead-3282-eb59-1c1d-a3ca7e6d5590/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 88.00</span> → <b>
+  <strong>HK$ 58.00</strong>
+</b><span>[HK$ 58.00 ~ HK$ 88.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 58.00</b>
+</p><h2>应用描述</h2><p>
+  *在購買《冰點之下》之前，請先確認您的裝置是否支援！*
+
+《冰點之下》是《深海迷航》的全新篇章。這款開放世界水下生存遊戲的舞台設於一顆充滿未知海洋的異星行星。
+潛入行星 4546B 冰封的極地海域，展開一場全新的零下探險。在墜毀迫降後，你將深入刺骨寒水，尋找關於你姊姊失蹤的真相……
+探索前所未見的生態區、奇異生物、全新挑戰與劇情！《冰點之下》擴展了《深海迷航》的宇宙，帶你潛得更深，揭開更多隱藏於深海之下的冒險與謎團。
+
+特色
+
+揭開真相 - 那些曾經來過這裡的外星人是誰？他們為什麼會出現在這顆星球上？你的姊姊究竟發生了什麼事？而當真相大白之後，是否能讓你走出失去她的陰影？
+
+挺過冰寒 - 這片極地的冰凍氣候帶來前所未有的挑戰。製作保暖的寒地裝備、啜飲熱騰騰的咖啡，或靠近熱能百合取暖，讓自己在嚴寒中維持生命。
+
+自造生存之道 - 透過建造基地、蒐集資源與製作裝備，在這嚴酷環境中開創你的生存之路。駕駛雪狐號懸浮車馳騁於冰雪苔原，或乘坐可自由組裝的海蛟號，探索危機四伏卻令人驚嘆的生態區。
+
+探索這顆行星 - 潛入閃耀藍光的扭曲之橋深處、被水晶洞的奇幻景象吸引，進入冰川盆地的冰凍洞穴，或在噴發的地殼裂縫間穿梭，尋找遠古外星遺跡的蹤跡。
+
+遭遇未知生物 - 未知的生命潛伏在每個角落。穿越龐大的泰坦洞洞魚、面對詭譎的暗影利維坦，或與可愛的企鵝相遇。但要時刻保持警覺，這個陌生的世界，並非所有生物都是友善無害。
+
+專為行動裝置精心打造
+
+- 全新操作介面：支援完整觸控的專屬手機 UI
+- Game Center 成就系統
+- 雲端存檔：支援 iOS 裝置間進度同步
+- 針對 iPhone 17（含 Pro Max）全面優化
+
+-----
+
+*不支援的裝置 (遊戲無法運作)*：
+- iPhone Xr, iPhone SE Gen 2 (2020)
+- iPad Mini Gen 5, iPad Air Gen 3, iPad Gen 8, iPad Gen 9
+
+*僅支援低解析度的裝置*：
+- iPhone Xs, iPhone Xs Max, iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max, iPhone 12, iPhone 12 Mini, iPhone 13, iPhone 13 Mini, iPhone SE Gen 3 (2022) 
+- iPad Pro 10.5"", iPad Mini Gen 6, iPad Air Gen 4, iPad Gen 10, iPad Pro 11"" Gen 1, iPad Pro 12.9"" Gen 3
+
+*完全支援的裝置*：
+- iPhone 12 Pro, iPhone 12 Pro Max, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 14 及以上  
+- iPad Pro 11"" Gen 2, iPad Pro 12.9"" Gen 4, iPad Air Gen 5, iPad Pro 11"" Gen 3, iPad Pro 11"" Gen 4, iPad Pro 12.9"" Gen 5, iPad Pro 12.9"" Gen 6 及以上
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/30/79/1930799e-f0c0-d927-124b-ac5c11519a2c/6.9-BZ-Screenshot-1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/2e/62/f82e62e6-d713-5de8-bc43-133a94ae8136/6.9-BZ-Screenshot-2.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/2c/3f/2b2c3f47-0042-c2b2-a86a-51500c1010e4/6.9-BZ-Screenshot-3.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/23/2e/b8232e7f-724a-401d-bdc3-53b8ee64ba8d/6.9-BZ-Screenshot-4.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/53/13/6753132c-9c3c-5fea-72ab-aca2d16ed4cf/6.9-BZ-Screenshot-5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/24/1b/d9241b90-5fc3-827f-6c0c-99ac99e14c1a/6.9-BZ-Screenshot-6.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/4f/bd/f74fbda8-622d-e238-8727-389d7b9e3fe0/6.9-BZ-Screenshot-8.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/c5/59/40c5590a-a417-97b4-9277-5b6ef1a457c4/6.9-BZ-Screenshot-9.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/38/a5/8538a5e8-65c4-e5fc-05c7-3bdee7c41c3d/13-BZ-Screenshot-1.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/84/4e/5e844e17-8124-25ca-2b26-5ec0a70d702a/13-BZ-Screenshot-2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/50/f8/1650f8b8-c83e-2a1a-a3c4-c4de1722b9ad/13-BZ-Screenshot-3.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/58/4f/eb584f8a-9d7f-5687-d800-bbaa400544c9/13-BZ-Screenshot-4.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/33/9f/3f339fb7-9a5e-210c-623b-f92950748daf/13-BZ-Screenshot-5.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/ff/e9/9cffe99d-5ddf-121c-12d7-b7dbef227a89/13-BZ-Screenshot-6.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/4e/39/da4e3925-9bcb-d5ca-4e2a-4a237502b7c7/13-BZ-Screenshot-8.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/f9/4d/eff94da2-51cb-ff40-2698-10fe7b867d86/13-BZ-Screenshot-9.png/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Halls of Torment: Premium]]></title>
+        <id>Halls of Torment: Premium-hk-1793113178688</id>
+        <link href="https://appstore-discounts.eyelly.me/hk/6504841512?lang=zh-CN"/>
+        <updated>2026-10-27T14:59:38.688Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 38.00 → HK$ 22.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/6504841512?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/e0/5a/6fe05a09-dd4a-c04d-f1d7-6fa278111f59/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 38.00</span> → <b>
+  <strong>HK$ 22.00</strong>
+</b><span>[HK$ 22.00 ~ HK$ 38.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 22.00</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    Supporter Pack：<b>HK$ 8.00</b>
+  </li><li>
+    The Boglands DLC：<b>HK$ 22.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  《Halls of Torment》是一款生存遊戲，畫面採用預先渲染的復古風，類似於1990年代晚期的角色扮演遊戲。從多名英雄角色中選擇一名操控，並進入致命的苦痛殿堂闖蕩。對抗不潔的恐怖生物，並在敵人一波波的攻勢下努力求生，直到其中一位苦痛領主登場。使用角色特長、技能和物品強化英雄。在闖關過程中打造全新強力流派。探索地底的各個地方，尋找全新強力物品，讓你能夠闖入更黑暗的深淵。
+
+2023年Steam年度最佳肉鸽遊戲Halls of Torment現已上線移動端，快來加入這場90年代復古風格ARPG的生存挑戰吧！
+
+【遊戲特色】
+◆闖關只要30分鐘，輕鬆又快速
+◆ 經典預先渲染美術風格
+◆ 任務導向的遊戲進程
+◆ 多種不同的技能、特長和物品可供選擇，讓你搭配出有趣的組合
+◆ 各種不同的頭目，主打獨特機製和攻擊模式
+◆ 多名各具特色的角色，讓你能夠體驗多種玩法
+◆ 解鎖並探索多個有趣且高難度的地底世界
+◆ 可送回遊戲主世界並用於後續闖關的獨特物品
+◆ 調製魔法藥水，讓命運女神祝你一臂之力
+◆ 解鎖各個職業的力量，並和你指定的角色結合
+◆ 找到稀有版本的物品，進一步優化你的流派配置
+
+【完整內容清單】 
+◆6個關卡，環境各具特色
+◆13名可扮演角色和角色印記
+◆超過20種祝福，能在闖關過程中使你強大
+◆超過80種不同的物品可供收集和解鎖
+◆240個稀有度更高版本的物品
+◆超過80個技能和技能升級
+◆超過40個神器，可用來調整遊戲體驗
+◆超過35個獨特首領
+◆超過70種獨特怪物
+◆超過500個任務可完成
+◆超過1000個特長，可用來升級角色和技能
+
+遊戲內容還在不斷推陳出新，日後還能玩到更豐富精彩的內容！
+
+【聯係我們】
+Discord: @Erabit 或點擊鏈接 https://discord.gg/Gkje2gzCqB
+Email: prglobal@erabitstudios.com
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/9e/08/999e089b-2cef-52a7-3783-ac047e4b38ee/13b665d7-4a7d-40a1-aa04-56bf7a96ffb7_1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/f4/76/72f476d1-7788-2d3f-cbcb-3aa3e1765501/953d76d9-0dc8-4635-828d-fd28a1d04395_2.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/46/4a/6c464a31-ba73-c22a-2299-130389355f89/da5b338f-d568-41f1-977a-a1f9dcd02c56_3.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/3e/0b/cf3e0b68-acdf-39a2-75a3-4d0b135c7425/8a5ddcc5-a441-4977-ba65-480b3c69df40_4.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/ca/f3/accaf343-aef0-91af-ba06-8b31ed1393c3/78d28223-b251-45c2-b23b-fdc02282857b_5.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/68/36/73683673-e36f-b9af-76ac-d13fd74c25f5/98455ed9-5bad-4b99-a8ac-b7d3cd93d1d2_6.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/60/df/f260df16-d7fb-2e4f-609d-1c27c1b82f18/4dc253ac-3e6a-40fa-8e8b-6a907ae80c86_8.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/99/b9/2999b924-ec33-9bd1-29e4-a90e106bc418/b5489ad3-71da-4bc5-9b94-d08c7e731ea6_7.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/0b/34/580b3418-2747-08b1-1295-a314d83fa0f9/d90659b6-ab7d-4363-b9d4-37868c3ebdc1_1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/61/96/9e6196dc-56f6-e9be-2749-82db35d6cb58/0a0c493c-0ed7-4fd7-b14c-15009212e445_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/d4/cc/23d4cc0a-29bc-6a9a-6fae-566551bcb147/70ae6072-4bea-4087-8934-85287f2f9c67_3.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/21/f6/0b21f686-0d05-70c3-e6f5-0d3dbb4bdd42/1add44ac-ea30-4b45-8be2-e1b399c7cbd1_4.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/cc/92/35cc929a-21c9-eadf-a51a-fd9e7f89c849/41fdcce7-66fb-4746-b4ab-6b4a9723aff5_5.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/5a/c5/f85ac55f-1122-ecb5-124d-e88a886796aa/d644ef2c-2887-4be7-b56c-ab74e7268f87_6.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/89/76/5989766f-9293-950d-f747-1aee2340499c/30644b48-603e-4274-a5bf-1dc176c64b04_7.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/42/ff/fd42ff38-7fbc-852d-0024-9536f925a798/d58cea0f-38ee-4820-a6fa-afac36fbe9a7_8.jpg/552x414bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rotaeno - 旋轉音律]]></title>
+        <id>Rotaeno - 旋轉音律-hk-1793113178688</id>
+        <link href="https://appstore-discounts.eyelly.me/hk/1614771445?lang=zh-CN"/>
+        <updated>2026-10-27T14:59:38.688Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 23.00 → HK$ 12.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/1614771445?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/cf/a5/abcfa5ff-16d2-e5eb-e1e8-3db25e329b62/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 23.00</span> → <b>
+  <strong>HK$ 12.00</strong>
+</b><span>[免費 ~ HK$ 23.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 12.00</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    510 星鑽：<b>HK$ 38.00</b>
+  </li><li>
+    1030 星鑽：<b>HK$ 76.00</b>
+  </li><li>
+    100 星鑽：<b>HK$ 8.00</b>
+  </li><li>
+    300 星鑽：<b>HK$ 24.00</b>
+  </li><li>
+    2080 星鑽：<b>HK$ 150.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  《旋轉音律》是一款活用了手機陀螺儀功能的體感音樂遊戲。力求帶來前所未有的嶄新音樂遊戲體驗。 旋轉手機，感受在星河間穿梭的快感。帶上耳機，共赴鼓點與星光相伴宇宙之旅。
+
+ =用體感，玩音樂= 
+不同於傳統音遊的點按式判定，在《旋轉音律》中，你需要通過快速旋轉手機來完成部分音符的判定——就像駕駛賽車穿越急彎那樣。這將會是如同街機般爽快的音樂遊戲體驗。
+
+ =風格多變的音樂曲目= 
+眾多音遊知名曲師參與供稿並提供獨家曲目！電音、JPOP、西方歌劇、韓文流行、重金搖滾，風格多樣不單調。更有豐富新曲目定期加入遊戲曲庫。
+
+ =夢與約定之地，愛與成長之旅= 
+跟隨伊洛踏上宇宙之旅，追尋友人的足跡，邂逅不同星球的居民，拯救阿古亞星的命運。一路見證伊洛的成長吧！
+
+
+※因遊戲內容涉及「性」-遊戲角色穿著凸顯性特徵之服飾或裝扮但不涉及性暗示，依遊戲軟體分級管理辦法分類為「輔導十二歲級」。
+※問題回饋：rotaeno@xd.com
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/d3/8a/70d38aa3-b3cf-5c7f-8ac5-6ce7c8e21dde/TC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/d5/b9/56d5b93b-0893-6e5a-4cc6-df5ec0c3d378/2604eb82-20e5-43f9-9d20-dafe53cec4aa_1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/c3/33/5cc333fc-627c-7a9f-b7fa-534a97d6c54f/609c24fa-466e-49c6-b974-4c89794a6570_tw2.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/23/56/ba235624-3c11-ccf2-60b8-14bd32d56d1c/2dabb087-c5da-4fda-a712-41f349114e8d_tw1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/fb/94/eafb9412-9b28-79be-05da-e31d12700eff/af54af4b-68f2-4ebb-8a1c-eb838b95d7a8_tw4.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/77/4e/32774e2b-61e4-59ff-6498-df50ac602d7a/2291960f-b44b-4ab6-a101-53b18f8451c7_tw5.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/66/26/01662688-2c9c-e93d-ac57-fd9bc0d2ecf5/TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/2e/55/7d2e55b2-adc4-e2d0-62f8-2ba23df77169/09b95067-7948-4f8b-8629-9a49aae17986_2732x2048-1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/b1/2c/0db12c46-2f27-170c-905b-8bd775371a2c/f6164701-2614-45b4-8a6c-e9a6f72ccc70_tw2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/de/4e/15de4ed3-ad53-b5dc-38b1-1ca671380aaf/d45188a6-4c9f-4cc9-b496-99db8c5f3817_tw1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/27/13/3427133c-2ee1-9029-45f6-2d07020c472c/352836cf-83f1-4609-8654-5059105d74f6_tw4.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/95/3e/a2953eaa-c12e-8737-9b6b-d00f1f44ab93/e6925c84-665d-4598-8b9d-fd1c7c2c6586_tw5.jpg/552x414bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ArcEmu]]></title>

@@ -41608,6 +41608,25 @@
     "history": [
       [
         {
+          "timestamp": 1793113178688,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Unlock all stages": "0,99 €",
+            "Chloe": "0,99 €",
+            "Shaw": "0,99 €",
+            "Kid": "0,99 €",
+            "Rob-o": "0,99 €",
+            "Emo": "0,99 €",
+            "Joshua": "0,99 €",
+            "Lucy": "0,99 €",
+            "Atom": "0,99 €",
+            "Mia": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791752970806,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -155055,6 +155074,29 @@
           "timestamp": 1793089647083,
           "price": 5.99,
           "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6821872148": {
+    "trackId": 6821872148,
+    "trackName": "Duopaper: Fundos HD para ecrãs",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793113178688,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
           "inAppPurchases": {}
         }
       ]

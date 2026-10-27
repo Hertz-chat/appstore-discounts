@@ -1,5 +1,165 @@
 [
   {
+    "trackId": 1465870866,
+    "region": "pt",
+    "timestamp": 1793130591753,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "6,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 6,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1465870866",
+    "trackName": "Mega Mall Story2",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1543161449,
+    "region": "pt",
+    "timestamp": 1793130591753,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "6,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 6,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1543161449",
+    "trackName": "Dungeon Village 2",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6474672665,
+    "region": "pt",
+    "timestamp": 1793130591753,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "6,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 6,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6474672665",
+    "trackName": "Beastie Bay DX",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6446826650,
+    "region": "pt",
+    "timestamp": 1793130591753,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6446826650",
+    "trackName": "Dream Town Island",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6738371720,
+    "region": "pt",
+    "timestamp": 1793130591753,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6738371720",
+    "trackName": "Skating Rink Story",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6505046490,
+    "region": "pt",
+    "timestamp": 1793130591753,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6505046490",
+    "trackName": "Pro Wrestler Story",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6749560544,
+    "region": "pt",
+    "timestamp": 1793130591753,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "5,99 €",
+        "range": "[5,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "5,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6749560544",
+    "trackName": "Demon Castle Story",
+    "firstRecordedAt": 1764161842911
+  },
+  {
+    "trackId": 6752695239,
+    "region": "pt",
+    "timestamp": 1793130591753,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6752695239",
+    "trackName": "Skyship Quest Story",
+    "firstRecordedAt": 1770916023652
+  },
+  {
     "trackId": 6755290585,
     "region": "pt",
     "timestamp": 1793068805806,
@@ -13733,7 +13893,7 @@
         "name": "Price",
         "from": "6,99 €",
         "to": "3,99 €",
-        "range": "[3,99 € ~ 6,99 €]"
+        "range": "[1,99 € ~ 6,99 €]"
       }
     ],
     "price": 3.99,
@@ -13813,7 +13973,7 @@
         "name": "Price",
         "from": "7,99 €",
         "to": "3,99 €",
-        "range": "[3,99 € ~ 7,99 €]"
+        "range": "[2,99 € ~ 7,99 €]"
       }
     ],
     "price": 3.99,
@@ -14849,7 +15009,7 @@
     "formattedPrice": "3,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id379869627",
-    "trackName": "Living Earth - Clock & Weather",
+    "trackName": "Living Earth - Relógio e clima",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -25049,7 +25209,7 @@
         "name": "Price",
         "from": "7,99 €",
         "to": "3,99 €",
-        "range": "[3,99 € ~ 7,99 €]"
+        "range": "[2,99 € ~ 7,99 €]"
       }
     ],
     "price": 3.99,
@@ -25290,7 +25450,7 @@
         "name": "Price",
         "from": "6,99 €",
         "to": "3,99 €",
-        "range": "[3,99 € ~ 6,99 €]"
+        "range": "[2,99 € ~ 6,99 €]"
       }
     ],
     "price": 3.99,

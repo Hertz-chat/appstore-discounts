@@ -719,6 +719,22 @@
     "history": [
       [
         {
+          "timestamp": 1793130591753,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Dance Pack Too": "₺49,99",
+            "Alien Pack": "₺49,99",
+            "Tyrannosaurus Rex Skin Pack": "₺49,99",
+            "Halloween Skin Pack": "₺49,99",
+            "Medieval Pack": "₺49,99",
+            "Holiday Skin Pack": "₺49,99",
+            "Ice Monster Skin Pack": "₺49,99",
+            "Japanese Skin Pack": "₺49,99",
+            "Shark Pack": "₺49,99"
+          }
+        },
+        {
           "timestamp": 1793113178688,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -161263,10 +161279,18 @@
       "formattedPrice": "₺299,99"
     },
     "minPriceInfo": {
-      "price": 129.99,
-      "formattedPrice": "₺129,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793130591753,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783824196340,
@@ -192668,10 +192692,18 @@
       "formattedPrice": "₺299,99"
     },
     "minPriceInfo": {
-      "price": 179.99,
-      "formattedPrice": "₺179,99"
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793130591753,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1770778632046,
@@ -236994,10 +237026,18 @@
       "formattedPrice": "₺399,99"
     },
     "minPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99"
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793130591753,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -237525,10 +237565,18 @@
       "formattedPrice": "₺399,99"
     },
     "minPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99"
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793130591753,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783824196340,
@@ -266141,6 +266189,14 @@
     "history": [
       [
         {
+          "timestamp": 1793130591753,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1770778632046,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -277534,10 +277590,18 @@
       "formattedPrice": "₺299,99"
     },
     "minPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99"
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793130591753,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -281101,10 +281165,18 @@
       "formattedPrice": "₺399,99"
     },
     "minPriceInfo": {
-      "price": 399.99,
-      "formattedPrice": "₺399,99"
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793130591753,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764161842911,
@@ -285834,10 +285906,18 @@
       "formattedPrice": "₺399,99"
     },
     "minPriceInfo": {
-      "price": 399.99,
-      "formattedPrice": "₺399,99"
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793130591753,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1770916023652,

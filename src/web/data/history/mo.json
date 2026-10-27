@@ -11520,7 +11520,7 @@
   },
   "379869627": {
     "trackId": 379869627,
-    "trackName": "Living Earth - Clock & Weather",
+    "trackName": "Living Earth - 世界時鐘與天氣",
     "region": "mo",
     "maxPriceInfo": {
       "price": 5.99,
@@ -132189,10 +132189,18 @@
       "formattedPrice": "USD 5.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793130591753,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783785365991,
@@ -147574,10 +147582,18 @@
       "formattedPrice": "USD 5.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793130591753,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1770736053089,
@@ -182647,10 +182663,18 @@
       "formattedPrice": "USD 6.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99"
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793130591753,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763310557783,
@@ -183390,10 +183414,18 @@
       "formattedPrice": "USD 6.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793130591753,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783785365991,
@@ -191622,6 +191654,14 @@
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793130591753,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1770736053089,
@@ -200954,10 +200994,18 @@
       "formattedPrice": "USD 5.99"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "USD 5.99"
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793130591753,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1758366530608,
@@ -204445,10 +204493,18 @@
       "formattedPrice": "USD 6.99"
     },
     "minPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "USD 6.99"
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793130591753,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764161842911,
@@ -207948,10 +208004,18 @@
       "formattedPrice": "USD 6.99"
     },
     "minPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "USD 6.99"
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793130591753,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1770916023652,

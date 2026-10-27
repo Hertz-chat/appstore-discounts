@@ -14954,7 +14954,7 @@
   },
   "379869627": {
     "trackId": 379869627,
-    "trackName": "Living Earth - Clock & Weather",
+    "trackName": "Living Earth - 世界時鐘與天氣",
     "region": "tw",
     "maxPriceInfo": {
       "price": 190,
@@ -176806,10 +176806,18 @@
       "formattedPrice": "$190.00"
     },
     "minPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00"
+      "price": 60,
+      "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793130591753,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783785365991,
@@ -198826,10 +198834,18 @@
       "formattedPrice": "$190.00"
     },
     "minPriceInfo": {
-      "price": 120,
-      "formattedPrice": "$120.00"
+      "price": 90,
+      "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793130591753,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1770736053089,
@@ -219936,7 +219952,11 @@
       "Unit Group Jaegers On Sale": "$150.00",
       "HeroBounty Hunter": "$150.00",
       "Unit Group Planterras": "$90.00",
-      "Special Daily Pack13": "$90.00"
+      "Special Daily Pack13": "$90.00",
+      "Hero Bounty Hunter On Sale": "$90.00",
+      "Hero Gauntlet On Sale": "$90.00",
+      "Hero Gauntlet": "$150.00",
+      "Hero Bomett": "$90.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -219969,9 +219989,32 @@
       "Unit Group Jaegers On Sale": "$150.00",
       "HeroBounty Hunter": "$150.00",
       "Unit Group Planterras": "$90.00",
-      "Special Daily Pack13": "$90.00"
+      "Special Daily Pack13": "$90.00",
+      "Hero Bounty Hunter On Sale": "$90.00",
+      "Hero Gauntlet On Sale": "$90.00",
+      "Hero Gauntlet": "$150.00",
+      "Hero Bomett": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793130591753,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Hero Red Dragon": "$190.00",
+            "Hero Red Dragon On Sale": "$120.00",
+            "HeroBounty Hunter": "$150.00",
+            "Hero Bounty Hunter On Sale": "$90.00",
+            "Hero Gauntlet On Sale": "$90.00",
+            "Hero Gauntlet": "$150.00",
+            "Hero Bomett": "$90.00",
+            "Hero Bomett On Sale": "$30.00",
+            "Hero Dragon Kosmos On Sale": "$150.00",
+            "Hero Dragon Kosmos": "$220.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792781222157,
@@ -248583,6 +248626,22 @@
     "history": [
       [
         {
+          "timestamp": 1793130591753,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "3.99美元商品": "$120.00",
+            "12.99美元商品": "$390.00",
+            "9.99美元商品": "$320.00",
+            "0.99美元商品": "$30.00",
+            "19.99美元商品": "$690.00",
+            "39.99美元商品": "$1,290.00",
+            "49.99美元商品": "$1,490.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792914758864,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -254843,10 +254902,18 @@
       "formattedPrice": "$220.00"
     },
     "minPriceInfo": {
-      "price": 150,
-      "formattedPrice": "$150.00"
+      "price": 90,
+      "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793130591753,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763310557783,
@@ -260015,10 +260082,18 @@
       "formattedPrice": "$220.00"
     },
     "minPriceInfo": {
-      "price": 120,
-      "formattedPrice": "$120.00"
+      "price": 90,
+      "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793130591753,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783785365991,
@@ -286667,6 +286742,14 @@
     "history": [
       [
         {
+          "timestamp": 1793130591753,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1770736053089,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -304003,10 +304086,18 @@
       "formattedPrice": "$190.00"
     },
     "minPriceInfo": {
-      "price": 190,
-      "formattedPrice": "$190.00"
+      "price": 120,
+      "formattedPrice": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793130591753,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1758366530608,
@@ -307388,10 +307479,18 @@
       "formattedPrice": "$220.00"
     },
     "minPriceInfo": {
-      "price": 220,
-      "formattedPrice": "$220.00"
+      "price": 150,
+      "formattedPrice": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793130591753,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764161842911,
@@ -311301,10 +311400,18 @@
       "formattedPrice": "$220.00"
     },
     "minPriceInfo": {
-      "price": 220,
-      "formattedPrice": "$220.00"
+      "price": 120,
+      "formattedPrice": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793130591753,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1770916023652,

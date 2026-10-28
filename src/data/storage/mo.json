@@ -4720,7 +4720,7 @@
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99",
-      "Pro Version": "USD 0.99"
+      "Pro Version": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -4728,6 +4728,16 @@
       "Pro Version": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793178284917,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro Version": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790828594798,
@@ -137568,14 +137578,22 @@
   "1499085878": {
     "name": "CNC Lathe Simulator",
     "maxPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "USD 6.99"
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793178284917,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782549339195,
@@ -161598,14 +161616,22 @@
   "1614666556": {
     "name": "CNC VMC Simulator",
     "maxPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "USD 6.99"
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793178284917,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782549339195,
@@ -165676,6 +165702,21 @@
       "一把寶石": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793178284917,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "一屋子寶石": "USD 99.99",
+            "一礦車寶石": "USD 49.99",
+            "一大箱寶石": "USD 19.99",
+            "一小箱寶石": "USD 9.99",
+            "一小袋寶石": "USD 4.99",
+            "一把寶石": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791986862260,
@@ -197479,8 +197520,8 @@
     "maxPriceInfo": {
       "price": 5.99,
       "formattedPrice": "USD 5.99",
-      "200,000 x Coins": "USD 9.99",
-      "80,000 x Coins": "USD 4.99",
+      "200,000 x Coins": "USD 12.99",
+      "80,000 x Coins": "USD 5.99",
       "40,000 x Coins": "USD 2.99",
       "10,000 x Coins": "USD 0.99"
     },
@@ -197490,9 +197531,22 @@
       "200,000 x Coins": "USD 9.99",
       "80,000 x Coins": "USD 4.99",
       "40,000 x Coins": "USD 2.99",
-      "10,000 x Coins": "USD 0.99"
+      "10,000 x Coins": "USD 0.79"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793178284917,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "200,000 x Coins": "USD 12.99",
+            "80,000 x Coins": "USD 5.99",
+            "40,000 x Coins": "USD 2.99",
+            "10,000 x Coins": "USD 0.79"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793028871794,
@@ -204927,7 +204981,8 @@
       "ROBO FISH 06": "USD 1.99",
       "WHITE KITTY FISH": "USD 1.99",
       "ORANGE & WHITE KITTY FISH": "USD 1.99",
-      "RED RYUKIN": "USD 1.99"
+      "RED RYUKIN": "USD 1.99",
+      "HOLOGRAPHIC GHOST": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 1.69,
@@ -204951,9 +205006,29 @@
       "ROBO FISH 06": "USD 1.99",
       "WHITE KITTY FISH": "USD 1.99",
       "ORANGE & WHITE KITTY FISH": "USD 1.99",
-      "RED RYUKIN": "USD 1.99"
+      "RED RYUKIN": "USD 1.99",
+      "HOLOGRAPHIC GHOST": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793178284917,
+          "price": 3.49,
+          "formattedPrice": "USD 3.49",
+          "inAppPurchases": {
+            "HOLOGRAPHIC GHOST": "USD 1.99",
+            "WIREFRAME RAINBOW": "USD 0.99",
+            "WIREFRAME RED": "USD 0.99",
+            "WIREFRAME BLACK": "USD 0.99",
+            "WIREFRAME WHITE": "USD 0.99",
+            "LOW POLY BLUE": "USD 1.99",
+            "LOW POLY PINK": "USD 1.99",
+            "LOW POLY CALICO": "USD 1.99",
+            "LOW POLY RED": "USD 1.99",
+            "LOW POLY BLACK": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782207512200,
@@ -212113,6 +212188,22 @@
     "history": [
       [
         {
+          "timestamp": 1793178284917,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "宗師匣檔": "USD 99.99",
+            "問道進階檔": "USD 44.99",
+            "定向匣檔": "USD 29.99",
+            "輕囊通寶": "USD 2.99",
+            "進階材料檔": "USD 14.99",
+            "小袋通寶": "USD 0.99",
+            "珍品匣檔": "USD 3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791986862260,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -213249,6 +213340,21 @@
       "700 Diamonds": "USD 19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793178284917,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "120 Diamonds": "USD 3.99",
+            "Starter Pack 1": "USD 1.99",
+            "4000 Diamonds": "USD 99.99",
+            "50 Diamonds": "USD 1.99",
+            "16 Base Heroes Unlock Pack": "USD 39.99",
+            "700 Diamonds": "USD 19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792522109736,
@@ -216314,6 +216420,27 @@
           "timestamp": 1793146065483,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6822194774": {
+    "name": "TypeDraw",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793178284917,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
           "inAppPurchases": {}
         }
       ]

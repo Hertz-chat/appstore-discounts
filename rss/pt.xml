@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2026-10-28T01:48:20.061Z</updated>
+    <updated>2026-10-28T10:41:13.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-28T01:48:20.062Z</updated>
+        <updated>2026-10-28T10:41:13.487Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptWed, 28 Oct 2026 01:48:20 GMT</id>
+        <id>rankingptWed, 28 Oct 2026 10:41:13 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-28T01:48:20.062Z</updated>
+        <updated>2026-10-28T10:41:13.487Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -51,13 +51,13 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>2383</b>
+        <b>2384</b>
       </td>
       <td>
         <b>204</b>
       </td>
       <td>
-        <b>2179</b>
+        <b>2180</b>
       </td>
       <td>
         <b>107</b>
@@ -68,13 +68,13 @@ feedId:206907475259680768+userId:73658201673997312
         <b>PT</b>
       </td>
       <td>
-        <b>2072</b>
+        <b>2073</b>
       </td>
       <td>
         <b>147</b>
       </td>
       <td>
-        <b>1925</b>
+        <b>1926</b>
       </td>
       <td>
         <b>33</b>
@@ -97,6 +97,23 @@ feedId:206907475259680768+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/1632719015?lang=en">Guardian OL2</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>4</b>
+          </li><li>
+            <span>Price</span>：<b>4</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
         <a href="https://appstore-discounts.eyelly.me/pt/443646748?lang=en">Fitness Amigo+</a>
       </td>
       <td>
@@ -113,23 +130,6 @@ feedId:206907475259680768+userId:73658201673997312
                 <i>Fitness Buddy Premium</i>：<b>1</b>
               </li>
             </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>2</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/1632719015?lang=en">Guardian OL2</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>3</b>
-          </li><li>
-            <span>Price</span>：<b>3</b>
           </li>
         </ul>
       </td>
@@ -321,7 +321,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/6471594918?lang=en">Just a Simple Image Converter</a>
+        <a href="https://appstore-discounts.eyelly.me/pt/6770101449?lang=en">五道門：文字江湖</a>
       </td>
       <td>
         <ul>
@@ -338,7 +338,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/6759970821?lang=en">Dungeon Merge!</a>
+        <a href="https://appstore-discounts.eyelly.me/pt/6471594918?lang=en">Just a Simple Image Converter</a>
       </td>
       <td>
         <ul>
@@ -353,6 +353,23 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>
         <b>13</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/6759970821?lang=en">Dungeon Merge!</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>14</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6742457882?lang=en">Deco: Wallpaper & Stickers</a>
@@ -375,7 +392,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/288419283?lang=en">RadarScope</a>
@@ -398,7 +415,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/441142802?lang=en">Bass Modes Symmetry School</a>
@@ -415,7 +432,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/459189186?lang=en">Machinarium</a>
@@ -432,7 +449,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/510249014?lang=en">Level HD.</a>
@@ -449,7 +466,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/527358348?lang=en">Fieldrunners 2</a>
@@ -466,7 +483,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/549432607?lang=en">Townsmen Premium</a>
@@ -483,7 +500,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/633600716?lang=en">432 Player: Music in 432 Hz</a>
@@ -500,7 +517,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/640364616?lang=en">Terraria</a>
@@ -517,7 +534,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/725234217?lang=en">Rock Drum Machine: Real Drums</a>
@@ -534,7 +551,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/857607006?lang=en">Triple A HD - Touch Visualizer</a>
@@ -551,7 +568,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/882362024?lang=en">Ace Attorney: Dual Destinies</a>
@@ -578,7 +595,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/926177061?lang=en">TinType - Câmera de ferrótipo</a>
@@ -595,7 +612,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/931188326?lang=en">DayCost Pro - Personal Finance</a>
@@ -612,7 +629,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/953426154?lang=en">Be Focused Pro: Timer Pomodoro</a>
@@ -629,7 +646,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/983143183?lang=en">Neo Monsters</a>
@@ -646,7 +663,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/994157520?lang=en">1942 Pacific Front Premium</a>
@@ -663,7 +680,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1055650930?lang=en">Codenames</a>
@@ -680,7 +697,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1065599938?lang=en">HARVEST MOON: Seeds Of Memories</a>
@@ -697,7 +714,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1136993233?lang=en">Apollo Justice Ace Attorney</a>
@@ -720,7 +737,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1160943124?lang=en">Speech to Text : Voice to Text</a>
@@ -737,7 +754,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1225490847?lang=en">Slideshow Master Pro - Maker</a>
@@ -754,7 +771,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1239299402?lang=en">Street Fighter IV CE</a>
@@ -771,7 +788,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1287138671?lang=en">Thumper: Pocket Edition</a>
@@ -788,7 +805,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1309638846?lang=en">Vintage Camera - Goodak</a>
@@ -805,7 +822,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1391571907?lang=en">Fine - Photo Editor</a>
@@ -822,7 +839,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1410053842?lang=en">Selene: Calendário de Turnos</a>
@@ -839,7 +856,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1411823462?lang=en">7Days : Backer</a>
@@ -856,7 +873,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1422480068?lang=en">Notes Writer Browser: Nautilus</a>
@@ -873,7 +890,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1435461053?lang=en">This is the Police</a>
@@ -890,7 +907,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1437211990?lang=en">Raid Manager</a>
@@ -907,7 +924,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1465870866?lang=en">Mega Mall Story2</a>
@@ -924,7 +941,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1478611992?lang=en">Farming Simulator 20</a>
@@ -941,7 +958,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1481100296?lang=en">BreatheIn: Calm Breathing</a>
@@ -958,7 +975,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1481181827?lang=en">Aces of the Luftwaffe Squadron</a>
@@ -975,7 +992,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1490100895?lang=en">Happy Game :)</a>
@@ -992,7 +1009,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1492049794?lang=en">宗师-武林风云传</a>
@@ -1009,7 +1026,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1499001662?lang=en">EvoCreo 2: Jogo de Monstro RPG</a>
@@ -1026,7 +1043,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>51</b>
+        <b>52</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1500126852?lang=en">Chord</a>
@@ -1043,7 +1060,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>52</b>
+        <b>53</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1524418421?lang=en">SessionBand Jazz Fusion</a>
@@ -1060,7 +1077,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>53</b>
+        <b>54</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1534488108?lang=en">SessionBand Jazz 4</a>
@@ -1077,7 +1094,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>54</b>
+        <b>55</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1537060891?lang=en">Titan Quest: Legendary Edition</a>
@@ -1094,7 +1111,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>55</b>
+        <b>56</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1538124245?lang=en">where I put it</a>
@@ -1111,7 +1128,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>56</b>
+        <b>57</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1543161449?lang=en">Dungeon Village 2</a>
@@ -1128,7 +1145,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>57</b>
+        <b>58</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1551480486?lang=en">IFR Trainer</a>
@@ -1145,7 +1162,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>58</b>
+        <b>59</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1561849298?lang=en">SessionBand Soul Jazz Funk 3</a>
@@ -1162,7 +1179,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>59</b>
+        <b>60</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1571643809?lang=en">Dungeon and Puzzles</a>
@@ -1179,7 +1196,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>60</b>
+        <b>61</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1575588022?lang=en">MenubarX - Floating Browser</a>
@@ -1202,7 +1219,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>61</b>
+        <b>62</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1587301632?lang=en">All In One Memo</a>
@@ -1219,7 +1236,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>62</b>
+        <b>63</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1592505377?lang=en">Wreckfest</a>
@@ -1236,7 +1253,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>63</b>
+        <b>64</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1614771445?lang=en">Rotaeno</a>
@@ -1253,7 +1270,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>64</b>
+        <b>65</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1621065119?lang=en">Ace Attorney Trilogy</a>
@@ -1270,7 +1287,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>65</b>
+        <b>66</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1630887189?lang=en">20 Minutes Till Dawn</a>
@@ -1287,7 +1304,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>66</b>
+        <b>67</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1642715290?lang=en">Little Big Workshop</a>
@@ -1304,7 +1321,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>67</b>
+        <b>68</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1644917705?lang=en">Cyber Manhunt</a>
@@ -1321,7 +1338,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>68</b>
+        <b>69</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1662217862?lang=en">Wipr 2</a>
@@ -1344,7 +1361,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>69</b>
+        <b>70</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1664728315?lang=en">Mutropolis mobile</a>
@@ -1361,7 +1378,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>70</b>
+        <b>71</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1667072735?lang=en">Watch Web Browser</a>
@@ -1378,7 +1395,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>71</b>
+        <b>72</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6480501528?lang=en">Cat Todo - Lista de tarefas</a>
@@ -1395,7 +1412,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>72</b>
+        <b>73</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6761328517?lang=en">Dungeon Within</a>
@@ -1412,7 +1429,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>73</b>
+        <b>74</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6740698426?lang=en">Empires Game</a>
@@ -1437,7 +1454,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>74</b>
+        <b>75</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6752662508?lang=en">TimeTrails: Registo GPS</a>
@@ -1454,7 +1471,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>75</b>
+        <b>76</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6760764479?lang=en">Alpin Quest PRO – Outdoor GPS</a>
@@ -1477,7 +1494,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>76</b>
+        <b>77</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6469419567?lang=en">Overwinter Survival</a>
@@ -1504,7 +1521,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>77</b>
+        <b>78</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6778029370?lang=en">Order Automatica</a>
@@ -1521,7 +1538,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>78</b>
+        <b>79</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6762803589?lang=en">Slots & Daggers</a>
@@ -1538,7 +1555,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>79</b>
+        <b>80</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6754894237?lang=en">CloverPit</a>
@@ -1555,7 +1572,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>80</b>
+        <b>81</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6780967766?lang=en">Comprato</a>
@@ -1572,7 +1589,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>81</b>
+        <b>82</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6446021269?lang=en">MEGA MAN X DiVE Offline</a>
@@ -1589,7 +1606,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>82</b>
+        <b>83</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6459581344?lang=en">Art of Rally</a>
@@ -1606,7 +1623,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>83</b>
+        <b>84</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6802565793?lang=en">我不想当班主任-班主任工作台&教师工作台&班级管理</a>
@@ -1623,7 +1640,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>84</b>
+        <b>85</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6760446039?lang=en">般若心灯</a>
@@ -1640,7 +1657,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>85</b>
+        <b>86</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6748287593?lang=en">Bother Bin: Stop Overthinking</a>
@@ -1657,7 +1674,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>86</b>
+        <b>87</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6760777178?lang=en">Film Light</a>
@@ -1674,7 +1691,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>87</b>
+        <b>88</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6742044212?lang=en">SnapKoin - Expense Tracker</a>
@@ -1697,27 +1714,10 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>88</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/6757943661?lang=en">阿福出境管家 - 签证通过率评估与材料清单</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>89</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/6770101449?lang=en">五道門：文字江湖</a>
+        <a href="https://appstore-discounts.eyelly.me/pt/6757943661?lang=en">阿福出境管家 - 签证通过率评估与材料清单</a>
       </td>
       <td>
         <ul>
@@ -2621,6 +2621,111 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guardian OL2]]></title>
+        <id>Guardian OL2-pt-1793178284917</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/1632719015?lang=en"/>
+        <updated>2026-10-28T09:04:44.917Z</updated>
+        <summary type="html"><![CDATA[Price: 6,99 € → 0,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1632719015?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/ac/a4/85aca4ee-1c9f-5fcf-8d72-173844d20a1b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>6,99 €</span> → <b>
+  <strong>0,99 €</strong>
+</b><span>[0,99 € ~ 7,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>0,99 €</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    One house gem：<b>99,99 €</b>
+  </li><li>
+    A mine car gem：<b>59,99 €</b>
+  </li><li>
+    A large box of gemstones：<b>22,99 €</b>
+  </li><li>
+    A small box of gemstones：<b>9,99 €</b>
+  </li><li>
+    A small bag of precious stones：<b>5,99 €</b>
+  </li><li>
+    a small handful of gem：<b>0,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Guardian OL2 é um MMORPG de ação 3D em estilo retrô onde um só herói vive em dois mundos. Aventure-se online com jogadores reais ou explore seu Mundo Solo privado no seu ritmo — seu personagem, equipamento e diamantes acompanham você em tudo.
+
+DOIS MUNDOS, UM HERÓI
+• Mundo Multiplayer — um reino online vivo: masmorras em equipe, comércio na casa de leilões, rankings
+• Mundo Solo — uma cópia privada do continente no seu ritmo: sem filas, sem competição, só você e seus seguidores
+• Uma só lista — troque quando quiser; progresso, itens e carteira compartilhados
+
+CINCO CLASSES
+• Templário — cavaleiro sagrado cujas curas e bênçãos mantêm o grupo vivo
+• Mago — frágil, mas devastador mestre do fogo, gelo e arcano
+• Bruxo — atirador veloz do clã do sangue: tiros precisos e flechas paralisantes
+• Grande Espada Guerreira — baluarte de sangue titânico: provocações, muralhas de escudos e golpes esmagadores
+• Berserker — anão devoto do fogo que ceifa as fileiras inimigas em fúria giratória
+
+UM CONTINENTE A CONQUISTAR
+Siga a história própria da sua classe por aldeias, tundras congeladas, cavernas de aranhas e criptas assombradas até Grand Village, a cidade-base onde a verdadeira caça começa. Missões, elites e drops do mundo em cada canto.
+
+MASMORRAS E CHEFES
+Enfrente a cova do lobo, o Ninho de aranha, o covil orc e o Cofre escuro. Cada chefe — o rei lobo sanguinário, o Dragão Vermelho, abrak a aranha, o Rei Esqueleto Leon, o Rei Demônio Naros — traz seu truque: invocações, congelamento, veneno, atordoamento.
+
+TRÊS MODOS DE RISCO
+• Normal — sem penalidade de morte; perfeito para aprender
+• Pesadelo — morrer custa moedas e cristais; loot e XP melhores
+• Inferno — penalidades brutais, os melhores drops e PvP em mundo aberto
+
+OFÍCIOS E EQUIPAMENTO
+Minere, colete ervas, pesque e cace — depois forje armas, cozinhe pratos com bônus, prepare poções e encante equipamento. Aprimore, encaixe gemas e desmonte o excedente. Pergaminhos de receitas caem no mundo. Conjuntos dão poder extra.
+
+COMÉRCIO, SEGUIDORES E FACÇÕES
+Venda seu loot para jogadores reais na casa de leilões. Contrate seguidores — morcegos, dríades, golems, cogumelos — para lutar ao seu lado. Ganhe reputação com cinco facções (Cavaleiros da luz, Legião Titã, Aliança oculta, Fogo de armas, A fonte da vida) e troque por equipamento exclusivo.
+
+RECOMPENSAS DIÁRIAS
+Presentes de login, ofertas diárias, baús diários, conquistas e rankings do servidor fazem cada sessão valer a pena.
+
+AGORA EM 18 IDIOMAS
+A mesma conta funciona em iOS e Android — o progresso nunca se perde. Jogo premium: pague uma vez, sem anúncios. Compras opcionais no app (diamantes, assinatura) disponíveis.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ec/43/df/ec43df2c-7def-c0b9-6af2-b5c2732f5c86/4989be8a-f7ae-4009-9bba-5275714f2f5a_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-07-01_at_13.26.31.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3b/a3/5c/3ba35c75-820b-dd05-2183-c909360049f4/f374b8ee-4808-4d15-ba29-e4bf7278c3d1_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-07-01_at_13.27.44.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/60/c9/c5/60c9c559-c3c0-2248-9fd2-4badcb076f22/5f5ff928-134a-4f2d-aa29-720ac03981ae_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-07-01_at_13.26.43.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/fb/32/87/fb32879b-4166-1ad2-05e8-14c1c64f6022/5e03c334-de12-44c1-9726-5c867abc5a93_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-07-01_at_13.27.01.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9b/f2/5f/9bf25f4f-daca-08df-be4c-7b8377b43bd5/e2721dd6-aef6-46db-83d2-69d4bf3b1b2d_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-07-01_at_13.27.19.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d6/4f/b1/d64fb13e-9ac0-0ed6-77ef-7a4cd2dc5b5e/ca12b7be-4de4-476b-9d5a-600d8edfae38_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-07-01_at_13.28.24.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/eb/67/b2/eb67b249-6c2e-6cb5-39a9-f62e94ef9a0f/51007a8b-b3c9-46cc-ac86-065343b1b27b_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-07-01_at_13.28.29.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cd/0d/0d/cd0d0dfa-c2e7-6543-990b-c31f9ac14598/8cc8a045-604c-47cf-a753-a8408c5f8457_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-07-01_at_13.28.37.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/eb/f9/de/ebf9defd-bf60-192c-9f9d-3fde92b62dfa/983ab79d-74e0-47e5-83e7-a1957305a6d4_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-07-01_at_13.28.49.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/eb/86/ef/eb86efc5-125b-58e6-3952-5b9d1b6946c1/9e5da8d8-d46e-4d1e-95d8-af46dffa7d09_Simulator_Screen_Shot_-_iPad_Pro_Uff08_U7b2c_2__U4ee3_Uff09-13.7_-_2023-07-01_at_13.50.52.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ea/b6/77/eab677a3-19f9-0f06-c897-27d72cb3c5e3/7ac7d97b-c5d9-417d-95ed-ae89f7290b08_Simulator_Screen_Shot_-_iPad_Pro_Uff08_U7b2c_2__U4ee3_Uff09-13.7_-_2023-07-01_at_13.52.20.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/01/1a/25/011a2512-ebf5-8aa0-8454-5b5fba7c29e6/1b1a0c09-3c4e-4554-9036-a468e6248b2a_Simulator_Screen_Shot_-_iPad_Pro_Uff08_U7b2c_2__U4ee3_Uff09-13.7_-_2023-07-01_at_13.51.03.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8f/07/0e/8f070e5c-173a-7a62-a4b0-131b6279e10c/97a3e265-98bd-4ea4-9aa6-915111e8e5d2_Simulator_Screen_Shot_-_iPad_Pro_Uff08_U7b2c_2__U4ee3_Uff09-13.7_-_2023-07-01_at_13.51.22.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/61/d8/eb/61d8eb72-062e-7873-cdd2-34e3edf8eae8/a8f3ce42-fa5e-4870-ba77-79779e160b56_Simulator_Screen_Shot_-_iPad_Pro_Uff08_U7b2c_2__U4ee3_Uff09-13.7_-_2023-07-01_at_13.51.46.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b5/d0/f2/b5d0f20b-33fe-102b-aed4-bbed38d5f537/bea56e0c-20da-403e-b59c-0b96321e6c8a_Simulator_Screen_Shot_-_iPad_Pro_Uff08_U7b2c_2__U4ee3_Uff09-13.7_-_2023-07-01_at_13.52.45.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/15/a4/b6/15a4b640-a892-23a8-b1f4-431698bea797/e813bb11-a81c-4c95-a840-74fd1fc09985_Simulator_Screen_Shot_-_iPad_Pro_Uff08_U7b2c_2__U4ee3_Uff09-13.7_-_2023-07-01_at_13.52.49.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a0/45/c3/a045c34e-b040-457a-003b-ad4b7c93d5bf/faa93787-dd71-4db6-b863-b027e84df8af_Simulator_Screen_Shot_-_iPad_Pro_Uff08_U7b2c_2__U4ee3_Uff09-13.7_-_2023-07-01_at_13.53.07.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/0a/63/2b/0a632b80-0c02-90aa-9eb2-91a4110bc8f1/19e25b51-e686-40d4-a9da-09e347664e70_Simulator_Screen_Shot_-_iPad_Pro_Uff08_U7b2c_2__U4ee3_Uff09-13.7_-_2023-07-01_at_13.53.29.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五道門：文字江湖]]></title>
+        <id>五道門：文字江湖-pt-1793178284917</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/6770101449?lang=en"/>
+        <updated>2026-10-28T09:04:44.917Z</updated>
+        <summary type="html"><![CDATA[Price: 5,99 € → 0,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6770101449?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/d0/5e/81d05e2c-3c9a-b2ba-1946-3770ab19ca2e/AppIcon-1x_U007ephone-0-1-85-220-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>5,99 €</span> → <b>
+  <strong>0,99 €</strong>
+</b><span>[0,99 € ~ 6,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>0,99 €</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    宗師匣檔：<b>99,99 €</b>
+  </li><li>
+    問道進階檔：<b>49,99 €</b>
+  </li><li>
+    定向匣檔：<b>34,99 €</b>
+  </li><li>
+    輕囊通寶：<b>2,99 €</b>
+  </li><li>
+    進階材料檔：<b>17,99 €</b>
+  </li><li>
+    小袋通寶：<b>0,99 €</b>
+  </li><li>
+    珍品匣檔：<b>3,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  《五道門：文字江湖》是一款文字 MUD 風格的放置武俠 RPG。玩家將在江湖中選擇門派、修練武功、探索地圖、完成任務，並透過裝備、寶石、強化與戰鬥成長逐步提升角色實力。
+
+遊戲保留經典 MUD 的文字探索與長期養成節奏，同時針對手機垂直螢幕體驗重做了選單、戰鬥、背包、任務和商城介面。你可以在不同區域遭遇敵人、挑戰首領、取得裝備，並透過自動戰鬥和資源累積持續推進角色。
+
+適合喜歡武俠、文字遊戲、放置養成、裝備建構和慢節奏角色成長的玩家。
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/0b/5f/ed0b5f12-74cf-60ab-b3e3-16469c19c58a/IMG_1250.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/89/32/ac8932eb-ff50-9db0-fbcd-7eb22d73d326/IMG_1246.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/2e/4d/4a2e4db5-3876-e070-40b9-50680a5dd6f1/IMG_1245.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/aa/ac/fdaaac25-4292-8c80-def6-7057157ae085/IMG_1243.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/c6/02/f1c6023e-2143-f5b6-dc58-e18fa33c84e6/IMG_1248.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/ae/28/4dae28c0-759e-6496-50c6-6e7be631ea6a/IMG_1247.png/320x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tower & Mercenaries]]></title>

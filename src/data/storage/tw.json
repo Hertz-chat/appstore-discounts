@@ -6921,7 +6921,7 @@
     "maxPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00",
-      "Pro Version": "$30.00"
+      "Pro Version": "$60.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -6929,6 +6929,16 @@
       "Pro Version": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793178284917,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro Version": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -82706,6 +82716,25 @@
     "history": [
       [
         {
+          "timestamp": 1793178284917,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "金牛会员尊享版连续包月": "$40.00",
+            "金牛会员尊享版连续包年": "$450.00",
+            "手机高级诊股连续包月": "$40.00",
+            "金牛会员连续包月": "$30.00",
+            "手机超级Level-2连续包半年": "$230.00",
+            "金牛情报连续包月": "$340.00",
+            "金牛会员月版": "$90.00",
+            "主力密码月版": "$790.00",
+            "AI机构探测器季版": "$2,290.00",
+            "手机云参数月版": "$490.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792958987542,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -130520,6 +130549,25 @@
       "COLORFUL STAGE!": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793178284917,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Miku": "$320.00",
+            "CAPSO": "$320.00",
+            "ConneR": "$320.00",
+            "Xenon": "$320.00",
+            "9 Characters": "$1,190.00",
+            "Kizuna AI": "$320.00",
+            "Cherry": "$320.00",
+            "Battle CHAOS 2019": "$150.00",
+            "Alice": "$320.00",
+            "Neko": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793051997931,
@@ -188873,14 +188921,22 @@
   "1499085878": {
     "name": "CNC Lathe Simulator",
     "maxPriceInfo": {
-      "price": 220,
-      "formattedPrice": "$220.00"
+      "price": 320,
+      "formattedPrice": "$320.00"
     },
     "minPriceInfo": {
       "price": 90,
       "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793178284917,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782549339195,
@@ -216112,14 +216168,22 @@
   "1614666556": {
     "name": "CNC VMC Simulator",
     "maxPriceInfo": {
-      "price": 220,
-      "formattedPrice": "$220.00"
+      "price": 320,
+      "formattedPrice": "$320.00"
     },
     "minPriceInfo": {
       "price": 90,
       "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793178284917,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782549339195,
@@ -223393,6 +223457,21 @@
       "一礦車寶石": "$1,490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793178284917,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "一把寶石": "$30.00",
+            "一小箱寶石": "$320.00",
+            "一小袋寶石": "$150.00",
+            "一大箱寶石": "$690.00",
+            "一屋子寶石": "$2,990.00",
+            "一礦車寶石": "$1,490.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791986862260,
@@ -286499,6 +286578,22 @@
     "history": [
       [
         {
+          "timestamp": 1793178284917,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "3.99美元商品2": "$120.00",
+            "12.99美元商品2": "$390.00",
+            "0.99美元商品": "$30.00",
+            "99.99美元商品": "$2,990.00",
+            "19.99美元商品": "$690.00",
+            "49.99美元商品": "$1,490.00",
+            "12.99美元商品": "$390.00",
+            "14.99美元商品": "$490.00",
+            "3.99美元商品": "$120.00"
+          }
+        },
+        {
           "timestamp": 1793146065483,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -300597,9 +300692,9 @@
     "maxPriceInfo": {
       "price": 190,
       "formattedPrice": "$190.00",
-      "200,000 x Coins": "$320.00",
-      "80,000 x Coins": "$150.00",
-      "40,000 x Coins": "$90.00",
+      "200,000 x Coins": "$390.00",
+      "80,000 x Coins": "$190.00",
+      "40,000 x Coins": "$110.00",
       "10,000 x Coins": "$30.00"
     },
     "minPriceInfo": {
@@ -300608,9 +300703,22 @@
       "200,000 x Coins": "$320.00",
       "80,000 x Coins": "$150.00",
       "40,000 x Coins": "$90.00",
-      "10,000 x Coins": "$30.00"
+      "10,000 x Coins": "$25.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793178284917,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "200,000 x Coins": "$390.00",
+            "80,000 x Coins": "$190.00",
+            "40,000 x Coins": "$110.00",
+            "10,000 x Coins": "$25.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793028871794,
@@ -312698,7 +312806,10 @@
       "SNES": "$30.00",
       "Game Boy Advance": "$30.00",
       "Unlock All (Upgrade 4)": "$30.00",
-      "Unlock All (Upgrade 3)": "$60.00"
+      "Unlock All (Upgrade 3)": "$60.00",
+      "Unlock All": "$150.00",
+      "Unlock All (Upgrade 1)": "$120.00",
+      "Unlock All (Upgrade 2)": "$90.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -312712,9 +312823,31 @@
       "SNES": "$30.00",
       "Game Boy Advance": "$30.00",
       "Unlock All (Upgrade 4)": "$30.00",
-      "Unlock All (Upgrade 3)": "$60.00"
+      "Unlock All (Upgrade 3)": "$60.00",
+      "Unlock All": "$150.00",
+      "Unlock All (Upgrade 1)": "$120.00",
+      "Unlock All (Upgrade 2)": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793178284917,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Unlock All": "$150.00",
+            "Unlock All (Upgrade 1)": "$120.00",
+            "Unlock All (Upgrade 2)": "$90.00",
+            "Unlock All (Upgrade 3)": "$60.00",
+            "Unlock All (Upgrade 4)": "$30.00",
+            "Game Boy Advance": "$30.00",
+            "SNES": "$30.00",
+            "Pokémon Mini": "$30.00",
+            "Atari 2600": "$30.00",
+            "Mega Drive / Genesis": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793068805806,
@@ -316770,6 +316903,22 @@
     "history": [
       [
         {
+          "timestamp": 1793178284917,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "珍品匣檔": "$120.00",
+            "小袋通寶": "$30.00",
+            "輕囊通寶": "$90.00",
+            "進階材料檔": "$490.00",
+            "定向匣檔": "$990.00",
+            "宗師匣檔": "$2,990.00",
+            "問道進階檔": "$1,490.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791986862260,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -317744,6 +317893,21 @@
       "700 Diamonds": "$690.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793178284917,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "120 Diamonds": "$120.00",
+            "Starter Pack 1": "$60.00",
+            "50 Diamonds": "$60.00",
+            "16 Base Heroes Unlock Pack": "$1,290.00",
+            "700 Diamonds": "$690.00",
+            "4000 Diamonds": "$2,990.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792522109736,
@@ -319146,6 +319310,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793178284917,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "英雄 阿什彼特": "$220.00",
+            "全英雄禮包": "$790.00",
+            "全法術禮包": "$390.00",
+            "全塔禮包": "$690.00",
+            "英雄 德拉坎": "$220.00",
+            "全塔禮包_B": "$490.00",
+            "塔 奧術鍛造匠": "$150.00",
+            "英雄 伊格納斯": "$90.00",
+            "塔 哨兵瞭望塔": "$190.00",
+            "塔 野貓女獵手": "$150.00"
+          }
+        },
         {
           "timestamp": 1793146065483,
           "price": 220,
@@ -321409,6 +321590,27 @@
           "timestamp": 1793146065483,
           "price": 30,
           "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6822194774": {
+    "name": "TypeDraw",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793178284917,
+          "price": 150,
+          "formattedPrice": "$150.00",
           "inAppPurchases": {}
         }
       ]

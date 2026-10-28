@@ -1,5 +1,46 @@
 [
   {
+    "trackId": 1632719015,
+    "region": "pt",
+    "timestamp": 1793178284917,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1632719015",
+    "trackName": "Guardian OL2",
+    "firstRecordedAt": 1787620330936,
+    "notificationDisabled": true
+  },
+  {
+    "trackId": 6770101449,
+    "region": "pt",
+    "timestamp": 1793178284917,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 6,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6770101449",
+    "trackName": "五道門：文字江湖",
+    "firstRecordedAt": 1785154990397
+  },
+  {
     "trackId": 1614771445,
     "region": "pt",
     "timestamp": 1793146065483,
@@ -1627,7 +1668,8 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1632719015",
     "trackName": "Guardian OL2",
-    "firstRecordedAt": 1787620330936
+    "firstRecordedAt": 1787620330936,
+    "notificationDisabled": true
   },
   {
     "trackId": 6770101449,
@@ -2609,7 +2651,8 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1632719015",
     "trackName": "Guardian OL2",
-    "firstRecordedAt": 1787620330936
+    "firstRecordedAt": 1787620330936,
+    "notificationDisabled": true
   },
   {
     "trackId": 931188326,
@@ -3778,7 +3821,8 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1632719015",
     "trackName": "Guardian OL2",
-    "firstRecordedAt": 1787620330936
+    "firstRecordedAt": 1787620330936,
+    "notificationDisabled": true
   },
   {
     "trackId": 6760948683,

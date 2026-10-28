@@ -579,7 +579,7 @@
   {
     "trackId": 325915322,
     "region": "tr",
-    "timestamp": 1765305425372,
+    "timestamp": 1793178284917,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -13267,7 +13267,7 @@
   {
     "trackId": 1477966166,
     "region": "tr",
-    "timestamp": 1793089647083,
+    "timestamp": 1793178284917,
     "discounts": [],
     "price": 249.99,
     "formattedPrice": "₺249,99",
@@ -13821,7 +13821,7 @@
   {
     "trackId": 1499001662,
     "region": "tr",
-    "timestamp": 1793002369190,
+    "timestamp": 1793178284917,
     "discounts": [],
     "price": 49.99,
     "formattedPrice": "₺49,99",
@@ -13833,10 +13833,10 @@
   {
     "trackId": 1499085878,
     "region": "tr",
-    "timestamp": 1782549339195,
+    "timestamp": 1793178284917,
     "discounts": [],
-    "price": 399.99,
-    "formattedPrice": "₺399,99",
+    "price": 499.99,
+    "formattedPrice": "₺499,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id1499085878",
     "trackName": "CNC Lathe Simulator",
@@ -16877,10 +16877,10 @@
   {
     "trackId": 1614666556,
     "region": "tr",
-    "timestamp": 1782549339195,
+    "timestamp": 1793178284917,
     "discounts": [],
-    "price": 399.99,
-    "formattedPrice": "₺399,99",
+    "price": 499.99,
+    "formattedPrice": "₺499,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id1614666556",
     "trackName": "CNC VMC Simulator",
@@ -17334,14 +17334,15 @@
   {
     "trackId": 1632719015,
     "region": "tr",
-    "timestamp": 1791986862260,
+    "timestamp": 1793178284917,
     "discounts": [],
-    "price": 299.99,
-    "formattedPrice": "₺299,99",
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id1632719015",
     "trackName": "Guardian OL2",
-    "firstRecordedAt": 1787620330936
+    "firstRecordedAt": 1787620330936,
+    "notificationDisabled": true
   },
   {
     "trackId": 1632953327,
@@ -19574,7 +19575,7 @@
   {
     "trackId": 6473001577,
     "region": "tr",
-    "timestamp": 1793113178688,
+    "timestamp": 1793178284917,
     "discounts": [],
     "price": 199.99,
     "formattedPrice": "₺199,99",
@@ -22972,10 +22973,10 @@
   {
     "trackId": 6748572801,
     "region": "tr",
-    "timestamp": 1793051997931,
+    "timestamp": 1793178284917,
     "discounts": [],
-    "price": 249.99,
-    "formattedPrice": "₺249,99",
+    "price": 179,
+    "formattedPrice": "₺179,00",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6748572801",
     "trackName": "Seoul Exorcist 1111: Roguelite",
@@ -24701,10 +24702,10 @@
   {
     "trackId": 6759970821,
     "region": "tr",
-    "timestamp": 1792522109736,
+    "timestamp": 1793178284917,
     "discounts": [],
-    "price": 19.99,
-    "formattedPrice": "₺19,99",
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6759970821",
     "trackName": "Dungeon Merge!",
@@ -25469,10 +25470,10 @@
   {
     "trackId": 6770101449,
     "region": "tr",
-    "timestamp": 1791986862260,
+    "timestamp": 1793178284917,
     "discounts": [],
-    "price": 249.99,
-    "formattedPrice": "₺249,99",
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6770101449",
     "trackName": "五道門：文字江湖",
@@ -26667,5 +26668,17 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6821872148",
     "trackName": "Duopaper: Panoramic Wallpapers",
     "firstRecordedAt": 1793113178688
+  },
+  {
+    "trackId": 6822194774,
+    "region": "tr",
+    "timestamp": 1793178284917,
+    "discounts": [],
+    "price": 249.99,
+    "formattedPrice": "₺249,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6822194774",
+    "trackName": "TypeDraw",
+    "firstRecordedAt": 1793178284917
   }
 ]

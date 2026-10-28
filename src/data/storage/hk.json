@@ -6845,7 +6845,7 @@
     "maxPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00",
-      "Pro Version": "HK$ 8.00"
+      "Pro Version": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -6853,6 +6853,16 @@
       "Pro Version": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793178284917,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro Version": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -90855,6 +90865,25 @@
     "history": [
       [
         {
+          "timestamp": 1793178284917,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "白金方案（每月續訂）": "HK$ 48.00",
+            "白金方案（每三個月續訂）": "HK$ 118.00",
+            "擴充章節 U": "HK$ 32.00",
+            "支線第一章": "HK$ 32.00",
+            "擴充章節H": "HK$ 32.00",
+            "擴充章節B": "HK$ 32.00",
+            "擴充章節 I": "HK$ 32.00",
+            "擴充章節 R": "HK$ 32.00",
+            "支線第二章": "HK$ 32.00",
+            "擴充章節E": "HK$ 32.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792968791930,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -133504,6 +133533,25 @@
       "Geometric Frame Pack": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793178284917,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Design Frame Package": "HK$ 8.00",
+            "Social Frame Package": "HK$ 8.00",
+            "Magazine Frame Package": "HK$ 8.00",
+            "Black Frame Pack": "HK$ 8.00",
+            "Geometric Frame Pack": "HK$ 8.00",
+            "Stamp Frame Pack": "HK$ 8.00",
+            "Retro Frame Pack": "HK$ 8.00",
+            "Stroke Frame Pack": "HK$ 8.00",
+            "Color Frame Pack": "HK$ 8.00",
+            "Upgrade Deluxe Edition": "HK$ 48.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792763643625,
@@ -187213,14 +187261,22 @@
   "1499085878": {
     "name": "CNC Lathe Simulator",
     "maxPriceInfo": {
-      "price": 58,
-      "formattedPrice": "HK$ 58.00"
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
     },
     "minPriceInfo": {
       "price": 22,
       "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793178284917,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782549339195,
@@ -217693,14 +217749,22 @@
   "1614666556": {
     "name": "CNC VMC Simulator",
     "maxPriceInfo": {
-      "price": 58,
-      "formattedPrice": "HK$ 58.00"
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
     },
     "minPriceInfo": {
       "price": 22,
       "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793178284917,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782549339195,
@@ -225487,6 +225551,21 @@
       "一小袋寶石": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793178284917,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "一把寶石": "HK$ 8.00",
+            "一屋子寶石": "HK$ 788.00",
+            "一礦車寶石": "HK$ 388.00",
+            "一大箱寶石": "HK$ 148.00",
+            "一小箱寶石": "HK$ 88.00",
+            "一小袋寶石": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791986862260,
@@ -287466,11 +287545,11 @@
   "6748572801": {
     "name": "首爾驅魔人1111: Roguelite",
     "maxPriceInfo": {
-      "price": 48,
-      "formattedPrice": "HK$ 48.00",
-      "200,000 x Coins": "HK$ 88.00",
-      "80,000 x Coins": "HK$ 38.00",
-      "40,000 x Coins": "HK$ 22.00",
+      "price": 50,
+      "formattedPrice": "HK$ 50.00",
+      "200,000 x Coins": "HK$ 99.00",
+      "80,000 x Coins": "HK$ 46.00",
+      "40,000 x Coins": "HK$ 26.00",
       "10,000 x Coins": "HK$ 8.00"
     },
     "minPriceInfo": {
@@ -287479,9 +287558,22 @@
       "200,000 x Coins": "HK$ 88.00",
       "80,000 x Coins": "HK$ 38.00",
       "40,000 x Coins": "HK$ 22.00",
-      "10,000 x Coins": "HK$ 8.00"
+      "10,000 x Coins": "HK$ 7.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793178284917,
+          "price": 50,
+          "formattedPrice": "HK$ 50.00",
+          "inAppPurchases": {
+            "200,000 x Coins": "HK$ 99.00",
+            "80,000 x Coins": "HK$ 46.00",
+            "40,000 x Coins": "HK$ 26.00",
+            "10,000 x Coins": "HK$ 7.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793028871794,
@@ -295319,7 +295411,8 @@
       "LOW POLY BLACK": "HK$ 18.00",
       "LOW POLY GRAY": "HK$ 18.00",
       "PANDA TELESCOPE": "HK$ 18.00",
-      "CALICO RED/WHITE/BLACK": "HK$ 18.00"
+      "CALICO RED/WHITE/BLACK": "HK$ 18.00",
+      "HOLOGRAPHIC GHOST": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 12,
@@ -295339,9 +295432,29 @@
       "LOW POLY BLACK": "HK$ 18.00",
       "LOW POLY GRAY": "HK$ 18.00",
       "PANDA TELESCOPE": "HK$ 18.00",
-      "CALICO RED/WHITE/BLACK": "HK$ 18.00"
+      "CALICO RED/WHITE/BLACK": "HK$ 18.00",
+      "HOLOGRAPHIC GHOST": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793178284917,
+          "price": 28,
+          "formattedPrice": "HK$ 28.00",
+          "inAppPurchases": {
+            "RED-WHITE RYUKIN": "HK$ 18.00",
+            "ORANGE/WHITE": "HK$ 18.00",
+            "RED RYUKIN": "HK$ 18.00",
+            "PANDA TELESCOPE": "HK$ 18.00",
+            "CALICO RED/WHITE/BLACK": "HK$ 18.00",
+            "ROBO FISH 02": "HK$ 18.00",
+            "HOLOGRAPHIC GHOST": "HK$ 18.00",
+            "WIREFRAME RAINBOW": "HK$ 8.00",
+            "WIREFRAME RED": "HK$ 8.00",
+            "WIREFRAME BLACK": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789386910265,
@@ -303047,6 +303160,22 @@
     "history": [
       [
         {
+          "timestamp": 1793178284917,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "小袋通寶": "HK$ 8.00",
+            "宗師匣檔": "HK$ 788.00",
+            "問道進階檔": "HK$ 368.00",
+            "定向匣檔": "HK$ 228.00",
+            "輕囊通寶": "HK$ 22.00",
+            "進階材料檔": "HK$ 118.00",
+            "珍品匣檔": "HK$ 32.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791986862260,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -304092,6 +304221,21 @@
       "700 Diamonds": "HK$ 148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793178284917,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Starter Pack 1": "HK$ 18.00",
+            "120 Diamonds": "HK$ 32.00",
+            "4000 Diamonds": "HK$ 788.00",
+            "50 Diamonds": "HK$ 18.00",
+            "16 Base Heroes Unlock Pack": "HK$ 288.00",
+            "700 Diamonds": "HK$ 148.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792522109736,
@@ -307961,6 +308105,27 @@
           "timestamp": 1793146065483,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6822194774": {
+    "name": "TypeDraw",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793178284917,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
           "inAppPurchases": {}
         }
       ]

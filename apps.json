@@ -2,6 +2,13 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6822194774,
+      "name": {
+        "pt": "TypeDraw"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 447149103,
       "name": {
         "mo": "Reckless Getaway"
@@ -1079,7 +1086,8 @@
       "name": {
         "tw": "守護者 OL2"
       },
-      "addType": "auto"
+      "addType": "auto",
+      "allowNotification": false
     },
     {
       "id": 762838884,

@@ -228121,6 +228121,27 @@
       ]
     ]
   },
+  "1659211813": {
+    "name": "Nook Circle - ACNH Guide",
+    "maxPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793208660555,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1659258538": {
     "name": "Video Cache",
     "maxPriceInfo": {
@@ -297696,15 +297717,29 @@
       "price": 999.99,
       "formattedPrice": "₺999,99",
       "Professional Dates Yearly": "₺5.999,99",
-      "Professional Dates Monthly": "₺799,99"
+      "Professional Dates Monthly": "₺799,99",
+      "Professional Dates Permanent": "₺19.999,99"
     },
     "minPriceInfo": {
       "price": 999.99,
       "formattedPrice": "₺999,99",
       "Professional Dates Yearly": "₺5.999,99",
-      "Professional Dates Monthly": "₺799,99"
+      "Professional Dates Monthly": "₺799,99",
+      "Professional Dates Permanent": "₺19.999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793208660555,
+          "price": 999.99,
+          "formattedPrice": "₺999,99",
+          "inAppPurchases": {
+            "Professional Dates Permanent": "₺19.999,99",
+            "Professional Dates Yearly": "₺5.999,99",
+            "Professional Dates Monthly": "₺799,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792827674174,

@@ -16512,6 +16512,23 @@
     "history": [
       [
         {
+          "timestamp": 1793208660555,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "1,99 €",
+            "Realms Plus:10 Friends w/trial": "7,99 €",
+            "Minecraft Store Item 6": "6,99 €",
+            "Realms Monthly Subscription: You + 2 Friends": "3,99 €",
+            "Minecraft Store Item 4": "3,99 €",
+            "Minecraft Store Item 3": "2,99 €",
+            "Minecraft Store Item 5": "5,99 €",
+            "Minecraft Store Item 10": "9,99 €",
+            "Minecraft Store Item 8": "8,99 €",
+            "Marketplace Pass Trial": "3,99 €"
+          }
+        },
+        {
           "timestamp": 1793178284917,
           "price": 6.99,
           "formattedPrice": "6,99 €",
@@ -107961,6 +107978,25 @@
     "history": [
       [
         {
+          "timestamp": 1793208660555,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "若干笼包子": "22,99 €",
+            "一笼包子": "3,99 €",
+            "一个庆丰包子": "59,99 €",
+            "一碟包子": "0,99 €",
+            "一大笼包子": "9,99 €",
+            "一碟庆丰包子": "99,99 €",
+            "豪华月卡": "9,99 €",
+            "节日大礼包": "34,99 €",
+            "节日礼包": "3,99 €",
+            "战役基金": "14,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792504570235,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -111304,6 +111340,29 @@
           "timestamp": 1761797674362,
           "price": 9.99,
           "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1659211813": {
+    "trackId": 1659211813,
+    "trackName": "动森圈圈",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793208660555,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
           "inAppPurchases": {}
         }
       ]
@@ -154148,15 +154207,29 @@
       "price": 22.99,
       "formattedPrice": "22,99 €",
       "Professional Dates Yearly": "129,99 €",
-      "Professional Dates Monthly": "17,99 €"
+      "Professional Dates Monthly": "17,99 €",
+      "Professional Dates Permanent": "449,99 €"
     },
     "minPriceInfo": {
       "price": 22.99,
       "formattedPrice": "22,99 €",
       "Professional Dates Yearly": "129,99 €",
-      "Professional Dates Monthly": "17,99 €"
+      "Professional Dates Monthly": "17,99 €",
+      "Professional Dates Permanent": "449,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793208660555,
+          "price": 22.99,
+          "formattedPrice": "22,99 €",
+          "inAppPurchases": {
+            "Professional Dates Permanent": "449,99 €",
+            "Professional Dates Yearly": "129,99 €",
+            "Professional Dates Monthly": "17,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792827674174,

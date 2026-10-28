@@ -49397,6 +49397,14 @@
     "history": [
       [
         {
+          "timestamp": 1793208660555,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1767112568849,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -72346,6 +72354,20 @@
       "25,000資金": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793208660555,
+          "price": 0.79,
+          "formattedPrice": "USD 0.79",
+          "inAppPurchases": {
+            "700,000資金": "USD 89.99",
+            "325,000資金": "USD 44.99",
+            "125,000資金": "USD 17.99",
+            "60,000資金": "USD 8.99",
+            "25,000資金": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790711274462,
@@ -117968,6 +117990,14 @@
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793208660555,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783519501810,
@@ -167587,6 +167617,14 @@
     "history": [
       [
         {
+          "timestamp": 1793208660555,
+          "price": 1.59,
+          "formattedPrice": "USD 1.59",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790094096914,
           "price": 8.99,
           "formattedPrice": "USD 8.99",
@@ -173684,6 +173722,29 @@
           "timestamp": 1721960142187,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1659211813": {
+    "trackId": 1659211813,
+    "trackName": "動森圈圈",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793208660555,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
           "inAppPurchases": {}
         }
       ]
@@ -204740,7 +204801,17 @@
       "10 gold": "USD 0.49",
       "5 gold": "USD 0.29",
       "100 ticket": "USD 3.90",
-      "porches": "USD 0.99"
+      "porches": "USD 0.99",
+      "30000 money": "USD 0.29",
+      "50000 money": "USD 0.49",
+      "200000 money": "USD 0.90",
+      "10 ticket": "USD 0.49",
+      "15 ticket": "USD 0.59",
+      "75000 money": "USD 0.59",
+      "100000 money": "USD 0.79",
+      "500000 money": "USD 1.90",
+      "1000000 money": "USD 3.00",
+      "5 ticket": "USD 0.29"
     },
     "minPriceInfo": {
       "price": 0,
@@ -204755,9 +204826,38 @@
       "10 gold": "USD 0.49",
       "5 gold": "USD 0.29",
       "100 ticket": "USD 3.90",
-      "porches": "USD 0.99"
+      "porches": "USD 0.99",
+      "30000 money": "USD 0.29",
+      "50000 money": "USD 0.49",
+      "200000 money": "USD 0.90",
+      "10 ticket": "USD 0.49",
+      "15 ticket": "USD 0.59",
+      "75000 money": "USD 0.59",
+      "100000 money": "USD 0.79",
+      "500000 money": "USD 1.90",
+      "1000000 money": "USD 3.00",
+      "5 ticket": "USD 0.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793208660555,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "30000 money": "USD 0.29",
+            "50000 money": "USD 0.49",
+            "200000 money": "USD 0.90",
+            "10 ticket": "USD 0.49",
+            "15 ticket": "USD 0.59",
+            "75000 money": "USD 0.59",
+            "100000 money": "USD 0.79",
+            "500000 money": "USD 1.90",
+            "1000000 money": "USD 3.00",
+            "5 ticket": "USD 0.29"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791986862260,
@@ -219326,15 +219426,29 @@
       "price": 19.99,
       "formattedPrice": "USD 19.99",
       "專業擇日 年費": "USD 119.99",
-      "專業擇日 月費": "USD 14.99"
+      "專業擇日 月費": "USD 14.99",
+      "專業擇日・永久權限": "USD 399.99"
     },
     "minPriceInfo": {
       "price": 19.99,
       "formattedPrice": "USD 19.99",
       "專業擇日 年費": "USD 119.99",
-      "專業擇日 月費": "USD 14.99"
+      "專業擇日 月費": "USD 14.99",
+      "專業擇日・永久權限": "USD 399.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793208660555,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {
+            "專業擇日・永久權限": "USD 399.99",
+            "專業擇日 年費": "USD 119.99",
+            "專業擇日 月費": "USD 14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792827674174,

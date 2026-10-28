@@ -15076,6 +15076,23 @@
     "history": [
       [
         {
+          "timestamp": 1793208660555,
+          "price": 24.99,
+          "formattedPrice": "$24.99",
+          "inAppPurchases": {
+            "forScore Pro": "$14.99",
+            "forScore Pro 30-Day Pass": "$2.99",
+            "Brahms: The Mutopia Collection": "$0.00",
+            "Liszt: The Mutopia Collection": "$0.00",
+            "Tchaikovsky: The Mutopia Collection": "$0.00",
+            "Satie: The Mutopia Collection": "$0.00",
+            "Schumann: The Mutopia Collection": "$0.00",
+            "Händel: The Mutopia Collection": "$0.00",
+            "Haydn: The Mutopia Collection": "$0.00",
+            "Beethoven: The Mutopia Collection": "$0.99"
+          }
+        },
+        {
           "timestamp": 1793178284917,
           "price": 24.99,
           "formattedPrice": "$24.99",
@@ -44694,6 +44711,25 @@
       "Bell 222": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793208660555,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "AH-64 Apache": "$2.99",
+            "Bell 222 Airwolf": "$2.99",
+            "TRex 500": "$2.99",
+            "TRex 700 N": "$2.99",
+            "Fremont RC Club": "$2.99",
+            "Livermore RC Club": "$2.99",
+            "Vaca Valley RC Club": "$2.99",
+            "Bell 47": "$2.99",
+            "Bell 222": "$2.99",
+            "Hughes 500": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786311076106,
@@ -84870,6 +84906,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793208660555,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "DLC Sisters in Arms": "$2.99",
+            "Biomes Add-on": "$1.99",
+            "Temples of 4 Elements Add-on": "$3.99",
+            "Grottoes Add-on": "$0.99",
+            "Abandoned Mines Add-on": "$0.99",
+            "Heroes Add-on": "$3.99",
+            "Invasion Add-on": "$4.99",
+            "Wonderwood Add-on": "$8.99",
+            "Heart of Evil Add-on": "$6.99",
+            "Bosses & Monsters Add-on": "$7.99"
+          }
+        },
         {
           "timestamp": 1793178284917,
           "price": 4.99,
@@ -266091,6 +266144,27 @@
       ]
     ]
   },
+  "1659211813": {
+    "name": "Nook Circle - ACNH Guide",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793208660555,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1659258538": {
     "name": "Video Cache",
     "maxPriceInfo": {
@@ -352487,6 +352561,25 @@
     "history": [
       [
         {
+          "timestamp": 1793208660555,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "ADAC 3 Städte Rallye 2026": "$3.99",
+            "Saaremaa Ralli 2026": "$2.99",
+            "ERC Rally Portugal 2026": "$2.99",
+            "WRC Rally Italia 2026": "$2.99",
+            "SM Porvoon Autopalvelu Ralli 2026": "$2.99",
+            "D1 East Belgian Rally 2026": "$2.99",
+            "Türi rahvaralli 2026": "$2.99",
+            "WRC Rally Chile Bio Bio 2026": "$2.99",
+            "D1+D2 A&D Omloop van Vlaanderen '26": "$2.99",
+            "ERC Rali Ceredigion 2026": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 0,
           "formattedPrice": "Free",
@@ -360126,15 +360219,29 @@
       "price": 19.99,
       "formattedPrice": "$19.99",
       "Professional Dates Yearly": "$119.99",
-      "Professional Dates Monthly": "$14.99"
+      "Professional Dates Monthly": "$14.99",
+      "Professional Dates Permanent": "$399.99"
     },
     "minPriceInfo": {
       "price": 19.99,
       "formattedPrice": "$19.99",
       "Professional Dates Yearly": "$119.99",
-      "Professional Dates Monthly": "$14.99"
+      "Professional Dates Monthly": "$14.99",
+      "Professional Dates Permanent": "$399.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793208660555,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "Professional Dates Permanent": "$399.99",
+            "Professional Dates Yearly": "$119.99",
+            "Professional Dates Monthly": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792827674174,

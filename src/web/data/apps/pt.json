@@ -2454,7 +2454,7 @@
   {
     "trackId": 479516143,
     "region": "pt",
-    "timestamp": 1793178284917,
+    "timestamp": 1793208660555,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "6,99 €",
@@ -15981,7 +15981,7 @@
   {
     "trackId": 1624326561,
     "region": "pt",
-    "timestamp": 1792504570235,
+    "timestamp": 1793208660555,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "0,99 €",
@@ -16494,6 +16494,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id1658579911",
     "trackName": "小特钥匙 - 特斯拉蓝牙手表钥匙",
     "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1659211813,
+    "region": "pt",
+    "timestamp": 1793208660555,
+    "discounts": [],
+    "price": 5.99,
+    "formattedPrice": "5,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1659211813",
+    "trackName": "动森圈圈",
+    "firstRecordedAt": 1793208660555
   },
   {
     "trackId": 1659258538,
@@ -24261,7 +24273,7 @@
   {
     "trackId": 6787350789,
     "region": "pt",
-    "timestamp": 1792827674174,
+    "timestamp": 1793208660555,
     "discounts": [],
     "price": 22.99,
     "formattedPrice": "22,99 €",

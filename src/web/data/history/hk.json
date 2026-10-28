@@ -69380,6 +69380,25 @@
     "history": [
       [
         {
+          "timestamp": 1793208660555,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "1 Mo. CAN Texting": "HK$ 22.00",
+            "1 Mo. Global Texting": "HK$ 32.00",
+            "$5 Credit": "HK$ 42.00",
+            "3 Mo. CAN Texting": "HK$ 42.00",
+            "12 Mo. CAN Texting": "HK$ 148.00",
+            "1 Mo. Remove Ads": "HK$ 22.00",
+            "6 Mo. CAN Texting": "HK$ 88.00",
+            "12 Mo. Global Texting": "HK$ 228.00",
+            "3 Mo. Global Texting": "HK$ 68.00",
+            "1 Mo. Fongo Plus": "HK$ 88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792656146968,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -89283,6 +89302,20 @@
       "125,000資金": "HK$ 148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793208660555,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "25,000資金": "HK$ 38.00",
+            "60,000資金": "HK$ 78.00",
+            "700,000資金": "HK$ 688.00",
+            "325,000資金": "HK$ 398.00",
+            "125,000資金": "HK$ 158.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790711274462,
@@ -135305,6 +135338,25 @@
     "history": [
       [
         {
+          "timestamp": 1793208660555,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "HK$ 48.00",
+            "Retro Frame Pack": "HK$ 8.00",
+            "Color Frame Pack": "HK$ 8.00",
+            "Stroke Frame Pack": "HK$ 8.00",
+            "Blue Cam Film Pack": "HK$ 8.00",
+            "Design Frame Package": "HK$ 8.00",
+            "Black Frame Pack": "HK$ 8.00",
+            "Stamp Frame Pack": "HK$ 8.00",
+            "Social Frame Package": "HK$ 8.00",
+            "Magazine Frame Package": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793178284917,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -154890,6 +154942,14 @@
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793208660555,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783519501810,
@@ -226713,6 +226773,14 @@
     "history": [
       [
         {
+          "timestamp": 1793208660555,
+          "price": 15,
+          "formattedPrice": "HK$ 15.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790094096914,
           "price": 78,
           "formattedPrice": "HK$ 78.00",
@@ -234290,6 +234358,29 @@
           "timestamp": 1721960142187,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1659211813": {
+    "trackId": 1659211813,
+    "trackName": "動森圈圈",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793208660555,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
           "inAppPurchases": {}
         }
       ]
@@ -242289,6 +242380,25 @@
       "五子良將": "HK$ 48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793208660555,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "自創武將": "HK$ 22.00",
+            "巾幗綻芳華": "HK$ 32.00",
+            "冠絕天下": "HK$ 48.00",
+            "自創武將朝代特色兵種補丁": "HK$ 58.00",
+            "西涼悍將": "HK$ 48.00",
+            "戰國七雄": "HK$ 48.00",
+            "群雄爭霸": "HK$ 22.00",
+            "鎮海神威": "HK$ 22.00",
+            "月下追魂": "HK$ 48.00",
+            "楚漢爭霸": "HK$ 48.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793146065483,
@@ -267245,6 +267355,25 @@
       "Airbus A321 XLR": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793208660555,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 38.00",
+            "The Aircraft Bundle": "HK$ 188.00",
+            "Global scenery - 12 months": "HK$ 148.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Airbus A380": "HK$ 18.00",
+            "Global scenery - 3 months": "HK$ 58.00",
+            "Concorde": "HK$ 18.00",
+            "EC135": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792050467334,
@@ -302162,6 +302291,25 @@
     "history": [
       [
         {
+          "timestamp": 1793208660555,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "魔界擴充通行證": "HK$ 48.00",
+            "深淵開拓者": "HK$ 88.00",
+            "超越精華": "HK$ 228.00",
+            "隱月造型套裝": "HK$ 88.00",
+            "永恆方舟": "HK$ 228.00",
+            "尼奧貝希摩斯": "HK$ 18.00",
+            "訓練記憶": "HK$ 148.00",
+            "時間旅行者": "HK$ 48.00",
+            "深淵精華": "HK$ 148.00",
+            "魔界通行證1": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792742526515,
           "price": 48,
           "formattedPrice": "HK$ 48.00",
@@ -311007,15 +311155,29 @@
       "price": 168,
       "formattedPrice": "HK$ 168.00",
       "專業擇日 年費": "HK$ 960.00",
-      "專業擇日 月費": "HK$ 120.00"
+      "專業擇日 月費": "HK$ 120.00",
+      "專業擇日・永久權限": "HK$ 2,888.00"
     },
     "minPriceInfo": {
       "price": 168,
       "formattedPrice": "HK$ 168.00",
       "專業擇日 年費": "HK$ 960.00",
-      "專業擇日 月費": "HK$ 120.00"
+      "專業擇日 月費": "HK$ 120.00",
+      "專業擇日・永久權限": "HK$ 2,888.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793208660555,
+          "price": 168,
+          "formattedPrice": "HK$ 168.00",
+          "inAppPurchases": {
+            "專業擇日・永久權限": "HK$ 2,888.00",
+            "專業擇日 年費": "HK$ 960.00",
+            "專業擇日 月費": "HK$ 120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792827674174,

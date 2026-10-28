@@ -1122,7 +1122,7 @@
   {
     "trackId": 363738376,
     "region": "us",
-    "timestamp": 1793178284917,
+    "timestamp": 1793208660555,
     "discounts": [],
     "price": 24.99,
     "formattedPrice": "$24.99",
@@ -3246,7 +3246,7 @@
   {
     "trackId": 509223426,
     "region": "us",
-    "timestamp": 1786311076106,
+    "timestamp": 1793208660555,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "$2.99",
@@ -6306,7 +6306,7 @@
   {
     "trackId": 921954809,
     "region": "us",
-    "timestamp": 1793178284917,
+    "timestamp": 1793208660555,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "$4.99",
@@ -17668,6 +17668,18 @@
     "firstRecordedAt": 1721960142187
   },
   {
+    "trackId": 1659211813,
+    "region": "us",
+    "timestamp": 1793208660555,
+    "discounts": [],
+    "price": 4.99,
+    "formattedPrice": "$4.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1659211813",
+    "trackName": "Nook Circle - ACNH Guide",
+    "firstRecordedAt": 1793208660555
+  },
+  {
     "trackId": 1659258538,
     "region": "us",
     "timestamp": 1768545900580,
@@ -19730,7 +19742,7 @@
   {
     "trackId": 6476567182,
     "region": "us",
-    "timestamp": 1790805284947,
+    "timestamp": 1793208660555,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -25963,7 +25975,7 @@
   {
     "trackId": 6787350789,
     "region": "us",
-    "timestamp": 1792827674174,
+    "timestamp": 1793208660555,
     "discounts": [],
     "price": 19.99,
     "formattedPrice": "$19.99",

@@ -7339,10 +7339,10 @@
   {
     "trackId": 1001096601,
     "region": "tw",
-    "timestamp": 1790711274462,
+    "timestamp": 1793208660555,
     "discounts": [],
-    "price": 130,
-    "formattedPrice": "$130.00",
+    "price": 33,
+    "formattedPrice": "$33.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1001096601",
     "trackName": "1941 Frozen Front Premium",
@@ -11903,10 +11903,10 @@
   {
     "trackId": 1437669537,
     "region": "tw",
-    "timestamp": 1783519501810,
+    "timestamp": 1793208660555,
     "discounts": [],
-    "price": 150,
-    "formattedPrice": "$150.00",
+    "price": 30,
+    "formattedPrice": "$30.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1437669537",
     "trackName": "Bendy and the Ink Machine",
@@ -17334,10 +17334,10 @@
   {
     "trackId": 1625083646,
     "region": "tw",
-    "timestamp": 1790094096914,
+    "timestamp": 1793208660555,
     "discounts": [],
-    "price": 330,
-    "formattedPrice": "$330.00",
+    "price": 55,
+    "formattedPrice": "$55.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1625083646",
     "trackName": "Endling",
@@ -17835,6 +17835,18 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id1658579911",
     "trackName": "小特钥匙 - 特斯拉蓝牙手表钥匙",
     "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1659211813,
+    "region": "tw",
+    "timestamp": 1793208660555,
+    "discounts": [],
+    "price": 150,
+    "formattedPrice": "$150.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1659211813",
+    "trackName": "動森圈圈",
+    "firstRecordedAt": 1793208660555
   },
   {
     "trackId": 1659258538,
@@ -20441,7 +20453,7 @@
   {
     "trackId": 6496282733,
     "region": "tw",
-    "timestamp": 1793178284917,
+    "timestamp": 1793208660555,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -26318,7 +26330,7 @@
   {
     "trackId": 6787350789,
     "region": "tw",
-    "timestamp": 1792827674174,
+    "timestamp": 1793208660555,
     "discounts": [],
     "price": 690,
     "formattedPrice": "$690.00",

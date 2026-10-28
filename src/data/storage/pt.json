@@ -8972,6 +8972,25 @@
     "history": [
       [
         {
+          "timestamp": 1793146065483,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Premium Upgrade Pack": "7,99 €",
+            "Extreme Map Pack": "1,99 €",
+            "Rank Up +2 Ranks": "0,99 €",
+            "Double Cash": "2,99 €",
+            "Healthy Bananas": "1,99 €",
+            "Explosive Darts": "1,99 €",
+            "Double Ranga": "1,99 €",
+            "Monkey Tycoon": "0,99 €",
+            "Frag Bombs": "0,99 €",
+            "Digital Amplification": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793130591753,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -13401,6 +13420,34 @@
       ]
     ]
   },
+  "447149103": {
+    "name": "Reckless Getaway",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
+      "Jungle Madness!": "0,99 €",
+      "The Master Key!": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
+      "Jungle Madness!": "0,99 €",
+      "The Master Key!": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793146065483,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Jungle Madness!": "0,99 €",
+            "The Master Key!": "0,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "449735650": {
     "name": "Where's My Water?",
     "maxPriceInfo": {
@@ -16043,6 +16090,25 @@
       "Farming Starter Pack": "6,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793146065483,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "1,99 €",
+            "Realms Plus:10 Friends w/trial": "7,99 €",
+            "Minecraft Store Item 6": "6,99 €",
+            "Realms Monthly Subscription: You + 2 Friends": "3,99 €",
+            "Minecraft Store Item 4": "3,99 €",
+            "Minecraft Store Item 10": "9,99 €",
+            "Minecraft Store Item 3": "2,99 €",
+            "Minecraft Store Item 5": "5,99 €",
+            "Minecraft Store Item 8": "8,99 €",
+            "Marketplace Pass Trial": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793130591753,
@@ -27352,6 +27418,21 @@
       "Pacote de Prestígio ótimo": "19,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793146065483,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Pacote de Prestígio pequeno": "1,99 €",
+            "Pacote de Prestígio médio": "8,99 €",
+            "Aceleração Ilimitada!": "3,99 €",
+            "O dobro de XP, sem limites!": "3,99 €",
+            "Pacote final Prestige": "39,99 €",
+            "Pacote de Prestígio ótimo": "19,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792020712402,
@@ -52532,6 +52613,25 @@
       "Skywarden Unlock Pack": "8,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793146065483,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Oferta de Pilha de Dinheiro": "3,49 €",
+            "Liberar Torre Totalmente": "5,99 €",
+            "Dinheiro de Macaco": "2,49 €",
+            "XP de Torre": "1,19 €",
+            "Pilha de Dinheiro de Macaco": "5,99 €",
+            "Dinheiro de Macaco Extra": "1,99 €",
+            "Oferta de Cofre de Dinheiro": "14,99 €",
+            "Cofre de Dinheiro de Macaco": "23,99 €",
+            "Liberar Excelência": "5,99 €",
+            "10 Pontos de Conhecimento": "8,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792914758864,
@@ -83901,6 +84001,14 @@
     "history": [
       [
         {
+          "timestamp": 1793146065483,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792020712402,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -99488,6 +99596,25 @@
     "history": [
       [
         {
+          "timestamp": 1793146065483,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Content Bundle 1": "9,99 €",
+            "Getaway Car Pack": "2,99 €",
+            "Modified Monsters Car Pack": "2,99 €",
+            "Racing Heroes Car Pack": "2,99 €",
+            "Content Bundle 2": "7,99 €",
+            "Steel & Wheels Pack": "1,99 €",
+            "Reckless Car Pack": "2,99 €",
+            "Rusty Rats Car Pack": "2,99 €",
+            "Off-Road Car Pack": "2,99 €",
+            "Goofy Roofs Pack": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792221339483,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -103213,6 +103340,20 @@
       "300 Stellar Gems": "2,95 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793146065483,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "510 Stellar Gems": "4,99 €",
+            "1030 Stellar Gems": "9,99 €",
+            "2080 Stellar Gems": "19,99 €",
+            "100 Stellar Gems": "0,99 €",
+            "300 Stellar Gems": "2,95 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787706883067,
@@ -107185,6 +107326,14 @@
     "history": [
       [
         {
+          "timestamp": 1793146065483,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792020712402,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -110474,12 +110623,25 @@
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "1,99 €",
-      "200,000 x Coins": "9,99 €",
-      "80,000 x Coins": "5,99 €",
-      "40,000 x Coins": "2,99 €",
-      "10,000 x Coins": "0,99 €"
+      "200,000 x Coins": "7,99 €",
+      "80,000 x Coins": "3,99 €",
+      "40,000 x Coins": "1,99 €",
+      "10,000 x Coins": "0,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793146065483,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "200,000 x Coins": "7,99 €",
+            "80,000 x Coins": "3,99 €",
+            "40,000 x Coins": "1,99 €",
+            "10,000 x Coins": "0,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793051997931,
@@ -123953,6 +124115,17 @@
     "history": [
       [
         {
+          "timestamp": 1793146065483,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Supporter Pack": "0,99 €",
+            "The Boglands DLC": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789081003914,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -136887,6 +137060,14 @@
     "history": [
       [
         {
+          "timestamp": 1793146065483,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792020712402,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -139823,7 +140004,8 @@
       "LOW POLY CALICO": "1,99 €",
       "LOW POLY RED": "1,99 €",
       "LOW POLY BLACK": "1,99 €",
-      "LOW POLY GRAY": "1,99 €"
+      "LOW POLY GRAY": "1,99 €",
+      "HOLOGRAPHIC GHOST": "1,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -139837,9 +140019,29 @@
       "LOW POLY CALICO": "1,99 €",
       "LOW POLY RED": "1,99 €",
       "LOW POLY BLACK": "1,99 €",
-      "LOW POLY GRAY": "1,99 €"
+      "LOW POLY GRAY": "1,99 €",
+      "HOLOGRAPHIC GHOST": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793146065483,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "HOLOGRAPHIC GHOST": "1,99 €",
+            "WIREFRAME RAINBOW": "0,99 €",
+            "WIREFRAME RED": "0,99 €",
+            "WIREFRAME BLACK": "0,99 €",
+            "WIREFRAME WHITE": "0,99 €",
+            "LOW POLY BLUE": "1,99 €",
+            "LOW POLY PINK": "1,99 €",
+            "LOW POLY CALICO": "1,99 €",
+            "LOW POLY RED": "1,99 €",
+            "LOW POLY BLACK": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1773917518691,
@@ -144642,6 +144844,14 @@
     "history": [
       [
         {
+          "timestamp": 1793146065483,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787274850915,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -149260,8 +149470,8 @@
       "Herói · Elowyn Briar": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €",
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
       "Support Tier 1 · Supporter": "0,49 €",
       "Hero · Aldric Halvren": "0,99 €",
       "Support Tier 3 · Benefactor": "7,99 €",
@@ -149278,6 +149488,25 @@
       "Herói · Elowyn Briar": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793146065483,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Fantasia · Pacote Halloween 3": "2,99 €",
+            "Fantasia · Pacote Halloween 2": "2,99 €",
+            "Fantasia · Pacote Halloween 1": "2,99 €",
+            "Herói · Elowyn Briar": "0,99 €",
+            "Hero · Rosel Ironbloom": "0,99 €",
+            "Hero · Sargul Krach": "0,99 €",
+            "Hero · Fine Kaltenbach": "0,99 €",
+            "Hero · Irena von Strahl": "0,99 €",
+            "Support Tier 1 · Supporter": "0,49 €",
+            "Hero · Aldric Halvren": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792781222157,
@@ -151078,6 +151307,27 @@
           "timestamp": 1793113178688,
           "price": 2.99,
           "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6766557247": {
+    "name": "Sky Routes: Companhia aérea",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793146065483,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]

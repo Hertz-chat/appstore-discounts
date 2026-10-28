@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2026-10-27T21:22:11.497Z</updated>
+    <updated>2026-10-28T01:48:20.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-27T21:22:11.497Z</updated>
+        <updated>2026-10-28T01:48:20.015Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrTue, 27 Oct 2026 21:22:11 GMT</id>
+        <id>rankingtrWed, 28 Oct 2026 01:48:20 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-27T21:22:11.497Z</updated>
+        <updated>2026-10-28T01:48:20.019Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -51,13 +51,13 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>2381</b>
+        <b>2383</b>
       </td>
       <td>
         <b>204</b>
       </td>
       <td>
-        <b>2177</b>
+        <b>2179</b>
       </td>
       <td>
         <b>107</b>
@@ -68,13 +68,13 @@ feedId:157008924688563200+userId:73658201673997312
         <b>TR</b>
       </td>
       <td>
-        <b>2214</b>
+        <b>2216</b>
       </td>
       <td>
         <b>174</b>
       </td>
       <td>
-        <b>2040</b>
+        <b>2042</b>
       </td>
       <td>
         <b>91</b>
@@ -2235,6 +2235,40 @@ feedId:157008924688563200+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>120</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/tr/6749406060?lang=en">Subnautica: Below Zero</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>121</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/tr/6504841512?lang=en">Halls of Torment: Premium</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -3066,6 +3100,121 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subnautica: Below Zero]]></title>
+        <id>Subnautica: Below Zero-tr-1793146065483</id>
+        <link href="https://appstore-discounts.eyelly.me/tr/6749406060?lang=en"/>
+        <updated>2026-10-28T00:07:45.483Z</updated>
+        <summary type="html"><![CDATA[Price: ₺499,99 → ₺399,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/6749406060?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/e8/6e/92e86ead-3282-eb59-1c1d-a3ca7e6d5590/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺499,99</span> → <b>
+  <strong>₺399,99</strong>
+</b><span>[₺199,99 ~ ₺499,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺399,99</b>
+</p><h2>Application Description</h2><p>
+  *Please make sure your device is supported before purchasing Below Zero!*
+
+Below Zero is the next chapter of Subnautica, the underwater survival open world set on an alien ocean planet.
+Submerge yourself in an all-new, sub-zero expedition in an arctic region of Planet 4546B. After crash landing planetside, set out into frigid waters to investigate what happened to your sister...
+Discover new biomes, creatures, challenges and story! Below Zero expands the Subnautica universe, diving deeper into the adventure and mysteries introduced in the original game.
+
+FEATURES
+
+UNCOVER THE TRUTH - Who were the aliens who came here before? Why were they on this planet? What really happened to your sister? And will exposing the truth give some closure to your loss?
+
+SURVIVE THE COLD - The freezing temperatures of this arctic region pose a new challenge. Craft a toasty cold suit, sip on piping hot coffee, and warm up next to Thermal Lilies to stave off the chill.
+
+CRAFT YOUR WAY - Survive the harsh climate by constructing extensive habitats, scavenging for resources, and crafting equipment. Blast across the snowy tundra on a Snowfox hoverbike. Cruise through enchanting and perilous biomes in your modular Seatruck.
+
+EXPLORE THE PLANET - Swim beneath the blue-lit, arching expanses of Twisty Bridges, be mesmerized by the Crystal Caverns, venture into the icy caves of Glacial Basin or maneuver between erupting Thermal Vents to discover ancient alien artifacts.
+
+MEET NEW CREATURES - Something undiscovered lurks around every corner. Swim through the giant Titan Holefish, encounter the haunting Shadow Leviathan, and visit the adorable Pengwings. Keep your wits about you. Not all creatures in this strange world are friendly.
+
+CAREFULLY REDESIGNED FOR MOBILE
+
+- Revamped interface – exclusive mobile UI with complete touch control
+- Game Center achievements
+- Cloud Save – Share your progress between iOS devices
+- iPhone 17 Optimization (including Pro Max)
+
+-----
+
+*DEVICES NOT SUPPORTED (THE GAME WON'T WORK)*: 
+- iPhone Xr, iPhone SE Gen 2 (2020)
+- iPad Mini Gen 5, iPad Air Gen 3, iPad Gen 8, iPad Gen 9
+
+*SUPPORTED DEVICES ON LOW RESOLUTION ONLY*: 
+- iPhone Xs, iPhone Xs Max, iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max, iPhone 12, iPhone 12 Mini, iPhone 13, iPhone 13 Mini, iPhone SE Gen 3 (2022) 
+- iPad Pro 10.5", iPad Mini Gen 6, iPad Air Gen 4, iPad Gen 10, iPad Pro 11" Gen 1, iPad Pro 12.9" Gen 3
+
+*SUPPORTED DEVICES* : 
+- iPhone 12 Pro, iPhone 12 Pro Max, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 14 AND ABOVE  
+- iPad Pro 11" Gen 2, iPad Pro 12.9" Gen 4, iPad Air Gen 5, iPad Pro 11" Gen 3, iPad Pro 11" Gen 4, iPad Pro 12.9" Gen 5, iPad Pro 12.9" Gen 6 AND ABOVE
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/30/79/1930799e-f0c0-d927-124b-ac5c11519a2c/6.9-BZ-Screenshot-1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/2e/62/f82e62e6-d713-5de8-bc43-133a94ae8136/6.9-BZ-Screenshot-2.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/2c/3f/2b2c3f47-0042-c2b2-a86a-51500c1010e4/6.9-BZ-Screenshot-3.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/23/2e/b8232e7f-724a-401d-bdc3-53b8ee64ba8d/6.9-BZ-Screenshot-4.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/53/13/6753132c-9c3c-5fea-72ab-aca2d16ed4cf/6.9-BZ-Screenshot-5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/24/1b/d9241b90-5fc3-827f-6c0c-99ac99e14c1a/6.9-BZ-Screenshot-6.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/4f/bd/f74fbda8-622d-e238-8727-389d7b9e3fe0/6.9-BZ-Screenshot-8.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/c5/59/40c5590a-a417-97b4-9277-5b6ef1a457c4/6.9-BZ-Screenshot-9.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/38/a5/8538a5e8-65c4-e5fc-05c7-3bdee7c41c3d/13-BZ-Screenshot-1.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/84/4e/5e844e17-8124-25ca-2b26-5ec0a70d702a/13-BZ-Screenshot-2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/50/f8/1650f8b8-c83e-2a1a-a3c4-c4de1722b9ad/13-BZ-Screenshot-3.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/58/4f/eb584f8a-9d7f-5687-d800-bbaa400544c9/13-BZ-Screenshot-4.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/33/9f/3f339fb7-9a5e-210c-623b-f92950748daf/13-BZ-Screenshot-5.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/ff/e9/9cffe99d-5ddf-121c-12d7-b7dbef227a89/13-BZ-Screenshot-6.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/4e/39/da4e3925-9bcb-d5ca-4e2a-4a237502b7c7/13-BZ-Screenshot-8.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/f9/4d/eff94da2-51cb-ff40-2698-10fe7b867d86/13-BZ-Screenshot-9.png/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Halls of Torment: Premium]]></title>
+        <id>Halls of Torment: Premium-tr-1793146065483</id>
+        <link href="https://appstore-discounts.eyelly.me/tr/6504841512?lang=en"/>
+        <updated>2026-10-28T00:07:45.483Z</updated>
+        <summary type="html"><![CDATA[Price: ₺249,99 → ₺149,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/6504841512?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/e0/5a/6fe05a09-dd4a-c04d-f1d7-6fa278111f59/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺249,99</span> → <b>
+  <strong>₺149,99</strong>
+</b><span>[₺129,99 ~ ₺249,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺149,99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Supporter Pack：<b>₺49,99</b>
+  </li><li>
+    The Boglands DLC：<b>₺149,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Halls of Torment is a horde survival game with a pre-rendered retro look reminiscent of RPGs from the late 90s. Choose one of many hero characters and descend into the deadly Halls of Torment. Fight unholy horrors from beyond and survive wave after wave of enemies until you face one of the tormented Lords. 
+
+Strengthen your hero with character traits, abilities, and items. Create a new powerful build during each run. Explore various underground expanses and find new powerful items that enable you to venture even deeper into the abyss.
+
+First available on Steam, the 90's-style RPG survival roguelike, Halls of Torment, is now making its debut on mobile!
+
+【Features】
+◆ Quick and casual 30 minute runs
+◆ Old school pre-rendered art style
+◆ Quest-based meta progression
+◆ Large selection of diverse abilities, traits, and items, all enabling you to create interesting synergies
+◆ Diverse bosses featuring unique mechanics and attack patterns
+◆ Several distinct characters allowing for many different play styles
+◆ Unlock and explore multiple interesting and challenging underground worlds
+◆ Unique items can be sent up to the overworld and used to customize future runs
+◆ Craft magical tinctures to direct fate in your favor
+◆ Unlock the power of each class and combine them with your chosen character
+◆ Find rare item variants to further improve your builds
+
+【Full Content List】
+◆6 stages with unique environments
+◆13 playable characters & character marks
+◆20+ blessings that make you stronger for each run
+◆80+ unique items to retrieve and unlock
+◆240 higher rarity item variants
+◆80+ abilities and ability upgrades
+◆40+ artifacts to customize your game experience
+◆35+ unique bosses
+◆70+ unique monsters
+◆500 quests to complete
+◆1000+ traits that upgrade characters and abilities
+
+Our content list is still growing, expect more in the future! 
+
+【Contact Us】
+Discord: @Erabit or join via https://discord.gg/Gkje2gzCqB
+Email: prglobal@erabitstudios.com
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/a4/f2/caa4f225-ab29-7e14-7975-1a1e2cbebe94/5be882ec-dab1-41d9-a185-c51bdc64a45e_1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/69/f5/ed69f583-6fc8-9ef8-5c51-1f85b6f6bfe0/02d254e9-41bd-4159-94ac-90a18a41a86d_2.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/53/c5/0e53c579-a7e6-9a8c-dc95-69b9270eb5c2/a7dea4cd-1e62-44bf-8a6a-b305e2dcf678_3.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/3f/0b/ba3f0bb1-2973-cd32-31b4-19892b3b03e0/fc1a57c2-0f6e-4330-9635-bbb06e774306_4.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bb/b5/bc/bbb5bc07-4ef6-0c10-f759-82c178a51a0f/ee697d2d-7993-4b08-9cc2-3e10b38f76ff_5.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/f4/37/28f4372f-9cda-6fe1-e53d-41072ac748be/2359d80e-1c93-497d-a73e-64fd2a016ee5_6.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/ce/5d/c3ce5d52-8d87-3b3a-b326-638d307691e8/77297c24-e9c1-46f0-b0ac-87b2dc3e69fe_7.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/88/7c/cd887c06-c1d5-7b52-5b19-c6e83157610b/073aed3a-0854-45b8-972a-6c114d58d512_8.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/0d/88/f60d88b0-6323-ba03-b4e3-a5348733b98f/278191d1-33d0-4829-9d11-5784d0b39c6e_1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/28/10/ec2810cd-f6c4-5f46-1b79-47cb50a2a060/352a91ac-d3f2-438f-889c-dabc30b304d1_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/84/76/0b8476a5-5fe2-2613-fd48-23958df7d94e/0c8878f7-63af-49e0-9fab-47e6cd284d45_3.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/53/69/c2536926-e493-cc95-8cd8-6421a016ac04/07c70b83-eb7a-4bf8-aec5-c7f59d7f212b_4.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/60/3a/a1603a59-7320-4547-f1a3-0c022371c934/3778331d-7ba1-4ab2-a20f-fd2acf09d4ff_5.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/d8/70/25d87047-b50c-e265-be35-d93c0a565edd/f90446c3-55b0-4759-a9a6-ac148e05387c_6.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/b4/1f/c5b41fe3-7759-240f-a9e6-1a99c1fc9279/ceecab06-3339-437c-b08b-8dee18a7859a_7.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/23/7e/a6237e53-7272-bef2-3a93-2547989ab02f/afd024e0-f468-4184-83ab-8cbcd5c0be79_8.jpg/552x414bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Skyship Quest Story]]></title>
@@ -3908,81 +4057,5 @@ FEATURES
 - Eight languages
 - Paid once. No ads, no in-app purchases, fully offline
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/a8/49/87a84982-f922-f256-c18d-6e7e733921e8/screenshot_1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/77/68/257768ff-4c88-a508-a5d9-e1722ecf3031/screenshot_2.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/1b/bb/5f1bbb5d-d898-3213-108e-69b823e494f4/screenshot_3.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/92/b1/e792b115-f830-56ef-03b4-7339268ca20f/screenshot_4.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/9c/8e/fc9c8e48-edcc-9a53-089f-3c9418369dc5/screenshot_5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/94/1d/0b941dd8-74cd-539b-9251-d23a40e18b01/screenshot_6.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/ad/4d/f5ad4dd6-a732-fc44-c329-063e73b8a7f9/screenshot_7.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/58/62/8258627c-5736-9ba2-00f7-ba49dcad7453/screenshot_8.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/e0/fa/e7e0facd-8c68-dba0-4639-9637b20de0c0/screenshot_1.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/4c/5c/6d4c5cec-c393-d38c-fc27-36d30779ea02/screenshot_2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/f4/cc/4cf4cc98-a321-2914-14da-c945f78ce643/screenshot_3.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/1b/02/4f1b02f8-8d5a-3c87-bea4-00dd08d59f0b/screenshot_4.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/5e/d8/305ed879-9344-ae4b-1b79-e94bc4324fa4/screenshot_5.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/ea/92/72ea92b5-f8b6-769c-de90-9fc80eb682dc/screenshot_6.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/76/e3/0076e3be-7870-ff7d-2b18-a163d7f07fa9/screenshot_7.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/c2/7e/8ac27e4a-4405-99fa-9820-7a8f9f5ca3bc/screenshot_8.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20 Minutes Till Dawn:Premium]]></title>
-        <id>20 Minutes Till Dawn:Premium-tr-1792881993930</id>
-        <link href="https://appstore-discounts.eyelly.me/tr/1630887189?lang=en"/>
-        <updated>2026-10-24T22:46:33.930Z</updated>
-        <summary type="html"><![CDATA[Price: ₺249,99 → ₺199,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/1630887189?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/81/2d/1c812d6f-3f5c-8d8b-476e-a6807e67b67f/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺249,99</span> → <b>
-  <strong>₺199,99</strong>
-</b><span>[₺99,99 ~ ₺249,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>₺199,99</b>
-</p><h2>Application Description</h2><p>
-  Survive the onslaught of an endless horde of monsters for 20 minutes!
-
-20 Minutes Till Dawn is a roguelike, shoot'em up where you mow down endless hordes of monstrous baddies.
-
-【Unique Builds Every Run】
-In this roguelite survival game, select from a variety of upgrades to create a unique and overpowered builds every run. You can be a fire wizard, for example, and ignite monsters with every pump of your shotgun, or an agile ninja who controls magic knives to pierce your enemies.
-
-【Select Your Hero】
-Choose from a diverse selection of characters and weapons that offer a variety of gameplay experiences.
-
-【Features】
-*Over 80 different upgrades to choose from for a unique experience every run!
-*Wide cast of characters, with more to come post-launch.
-*Casual quick 10-20 minute play sessions, for busy gamers.
-*Rune System helps you become stronger
-
-【Contact Us】
-Discord: https://discord.gg/efTYchSsHZ
-Facebook: https://www.facebook.com/Erabitstudios
-Twitter: https://twitter.com/erabit_studios
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/d2/46/bcd24672-64f3-2174-fbf9-432cd66edcf2/91d7bbdd-947f-4a15-b3b6-109ffd7673da_1.1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/22/da/8e22da30-8c3f-2ea4-6f6b-1defeb617380/a67710fd-de1c-4f5d-91c3-aa010203a573_4.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/b0/f6/2bb0f6f1-1770-ace9-2ab2-140488aff362/627188cd-f7f8-41b0-baf4-82a07f378211_3.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/f6/13/65f61393-31cb-c4c2-401f-5346b989a49a/8c1b4c61-2b26-4a8b-bdd7-364d93a13f6e_2.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/f6/45/13f645b1-31ea-08ff-9978-ca9c01cc01cb/31a1586d-f28c-40d6-a60e-e2a635f1f710_5.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/75/25/1e7525d0-80ab-77d9-e6eb-17542bfd102c/87cb910c-8b71-4e61-993d-0430b213d5cc_ef6cf8663bf57ee1ef6ac833631d1102.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/68/75/19687572-afb7-eda1-8e01-6df7e32db59c/a0bab70a-3844-4198-9ba2-4aaba145e5b5_993c12b0891e5c3784383b8344551597.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/86/81/16868104-86df-33f1-d145-461fa1ae33af/d71b6d2a-4f47-4a1a-b2e6-0e29591ab41a_ffd3e804671b4d6e79f81ad3c61211b9.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/cf/3f/6fcf3fc3-6064-90e1-0bbf-7be7b181a339/ae53dafb-2ab0-49b4-8d9f-19db3b9382a5_1.1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/5f/3f/3f5f3f31-0d82-5855-a216-4fd1757d4fd7/b2523420-8b74-4fc4-a1f2-2535d20adf3f_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/18/48/3a184832-7f11-b2b0-af1e-608cf24bf594/d59cce1a-86b5-4d85-baa3-c1fbf242b146_5.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/92/f0/fc92f052-6027-09ea-eedb-0e50d77334b1/2eabaf7a-b359-4f8d-8a53-874908144138_4.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/89/b3/c389b341-f49d-3451-6553-74c035d0a7ee/149703e7-3a58-4c17-a450-16380af413ff_3.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/63/61/75636121-8cab-b369-6f63-5478929b3d46/1abbb6c4-e43a-468e-90f6-7b3d3ce3206e_2d8bd44768e5096917b1ee5472a23779.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/8c/39/b48c39df-5aa9-f38a-6e17-40c50e3d1b3b/43e8352e-fd7b-4261-bedf-5a37a7bfc159_ef6cf8663bf57ee1ef6ac833631d1102.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vault of the Void]]></title>
-        <id>Vault of the Void-tr-1792881993930</id>
-        <link href="https://appstore-discounts.eyelly.me/tr/6477535804?lang=en"/>
-        <updated>2026-10-24T22:46:33.930Z</updated>
-        <summary type="html"><![CDATA[Price: ₺399,99 → ₺149,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/6477535804?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/3b/46/da3b46e4-a919-2059-4b11-2fddcbc23b66/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺399,99</span> → <b>
-  <strong>₺149,99</strong>
-</b><span>[₺149,99 ~ ₺399,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>₺149,99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    The Weaver：<b>₺149,99</b>
-  </li><li>
-    Developer Supporter Pack：<b>₺149,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Craft and plan your strategy with Vault of the Void's dynamic deckbuilding!
-
-PC/Mobile Cross Save live now!
-
-Vault of the Void is a single-player, low-RNG roguelike deckbuilder designed to put the power into your hands. Continuously build, transform and iterate on your deck as you progress through your run - or even before each battle, with a fixed deck size of 20 cards required before each fight.
-
-Preview which enemies you’ll be battling before each encounter, giving you a chance to carefully plan your strategy. With no random events, your success is in your hands - and your creativity and skill define your chances of victory!
-
-FEATURES
-- Choose from 4 different classes, each one with a completely different playstyle!
-- Constantly iterate on your deck with 440+ different cards!
-- Battle 90+ fearsome monsters as you make your way to The Void.
-- Change up your playstyle with 320+ Artifacts.
-- Infuse your cards with different Void Stones - leading to endless combinations!
-- PC/Mobile Crossplay: pick up where you left off at any time!
-- A roguelike CCG where the power’s in your hands, and without RNG.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/cf/be/76cfbe09-5e8e-606d-e745-196ffb1d9c1c/cada9048-1c12-41da-873c-e2108e6eb75b_1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/64/59/e9645942-5383-cb3c-0908-4cb7910274b9/acb8ce83-6a39-411c-976e-eb900061a5ba_3.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/53/54/605354fa-8347-5afd-ecea-a64d118bebe6/931b9d08-9b70-492b-afb7-eb55e10a9965_2.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/63/a4/af63a442-f7f3-3f20-0405-14d7d8190894/0fe6e110-6800-4108-87b4-2a0778903127_4.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/10/91/941091df-a832-6f96-b4f8-1f3d196b3640/8e27fd1d-7f68-4ac6-8985-51b739d37d39_5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/aa/45/dbaa458a-c6ec-9096-b458-abee31ccf6a9/5edcf6df-2e80-4091-ac01-23bea1919dda_6.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/4d/ff/494dff2b-2adf-a675-3423-3a48328384aa/7b6766cc-6bb3-428f-a554-72e53128080b_1.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/d9/49/b1d94991-f289-5b4b-e05b-9ba04891c20d/47cd851c-47cc-4f65-ae8c-dca80b1b2f84_2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/9a/6c/e99a6cb2-f546-bac8-c4c2-c48df5395d8d/f8df921e-dc4d-47b8-8a6b-dd7400361f87_3.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/24/bb/2224bbb9-6eb3-8e04-1f2d-efe84747ef7b/a07f4f3c-8531-4497-a7ab-15340893a703_4.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/c0/e1/04c0e11d-c674-bbbf-8ed8-5fb4ecefc9bd/72050922-286d-460a-aead-c29bf0da295e_5.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/75/a2/1075a286-cb8a-86b4-590a-2ab4e54b9014/8999e466-340e-4b66-ba60-2ef08a1c017d_6.png/360x480bb.jpg" />]]></content>
     </entry>
 </feed>

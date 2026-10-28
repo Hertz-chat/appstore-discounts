@@ -18232,6 +18232,36 @@
       ]
     ]
   },
+  "447149103": {
+    "trackId": 447149103,
+    "trackName": "Reckless Getaway",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "Jungle Madness!": "USD 0.99",
+      "The Master Key!": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "Jungle Madness!": "USD 0.99",
+      "The Master Key!": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793146065483,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Jungle Madness!": "USD 0.99",
+            "The Master Key!": "USD 0.99"
+          }
+        }
+      ]
+    ]
+  },
   "449735650": {
     "trackId": 449735650,
     "trackName": "鱷魚小頑皮愛洗澡",
@@ -220723,6 +220753,29 @@
           "timestamp": 1793113178688,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6766557247": {
+    "trackId": 6766557247,
+    "trackName": "Sky Routes: 航空公司經營",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793146065483,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
         }
       ]

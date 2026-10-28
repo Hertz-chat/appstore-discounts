@@ -2387,6 +2387,18 @@
     "firstRecordedAt": 1756674592647
   },
   {
+    "trackId": 447149103,
+    "region": "us",
+    "timestamp": 1793146065483,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id447149103",
+    "trackName": "Reckless Getaway",
+    "firstRecordedAt": 1793146065483
+  },
+  {
     "trackId": 449735650,
     "region": "us",
     "timestamp": 1789529534995,
@@ -15131,7 +15143,7 @@
   {
     "trackId": 1550721625,
     "region": "us",
-    "timestamp": 1792695331117,
+    "timestamp": 1793146065483,
     "discounts": [],
     "price": 15.99,
     "formattedPrice": "$15.99",
@@ -19067,7 +19079,7 @@
   {
     "trackId": 6462360082,
     "region": "us",
-    "timestamp": 1793130591753,
+    "timestamp": 1793146065483,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -25381,6 +25393,18 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id6766166468",
     "trackName": "Real Sensi FF - PRO",
     "firstRecordedAt": 1779006546104
+  },
+  {
+    "trackId": 6766557247,
+    "region": "us",
+    "timestamp": 1793146065483,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6766557247",
+    "trackName": "Sky Routes",
+    "firstRecordedAt": 1793146065483
   },
   {
     "trackId": 6766948602,

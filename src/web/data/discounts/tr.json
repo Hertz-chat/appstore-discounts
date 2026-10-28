@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6504841512,
+    "region": "tr",
+    "timestamp": 1793146065483,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺149,99",
+        "range": "[₺129,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6504841512",
+    "trackName": "Halls of Torment: Premium",
+    "firstRecordedAt": 1745334141417
+  },
+  {
+    "trackId": 6749406060,
+    "region": "tr",
+    "timestamp": 1793146065483,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺499,99",
+        "to": "₺399,99",
+        "range": "[₺199,99 ~ ₺499,99]"
+      }
+    ],
+    "price": 399.99,
+    "formattedPrice": "₺399,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6749406060",
+    "trackName": "Subnautica: Below Zero",
+    "firstRecordedAt": 1779650230794
+  },
+  {
     "trackId": 1465870866,
     "region": "tr",
     "timestamp": 1793130591753,

@@ -24086,6 +24086,36 @@
       ]
     ]
   },
+  "447149103": {
+    "trackId": 447149103,
+    "trackName": "Reckless Getaway",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "Jungle Madness!": "$30.00",
+      "The Master Key!": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "Jungle Madness!": "$30.00",
+      "The Master Key!": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793146065483,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Jungle Madness!": "$30.00",
+            "The Master Key!": "$30.00"
+          }
+        }
+      ]
+    ]
+  },
   "449735650": {
     "trackId": 449735650,
     "trackName": "鱷魚小頑皮愛洗澡",
@@ -119962,6 +119992,25 @@
       "喚生石8400個": "$790.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793146065483,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "功能禮包": "$120.00",
+            "綜合禮包": "$490.00",
+            "自動禮包": "$490.00",
+            "戒指禮包": "$790.00",
+            "寶石300個": "$120.00",
+            "魔法禮包": "$290.00",
+            "寶石180個": "$90.00",
+            "寶石660個": "$290.00",
+            "魅魔禮包": "$1,290.00",
+            "屬性禮包": "$490.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792266405252,
@@ -219998,6 +220047,23 @@
     "history": [
       [
         {
+          "timestamp": 1793146065483,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "All Unit Groups": "$390.00",
+            "All Heroes": "$490.00",
+            "Hero Dragon Kosmos": "$220.00",
+            "Starter Pack": "$150.00",
+            "Unit Group Jaegers": "$220.00",
+            "Special Daily Pack20": "$90.00",
+            "Special Daily Pack7": "$60.00",
+            "Hero Red Dragon On Sale": "$120.00",
+            "Unit Group Rebooted Ascendii": "$90.00",
+            "Hero Red Dragon": "$190.00"
+          }
+        },
+        {
           "timestamp": 1793130591753,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -289813,6 +289879,24 @@
     "history": [
       [
         {
+          "timestamp": 1793146065483,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "3.99美元商品2": "$120.00",
+            "12.99美元商品2": "$390.00",
+            "0.99美元商品": "$30.00",
+            "99.99美元商品": "$2,990.00",
+            "19.99美元商品": "$690.00",
+            "49.99美元商品": "$1,490.00",
+            "12.99美元商品": "$390.00",
+            "14.99美元商品": "$490.00",
+            "29.99美元商品": "$990.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793051997931,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -323431,6 +323515,25 @@
     "history": [
       [
         {
+          "timestamp": 1793146065483,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "全英雄禮包": "$790.00",
+            "全法術禮包": "$390.00",
+            "英雄 阿什彼特": "$220.00",
+            "全塔禮包": "$690.00",
+            "全塔禮包_B": "$490.00",
+            "英雄 德拉坎": "$220.00",
+            "塔 奧術鍛造匠": "$150.00",
+            "英雄 伊格納斯": "$90.00",
+            "塔 野貓女獵手": "$150.00",
+            "塔 鍊金術師小屋": "$90.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793089647083,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -325771,6 +325874,29 @@
           "timestamp": 1793113178688,
           "price": 90,
           "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6766557247": {
+    "trackId": 6766557247,
+    "trackName": "Sky Routes: 航空公司經營",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793146065483,
+          "price": 30,
+          "formattedPrice": "$30.00",
           "inAppPurchases": {}
         }
       ]

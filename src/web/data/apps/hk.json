@@ -2339,6 +2339,18 @@
     "firstRecordedAt": 1756674592647
   },
   {
+    "trackId": 447149103,
+    "region": "hk",
+    "timestamp": 1793146065483,
+    "discounts": [],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id447149103",
+    "trackName": "Reckless Getaway",
+    "firstRecordedAt": 1793146065483
+  },
+  {
     "trackId": 449735650,
     "region": "hk",
     "timestamp": 1783202313715,
@@ -9244,10 +9256,10 @@
   {
     "trackId": 1164801111,
     "region": "hk",
-    "timestamp": 1737730943198,
+    "timestamp": 1793146065483,
     "discounts": [],
-    "price": 58,
-    "formattedPrice": "HK$ 58.00",
+    "price": 68,
+    "formattedPrice": "HK$ 68.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id1164801111",
     "trackName": "AutoSleep – 在手錶上追蹤睡眠",
@@ -13930,10 +13942,10 @@
   {
     "trackId": 1504000687,
     "region": "hk",
-    "timestamp": 1792375600089,
+    "timestamp": 1793146065483,
     "discounts": [],
-    "price": 3,
-    "formattedPrice": "HK$ 3.00",
+    "price": 4,
+    "formattedPrice": "HK$ 4.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id1504000687",
     "trackName": "雙人遊戲 2 Player Offline Games",
@@ -22245,7 +22257,7 @@
   {
     "trackId": 6743459503,
     "region": "hk",
-    "timestamp": 1792656146968,
+    "timestamp": 1793146065483,
     "discounts": [],
     "price": 48,
     "formattedPrice": "HK$ 48.00",
@@ -25702,6 +25714,18 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id6766166468",
     "trackName": "Real Sensi FF - PRO",
     "firstRecordedAt": 1779006546104
+  },
+  {
+    "trackId": 6766557247,
+    "region": "hk",
+    "timestamp": 1793146065483,
+    "discounts": [],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6766557247",
+    "trackName": "Sky Routes: 航空公司經營",
+    "firstRecordedAt": 1793146065483
   },
   {
     "trackId": 6766948602,

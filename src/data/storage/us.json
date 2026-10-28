@@ -29852,6 +29852,34 @@
       ]
     ]
   },
+  "447149103": {
+    "name": "Reckless Getaway",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "Jungle Madness!": "$0.99",
+      "The Master Key!": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "Jungle Madness!": "$0.99",
+      "The Master Key!": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793146065483,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Jungle Madness!": "$0.99",
+            "The Master Key!": "$0.99"
+          }
+        }
+      ]
+    ]
+  },
   "449735650": {
     "name": "Where's My Water?",
     "maxPriceInfo": {
@@ -216154,6 +216182,25 @@
     "history": [
       [
         {
+          "timestamp": 1793146065483,
+          "price": 15.99,
+          "formattedPrice": "$15.99",
+          "inAppPurchases": {
+            "Major Jazz Blues 12 key": "$4.99",
+            "Swing Ⅱ-V-I-VI 12key (Short)": "$4.99",
+            "Swing Ⅱ-V-I-VI 12key (Long)": "$4.99",
+            "Bossa Nova Blues 12key": "$2.99",
+            "Slow Funky Groove 12key": "$4.99",
+            "Neo Soul Jam Track 12key": "$4.99",
+            "Ⅱ-Ⅴ Reharmonization 12key": "$2.99",
+            "So beautiful 12key": "$4.99",
+            "Metheny & Mehldau": "$4.99",
+            "Bird Blues Changes 12key": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792695331117,
           "price": 15.99,
           "formattedPrice": "$15.99",
@@ -268645,6 +268692,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793146065483,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$59.99",
+            "Separate Ways": "$9.99",
+            "Extra DLC Pack": "$19.99",
+            "Weapon Upgrade Ticket x5 (A)": "$9.99",
+            "Attaché Case: 'Gold'": "$0.99",
+            "Weapon Upgrade Ticket x3 (A)": "$6.99",
+            "Charm: 'Handgun Ammo'": "$0.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.99",
+            "Charm: 'Green Herb'": "$0.99",
+            "Attaché Case: 'Classic'": "$0.99"
+          }
+        },
         {
           "timestamp": 1793130591753,
           "price": 0,
@@ -361175,6 +361239,27 @@
           "timestamp": 1793113178688,
           "price": 2.99,
           "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6766557247": {
+    "name": "Sky Routes",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793146065483,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
           "inAppPurchases": {}
         }
       ]

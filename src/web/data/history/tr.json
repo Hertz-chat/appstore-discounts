@@ -27280,6 +27280,36 @@
       ]
     ]
   },
+  "447149103": {
+    "trackId": 447149103,
+    "trackName": "Reckless Getaway",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99",
+      "Jungle Madness!": "₺49,99",
+      "The Master Key!": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99",
+      "Jungle Madness!": "₺49,99",
+      "The Master Key!": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793146065483,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Jungle Madness!": "₺49,99",
+            "The Master Key!": "₺49,99"
+          }
+        }
+      ]
+    ]
+  },
   "449735650": {
     "trackId": 449735650,
     "trackName": "Where's My Water?",
@@ -53147,6 +53177,22 @@
       "Ultimate Prestige Package": "₺619,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793146065483,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Fast forward": "₺69,99",
+            "Small Prestige Pack": "₺29,99",
+            "Medium Prestige Pack": "₺149,99",
+            "XP Buff x2": "₺69,99",
+            "Awesome Prestige Pack": "₺349,99",
+            "Insane Prestige Package": "₺3.999,99",
+            "Ultimate Prestige Package": "₺619,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792020712402,
@@ -184006,6 +184052,14 @@
     "history": [
       [
         {
+          "timestamp": 1793146065483,
+          "price": 139.99,
+          "formattedPrice": "₺139,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792020712402,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -213827,6 +213881,25 @@
     "history": [
       [
         {
+          "timestamp": 1793146065483,
+          "price": 169.99,
+          "formattedPrice": "₺169,99",
+          "inAppPurchases": {
+            "Content Bundle 1": "₺169,99",
+            "Content Bundle 2": "₺139,99",
+            "Getaway Car Pack": "₺49,99",
+            "Modified Monsters Car Pack": "₺49,99",
+            "Steel & Wheels Pack": "₺29,99",
+            "Racing Heroes Car Pack": "₺49,99",
+            "Off-Road Car Pack": "₺49,99",
+            "Rusty Rats Car Pack": "₺49,99",
+            "American All-Stars Car Pack": "₺49,99",
+            "Reckless Car Pack": "₺49,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792240324701,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -220645,6 +220718,20 @@
       "300 Stellar Gems": "₺74,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793146065483,
+          "price": 79.99,
+          "formattedPrice": "₺79,99",
+          "inAppPurchases": {
+            "1030 Stellar Gems": "₺449,99",
+            "510 Stellar Gems": "₺229,99",
+            "100 Stellar Gems": "₺49,99",
+            "300 Stellar Gems": "₺149,99",
+            "2080 Stellar Gems": "₺899,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787706883067,
@@ -228236,6 +228323,14 @@
       "formattedPrice": "₺11,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793146065483,
+          "price": 169.99,
+          "formattedPrice": "₺169,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792020712402,
@@ -245936,6 +246031,25 @@
     "history": [
       [
         {
+          "timestamp": 1793146065483,
+          "price": 229,
+          "formattedPrice": "₺229,00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "₺149,99",
+            "200'000 Coins": "₺49,99",
+            "500'000 Coins": "₺99,99",
+            "Amazone CITAN 15001-C": "₺49,99",
+            "New Holland T8.435 Genesis": "₺99,99",
+            "Krone BiG Pack 1290 HDP VC": "₺49,99",
+            "ClaasLexion8900+ConvioFlex1380": "₺149,99",
+            "Case IH Speed-Tiller": "₺49,99",
+            "KINZE 3665 Blue Drive": "₺49,99",
+            "Versatile 4WD 620": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792881993930,
           "price": 229,
           "formattedPrice": "₺229,00",
@@ -250115,6 +250229,17 @@
       "The Boglands DLC": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793146065483,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "Supporter Pack": "₺49,99",
+            "The Boglands DLC": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789081003914,
@@ -287349,6 +287474,14 @@
     "history": [
       [
         {
+          "timestamp": 1793146065483,
+          "price": 169.99,
+          "formattedPrice": "₺169,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792020712402,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -290428,7 +290561,8 @@
       "LOW POLY RED": "₺99,99",
       "LOW POLY BLACK": "₺99,99",
       "LOW POLY GRAY": "₺99,99",
-      "CALICO RED/WHITE/BLACK": "₺99,99"
+      "CALICO RED/WHITE/BLACK": "₺99,99",
+      "HOLOGRAPHIC GHOST": "₺99,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -290443,9 +290577,29 @@
       "LOW POLY RED": "₺99,99",
       "LOW POLY BLACK": "₺99,99",
       "LOW POLY GRAY": "₺99,99",
-      "CALICO RED/WHITE/BLACK": "₺99,99"
+      "CALICO RED/WHITE/BLACK": "₺99,99",
+      "HOLOGRAPHIC GHOST": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793146065483,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "CALICO RED/WHITE/BLACK": "₺99,99",
+            "HOLOGRAPHIC GHOST": "₺99,99",
+            "WIREFRAME RAINBOW": "₺49,99",
+            "WIREFRAME RED": "₺49,99",
+            "WIREFRAME BLACK": "₺49,99",
+            "WIREFRAME WHITE": "₺49,99",
+            "LOW POLY BLUE": "₺99,99",
+            "LOW POLY PINK": "₺99,99",
+            "LOW POLY CALICO": "₺99,99",
+            "LOW POLY RED": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791718980381,
@@ -295270,6 +295424,14 @@
       "formattedPrice": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793146065483,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787274850915,
@@ -300544,6 +300706,25 @@
     "history": [
       [
         {
+          "timestamp": 1793146065483,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Hero Ashbite": "₺399,99",
+            "Gems Barrel": "₺499,99",
+            "Hero Drakkan": "₺399,99",
+            "Hero Oni": "₺249,99",
+            "Tower Alchemist": "₺149,99",
+            "Hero Ignus": "₺149,99",
+            "Tower Wildcat": "₺249,99",
+            "Spell Aspect of Sol": "₺249,99",
+            "Tower Sniper": "₺299,99",
+            "Tower Forger": "₺249,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793089647083,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -303245,6 +303426,29 @@
           "timestamp": 1793113178688,
           "price": 149.99,
           "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6766557247": {
+    "trackId": 6766557247,
+    "trackName": "Sky Routes",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793146065483,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
           "inAppPurchases": {}
         }
       ]

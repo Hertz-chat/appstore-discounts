@@ -45253,6 +45253,23 @@
     "history": [
       [
         {
+          "timestamp": 1793224661146,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "TRex 700 N": "$2.99",
+            "AH-64 Apache": "$2.99",
+            "A10 Warthog": "$2.99",
+            "Hughes 500": "$2.99",
+            "Bell 222 Airwolf": "$2.99",
+            "TRex 500": "$2.99",
+            "Blast 450 3D": "$2.99",
+            "Bell 47": "$2.99",
+            "F15 Eagle": "$2.99",
+            "Airbus A380 EDF": "$2.99"
+          }
+        },
+        {
           "timestamp": 1793208660555,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -152283,13 +152300,28 @@
     "region": "us",
     "maxPriceInfo": {
       "price": 4.99,
-      "formattedPrice": "$4.99"
+      "formattedPrice": "$4.99",
+      "Paprika 4 Premium (Discount)": "$9.99",
+      "Paprika 4 Premium": "$14.99"
     },
     "minPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "$2.99"
+      "formattedPrice": "$2.99",
+      "Paprika 4 Premium (Discount)": "$9.99",
+      "Paprika 4 Premium": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793224661146,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Paprika 4 Premium (Discount)": "$9.99",
+            "Paprika 4 Premium": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765996921355,
@@ -192954,6 +192986,25 @@
       "大学英语_外刊精读 | 2025年度TOP100精选": "$29.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793224661146,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "大学英语_外刊精读 | 2025年度TOP100精选": "$29.99",
+            "VIP连续包月": "$3.99",
+            "肖维青英文原著精读课-纳尼亚传奇篇": "$29.99",
+            "大学英语_外刊精读 | 2021年度TOP100精选": "$29.99",
+            "大学英语_外刊精读 | 2022年度TOP100精选": "$29.99",
+            "大学英语_外刊精读 | 2024年度TOP100精选": "$29.99",
+            "林小鹿英语精读（1-7季合集升级版）": "$69.99",
+            "大学英语_外刊精读 | 2023年度TOP100精选": "$29.99",
+            "林小鹿经济学人精读": "$19.99",
+            "精听党 | 英语六级真题精品课": "$7.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786388186899,
@@ -356547,6 +356598,23 @@
     "history": [
       [
         {
+          "timestamp": 1793224661146,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "WRC Central European Rally": "$3.99",
+            "ERC Rally di Roma Capitale 2026": "$1.95",
+            "ERC Rally Di Roma Capitale": "$3.95",
+            "ADAC 3 Städte Rallye 2026": "$3.99",
+            "Saaremaa Ralli 2026": "$2.99",
+            "ERC Rally Portugal 2026": "$2.99",
+            "WRC Rally Italia 2026": "$2.99",
+            "SM Porvoon Autopalvelu Ralli 2026": "$2.99",
+            "D1 East Belgian Rally 2026": "$2.99",
+            "Türi rahvaralli 2026": "$2.99"
+          }
+        },
+        {
           "timestamp": 1793208660555,
           "price": 0,
           "formattedPrice": "Free",
@@ -366124,6 +366192,29 @@
           "timestamp": 1793178284917,
           "price": 4.99,
           "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6803329435": {
+    "trackId": 6803329435,
+    "trackName": "Chromagraph Camera",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "$12.99"
+    },
+    "minPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "$12.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793224661146,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
           "inAppPurchases": {}
         }
       ]

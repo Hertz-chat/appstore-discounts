@@ -2,6 +2,13 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6803329435,
+      "name": {
+        "us": "Chromagraph Camera"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 1659211813,
       "name": {
         "mo": "動森圈圈"

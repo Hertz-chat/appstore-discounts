@@ -3246,7 +3246,7 @@
   {
     "trackId": 509223426,
     "region": "us",
-    "timestamp": 1793208660555,
+    "timestamp": 1793224661146,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "$2.99",
@@ -10614,7 +10614,7 @@
   {
     "trackId": 1303222868,
     "region": "us",
-    "timestamp": 1765996921355,
+    "timestamp": 1793224661146,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "$4.99",
@@ -13001,7 +13001,7 @@
   {
     "trackId": 1464850921,
     "region": "us",
-    "timestamp": 1786388186899,
+    "timestamp": 1793224661146,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -19742,7 +19742,7 @@
   {
     "trackId": 6476567182,
     "region": "us",
-    "timestamp": 1793208660555,
+    "timestamp": 1793224661146,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -26332,6 +26332,18 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id6802565793",
     "trackName": "我不想当班主任-班主任工作台&教师工作台&班级管理",
     "firstRecordedAt": 1787761021464
+  },
+  {
+    "trackId": 6803329435,
+    "region": "us",
+    "timestamp": 1793224661146,
+    "discounts": [],
+    "price": 12.99,
+    "formattedPrice": "$12.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6803329435",
+    "trackName": "Chromagraph Camera",
+    "firstRecordedAt": 1793224661146
   },
   {
     "trackId": 6804442508,

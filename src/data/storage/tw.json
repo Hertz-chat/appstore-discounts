@@ -134721,13 +134721,28 @@
     "name": "Paprika Recipe Manager 3",
     "maxPriceInfo": {
       "price": 150,
-      "formattedPrice": "$150.00"
+      "formattedPrice": "$150.00",
+      "Paprika 4 Premium (Discount)": "$320.00",
+      "Paprika 4 Premium": "$490.00"
     },
     "minPriceInfo": {
       "price": 90,
-      "formattedPrice": "$90.00"
+      "formattedPrice": "$90.00",
+      "Paprika 4 Premium (Discount)": "$320.00",
+      "Paprika 4 Premium": "$490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793224661146,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Paprika 4 Premium (Discount)": "$320.00",
+            "Paprika 4 Premium": "$490.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765996921355,
@@ -159736,6 +159751,25 @@
       "禮包1": "$10.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793224661146,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "超值好禮3_648": "$3,290.00",
+            "超值好禮2_648": "$3,290.00",
+            "超值好禮1_648": "$3,290.00",
+            "超值好禮3_328": "$1,690.00",
+            "超值好禮2_328": "$1,690.00",
+            "超值好禮1_328": "$1,690.00",
+            "超值好禮2_198": "$990.00",
+            "超值好禮3_198": "$990.00",
+            "超值好禮1_198": "$990.00",
+            "超值好禮3_128": "$670.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792136164280,
@@ -308617,6 +308651,25 @@
     "history": [
       [
         {
+          "timestamp": 1793224661146,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "GHOST TRANSLUCENT": "$60.00",
+            "GHOST LUMINOUS": "$60.00",
+            "RED-WHITE RYUKIN": "$60.00",
+            "RED RYUKIN": "$60.00",
+            "WHITE KITTY FISH": "$60.00",
+            "BLACK KITTY FISH": "$60.00",
+            "ROBO FISH 02": "$60.00",
+            "GHOST": "$60.00",
+            "ORANGE/WHITE": "$60.00",
+            "PANDA TELESCOPE": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792695331117,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -320735,7 +320788,7 @@
     ]
   },
   "6762412284": {
-    "name": "Days Anchor - Countdown Events",
+    "name": "時光錨點 Days Anchor - 倒數日 紀念日 小工具",
     "maxPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00"
@@ -321695,6 +321748,27 @@
           "timestamp": 1793178284917,
           "price": 150,
           "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6803329435": {
+    "name": "Chromagraph Camera",
+    "maxPriceInfo": {
+      "price": 390,
+      "formattedPrice": "$390.00"
+    },
+    "minPriceInfo": {
+      "price": 390,
+      "formattedPrice": "$390.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793224661146,
+          "price": 390,
+          "formattedPrice": "$390.00",
           "inAppPurchases": {}
         }
       ]

@@ -32806,6 +32806,14 @@
     "history": [
       [
         {
+          "timestamp": 1793224661146,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1767147072737,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -45523,6 +45531,20 @@
     "history": [
       [
         {
+          "timestamp": 1793224661146,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "60,000 Gold": "9,99 €",
+            "25.000 ouro": "4,99 €",
+            "700.000 ouro": "99,99 €",
+            "325.000 ouro": "49,99 €",
+            "125.000 ouro": "19,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790726691370,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -55951,6 +55973,24 @@
       "Rockets get the door unlocking": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793224661146,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Props Tip: Temple corner": "0,99 €",
+            "Props Tip: Pyramid": "0,99 €",
+            "Props Tip: flower": "0,99 €",
+            "Get tips on holographic camera": "0,99 €",
+            "Get tips about two weeks mesh box factory eye": "0,99 €",
+            "Get tips about the triangle blocks (1-6)": "0,99 €",
+            "Get tips on the bucket": "0,99 €",
+            "Get tips on stone-eyed": "0,99 €",
+            "Get tips about this mysterious stone": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792363190565,
@@ -67268,13 +67308,28 @@
     "name": "Gestor de Receitas Paprika 3",
     "maxPriceInfo": {
       "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "formattedPrice": "5,99 €",
+      "Paprika 4 Premium (desconto)": "9,99 €",
+      "Paprika 4 Premium": "17,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "formattedPrice": "2,99 €",
+      "Paprika 4 Premium (desconto)": "9,99 €",
+      "Paprika 4 Premium": "17,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793224661146,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Paprika 4 Premium (desconto)": "9,99 €",
+            "Paprika 4 Premium": "17,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765996921355,
@@ -73641,6 +73696,14 @@
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793224661146,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783548301708,
@@ -105316,6 +105379,23 @@
     "history": [
       [
         {
+          "timestamp": 1793224661146,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "自建武将皮肤4": "3,99 €",
+            "自建武将皮肤3": "9,99 €",
+            "自建武将皮肤2": "3,99 €",
+            "自创武将皮肤1": "9,99 €",
+            "一袋碎片": "59,99 €",
+            "一堆碎片": "3,99 €",
+            "自定义武将席位6": "3,99 €",
+            "自定义武将席位4": "3,99 €",
+            "自定义武将席位5": "3,99 €",
+            "自定义武将席位3": "3,99 €"
+          }
+        },
+        {
           "timestamp": 1793208660555,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -105426,6 +105506,14 @@
       "formattedPrice": "0,29 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793224661146,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790119857097,
@@ -151564,6 +151652,27 @@
           "timestamp": 1793178284917,
           "price": 5.99,
           "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6803329435": {
+    "name": "Chromagraph Camera",
+    "maxPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "14,99 €"
+    },
+    "minPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "14,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793224661146,
+          "price": 14.99,
+          "formattedPrice": "14,99 €",
           "inAppPurchases": {}
         }
       ]

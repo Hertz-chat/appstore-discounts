@@ -51083,6 +51083,25 @@
     "history": [
       [
         {
+          "timestamp": 1793224661146,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "SLS 2023: Chicago": "₺49,99",
+            "SLS 2022: Jacksonville": "₺49,99",
+            "SLS 2021: World Championship": "₺49,99",
+            "SLS 2019: Sao Paulo": "₺49,99",
+            "SLS 2019: London": "₺49,99",
+            "Sandbox 1 Year": "₺439,99",
+            "Sandbox 3 Months": "₺174,99",
+            "Sandbox Monthly": "₺87,99",
+            "SLS 2018: World Championship": "₺49,99",
+            "Mountain of Bolts": "₺4.999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785572401820,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -65254,6 +65273,14 @@
       "formattedPrice": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793224661146,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1767147072737,
@@ -93016,6 +93043,20 @@
       "60,000 Gold": "₺169,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793224661146,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "25,000 Gold": "₺89,99",
+            "700,000 Gold": "₺4.999,99",
+            "325,000 Gold": "₺769,99",
+            "125,000 Gold": "₺349,99",
+            "60,000 Gold": "₺169,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790726691370,
@@ -138100,13 +138141,28 @@
     "region": "tr",
     "maxPriceInfo": {
       "price": 249.99,
-      "formattedPrice": "₺249,99"
+      "formattedPrice": "₺249,99",
+      "Paprika 4 Premium (Discount)": "₺499,99",
+      "Paprika 4 Premium": "₺799,99"
     },
     "minPriceInfo": {
       "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "formattedPrice": "₺149,99",
+      "Paprika 4 Premium (Discount)": "₺499,99",
+      "Paprika 4 Premium": "₺799,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793224661146,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Paprika 4 Premium (Discount)": "₺499,99",
+            "Paprika 4 Premium": "₺799,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765996921355,
@@ -150920,6 +150976,14 @@
       "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793224661146,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783565841644,
@@ -224550,6 +224614,14 @@
       "formattedPrice": "₺4,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793224661146,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790119857097,
@@ -303651,6 +303723,29 @@
           "timestamp": 1793178284917,
           "price": 249.99,
           "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6803329435": {
+    "trackId": 6803329435,
+    "trackName": "Chromagraph Camera",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 699.99,
+      "formattedPrice": "₺699,99"
+    },
+    "minPriceInfo": {
+      "price": 699.99,
+      "formattedPrice": "₺699,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793224661146,
+          "price": 699.99,
+          "formattedPrice": "₺699,99",
           "inAppPurchases": {}
         }
       ]

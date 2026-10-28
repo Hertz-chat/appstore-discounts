@@ -17058,6 +17058,25 @@
     "history": [
       [
         {
+          "timestamp": 1793224661146,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Gold Annual": "¥298.00",
+            "Gold Monthly": "¥58.00",
+            "Gold Level lifetime": "¥498.00",
+            "Gold Level Free Trial": "¥0.00",
+            "Lunar Return Report": "¥28.00",
+            "7-day Trial Astrolocality": "¥0.00",
+            "Astrolocality Maps": "¥168.00",
+            "The Big Three Report": "¥28.00",
+            "Relationship Report": "¥28.00",
+            "Predictive Report - Untimed": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792958987542,
           "price": 0,
           "formattedPrice": "免费",
@@ -46940,14 +46959,22 @@
   "948944368": {
     "name": "全屏浏览器 - 用得全屏才是好浏览器！",
     "maxPriceInfo": {
-      "price": 1,
-      "formattedPrice": "¥1.00"
+      "price": 1.8,
+      "formattedPrice": "¥1.80"
     },
     "minPriceInfo": {
       "price": 1,
       "formattedPrice": "¥1.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793224661146,
+          "price": 1.8,
+          "formattedPrice": "¥1.80",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -87585,13 +87612,28 @@
     "name": "Paprika食谱管理3",
     "maxPriceInfo": {
       "price": 38,
-      "formattedPrice": "¥38.00"
+      "formattedPrice": "¥38.00",
+      "Paprika 4 高级版（优惠）": "¥68.00",
+      "Paprika 4 高级版": "¥98.00"
     },
     "minPriceInfo": {
       "price": 22,
-      "formattedPrice": "¥22.00"
+      "formattedPrice": "¥22.00",
+      "Paprika 4 高级版（优惠）": "¥68.00",
+      "Paprika 4 高级版": "¥98.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793224661146,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "Paprika 4 高级版（优惠）": "¥68.00",
+            "Paprika 4 高级版": "¥98.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1766003568388,
@@ -186438,6 +186480,25 @@
     "history": [
       [
         {
+          "timestamp": 1793224661146,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {
+            "自创武将": "¥18.00",
+            "战国七雄": "¥36.00",
+            "群雄争霸": "¥18.00",
+            "楚汉争霸": "¥36.00",
+            "自创地图": "¥24.00",
+            "自创武将朝代特色兵种补丁": "¥48.00",
+            "无双战神": "¥36.00",
+            "五子良将": "¥36.00",
+            "重振汉室": "¥18.00",
+            "终身版": "¥45.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793178284917,
           "price": 35,
           "formattedPrice": "¥35.00",
@@ -234298,7 +234359,8 @@
       "【苍天之志】番外篇之吴传": "¥12.00",
       "华夏九州-水浒英雄传": "¥25.00",
       "汉末地图重制版": "¥18.00",
-      "大明：远洋宏图": "¥28.00"
+      "大明：远洋宏图": "¥28.00",
+      "简体中文": "¥28.00"
     },
     "minPriceInfo": {
       "price": 1,
@@ -234314,10 +234376,28 @@
       "【苍天之志】番外篇之吴传": "¥12.00",
       "华夏九州-水浒英雄传": "¥18.00",
       "汉末地图重制版": "¥15.00",
-      "大明：远洋宏图": "¥28.00"
+      "大明：远洋宏图": "¥28.00",
+      "简体中文": "¥28.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1793224661146,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {
+            "宝物编辑器": "¥6.00",
+            "美术升级包": "¥12.00",
+            "群英荟": "¥12.00",
+            "汉末地图重制版": "¥15.00",
+            "苍天之志": "¥15.00",
+            "出类拔萃": "¥12.00",
+            "英雄的黎明": "¥12.00",
+            "山河归一": "¥15.00",
+            "华夏九州-水浒英雄传": "¥20.00",
+            "简体中文": "¥28.00"
+          }
+        },
         {
           "timestamp": 1793208660555,
           "price": 6,
@@ -238322,6 +238402,27 @@
           "timestamp": 1793178284917,
           "price": 38,
           "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6803329435": {
+    "name": "Chromagraph Camera",
+    "maxPriceInfo": {
+      "price": 88,
+      "formattedPrice": "¥88.00"
+    },
+    "minPriceInfo": {
+      "price": 88,
+      "formattedPrice": "¥88.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793224661146,
+          "price": 88,
+          "formattedPrice": "¥88.00",
           "inAppPurchases": {}
         }
       ]

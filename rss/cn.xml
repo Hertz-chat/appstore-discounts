@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2026-10-29T19:19:12.328Z</updated>
+    <updated>2026-10-29T23:50:14.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-29T19:19:12.329Z</updated>
+        <updated>2026-10-29T23:50:14.412Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnThu, 29 Oct 2026 19:19:12 GMT</id>
+        <id>rankingcnThu, 29 Oct 2026 23:50:14 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-29T19:19:12.329Z</updated>
+        <updated>2026-10-29T23:50:14.412Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -51,13 +51,13 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>2390</b>
+        <b>2391</b>
       </td>
       <td>
         <b>204</b>
       </td>
       <td>
-        <b>2186</b>
+        <b>2187</b>
       </td>
       <td>
         <b>108</b>
@@ -1165,6 +1165,23 @@ feedId:157007849019630592+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>60</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/cn/6803329435?lang=zh-CN">Chromagraph Camera</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -1744,6 +1761,38 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chromagraph Camera]]></title>
+        <id>Chromagraph Camera-cn-1793311668998</id>
+        <link href="https://appstore-discounts.eyelly.me/cn/6803329435?lang=zh-CN"/>
+        <updated>2026-10-29T22:07:48.998Z</updated>
+        <summary type="html"><![CDATA[价格: ¥88.00 → ¥47.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/6803329435?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/1a/34/9d1a3404-c26d-6a84-bcee-41e567a7b9fc/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥88.00</span> → <b>
+  <strong>¥47.00</strong>
+</b><span>[¥47.00 ~ ¥88.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>¥47.00</b>
+</p><h2>应用描述</h2><p>
+  Replace your phone camera’s default processing with bespoke, curated color and texture rendering designed by cinematographer Steve Yedlin and used on the Knives Out films.
+
+Chromagraph starts from raw image data and builds the image its own way: not a filter laid over the usual look processing, but a different process from the start.
+
+SHOOT FIRST, SEE THE LOOK AFTER
+As with a film camera, you frame through the viewfinder and see the finished look only after the image is processed. Take the picture, then open the gallery to see it with the Chromagraph look applied.
+
+ADJUST WITHOUT LOSING THE LOOK
+Intuitive yet powerful tools for color, tone, and texture give you real control while keeping every image true to the look that’s the core of the app.
+
+A GALLERY THAT KEEPS THE ORIGINALS
+Store full-quality raw files and view them in the app with the look applied live, along with any adjustments you make. Export smaller files to share with friends or save to your photo library, or turn on auto-export in Preferences to send every photo to your library right away as a JPEG or HEIC with the look applied.
+
+NOT A FILTER
+A filter sits on top of the processing your phone has already done. Chromagraph skips that processing and uses its own methods for the curated look preferred by director Rian Johnson and cinematographer Steve Yedlin.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/30/2c/74302c46-3ead-b708-862d-a06404c717b3/Viewer_iPhone.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/89/0c/f0890cc2-4525-dff9-ae16-6e0f6102b36c/Camera_iPhone.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/42/11/c74211c3-56c0-01e5-fd97-9b0a9fbb822e/Gallery_iPhone.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/a5/12/86a512fd-bd50-6e64-29e0-d69c1441b85b/Editor_iPhone.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/93/0a/49930a66-5b0c-157d-5f78-5359962f5034/Viewer_iPad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/06/d3/b206d316-bf3c-b1e7-5588-e21a019f2d25/Camera_iPad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/7c/a7/087ca77a-b906-4467-3fa2-30603d6a2053/Editor_iPad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/15/13/8f1513a9-2875-b6df-b3d5-f4124a437e7e/Gallery_iPad.png/360x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[火山的女儿：再度重逢]]></title>

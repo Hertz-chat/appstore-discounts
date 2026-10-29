@@ -20027,6 +20027,14 @@
     "history": [
       [
         {
+          "timestamp": 1793311668998,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788647953625,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -28164,6 +28172,25 @@
       "Medieval Dart Monkey Skin": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793311668998,
+          "price": 3.49,
+          "formattedPrice": "3,49 €",
+          "inAppPurchases": {
+            "Classic Tack Tower Skin Sale": "0,99 €",
+            "Classic Tack Tower Skin": "1,99 €",
+            "Classic Super Monkey Skin Sale": "0,99 €",
+            "Classic Super Monkey Skin": "1,99 €",
+            "Classic Ice Tower Skin Sale": "0,99 €",
+            "Classic Ice Tower Skin": "1,99 €",
+            "Classic Bomb Tower Skin Sale": "0,99 €",
+            "Classic Bomb Tower Skin": "1,99 €",
+            "Classic Dart Monkey Skin Sale": "0,99 €",
+            "Classic Dart Monkey Skin": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786852048726,
@@ -48071,6 +48098,16 @@
     "history": [
       [
         {
+          "timestamp": 1793311668998,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Krycí jména: Duet": "5,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792626402303,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -67809,6 +67846,25 @@
     "history": [
       [
         {
+          "timestamp": 1793311668998,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "6,99 €",
+            "Design Frame Package": "0,99 €",
+            "Social Frame Package": "0,99 €",
+            "Magazine Frame Package": "0,99 €",
+            "Black Frame Pack": "0,99 €",
+            "Geometric Frame Pack": "0,99 €",
+            "Stamp Frame Pack": "0,99 €",
+            "Retro Frame Pack": "0,99 €",
+            "Stroke Frame Pack": "0,99 €",
+            "Color Frame Pack": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792798647744,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -69961,6 +70017,25 @@
       "Myth full pack": "44,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793311668998,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "3,99 €",
+            "TeaSet DarkLord Skin Package C": "5,99 €",
+            "Teaset Dark Lord Skin PackageB": "5,99 €",
+            "Teaset DarkLord Skin Package A": "5,99 €",
+            "Little Corr. Hero costume Pack": "29,99 €",
+            "Little Hero Costume Package": "29,99 €",
+            "Black Dark Lord Skin Package": "8,99 €",
+            "White Dark Lord Skin Package": "8,99 €",
+            "Awakening Viper Package": "5,99 €",
+            "Myth full pack": "44,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789687785630,
@@ -112995,6 +113070,16 @@
     "history": [
       [
         {
+          "timestamp": 1793311668998,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {
+            "Australia DLC": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791507612931,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -132155,6 +132240,14 @@
     "history": [
       [
         {
+          "timestamp": 1793311668998,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792781222157,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -149004,6 +149097,14 @@
     "history": [
       [
         {
+          "timestamp": 1793311668998,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792136164280,
           "price": 6.99,
           "formattedPrice": "6,99 €",
@@ -151039,7 +151140,7 @@
     ]
   },
   "6817843628": {
-    "name": "五行仙途‧香江修仙錄",
+    "name": "五行仙途：香江修仙記",
     "maxPriceInfo": {
       "price": 9.99,
       "formattedPrice": "9,99 €"
@@ -151804,10 +151905,18 @@
       "formattedPrice": "14,99 €"
     },
     "minPriceInfo": {
-      "price": 14.99,
-      "formattedPrice": "14,99 €"
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793311668998,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793224661146,

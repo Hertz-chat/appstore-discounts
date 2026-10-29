@@ -4711,6 +4711,25 @@
     "history": [
       [
         {
+          "timestamp": 1793311668998,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "World Sweetener Pack": "$9.99",
+            "Steel Guitar Sweeteners": "$14.99",
+            "Orchestral Sweeteners": "$5.99",
+            "Misc Stringed Sweeteners": "$3.99",
+            "Keyboard Sweeteners": "$19.99",
+            "Harp Sweeteners": "$5.99",
+            "Harmonica Sweeteners": "$9.99",
+            "Guitar & Bass Sweeteners": "$5.99",
+            "Buzz Feiten Pack": "$5.99",
+            "Extended Frequency Modes": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792221339483,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -361246,7 +361265,7 @@
     ]
   },
   "6817843628": {
-    "name": "五行仙途‧香江修仙錄",
+    "name": "Five Elements: Immortal Path",
     "maxPriceInfo": {
       "price": 9.99,
       "formattedPrice": "$9.99"

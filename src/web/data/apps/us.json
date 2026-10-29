@@ -4666,7 +4666,7 @@
   {
     "trackId": 650684932,
     "region": "us",
-    "timestamp": 1793178284917,
+    "timestamp": 1793274810835,
     "discounts": [],
     "price": 9.99,
     "formattedPrice": "$9.99",
@@ -5551,6 +5551,18 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id808296431",
     "trackName": "Crashlands",
     "firstRecordedAt": 1745665323137
+  },
+  {
+    "trackId": 810405576,
+    "region": "us",
+    "timestamp": 1793274810835,
+    "discounts": [],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id810405576",
+    "trackName": "StaffWars",
+    "firstRecordedAt": 1793274810835
   },
   {
     "trackId": 811397653,
@@ -6842,6 +6854,18 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id958889621",
     "trackName": "ADF Trainer - YOU Session Prep",
     "firstRecordedAt": 1745398953972
+  },
+  {
+    "trackId": 959272198,
+    "region": "us",
+    "timestamp": 1793274810835,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id959272198",
+    "trackName": "War of Empire Conquest(3V3)",
+    "firstRecordedAt": 1793274810835
   },
   {
     "trackId": 960457446,
@@ -8145,6 +8169,18 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id1070462618",
     "trackName": "Hero Emblems II",
     "firstRecordedAt": 1759028567061
+  },
+  {
+    "trackId": 1071622918,
+    "region": "us",
+    "timestamp": 1793274810835,
+    "discounts": [],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1071622918",
+    "trackName": "StaffWars Live",
+    "firstRecordedAt": 1793274810835
   },
   {
     "trackId": 1072395467,
@@ -11902,10 +11938,10 @@
   {
     "trackId": 1437715202,
     "region": "us",
-    "timestamp": 1779983863369,
+    "timestamp": 1793274810835,
     "discounts": [],
-    "price": 3.99,
-    "formattedPrice": "$3.99",
+    "price": 5.99,
+    "formattedPrice": "$5.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1437715202",
     "trackName": "倉頡詞典",
@@ -15624,7 +15660,7 @@
   {
     "trackId": 1563932741,
     "region": "us",
-    "timestamp": 1793243454661,
+    "timestamp": 1793274810835,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "$1.99",
@@ -23944,6 +23980,18 @@
     "firstRecordedAt": 1788553195173
   },
   {
+    "trackId": 6755858938,
+    "region": "us",
+    "timestamp": 1793274810835,
+    "discounts": [],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6755858938",
+    "trackName": "SUMEE!",
+    "firstRecordedAt": 1793274810835
+  },
+  {
     "trackId": 6755921847,
     "region": "us",
     "timestamp": 1768568414861,
@@ -24714,7 +24762,7 @@
   {
     "trackId": 6759664029,
     "region": "us",
-    "timestamp": 1793243454661,
+    "timestamp": 1793274810835,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "$6.99",

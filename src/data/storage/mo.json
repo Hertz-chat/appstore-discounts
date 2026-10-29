@@ -54953,6 +54953,27 @@
       ]
     ]
   },
+  "810405576": {
+    "name": "StaffWars",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793274810835,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "811397653": {
     "name": "你必須造一艘船",
     "maxPriceInfo": {
@@ -67178,6 +67199,58 @@
       ]
     ]
   },
+  "959272198": {
+    "name": "指尖帝国",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "购买8个宝石": "USD 1.99",
+      "购买35个宝石": "USD 6.99",
+      "购买140个宝石": "USD 20.99",
+      "购买5000金币": "USD 3.99",
+      "购买3500金币": "USD 1.99",
+      "购买20000金币": "USD 10.99",
+      "购买1500金币": "USD 0.99",
+      "购买500个宝石": "USD 59.99",
+      "购买 60 个宝石": "USD 6.99",
+      "购买 26 个宝石": "USD 3.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "购买8个宝石": "USD 1.99",
+      "购买35个宝石": "USD 6.99",
+      "购买140个宝石": "USD 20.99",
+      "购买5000金币": "USD 3.99",
+      "购买3500金币": "USD 1.99",
+      "购买20000金币": "USD 10.99",
+      "购买1500金币": "USD 0.99",
+      "购买500个宝石": "USD 59.99",
+      "购买 60 个宝石": "USD 6.99",
+      "购买 26 个宝石": "USD 3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793274810835,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "购买8个宝石": "USD 1.99",
+            "购买35个宝石": "USD 6.99",
+            "购买140个宝石": "USD 20.99",
+            "购买5000金币": "USD 3.99",
+            "购买3500金币": "USD 1.99",
+            "购买20000金币": "USD 10.99",
+            "购买1500金币": "USD 0.99",
+            "购买500个宝石": "USD 59.99",
+            "购买 60 个宝石": "USD 6.99",
+            "购买 26 个宝石": "USD 3.99"
+          }
+        }
+      ]
+    ]
+  },
   "960457446": {
     "name": "Flush Toilet Finder Pro",
     "maxPriceInfo": {
@@ -78270,6 +78343,27 @@
           "timestamp": 1759028567061,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1071622918": {
+    "name": "StaffWars Live",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793274810835,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
         }
       ]
@@ -216606,6 +216700,27 @@
           "timestamp": 1793224661146,
           "price": 12.99,
           "formattedPrice": "USD 12.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6755858938": {
+    "name": "SUMEE!",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793274810835,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
           "inAppPurchases": {}
         }
       ]

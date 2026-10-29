@@ -18394,6 +18394,25 @@
     "history": [
       [
         {
+          "timestamp": 1793274810835,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "₺199,99",
+            "Gold Monthly": "₺349,99",
+            "Predictive Report - Full": "₺199,99",
+            "Gold Level Free Trial": "₺0,00",
+            "Relationship Report": "₺199,99",
+            "Birthday Report": "₺199,99",
+            "7-day Trial Astrolocality": "₺0,00",
+            "Gold Level lifetime": "₺3.999,99",
+            "Child Report - Full": "₺199,99",
+            "Astrolocality Maps": "₺1.299,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792827674174,
           "price": 0,
           "formattedPrice": "Free",
@@ -72772,6 +72791,29 @@
       ]
     ]
   },
+  "810405576": {
+    "trackId": 810405576,
+    "trackName": "StaffWars",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793274810835,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "811397653": {
     "trackId": 811397653,
     "trackName": "You Must Build A Boat",
@@ -88298,6 +88340,57 @@
       ]
     ]
   },
+  "959272198": {
+    "trackId": 959272198,
+    "trackName": "War of Empire Conquest(3V3)",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99",
+      "购买8个宝石": "₺99,99",
+      "购买1500金币": "₺39,99",
+      "购买35个宝石": "₺399,99",
+      "购买5000金币": "₺199,99",
+      "购买140个宝石": "₺999,99",
+      "购买500个宝石": "₺2.999,99",
+      "购买20000金币": "₺599,99",
+      "购买 60 个宝石": "₺399,99",
+      "购买 26 个宝石": "₺199,99"
+    },
+    "minPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99",
+      "购买8个宝石": "₺99,99",
+      "购买1500金币": "₺39,99",
+      "购买35个宝石": "₺399,99",
+      "购买5000金币": "₺199,99",
+      "购买140个宝石": "₺999,99",
+      "购买500个宝石": "₺2.999,99",
+      "购买20000金币": "₺599,99",
+      "购买 60 个宝石": "₺399,99",
+      "购买 26 个宝石": "₺199,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793274810835,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "购买8个宝石": "₺99,99",
+            "购买1500金币": "₺39,99",
+            "购买35个宝石": "₺399,99",
+            "购买5000金币": "₺199,99",
+            "购买140个宝石": "₺999,99",
+            "购买500个宝石": "₺2.999,99",
+            "购买20000金币": "₺599,99",
+            "购买 60 个宝石": "₺399,99",
+            "购买 26 个宝石": "₺199,99"
+          }
+        }
+      ]
+    ]
+  },
   "960457446": {
     "trackId": 960457446,
     "trackName": "Flush Toilet Finder Pro",
@@ -100944,6 +101037,29 @@
           "timestamp": 1759028567061,
           "price": 299.99,
           "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1071622918": {
+    "trackId": 1071622918,
+    "trackName": "StaffWars Live",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "minPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793274810835,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
           "inAppPurchases": {}
         }
       ]
@@ -238806,6 +238922,25 @@
     "history": [
       [
         {
+          "timestamp": 1793274810835,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "Monthly Card": "₺249,99",
+            "Professional Training": "₺799,99",
+            "680 Gold": "₺499,99",
+            "Special Training": "₺499,99",
+            "60 Gold": "₺49,99",
+            "1980 Gold": "₺1.499,99",
+            "6480 Gold": "₺4.999,99",
+            "980 Gold": "₺799,99",
+            "300 Gold": "₺249,99",
+            "1280 Gold": "₺999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792968791930,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -303839,6 +303974,29 @@
           "timestamp": 1793224661146,
           "price": 699.99,
           "formattedPrice": "₺699,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6755858938": {
+    "trackId": 6755858938,
+    "trackName": "SUMEE!",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793274810835,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
           "inAppPurchases": {}
         }
       ]

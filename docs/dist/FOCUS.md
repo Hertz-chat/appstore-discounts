@@ -1,12 +1,16 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2386` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2390` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2390|810405576|Automatic|StaffWars|StaffWars|StaffWars|StaffWars|StaffWars|StaffWars|StaffWars|
+|2389|959272198|Automatic|指尖帝国|指尖帝国|指尖帝国|指尖帝国|War of Empire Conquest(3V3)|War of Empire Conquest(3V3)|War of Empire Conquest(3V3)|
+|2388|1071622918|Automatic|StaffWars Live|StaffWars Live|StaffWars Live|StaffWars Live|StaffWars Live|StaffWars Live|StaffWars Live|
+|2387|6755858938|Automatic|❌|SUMEE!|SUMEE!|SUMEE!|SUMEE!|SUMEE!|SUMEE!|
 |2386|6803329435|Automatic|Chromagraph Camera|Chromagraph Camera|Chromagraph Camera|Chromagraph Camera|Chromagraph Camera|Chromagraph Camera|Chromagraph Camera|
 |2385|1659211813|Automatic|动森圈圈|動森圈圈|動森圈圈|動森圈圈|Nook Circle - ACNH Guide|Nook Circle - ACNH Guide|动森圈圈|
 |2384|6822194774|Automatic|TypeDraw|TypeDraw|TypeDraw|TypeDraw|TypeDraw|TypeDraw|TypeDraw|

@@ -36655,6 +36655,27 @@
       ]
     ]
   },
+  "810405576": {
+    "name": "StaffWars",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793274810835,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "811397653": {
     "name": "Você Deve Construir Um Barco",
     "maxPriceInfo": {
@@ -42818,6 +42839,58 @@
           "price": 5.99,
           "formattedPrice": "5,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "959272198": {
+    "name": "War of Empire Conquest(3V3)",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
+      "购买500个宝石": "69,99 €",
+      "购买20000金币": "11,99 €",
+      "购买5000金币": "3,99 €",
+      "购买1500金币": "0,99 €",
+      "购买140个宝石": "22,99 €",
+      "购买35个宝石": "7,99 €",
+      "购买8个宝石": "1,99 €",
+      "购买 60 个宝石": "7,99 €",
+      "购买 26 个宝石": "3,99 €",
+      "购买 12 个宝石": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
+      "购买500个宝石": "69,99 €",
+      "购买20000金币": "11,99 €",
+      "购买5000金币": "3,99 €",
+      "购买1500金币": "0,99 €",
+      "购买140个宝石": "22,99 €",
+      "购买35个宝石": "7,99 €",
+      "购买8个宝石": "1,99 €",
+      "购买 60 个宝石": "7,99 €",
+      "购买 26 个宝石": "3,99 €",
+      "购买 12 个宝石": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793274810835,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "购买500个宝石": "69,99 €",
+            "购买20000金币": "11,99 €",
+            "购买5000金币": "3,99 €",
+            "购买1500金币": "0,99 €",
+            "购买140个宝石": "22,99 €",
+            "购买35个宝石": "7,99 €",
+            "购买8个宝石": "1,99 €",
+            "购买 60 个宝石": "7,99 €",
+            "购买 26 个宝石": "3,99 €",
+            "购买 12 个宝石": "1,99 €"
+          }
         }
       ]
     ]
@@ -49409,6 +49482,27 @@
       ]
     ]
   },
+  "1071622918": {
+    "name": "StaffWars Live",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793274810835,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1072395467": {
     "name": "60 Seconds! Atomic Adventure",
     "maxPriceInfo": {
@@ -52679,6 +52773,25 @@
       "Skywarden Unlock Pack": "8,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793274810835,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Oferta de Pilha de Dinheiro": "3,49 €",
+            "Liberar Torre Totalmente": "5,99 €",
+            "Dinheiro de Macaco": "2,49 €",
+            "Pilha de Dinheiro de Macaco": "5,99 €",
+            "XP de Torre": "1,19 €",
+            "Oferta de Cofre de Dinheiro": "14,99 €",
+            "Dinheiro de Macaco Extra": "1,99 €",
+            "Montanha de Dinheiro de Macaco": "59,99 €",
+            "Liberar Excelência": "5,99 €",
+            "Cofre de Dinheiro de Macaco": "23,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793178284917,
@@ -115680,6 +115793,14 @@
     "history": [
       [
         {
+          "timestamp": 1793274810835,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789340065932,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -151692,6 +151813,27 @@
           "timestamp": 1793224661146,
           "price": 14.99,
           "formattedPrice": "14,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6755858938": {
+    "name": "SUMEE!",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793274810835,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
           "inAppPurchases": {}
         }
       ]

@@ -2,6 +2,34 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 810405576,
+      "name": {
+        "mo": "StaffWars"
+      },
+      "addType": "auto"
+    },
+    {
+      "id": 959272198,
+      "name": {
+        "mo": "指尖帝国"
+      },
+      "addType": "auto"
+    },
+    {
+      "id": 1071622918,
+      "name": {
+        "mo": "StaffWars Live"
+      },
+      "addType": "auto"
+    },
+    {
+      "id": 6755858938,
+      "name": {
+        "pt": "SUMEE!"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 6803329435,
       "name": {
         "us": "Chromagraph Camera"

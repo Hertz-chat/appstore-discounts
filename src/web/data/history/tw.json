@@ -70019,6 +70019,29 @@
       ]
     ]
   },
+  "810405576": {
+    "trackId": 810405576,
+    "trackName": "StaffWars",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793274810835,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "811397653": {
     "trackId": 811397653,
     "trackName": "你必須造一艘船",
@@ -86255,6 +86278,57 @@
       ]
     ]
   },
+  "959272198": {
+    "trackId": 959272198,
+    "trackName": "指尖帝国",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "购买8个宝石": "$60.00",
+      "购买35个宝石": "$220.00",
+      "购买1500金币": "$30.00",
+      "购买140个宝石": "$690.00",
+      "购买500个宝石": "$1,990.00",
+      "购买5000金币": "$120.00",
+      "购买20000金币": "$390.00",
+      "购买8000金币": "$90.00",
+      "购买 12 个宝石": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "购买8个宝石": "$60.00",
+      "购买35个宝石": "$220.00",
+      "购买1500金币": "$30.00",
+      "购买140个宝石": "$690.00",
+      "购买500个宝石": "$1,990.00",
+      "购买5000金币": "$120.00",
+      "购买20000金币": "$390.00",
+      "购买8000金币": "$90.00",
+      "购买 12 个宝石": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793274810835,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "购买8个宝石": "$60.00",
+            "购买35个宝石": "$220.00",
+            "购买1500金币": "$30.00",
+            "购买140个宝石": "$690.00",
+            "购买500个宝石": "$1,990.00",
+            "购买5000金币": "$120.00",
+            "购买20000金币": "$390.00",
+            "购买8000金币": "$90.00",
+            "购买 12 个宝石": "$60.00"
+          }
+        }
+      ]
+    ]
+  },
   "960457446": {
     "trackId": 960457446,
     "trackName": "Flush Toilet Finder Pro",
@@ -102369,6 +102443,29 @@
           "timestamp": 1759028567061,
           "price": 220,
           "formattedPrice": "$220.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1071622918": {
+    "trackId": 1071622918,
+    "trackName": "StaffWars Live",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793274810835,
+          "price": 90,
+          "formattedPrice": "$90.00",
           "inAppPurchases": {}
         }
       ]
@@ -120073,6 +120170,25 @@
       "喚生石8400個": "$790.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793274810835,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "功能禮包": "$120.00",
+            "綜合禮包": "$490.00",
+            "自動禮包": "$490.00",
+            "戒指禮包": "$790.00",
+            "寶石300個": "$120.00",
+            "魔法禮包": "$290.00",
+            "寶石180個": "$90.00",
+            "寶石660個": "$290.00",
+            "魅魔禮包": "$1,290.00",
+            "覺醒禮包": "$1,290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793146065483,
@@ -189885,7 +190001,7 @@
       "Prime Gemma 10000": "$2,490.00",
       "Prime Gemma 5000": "$710.00",
       "Evoker Kit": "$19.00",
-      "Zenith Islands DLC": "$150.00",
+      "Zenith Islands DLC": "$89.00",
       "Prime Dimension DLC": "$125.00",
       "Fancy Apparel": "$490.00",
       "Zenith Islands DLC Sale": "$55.00",
@@ -189903,6 +190019,25 @@
       "Intro Offer (low)": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793274810835,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Zenith Islands DLC": "$89.00",
+            "Prime Gemma 1200": "$180.00",
+            "Tamer Kit": "$19.00",
+            "Starter Package": "$89.00",
+            "Prime Gemma 2500": "$355.00",
+            "Master Package": "$355.00",
+            "Hunter Package": "$180.00",
+            "Prime Gemma 5000": "$710.00",
+            "Evoker Package": "$180.00",
+            "Evoker Kit": "$19.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792958987542,
@@ -248943,6 +249078,21 @@
       "99.99美元商品": "$2,990.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793274810835,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "3.99美元商品": "$120.00",
+            "12.99美元商品": "$390.00",
+            "9.99美元商品": "$320.00",
+            "0.99美元商品": "$30.00",
+            "39.99美元商品": "$1,290.00",
+            "19.99美元商品": "$690.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793130591753,
@@ -323910,6 +324060,25 @@
     "history": [
       [
         {
+          "timestamp": 1793274810835,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "英雄 阿什彼特": "$220.00",
+            "全法術禮包": "$390.00",
+            "全英雄禮包": "$790.00",
+            "全塔禮包": "$690.00",
+            "英雄 德拉坎": "$220.00",
+            "全塔禮包_B": "$490.00",
+            "塔 野貓女獵手": "$150.00",
+            "塔 奧術鍛造匠": "$150.00",
+            "塔 哨兵瞭望塔": "$190.00",
+            "一箱寶石": "$690.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793178284917,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -326369,6 +326538,29 @@
           "timestamp": 1793224661146,
           "price": 390,
           "formattedPrice": "$390.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6755858938": {
+    "trackId": 6755858938,
+    "trackName": "SUMEE!",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793274810835,
+          "price": 60,
+          "formattedPrice": "$60.00",
           "inAppPurchases": {}
         }
       ]

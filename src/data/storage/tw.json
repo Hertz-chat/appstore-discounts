@@ -1586,6 +1586,25 @@
     "history": [
       [
         {
+          "timestamp": 1793243454661,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "10,000 coins": "$60.00",
+            "1000 coins": "$30.00",
+            "30,000 coins": "$90.00",
+            "10000 candies": "$90.00",
+            "1000 candies": "$30.00",
+            "100,000 gold": "$60.00",
+            "5000 eggs": "$60.00",
+            "100,000 coins": "$120.00",
+            "15000 eggs": "$90.00",
+            "500 eggs": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792352844500,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -69983,6 +70002,25 @@
       "$50 Credit": "$1,490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793243454661,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "1 Mo. CAN Texting": "$90.00",
+            "$5 Credit": "$190.00",
+            "1 Mo. Global Texting": "$120.00",
+            "3 Mo. CAN Texting": "$190.00",
+            "6 Mo. Global Texting": "$490.00",
+            "12 Mo. CAN Texting": "$590.00",
+            "6 Mo. CAN Texting": "$320.00",
+            "$10 Credit": "$320.00",
+            "$20 Credit": "$690.00",
+            "1 Mo. Fongo Plus": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792522109736,
@@ -159753,6 +159791,23 @@
     "history": [
       [
         {
+          "timestamp": 1793243454661,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "68金玉": "$330.00",
+            "30金玉": "$170.00",
+            "6金玉": "$33.00",
+            "198金玉": "$990.00",
+            "尊享月俸": "$170.00",
+            "648金玉": "$3,290.00",
+            "一鍵買斷禮包": "$150.00",
+            "禮包5": "$170.00",
+            "328金玉": "$1,690.00",
+            "6元新手禮包​​": "$33.00"
+          }
+        },
+        {
           "timestamp": 1793224661146,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -178405,6 +178460,24 @@
       "Goblet Kintsugi Token": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793243454661,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "The Complete Collection": "$1,190.00",
+            "Explorer Pack": "$390.00",
+            "Diamond Bundle": "$390.00",
+            "Welcome Offer": "$690.00",
+            "New York 2121 Board": "$220.00",
+            "The Ultimate Edition Welcome Offer": "$790.00",
+            "Cherry Blossom Tokyo Board": "$220.00",
+            "Promotion": "$590.00",
+            "New York 2121": "$490.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792742526515,
@@ -229608,6 +229681,20 @@
       "Filtr": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793243454661,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Filtr": "$150.00",
+            "Tip": "$150.00",
+            "Yearly Recurring Tip": "$320.00",
+            "Monthly Recurring Tip": "$60.00",
+            "Mega Tip": "$690.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793051997931,
@@ -311689,6 +311776,25 @@
       "訓練記憶": "$590.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793243454661,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "深淵開拓者": "$320.00",
+            "魔界擴充通行證": "$190.00",
+            "尼奧貝希摩斯": "$60.00",
+            "隱月造型套裝": "$320.00",
+            "超越精華": "$990.00",
+            "時間旅行者": "$190.00",
+            "永恆方舟": "$990.00",
+            "魔界通行證1": "$90.00",
+            "訓練記憶": "$590.00",
+            "深淵之始": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793002369190,

@@ -235071,6 +235071,20 @@
     "history": [
       [
         {
+          "timestamp": 1793243454661,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Filtr": "HK$ 188.00",
+            "Yearly Recurring Tip": "HK$ 88.00",
+            "Monthly Recurring Tip": "HK$ 18.00",
+            "Mega Tip": "HK$ 148.00",
+            "Tip": "HK$ 38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791366760269,
           "price": 38,
           "formattedPrice": "HK$ 38.00",

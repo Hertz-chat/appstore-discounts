@@ -17306,6 +17306,23 @@
     "history": [
       [
         {
+          "timestamp": 1793243454661,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "¥28.00",
+            "Gold Level Free Trial": "¥0.00",
+            "Relationship Report": "¥28.00",
+            "Predictive Report - Full": "¥28.00",
+            "7-day Trial Astrolocality": "¥0.00",
+            "Gold Monthly": "¥58.00",
+            "Astrolocality Maps": "¥168.00",
+            "Gold Level lifetime": "¥498.00",
+            "Child Report - Full": "¥28.00",
+            "Predictive Report - No Background": "¥22.00"
+          }
+        },
+        {
           "timestamp": 1793224661146,
           "price": 0,
           "formattedPrice": "免费",
@@ -97784,6 +97801,25 @@
       "大师礼包二": "¥98.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793243454661,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "1元礼包": "¥1.00",
+            "60钻石": "¥6.00",
+            "300钻石": "¥30.00",
+            "月卡": "¥25.00",
+            "980钻石": "¥98.00",
+            "6元礼包": "¥6.00",
+            "季卡": "¥50.00",
+            "3元礼包": "¥3.00",
+            "1980钻石": "¥198.00",
+            "新手礼包三": "¥25.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789616262482,
@@ -188505,6 +188541,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793243454661,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {
+            "自创武将": "¥18.00",
+            "战国七雄": "¥36.00",
+            "群雄争霸": "¥18.00",
+            "楚汉争霸": "¥36.00",
+            "自创地图": "¥24.00",
+            "自创武将朝代特色兵种补丁": "¥48.00",
+            "无双战神": "¥36.00",
+            "五子良将": "¥36.00",
+            "重振汉室": "¥18.00",
+            "斜谷残阳": "¥36.00"
+          }
+        },
         {
           "timestamp": 1793224661146,
           "price": 35,

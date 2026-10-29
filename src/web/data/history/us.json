@@ -67374,6 +67374,14 @@
     "history": [
       [
         {
+          "timestamp": 1793243454661,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1767156201270,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -102464,6 +102472,20 @@
       "325,000 Gold": "$45.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793243454661,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "60,000 Gold": "$10.99",
+            "25,000 Gold": "$5.99",
+            "125,000 Gold": "$21.99",
+            "700,000 Gold": "$89.99",
+            "325,000 Gold": "$54.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790760074035,
@@ -171601,6 +171623,14 @@
     "history": [
       [
         {
+          "timestamp": 1793243454661,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1783565841644,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -192988,6 +193018,22 @@
     "history": [
       [
         {
+          "timestamp": 1793243454661,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "每日外刊": "$8.49",
+            "2年联合VIP会员": "$29.99",
+            "VIP连续包季": "$7.99",
+            "VIP连续包月": "$3.99",
+            "一年联合VIP会员": "$19.99",
+            "大学英语_外刊精读 | 2025年度TOP100精选": "$29.99",
+            "肖维青英文原著精读课-纳尼亚传奇篇": "$29.99",
+            "大学英语_外刊精读 | 2021年度TOP100精选": "$29.99",
+            "大学英语_外刊精读 | 2022年度TOP100精选": "$29.99"
+          }
+        },
+        {
           "timestamp": 1793224661146,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -205626,6 +205672,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793243454661,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Master Package": "$19.99",
+            "Tamer Kit": "$0.99",
+            "Starter Package": "$4.99",
+            "Prime Gemma 2500": "$19.99",
+            "Prime Gemma 1200": "$9.99",
+            "Prime Gemma 500": "$4.99",
+            "Hunter Package": "$9.99",
+            "Evoker Kit": "$0.99",
+            "Prime gemma 100": "$0.99",
+            "Prime Dimension DLC": "$6.99"
+          }
+        },
         {
           "timestamp": 1793178284917,
           "price": 0.99,
@@ -228451,6 +228514,25 @@
       "Sports and Celebrity Bundle": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793243454661,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$9.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Word Bonanza Bundle": "$19.99",
+            "Generations Gen Z Pack": "$1.99",
+            "Midnight Night Out Pack": "$2.99",
+            "Midnight Bedroom Pack": "$2.99",
+            "Mystery Mix Pack 1": "$1.99",
+            "Ready to Roast": "$6.49",
+            "Sports and Games Pack": "$7.99",
+            "Celebrity Deck": "$6.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792934734921,
@@ -259188,6 +259270,14 @@
     "history": [
       [
         {
+          "timestamp": 1793243454661,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790134270308,
           "price": 10.99,
           "formattedPrice": "$10.99",
@@ -277066,6 +277156,25 @@
       "五子良將": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793243454661,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "五子良將": "$5.99",
+            "自創武將": "$2.99",
+            "自創地圖": "$3.99",
+            "無雙戰神": "$5.99",
+            "重振漢室": "$2.99",
+            "虎嘯鳳鳴": "$3.99",
+            "巾幗綻芳華": "$3.99",
+            "冠絕天下": "$5.99",
+            "鎮海神威": "$2.99",
+            "斜谷殘陽": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793089647083,
@@ -354952,6 +355061,25 @@
     "history": [
       [
         {
+          "timestamp": 1793243454661,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "Underworld Expansion Pass": "$5.99",
+            "Neo Behemoth": "$1.99",
+            "Pioneer of the Abyss": "$9.99",
+            "Moonveil Skin Set": "$9.99",
+            "Underworld Pass 1": "$2.99",
+            "Essence of Transcendence": "$29.99",
+            "Ark of Eternity": "$29.99",
+            "Time Traveler": "$5.99",
+            "Memory of Training": "$17.99",
+            "Beginning of Growth": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792240324701,
           "price": 5.99,
           "formattedPrice": "$5.99",
@@ -355927,7 +356055,8 @@
       "SNES": "$0.99",
       "Game Boy Advance": "$0.99",
       "Unlock All (Upgrade 4)": "$0.99",
-      "Unlock All (Upgrade 3)": "$1.99"
+      "Unlock All (Upgrade 3)": "$1.99",
+      "Unlock All": "$4.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -355941,9 +356070,29 @@
       "SNES": "$0.99",
       "Game Boy Advance": "$0.99",
       "Unlock All (Upgrade 4)": "$0.99",
-      "Unlock All (Upgrade 3)": "$1.99"
+      "Unlock All (Upgrade 3)": "$1.99",
+      "Unlock All": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793243454661,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Game Boy Advance": "$0.99",
+            "Unlock All": "$4.99",
+            "SG-1000": "$0.99",
+            "Master System": "$0.99",
+            "Game Gear": "$0.99",
+            "Mega Drive / Genesis": "$0.99",
+            "Atari 2600": "$0.99",
+            "Pokémon Mini": "$0.99",
+            "SNES": "$0.99",
+            "Unlock All (Upgrade 4)": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793068805806,
@@ -364066,6 +364215,25 @@
       "Tower Forger": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793243454661,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Drakkan": "$6.99",
+            "Hero Ashbite": "$6.99",
+            "Tower Sniper": "$5.99",
+            "ALL HEROES BUNDLE": "$24.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Gems Handful": "$2.99",
+            "Gems Pouch": "$4.99",
+            "Hero Oni": "$4.99",
+            "Tower Alchemist": "$2.99",
+            "Tower Wildcat": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793130591753,

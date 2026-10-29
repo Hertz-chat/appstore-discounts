@@ -223,7 +223,7 @@
 |2177|6797421987|自动|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了：赛博竹知了Bamboo Cicada|竹知了：赛博竹知了Bamboo Cicada|竹知了 - 找回童年的快乐|
 |2176|1518917462|自动|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|
 |2175|6793964973|自动|ForBand - 乐队排练全能助手|ForBand - 樂團練習全能助手|ForBand - 樂團練習全能助手|ForBand - 樂團練習全能助手|ForBand - Band Practice Player|ForBand - Band Practice Player|ForBand - Tudo para sua banda|
-|2174|6753077755|自动|❌|How Many Dudes?|How Many Dudes?|How Many Dudes?|How Many Dudes?|How Many Dudes?|How Many Dudes?|
+|2174|6753077755|自动|❌|好漢軍團|好漢軍團|好漢軍團|How Many Dudes?|How Many Dudes?|How Many Dudes?|
 |2173| ~~6785557805~~ |自动| ~~Antizuck Smart Glasses Scanner~~ | ~~Antizuck Smart Glasses Scanner~~ | ~~Antizuck Smart Glasses Scanner~~ | ~~Antizuck Smart Glasses Scanner~~ | ~~Antizuck Smart Glasses Scanner~~ | ~~Antizuck Smart Glasses Scanner~~ | ~~Antizuck Smart Glasses Scanner~~ |
 |2172|299029654|自动|大辞林|大辞林|大辞林|大辞林|大辞林|大辞林|大辞林|
 |2171|1462584573|自动|Schumann Resonance|Schumann Resonance|Schumann Resonance|Schumann Resonance|Schumann Resonance|Schumann Resonance|Schumann Resonance|
@@ -1009,7 +1009,7 @@
 |1391|6474672665|自动|❌|開拓神秘島 DX|開拓神秘島 DX|開拓神秘島 DX|Beastie Bay DX|Beastie Bay DX|Beastie Bay DX|
 |1390|6744650366|自动|MyScoreTracker 桌游计分|MyScoreTracker 桌遊計分|MyScoreTracker 桌遊計分|MyScoreTracker 桌遊計分|MyScoreTracker: Board Games|MyScoreTracker: Board Games|MyScoreTracker Pontuação|
 |1389|513370441|自动|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|ParseGreek: Biblical Greek|
-|1388|6752503669|自动|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|
+|1388|6752503669|自动|Solar Arc: 黄金时刻 日出日落|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|
 |1387|1148617550|自动|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|
 |1386|973789555|自动|❌|夢想商店街物語|夢想商店街物語|夢想商店街物語|Biz Builder Delux|Biz Builder Delux|Biz Builder Delux|
 |1385|1484024784|自动|子午線157: 第1章|子午線157: 第1章|子午線157: 第1章|子午線157: 第1章|Meridian 157: Chapter 1|Meridian 157: Chapter 1|Meridian 157: Capítulo 1|

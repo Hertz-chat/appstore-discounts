@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2026-10-29T13:32:09.456Z</updated>
+    <updated>2026-10-29T19:19:12.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-29T13:32:09.458Z</updated>
+        <updated>2026-10-29T19:19:12.329Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnThu, 29 Oct 2026 13:32:09 GMT</id>
+        <id>rankingcnThu, 29 Oct 2026 19:19:12 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-29T13:32:09.458Z</updated>
+        <updated>2026-10-29T19:19:12.329Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -191,6 +191,23 @@ feedId:157007849019630592+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
+        <a href="https://appstore-discounts.eyelly.me/cn/1309638846?lang=zh-CN">Goodak 复古胶片相机 - 拍立得旅行摄影，拍照水印滤镜</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>6</b>
+      </td>
+      <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1630541373?lang=zh-CN">私密相册：隐藏照片和视频、私人保险箱 - PRAM</a>
       </td>
       <td>
@@ -211,7 +228,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6811795155?lang=zh-CN">Keeps</a>
@@ -234,7 +251,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6755290585?lang=zh-CN">Raiders Map</a>
@@ -257,7 +274,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6471594918?lang=zh-CN">Just a Simple Image Converter</a>
@@ -274,7 +291,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/441142802?lang=zh-CN">Bass Modes Symmetry School</a>
@@ -291,7 +308,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/443646748?lang=zh-CN">健身伙伴+：健身房锻炼</a>
@@ -314,7 +331,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/510249014?lang=zh-CN">水平仪 HD</a>
@@ -331,7 +348,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/633600716?lang=zh-CN">432 Player: Music in 432 Hz</a>
@@ -348,7 +365,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/725234217?lang=zh-CN">Rock Drum Machine: Real Drums</a>
@@ -365,7 +382,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/857607006?lang=zh-CN">Triple A HD - Touch Visualizer</a>
@@ -382,7 +399,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/926177061?lang=zh-CN">TinType - 锡版相机</a>
@@ -399,7 +416,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/931188326?lang=zh-CN">DayCost</a>
@@ -416,7 +433,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/953426154?lang=zh-CN">Be Focused Pro: Pomodoro Timer</a>
@@ -433,7 +450,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1160943124?lang=zh-CN">听写文本：语音识别</a>
@@ -450,27 +467,10 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1225490847?lang=zh-CN">电子相册大师(专业版)</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>20</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1309638846?lang=zh-CN">Goodak 复古胶片相机 - 拍立得旅行摄影，拍照水印滤镜</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1225490847?lang=zh-CN">电子相册大师(专业版)</a>
       </td>
       <td>
         <ul>
@@ -1148,6 +1148,23 @@ feedId:157007849019630592+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>59</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/cn/6751309563?lang=zh-CN">火山的女儿：再度重逢</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -1727,6 +1744,107 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[火山的女儿：再度重逢]]></title>
+        <id>火山的女儿：再度重逢-cn-1793295722489</id>
+        <link href="https://appstore-discounts.eyelly.me/cn/6751309563?lang=zh-CN"/>
+        <updated>2026-10-29T17:42:02.489Z</updated>
+        <summary type="html"><![CDATA[价格: ¥18.00 → ¥15.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/6751309563?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/47/dc/f247dce5-acf0-f637-e746-9bf69032b70c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥18.00</span> → <b>
+  <strong>¥15.00</strong>
+</b><span>[¥15.00 ~ ¥18.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>¥15.00</b>
+</p><h2>应用描述</h2><p>
+  欢迎来到火山国！
+这里盛行炼金术，崇尚着骑士精神，剑与魔法。心怀对亡妻的思念，你独自带着女儿在这里生活。
+
+【丰富多样的养成路线】
+成为骑士？学者？大明星？安排女儿的课程学习和业余生活，挑战种植、烹饪、钓鱼、骰子对决......
+数十种趣味小游戏，让女儿的数值upup！
+
+【全新服饰 等你解锁】
+移动版预约即可获赠全新服饰，从夏火年穿到冬火年！多套令人意想不到的神秘服饰等你解锁——美少女露丝，变身！
+
+【成长，然后发现世界的真相】
+面对女儿成长中遇到的各种随机事件，应对来自魔族首领“鸮姬”的挑战。
+在这个暗潮汹涌的国度里，女儿又该如何做出她的选择？火山国的命运正握在你的手中!
+
+【向更远的未来......出发！】
+超过12个恋情结局和50个职业结局，结识和攻略火山国的各位居民，目送女儿走出自己的多彩人生......
+你会永远支持女儿的，对吧？
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/73/c8/a2/73c8a2fc-3d56-8902-0ff2-544576895170/_U706b_U5c71_U7684_U5973_U513f-_U4e94_U56fe-2868x1320-1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/c0/bd/cdc0bd4d-954e-5f6d-a659-fdb9efed9644/_U706b_U5c71_U7684_U5973_U513f-_U4e94_U56fe-2868x1320-3.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/82/b4/9682b4b4-7038-d978-19ea-f62bcc73ffdd/_U706b_U5c71_U7684_U5973_U513f-_U4e94_U56fe-2868x1320-4.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/bd/05/79bd0521-ae81-5bae-3cb4-932f1e6ddd86/_U706b_U5c71_U7684_U5973_U513f-_U4e94_U56fe-2868x1320-2.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/7f/ec/217fece5-9eee-31ff-c867-88f0c0131935/_U706b_U5c71_U7684_U5973_U513f-_U4e94_U56fe-2868x1320-5.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/fa/38/7dfa38f8-43ef-f818-b61b-a320d276cd2b/_U706b_U5c71_U7684_U5973_U513f-_U79fb_U52a8_U7248_U4e94_U56fe-2752x2064-1.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/d4/61/60d46177-78c9-89de-389a-de361345e949/_U706b_U5c71_U7684_U5973_U513f-_U79fb_U52a8_U7248_U4e94_U56fe-2752x2064-3.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/59/bd/9c59bd3d-77a0-5fca-219c-b95d3b562f5c/_U706b_U5c71_U7684_U5973_U513f-_U79fb_U52a8_U7248_U4e94_U56fe-2752x2064-4.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/d2/b4/01d2b471-4efc-5b2d-ac81-418b9b8c37e6/_U706b_U5c71_U7684_U5973_U513f-_U79fb_U52a8_U7248_U4e94_U56fe-2752x2064-2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/93/cf/c793cf1e-3d93-05e0-909c-1d39a2b0a47b/_U706b_U5c71_U7684_U5973_U513f-_U79fb_U52a8_U7248_U4e94_U56fe-2752x2064-5.png/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goodak 复古胶片相机 - 拍立得旅行摄影，拍照水印滤镜]]></title>
+        <id>Goodak 复古胶片相机 - 拍立得旅行摄影，拍照水印滤镜-cn-1793295722489</id>
+        <link href="https://appstore-discounts.eyelly.me/cn/1309638846?lang=zh-CN"/>
+        <updated>2026-10-29T17:42:02.489Z</updated>
+        <summary type="html"><![CDATA[价格: ¥22.00 → ¥15.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/1309638846?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6e/12/e2/6e12e20d-cbb9-c638-e2e0-9c298420bb4a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥22.00</span> → <b>
+  <strong>¥15.00</strong>
+</b><span>[¥8.00 ~ ¥22.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>¥15.00</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    Upgrade Deluxe Edition：<b>¥38.00</b>
+  </li><li>
+    Color Frame Pack：<b>¥8.00</b>
+  </li><li>
+    Retro Frame Pack：<b>¥8.00</b>
+  </li><li>
+    Stamp Frame Pack：<b>¥8.00</b>
+  </li><li>
+    Stroke Frame Pack：<b>¥8.00</b>
+  </li><li>
+    Purple Cam Film Pack：<b>¥8.00</b>
+  </li><li>
+    Blue Cam Film Pack：<b>¥8.00</b>
+  </li><li>
+    Black Cam Film Pack：<b>¥8.00</b>
+  </li><li>
+    Red Cam Film Pack：<b>¥8.00</b>
+  </li><li>
+    Green Cam Film Pack：<b>¥8.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  世界的美好很多，只是容易擦肩而过。
+有些事物之所以美好，是因为只出现在我们的回忆里。
+现在您可以使用 Goodak 拍立得胶片相机来重温旧梦。
+让您的每一张照片独一无二，充满韵味与感动。
+
+—
+尽情体验，层次满点的胶卷相机
+
++ 拍立得胶片相机，重温旧梦
++ 无需久候，即拍即冲免等待
++ 尽情拍摄，无底片数量限制
++ 相册模式，可翻拍手机照片
++ 自定义日期格式，重温旧梦
++ 取景器缩放切换，大小皆宜
++ 拍立得相纸模式，文青最爱
++ 多款相机，多样底片与水印
++ 黑白摄影底片机，层次满点
++ 自动保存模式，存档免烦恼
++ 随机底片，独一无二的美感
+
+—
+错过也好，留下也罢，都是我们生命中最美的风景
+疲倦的生活里，总要有些温柔的梦想
+世界太复杂，我们用简单的方式纪录它
+
+Goodak 复古胶片相机 - 极简复古滤镜，摄影拍立得
+感谢您的使用！我们正在开发新功能，并不断努力改善您的体验！
+联系我们：https://goodak.weebly.com
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ab/a0/86/aba08624-6a06-39cf-a241-25f6d0e4f3ab/mzl.hmqjeztb.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/72/7d/e1727d7b-2dc6-1d43-51b9-28de209d15cd/mzl.uaudkfnw.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/da/0f/0c/da0f0cb6-9071-5e7c-1a1f-4ae42bdd1c11/mzl.tnvgrvvz.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/89/da/5c/89da5c30-8802-df12-d633-1837ba29813f/mzl.zflmcguf.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/af/77/c5/af77c577-7e9f-ee4f-74a1-f62d119a8f8b/mzl.wrrlcrce.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/22/1e/d4/221ed4bb-75f6-202c-cb8c-9dcdf0e1c2fc/mzl.grotjgtl.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/55/ce/f5/55cef5d2-3354-b366-f691-80c40df804d4/mzl.iwvgubsv.png/392x696bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[汉末霸业]]></title>

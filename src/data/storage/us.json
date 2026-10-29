@@ -327105,6 +327105,14 @@
     "history": [
       [
         {
+          "timestamp": 1793295722489,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789356898180,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -338818,7 +338826,7 @@
     ]
   },
   "6752503669": {
-    "name": "Solar Arc: Golden Hour Tracker",
+    "name": "Solar Arc: Golden Hour Tracker",
     "maxPriceInfo": {
       "price": 5.99,
       "formattedPrice": "$5.99",

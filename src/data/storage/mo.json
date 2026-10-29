@@ -31443,6 +31443,14 @@
     "history": [
       [
         {
+          "timestamp": 1793295722489,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788619201969,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -75703,6 +75711,16 @@
     "history": [
       [
         {
+          "timestamp": 1793295722489,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Krycí jména: Duet": "USD 4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792626402303,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -104356,6 +104374,25 @@
     "history": [
       [
         {
+          "timestamp": 1793295722489,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Design Frame Package": "USD 0.99",
+            "Social Frame Package": "USD 0.99",
+            "Magazine Frame Package": "USD 0.99",
+            "Black Frame Pack": "USD 0.99",
+            "Geometric Frame Pack": "USD 0.99",
+            "Stamp Frame Pack": "USD 0.99",
+            "Retro Frame Pack": "USD 0.99",
+            "Stroke Frame Pack": "USD 0.99",
+            "Color Frame Pack": "USD 0.99",
+            "Upgrade Deluxe Edition": "USD 5.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792763643625,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -108228,6 +108265,25 @@
       "魔王覺醒伊利亞卡牌包": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793295722489,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "USD 3.99",
+            "原版怪獸繼承卡牌包": "USD 17.99",
+            "覺醒魔王完整卡牌包": "USD 26.99",
+            "原版魔王完整卡牌包": "USD 26.99",
+            "怪獸繼承": "USD 4.99",
+            "原版地宮卡牌包": "USD 17.99",
+            "覺醒魔王卡牌包": "USD 17.99",
+            "原版魔王權能卡牌包": "USD 17.99",
+            "覺醒技能卡牌包": "USD 17.99",
+            "原版魔王加速卡牌包": "USD 8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791290979408,
@@ -116236,6 +116292,14 @@
       "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793295722489,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1779983863369,
@@ -183968,6 +184032,14 @@
     "history": [
       [
         {
+          "timestamp": 1793295722489,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792781222157,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -192046,6 +192118,14 @@
     "history": [
       [
         {
+          "timestamp": 1793295722489,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789314064478,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -195289,6 +195369,16 @@
     "history": [
       [
         {
+          "timestamp": 1793295722489,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
+          "inAppPurchases": {
+            "art of rally: australia dlc": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791484107175,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -197511,7 +197601,7 @@
     ]
   },
   "6752503669": {
-    "name": "Solar Arc: Golden Hour Tracker",
+    "name": "Solar Arc: Golden Hour Tracker",
     "maxPriceInfo": {
       "price": 5.99,
       "formattedPrice": "USD 5.99",
@@ -212583,7 +212673,7 @@
     ]
   },
   "6753077755": {
-    "name": "How Many Dudes?",
+    "name": "好漢軍團",
     "maxPriceInfo": {
       "price": 9.99,
       "formattedPrice": "USD 9.99"
@@ -213879,6 +213969,14 @@
       "「Akane」與「Koro」已解鎖！": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793295722489,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792136164280,
@@ -215692,6 +215790,14 @@
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793295722489,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792934734921,

@@ -129405,6 +129405,24 @@
     "history": [
       [
         {
+          "timestamp": 1793295722489,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Pile of Gems": "₺149,99",
+            "Pile of Coins": "₺49,99",
+            "SF2SEPack3": "₺149,99",
+            "SF2SEPack2": "₺99,99",
+            "Casket of Gems": "₺499,99",
+            "SF2SEPack6": "₺399,99",
+            "Bag of Coins": "₺249,99",
+            "Bag of Gems": "₺999,99",
+            "Chest of Coins": "₺999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792656146968,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -165354,6 +165372,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793295722489,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺599,99",
+            "Orient Express": "₺199,99",
+            "New York 2121 Board": "₺399,99",
+            "Astronaut Token Sale": "₺149,99",
+            "The Complete Collection": "₺1.999,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "Diamond Bundle": "₺699,99",
+            "The Atlantis Board": "₺399,99",
+            "Transylvania Board": "₺399,99",
+            "Golden Dice": "₺249,99"
+          }
+        },
         {
           "timestamp": 1793243454661,
           "price": 249.99,
@@ -235820,6 +235855,23 @@
     "history": [
       [
         {
+          "timestamp": 1793295722489,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "60 Gold": "₺49,99",
+            "Double Combat Rewards": "₺99,99",
+            "Monthly Card": "₺249,99",
+            "120 Gold": "₺99,99",
+            "Backpack Expansion": "₺99,99",
+            "3280 Gold": "₺2.499,99",
+            "1280 Gold": "₺999,99",
+            "300 Gold": "₺249,99",
+            "980 Gold": "₺799,99",
+            "6480 Gold": "₺4.999,99"
+          }
+        },
+        {
           "timestamp": 1793274810835,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -270643,6 +270695,14 @@
     "history": [
       [
         {
+          "timestamp": 1793295722489,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789340065932,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -277959,7 +278019,7 @@
     ]
   },
   "6752503669": {
-    "name": "Solar Arc: Golden Hour Tracker",
+    "name": "Solar Arc: Golden Hour Tracker",
     "maxPriceInfo": {
       "price": 299.99,
       "formattedPrice": "₺299,99",

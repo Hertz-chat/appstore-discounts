@@ -555,7 +555,7 @@
   {
     "trackId": 325307477,
     "region": "tw",
-    "timestamp": 1792425460361,
+    "timestamp": 1793360824433,
     "discounts": [],
     "price": 690,
     "formattedPrice": "$690.00",
@@ -2776,7 +2776,7 @@
   {
     "trackId": 479516143,
     "region": "tw",
-    "timestamp": 1793051997931,
+    "timestamp": 1793360824433,
     "discounts": [],
     "price": 235,
     "formattedPrice": "$235.00",
@@ -10085,7 +10085,7 @@
   {
     "trackId": 1242654932,
     "region": "tw",
-    "timestamp": 1792763643625,
+    "timestamp": 1793360824433,
     "discounts": [],
     "price": 30,
     "formattedPrice": "$30.00",
@@ -21414,7 +21414,7 @@
   {
     "trackId": 6737434503,
     "region": "tw",
-    "timestamp": 1793178284917,
+    "timestamp": 1793360824433,
     "discounts": [],
     "price": 10,
     "formattedPrice": "$10.00",
@@ -24057,6 +24057,18 @@
     "firstRecordedAt": 1763072743115
   },
   {
+    "trackId": 6754094013,
+    "region": "tw",
+    "timestamp": 1793360824433,
+    "discounts": [],
+    "price": 320,
+    "formattedPrice": "$320.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6754094013",
+    "trackName": "Zombie Assault: Resurgence",
+    "firstRecordedAt": 1793360824433
+  },
+  {
     "trackId": 6754315964,
     "region": "tw",
     "timestamp": 1792678231846,
@@ -25117,7 +25129,7 @@
   {
     "trackId": 6759664029,
     "region": "tw",
-    "timestamp": 1793330060259,
+    "timestamp": 1793360824433,
     "discounts": [],
     "price": 220,
     "formattedPrice": "$220.00",
@@ -26219,6 +26231,18 @@
     "firstRecordedAt": 1790711274462
   },
   {
+    "trackId": 6783953753,
+    "region": "tw",
+    "timestamp": 1793360824433,
+    "discounts": [],
+    "price": 190,
+    "formattedPrice": "$190.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6783953753",
+    "trackName": "Batomon Showdown",
+    "firstRecordedAt": 1793360824433
+  },
+  {
     "trackId": 6785008015,
     "region": "tw",
     "timestamp": 1783087390633,
@@ -26239,7 +26263,7 @@
     "formattedPrice": "$120.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6785090016",
-    "trackName": "Alpin Quest PRO: Outdoor GPS",
+    "trackName": "Alpin Quest: Offline Maps PRO",
     "firstRecordedAt": 1784860637377
   },
   {
@@ -26703,7 +26727,7 @@
   {
     "trackId": 6801980968,
     "region": "tw",
-    "timestamp": 1793113178688,
+    "timestamp": 1793360824433,
     "discounts": [],
     "price": 49,
     "formattedPrice": "$49.00",

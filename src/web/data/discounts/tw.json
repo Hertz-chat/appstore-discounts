@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6801980968,
+    "region": "tw",
+    "timestamp": 1793360824433,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$60.00",
+        "to": "$49.00",
+        "range": "[$49.00 ~ $60.00]"
+      }
+    ],
+    "price": 49,
+    "formattedPrice": "$49.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6801980968",
+    "trackName": "塔與傭兵團",
+    "firstRecordedAt": 1790160655952
+  },
+  {
     "trackId": 6803329435,
     "region": "tw",
     "timestamp": 1793311668998,
@@ -7581,7 +7601,7 @@
     "formattedPrice": "$120.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6785090016",
-    "trackName": "Alpin Quest PRO: Outdoor GPS",
+    "trackName": "Alpin Quest: Offline Maps PRO",
     "firstRecordedAt": 1784860637377
   },
   {

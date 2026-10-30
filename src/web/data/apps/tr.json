@@ -5797,7 +5797,7 @@
   {
     "trackId": 860809977,
     "region": "tr",
-    "timestamp": 1793051997931,
+    "timestamp": 1793360824433,
     "discounts": [],
     "price": 249.99,
     "formattedPrice": "₺249,99",
@@ -10302,7 +10302,7 @@
   {
     "trackId": 1261834568,
     "region": "tr",
-    "timestamp": 1793295722489,
+    "timestamp": 1793360824433,
     "discounts": [],
     "price": 249.99,
     "formattedPrice": "₺249,99",
@@ -13303,7 +13303,7 @@
   {
     "trackId": 1477966166,
     "region": "tr",
-    "timestamp": 1793295722489,
+    "timestamp": 1793360824433,
     "discounts": [],
     "price": 249.99,
     "formattedPrice": "₺249,99",
@@ -19623,7 +19623,7 @@
   {
     "trackId": 6473001577,
     "region": "tr",
-    "timestamp": 1793330060259,
+    "timestamp": 1793360824433,
     "discounts": [],
     "price": 199.99,
     "formattedPrice": "₺199,99",
@@ -23657,6 +23657,18 @@
     "firstRecordedAt": 1763072743115
   },
   {
+    "trackId": 6754094013,
+    "region": "tr",
+    "timestamp": 1793360824433,
+    "discounts": [],
+    "price": 499.99,
+    "formattedPrice": "₺499,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6754094013",
+    "trackName": "Zombie Assault: Resurgence",
+    "firstRecordedAt": 1793360824433
+  },
+  {
     "trackId": 6754234559,
     "region": "tr",
     "timestamp": 1761546067814,
@@ -25840,6 +25852,18 @@
     "firstRecordedAt": 1790711274462
   },
   {
+    "trackId": 6783953753,
+    "region": "tr",
+    "timestamp": 1793360824433,
+    "discounts": [],
+    "price": 299.99,
+    "formattedPrice": "₺299,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6783953753",
+    "trackName": "Batomon Showdown",
+    "firstRecordedAt": 1793360824433
+  },
+  {
     "trackId": 6785008015,
     "region": "tr",
     "timestamp": 1783087390633,
@@ -25860,7 +25884,7 @@
     "formattedPrice": "₺199,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6785090016",
-    "trackName": "Alpin Quest PRO: Outdoor GPS",
+    "trackName": "Alpin Quest: Offline Maps PRO",
     "firstRecordedAt": 1784860637377
   },
   {

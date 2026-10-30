@@ -19756,7 +19756,7 @@
   {
     "trackId": 6473001577,
     "region": "mo",
-    "timestamp": 1793330060259,
+    "timestamp": 1793360824433,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "USD 3.99",
@@ -23932,6 +23932,18 @@
     "firstRecordedAt": 1763072743115
   },
   {
+    "trackId": 6754094013,
+    "region": "mo",
+    "timestamp": 1793360824433,
+    "discounts": [],
+    "price": 9.99,
+    "formattedPrice": "USD 9.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6754094013",
+    "trackName": "Zombie Assault: Resurgence",
+    "firstRecordedAt": 1793360824433
+  },
+  {
     "trackId": 6754315964,
     "region": "mo",
     "timestamp": 1792678231846,
@@ -26080,6 +26092,18 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id6783872393",
     "trackName": "OpenWebUI - Mobile",
     "firstRecordedAt": 1790711274462
+  },
+  {
+    "trackId": 6783953753,
+    "region": "mo",
+    "timestamp": 1793360824433,
+    "discounts": [],
+    "price": 5.99,
+    "formattedPrice": "USD 5.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6783953753",
+    "trackName": "Batomon Showdown",
+    "firstRecordedAt": 1793360824433
   },
   {
     "trackId": 6785008015,

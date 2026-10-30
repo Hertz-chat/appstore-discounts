@@ -72858,6 +72858,25 @@
     "history": [
       [
         {
+          "timestamp": 1793360824433,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "1 Mo. CAN Texting": "₺149,99",
+            "$5 Credit": "₺299,99",
+            "1 Mo. Global Texting": "₺199,99",
+            "6 Mo. Global Texting": "₺799,99",
+            "3 Mo. CAN Texting": "₺299,99",
+            "$20 Credit": "₺999,99",
+            "$10 Credit": "₺499,99",
+            "1 Mo. Fongo Plus": "₺499,99",
+            "6 Mo. CAN Texting": "₺499,99",
+            "$50 Credit": "₺2.499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793051997931,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -129558,6 +129577,24 @@
     "history": [
       [
         {
+          "timestamp": 1793360824433,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Pile of Gems": "₺149,99",
+            "Pile of Coins": "₺49,99",
+            "SF2SEPack3": "₺149,99",
+            "SF2SEPack2": "₺99,99",
+            "Casket of Gems": "₺499,99",
+            "SF2SEPack6": "₺399,99",
+            "Bag of Coins": "₺249,99",
+            "Bag of Gems": "₺999,99",
+            "SF2SEPack15": "₺799,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793295722489,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -165562,6 +165599,25 @@
       "Chopper Token": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793360824433,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺599,99",
+            "Orient Express": "₺199,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "New York 2121 Board": "₺399,99",
+            "Astronaut Token Sale": "₺149,99",
+            "Speed Die": "₺799,99",
+            "The Complete Collection": "₺1.999,99",
+            "The Atlantis Board": "₺399,99",
+            "Transylvania Board": "₺399,99",
+            "Diamond Bundle": "₺699,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793295722489,
@@ -249137,6 +249193,23 @@
     "history": [
       [
         {
+          "timestamp": 1793360824433,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "EC135": "₺49,99",
+            "Boeing 737-900": "₺99,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Boeing 747-400": "₺99,99",
+            "Airbus A350-1000": "₺199,99",
+            "Boeing 737": "₺49,99"
+          }
+        },
+        {
           "timestamp": 1793330060259,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -294421,7 +294494,7 @@
     ]
   },
   "6785090016": {
-    "name": "Alpin Quest PRO: Outdoor GPS",
+    "name": "Alpin Quest: Offline Maps PRO",
     "maxPriceInfo": {
       "price": 399.99,
       "formattedPrice": "₺399,99"
@@ -299981,6 +300054,48 @@
           "timestamp": 1793311668998,
           "price": 2.99,
           "formattedPrice": "₺2,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6783953753": {
+    "name": "Batomon Showdown",
+    "maxPriceInfo": {
+      "price": 299.99,
+      "formattedPrice": "₺299,99"
+    },
+    "minPriceInfo": {
+      "price": 299.99,
+      "formattedPrice": "₺299,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793360824433,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6754094013": {
+    "name": "Zombie Assault: Resurgence",
+    "maxPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "minPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793360824433,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
           "inAppPurchases": {}
         }
       ]

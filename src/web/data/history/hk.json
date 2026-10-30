@@ -24768,6 +24768,14 @@
     "history": [
       [
         {
+          "timestamp": 1793380885407,
+          "price": 128,
+          "formattedPrice": "HK$ 128.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792277094972,
           "price": 98,
           "formattedPrice": "HK$ 98.00",
@@ -37153,6 +37161,25 @@
       "大正晝夜譚組合包": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793380885407,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "大富翁4 Fun 美國地圖": "HK$ 8.00",
+            "「日本香港組合包」": "HK$ 8.00",
+            "大富翁 4 fun 仙劍仙靈島組合包": "HK$ 8.00",
+            "大富翁 4 fun 韓國地圖組合包": "HK$ 8.00",
+            "大富翁 4 fun 軒轅劍太山組合包": "HK$ 8.00",
+            "小包元寶": "HK$ 18.00",
+            "很多元寶": "HK$ 38.00",
+            "仙五地圖包": "HK$ 8.00",
+            "大富翁 4 fun 樂園組合包": "HK$ 8.00",
+            "大富翁4 Fun夏日組合包": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792462971499,
@@ -123436,6 +123463,25 @@
     "history": [
       [
         {
+          "timestamp": 1793380885407,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "高速模式": "HK$ 8.00",
+            "開羅雕像2": "HK$ 18.00",
+            "跳舞的開羅君": "HK$ 18.00",
+            "開羅雕像套組": "HK$ 18.00",
+            "跳舞開羅姬": "HK$ 18.00",
+            "跳舞的歪羅君": "HK$ 18.00",
+            "回到童年": "HK$ 8.00",
+            "森野熊服": "HK$ 8.00",
+            "聖誕服": "HK$ 8.00",
+            "企鵝服": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793360824433,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -125113,6 +125159,25 @@
       "648元礼包三": "HK$ 788.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793380885407,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "江湖名士": "HK$ 32.00",
+            "秦王的宝藏": "HK$ 188.00",
+            "一盒元宝": "HK$ 22.00",
+            "鳌拜的私房钱": "HK$ 68.00",
+            "一袋元宝": "HK$ 8.00",
+            "30元礼包": "HK$ 32.00",
+            "6元礼包": "HK$ 8.00",
+            "60元礼包": "HK$ 68.00",
+            "30元礼包四": "HK$ 32.00",
+            "6元礼包二": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -222099,6 +222164,25 @@
     "history": [
       [
         {
+          "timestamp": 1793380885407,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "All Unit Groups": "HK$ 98.00",
+            "All Heroes": "HK$ 118.00",
+            "Hero Dragon Kosmos": "HK$ 58.00",
+            "Unit Group Jaegers": "HK$ 58.00",
+            "Hero Red Dragon": "HK$ 48.00",
+            "Unit Group Rebooted Ascendii": "HK$ 22.00",
+            "Hero Red Dragon On Sale": "HK$ 32.00",
+            "Unit Group Planterras": "HK$ 22.00",
+            "Hero Gauntlet": "HK$ 38.00",
+            "Hero Zhara": "HK$ 38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793360824433,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -266024,14 +266108,22 @@
     "trackName": "Just a Simple Image Converter",
     "region": "hk",
     "maxPriceInfo": {
-      "price": 58,
-      "formattedPrice": "HK$ 58.00"
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793380885407,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793295722489,
@@ -278558,6 +278650,17 @@
       "The Weaver": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793380885407,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "The Weaver": "HK$ 22.00",
+            "Developer Supporter Pack": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792863731561,
@@ -302704,6 +302807,25 @@
     "history": [
       [
         {
+          "timestamp": 1793380885407,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "魔界擴充通行證": "HK$ 48.00",
+            "深淵開拓者": "HK$ 88.00",
+            "超越精華": "HK$ 228.00",
+            "隱月造型套裝": "HK$ 88.00",
+            "時間旅行者": "HK$ 48.00",
+            "永恆方舟": "HK$ 228.00",
+            "尼奧貝希摩斯": "HK$ 18.00",
+            "訓練記憶": "HK$ 148.00",
+            "成長之始": "HK$ 88.00",
+            "魔界通行證1": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793208660555,
           "price": 48,
           "formattedPrice": "HK$ 48.00",
@@ -307819,7 +307941,7 @@
   },
   "6785090016": {
     "trackId": 6785090016,
-    "trackName": "Alpin Quest PRO: Outdoor GPS",
+    "trackName": "Alpin Quest: Offline Maps PRO",
     "region": "hk",
     "maxPriceInfo": {
       "price": 58,
@@ -310282,6 +310404,16 @@
       "Keeps Pro": "HK$ 9.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793380885407,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Keeps Pro": "HK$ 44.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792201899634,
@@ -312856,14 +312988,22 @@
     "trackName": "P's Pocket",
     "region": "hk",
     "maxPriceInfo": {
-      "price": 88,
-      "formattedPrice": "HK$ 88.00"
+      "price": 118,
+      "formattedPrice": "HK$ 118.00"
     },
     "minPriceInfo": {
       "price": 88,
       "formattedPrice": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793380885407,
+          "price": 118,
+          "formattedPrice": "HK$ 118.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792742526515,

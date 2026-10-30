@@ -17606,6 +17606,14 @@
     "history": [
       [
         {
+          "timestamp": 1793380885407,
+          "price": 16.99,
+          "formattedPrice": "USD 16.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792277094972,
           "price": 12.99,
           "formattedPrice": "USD 12.99",
@@ -162937,6 +162945,25 @@
     "history": [
       [
         {
+          "timestamp": 1793380885407,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "All Unit Groups": "USD 12.99",
+            "All Heroes": "USD 14.99",
+            "Hero Dragon Kosmos": "USD 6.99",
+            "Hero Gauntlet": "USD 4.99",
+            "pack 21": "USD 7.99",
+            "Special Daily Pack20": "USD 2.99",
+            "Special Daily Pack19": "USD 1.99",
+            "Special Daily Pack18": "USD 3.99",
+            "Special Daily Pack17": "USD 3.99",
+            "Special Daily Pack16": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -184030,14 +184057,22 @@
   "6471594918": {
     "name": "Just a Simple Image Converter",
     "maxPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "USD 7.99"
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793380885407,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793295722489,
@@ -189768,6 +189803,17 @@
       "The Weaver": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793380885407,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "The Weaver": "USD 2.99",
+            "Developer Supporter Pack": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792863731561,
@@ -212425,7 +212471,7 @@
     ]
   },
   "6785090016": {
-    "name": "Alpin Quest PRO: Outdoor GPS",
+    "name": "Alpin Quest: Offline Maps PRO",
     "maxPriceInfo": {
       "price": 7.99,
       "formattedPrice": "USD 7.99"
@@ -214848,6 +214894,16 @@
     "history": [
       [
         {
+          "timestamp": 1793380885407,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Keeps Pro": "USD 4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792201899634,
           "price": 0,
           "formattedPrice": "免費",
@@ -216512,14 +216568,22 @@
   "6819720065": {
     "name": "P's Pocket",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "USD 9.99"
+      "price": 14.99,
+      "formattedPrice": "USD 14.99"
     },
     "minPriceInfo": {
       "price": 9.99,
       "formattedPrice": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793380885407,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792742526515,

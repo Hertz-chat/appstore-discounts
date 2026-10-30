@@ -698,7 +698,7 @@
         "name": "Price",
         "from": "₺249,99",
         "to": "₺49,99",
-        "range": "[Free ~ ₺399,99]"
+        "range": "[Free ~ ₺499,99]"
       }
     ],
     "price": 49.99,
@@ -1479,7 +1479,7 @@
         "name": "Price",
         "from": "₺299,99",
         "to": "₺49,99",
-        "range": "[Free ~ ₺399,99]"
+        "range": "[Free ~ ₺499,99]"
       }
     ],
     "price": 49.99,
@@ -10081,7 +10081,7 @@
         "name": "Price",
         "from": "₺399,99",
         "to": "Free",
-        "range": "[Free ~ ₺399,99]"
+        "range": "[Free ~ ₺499,99]"
       }
     ],
     "price": 0,
@@ -10611,7 +10611,7 @@
         "name": "Price",
         "from": "₺9,99",
         "to": "Free",
-        "range": "[Free ~ ₺399,99]"
+        "range": "[Free ~ ₺499,99]"
       }
     ],
     "price": 0,

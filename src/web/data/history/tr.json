@@ -250600,8 +250600,8 @@
     "trackName": "Just a Simple Image Converter",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 399.99,
-      "formattedPrice": "₺399,99"
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -250609,6 +250609,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793380885407,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793311668998,
           "price": 249.99,
@@ -291093,7 +291099,16 @@
       "Worship Drum Kit 3": "₺49,99",
       "Worship Drum Kit 2": "₺49,99",
       "Worship Drum Kit 1": "₺49,99",
-      "StageLab": "₺299,99"
+      "StageLab": "₺299,99",
+      "Pad Mix Pro": "₺99,99",
+      "Pad Pulse Pro": "₺99,99",
+      "Arp Pro": "₺99,99",
+      "Sequencer Pro": "₺149,99",
+      "Worship Pad": "₺39,99",
+      "Analog Pad 2": "₺39,99",
+      "Atmospheric Pad EFX": "₺39,99",
+      "Haze Pad EFX": "₺39,99",
+      "Pad Wind EFX": "₺39,99"
     },
     "minPriceInfo": {
       "price": 149.99,
@@ -291108,10 +291123,36 @@
       "Worship Drum Kit 3": "₺49,99",
       "Worship Drum Kit 2": "₺49,99",
       "Worship Drum Kit 1": "₺49,99",
-      "StageLab": "₺299,99"
+      "StageLab": "₺299,99",
+      "Pad Mix Pro": "₺99,99",
+      "Pad Pulse Pro": "₺99,99",
+      "Arp Pro": "₺99,99",
+      "Sequencer Pro": "₺149,99",
+      "Worship Pad": "₺39,99",
+      "Analog Pad 2": "₺39,99",
+      "Atmospheric Pad EFX": "₺39,99",
+      "Haze Pad EFX": "₺39,99",
+      "Pad Wind EFX": "₺39,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1793380885407,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "StageLab": "₺299,99",
+            "Pad Mix Pro": "₺99,99",
+            "Pad Pulse Pro": "₺99,99",
+            "Arp Pro": "₺99,99",
+            "Sequencer Pro": "₺149,99",
+            "Worship Pad": "₺39,99",
+            "Analog Pad 2": "₺39,99",
+            "Atmospheric Pad EFX": "₺39,99",
+            "Haze Pad EFX": "₺39,99",
+            "Pad Wind EFX": "₺39,99"
+          }
+        },
         {
           "timestamp": 1793330060259,
           "price": 149.99,

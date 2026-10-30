@@ -697,7 +697,7 @@
         "name": "Price",
         "from": "$4.99",
         "to": "$0.99",
-        "range": "[Free ~ $7.99]"
+        "range": "[Free ~ $9.99]"
       }
     ],
     "price": 0.99,
@@ -1552,7 +1552,7 @@
         "name": "Price",
         "from": "$5.99",
         "to": "$0.99",
-        "range": "[Free ~ $7.99]"
+        "range": "[Free ~ $9.99]"
       }
     ],
     "price": 0.99,
@@ -9930,7 +9930,7 @@
         "name": "Price",
         "from": "$7.99",
         "to": "$4.99",
-        "range": "[Free ~ $7.99]"
+        "range": "[Free ~ $9.99]"
       }
     ],
     "price": 4.99,
@@ -10439,7 +10439,7 @@
         "name": "Price",
         "from": "$4.99",
         "to": "Free",
-        "range": "[Free ~ $7.99]"
+        "range": "[Free ~ $9.99]"
       }
     ],
     "price": 0,

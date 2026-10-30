@@ -772,7 +772,7 @@
         "name": "Price",
         "from": "5,99 €",
         "to": "0,99 €",
-        "range": "[Gratuito ~ 8,99 €]"
+        "range": "[Gratuito ~ 9,99 €]"
       }
     ],
     "price": 0.99,
@@ -1580,7 +1580,7 @@
         "name": "Price",
         "from": "6,99 €",
         "to": "0,99 €",
-        "range": "[Gratuito ~ 8,99 €]"
+        "range": "[Gratuito ~ 9,99 €]"
       }
     ],
     "price": 0.99,
@@ -9803,7 +9803,7 @@
         "name": "Price",
         "from": "8,99 €",
         "to": "5,99 €",
-        "range": "[Gratuito ~ 8,99 €]"
+        "range": "[Gratuito ~ 9,99 €]"
       }
     ],
     "price": 5.99,
@@ -10285,7 +10285,7 @@
         "name": "Price",
         "from": "5,99 €",
         "to": "Gratuito",
-        "range": "[Gratuito ~ 8,99 €]"
+        "range": "[Gratuito ~ 9,99 €]"
       }
     ],
     "price": 0,

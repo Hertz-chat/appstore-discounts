@@ -18394,6 +18394,25 @@
     "history": [
       [
         {
+          "timestamp": 1793330060259,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "₺199,99",
+            "Gold Monthly": "₺349,99",
+            "Predictive Report - Full": "₺199,99",
+            "Gold Level Free Trial": "₺0,00",
+            "Relationship Report": "₺199,99",
+            "Birthday Report": "₺199,99",
+            "7-day Trial Astrolocality": "₺0,00",
+            "Child Report - Full": "₺199,99",
+            "Astrolocality Maps": "₺1.299,99",
+            "Predictive Report - No Background": "₺149,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793274810835,
           "price": 0,
           "formattedPrice": "Free",
@@ -22497,7 +22516,7 @@
       "Synthetix Beats": "₺99,99",
       "Oldschool Breakbeats": "₺99,99",
       "Sliced Synth Sequences": "₺149,99",
-      "FL Cloud Mobile": "₺129,99"
+      "FL Cloud Mobile": "₺799,99"
     },
     "minPriceInfo": {
       "price": 399.99,
@@ -22528,6 +22547,24 @@
       "FL Cloud Mobile": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793330060259,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "₺49,99",
+            "Synth Lead": "₺99,99",
+            "Voices": "₺49,99",
+            "Varazdin Orchestral Mobile": "₺199,99",
+            "Sliced Beats": "₺49,99",
+            "Amped Guitar & Bass": "₺149,99",
+            "FL Cloud Mobile": "₺799,99",
+            "Acoustic Guitars": "₺49,99",
+            "Technocraft": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793068805806,
@@ -79562,6 +79599,23 @@
     "history": [
       [
         {
+          "timestamp": 1793330060259,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "DLC Sisters in Arms": "₺149,99",
+            "Biomes Add-on": "₺99,99",
+            "Grottoes Add-on": "₺49,99",
+            "Abandoned Mines Add-on": "₺49,99",
+            "Heroes Add-on": "₺199,99",
+            "Bosses & Monsters Add-on": "₺399,99",
+            "Wonderwood Add-on": "₺499,99",
+            "Temples of 4 Elements Add-on": "₺199,99",
+            "Invasion Add-on": "₺249,99",
+            "Heart of Evil Add-on": "₺399,99"
+          }
+        },
+        {
           "timestamp": 1793311668998,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -106947,14 +107001,22 @@
     "trackName": "CopperKnob",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99"
+      "price": 299.99,
+      "formattedPrice": "₺299,99"
     },
     "minPriceInfo": {
       "price": 199.99,
       "formattedPrice": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793330060259,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1774789916959,
@@ -107873,6 +107935,25 @@
       "Insta Monkey Bucket 1": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793330060259,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Pile O Monkey Money Sale": "₺149,99",
+            "Monkey Money": "₺99,99",
+            "(5,000) Monkey XP": "₺19,99",
+            "Vault O Monkey Money Sale": "₺299,99",
+            "Full Tower Unlock": "₺249,99",
+            "Pile O Monkey Money": "₺249,99",
+            "Double Cash Mode": "₺399,99",
+            "Paragon Unlock": "₺249,99",
+            "Extra Monkey Money": "₺99,99",
+            "Tower and Paragon Unlock": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792980161097,
@@ -113037,6 +113118,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793330060259,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Open the box to get the rocket": "₺49,99",
+            "Get the main entrance lighthouse passcode": "₺49,99",
+            "Props Tip: Pyramid": "₺49,99",
+            "Props Tip: Temple corner": "₺49,99",
+            "Get coffin password": "₺49,99",
+            "Get inside the temple door password": "₺49,99",
+            "Props Tip: flower": "₺49,99",
+            "Pyramid obtain dial pointer display mode": "₺49,99",
+            "Rockets get the door unlocking": "₺49,99",
+            "Lighthouse obtain exit door passcode": "₺49,99"
+          }
+        },
         {
           "timestamp": 1793311668998,
           "price": 49.99,
@@ -214300,6 +214398,25 @@
     "history": [
       [
         {
+          "timestamp": 1793330060259,
+          "price": 169.99,
+          "formattedPrice": "₺169,99",
+          "inAppPurchases": {
+            "Content Bundle 1": "₺169,99",
+            "Content Bundle 2": "₺139,99",
+            "Getaway Car Pack": "₺49,99",
+            "Modified Monsters Car Pack": "₺49,99",
+            "Steel & Wheels Pack": "₺29,99",
+            "Off-Road Car Pack": "₺49,99",
+            "Racing Heroes Car Pack": "₺49,99",
+            "Rusty Rats Car Pack": "₺49,99",
+            "Goofy Roofs Pack": "₺19,99",
+            "American All-Stars Car Pack": "₺49,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793146065483,
           "price": 169.99,
           "formattedPrice": "₺169,99",
@@ -252250,6 +252367,25 @@
       "Airbus A321 XLR": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793330060259,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 737-900": "₺99,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Boeing 747-400": "₺99,99",
+            "Airbus A350-1000": "₺199,99",
+            "Boeing 737": "₺49,99",
+            "Global scenery - 3 months": "₺399,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793243454661,
@@ -290883,7 +291019,8 @@
       "Worship Cinematic": "₺49,99",
       "Worship Drum Kit 3": "₺49,99",
       "Worship Drum Kit 2": "₺49,99",
-      "Worship Drum Kit 1": "₺49,99"
+      "Worship Drum Kit 1": "₺49,99",
+      "StageLab": "₺299,99"
     },
     "minPriceInfo": {
       "price": 149.99,
@@ -290897,9 +291034,29 @@
       "Worship Cinematic": "₺49,99",
       "Worship Drum Kit 3": "₺49,99",
       "Worship Drum Kit 2": "₺49,99",
-      "Worship Drum Kit 1": "₺49,99"
+      "Worship Drum Kit 1": "₺49,99",
+      "StageLab": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793330060259,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "StageLab": "₺299,99",
+            "PadLab Full App": "₺499,99",
+            "PadLab Worship Complete": "₺399,99",
+            "Worship Drum Collection": "₺199,99",
+            "Coleção Completa de Pads": "₺249,99",
+            "Worship EFX": "₺49,99",
+            "Worship 808": "₺49,99",
+            "Worship Cinematic": "₺49,99",
+            "Worship Drum Kit 3": "₺49,99",
+            "Worship Drum Kit 2": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792569835923,
@@ -301173,7 +301330,8 @@
       "Costume · Halloween Set 3": "₺149,99",
       "Costume · Halloween Set 2": "₺149,99",
       "Costume · Halloween Set 1": "₺149,99",
-      "Hero · Elowyn Briar": "₺49,99"
+      "Hero · Elowyn Briar": "₺49,99",
+      "Bundle · Knights of Light": "₺499,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -301191,9 +301349,29 @@
       "Costume · Halloween Set 3": "₺149,99",
       "Costume · Halloween Set 2": "₺149,99",
       "Costume · Halloween Set 1": "₺149,99",
-      "Hero · Elowyn Briar": "₺49,99"
+      "Hero · Elowyn Briar": "₺49,99",
+      "Bundle · Knights of Light": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793330060259,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Bundle · Knights of Light": "₺499,99",
+            "Costume · Halloween Set 3": "₺149,99",
+            "Costume · Halloween Set 2": "₺149,99",
+            "Costume · Halloween Set 1": "₺149,99",
+            "Hero · Elowyn Briar": "₺49,99",
+            "Hero · Rosel Ironbloom": "₺49,99",
+            "Hero · Sargul Krach": "₺49,99",
+            "Hero · Fine Kaltenbach": "₺49,99",
+            "Hero · Irena von Strahl": "₺49,99",
+            "Support Tier 1 · Supporter": "₺29,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792781222157,
@@ -301349,6 +301527,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793330060259,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Gems Barrel": "₺499,99",
+            "Gems Pouch": "₺249,99",
+            "Hero Ashbite": "₺399,99",
+            "Tower Sniper": "₺299,99",
+            "Hero Oni": "₺249,99",
+            "Tower Alchemist": "₺149,99",
+            "Tower Wildcat": "₺249,99",
+            "Hero Drakkan": "₺399,99",
+            "Tower Ironbark": "₺399,99",
+            "Tower Forger": "₺249,99"
+          }
+        },
         {
           "timestamp": 1793311668998,
           "price": 399.99,

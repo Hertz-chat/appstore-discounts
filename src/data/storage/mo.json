@@ -83376,14 +83376,22 @@
   "1112916047": {
     "name": "CopperKnob",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "price": 5.99,
+      "formattedPrice": "USD 5.99"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793330060259,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1774789916959,
@@ -185731,6 +185739,25 @@
     "history": [
       [
         {
+          "timestamp": 1793330060259,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Airbus A321 XLR": "USD 3.99",
+            "Boeing 787-9": "USD 3.99",
+            "Airbus A320neo": "USD 3.99",
+            "Me 262": "USD 1.99",
+            "Boeing 737-800": "USD 2.99",
+            "Airbus A350-1000": "USD 3.99",
+            "Robin DR400": "USD 0.99",
+            "Boeing 777F": "USD 1.99",
+            "Airbus A319": "USD 1.99",
+            "Antares 21E": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792397485602,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -214858,7 +214885,8 @@
       "服裝 · 萬聖節套組 3": "USD 2.99",
       "服裝 · 萬聖節套組 2": "USD 2.99",
       "服裝 · 萬聖節套組 1": "USD 2.99",
-      "付費角色・艾洛溫": "USD 0.99"
+      "付費角色・艾洛溫": "USD 0.99",
+      "組合・光之騎士團": "USD 9.99"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -214876,9 +214904,29 @@
       "服裝 · 萬聖節套組 3": "USD 2.99",
       "服裝 · 萬聖節套組 2": "USD 2.99",
       "服裝 · 萬聖節套組 1": "USD 2.99",
-      "付費角色・艾洛溫": "USD 0.99"
+      "付費角色・艾洛溫": "USD 0.99",
+      "組合・光之騎士團": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793330060259,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "組合・光之騎士團": "USD 9.99",
+            "服裝 · 萬聖節套組 3": "USD 2.99",
+            "服裝 · 萬聖節套組 2": "USD 2.99",
+            "服裝 · 萬聖節套組 1": "USD 2.99",
+            "付費角色・艾洛溫": "USD 0.99",
+            "付費角色・蘿潔爾": "USD 0.99",
+            "付費角色・薩爾古爾": "USD 0.99",
+            "付費角色・菲涅": "USD 0.99",
+            "付費角色・伊蕾娜": "USD 0.99",
+            "贊助第一階・贊助者": "USD 0.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792798647744,

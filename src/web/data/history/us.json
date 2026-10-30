@@ -4771,6 +4771,23 @@
     "history": [
       [
         {
+          "timestamp": 1793330060259,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Guitar & Bass Sweeteners": "$5.99",
+            "Tuning Tools": "$9.99",
+            "Harmonic Tuning": "$19.99",
+            "Bluegrass Sweeteners": "$5.99",
+            "Extended Frequency Modes": "$4.99",
+            "Full Discounted Upgrade Pack": "$59.99",
+            "Steel Guitar Sweeteners": "$14.99",
+            "Orchestral Sweeteners": "$5.99",
+            "Keyboard Sweeteners": "$19.99",
+            "Buzz Feiten Pack": "$5.99"
+          }
+        },
+        {
           "timestamp": 1793311668998,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -15281,6 +15298,25 @@
       "Joplin: The Mutopia Collection": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793330060259,
+          "price": 24.99,
+          "formattedPrice": "$24.99",
+          "inAppPurchases": {
+            "forScore Pro + Family Sharing": "$24.99",
+            "forScore Pro 30-Day Pass": "$2.99",
+            "Haydn: String Quartets": "$1.99",
+            "Christmas Carol Collection": "$1.99",
+            "Bach: Cello Suites": "$1.99",
+            "Vivaldi: The Four Seasons": "$1.99",
+            "Mozart: Twelve Duets": "$1.99",
+            "The Mutopia Piano Collection": "$4.99",
+            "forScore Pro": "$14.99",
+            "Voluntary Upgrade": "$7.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793208660555,
@@ -44120,6 +44156,14 @@
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793330060259,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788664115804,
@@ -111663,6 +111707,16 @@
     "history": [
       [
         {
+          "timestamp": 1793330060259,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Krycí jména: Duet": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792635061631,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -119656,14 +119710,22 @@
     "trackName": "CopperKnob",
     "region": "us",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "$3.99"
+      "price": 5.99,
+      "formattedPrice": "$5.99"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793330060259,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1774789916959,
@@ -152934,6 +152996,25 @@
     "history": [
       [
         {
+          "timestamp": 1793330060259,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$5.99",
+            "Retro Frame Pack": "$0.99",
+            "Color Frame Pack": "$0.99",
+            "Blue Cam Film Pack": "$0.99",
+            "Stroke Frame Pack": "$0.99",
+            "Black Cam Film Pack": "$0.99",
+            "Purple Cam Film Pack": "$0.99",
+            "Green Cam Film Pack": "$0.99",
+            "Stamp Frame Pack": "$0.99",
+            "Red Cam Film Pack": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793051997931,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -157685,6 +157766,25 @@
       "Original Dark Lord Package": "$8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793330060259,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "$3.99",
+            "Original Succession Package": "$17.99",
+            "Dark Lord Awakening Complete": "$26.99",
+            "Awakened Irea Package": "$4.99",
+            "Monster Succession": "$4.99",
+            "Awakening Viper Package": "$4.99",
+            "Dark Lord Boost Package": "$8.99",
+            "Original Lord Complete Package": "$26.99",
+            "Torture Master Package": "$22.99",
+            "Original Dungeon Package": "$17.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,
@@ -205819,6 +205919,25 @@
     "history": [
       [
         {
+          "timestamp": 1793330060259,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Tamer Kit": "$0.99",
+            "Master Package": "$19.99",
+            "Starter Package": "$4.99",
+            "Prime Gemma 1200": "$9.99",
+            "Prime Gemma 2500": "$19.99",
+            "Prime Gemma 500": "$4.99",
+            "Hunter Package": "$9.99",
+            "Evoker Kit": "$0.99",
+            "Prime gemma 100": "$0.99",
+            "Evoker Package": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793243454661,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -228662,6 +228781,23 @@
     "history": [
       [
         {
+          "timestamp": 1793330060259,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$9.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Word Bonanza Bundle": "$19.99",
+            "Generations Gen Z Pack": "$1.99",
+            "Midnight Night Out Pack": "$2.99",
+            "Midnight Bedroom Pack": "$2.99",
+            "Mystery Mix Pack 1": "$1.99",
+            "Ready to Roast": "$6.49",
+            "Sports and Games Pack": "$7.99",
+            "Celebrity Deck": "$6.49"
+          }
+        },
+        {
           "timestamp": 1793274810835,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -244059,6 +244195,25 @@
       "Retro Rammers Car Pack": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793330060259,
+          "price": 10.99,
+          "formattedPrice": "$10.99",
+          "inAppPurchases": {
+            "Content Bundle 1": "$10.99",
+            "Content Bundle 2": "$8.99",
+            "Getaway Car Pack": "$2.99",
+            "Modified Monsters Car Pack": "$2.99",
+            "Off-Road Car Pack": "$2.99",
+            "Racing Heroes Car Pack": "$2.99",
+            "Steel & Wheels Pack": "$1.99",
+            "American All-Stars Car Pack": "$2.99",
+            "Banger Racing Car Pack": "$2.99",
+            "Rusty Rats Car Pack": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793089647083,
@@ -306473,6 +306628,14 @@
     "history": [
       [
         {
+          "timestamp": 1793330060259,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792781222157,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -339388,6 +339551,16 @@
     "history": [
       [
         {
+          "timestamp": 1793330060259,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {
+            "art of rally: australia dlc": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792626402303,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -347253,6 +347426,14 @@
     "history": [
       [
         {
+          "timestamp": 1793330060259,
+          "price": 10.99,
+          "formattedPrice": "$10.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792050467334,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -350464,6 +350645,25 @@
       "BLACK VAMPIRE": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793330060259,
+          "price": 3.49,
+          "formattedPrice": "$3.49",
+          "inAppPurchases": {
+            "RED RYUKIN": "$1.99",
+            "RED-WHITE RYUKIN": "$1.99",
+            "ROBO FISH 02": "$1.99",
+            "PANDA TELESCOPE": "$1.99",
+            "SKELETON FISH": "$1.99",
+            "YELLOW GOLD RYUKIN": "$1.99",
+            "CALICO RED/WHITE/BLACK": "$1.99",
+            "GHOST TRANSLUCENT": "$1.99",
+            "CALICO KITTY FISH": "$1.99",
+            "SAKURA RYUKIN": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793130591753,
@@ -363264,6 +363464,14 @@
     "history": [
       [
         {
+          "timestamp": 1793330060259,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792136164280,
           "price": 5.99,
           "formattedPrice": "$5.99",
@@ -364214,7 +364422,8 @@
       "Costume · Halloween Set 3": "$2.99",
       "Costume · Halloween Set 2": "$2.99",
       "Costume · Halloween Set 1": "$2.99",
-      "Hero · Elowyn Briar": "$0.99"
+      "Hero · Elowyn Briar": "$0.99",
+      "Bundle · Knights of Light": "$9.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -364232,9 +364441,29 @@
       "Costume · Halloween Set 3": "$2.99",
       "Costume · Halloween Set 2": "$2.99",
       "Costume · Halloween Set 1": "$2.99",
-      "Hero · Elowyn Briar": "$0.99"
+      "Hero · Elowyn Briar": "$0.99",
+      "Bundle · Knights of Light": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793330060259,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Bundle · Knights of Light": "$9.99",
+            "Costume · Halloween Set 3": "$2.99",
+            "Costume · Halloween Set 2": "$2.99",
+            "Costume · Halloween Set 1": "$2.99",
+            "Hero · Elowyn Briar": "$0.99",
+            "Hero · Rosel Ironbloom": "$0.99",
+            "Hero · Sargul Krach": "$0.99",
+            "Hero · Fine Kaltenbach": "$0.99",
+            "Hero · Irena von Strahl": "$0.99",
+            "Support Tier 1 · Supporter": "$0.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793178284917,
@@ -364389,6 +364618,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793330060259,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Drakkan": "$6.99",
+            "Hero Ashbite": "$6.99",
+            "Tower Sniper": "$5.99",
+            "Tower Wildcat": "$4.99",
+            "ALL HEROES BUNDLE": "$24.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "ALL SPELLS BUNDLE": "$12.99",
+            "Hero Oni": "$4.99",
+            "Tower Alchemist": "$2.99",
+            "Spell Aspect of Sol": "$4.99"
+          }
+        },
         {
           "timestamp": 1793274810835,
           "price": 6.99,

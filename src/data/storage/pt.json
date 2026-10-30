@@ -28174,6 +28174,24 @@
     "history": [
       [
         {
+          "timestamp": 1793330060259,
+          "price": 3.49,
+          "formattedPrice": "3,49 €",
+          "inAppPurchases": {
+            "Torre Liberar Todas as Melhorias": "0,99 €",
+            "Bundle O' Monkey Money": "3,49 €",
+            "Monte de Dinheiro": "5,99 €",
+            "Cofre de Fichas": "9,99 €",
+            "Dinheiro de Macaco": "0,99 €",
+            "Passe de Nível": "0,99 €",
+            "Modo Dinheiro Dobrado": "9,99 €",
+            "Cofre de Dinheiro": "22,99 €",
+            "Bundle O' Tokens": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793311668998,
           "price": 3.49,
           "formattedPrice": "3,49 €",
@@ -52288,14 +52306,22 @@
   "1112916047": {
     "name": "CopperKnob",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €"
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793330060259,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1774789916959,
@@ -52810,6 +52836,25 @@
       "Skywarden Unlock Pack": "8,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793330060259,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Oferta de Pilha de Dinheiro": "3,49 €",
+            "Liberar Torre Totalmente": "5,99 €",
+            "Dinheiro de Macaco": "2,49 €",
+            "Pilha de Dinheiro de Macaco": "5,99 €",
+            "XP de Torre": "1,19 €",
+            "Oferta de Cofre de Dinheiro": "14,99 €",
+            "Dinheiro de Macaco Extra": "1,99 €",
+            "Liberar Excelência": "5,99 €",
+            "Ponto de Conhecimento": "1,19 €",
+            "Modo Dinheiro Dobrado": "21,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793274810835,
@@ -86038,6 +86083,25 @@
       "Intro Offer (low)": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793330060259,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Prime Dimension DLC": "3,99 €",
+            "Starter Package": "2,99 €",
+            "Master Package": "10,99 €",
+            "Tamer Kit": "0,99 €",
+            "Zenith Islands DLC": "2,99 €",
+            "Hunter Package": "4,99 €",
+            "Elite Offer": "4,99 €",
+            "Evoker Package": "4,99 €",
+            "Crystal Offer": "10,99 €",
+            "Prime Gemma 500": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793178284917,
@@ -149997,7 +150061,8 @@
       "Fantasia · Pacote Halloween 3": "2,99 €",
       "Fantasia · Pacote Halloween 2": "2,99 €",
       "Fantasia · Pacote Halloween 1": "2,99 €",
-      "Herói · Elowyn Briar": "0,99 €"
+      "Herói · Elowyn Briar": "0,99 €",
+      "Pacote · Cavaleiros da Luz": "9,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -150015,9 +150080,29 @@
       "Fantasia · Pacote Halloween 3": "2,99 €",
       "Fantasia · Pacote Halloween 2": "2,99 €",
       "Fantasia · Pacote Halloween 1": "2,99 €",
-      "Herói · Elowyn Briar": "0,99 €"
+      "Herói · Elowyn Briar": "0,99 €",
+      "Pacote · Cavaleiros da Luz": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793330060259,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Pacote · Cavaleiros da Luz": "9,99 €",
+            "Fantasia · Pacote Halloween 3": "2,99 €",
+            "Fantasia · Pacote Halloween 2": "2,99 €",
+            "Fantasia · Pacote Halloween 1": "2,99 €",
+            "Herói · Elowyn Briar": "0,99 €",
+            "Hero · Rosel Ironbloom": "0,99 €",
+            "Hero · Sargul Krach": "0,99 €",
+            "Hero · Fine Kaltenbach": "0,99 €",
+            "Hero · Irena von Strahl": "0,99 €",
+            "Support Tier 1 · Supporter": "0,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793146065483,

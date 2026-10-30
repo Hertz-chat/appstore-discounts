@@ -13144,6 +13144,14 @@
     "history": [
       [
         {
+          "timestamp": 1793396723963,
+          "price": 19.99,
+          "formattedPrice": "19,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792277094972,
           "price": 14.99,
           "formattedPrice": "14,99 €",
@@ -21747,6 +21755,25 @@
       "Desbloquear Arma Biológica": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793396723963,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Unlock Anti-Vax": "0,99 €",
+            "Alien Chemistry": "0,99 €",
+            "Atmospheric Interference": "0,99 €",
+            "Void Signal": "0,99 €",
+            "Brittle Lattice": "0,99 €",
+            "Quantum Obfuscation": "0,99 €",
+            "Synaptic Pulse": "0,99 €",
+            "Lattice Shedding": "0,99 €",
+            "Crystal Overclock": "0,99 €",
+            "Magnetic Siphon": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793068805806,
@@ -104469,6 +104496,25 @@
     "history": [
       [
         {
+          "timestamp": 1793396723963,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Unit Group Rebooted Ascendii": "2,99 €",
+            "Hero Dragon Kosmos": "7,99 €",
+            "Hero Zhara": "2,99 €",
+            "Special Daily Pack7": "1,99 €",
+            "All Unit Groups": "14,99 €",
+            "All Heroes": "17,99 €",
+            "Unit Group Jaegers": "7,99 €",
+            "Unit Group Ascendii On Sale": "0,99 €",
+            "pack 21": "8,99 €",
+            "Special Daily Pack20": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790726691370,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -111511,6 +111557,14 @@
     "history": [
       [
         {
+          "timestamp": 1793396723963,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1774878638971,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -117388,6 +117442,17 @@
     "history": [
       [
         {
+          "timestamp": 1793396723963,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "The Weaver": "2,99 €",
+            "Developer Supporter Pack": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792881993930,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -119290,6 +119355,25 @@
       "Dr.1": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793396723963,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Airbus A321 XLR": "3,99 €",
+            "Boeing 787-9": "3,99 €",
+            "Airbus A320neo": "3,99 €",
+            "Me 262": "1,99 €",
+            "Boeing 737-800": "2,99 €",
+            "Airbus A350-1000": "3,99 €",
+            "Robin DR400": "0,99 €",
+            "Boeing 777F": "1,99 €",
+            "Airbus A319": "1,99 €",
+            "Antares 21E": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793051997931,
@@ -150013,6 +150097,16 @@
       "Keeps Pro": "1,29 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793396723963,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Keeps Pro": "6,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792201899634,

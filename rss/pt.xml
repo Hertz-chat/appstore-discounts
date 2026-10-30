@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2026-10-29T23:50:14.508Z</updated>
+    <updated>2026-10-30T23:19:06.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-29T23:50:14.508Z</updated>
+        <updated>2026-10-30T23:19:06.248Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptThu, 29 Oct 2026 23:50:14 GMT</id>
+        <id>rankingptFri, 30 Oct 2026 23:19:06 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-29T23:50:14.508Z</updated>
+        <updated>2026-10-30T23:19:06.248Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -51,13 +51,13 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>2391</b>
+        <b>2393</b>
       </td>
       <td>
         <b>204</b>
       </td>
       <td>
-        <b>2187</b>
+        <b>2189</b>
       </td>
       <td>
         <b>108</b>
@@ -68,13 +68,13 @@ feedId:206907475259680768+userId:73658201673997312
         <b>PT</b>
       </td>
       <td>
-        <b>2079</b>
+        <b>2081</b>
       </td>
       <td>
         <b>147</b>
       </td>
       <td>
-        <b>1932</b>
+        <b>1934</b>
       </td>
       <td>
         <b>34</b>
@@ -1360,7 +1360,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>70</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/1621065119?lang=en">Ace Attorney Trilogy</a>
+        <a href="https://appstore-discounts.eyelly.me/pt/1620202676?lang=en">Iron Marines Invasion</a>
       </td>
       <td>
         <ul>
@@ -1377,7 +1377,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>71</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/1625083646?lang=en">Endling</a>
+        <a href="https://appstore-discounts.eyelly.me/pt/1621065119?lang=en">Ace Attorney Trilogy</a>
       </td>
       <td>
         <ul>
@@ -1394,7 +1394,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>72</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/1630887189?lang=en">20 Minutes Till Dawn</a>
+        <a href="https://appstore-discounts.eyelly.me/pt/1625083646?lang=en">Endling</a>
       </td>
       <td>
         <ul>
@@ -1411,7 +1411,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>73</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/1642715290?lang=en">Little Big Workshop</a>
+        <a href="https://appstore-discounts.eyelly.me/pt/1630887189?lang=en">20 Minutes Till Dawn</a>
       </td>
       <td>
         <ul>
@@ -1428,7 +1428,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>74</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/1644917705?lang=en">Cyber Manhunt</a>
+        <a href="https://appstore-discounts.eyelly.me/pt/1642715290?lang=en">Little Big Workshop</a>
       </td>
       <td>
         <ul>
@@ -1443,6 +1443,23 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>
         <b>75</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/1644917705?lang=en">Cyber Manhunt</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>76</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1662217862?lang=en">Wipr 2</a>
@@ -1465,7 +1482,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>76</b>
+        <b>77</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1664728315?lang=en">Mutropolis mobile</a>
@@ -1482,7 +1499,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>77</b>
+        <b>78</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1667072735?lang=en">Watch Web Browser</a>
@@ -1499,7 +1516,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>78</b>
+        <b>79</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6480501528?lang=en">Cat Todo - Lista de tarefas</a>
@@ -1516,7 +1533,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>79</b>
+        <b>80</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6761328517?lang=en">Dungeon Within</a>
@@ -1533,7 +1550,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>80</b>
+        <b>81</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6740698426?lang=en">Empires Game</a>
@@ -1558,7 +1575,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>81</b>
+        <b>82</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6752662508?lang=en">TimeTrails: Registo GPS</a>
@@ -1575,7 +1592,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>82</b>
+        <b>83</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6760764479?lang=en">Alpin Quest PRO – Outdoor GPS</a>
@@ -1598,7 +1615,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>83</b>
+        <b>84</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6469419567?lang=en">Overwinter Survival</a>
@@ -1625,7 +1642,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>84</b>
+        <b>85</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6778029370?lang=en">Order Automatica</a>
@@ -1642,7 +1659,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>85</b>
+        <b>86</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6762803589?lang=en">Slots & Daggers</a>
@@ -1659,7 +1676,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>86</b>
+        <b>87</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6754894237?lang=en">CloverPit</a>
@@ -1676,7 +1693,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>87</b>
+        <b>88</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6780967766?lang=en">Comprato</a>
@@ -1693,7 +1710,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>88</b>
+        <b>89</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6446021269?lang=en">MEGA MAN X DiVE Offline</a>
@@ -1710,7 +1727,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>89</b>
+        <b>90</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6459581344?lang=en">Art of Rally</a>
@@ -1727,7 +1744,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>90</b>
+        <b>91</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6802565793?lang=en">我不想当班主任-班主任工作台&教师工作台&班级管理</a>
@@ -1744,7 +1761,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>91</b>
+        <b>92</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6760446039?lang=en">般若心灯</a>
@@ -1761,7 +1778,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>92</b>
+        <b>93</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6748287593?lang=en">Bother Bin: Stop Overthinking</a>
@@ -1778,7 +1795,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>93</b>
+        <b>94</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6760777178?lang=en">Film Light</a>
@@ -1795,7 +1812,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>94</b>
+        <b>95</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6742044212?lang=en">SnapKoin - Expense Tracker</a>
@@ -1818,7 +1835,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>95</b>
+        <b>96</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6757943661?lang=en">阿福出境管家 - 签证通过率评估与材料清单</a>
@@ -1835,7 +1852,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>96</b>
+        <b>97</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6748056918?lang=en">Farming Simulator 26 Mobile</a>
@@ -1852,7 +1869,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>97</b>
+        <b>98</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6445992619?lang=en">SpongeBob - The Cosmic Shake</a>
@@ -1869,7 +1886,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>98</b>
+        <b>99</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6444400410?lang=en">Farming Simulator 23</a>
@@ -1886,7 +1903,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>99</b>
+        <b>100</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6786115854?lang=en">No More Slimes!!: Idle Action</a>
@@ -1903,7 +1920,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>100</b>
+        <b>101</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6746136017?lang=en">Astrea: Six-Sided Oracles</a>
@@ -1920,7 +1937,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>101</b>
+        <b>102</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6449046261?lang=en">Crystania Wars 2-Roguelike TD</a>
@@ -1937,7 +1954,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>102</b>
+        <b>103</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6753721284?lang=en">BikeControl: Virtual Shifting</a>
@@ -1960,7 +1977,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>103</b>
+        <b>104</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6759238458?lang=en">上瘾修仙 - 上头的单机新形态文字游戏</a>
@@ -1977,7 +1994,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>104</b>
+        <b>105</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6757846100?lang=en">This Aint Even Poker, Ya Joker</a>
@@ -1994,7 +2011,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>105</b>
+        <b>106</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6504453094?lang=en">Black Border 2</a>
@@ -2011,7 +2028,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>106</b>
+        <b>107</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6449003064?lang=en">Goblin Tools</a>
@@ -2028,7 +2045,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>107</b>
+        <b>108</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6476342802?lang=en">Skel and Defense</a>
@@ -2045,7 +2062,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>108</b>
+        <b>109</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6502953520?lang=en">Control Ultimate Edition</a>
@@ -2062,7 +2079,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>109</b>
+        <b>110</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6459738231?lang=en">Lies of P</a>
@@ -2079,7 +2096,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>110</b>
+        <b>111</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6449748961?lang=en">DEATH STRANDING DIRECTOR'S CUT</a>
@@ -2096,7 +2113,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>111</b>
+        <b>112</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6502634839?lang=en">Dungeon Tracer</a>
@@ -2113,7 +2130,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>112</b>
+        <b>113</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6501973975?lang=en">Off Day</a>
@@ -2130,7 +2147,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>113</b>
+        <b>114</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6754453691?lang=en">Knight & Dragon IV</a>
@@ -2147,7 +2164,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>114</b>
+        <b>115</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6477535804?lang=en">Vault of the Void</a>
@@ -2164,7 +2181,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>115</b>
+        <b>116</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6757541297?lang=en">Sally Face</a>
@@ -2181,7 +2198,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>116</b>
+        <b>117</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6451376191?lang=en">Dumb Phone</a>
@@ -2206,7 +2223,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>117</b>
+        <b>118</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6496282733?lang=en">ArcEmu</a>
@@ -2223,7 +2240,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>118</b>
+        <b>119</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6755781701?lang=en">Aurora Tromsø</a>
@@ -2240,7 +2257,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>119</b>
+        <b>120</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6755290585?lang=en">Raiders Map</a>
@@ -2265,7 +2282,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>120</b>
+        <b>121</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6752695239?lang=en">Skyship Quest Story</a>
@@ -2282,7 +2299,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>121</b>
+        <b>122</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6749560544?lang=en">Demon Castle Story</a>
@@ -2299,7 +2316,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>122</b>
+        <b>123</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6474672665?lang=en">Beastie Bay DX</a>
@@ -2316,7 +2333,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>123</b>
+        <b>124</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6446826650?lang=en">Dream Town Island</a>
@@ -2333,7 +2350,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>124</b>
+        <b>125</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6738371720?lang=en">Skating Rink Story</a>
@@ -2350,7 +2367,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>125</b>
+        <b>126</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6505046490?lang=en">Pro Wrestler Story</a>
@@ -2367,7 +2384,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>126</b>
+        <b>127</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6801980968?lang=en">Tower & Mercenaries</a>
@@ -2384,7 +2401,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>127</b>
+        <b>128</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6749406060?lang=en">Subnautica: Below Zero</a>
@@ -2401,7 +2418,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>128</b>
+        <b>129</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6504841512?lang=en">Halls of Torment: Premium</a>
@@ -2418,7 +2435,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>129</b>
+        <b>130</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6480058345?lang=en">Kaiju Attack 2</a>
@@ -2435,7 +2452,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>130</b>
+        <b>131</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6803329435?lang=en">Chromagraph Camera</a>
@@ -2768,6 +2785,83 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iron Marines Invasion]]></title>
+        <id>Iron Marines Invasion-pt-1793396723963</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/1620202676?lang=en"/>
+        <updated>2026-10-30T21:45:23.963Z</updated>
+        <summary type="html"><![CDATA[Price: 2,99 € → 0,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1620202676?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6f/b3/57/6fb357e4-06ba-e858-469d-5bd2903db252/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>2,99 €</span> → <b>
+  <strong>0,99 €</strong>
+</b><span>[0,99 € ~ 2,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>0,99 €</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    Unit Group Rebooted Ascendii：<b>2,99 €</b>
+  </li><li>
+    Hero Dragon Kosmos：<b>7,99 €</b>
+  </li><li>
+    Hero Zhara：<b>2,99 €</b>
+  </li><li>
+    Special Daily Pack7：<b>1,99 €</b>
+  </li><li>
+    All Unit Groups：<b>14,99 €</b>
+  </li><li>
+    All Heroes：<b>17,99 €</b>
+  </li><li>
+    Unit Group Jaegers：<b>7,99 €</b>
+  </li><li>
+    Unit Group Ascendii On Sale：<b>0,99 €</b>
+  </li><li>
+    pack 21：<b>8,99 €</b>
+  </li><li>
+    Special Daily Pack20：<b>2,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Descubra e conquiste incontáveis ​​mundos no espaço profundo. Desvende uma história cheia de desafios e ameaças que o levarão pela galáxia em uma viagem extraordinária. 
+
+Nada dura muito no espaço profundo, e a paz não é uma exceção!
+Bem-vindo ao Iron Marines Invasion!
+
+Aproveite missões de fase única e operações especiais em novos mundos emocionantes, cada um com seu próprio terreno, estilo, inimigos e condições particulares. Saiba como vencê-los um por um!
+
+Comande as tropas da Federação em toda a galáxia, com a ajuda de Heróis e Unidades que levarão suas habilidades em RTS ao limite.
+
+Lute contra inimigos extraordinários e criaturas alienígenas ferozes em missões divertidas e eletrizantes. Planeje sua estratégia para defender a paz na galáxia!
+
+Para todos os fãs de ação de Iron Marines e SciFi que gostam de jogos RTS e estratégia geral offline. Torne-se um especialista tático, liderando seu próprio exército em missões emocionantes e alucinantes.
+
+A invasão é iminente!
+Lidere o corpo de combate mais feroz da galáxia. Lute lado a lado com os fuzileiros navais mais durões da Federação!
+
+Agora você pode combinar seu esquadrão e aproveitar as habilidades de luta únicas de cada unidade: de guardas a franco-atiradores, mechas, lançadores de mísseis ou temíveis clãs de guerreiros alienígenas.
+
+Treine heróis de cair o queixo e suas habilidades úteis: desde aumentar a moral e o poder de fogo do seu exército até aumentar sua resistência e alcance, ou detectar inimigos próximos antes que eles ataquem você. Ajude-os a entrar na luta para manter a paz entre os mundos!
+
+Torne-se um especialista nos maiores mistérios da galáxia!
+Use uma enciclopédia de jogo para entender os mundos que você explora ou identificar os inimigos que você enfrenta. Aproveite as informações táticas disponíveis para configurar seu plano de jogo estratégico.
+
+Confira todos os recursos incríveis desta odisseia espacial de estratégia em tempo real:
+- Uma galáxia inteira a ser descoberta.
+- Mais de 25 missões de campanha que o levarão aos mundos mais incríveis. Toneladas de planetas para você explorar e defender com um plano de jogo estratégico elaborado!
+- 75+ operações especiais para você atualizar suas habilidades de fuzileiros ao nível máximo.
+- 10 grupos de unidades chegando a um total de 24 tropas diferentes. Você pode até combinar seus reforços dependendo da missão e estratégia que planeja mobilizar.
+- 9 heróis poderosos com grandes habilidades para você treinar. Ajude-os a se tornarem os melhores da galáxia!
+- 8 armas especiais para impulsionar suas táticas do exército até as estrelas! Defina seu plano de jogo e aproveite as armas instantâneas, como tribombas, bombas tóxicas ou até fábricas de drones.
+- 40 atualizações para melhorar sua estratégia e capacitar suas unidades com drones de defesa, foguetes de napalm, explosões de ricochete e muito mais.
+- Mais de 20 conquistas para mostrar o quanto você se tornou um especialista em estratégia em tempo real!
+
+Escolha o seu modo de dificuldade para ter a melhor experiência de jogos RTS: casual, normal ou veterano. E para quem acha que já viu de tudo nesta galáxia... o modo impossível - apenas para os jogadores de elite, disponível offline!
+
+Teste suas habilidades em desafios diários e colete recompensas incríveis.
+Jogue RTS offline: aproveite a incrível experiência de estratégia em tempo real em qualquer lugar, enquanto explora mundos incríveis.
+Iron Marines Invasion oferece horas de jogabilidade colorida e divertida nesta odisseia espacial épica de estratégia em tempo real, disponível para jogar RTS offline.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/5f/fe/8c/5ffe8c82-74a7-35fc-0323-f2083d5b21d1/a1163748-0d44-4f00-8bbb-9b0b886e3609_POR_Screenshot01_2208x1242_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1d/fd/26/1dfd2652-3c60-85ba-9e6b-5ff3144b4646/790cfbfa-a9f2-4bbe-8fc5-9dcaaf348482_PT-BR_Screenshot01_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/08/7c/bf/087cbf6d-c665-33e7-578d-9d3bdbb98673/d1044655-5475-4f91-82e8-a41546368bc3_PT-BR_Screenshot02_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/39/92/12/399212a8-9924-599f-f4a4-d4a2923146d0/5452187d-c791-4cb2-9f43-52b360608a44_PT-BR_Screenshot03_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/90/cc/62/90cc6277-221a-dd23-5406-7a9712205bd6/84f381ec-4b8e-4be8-9899-e3b1eb82098d_PT-BR_Screenshot04_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bd/78/75/bd787556-8525-fd4c-1abe-3280f795b0d1/7d6f75e4-2a3f-4ea2-a1cf-0648d8529eec_PT-BR_Screenshot05_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f9/eb/6f/f9eb6f64-9ac0-a445-5869-10d5c56d44da/f370e499-0ac2-4b83-b9b0-3995149926e7_PT-BR_Screenshot06_2208x1242.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/0b/7b/9e/0b7b9e5b-7ceb-1636-3030-8fedde441481/154d3ed3-bd3a-47da-b8c1-55e0afa2e084_POR_Screenshot01_2732x2048_2__U00281_U0029.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0d/b3/42/0db34210-7034-5e70-55ff-59dbaac94ae2/008bff4b-5625-45bd-8c1b-a03a5546f039_PT-BR_Screenshot01_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1f/86/33/1f8633bc-9880-d12b-fe7b-33ce9fa0d0d2/ebc65085-31f7-4dfa-97d6-3e98c4d5eeb4__0004_PT-BR_Screenshot02_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/56/e3/dd/56e3ddc0-7a2f-70a7-7c99-eb6931ac14f1/b5eaa8ce-dd07-4433-8e54-a06d0371680f_PT-BR_Screenshot03_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/df/34/65/df34652e-1f5f-124c-9f15-b5c12a9cc4eb/dde6c812-03c3-418b-b1ca-b605fe97ee3b_PT-BR_Screenshot04_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/05/3f/cd/053fcd43-b21f-4947-5973-fb843233746f/d7a97b87-eb12-4ef5-8730-c800a8af6c07_PT-BR_Screenshot05_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/57/32/11/5732111e-f6e7-8e3b-2bd9-0c750c880868/37cdfde0-6b73-40b0-87fd-67465fc66057__0000_PT-BR_Screenshot06_2732x2048.jpg/552x414bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chromagraph Camera]]></title>
@@ -3541,370 +3635,5 @@ Follow Ilot, our heroine, on a cosmic journey through the stars, and witness her
 *Rotaeno will only function properly on devices that feature gyroscope or accelerometer support.
 Concerns or feedback? Contact us: rotaeno@xd.com
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/ba/77/59ba7744-21bf-bb66-512a-950c982f1ec5/EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/8f/1e/ee8f1eac-6c69-bdb8-57a6-c6848647cd41/af9ee921-2c08-4fc7-984b-466ae82df6f1_2.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/3a/5e/423a5eb9-818c-050e-e378-8f07cf9f5a63/bc823f6b-e135-43f3-bc9c-196c99319a17_en2.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/77/62/54776220-7488-429f-e8ab-a69a3ec175b5/a915d1ba-658d-44ff-b5ed-a7d7082442ce_en1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/a9/06/58a906e0-f819-490f-459c-51afa0764352/9fb72e63-2349-4c51-959c-8e383048808d_en4.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/e9/54/33e95419-4732-66b3-c78c-984cceaefd7d/b44598a4-8585-4684-94bb-1013739d6788_en5.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/1c/1a/ad1c1a17-6958-4202-968e-35207bebc80c/EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/12/ee/0e12ee4d-0fb2-e492-c9c3-655e31c00a74/cf227fb9-6595-4ee0-97d8-9c069755a41c_2732x2048-2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/32/92/9d32927e-3227-c1f1-700e-2db429e7fbf1/b745de13-9377-4670-85d7-9688d84dce5d_en2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/27/20/7f2720ba-7b29-7d20-72cc-4214f96a4cc3/482b9201-9094-4e25-810b-c3c0ff6de227_en1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/09/24/9c092409-2a2b-e75a-48ef-62d6d117f282/7f0885d3-4970-4a13-b0a5-731f56ba9f88_en4.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/42/21/784221db-58fa-cf49-3d2e-75de0bce8899/a23ece1a-5253-469f-84a1-8efe0970f445_en5.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skyship Quest Story]]></title>
-        <id>Skyship Quest Story-pt-1793130591753</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/6752695239?lang=en"/>
-        <updated>2026-10-27T19:49:51.753Z</updated>
-        <summary type="html"><![CDATA[Price: 7,99 € → 3,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6752695239?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/04/dd/4704dde2-17bc-199d-0ca2-073de308465b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>7,99 €</span> → <b>
-  <strong>3,99 €</strong>
-</b><span>[3,99 € ~ 7,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>3,99 €</b>
-</p><h2>Application Description</h2><p>
-  Who says ships are only for the water? Why not take a voyage across a sea of clouds instead?
-
-On a little island, floating in the sky, your adventure begins...
-Hop on board your shining new airship and see what lies beyond the horizon! Gather your crew and explore regions of the sky where no one has ever been!
-
-You'll discover all kinds of floating islands, from bustling tourist destinations to perilous monster-filled dungeons.
-Develop your island, fend off monster attacks, and help your crew with their problems to earn fabulous rewards!
-
-Use the resources you've earned to install new facilities on your ship and help your crew expand their know-how. With a stronger ship, and a more knowledgeable crew, you'll be able to explore islands from even further afield.
-
-What new adventures and encounters await you in the vast blue sky? There's only one way to find out.
-It's time to take off!
-
-Try searching "Kairosoft" for more games.
-Visit https://kairopark.jp and find familiar titles for free or at low prices!
-There are a ton of sim games out there in Kairosoft's charming pixel art series!
-
-Follow us on X (formerly Twitter) for the latest updates.
-https://twitter.com/kairokun2010
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/8c/2f/cb8c2fd2-4cdb-3753-7ee8-9f4cc03cfdca/i67_gm161_01.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/f2/44/8af244c5-89f5-fa7e-bcdd-59eae103369a/i67_gm161_02.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/2c/73/5d2c73bb-5e85-5589-1219-6c748825a1fa/i67_gm161_03.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/39/78/ac39782b-881a-6dcb-1655-9e33bcd28401/i67_gm161_04.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/80/17/09801716-fbd4-b824-fbe2-587756563045/i67_gm161_05.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/a5/4e/78a54ef0-9a4a-dc44-1803-8ee8390865e0/i67_gm161_06.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/c7/1d/5cc71daa-1431-6314-47d6-b34c6a39e03e/iPro_gm161_01.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/3e/0f/ac3e0f1e-86e7-4ea6-c3fb-77dd57a01f62/iPro_gm161_02.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/0f/43/950f4300-bc34-7c6a-ffa9-86a80063bf2e/iPro_gm161_03.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/70/ed/eb70edfb-a820-7e31-973a-dc520a4d3279/iPro_gm161_04.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/be/ac/14beacd9-5baf-5e09-958c-7e321ede394f/iPro_gm161_05.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/08/55/0c08555e-1673-dadf-c4c5-69d5624c7197/iPro_gm161_06.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demon Castle Story]]></title>
-        <id>Demon Castle Story-pt-1793130591753</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/6749560544?lang=en"/>
-        <updated>2026-10-27T19:49:51.753Z</updated>
-        <summary type="html"><![CDATA[Price: 7,99 € → 5,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6749560544?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/21/f8/5621f802-8a67-981f-1bbb-350c36535dd3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>7,99 €</span> → <b>
-  <strong>5,99 €</strong>
-</b><span>[5,99 € ~ 7,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>5,99 €</b>
-</p><h2>Application Description</h2><p>
-  A management simulation in which you take an old, run-down castle and turn it into a dastardly demon stronghold! Recruit unique monsters as your minions and vanquish adventurers who dare to enter your realm!
-
-Install gargoyles, ritual altars, and other devilish decor to boost your castle's mystique and attract more monsters your way. Gift them food and other items to help them grow, and garner their support to fend off pesky adventurers.
-
-You can also send your monster minions out to explore nearby dungeons and towns. They'll bring you back items and other loot, and maybe even some new allies!
-
-As you progress, you can also start merging monsters together to make new ones.
-
-And don't forget traps—essential equipment for proper castle defense! Develop a range of traps like sleep-inducing gas and heavy washbowls to thwart any who cross the threshold of your demonic haven! By placing and combining traps in imaginative ways, you can make your fortress of fiendishness virtually impregnable!
-
-Fend off attacks from mighty adventurers and keep your minions sweet to become the biggest and baddest demon overlord of all time!
-
-Search "Kairosoft" to see our other games. https://kairopark.jp
-We've got a whole range of free and one-time-purchase games to enjoy, many of which might feel familiar!
-This is the Kairosoft 2D pixel art game series.
-
-Follow us on X (formerly Twitter) for all the latest news! https://twitter.com/kairokun2010
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/41/3d/07413d9b-6775-a333-6d43-f63b6581a81c/i67_DemonCastle205_en.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/a6/ac/d6a6ac1c-4f99-f043-65df-71d805772b53/i67_DemonCastle201_en.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/27/d8/9a27d83e-c873-a5ba-fa4e-2d7384f30493/i67_DemonCastle204_en.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/ca/a3/f2caa3ab-4ba8-35e5-1de1-2f49fdbda21f/i67_DemonCastle202_en.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/c8/de/5ac8dea9-677f-0ded-dc77-b4bbb0e1783a/i67_DemonCastle203_en.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/1c/02/da1c02d7-65de-dc50-8532-81f79282ef11/iPro_DemonCastle201_en.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/33/6c/a8336c0a-3a59-ce88-c428-558bc8538a8a/iPro_DemonCastle202_en.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/fd/07/3ffd070c-11b3-011a-73d7-fd7259acd901/iPro_DemonCastle203_en.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/cf/ed/05cfedcf-e9a9-986b-c79b-295b2efa958f/iPro_DemonCastle204_en.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/e3/a8/3de3a86b-d28c-0df7-a5d9-1123b72f19c3/iPro_DemonCastle205_en.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beastie Bay DX]]></title>
-        <id>Beastie Bay DX-pt-1793130591753</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/6474672665?lang=en"/>
-        <updated>2026-10-27T19:49:51.753Z</updated>
-        <summary type="html"><![CDATA[Price: 6,99 € → 3,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6474672665?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3a/71/4b/3a714b7a-a740-f832-6863-fc9f279e5abf/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>6,99 €</span> → <b>
-  <strong>3,99 €</strong>
-</b><span>[3,99 € ~ 6,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>3,99 €</b>
-</p><h2>Application Description</h2><p>
-  Washed ashore a desolate island and surrounded by savage beasts, can you thrive...or merely survive?
-
-Blaze trails into unknown territory...and then make it your own! Plant crops, build housing and power sources, and transform the island into your own personal paradise. As you progress, you'll be able to develop new gear and technology to take your adventure to the next level, including ways to travel to unexplored islands nearby!
-
-The native fauna eyeing you as their next meal? Capture the critters, trade them with friends, and train them to fight for you! Most have elemental strengths and weaknesses, so use these to your advantage in battle.
-
-Venture far enough afield and you may find signs of civilization. If you make the right friends, your humble isle could grow into an economic powerhouse, complete with hot springs, hotels, and heliport. The possibilities are as limitless as the horizon!
-
-Survival of the fittest was never so fun! You call the shots as you develop your primitive isle into a luxurious slice of paradise!
-
-Try searching for ""Kairosoft"" to see all of our games!!
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/dd/aa/ef/ddaaef5e-c533-6d3a-05b5-ed23a5499a63/fb6a3c48-468d-44a1-a1a6-6520c1aa6f53_i55_BeastieBayDX01_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/89/07/06/8907060a-70b4-9d35-ffec-e1de6fbd5406/3df86536-69ea-4644-9fc4-a40db280ea13_i55_BeastieBayDX02_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/1f/ae/88/1fae8880-65d4-d87a-381b-343dee2ebba1/384e8abd-4dfa-4cfe-bc05-ed33c2cc3b15_i55_BeastieBayDX03_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/23/56/ec/2356ec92-81bc-db5a-2da3-a9fd8a14316d/5f1d89d6-8868-47f3-a330-3782cf38b715_i55_BeastieBayDX04_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/29/1c/06/291c062f-c565-811c-064a-11f615224381/fb6997c8-e586-4ab6-a470-9732d1934de6_i55_BeastieBayDX05_en.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/66/0f/b6/660fb6f1-94e9-fd49-bc0c-6792f0994bce/b91ebbac-ca12-4bee-8e69-42903f5d7944_iPro_BeastieBayDX01_en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/16/9d/04/169d048c-4f4d-9938-e834-f63f2ec85dda/3d881018-2024-436a-9a85-7f16ca33edac_iPro_BeastieBayDX02_en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/21/29/2b/21292b78-402b-ce20-041f-54ee7fe6feaa/19434d99-5d6e-45b8-bd61-8e53e57ee3a2_iPro_BeastieBayDX03_en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/27/12/47/27124777-eb46-7e1b-53e7-9515bda72a58/e59ed551-9ab7-4499-b1ab-7894c58bad13_iPro_BeastieBayDX04_en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/86/96/e7/8696e7d3-ae0a-1436-6c34-767f3b878904/361cd01e-0218-4302-9a29-71afd94bdb81_iPro_BeastieBayDX05_en.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mega Mall Story2]]></title>
-        <id>Mega Mall Story2-pt-1793130591753</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/1465870866?lang=en"/>
-        <updated>2026-10-27T19:49:51.753Z</updated>
-        <summary type="html"><![CDATA[Price: 6,99 € → 1,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1465870866?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8b/c5/a6/8bc5a6db-d8a3-4138-0999-d94a95ada9e4/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>6,99 €</span> → <b>
-  <strong>1,99 €</strong>
-</b><span>[1,99 € ~ 6,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>1,99 €</b>
-</p><h2>Application Description</h2><p>
-  A business management sim where you can make a mall that's right for you!
-
-Everything's been expanded since the last game - build bigger, build higher!
-Enjoy more freedom and customization than ever.
-
-Add public transport stations to bring in customers from farther away.
-Visitors can come by bus, subway, helicopter, and even on UFOs!
-
-Meet new mall visitors bursting with personality.
-I could go for a bowl of ramen and a good book...
-It's a manager's job to make sure customers leave satisfied.
-Build stores that will delight your regulars!
-
-Create enough great stores...
-And you can even attract VIPs!
-
-New tenants stores exclusive to this title.
-Set up exhibitions, a movie theater, pool and even an indoor farm!
-Stores come in different shapes and sizes - the combinations are limitless!
-Create combos by placing related stores on the same floor.
-
-Take advantage of weather and scenery to attract more customers
-and compete with other stores to be the best mall in town!
-
-A new challenger steps into the world of business management,
-dreaming of one day running a 5-star mall...
-
-The sky's the limit in Mega Mall Story 2!
-
-
---
-All game progress is stored on your device. Save data cannot be restored after deleting or reinstalling the app.
-
-Try searching for "Kairosoft" to see all of our games, or visit us at  https://kairopark.jp
-Be sure to check out both our free-to-play and our paid games!
-Kairosoft's pixel art game series continues!
-
-Follow us on Twitter for the latest Kairosoft news and information.
-https://twitter.com/kairokun2010
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/d0/0d/e6d00dc1-ccbe-4d73-444a-e463f82afd78/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/26/50/4e/26504e60-e422-ef7c-4fb2-b318649cd597/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a7/e5/81/a7e581fa-9f50-dd2a-02c5-8359af45e244/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6b/b4/d0/6bb4d01e-8c21-a8e8-53d8-cebfb8f0cd1f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/4a/ad/ef/4aadef09-ae67-f234-7391-7a4574903734/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/43/76/8e/43768e2b-36b0-1c80-67d7-ce4262720f72/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/80/0d/61800dad-5fee-f4df-1dc8-adf8eb3283b1/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/10/3d/93/103d93a4-6d92-3c6f-40f7-70ab0f4cfced/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c0/24/39/c024395d-b849-eaa0-6dd4-12d58227e121/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/bd/9a/76/bd9a76ef-02da-727e-9b41-9530b2879642/pr_source.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dungeon Village 2]]></title>
-        <id>Dungeon Village 2-pt-1793130591753</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/1543161449?lang=en"/>
-        <updated>2026-10-27T19:49:51.753Z</updated>
-        <summary type="html"><![CDATA[Price: 6,99 € → 2,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1543161449?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/e0/25/9ce025dd-f750-3790-7d70-c3d10f4bf0ba/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>6,99 €</span> → <b>
-  <strong>2,99 €</strong>
-</b><span>[2,99 € ~ 6,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>2,99 €</b>
-</p><h2>Application Description</h2><p>
-  Uma nova lenda começa aqui!
-
-Construa e administre uma vila nos campos, na neve e até no submundo! Construa estalagens, lojas de armas e mais, para convencer aventureiros a visitar.
-
-Use itens e equipamentos para aumentar o poder dos aventureiros e ajudá-los a ganhar mais ouro e experiência em suas aventuras. Procure novas masmorras para explorar e novos monstros para enfrentar!
-
-Precisa de ajuda para atrair aventureiros? Tente construir novas instalações, vender novos tipos de comida ou melhorar a área local para ganhar Títulos. Continue experimentando e acabará encontrando recompensas raras...
-
-À medida que sua cidade cresce e fica mais popular, os aventureiros passarão a ir para morar, não só visitar!
-O rol de inimigos do jogo anterior foi expandido com uma variedade de novos monstros peculiares para enfrentar.
-
-Dependendo do que fizer, alguns monstros se tornarão seus amigo! Dê petiscos, agrade-os e eles se tornarão aliados valiosos em suas jornadas. Explore cada vez mais do mapa do mundo para desbloquear novas áreas.
-
-Quer um recomeço? Mude sua cidade para outra região para descobrir monstros e aventureiros que ainda não tinha visto.
-
-Fique cada vez melhor e construa a maior cidade que o reino já viu!
-
-Aproxime ou ajuste o tamanho da tela com controles de toque.
-
-Busque "Kairosoft" para ver todos os nossos jogos ou visite-nos em https://kairopark.jp
-Conheça tanto os nossos jogos grátis quanto os pagos!
-A série de jogos pixelados da Kairosoft continua!
-
-Siga a gente no Twitter e receba as últimas novidades e informações da Kairosoft
-https://twitter.com/kairokun2010
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c5/68/c9/c568c97c-3111-de70-5a13-aafb24d86dfc/55b8465f-00a6-4989-b0e5-12cdb328e1b2_i55_bouken201_pt.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/00/98/be/0098beb9-7064-52b8-ec54-ba3562eb4ef7/0ff76bd5-34dc-41d4-89fc-11b6c1faf692_i55_bouken202_pt.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/43/76/c4/4376c4f8-8a6b-5362-a955-0c5e3f43b795/f52f71b7-da24-4684-a6bc-e9f8d6a3f869_i55_bouken203_pt.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7b/0b/9e/7b0b9eba-6bcf-5e30-b382-c026e110a428/2f671cee-f734-4287-a3e8-ed50c859fc31_i55_bouken204_pt.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4e/e4/d7/4ee4d7fe-9582-6243-d9b7-97d3eca59c27/025bf062-a1ba-486c-b58b-6c6e6ad43359_i55_bouken205_pt.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2d/b1/66/2db1666a-c54c-9881-a659-a335564b7157/7a709bba-8275-43ae-b055-71c6dcb9cd47_iPro_bouken201_pt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3e/41/e5/3e41e5b5-d82f-4b98-2a8b-40a62e86fd49/eb135714-a7c0-4d2a-96b7-23e4802affd7_iPro_bouken202_pt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c8/81/ac/c881acbb-0ffc-7428-7e1d-436faa14d711/2ff1a565-a67d-4fb7-babc-c52583e38cec_iPro_bouken203_pt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b3/8a/18/b38a1860-bf27-0ab3-e013-abf970138552/4152b14a-96c0-47ee-b952-84ac70fda614_iPro_bouken204_pt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/62/6b/ea/626bea7f-d1c5-fa72-92f5-1bbb6467560f/772702f3-906a-4326-9e51-a6f1d6a75ea3_iPro_bouken205_pt.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dream Town Island]]></title>
-        <id>Dream Town Island-pt-1793130591753</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/6446826650?lang=en"/>
-        <updated>2026-10-27T19:49:51.753Z</updated>
-        <summary type="html"><![CDATA[Price: 7,99 € → 2,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6446826650?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/f1/14/a5f114e1-c7c9-3217-d13e-624bd4eb7b21/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>7,99 €</span> → <b>
-  <strong>2,99 €</strong>
-</b><span>[2,99 € ~ 7,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>2,99 €</b>
-</p><h2>Application Description</h2><p>
-  Deixe a criatividade correr solta nesse simulador de vila!
-
-Desbloqueie novas lojas e instalações, ajude os habitantes a encontrar o amor ou fature no mercado de ações!
-
-Se você fundasse uma nova vila numa ilha inabitada, o que você construiria lá? Restaurantes? Lojas de conveniência? Cinemas? Tome suas decisões e crie uma vila onde todos vão querer morar!
-
-Conforme você desenvolver a vila, vai desbloquear novas lojas e instalações que ajudarão a atrair mais cidadãos.
-
-Habitantes da sua vila podem passar a vida inteira por lá — arrumar emprego, casar e até ter filhos. Quantas gerações você vai amparar?
-
-A caminhada não é o único jeito de circular pela vila — os habitantes podem se locomover com estilo de carro, de bicicleta e até em OVNIs!
-
-Também há uma grande variedade de bichos de estimação, incluindo os clássicos como gatos e cachorros, além de opções mais exóticas. Já quis ter um elefante no quintal? Conta com a gente.
-
-Acabou o espaço para construir mais coisas? Sem problema! Faça um aterro no litoral e então personalize a altura do terreno e crie uma região perfeitamente de acordo com o seu gosto!
-
-Comece a construir a cidade dos seus sonhos hoje mesmo!
-
-Arraste para mover o mapa e junte os dedos para zoom.
-
-Busque "Kairosoft" para ver todos os nossos jogos, ou nos visite em http://kairopark.jp
-Não se esqueça de dar uma olhada nos jogos pagos e grátis!
-A série de jogos pixelados da Kairosoft continua!
-
-Siga a gente no X (Twitter) para receber as novidades e informações da Kairosoft.
-https://twitter.com/kairokun2010
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/02/77/de/0277de73-735c-6ca6-fee1-1024bd5b9920/c5ec69bb-3d71-4eb7-a5f8-314aa27753ea_i55_towns169_01_pt.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/52/45/5c/52455c28-536e-b87b-1ca9-e40190e0e635/e0fb2282-46e4-4c72-bb17-ce423b1b18a0_i55_towns169_02_pt.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0c/6b/7e/0c6b7e92-6631-fcec-3e79-48d6573eb184/b8739c98-64e3-4dbf-91d2-9c36e552c27a_i55_towns169_03_pt.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/2e/0d/b6/2e0db6f7-a5ef-d35b-8c05-a34a4c7df597/1893757f-63fa-4989-a32c-d968f6fa62a2_i55_towns169_04_pt.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9c/0d/34/9c0d340c-e7e0-f25a-1279-ab770ae5c144/fd6a10f2-da09-438c-966a-91a6498f5995_i55_towns169_05_pt.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/1c/7f/4a/1c7f4a09-c6fd-6b9c-31f2-034659ec4c9b/c57de0f5-6aa2-4ffb-9833-c6b5a599f5cb_iPro_towns169_01_pt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a8/5d/04/a85d049c-8d39-faf3-345d-6fef32ce923e/cf17da37-26d5-40d9-8c85-4a7538b2d4ac_iPro_towns169_02_pt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/52/88/77/528877e1-8035-5cc0-d2ae-86419e11e201/f8957ef5-e580-463b-8c3f-44e253e44b1b_iPro_towns169_03_pt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d2/3e/33/d23e335e-add9-f6ff-1a10-24244bb45ad3/a92d21bb-ba27-4755-8c8a-b1529a8dd0c8_iPro_towns169_04_pt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/78/a9/94/78a9945a-c7b2-0acc-015d-adc9c7bd330e/cdbd5a36-b2ab-42c0-8433-cc5a34aa0d25_iPro_towns169_05_pt.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skating Rink Story]]></title>
-        <id>Skating Rink Story-pt-1793130591753</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/6738371720?lang=en"/>
-        <updated>2026-10-27T19:49:51.753Z</updated>
-        <summary type="html"><![CDATA[Price: 7,99 € → 2,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6738371720?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/1d/b3/281db3b7-cbaf-8246-43ae-4b7444de67ea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>7,99 €</span> → <b>
-  <strong>2,99 €</strong>
-</b><span>[2,99 € ~ 7,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>2,99 €</b>
-</p><h2>Application Description</h2><p>
-  Let the elegant sound of carefully sharpened metal on meticulously maintained ice ring through your ears as you manage your very own ice skating rink. Train up your eager staff and enter them into competitions.
-
-But first things first—you're going to need a huge rink, a place where your customers can glide with glee. And you never know when a carefully placed object on the ice may lead to an impromptu photoshoot.
-
-Make sure your skaters are warm and happy off the ice with a heated room and soup bar. Some people might even post their experiences on social media, too!
-
-Keep customers coming back by listening to their requests, like increasing the food choices at your rink. And with the right combination, who knows what amazing dishes you may discover! You can't skate on an empty stomach, after all!
-
-You're also going to need a capable instructor or two to teach skaters all kinds of amazing tricks and bring out their full potential! And once they master the basics, have them create a figure-skating program and enter competitions! Their success on the ice will mean more business for your rink!
-
-Looks like even the mayor from the town over has heard about your rink and come to check it out for themselves! With this kind of popularity, it won't be long until you have people coming from all over the world!
-
-Now, get ready to create countless wonderful memories with your skaters, and aim to turn your rink into an unforgettable, 5-star facility!
-
-Try searching for "Kairosoft" to see all of our games, or visit us at https://kairopark.jp. Be sure to check out both our free-to-play and our paid games!
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/77/19/a27719af-cc68-8b6b-0186-282cf08ca4e8/i67_skate00_en.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/22/b6/0222b620-2006-334d-d9d8-c226a1e69d23/i67_skate01_en.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/57/36/21573644-a418-ab80-5535-8f0b143577d6/i67_skate02_en.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/3b/f3/ca3bf338-44da-ecc8-d6c9-e79737e4a721/i67_skate03_en.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/47/de/d647de6b-7439-4fe6-6d3e-e28c5af7c1d1/i67_skate04_en.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/b1/12/5ab1128f-4ebe-4729-30e1-c0cc7f15e460/iPro_skate00_en.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/74/e4/ff74e43e-1d13-c664-6dae-018023d92c0d/iPro_skate01_en.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/0d/bf/3b0dbfc8-072e-56d0-f535-422900f35714/iPro_skate02_en.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/be/6d/cebe6ded-63ea-4406-eb31-6b4a361a49c9/iPro_skate03_en.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/37/cd/4b37cd08-cc91-0309-647a-f568d7965930/iPro_skate04_en.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pro Wrestler Story]]></title>
-        <id>Pro Wrestler Story-pt-1793130591753</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/6505046490?lang=en"/>
-        <updated>2026-10-27T19:49:51.753Z</updated>
-        <summary type="html"><![CDATA[Price: 7,99 € → 2,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6505046490?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/f8/e2/41f8e2a4-2938-c862-ac44-8a6538fe0bad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>7,99 €</span> → <b>
-  <strong>2,99 €</strong>
-</b><span>[2,99 € ~ 7,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>2,99 €</b>
-</p><h2>Application Description</h2><p>
-  Take control of your very own pro wrestling team, building up your members to seize the title of undisputed industry best! Diet, training, even the occasional R&R—every facet counts when you're going for gold!
-
-With your own team comes your own gym. Furnish it with a bench press, heavy bag, and other equipment of your choice, as you'll need your wrestlers in tip-top condition come fight day. On that note, a colorful host of wrestling rivals await your challenge. Prep sufficiently and you just might get your hand raised! So fight hard, fight well, but also—fight with style!
-...And crack some crass quips at the pre-fight press conference too!
-
-As for the in-ring action, weather thrilling exchanges amidst cheers from a capacity crowd, sinking a finisher at the right moment to nab the three-count!
-
-The more popularity your team amasses, the more visitors will flock to your gym—and the more merch you'll ultimately move. You can even erect an arcade, karaoke room, batting cage and much, much more for some welcome added revenue!
-
-Lastly, any team worth its salt needs more than a few members. Should a particularly talented wrestler catch your eye, see if you can't bring him or her onboard! This will grant you access to a whole new world of 2v2 and 3v3 tag matches—meaning more tussling territory for you to terrorize!
-
-Well? What are you waiting for? Mask up and get in the ring! This is the business of bash, brother!
-
---
-Supports drag to scroll and pinch to zoom.
-
-Search for "Kairosoft" to see all of our games, or visit us at http://kairopark.jp
-Be sure to check out both our free-to-play and paid games!
-Kairosoft's pixel art game series continues!
-
-Follow us on X (Twitter) for the latest Kairosoft news and information.
-https://twitter.com/kairokun2010
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/a6/f4/ada6f412-9199-0551-22b3-8ad060d6fdec/23165a92-93ac-48e4-a056-cc27522bf4b2_i67_wrestling201_en.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/25/b1/b625b11d-1efe-ed26-1095-62c426500902/9ddcbb71-3b6c-4fe6-a809-4fca51af10cd_i67_wrestling202_en.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/76/f8/eb76f8ba-e7f3-6b0f-c722-901ce5463617/25f60a6c-a6fd-44d6-8f0d-9265a1850fb3_i67_wrestling203_en.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/6e/32/0e6e32ff-4ae9-ba05-ae28-fb8557152f45/785e78de-bb24-4e83-990b-055372b52faa_i67_wrestling204_en.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/81/52/d98152b3-ab00-0968-255e-beefc870bc84/d5b3105f-0481-4d7a-b265-fb2e427e04a0_i67_wrestling205_en.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/58/1e/06581ebc-d9f4-d890-d550-4c490c38738f/fa5f7b7f-602c-42de-afd1-fe974c063e4b_iPro_wrestling201_en.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/93/46/e19346c5-12f3-7a3b-1bd0-aadbe064816d/0c8575ba-e730-48a6-b378-2d62535b307b_iPro_wrestling202_en.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/b1/06/04b106bb-d570-0c4d-8bb9-64e45bf50607/d8c39d54-edf3-485d-abc5-db74f5e1f8e6_iPro_wrestling203_en.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/60/25/cf602501-3d72-da56-0a77-68615fbd117d/9d5d2477-b604-443b-ae16-6102cb53dc45_iPro_wrestling204_en.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/18/6b/9b186b35-da15-d133-8b24-20875184a900/01703654-01ac-44ff-8b50-a131b43f0eb4_iPro_wrestling205_en.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raiders Map]]></title>
-        <id>Raiders Map-pt-1793068805806</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/6755290585?lang=en"/>
-        <updated>2026-10-27T02:40:05.806Z</updated>
-        <summary type="html"><![CDATA[Raider Mk. 2: 14,99 € → 4,99 €<br/>Raider Mk. 3: 22,99 € → 7,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6755290585?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/fb/45/eefb4515-58d3-22fa-fe56-83a1f9d8d593/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>Compras integradas</h3><ul>
-  <li>
-    <strong>Raider Mk. 2：</strong><span>14,99 €</span> → <b>
-  <strong>4,99 €</strong>
-</b><span>[4,99 € ~ 19,99 €]</span>
-  </li><li>
-    <strong>Raider Mk. 3：</strong><span>22,99 €</span> → <b>
-  <strong>7,99 €</strong>
-</b><span>[7,99 € ~ 34,99 €]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>Gratuito</b>
-</p><h3>Compras integradas</h3><ul>
-  <li>
-    Raider Mk. 1：<b>3,99 €</b>
-  </li><li>
-    Raider Mk. 2：<b>4,99 €</b>
-  </li><li>
-    Raider Mk. 3：<b>7,99 €</b>
-  </li><li>
-    Raider Weekly：<b>1,99 €</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Raiders Map is the all-in-one companion for Arc Raiders: interactive maps, loot locations, event timers, material and recycling breakdowns, enemy drop lists, and full quest-line guides.
-
-INTERACTIVE MAPS
-Every extraction point, boss lair, loot cache and quest marker on fully zoomable maps — now with high-detail tiled maps and buttery-smooth rendering, even with 1,000+ markers on screen. Filter by category, search any marker, and jump straight to it.
-
-LIVE EVENT TRACKING
-See every active and upcoming map event at a glance with real-time countdowns. Turn on notifications and get alerted the moment a hot zone goes live.
-
-LOADOUT TOOLS
-Compare weapon stats side by side across tiers and levels, check what's safe to recycle before you scrap it, and plan your skill tree build before you drop.
-
-GUIDES & TRIALS
-Quest walkthroughs, XP guides and trial objectives — everything you need to progress faster.
-
-ENEMY DATABASE
-Every enemy with its full loot drop table, so you always know what's worth the fight.
-
-Raiders Map is the best tool for easy access to everything, along with world class support. You can reach me directly on X for help or to report any issues: All4nDev, or through Discord.
-
-Not affiliated with Embark. Raiders Map is independently owned and managed.
-
-Apple standard EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/e1/b9/c8e1b9ea-18d3-c1ae-30a6-492bf2bc6e55/02_home.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/67/a0/4767a0d6-68e5-25a1-1d74-2d2490bc531c/01_map.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/5d/ff/505dff29-b74f-3031-1119-fea04c25ba32/03_search.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/2c/61/c42c6107-1bde-86bf-b95d-6df6b0159b16/07_guides.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/02/a0/c602a0e8-2c86-b0ab-ae82-6bea2b87bed9/06_skilltree.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/c4/25/9cc42566-c3ad-4d6a-faa2-c85d8551756f/04_weapons.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/af/b2/09afb22f-01f4-f09a-5e61-cc6558c7885e/05_materials.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/cf/c6/77cfc686-f909-5b7f-79fb-37a44e94b6bb/IMG_0416.PNG/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/41/0b/8c410b8b-6502-c9fd-02ba-2772083a1314/IMG_0418.PNG/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/8a/d0/bf8ad090-f8b6-943d-b797-fca71251d3f6/IMG_0417.PNG/360x480bb.jpg" />]]></content>
     </entry>
 </feed>

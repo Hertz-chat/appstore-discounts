@@ -48290,7 +48290,10 @@
       "FUSION FLIPPO": "USD 0.99",
       "BLADE OF JUSTICE": "USD 0.99",
       "HIGH FIVE": "USD 0.99",
-      "LOW RIDER": "USD 0.99"
+      "LOW RIDER": "USD 0.99",
+      "BEAST OF SHADOWS": "USD 0.00",
+      "A MAJOR'S LOW BLOW": "USD 0.00",
+      "A MAJOR'S HIGH BROW": "USD 0.00"
     },
     "minPriceInfo": {
       "price": 11.99,
@@ -48305,9 +48308,31 @@
       "FUSION FLIPPO": "USD 0.99",
       "BLADE OF JUSTICE": "USD 0.99",
       "HIGH FIVE": "USD 0.99",
-      "LOW RIDER": "USD 0.99"
+      "LOW RIDER": "USD 0.99",
+      "BEAST OF SHADOWS": "USD 0.00",
+      "A MAJOR'S LOW BLOW": "USD 0.00",
+      "A MAJOR'S HIGH BROW": "USD 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793396723963,
+          "price": 11.99,
+          "formattedPrice": "USD 11.99",
+          "inAppPurchases": {
+            "BEAST OF SHADOWS": "USD 0.00",
+            "STANDARD ROCK KIT": "USD 0.00",
+            "A MAJOR'S LOW BLOW": "USD 0.00",
+            "A MAJOR'S HIGH BROW": "USD 0.00",
+            "LOW RIDER": "USD 0.99",
+            "HIGH FIVE": "USD 0.99",
+            "DEEP BLUE": "USD 0.00",
+            "BLADE OF JUSTICE": "USD 0.99",
+            "FUSION FLIPPO": "USD 0.99",
+            "BEEPING BOBBIE": "USD 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792871696104,
@@ -59933,6 +59958,25 @@
     "history": [
       [
         {
+          "timestamp": 1793396723963,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "第01~12課教學影片合購": "USD 8.99",
+            "第01課教學影片": "USD 0.99",
+            "第02課教學影片": "USD 0.99",
+            "第03課教學影片": "USD 0.99",
+            "第04課教學影片": "USD 0.99",
+            "第05課教學影片": "USD 0.99",
+            "第06課教學影片": "USD 0.99",
+            "第07課教學影片": "USD 0.99",
+            "第08課教學影片": "USD 0.99",
+            "第09課教學影片": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791366760269,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
@@ -68865,6 +68909,23 @@
       "119 Gems": "USD 59.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793396723963,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "150 Gems": "USD 79.99",
+            "74 Gems": "USD 40.99",
+            "119 Gems": "USD 59.99",
+            "48 Gems": "USD 28.99",
+            "28 Gems": "USD 14.99",
+            "13 Gems": "USD 7.99",
+            "6 Gems": "USD 3.99",
+            "1 Gem": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791316756993,
@@ -197703,6 +197764,14 @@
       "Solar Arc Pro": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793396723963,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790828594798,

@@ -53837,6 +53837,25 @@
     "history": [
       [
         {
+          "timestamp": 1793463940314,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "15500 Diamonds": "USD 99.99",
+            "6600 Diamonds": "USD 49.99",
+            "3200 Diamonds": "USD 24.99",
+            "1210 Diamonds": "USD 9.99",
+            "580 Diamonds": "USD 4.99",
+            "220 Diamonds": "USD 1.99",
+            "450000 Coins": "USD 99.99",
+            "180000 Coins": "USD 49.99",
+            "82000 Coins": "USD 24.99",
+            "30000 Coins": "USD 9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793438080874,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -76821,6 +76840,14 @@
     "history": [
       [
         {
+          "timestamp": 1793463940314,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792345098035,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -83327,6 +83354,27 @@
       ]
     ]
   },
+  "1110376793": {
+    "name": "VOI - puzzle game",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793463940314,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1111420122": {
     "name": "Hear My Baby Heartbeat App",
     "maxPriceInfo": {
@@ -88649,6 +88697,14 @@
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793463940314,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791397748865,
@@ -137373,6 +137429,25 @@
     "history": [
       [
         {
+          "timestamp": 1793463940314,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Prime Gemma 2500": "USD 10.99",
+            "Tamer Kit": "USD 0.99",
+            "Evoker Kit": "USD 0.99",
+            "Master Package": "USD 10.99",
+            "Prime Gemma 1200": "USD 5.99",
+            "Spray kit": "USD 2.99",
+            "Ascensio Kit": "USD 2.99",
+            "Zenith Islands DLC Sale": "USD 1.99",
+            "Prime Dimension DLC Sale": "USD 1.99",
+            "Crystal Offer Sale": "USD 5.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792863731561,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -152550,6 +152625,14 @@
     "history": [
       [
         {
+          "timestamp": 1793463940314,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792678231846,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -154978,6 +155061,27 @@
             "推薦選擇 - 折扣": "USD 2.99",
             "36000 硬幣": "USD 17.99"
           }
+        }
+      ]
+    ]
+  },
+  "1590563221": {
+    "name": "Meets Link",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793463940314,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -162994,6 +163098,14 @@
       "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793463940314,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772117689030,
@@ -216737,6 +216849,14 @@
     "history": [
       [
         {
+          "timestamp": 1793463940314,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793438080874,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -217196,10 +217316,18 @@
       "formattedPrice": "USD 2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793463940314,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793438080874,

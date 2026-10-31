@@ -52190,6 +52190,27 @@
       ]
     ]
   },
+  "1110376793": {
+    "name": "voi",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793463940314,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1111420122": {
     "name": "Hear My Baby Batimento",
     "maxPriceInfo": {
@@ -152319,11 +152340,17 @@
       "formattedPrice": "2,99 €"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1793463940314,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793438080874,
           "price": 2.99,

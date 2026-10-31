@@ -2,6 +2,20 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1110376793,
+      "name": {
+        "mo": "VOI - puzzle game"
+      },
+      "addType": "auto"
+    },
+    {
+      "id": 1590563221,
+      "name": {
+        "mo": "Meets Link"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 6824686276,
       "name": {
         "us": "Wider - Fullscreen Browsing"

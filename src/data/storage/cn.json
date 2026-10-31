@@ -17058,6 +17058,25 @@
     "history": [
       [
         {
+          "timestamp": 1793415517315,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Gold Annual": "¥298.00",
+            "Gold Monthly": "¥58.00",
+            "Gold Level lifetime": "¥498.00",
+            "Gold Level Free Trial": "¥0.00",
+            "Lunar Return Report": "¥28.00",
+            "7-day Trial Astrolocality": "¥0.00",
+            "Astrolocality Maps": "¥168.00",
+            "The Big Three Report": "¥28.00",
+            "Relationship Report": "¥28.00",
+            "Predictive Report - Untimed": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793243454661,
           "price": 0,
           "formattedPrice": "免费",
@@ -58154,6 +58173,20 @@
       "訂閱 (1 年)": "¥618.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793415517315,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "¥498.00",
+            "Parallels Desktop for Mac #4": "¥498.00",
+            "Parallels Desktop for Mac #3": "¥498.00",
+            "Parallels Desktop for Mac": "¥498.00",
+            "Parallels Desktop for Mac #2": "¥498.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791316756993,
@@ -135212,6 +135245,25 @@
     "history": [
       [
         {
+          "timestamp": 1793415517315,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {
+            "心岛日记心礼会员VIP（3个月）": "¥50.00",
+            "心岛日记心礼会员VIP（12个月）": "¥188.00",
+            "心岛日记心礼会员VIP（1个月）": "¥18.00",
+            "购买12个海星": "¥12.00",
+            "购买128个海星": "¥128.00",
+            "购买68个海星": "¥68.00",
+            "购买30个海星": "¥30.00",
+            "购买6个海星": "¥6.00",
+            "6800贝壳购买": "¥68.00",
+            "1200贝壳购买": "¥12.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791540411692,
           "price": 3,
           "formattedPrice": "¥3.00",
@@ -171495,6 +171547,23 @@
     "history": [
       [
         {
+          "timestamp": 1793415517315,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "DLC：姐妹连": "¥2.00",
+            "DLC：英雄对决": "¥8.00",
+            "DLC：龙之神庙": "¥9.00",
+            "DLC：怪物联盟": "¥12.00",
+            "DLC：贪婪洞窟": "¥6.00",
+            "DLC：外星入侵": "¥8.00",
+            "DLC：异界": "¥8.00",
+            "DLC：邪恶之心": "¥12.00",
+            "奇境森林": "¥15.00",
+            "DLC：孤山世界": "¥12.00"
+          }
+        },
+        {
           "timestamp": 1793396723963,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -186770,6 +186839,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793415517315,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {
+            "自创武将": "¥18.00",
+            "战国七雄": "¥36.00",
+            "群雄争霸": "¥18.00",
+            "楚汉争霸": "¥36.00",
+            "自创地图": "¥24.00",
+            "无双战神": "¥36.00",
+            "自创武将朝代特色兵种补丁": "¥48.00",
+            "重振汉室": "¥18.00",
+            "五子良将": "¥36.00",
+            "斜谷残阳": "¥36.00"
+          }
+        },
         {
           "timestamp": 1793396723963,
           "price": 35,
@@ -238953,6 +239039,27 @@
           "timestamp": 1793224661146,
           "price": 88,
           "formattedPrice": "¥88.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6756032045": {
+    "name": "Salt Shack Minerals",
+    "maxPriceInfo": {
+      "price": 148,
+      "formattedPrice": "¥148.00"
+    },
+    "minPriceInfo": {
+      "price": 148,
+      "formattedPrice": "¥148.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793415517315,
+          "price": 148,
+          "formattedPrice": "¥148.00",
           "inAppPurchases": {}
         }
       ]

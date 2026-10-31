@@ -2293,10 +2293,10 @@
   {
     "trackId": 441142802,
     "region": "tr",
-    "timestamp": 1792277094972,
+    "timestamp": 1793415517315,
     "discounts": [],
-    "price": 699.99,
-    "formattedPrice": "₺699,99",
+    "price": 999.99,
+    "formattedPrice": "₺999,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id441142802",
     "trackName": "Bass Modes Symmetry School",
@@ -2776,7 +2776,7 @@
   {
     "trackId": 480102733,
     "region": "tr",
-    "timestamp": 1793396723963,
+    "timestamp": 1793415517315,
     "discounts": [],
     "price": 499.99,
     "formattedPrice": "₺499,99",
@@ -13303,7 +13303,7 @@
   {
     "trackId": 1477966166,
     "region": "tr",
-    "timestamp": 1793396723963,
+    "timestamp": 1793415517315,
     "discounts": [],
     "price": 249.99,
     "formattedPrice": "₺249,99",
@@ -17093,10 +17093,10 @@
   {
     "trackId": 1620202676,
     "region": "tr",
-    "timestamp": 1791884966954,
+    "timestamp": 1793415517315,
     "discounts": [],
-    "price": 149.99,
-    "formattedPrice": "₺149,99",
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id1620202676",
     "trackName": "Iron Marines Invasion RTS Game",
@@ -17346,7 +17346,7 @@
   {
     "trackId": 1631859420,
     "region": "tr",
-    "timestamp": 1793396723963,
+    "timestamp": 1793415517315,
     "discounts": [],
     "price": 99.99,
     "formattedPrice": "₺99,99",
@@ -18671,7 +18671,7 @@
   {
     "trackId": 6448928429,
     "region": "tr",
-    "timestamp": 1793243454661,
+    "timestamp": 1793415517315,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -19888,10 +19888,10 @@
   {
     "trackId": 6477535804,
     "region": "tr",
-    "timestamp": 1792881993930,
+    "timestamp": 1793415517315,
     "discounts": [],
-    "price": 149.99,
-    "formattedPrice": "₺149,99",
+    "price": 399.99,
+    "formattedPrice": "₺399,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6477535804",
     "trackName": "Vault of the Void",
@@ -23430,10 +23430,10 @@
   {
     "trackId": 6752503669,
     "region": "tr",
-    "timestamp": 1793396723963,
+    "timestamp": 1793415517315,
     "discounts": [],
-    "price": 0,
-    "formattedPrice": "Free",
+    "price": 249.99,
+    "formattedPrice": "₺249,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6752503669",
     "trackName": "Solar Arc: Golden Hour Tracker",
@@ -23978,6 +23978,18 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6756011370",
     "trackName": "TL雙幣試算表",
     "firstRecordedAt": 1765824087672
+  },
+  {
+    "trackId": 6756032045,
+    "region": "tr",
+    "timestamp": 1793415517315,
+    "discounts": [],
+    "price": 999.99,
+    "formattedPrice": "₺999,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6756032045",
+    "trackName": "Salt Shack Minerals",
+    "firstRecordedAt": 1793415517315
   },
   {
     "trackId": 6756117621,
@@ -24714,7 +24726,7 @@
   {
     "trackId": 6759664029,
     "region": "tr",
-    "timestamp": 1793396723963,
+    "timestamp": 1793415517315,
     "discounts": [],
     "price": 399.99,
     "formattedPrice": "₺399,99",
@@ -26576,7 +26588,7 @@
   {
     "trackId": 6811795155,
     "region": "tr",
-    "timestamp": 1792201899634,
+    "timestamp": 1793415517315,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",

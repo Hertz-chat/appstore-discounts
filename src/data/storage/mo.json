@@ -48316,6 +48316,23 @@
     "history": [
       [
         {
+          "timestamp": 1793415517315,
+          "price": 11.99,
+          "formattedPrice": "USD 11.99",
+          "inAppPurchases": {
+            "STANDARD ROCK KIT": "USD 0.00",
+            "DEEP BLUE": "USD 0.00",
+            "BEEPING BOBBIE": "USD 0.00",
+            "ISAAC'S NEW TONES": "USD 0.99",
+            "GROOVY GUT SHAKER": "USD 1.99",
+            "DARK DUNGEON OF DESPAIR": "USD 0.99",
+            "CAMPBELL'S CANS": "USD 0.99",
+            "FUSION FLIPPO": "USD 0.99",
+            "BLADE OF JUSTICE": "USD 0.99",
+            "HIGH FIVE": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1793396723963,
           "price": 11.99,
           "formattedPrice": "USD 11.99",
@@ -59958,6 +59975,23 @@
     "history": [
       [
         {
+          "timestamp": 1793415517315,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "第01~12課教學影片合購": "USD 8.99",
+            "第12課教學影片": "USD 0.99",
+            "第11課教學影片": "USD 0.99",
+            "第10課教學影片": "USD 0.99",
+            "第09課教學影片": "USD 0.99",
+            "第08課教學影片": "USD 0.99",
+            "第07課教學影片": "USD 0.99",
+            "第06課教學影片": "USD 0.99",
+            "第05課教學影片": "USD 0.99",
+            "第04課教學影片": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1793396723963,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
@@ -68910,6 +68944,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793415517315,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "1 Gem": "USD 0.99",
+            "13 Gems": "USD 7.99",
+            "6 Gems": "USD 3.99",
+            "48 Gems": "USD 28.99",
+            "150 Gems": "USD 79.99",
+            "28 Gems": "USD 14.99",
+            "74 Gems": "USD 40.99"
+          }
+        },
         {
           "timestamp": 1793396723963,
           "price": 0,
@@ -217067,6 +217115,27 @@
           "timestamp": 1793360824433,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6756032045": {
+    "name": "Salt Shack Minerals",
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "USD 19.99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "USD 19.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793415517315,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
           "inAppPurchases": {}
         }
       ]

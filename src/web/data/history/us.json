@@ -30098,6 +30098,14 @@
     "history": [
       [
         {
+          "timestamp": 1793415517315,
+          "price": 16.99,
+          "formattedPrice": "$16.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792277094972,
           "price": 12.99,
           "formattedPrice": "$12.99",
@@ -79721,6 +79729,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793415517315,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "1 Mo. Global Texting": "$3.99",
+            "1 Mo. CAN Texting": "$2.79",
+            "$5 Credit": "$5.49",
+            "3 Mo. CAN Texting": "$5.49",
+            "3 Mo. Global Texting": "$8.49",
+            "6 Mo. CAN Texting": "$9.99",
+            "1 Mo. Fongo Plus": "$9.99",
+            "6 Mo. Global Texting": "$14.99",
+            "$20 Credit": "$19.99",
+            "12 Mo. CAN Texting": "$17.99"
+          }
+        },
         {
           "timestamp": 1793360824433,
           "price": 4.99,
@@ -195587,8 +195612,8 @@
       "《欧·亨利短篇小说精选》": "$5.99",
       "《英语四级真题精品课》": "$8.99",
       "听口直通自由—语音基础": "$5.99",
-      "听口直通自由—中高级英语精听": "$39.99",
-      "听口直通自由—口语输出课": "$29.99",
+      "听口直通自由—中高级英语精听": "$59.99",
+      "听口直通自由—口语输出课": "$39.99",
       "On Writing Well 英语原版书精读课": "$69.99",
       "大学英语_外刊精读 | 2025年度TOP100精选": "$29.99",
       "赖世雄中级美语下（视频课）": "$14.99",
@@ -195632,6 +195657,25 @@
       "可乐新概念（二）语音语调及连读": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793415517315,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "赖世雄中级美语下（视频课）": "$14.99",
+            "赖世雄中级美语上（视频课）": "$14.99",
+            "大学英语_外刊精读 | 2025年度TOP100精选": "$29.99",
+            "On Writing Well 英语原版书精读课": "$69.99",
+            "听口直通自由—中高级英语精听": "$59.99",
+            "听口直通自由—口语输出课": "$39.99",
+            "听口直通自由—语音基础": "$5.99",
+            "肖维青英文原著精读课-纳尼亚传奇篇": "$29.99",
+            "大学英语_外刊精读 | 2024年度TOP100精选": "$29.99",
+            "Albert：不走弯路学英语": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788690009839,
@@ -222651,6 +222695,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793415517315,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {
+            "Extra Drippy": "$0.99",
+            "Futurewave": "$0.99",
+            "Sandrock Deputy": "$0.99",
+            "Comfy Jamjams": "$0.99",
+            "Wandering Heart": "$0.99",
+            "Carefree Gesture": "$0.99",
+            "Stripy Neatness": "$0.99",
+            "Innocent Memory": "$0.99",
+            "Blue Elegance": "$0.99",
+            "Country Passion": "$0.99"
+          }
+        },
         {
           "timestamp": 1793380885407,
           "price": 7.99,
@@ -253374,6 +253435,25 @@
     "history": [
       [
         {
+          "timestamp": 1793415517315,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "All Unit Groups": "$12.99",
+            "All Heroes": "$14.99",
+            "Hero Dragon Kosmos": "$6.99",
+            "Unit Group Jaegers": "$6.99",
+            "Unit Group Rebooted Ascendii": "$2.99",
+            "Hero Red Dragon": "$5.99",
+            "Starter Pack": "$4.99",
+            "Hero Zhara": "$4.99",
+            "Hero Red Dragon On Sale": "$3.99",
+            "Hero Gauntlet": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792678231846,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -260277,7 +260357,9 @@
       "Shadows of the Past": "$6.99",
       "Season 2 Pass": "$9.99",
       "Season 2 Pass (Discount)": "$6.99",
-      "Seeds of Hope": "$6.99"
+      "Seeds of Hope": "$6.99",
+      "Custom Scenarios": "$6.99",
+      "Season 2 Pass (Full)": "$19.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -260296,9 +260378,30 @@
       "Shadows of the Past": "$6.99",
       "Season 2 Pass": "$9.99",
       "Season 2 Pass (Discount)": "$6.99",
-      "Seeds of Hope": "$6.99"
+      "Seeds of Hope": "$6.99",
+      "Custom Scenarios": "$6.99",
+      "Season 2 Pass (Full)": "$19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793415517315,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Custom Scenarios": "$6.99",
+            "Seeds of Hope": "$6.99",
+            "Season 2 Pass (Full)": "$19.99",
+            "Season 2 Pass (Discount)": "$6.99",
+            "Season 2 Pass": "$9.99",
+            "Shadows of the Past": "$6.99",
+            "Beyond the Bunkers": "$6.99",
+            "Season 1 Pack (discount)": "$6.99",
+            "Ultimate Pack (discount)": "$11.99",
+            "Critical Mass": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791114629972,
@@ -277664,6 +277767,25 @@
       "五子良將": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793415517315,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "自創武將": "$2.99",
+            "公路霸業": "$2.99",
+            "五子良將": "$5.99",
+            "自創地圖": "$3.99",
+            "無雙戰神": "$5.99",
+            "虎嘯鳳鳴": "$3.99",
+            "巾幗綻芳華": "$3.99",
+            "冠絕天下": "$5.99",
+            "斜谷殘陽": "$5.99",
+            "北境狂人": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793243454661,
@@ -322525,6 +322647,17 @@
     "history": [
       [
         {
+          "timestamp": 1793415517315,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "The Weaver": "$2.99",
+            "Developer Supporter Pack": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792914758864,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -342797,6 +342930,12 @@
     "history": [
       [
         {
+          "timestamp": 1793415517315,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1793396723963,
           "price": 0,
           "formattedPrice": "Free",
@@ -358308,6 +358447,25 @@
     "history": [
       [
         {
+          "timestamp": 1793415517315,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Pro Mensal": "$1.99",
+            "1 Token Coach IA": "$0.99",
+            "Elite Annual": "$7.99",
+            "SENSI iPhone 13 a 14 Pro Max": "$1.99",
+            "SENSI iPhone 15 a 17 Pro Max": "$1.99",
+            "Clone de Sensi": "$0.99",
+            "SENSI RANKED iPhone 15 a 17 Pro Max": "$1.99",
+            "3 Tokens Coach IA": "$1.99",
+            "SENSI RANKED iPhone 13 a 14 Pro Max": "$1.99",
+            "Clone Sensi – 3 Clonagens": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792881993930,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -364644,6 +364802,16 @@
     "history": [
       [
         {
+          "timestamp": 1793415517315,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Keeps Pro": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792221339483,
           "price": 0,
           "formattedPrice": "Free",
@@ -364896,6 +365064,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793415517315,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "Tower Sniper": "$5.99",
+            "Hero Oni": "$4.99",
+            "ALL HEROES BUNDLE": "$24.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Gems Pouch": "$4.99",
+            "Tower Alchemist": "$2.99",
+            "Tower Wildcat": "$4.99",
+            "Gems Handful": "$2.99"
+          }
+        },
         {
           "timestamp": 1793396723963,
           "price": 6.99,
@@ -366763,14 +366948,22 @@
     "trackName": "P's Pocket",
     "region": "us",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "$9.99"
+      "price": 14.99,
+      "formattedPrice": "$14.99"
     },
     "minPriceInfo": {
       "price": 9.99,
       "formattedPrice": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793415517315,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792742526515,
@@ -367221,6 +367414,29 @@
           "timestamp": 1793360824433,
           "price": 9.99,
           "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6756032045": {
+    "trackId": 6756032045,
+    "trackName": "Salt Shack Minerals",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793415517315,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
           "inAppPurchases": {}
         }
       ]

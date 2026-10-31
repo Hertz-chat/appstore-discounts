@@ -3018,7 +3018,7 @@
   {
     "trackId": 525818839,
     "region": "pt",
-    "timestamp": 1793396723963,
+    "timestamp": 1793415517315,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "0,99 €",
@@ -5744,7 +5744,7 @@
   {
     "trackId": 921954809,
     "region": "pt",
-    "timestamp": 1791965170280,
+    "timestamp": 1793415517315,
     "discounts": [],
     "price": 5.99,
     "formattedPrice": "5,99 €",
@@ -12305,7 +12305,7 @@
   {
     "trackId": 1477966166,
     "region": "pt",
-    "timestamp": 1793178284917,
+    "timestamp": 1793415517315,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "4,99 €",
@@ -18254,7 +18254,7 @@
   {
     "trackId": 6473001577,
     "region": "pt",
-    "timestamp": 1793396723963,
+    "timestamp": 1793415517315,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "3,99 €",
@@ -22386,6 +22386,18 @@
     "firstRecordedAt": 1765824087672
   },
   {
+    "trackId": 6756032045,
+    "region": "pt",
+    "timestamp": 1793415517315,
+    "discounts": [],
+    "price": 22.99,
+    "formattedPrice": "22,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6756032045",
+    "trackName": "Salt Shack Minerals",
+    "firstRecordedAt": 1793415517315
+  },
+  {
     "trackId": 6756117621,
     "region": "pt",
     "timestamp": 1765478422272,
@@ -23096,7 +23108,7 @@
   {
     "trackId": 6759664029,
     "region": "pt",
-    "timestamp": 1792827674174,
+    "timestamp": 1793415517315,
     "discounts": [],
     "price": 7.99,
     "formattedPrice": "7,99 €",

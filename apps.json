@@ -2,6 +2,13 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6756032045,
+      "name": {
+        "mo": "Salt Shack Minerals"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 6783953753,
       "name": {
         "mo": "Batomon Showdown"

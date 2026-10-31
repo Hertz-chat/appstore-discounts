@@ -1487,7 +1487,7 @@
   {
     "trackId": 430270438,
     "region": "cn",
-    "timestamp": 1793243454661,
+    "timestamp": 1793415517315,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免费",
@@ -5345,7 +5345,7 @@
   {
     "trackId": 1085114709,
     "region": "cn",
-    "timestamp": 1791316756993,
+    "timestamp": 1793415517315,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免费",
@@ -9007,7 +9007,7 @@
   {
     "trackId": 1530149693,
     "region": "cn",
-    "timestamp": 1791540411692,
+    "timestamp": 1793415517315,
     "discounts": [],
     "price": 3,
     "formattedPrice": "¥3.00",
@@ -11960,7 +11960,7 @@
   {
     "trackId": 6473332700,
     "region": "cn",
-    "timestamp": 1793396723963,
+    "timestamp": 1793415517315,
     "discounts": [],
     "price": 35,
     "formattedPrice": "¥35.00",
@@ -12464,7 +12464,7 @@
   {
     "trackId": 6550914957,
     "region": "cn",
-    "timestamp": 1793396723963,
+    "timestamp": 1793415517315,
     "discounts": [],
     "price": 18,
     "formattedPrice": "¥18.00",
@@ -14745,6 +14745,18 @@
     "trackViewUrl": "https://apps.apple.com/cn/app/id6756011370",
     "trackName": "TL雙幣試算表",
     "firstRecordedAt": 1765824087672
+  },
+  {
+    "trackId": 6756032045,
+    "region": "cn",
+    "timestamp": 1793415517315,
+    "discounts": [],
+    "price": 148,
+    "formattedPrice": "¥148.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6756032045",
+    "trackName": "Salt Shack Minerals",
+    "firstRecordedAt": 1793415517315
   },
   {
     "trackId": 6756117621,

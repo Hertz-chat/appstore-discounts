@@ -10342,14 +10342,22 @@
   "356994010": {
     "name": "Le Conjugueur",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 60,
+      "formattedPrice": "$60.00"
     },
     "minPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793479481135,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1773824369736,
@@ -112570,8 +112578,8 @@
       "Live Tracer & Video Editor HalfYear": "$1,190.00"
     },
     "minPriceInfo": {
-      "price": 190,
-      "formattedPrice": "$190.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Map Subscription": "$60.00",
       "Map Tracer Pro Annual Sub": "$1,990.00",
       "Map Tracer Pro Half-Year Sub": "$1,190.00",
@@ -112584,6 +112592,19 @@
       "Live Tracer & Video Editor HalfYear": "$1,190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793479481135,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Map Subscription": "$60.00",
+            "Live Tracer & Video Editor Monthly": "$320.00",
+            "Live Tracer & Video Editor Annual": "$1,990.00",
+            "Live Tracer & Video Editor HalfYear": "$1,190.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1778529438834,
@@ -301506,7 +301527,7 @@
     ]
   },
   "6752503669": {
-    "name": "Solar Arc: Golden Hour Tracker",
+    "name": "Solar Arc: 黃金時刻 日出日落",
     "maxPriceInfo": {
       "price": 190,
       "formattedPrice": "$190.00",
@@ -301518,6 +301539,14 @@
       "Solar Arc Pro": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793479481135,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793396723963,
@@ -316170,6 +316199,14 @@
     "history": [
       [
         {
+          "timestamp": 1793479481135,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792934734921,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -322948,11 +322985,17 @@
       "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
       [
+        {
+          "timestamp": 1793479481135,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793463940314,
           "price": 60,

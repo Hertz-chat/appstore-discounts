@@ -10876,14 +10876,22 @@
   "356994010": {
     "name": "Le Conjugueur",
     "maxPriceInfo": {
-      "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
       "price": 49.99,
       "formattedPrice": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793479481135,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1773824369736,
@@ -278615,6 +278623,12 @@
     "history": [
       [
         {
+          "timestamp": 1793479481135,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1793415517315,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -293231,6 +293245,14 @@
     "history": [
       [
         {
+          "timestamp": 1793479481135,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792934734921,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -299002,6 +299024,14 @@
     "history": [
       [
         {
+          "timestamp": 1793479481135,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793311668998,
           "price": 9.99,
           "formattedPrice": "₺9,99",
@@ -300524,11 +300554,17 @@
       "formattedPrice": "₺149,99"
     },
     "minPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
       [
+        {
+          "timestamp": 1793479481135,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793463940314,
           "price": 99.99,

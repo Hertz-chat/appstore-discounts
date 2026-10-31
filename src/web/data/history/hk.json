@@ -11059,14 +11059,22 @@
     "trackName": "Le Conjugueur",
     "region": "hk",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793479481135,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1773824369736,
@@ -102745,6 +102753,23 @@
     "history": [
       [
         {
+          "timestamp": 1793479481135,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "6480根火柴": "HK$ 788.00",
+            "60根火柴": "HK$ 8.00",
+            "月度礼包": "HK$ 32.00",
+            "180根火柴": "HK$ 22.00",
+            "980根火柴": "HK$ 118.00",
+            "1元礼包": "HK$ 8.00",
+            "500根火柴": "HK$ 58.00",
+            "1680根火柴": "HK$ 188.00",
+            "超值礼包-1": "HK$ 22.00",
+            "成长基金": "HK$ 32.00"
+          }
+        },
+        {
           "timestamp": 1793463940314,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -113963,8 +113988,8 @@
       "Live Tracer & Video Editor HalfYear": "HK$ 288.00"
     },
     "minPriceInfo": {
-      "price": 48,
-      "formattedPrice": "HK$ 48.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Map Subscription": "HK$ 18.00",
       "Map Tracer Pro Annual Sub": "HK$ 488.00",
       "Map Tracer Pro Half-Year Sub": "HK$ 288.00",
@@ -113977,6 +114002,19 @@
       "Live Tracer & Video Editor HalfYear": "HK$ 288.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793479481135,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Map Subscription": "HK$ 18.00",
+            "Live Tracer & Video Editor Monthly": "HK$ 88.00",
+            "Live Tracer & Video Editor Annual": "HK$ 488.00",
+            "Live Tracer & Video Editor HalfYear": "HK$ 288.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1778529438834,
@@ -292010,7 +292048,7 @@
   },
   "6752503669": {
     "trackId": 6752503669,
-    "trackName": "Solar Arc: Golden Hour Tracker",
+    "trackName": "Solar Arc: 黃金時刻 日出日落",
     "region": "hk",
     "maxPriceInfo": {
       "price": 48,
@@ -292023,6 +292061,14 @@
       "Solar Arc Pro": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793479481135,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793396723963,
@@ -306518,6 +306564,14 @@
     "history": [
       [
         {
+          "timestamp": 1793479481135,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792934734921,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -313980,10 +314034,18 @@
       "formattedPrice": "HK$ 22.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793479481135,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793438080874,

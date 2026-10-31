@@ -15129,14 +15129,22 @@
     "trackName": "Le Conjugueur",
     "region": "us",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793479481135,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1773824369736,
@@ -98062,7 +98070,9 @@
       "购买500个宝石": "$59.99",
       "购买8000金币": "$2.99",
       "购买 12 个宝石": "$1.99",
-      "购买3500金币": "$1.99"
+      "购买3500金币": "$1.99",
+      "购买 26 个宝石": "$3.99",
+      "购买 60 个宝石": "$6.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -98076,9 +98086,30 @@
       "购买500个宝石": "$59.99",
       "购买8000金币": "$2.99",
       "购买 12 个宝石": "$1.99",
-      "购买3500金币": "$1.99"
+      "购买3500金币": "$1.99",
+      "购买 26 个宝石": "$3.99",
+      "购买 60 个宝石": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793479481135,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "购买1500金币": "$0.99",
+            "购买3500金币": "$1.99",
+            "购买8000金币": "$2.99",
+            "购买 12 个宝石": "$1.99",
+            "购买 26 个宝石": "$3.99",
+            "购买 60 个宝石": "$6.99",
+            "购买8个宝石": "$1.99",
+            "购买35个宝石": "$6.99",
+            "购买140个宝石": "$20.99",
+            "购买500个宝石": "$59.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793274810835,
@@ -166804,6 +166835,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793479481135,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$4.99",
+            "All Filter Packs": "$1.99",
+            "All Poster Packs": "$2.99",
+            "Rainbow Film Pack": "$0.99",
+            "All Sticker Packs": "$1.99",
+            "Style Film Pack": "$0.99",
+            "Bokeh Film Pack": "$0.00",
+            "Retro Film Pack": "$0.99",
+            "Wisdom Font Pack": "$0.00",
+            "Paper Film Pack": "$0.00"
+          }
+        },
         {
           "timestamp": 1793463940314,
           "price": 0.99,
@@ -343128,6 +343176,14 @@
     "history": [
       [
         {
+          "timestamp": 1793479481135,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793415517315,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -360582,6 +360638,14 @@
     "history": [
       [
         {
+          "timestamp": 1793479481135,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792934734921,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -367731,11 +367795,17 @@
       "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
       [
+        {
+          "timestamp": 1793479481135,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793463940314,
           "price": 1.99,

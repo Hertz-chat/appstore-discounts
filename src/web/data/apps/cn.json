@@ -774,7 +774,7 @@
   {
     "trackId": 363738376,
     "region": "cn",
-    "timestamp": 1793068805806,
+    "timestamp": 1793438080874,
     "discounts": [],
     "price": 168,
     "formattedPrice": "¥168.00",
@@ -1487,7 +1487,7 @@
   {
     "trackId": 430270438,
     "region": "cn",
-    "timestamp": 1793415517315,
+    "timestamp": 1793438080874,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免费",
@@ -5345,7 +5345,7 @@
   {
     "trackId": 1085114709,
     "region": "cn",
-    "timestamp": 1793415517315,
+    "timestamp": 1793438080874,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免费",
@@ -9007,7 +9007,7 @@
   {
     "trackId": 1530149693,
     "region": "cn",
-    "timestamp": 1793415517315,
+    "timestamp": 1793438080874,
     "discounts": [],
     "price": 3,
     "formattedPrice": "¥3.00",
@@ -11960,7 +11960,7 @@
   {
     "trackId": 6473332700,
     "region": "cn",
-    "timestamp": 1793415517315,
+    "timestamp": 1793438080874,
     "discounts": [],
     "price": 35,
     "formattedPrice": "¥35.00",
@@ -16335,10 +16335,10 @@
   {
     "trackId": 6819720065,
     "region": "cn",
-    "timestamp": 1793380885407,
+    "timestamp": 1793438080874,
     "discounts": [],
-    "price": 98,
-    "formattedPrice": "¥98.00",
+    "price": 68,
+    "formattedPrice": "¥68.00",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id6819720065",
     "trackName": "P's Pocket",
@@ -16379,5 +16379,17 @@
     "trackViewUrl": "https://apps.apple.com/cn/app/id6822194774",
     "trackName": "TypeDraw",
     "firstRecordedAt": 1793178284917
+  },
+  {
+    "trackId": 6824686276,
+    "region": "cn",
+    "timestamp": 1793438080874,
+    "discounts": [],
+    "price": 22,
+    "formattedPrice": "¥22.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6824686276",
+    "trackName": "Wider - Fullscreen Browsing",
+    "firstRecordedAt": 1793438080874
   }
 ]

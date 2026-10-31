@@ -5744,7 +5744,7 @@
   {
     "trackId": 921954809,
     "region": "pt",
-    "timestamp": 1793415517315,
+    "timestamp": 1793438080874,
     "discounts": [],
     "price": 5.99,
     "formattedPrice": "5,99 €",
@@ -25014,5 +25014,17 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id6822194774",
     "trackName": "TypeDraw",
     "firstRecordedAt": 1793178284917
+  },
+  {
+    "trackId": 6824686276,
+    "region": "pt",
+    "timestamp": 1793438080874,
+    "discounts": [],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6824686276",
+    "trackName": "Wider - Fullscreen Browsing",
+    "firstRecordedAt": 1793438080874
   }
 ]

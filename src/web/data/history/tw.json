@@ -30313,6 +30313,23 @@
     "history": [
       [
         {
+          "timestamp": 1793438080874,
+          "price": 235,
+          "formattedPrice": "$235.00",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "$70.00",
+            "Realms Plus:10 Friends w/trial": "$240.00",
+            "Minecraft Store Item 6": "$200.00",
+            "Realms Monthly Subscription: You + 2 Friends": "$120.00",
+            "Minecraft Store Item 3": "$100.00",
+            "Realms Plus: You + 10 Friends": "$240.00",
+            "Minecraft Store Item 10": "$345.00",
+            "Minecraft Store Item 4": "$135.00",
+            "Minecraft Store Item 5": "$170.00",
+            "Minecraft Store Item 1": "$35.00"
+          }
+        },
+        {
           "timestamp": 1793380885407,
           "price": 235,
           "formattedPrice": "$235.00",
@@ -220747,6 +220764,23 @@
     "history": [
       [
         {
+          "timestamp": 1793438080874,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "All Unit Groups": "$390.00",
+            "All Heroes": "$490.00",
+            "Hero Dragon Kosmos": "$220.00",
+            "Unit Group Jaegers": "$220.00",
+            "Starter Pack": "$150.00",
+            "Special Daily Pack7": "$60.00",
+            "Hero Red Dragon On Sale": "$120.00",
+            "Unit Group Rebooted Ascendii": "$90.00",
+            "Hero Red Dragon": "$190.00",
+            "Special Daily Pack 1": "$150.00"
+          }
+        },
+        {
           "timestamp": 1793380885407,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -290719,6 +290753,25 @@
     "history": [
       [
         {
+          "timestamp": 1793438080874,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "3.99美元商品2": "$120.00",
+            "12.99美元商品2": "$390.00",
+            "0.99美元商品": "$30.00",
+            "12.99美元商品": "$390.00",
+            "3.99美元商品": "$120.00",
+            "49.99美元商品": "$1,490.00",
+            "99.99美元商品": "$2,990.00",
+            "19.99美元商品": "$690.00",
+            "8.99美元商品": "$290.00",
+            "14.99美元商品": "$490.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793360824433,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -321273,6 +321326,25 @@
     "history": [
       [
         {
+          "timestamp": 1793438080874,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "798 進階禮盒": "$490.00",
+            "1888 高級禮盒": "$990.00",
+            "498 暢玩禮包": "$320.00",
+            "198 體驗禮包": "$150.00",
+            "6888 至尊禮": "$2,990.00",
+            "108 新手禮包": "$90.00",
+            "2888 豪華禮": "$1,490.00",
+            "49888 帝王神話禮": "$15,000.00",
+            "9888 豪華至尊禮": "$3,990.00",
+            "16888 永恆威望包": "$6,990.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789010266489,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -326740,6 +326812,12 @@
     "history": [
       [
         {
+          "timestamp": 1793438080874,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1793380885407,
           "price": 490,
           "formattedPrice": "$490.00",
@@ -327227,6 +327305,29 @@
           "timestamp": 1793415517315,
           "price": 690,
           "formattedPrice": "$690.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6824686276": {
+    "trackId": 6824686276,
+    "trackName": "Wider - Fullscreen Browsing",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793438080874,
+          "price": 90,
+          "formattedPrice": "$90.00",
           "inAppPurchases": {}
         }
       ]

@@ -2957,7 +2957,7 @@
   {
     "trackId": 491231653,
     "region": "us",
-    "timestamp": 1786224545219,
+    "timestamp": 1793438080874,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "$1.99",
@@ -13242,7 +13242,7 @@
   {
     "trackId": 1476509317,
     "region": "us",
-    "timestamp": 1793415517315,
+    "timestamp": 1793438080874,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -13868,7 +13868,7 @@
   {
     "trackId": 1499001662,
     "region": "us",
-    "timestamp": 1793396723963,
+    "timestamp": 1793438080874,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -15372,7 +15372,7 @@
   {
     "trackId": 1555184523,
     "region": "us",
-    "timestamp": 1793415517315,
+    "timestamp": 1793438080874,
     "discounts": [],
     "price": 7.99,
     "formattedPrice": "$7.99",
@@ -15660,7 +15660,7 @@
   {
     "trackId": 1563932741,
     "region": "us",
-    "timestamp": 1793330060259,
+    "timestamp": 1793438080874,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "$1.99",
@@ -17309,7 +17309,7 @@
   {
     "trackId": 1631859420,
     "region": "us",
-    "timestamp": 1793415517315,
+    "timestamp": 1793438080874,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "$1.99",
@@ -22063,7 +22063,7 @@
   {
     "trackId": 6743459503,
     "region": "us",
-    "timestamp": 1793415517315,
+    "timestamp": 1793438080874,
     "discounts": [],
     "price": 5.99,
     "formattedPrice": "$5.99",
@@ -24786,7 +24786,7 @@
   {
     "trackId": 6759664029,
     "region": "us",
-    "timestamp": 1793415517315,
+    "timestamp": 1793438080874,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "$6.99",
@@ -25326,10 +25326,10 @@
   {
     "trackId": 6762582312,
     "region": "us",
-    "timestamp": 1789010266489,
+    "timestamp": 1793438080874,
     "discounts": [],
-    "price": 0.29,
-    "formattedPrice": "$0.29",
+    "price": 0,
+    "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6762582312",
     "trackName": "Po Jun: Three Kingdoms - RTS",
@@ -25470,7 +25470,7 @@
   {
     "trackId": 6766166468,
     "region": "us",
-    "timestamp": 1793415517315,
+    "timestamp": 1793438080874,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -26732,10 +26732,10 @@
   {
     "trackId": 6819720065,
     "region": "us",
-    "timestamp": 1793415517315,
+    "timestamp": 1793438080874,
     "discounts": [],
-    "price": 14.99,
-    "formattedPrice": "$14.99",
+    "price": 9.99,
+    "formattedPrice": "$9.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6819720065",
     "trackName": "P's Pocket",
@@ -26776,5 +26776,17 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id6822194774",
     "trackName": "TypeDraw",
     "firstRecordedAt": 1793178284917
+  },
+  {
+    "trackId": 6824686276,
+    "region": "us",
+    "timestamp": 1793438080874,
+    "discounts": [],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6824686276",
+    "trackName": "Wider - Fullscreen Browsing",
+    "firstRecordedAt": 1793438080874
   }
 ]

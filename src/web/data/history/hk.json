@@ -24978,6 +24978,15 @@
     "history": [
       [
         {
+          "timestamp": 1793438080874,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Premium": "HK$ 388.00",
+            "Fitness Buddy Premium": "HK$ 238.00"
+          }
+        },
+        {
           "timestamp": 1793415517315,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -57551,6 +57560,25 @@
       "Holiday Offer Halloween 2026": "HK$ 148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793438080874,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Holiday Offer Halloween 2026": "HK$ 148.00",
+            "LifeTime Pass 50": "HK$ 388.00",
+            "LifeTime Pass 30": "HK$ 228.00",
+            "Love Island USA Fan Deck": "HK$ 0.00",
+            "Holiday Offer 4th of July 2026": "HK$ 148.00",
+            "DIY Bundle Sale": "HK$ 58.00",
+            "Holiday Offer Spring 2026": "HK$ 148.00",
+            "AAPI Music Deck": "HK$ 18.00",
+            "AAPI Films Deck": "HK$ 18.00",
+            "AAPI Month Bundle": "HK$ 48.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,
@@ -169053,6 +169081,25 @@
       "Black Weapons Set": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793438080874,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "500 Crystal": "HK$ 38.00",
+            "300 Crystal": "HK$ 22.00",
+            "1000 Crystal": "HK$ 88.00",
+            "3000 Crystal": "HK$ 228.00",
+            "5000 Crystal": "HK$ 388.00",
+            "Banshee Pet Package": "HK$ 88.00",
+            "Behemoth Pet Package": "HK$ 88.00",
+            "Black Friday Black Death": "HK$ 88.00",
+            "Black Friday Lord Of Shadow": "HK$ 118.00",
+            "Black Weapons Set": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789183143080,
@@ -307446,6 +307493,25 @@
     "history": [
       [
         {
+          "timestamp": 1793438080874,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "16888 永恆威望包": "HK$ 1,488.00",
+            "49888 帝王神話禮": "HK$ 3,888.00",
+            "108 新手禮包": "HK$ 22.00",
+            "9888 豪華至尊禮": "HK$ 988.00",
+            "798 進階禮盒": "HK$ 118.00",
+            "6888 至尊禮": "HK$ 788.00",
+            "498 暢玩禮包": "HK$ 88.00",
+            "2888 豪華禮": "HK$ 368.00",
+            "1888 高級禮盒": "HK$ 268.00",
+            "198 體驗禮包": "HK$ 38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792258533888,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -310905,6 +310971,23 @@
     "history": [
       [
         {
+          "timestamp": 1793438080874,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "全法術禮包": "HK$ 98.00",
+            "全塔禮包": "HK$ 148.00",
+            "英雄 德拉坎": "HK$ 58.00",
+            "英雄 阿什彼特": "HK$ 58.00",
+            "全英雄禮包": "HK$ 188.00",
+            "全塔禮包_B": "HK$ 118.00",
+            "英雄 鬼侍": "HK$ 38.00",
+            "塔 奧術鍛造匠": "HK$ 38.00",
+            "塔 野貓女獵手": "HK$ 38.00",
+            "英雄 伊格納斯": "HK$ 22.00"
+          }
+        },
+        {
           "timestamp": 1793415517315,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -313198,6 +313281,12 @@
     "history": [
       [
         {
+          "timestamp": 1793438080874,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1793380885407,
           "price": 118,
           "formattedPrice": "HK$ 118.00",
@@ -313677,6 +313766,29 @@
           "timestamp": 1793415517315,
           "price": 148,
           "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6824686276": {
+    "trackId": 6824686276,
+    "trackName": "Wider - Fullscreen Browsing",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793438080874,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
           "inAppPurchases": {}
         }
       ]

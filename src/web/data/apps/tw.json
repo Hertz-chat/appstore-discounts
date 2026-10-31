@@ -2776,7 +2776,7 @@
   {
     "trackId": 479516143,
     "region": "tw",
-    "timestamp": 1793380885407,
+    "timestamp": 1793438080874,
     "discounts": [],
     "price": 235,
     "formattedPrice": "$235.00",
@@ -17213,7 +17213,7 @@
   {
     "trackId": 1620202676,
     "region": "tw",
-    "timestamp": 1793380885407,
+    "timestamp": 1793438080874,
     "discounts": [],
     "price": 30,
     "formattedPrice": "$30.00",
@@ -21414,7 +21414,7 @@
   {
     "trackId": 6737434503,
     "region": "tw",
-    "timestamp": 1793360824433,
+    "timestamp": 1793438080874,
     "discounts": [],
     "price": 10,
     "formattedPrice": "$10.00",
@@ -25669,10 +25669,10 @@
   {
     "trackId": 6762582312,
     "region": "tw",
-    "timestamp": 1789010266489,
+    "timestamp": 1793438080874,
     "discounts": [],
-    "price": 10,
-    "formattedPrice": "$10.00",
+    "price": 0,
+    "formattedPrice": "免費",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6762582312",
     "trackName": "破軍：三國 - RTS+MOBA策略手遊",
@@ -27087,10 +27087,10 @@
   {
     "trackId": 6819720065,
     "region": "tw",
-    "timestamp": 1793380885407,
+    "timestamp": 1793438080874,
     "discounts": [],
-    "price": 490,
-    "formattedPrice": "$490.00",
+    "price": 320,
+    "formattedPrice": "$320.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6819720065",
     "trackName": "P's Pocket",
@@ -27131,5 +27131,17 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id6822194774",
     "trackName": "TypeDraw",
     "firstRecordedAt": 1793178284917
+  },
+  {
+    "trackId": 6824686276,
+    "region": "tw",
+    "timestamp": 1793438080874,
+    "discounts": [],
+    "price": 90,
+    "formattedPrice": "$90.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6824686276",
+    "trackName": "Wider - Fullscreen Browsing",
+    "firstRecordedAt": 1793438080874
   }
 ]

@@ -1,25 +1,5 @@
 [
   {
-    "trackId": 6824686276,
-    "region": "pt",
-    "timestamp": 1793501604822,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "2,99 €",
-        "to": "1,99 €",
-        "range": "[Gratuito ~ 2,99 €]"
-      }
-    ],
-    "price": 1.99,
-    "formattedPrice": "1,99 €",
-    "currency": "EUR",
-    "trackViewUrl": "https://apps.apple.com/pt/app/id6824686276",
-    "trackName": "Wider - Fullscreen Browsing",
-    "firstRecordedAt": 1793438080874
-  },
-  {
     "trackId": 1140451547,
     "region": "pt",
     "timestamp": 1793490606912,

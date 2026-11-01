@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2026-11-01T04:33:03.835Z</updated>
+    <updated>2026-11-01T11:16:15.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-01T04:33:03.836Z</updated>
+        <updated>2026-11-01T11:16:15.987Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnSun, 01 Nov 2026 04:33:03 GMT</id>
+        <id>rankingcnSun, 01 Nov 2026 11:16:15 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-01T04:33:03.837Z</updated>
+        <updated>2026-11-01T11:16:15.987Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -128,6 +128,29 @@ feedId:157007849019630592+userId:73658201673997312
             <span>总次数</span>：<b>1</b>
           </li><li>
             <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/cn/1621267448?lang=zh-CN">FormCheck AI: 表格检查</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App内购买</span><ol>
+              <li>
+                <i>weekly pro</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -711,6 +734,85 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FormCheck AI: 表格检查]]></title>
+        <id>FormCheck AI: 表格检查-cn-1793526670644</id>
+        <link href="https://appstore-discounts.eyelly.me/cn/1621267448?lang=zh-CN"/>
+        <updated>2026-11-01T09:51:10.644Z</updated>
+        <summary type="html"><![CDATA[weekly pro: ¥68.00 → ¥15.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/1621267448?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/b0/33/f8b03370-fb5e-2a63-be5c-1c6c383e8ccb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App内购买</h3><ul>
+  <li>
+    <strong>weekly pro：</strong><span>¥68.00</span> → <b>
+  <strong>¥15.00</strong>
+</b><span>[¥15.00 ~ ¥68.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>¥8.00</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    Monthly Subscription：<b>¥148.00</b>
+  </li><li>
+    Discounted Yearly Subscription：<b>¥698.00</b>
+  </li><li>
+    Yearly Subscription：<b>¥148.00</b>
+  </li><li>
+    Discounted Monthly Sub：<b>¥38.00</b>
+  </li><li>
+    weekly pro：<b>¥15.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  以下为替换 **PureStrength** 为 **FormCheck AI（表格检查 AI）** 并将文案翻译为中文后的版本，保留 **FormCheck AI（表格检查 AI）** 这一名称：
+
+---
+
+欢迎使用 **FormCheck AI（表格检查 AI）**，这是一款由 AI 驱动的顶级私人教练，帮助你矫正动作、提升力量并塑造完美体态！
+
+在训练中为动作不规范而烦恼？**FormCheck AI（表格检查 AI）** 将为你带来改变。我们采用先进的 AI 技术来分析你的训练视频，并为你的深蹲、卧推和硬拉提供即时反馈。释放潜能，让自己变得更强壮、更健美、更健康！
+
+---
+
+## FormCheck AI（表格检查 AI）的主要功能
+
+1. **硬拉动作纠正**  
+   - 检测肩部位置，避免后背拱起  
+   - 确保正确的髋部运动以及背阔肌/核心紧张度  
+   - 检查锁定技巧，提升动作效率  
+
+2. **深蹲动作分析**  
+   - 监控下蹲深度，确保肌肉获得最佳激活  
+   - 及时提醒任何不平衡或对齐问题  
+
+3. **卧推指导**  
+   - 针对杠铃轨迹和控制提供反馈  
+   - 评估握距、肘部位置以及身体力学  
+
+---
+
+## 为什么选择 FormCheck AI（表格检查 AI）？
+
+- 借助个性化 AI 反馈达成你的健身目标  
+- 改善动作以预防受伤并最大化训练效果  
+- 追踪你的训练进度，见证并庆祝每个里程碑  
+- 获取全面的健身、营养与健康视频和文章  
+
+立即下载 **FormCheck AI（表格检查 AI）**，开启实现更佳动作、更强力量和更健康生活方式的旅程！让 AI 助你彻底革新训练方式！
+
+---
+
+### 订阅信息
+
+- 购买确认后将从 iTunes 账户扣费。  
+- 订阅会自动续订，除非在当前订阅期结束至少 24 小时前关闭自动续订。  
+- 在当前订阅期结束的 24 小时内将向账户收取续订费用。  
+- 购买后，可在“账户设置”中管理订阅并关闭自动续订。  
+
+Support Email: madhav@purestrength.ai
+Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacy Policy: http://purestrength.ai/privacy.txt
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/9c/b1/529cb19a-7f79-e359-6605-5858ce0a657e/2.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/52/3d/ff523d1d-733c-0a6e-4af8-fc995e8a8322/3.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/b1/96/b6b196de-d325-25e9-b783-24019075a0f6/4.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/36/ca/b236ca9b-a1ef-14dd-1227-d2e83d93fb15/5.png/320x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[健身伙伴+：健身房锻炼]]></title>

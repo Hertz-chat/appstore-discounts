@@ -517,6 +517,23 @@
     "history": [
       [
         {
+          "timestamp": 1793526670644,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {
+            "Tuning Tools": "¥68.00",
+            "Guitar & Bass Sweeteners": "¥38.00",
+            "Harmonic Tuning": "¥148.00",
+            "Full Discounted Upgrade Pack": "¥398.00",
+            "Buzz Feiten Pack": "¥38.00",
+            "Extended Frequency Modes": "¥38.00",
+            "Keyboard Sweeteners": "¥148.00",
+            "Orchestral Sweeteners": "¥38.00",
+            "Steel Guitar Sweeteners": "¥98.00",
+            "Harp Sweeteners": "¥38.00"
+          }
+        },
+        {
           "timestamp": 1793501604822,
           "price": 68,
           "formattedPrice": "¥68.00",
@@ -24725,6 +24742,15 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793526670644,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {
+            "Premium": "¥283.00",
+            "Fitness Buddy Premium": "¥198.00"
+          }
+        },
         {
           "timestamp": 1793501604822,
           "price": 28,
@@ -159328,12 +159354,26 @@
       "price": 8,
       "formattedPrice": "¥8.00",
       "Monthly Subscription": "¥148.00",
-      "weekly pro": "¥68.00",
+      "weekly pro": "¥15.00",
       "Discounted Monthly Sub": "¥38.00",
       "Yearly Subscription": "¥148.00",
       "Discounted Yearly Subscription": "¥698.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793526670644,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {
+            "Monthly Subscription": "¥148.00",
+            "Discounted Yearly Subscription": "¥698.00",
+            "Yearly Subscription": "¥148.00",
+            "Discounted Monthly Sub": "¥38.00",
+            "weekly pro": "¥15.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772046909953,
@@ -242104,6 +242144,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793526670644,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793501604822,
           "price": 15,

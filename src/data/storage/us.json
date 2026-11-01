@@ -37503,6 +37503,23 @@
     "history": [
       [
         {
+          "timestamp": 1793568365537,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Pack of 3 Super Cops": "$0.99",
+            "Unlock All Vehicles": "$9.99",
+            "Unlock All": "$14.99",
+            "Donut Finder": "$2.99",
+            "Hot Chrome paint job for all vehicles": "$2.99",
+            "Pack of 10 Super Cops": "$2.99",
+            "East Side paint job for all vehicles": "$0.99",
+            "The Met paint job for all vehicles": "$0.99",
+            "Autobahn paint job for all vehicles": "$0.99",
+            "Seoul Rider paint job for all vehicles": "$0.99"
+          }
+        },
+        {
           "timestamp": 1793553601717,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -66364,6 +66381,25 @@
     "history": [
       [
         {
+          "timestamp": 1793568365537,
+          "price": 11.99,
+          "formattedPrice": "$11.99",
+          "inAppPurchases": {
+            "STANDARD ROCK KIT": "$0.00",
+            "BEAST OF SHADOWS": "$0.00",
+            "DEEP BLUE": "$0.00",
+            "BEEPING BOBBIE": "$0.00",
+            "A MAJOR'S LOW BLOW": "$0.00",
+            "CAMPBELL'S CANS": "$0.99",
+            "GROOVY GUT SHAKER": "$1.99",
+            "LOW RIDER": "$0.99",
+            "ISAAC'S NEW TONES": "$0.99",
+            "BLADE OF JUSTICE": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793002369190,
           "price": 11.99,
           "formattedPrice": "$11.99",
@@ -88704,6 +88740,23 @@
     "history": [
       [
         {
+          "timestamp": 1793568365537,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Unlock all stages": "$0.99",
+            "Free Checkpoints": "$0.99",
+            "Atom": "$0.99",
+            "Chloe": "$0.99",
+            "B.I.G.": "$0.99",
+            "Snake": "$0.99",
+            "Tiger": "$0.99",
+            "Large Coin Pack": "$2.99",
+            "Emo": "$0.99",
+            "Mia": "$0.99"
+          }
+        },
+        {
           "timestamp": 1793553601717,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -97975,6 +98028,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793568365537,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "生辰-年度会员": "$12.99",
+            "月度会员": "$1.99",
+            "生辰年度会员": "$9.99",
+            "永久会员": "$12.99",
+            "生辰-季度会员": "$12.99"
+          }
+        },
         {
           "timestamp": 1793553601717,
           "price": 0,
@@ -120833,7 +120898,11 @@
       "He-Man Booster Pack": "$3.99",
       "He-Man Prestige Pack": "$16.99",
       "Portable Lake Pro": "$3.99",
-      "Skywarden Unlock Pack": "$7.99"
+      "Skywarden Unlock Pack": "$7.99",
+      "Hero Booster": "$1.99",
+      "Mountain O Monkey Money": "$49.99",
+      "Double Cash Mode": "$17.99",
+      "Knowledge Unlocked": "$9.99"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -120872,9 +120941,32 @@
       "He-Man Booster Pack": "$3.99",
       "He-Man Prestige Pack": "$16.99",
       "Portable Lake Pro": "$3.99",
-      "Skywarden Unlock Pack": "$7.99"
+      "Skywarden Unlock Pack": "$7.99",
+      "Hero Booster": "$1.99",
+      "Mountain O Monkey Money": "$49.99",
+      "Double Cash Mode": "$17.99",
+      "Knowledge Unlocked": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793568365537,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Booster": "$1.99",
+            "Full Tower Unlock": "$4.99",
+            "Monkey Money": "$1.99",
+            "Pile O Monkey Money": "$4.99",
+            "Vault O Monkey Money": "$19.99",
+            "Mountain O Monkey Money": "$49.99",
+            "(5,000) Monkey XP": "$0.99",
+            "Double Cash Mode": "$17.99",
+            "Knowledge Unlocked": "$9.99",
+            "Knowledge Point": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792106595136,
@@ -362271,14 +362363,22 @@
   "6801866888": {
     "name": "When'd I",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 3.99,
+      "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793568365537,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790284283691,

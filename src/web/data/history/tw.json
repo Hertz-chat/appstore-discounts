@@ -107271,6 +107271,23 @@
     "history": [
       [
         {
+          "timestamp": 1793568365537,
+          "price": 20,
+          "formattedPrice": "$20.00",
+          "inAppPurchases": {
+            "63,000 points": "$90.00",
+            "225,000 points": "$320.00",
+            "176,000 points": "$290.00",
+            "345,000 points": "$490.00",
+            "20,000 points": "$30.00",
+            "100,000 points": "$90.00",
+            "600,000 points": "$790.00",
+            "50 kilometers": "$60.00",
+            "500,000 points": "$320.00",
+            "25,000 points": "$30.00"
+          }
+        },
+        {
           "timestamp": 1793553601717,
           "price": 20,
           "formattedPrice": "$20.00",
@@ -217658,10 +217675,18 @@
       "formattedPrice": "$320.00"
     },
     "minPriceInfo": {
-      "price": 320,
-      "formattedPrice": "$320.00"
+      "price": 220,
+      "formattedPrice": "$220.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793568365537,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788250806888,
@@ -286681,6 +286706,23 @@
     "history": [
       [
         {
+          "timestamp": 1793568365537,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "每月": "$60.00",
+            "森林": "$90.00",
+            "可可": "$60.00",
+            "月夜": "$90.00",
+            "招財": "$60.00",
+            "天空": "$90.00",
+            "點點": "$60.00",
+            "小灰": "$60.00",
+            "Jingle": "$90.00",
+            "每年": "$390.00"
+          }
+        },
+        {
           "timestamp": 1793553601717,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -316878,6 +316920,23 @@
     "history": [
       [
         {
+          "timestamp": 1793568365537,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "深淵開拓者": "$320.00",
+            "魔界擴充通行證": "$190.00",
+            "尼奧貝希摩斯": "$60.00",
+            "隱月造型套裝": "$320.00",
+            "超越精華": "$990.00",
+            "永恆方舟": "$990.00",
+            "時間旅行者": "$190.00",
+            "訓練記憶": "$590.00",
+            "魔界通行證1": "$90.00",
+            "深淵精華": "$690.00"
+          }
+        },
+        {
           "timestamp": 1793553601717,
           "price": 190,
           "formattedPrice": "$190.00",
@@ -326096,14 +326155,22 @@
     "trackName": "上次是什麼時候 - 家事·保養紀錄",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00"
+      "price": 120,
+      "formattedPrice": "$120.00"
     },
     "minPriceInfo": {
       "price": 90,
       "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793568365537,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790284283691,

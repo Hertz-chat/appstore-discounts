@@ -1,23 +1,23 @@
 [
   {
-    "trackId": 1422480068,
+    "trackId": 1601114348,
     "region": "hk",
-    "timestamp": 1793553601717,
+    "timestamp": 1793568365537,
     "discounts": [
       {
-        "type": "inAppPurchase",
-        "name": "Nautilus Unlock All and AI",
-        "from": "HK$ 118.00",
-        "to": "HK$ 31.00",
-        "range": "[HK$ 31.00 ~ HK$ 118.00]"
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 88.00",
+        "to": "HK$ 58.00",
+        "range": "[HK$ 58.00 ~ HK$ 88.00]"
       }
     ],
-    "price": 0,
-    "formattedPrice": "免費",
+    "price": 58,
+    "formattedPrice": "HK$ 58.00",
     "currency": "HKD",
-    "trackViewUrl": "https://apps.apple.com/hk/app/id1422480068",
-    "trackName": "Notes Writer Browser: Nautilus",
-    "firstRecordedAt": 1722784406759
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1601114348",
+    "trackName": "Siralim Ultimate",
+    "firstRecordedAt": 1788250806888
   },
   {
     "trackId": 1587301632,

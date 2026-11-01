@@ -140552,6 +140552,25 @@
     "history": [
       [
         {
+          "timestamp": 1793553601717,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "PadLab Full App": "9,99 €",
+            "PadLab Worship Complete": "7,99 €",
+            "Worship Drum Collection": "3,99 €",
+            "Coleção Completa de Pads": "5,99 €",
+            "Worship EFX": "0,99 €",
+            "Worship 808": "0,99 €",
+            "Worship Cinematic": "0,99 €",
+            "Worship Drum Kit 3": "0,99 €",
+            "Worship Drum Kit 2": "0,99 €",
+            "Worship Drum Kit 1": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792950991459,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -151031,14 +151050,22 @@
   "6801866888": {
     "name": "Quando foi? - O último dia",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793553601717,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790284283691,
@@ -152507,6 +152534,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793553601717,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793526670644,
           "price": 2.99,

@@ -82047,6 +82047,14 @@
     "history": [
       [
         {
+          "timestamp": 1793553601717,
+          "price": 149,
+          "formattedPrice": "HK$ 149.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792958987542,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
@@ -153908,10 +153916,21 @@
       "price": 0,
       "formattedPrice": "免費",
       "Notes Writer Pro AI Assistant": "HK$ 18.00",
-      "Nautilus Unlock All and AI": "HK$ 118.00",
+      "Nautilus Unlock All and AI": "HK$ 31.00",
       "Nautilus Pro Lifetime": "HK$ 118.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793553601717,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Nautilus Pro Lifetime": "HK$ 118.00",
+            "Nautilus Unlock All and AI": "HK$ 31.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792157762180,
@@ -189481,6 +189500,25 @@
       "Master Offer Sale": "HK$ 55.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793553601717,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Spray kit": "HK$ 28.00",
+            "Ascensio Kit": "HK$ 28.00",
+            "Zenith Islands DLC Sale": "HK$ 17.00",
+            "Prime Dimension DLC Sale": "HK$ 17.00",
+            "Crystal Offer Sale": "HK$ 55.00",
+            "Elite Offer Sale": "HK$ 28.00",
+            "Fancy Apparel Offer Sale": "HK$ 50.00",
+            "Starter Offer Sale": "HK$ 10.00",
+            "Hunter Offer Sale": "HK$ 28.00",
+            "Master Offer Sale": "HK$ 55.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793463940314,
@@ -238758,6 +238796,25 @@
     "history": [
       [
         {
+          "timestamp": 1793553601717,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "HK$ 428.00",
+            "逆命殊途": "HK$ 68.00",
+            "額外內容擴充包": "HK$ 138.00",
+            "武器專屬強化券 x5 (A)": "HK$ 68.00",
+            "武器專屬強化券 x3 (A)": "HK$ 49.00",
+            "金色公事包": "HK$ 7.00",
+            "手槍彈藥吊飾": "HK$ 7.00",
+            "武器專屬強化券 x3 (B)": "HK$ 49.00",
+            "綠色藥草吊飾": "HK$ 7.00",
+            "經典公事包": "HK$ 7.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793526670644,
           "price": 0,
           "formattedPrice": "免費",
@@ -242892,6 +242949,16 @@
     "history": [
       [
         {
+          "timestamp": 1793553601717,
+          "price": 328,
+          "formattedPrice": "HK$ 328.00",
+          "inAppPurchases": {
+            "Lies of P: Overture": "HK$ 158.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792591960143,
           "price": 228,
           "formattedPrice": "HK$ 228.00",
@@ -243003,6 +243070,14 @@
       "formattedPrice": "HK$ 148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793553601717,
+          "price": 288,
+          "formattedPrice": "HK$ 288.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792591960143,
@@ -243385,6 +243460,25 @@
       "五子良將": "HK$ 48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793553601717,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "自創武將": "HK$ 22.00",
+            "月下追魂": "HK$ 48.00",
+            "斜谷殘陽": "HK$ 48.00",
+            "巾幗綻芳華": "HK$ 32.00",
+            "戰國七雄": "HK$ 48.00",
+            "自創武將朝代特色兵種補丁": "HK$ 58.00",
+            "冠絕天下": "HK$ 48.00",
+            "群雄爭霸": "HK$ 22.00",
+            "楚漢爭霸": "HK$ 48.00",
+            "西涼悍將": "HK$ 48.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793360824433,
@@ -268432,6 +268526,25 @@
     "history": [
       [
         {
+          "timestamp": 1793553601717,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 38.00",
+            "The Aircraft Bundle": "HK$ 188.00",
+            "Global scenery - 12 months": "HK$ 148.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "Airbus A380": "HK$ 18.00",
+            "Boeing 747-400": "HK$ 18.00",
+            "Global scenery - 3 months": "HK$ 58.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "UH-60": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793463940314,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -283781,6 +283894,14 @@
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793553601717,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793295722489,
@@ -303182,6 +303303,16 @@
     "history": [
       [
         {
+          "timestamp": 1793553601717,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "解鎖所有職業": "HK$ 88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792678231846,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -303331,6 +303462,14 @@
       "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793553601717,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792591960143,
@@ -309684,6 +309823,14 @@
     "history": [
       [
         {
+          "timestamp": 1793553601717,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792950991459,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -311446,6 +311593,25 @@
       "塔 鐵木樹人": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793553601717,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "英雄 德拉坎": "HK$ 58.00",
+            "全法術禮包": "HK$ 98.00",
+            "英雄 阿什彼特": "HK$ 58.00",
+            "全英雄禮包": "HK$ 188.00",
+            "全塔禮包": "HK$ 148.00",
+            "全塔禮包_B": "HK$ 118.00",
+            "塔 鍊金術師小屋": "HK$ 22.00",
+            "法術 艾洛拉": "HK$ 22.00",
+            "塔 野貓女獵手": "HK$ 38.00",
+            "英雄 鬼侍": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793526670644,
@@ -314288,6 +314454,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793553601717,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793526670644,

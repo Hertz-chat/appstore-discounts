@@ -37503,6 +37503,25 @@
     "history": [
       [
         {
+          "timestamp": 1793553601717,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Hot Chrome paint job for all vehicles": "$2.99",
+            "Seoul Rider paint job for all vehicles": "$0.99",
+            "Autobahn paint job for all vehicles": "$0.99",
+            "The Met paint job for all vehicles": "$0.99",
+            "East Side paint job for all vehicles": "$0.99",
+            "Donut Finder": "$2.99",
+            "Pack of 50 Super Cops": "$12.99",
+            "Pack of 10 Super Cops": "$2.99",
+            "Pack of 3 Super Cops": "$0.99",
+            "Unlock All Vehicles": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790999952664,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -70380,6 +70399,23 @@
     "history": [
       [
         {
+          "timestamp": 1793553601717,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Race Pass": "$4.99",
+            "700 Aces": "$9.99",
+            "300 Aces": "$5.99",
+            "5000 Aces": "$39.99",
+            "300 Aces Limited Time Offer": "$0.99",
+            "15000 Aces": "$99.99",
+            "700 Aces Limited Time Offer": "$4.99",
+            "Racing Prodigy X30 Kart Miami": "$14.99",
+            "Figo 100 Octane Fuel Pack - 20": "$3.99",
+            "Racing Prodigy 50 Quali Tyres": "$4.99"
+          }
+        },
+        {
           "timestamp": 1793526670644,
           "price": 0,
           "formattedPrice": "Free",
@@ -88668,6 +88704,25 @@
     "history": [
       [
         {
+          "timestamp": 1793553601717,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Free Checkpoints": "$0.99",
+            "Large Coin Pack": "$2.99",
+            "Medium Coin Pack": "$1.99",
+            "Small Coin Pack": "$0.99",
+            "Pig": "$0.99",
+            "Dog": "$0.99",
+            "Rooster": "$0.99",
+            "Monkey": "$0.99",
+            "Goat": "$0.99",
+            "Horse": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792050467334,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -97919,6 +97974,20 @@
       "永久会员": "$12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793553601717,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "永久会员": "$14.99",
+            "生辰-年度会员": "$12.99",
+            "生辰-季度会员": "$12.99",
+            "生辰年度会员": "$9.99",
+            "月度会员": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792462971499,
@@ -250968,6 +251037,25 @@
     "history": [
       [
         {
+          "timestamp": 1793553601717,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "All Unit Groups": "$12.99",
+            "All Heroes": "$14.99",
+            "Hero Dragon Kosmos": "$6.99",
+            "Unit Group Jaegers": "$6.99",
+            "Unit Group Rebooted Ascendii": "$2.99",
+            "Hero Red Dragon": "$5.99",
+            "Starter Pack": "$4.99",
+            "Hero Zhara": "$4.99",
+            "Hero Red Dragon On Sale": "$3.99",
+            "Unit Group Jaegers On Sale": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793415517315,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -275092,6 +275180,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793553601717,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "五子良將": "$5.99",
+            "自創武將": "$2.99",
+            "無雙戰神": "$5.99",
+            "鎮海神威": "$2.99",
+            "斜谷殘陽": "$5.99",
+            "月下追魂": "$5.99",
+            "群雄爭霸": "$2.99",
+            "公路霸業": "$2.99",
+            "自創地圖": "$3.99",
+            "重振漢室": "$2.99"
+          }
+        },
         {
           "timestamp": 1793526670644,
           "price": 5.99,
@@ -326482,6 +326587,23 @@
     "history": [
       [
         {
+          "timestamp": 1793553601717,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "3.99美元商品2": "$3.99",
+            "8.99美元商品": "$8.99",
+            "14.99美元商品": "$14.99",
+            "12.99美元商品": "$12.99",
+            "29.99美元商品": "$29.99",
+            "0.99美元商品": "$0.99",
+            "12.99美元商品2": "$12.99",
+            "19.99美元商品": "$19.99",
+            "39.99美元商品": "$39.99",
+            "49.99美元商品": "$49.99"
+          }
+        },
+        {
           "timestamp": 1793526670644,
           "price": 0.29,
           "formattedPrice": "$0.29",
@@ -363717,6 +363839,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793553601717,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793526670644,
           "price": 2.99,

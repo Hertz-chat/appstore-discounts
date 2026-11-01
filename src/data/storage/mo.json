@@ -38098,6 +38098,25 @@
     "history": [
       [
         {
+          "timestamp": 1793553601717,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "SLS 2023: Chicago": "USD 0.99",
+            "SLS 2022: Jacksonville": "USD 0.99",
+            "SLS 2021: World Championship": "USD 0.99",
+            "SLS 2019: Sao Paulo": "USD 0.99",
+            "SLS 2019: London": "USD 0.99",
+            "Sandbox 1 Year": "USD 24.99",
+            "Sandbox 3 Months": "USD 9.99",
+            "Sandbox Monthly": "USD 4.99",
+            "SLS 2018: World Championship": "USD 0.99",
+            "Mountain of Bolts": "USD 99.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786388186899,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -40868,6 +40887,25 @@
       "500 Monkey Money": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793553601717,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Classic Tack Tower Skin Sale": "USD 0.99",
+            "Classic Tack Tower Skin": "USD 1.99",
+            "Classic Super Monkey Skin Sale": "USD 0.99",
+            "Classic Super Monkey Skin": "USD 1.99",
+            "Classic Ice Tower Skin Sale": "USD 0.99",
+            "Classic Ice Tower Skin": "USD 1.99",
+            "Classic Bomb Tower Skin Sale": "USD 0.99",
+            "Classic Bomb Tower Skin": "USD 1.99",
+            "Classic Dart Monkey Skin Sale": "USD 0.99",
+            "Classic Dart Monkey Skin": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792712656381,
@@ -64924,6 +64962,14 @@
     "history": [
       [
         {
+          "timestamp": 1793553601717,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792958987542,
           "price": 8.99,
           "formattedPrice": "USD 8.99",
@@ -67448,7 +67494,9 @@
       "购买1500金币": "USD 0.99",
       "购买500个宝石": "USD 59.99",
       "购买 60 个宝石": "USD 6.99",
-      "购买 26 个宝石": "USD 3.99"
+      "购买 26 个宝石": "USD 3.99",
+      "购买8000金币": "USD 2.99",
+      "购买 12 个宝石": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -67462,9 +67510,30 @@
       "购买1500金币": "USD 0.99",
       "购买500个宝石": "USD 59.99",
       "购买 60 个宝石": "USD 6.99",
-      "购买 26 个宝石": "USD 3.99"
+      "购买 26 个宝石": "USD 3.99",
+      "购买8000金币": "USD 2.99",
+      "购买 12 个宝石": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793553601717,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "购买1500金币": "USD 0.99",
+            "购买3500金币": "USD 1.99",
+            "购买8000金币": "USD 2.99",
+            "购买 12 个宝石": "USD 1.99",
+            "购买 26 个宝石": "USD 3.99",
+            "购买 60 个宝石": "USD 6.99",
+            "购买8个宝石": "USD 1.99",
+            "购买35个宝石": "USD 6.99",
+            "购买140个宝石": "USD 20.99",
+            "购买500个宝石": "USD 59.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793274810835,
@@ -176660,6 +176729,16 @@
     "history": [
       [
         {
+          "timestamp": 1793553601717,
+          "price": 59.99,
+          "formattedPrice": "USD 59.99",
+          "inAppPurchases": {
+            "Lies of P: Overture": "USD 29.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792591960143,
           "price": 29.99,
           "formattedPrice": "USD 29.99",
@@ -176769,6 +176848,14 @@
       "formattedPrice": "USD 17.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793553601717,
+          "price": 39.99,
+          "formattedPrice": "USD 39.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792591960143,
@@ -192717,6 +192804,14 @@
     "history": [
       [
         {
+          "timestamp": 1793553601717,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793295722489,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -208084,6 +208179,16 @@
     "history": [
       [
         {
+          "timestamp": 1793553601717,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "解鎖所有職業": "USD 9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792678231846,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -208206,6 +208311,14 @@
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793553601717,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792591960143,
@@ -214078,6 +214191,14 @@
     "history": [
       [
         {
+          "timestamp": 1793553601717,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792950991459,
           "price": 7.99,
           "formattedPrice": "USD 7.99",
@@ -217601,6 +217722,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793553601717,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793526670644,

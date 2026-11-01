@@ -16468,6 +16468,25 @@
     "history": [
       [
         {
+          "timestamp": 1793553601717,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "Premium Upgrade Pack": "₺399,99",
+            "Extreme Map Pack": "₺99,99",
+            "Crystal Ball": "₺49,99",
+            "Dreadnought": "₺49,99",
+            "Digital Amplification": "₺49,99",
+            "Frag Bombs": "₺49,99",
+            "Monkey Tycoon": "₺49,99",
+            "Double Ranga": "₺99,99",
+            "Explosive Darts": "₺99,99",
+            "Healthy Bananas": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789857698268,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -131429,6 +131448,23 @@
     "history": [
       [
         {
+          "timestamp": 1793553601717,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "SF2SEPack120": "₺5.999,99",
+            "SF2SEPack100": "₺4.999,99",
+            "SF2SEPack90": "₺4.999,99",
+            "SF2SEPack75": "₺3.999,99",
+            "SF2SEPack70": "₺3.999,99",
+            "SF2SEPack55": "₺2.999,99",
+            "SF2SEPack40": "₺1.999,99",
+            "SF2SEPack38": "₺1.999,99",
+            "SF2SEPack23": "₺1.199,99",
+            "SF2SEPack9": "₺499,99"
+          }
+        },
+        {
           "timestamp": 1793501604822,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -161937,6 +161973,25 @@
       "大学英语_外刊精读 | 2025年度TOP100精选": "₺1.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793553601717,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "大学英语_外刊精读 | 2025年度TOP100精选": "₺1.499,99",
+            "VIP连续包月": "₺199,99",
+            "肖维青英文原著精读课-纳尼亚传奇篇": "₺1.499,99",
+            "大学英语_外刊精读 | 2021年度TOP100精选": "₺1.499,99",
+            "大学英语_外刊精读 | 2022年度TOP100精选": "₺1.499,99",
+            "大学英语_外刊精读 | 2024年度TOP100精选": "₺1.499,99",
+            "林小鹿英语精读（1-7季合集升级版）": "₺3.999,99",
+            "大学英语_外刊精读 | 2023年度TOP100精选": "₺1.499,99",
+            "林小鹿经济学人精读": "₺999,99",
+            "精听党 | 英语六级真题精品课": "₺399,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790726691370,
@@ -305172,6 +305227,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793553601717,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793526670644,
           "price": 149.99,

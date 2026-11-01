@@ -131429,6 +131429,24 @@
     "history": [
       [
         {
+          "timestamp": 1793501604822,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Pile of Gems": "₺149,99",
+            "Pile of Coins": "₺49,99",
+            "SF2SEPack3": "₺149,99",
+            "Casket of Gems": "₺499,99",
+            "SF2SEPack2": "₺99,99",
+            "SF2SEPack6": "₺399,99",
+            "Bag of Coins": "₺249,99",
+            "Bag of Gems": "₺999,99",
+            "Chest of Coins": "₺999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793360824433,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -167949,6 +167967,25 @@
       "Chopper Token": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793501604822,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺599,99",
+            "Orient Express": "₺199,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "New York 2121 Board": "₺399,99",
+            "Speed Die": "₺799,99",
+            "Arcade Dice Sale": "₺199,99",
+            "Diamond Bundle": "₺699,99",
+            "The Complete Collection": "₺1.999,99",
+            "Astronaut Token Sale": "₺149,99",
+            "Transylvania Dice": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793463940314,
@@ -244244,6 +244281,25 @@
     "history": [
       [
         {
+          "timestamp": 1793501604822,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Ticket to Ride Sale Offer": "₺1.499,99",
+            "Round the World Ticket": "₺2.499,99",
+            "Europe Expansion": "₺799,99",
+            "Europe Map": "₺699,99",
+            "1910 Ticket Pack": "₺199,99",
+            "Japan Expansion": "₺699,99",
+            "Legendary Asia Map": "₺499,99",
+            "Ticket to Ride ChristmasBundle": "₺499,99",
+            "Welcome Offer": "₺1.499,99",
+            "Germany Expansion": "₺699,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791332575449,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -286324,6 +286380,25 @@
     "history": [
       [
         {
+          "timestamp": 1793501604822,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "5 ticket": "₺19,99",
+            "passatb8": "₺49,99",
+            "sonsuz paket": "₺249,99",
+            "5 gold": "₺19,99",
+            "15 gold": "₺29,99",
+            "30000 money": "₺19,99",
+            "10 ticket": "₺29,99",
+            "porches": "₺49,99",
+            "10 gold": "₺29,99",
+            "15 ticket": "₺29,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793415517315,
           "price": 0,
           "formattedPrice": "Free",
@@ -305098,6 +305173,14 @@
     "history": [
       [
         {
+          "timestamp": 1793501604822,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793479481135,
           "price": 0,
           "formattedPrice": "Free",
@@ -305113,6 +305196,29 @@
           "timestamp": 1793438080874,
           "price": 149.99,
           "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6780749343": {
+    "trackId": 6780749343,
+    "trackName": "Katil Kim? Dedektiflik Oyunu",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793501604822,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
           "inAppPurchases": {}
         }
       ]

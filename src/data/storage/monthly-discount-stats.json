@@ -1,8 +1,33 @@
 {
   "month": "2026-11",
-  "cn": {},
-  "hk": {},
-  "mo": {},
+  "cn": {
+    "443646748": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Premium": 1
+      }
+    },
+    "1587301632": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    }
+  },
+  "hk": {
+    "1587301632": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    }
+  },
+  "mo": {
+    "1587301632": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    }
+  },
   "tw": {
     "1587301632": {
       "all": 1,
@@ -11,7 +36,22 @@
     }
   },
   "us": {
+    "1140451547": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "1159700098": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "1587301632": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "1619867109": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}

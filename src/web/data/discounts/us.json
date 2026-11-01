@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 1140451547,
+    "region": "us",
+    "timestamp": 1793501604822,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$5.99",
+        "to": "Free",
+        "range": "[Free ~ $12.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1140451547",
+    "trackName": "Shot Tracer",
+    "firstRecordedAt": 1754835087428
+  },
+  {
+    "trackId": 1159700098,
+    "region": "us",
+    "timestamp": 1793501604822,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $4.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1159700098",
+    "trackName": "To the Moon",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1619867109,
+    "region": "us",
+    "timestamp": 1793501604822,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$3.99",
+        "range": "[$3.99 ~ $4.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "$3.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1619867109",
+    "trackName": "Finding Paradise",
+    "firstRecordedAt": 1754960505653
+  },
+  {
+    "trackId": 6824686276,
+    "region": "us",
+    "timestamp": 1793501604822,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$1.99",
+        "range": "[Free ~ $2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6824686276",
+    "trackName": "Wider - Fullscreen Browsing",
+    "firstRecordedAt": 1793438080874
+  },
+  {
     "trackId": 1587301632,
     "region": "us",
     "timestamp": 1793490606912,
@@ -20,26 +100,6 @@
     "firstRecordedAt": 1722784406759
   },
   {
-    "trackId": 6824686276,
-    "region": "us",
-    "timestamp": 1793479481135,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "$2.99",
-        "to": "Free",
-        "range": "[Free ~ $2.99]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "Free",
-    "currency": "USD",
-    "trackViewUrl": "https://apps.apple.com/us/app/id6824686276",
-    "trackName": "Wider - Fullscreen Browsing",
-    "firstRecordedAt": 1793438080874
-  },
-  {
     "trackId": 6762582312,
     "region": "us",
     "timestamp": 1793438080874,
@@ -58,26 +118,6 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id6762582312",
     "trackName": "Po Jun: Three Kingdoms - RTS",
     "firstRecordedAt": 1783756500773
-  },
-  {
-    "trackId": 6819720065,
-    "region": "us",
-    "timestamp": 1793438080874,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "$14.99",
-        "to": "$9.99",
-        "range": "[$9.99 ~ $14.99]"
-      }
-    ],
-    "price": 9.99,
-    "formattedPrice": "$9.99",
-    "currency": "USD",
-    "trackViewUrl": "https://apps.apple.com/us/app/id6819720065",
-    "trackName": "P's Pocket",
-    "firstRecordedAt": 1792742526515
   },
   {
     "trackId": 1620202676,
@@ -22884,7 +22924,7 @@
         "name": "Price",
         "from": "$12.99",
         "to": "$5.99",
-        "range": "[$5.99 ~ $12.99]"
+        "range": "[Free ~ $12.99]"
       }
     ],
     "price": 5.99,

@@ -1709,7 +1709,7 @@
   {
     "trackId": 407998895,
     "region": "pt",
-    "timestamp": 1792781222157,
+    "timestamp": 1793501604822,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "0,99 €",
@@ -12317,7 +12317,7 @@
   {
     "trackId": 1477966166,
     "region": "pt",
-    "timestamp": 1793415517315,
+    "timestamp": 1793501604822,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "4,99 €",
@@ -18266,7 +18266,7 @@
   {
     "trackId": 6473001577,
     "region": "pt",
-    "timestamp": 1793415517315,
+    "timestamp": 1793501604822,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "3,99 €",
@@ -24126,6 +24126,18 @@
     "firstRecordedAt": 1784304900498
   },
   {
+    "trackId": 6780749343,
+    "region": "pt",
+    "timestamp": 1793501604822,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6780749343",
+    "trackName": "Katil Kim? Dedektiflik Oyunu",
+    "firstRecordedAt": 1793501604822
+  },
+  {
     "trackId": 6780967766,
     "region": "pt",
     "timestamp": 1791453869385,
@@ -25030,10 +25042,10 @@
   {
     "trackId": 6824686276,
     "region": "pt",
-    "timestamp": 1793479481135,
+    "timestamp": 1793501604822,
     "discounts": [],
-    "price": 0,
-    "formattedPrice": "Gratuito",
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6824686276",
     "trackName": "Wider - Fullscreen Browsing",

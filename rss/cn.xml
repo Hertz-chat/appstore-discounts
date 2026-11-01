@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2026-10-31T22:26:07.776Z</updated>
+    <updated>2026-11-01T04:33:03.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-31T22:26:07.777Z</updated>
+        <updated>2026-11-01T04:33:03.836Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnSat, 31 Oct 2026 22:26:07 GMT</id>
+        <id>rankingcnSun, 01 Nov 2026 04:33:03 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-10-31T22:26:07.777Z</updated>
+        <updated>2026-11-01T04:33:03.837Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -51,13 +51,13 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>2397</b>
+        <b>2398</b>
       </td>
       <td>
         <b>204</b>
       </td>
       <td>
-        <b>2193</b>
+        <b>2194</b>
       </td>
       <td>
         <b>108</b>
@@ -97,254 +97,6 @@ feedId:157007849019630592+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1595313870?lang=zh-CN">瓦尔登 - 日程管理，待办计划，一个就够</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>3</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App内购买</span><ol>
-              <li>
-                <i>年度会员</i>：<b>1</b>
-              </li><li>
-                <i>月度会员</i>：<b>1</b>
-              </li><li>
-                <i>终身会员</i>：<b>1</b>
-              </li><li>
-                <i>终身会员 - 教育版</i>：<b>1</b>
-              </li><li>
-                <i>年度会员升级终身会员</i>：<b>1</b>
-              </li><li>
-                <i>季度会员</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>2</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6751122124?lang=zh-CN">Notteka - 香港AI Bot</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>3</b>
-          </li><li>
-            <span>价格</span>：<b>3</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>3</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6444508254?lang=zh-CN">汉末霸业</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>3</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App内购买</span><ol>
-              <li>
-                <i>华夏九州-水浒英雄传</i>：<b>1</b>
-              </li><li>
-                <i>汉末地图重制版</i>：<b>1</b>
-              </li><li>
-                <i>简体中文</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>4</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/968820626?lang=zh-CN">Watch Tuner Lite</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>2</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>5</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1309638846?lang=zh-CN">Goodak 复古胶片相机 - 拍立得旅行摄影，拍照水印滤镜</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>2</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>6</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1437479513?lang=zh-CN">逃脱者：困境突围</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>2</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>7</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1551596643?lang=zh-CN">模拟地铁</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>2</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>8</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1630541373?lang=zh-CN">私密相册：隐藏照片和视频、私人保险箱 - PRAM</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li><li>
-            <span>App内购买</span><ol>
-              <li>
-                <i>解锁专业版(Pro)</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>9</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6811795155?lang=zh-CN">Keeps</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li><li>
-            <span>App内购买</span><ol>
-              <li>
-                <i>Keeps Pro</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>10</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6755290585?lang=zh-CN">Raiders Map</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App内购买</span><ol>
-              <li>
-                <i>Raider Mk. 1</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>11</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6471594918?lang=zh-CN">Just a Simple Image Converter</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>2</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>12</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/441142802?lang=zh-CN">Bass Modes Symmetry School</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>13</b>
-      </td>
-      <td>
         <a href="https://appstore-discounts.eyelly.me/cn/443646748?lang=zh-CN">健身伙伴+：健身房锻炼</a>
       </td>
       <td>
@@ -365,914 +117,10 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/510249014?lang=zh-CN">水平仪 HD</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>15</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/633600716?lang=zh-CN">432 Player: Music in 432 Hz</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>16</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/725234217?lang=zh-CN">Rock Drum Machine: Real Drums</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>17</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/857607006?lang=zh-CN">Triple A HD - Touch Visualizer</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>18</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/926177061?lang=zh-CN">TinType - 锡版相机</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>19</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/931188326?lang=zh-CN">DayCost</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>20</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/953426154?lang=zh-CN">Be Focused Pro: Pomodoro Timer</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>21</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1140451547?lang=zh-CN">Shot Tracer</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>22</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1159700098?lang=zh-CN">去月球-To the Moon</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>23</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1160943124?lang=zh-CN">听写文本：语音识别</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>24</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1225490847?lang=zh-CN">电子相册大师(专业版)</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>25</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1344655035?lang=zh-CN">蜡烛人</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>26</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1391571907?lang=zh-CN">Fine修图</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>27</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1410053842?lang=zh-CN">小渔排班: 倒班日历与轮班闹钟</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>28</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1422480068?lang=zh-CN">Notes Writer Browser: Nautilus</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>29</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1481100296?lang=zh-CN">BreatheIn：放松呼吸</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>30</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1492049794?lang=zh-CN">宗师-武林风云传</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>31</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1500126852?lang=zh-CN">Chord</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>32</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1523446532?lang=zh-CN">重生细胞</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>33</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1524418421?lang=zh-CN">SessionBand Jazz Fusion</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>34</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1534488108?lang=zh-CN">SessionBand Jazz 4</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>35</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1538124245?lang=zh-CN">哪里哪里</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>36</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1544190466?lang=zh-CN">避难所：生存</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>37</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1551480486?lang=zh-CN">IFR Trainer</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>38</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1561849298?lang=zh-CN">SessionBand Soul Jazz Funk 3</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>39</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1575588022?lang=zh-CN">MenubarX - 强大的菜单栏浏览器</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App内购买</span><ol>
-              <li>
-                <i>MenubarX Pro</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>40</b>
+        <b>2</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1587301632?lang=zh-CN">全能记(录音,备忘,流水)</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>41</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1626320298?lang=zh-CN">极速变色龙</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>42</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1644917705?lang=zh-CN">无处遁形：全网公敌</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>43</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1665759338?lang=zh-CN">坐在罐子里的人</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>44</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1667072735?lang=zh-CN">Watch Web Browser</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>45</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6752662508?lang=zh-CN">足迹-时光轨迹·每日轨迹·记录一生轨迹·GPS</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>46</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6760764479?lang=zh-CN">Alpin Quest PRO – Outdoor GPS</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App内购买</span><ol>
-              <li>
-                <i>Saha Ekip Modu</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>47</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6802565793?lang=zh-CN">我不想当班主任-班主任工作台&教师工作台&班级管理</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>48</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6760446039?lang=zh-CN">般若心灯</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>49</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6748287593?lang=zh-CN">问题盒子-清空大脑，告别内耗</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>50</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6760777178?lang=zh-CN">Film Light</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>51</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6757943661?lang=zh-CN">阿福出境管家 - 签证通过率评估与材料清单</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>52</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6742457882?lang=zh-CN">Deco: Wallpaper & Stickers</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>53</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6449003064?lang=zh-CN">Goblin Tools</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>54</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6501973975?lang=zh-CN">休息日</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>55</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6447693393?lang=zh-CN">灵感卡片 - 创意笔记</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>56</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6759071028?lang=zh-CN">A32X Tools · A320 ECAM Resets</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>57</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6451376191?lang=zh-CN">Dumb Phone</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App内购买</span><ol>
-              <li>
-                <i>Dumb Phone Plus Yearly</i>：<b>1</b>
-              </li><li>
-                <i>Dumb Phone Plus Monthly</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>58</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6775828757?lang=zh-CN">新世界：暗影成双</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>59</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6755781701?lang=zh-CN">Aurora Tromsø</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>60</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6466390901?lang=zh-CN">旋转音律 Rotaeno</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>61</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6751309563?lang=zh-CN">火山的女儿：再度重逢</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>62</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6803329435?lang=zh-CN">Chromagraph Camera</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>63</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6819720065?lang=zh-CN">P's Pocket</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>64</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6450877530?lang=zh-CN">花园之间</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>65</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6824686276?lang=zh-CN">Wider - Fullscreen Browsing</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>66</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6752503669?lang=zh-CN">Solar Arc: 黄金时刻 日出日落</a>
       </td>
       <td>
         <ul>
@@ -1863,6 +711,108 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[健身伙伴+：健身房锻炼]]></title>
+        <id>健身伙伴+：健身房锻炼-cn-1793501604822</id>
+        <link href="https://appstore-discounts.eyelly.me/cn/443646748?lang=zh-CN"/>
+        <updated>2026-11-01T02:53:24.822Z</updated>
+        <summary type="html"><![CDATA[Premium: ¥283.00 → ¥143.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/443646748?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/6e/b1/236eb1c6-d105-0fd1-aa5e-b70fd54213a0/AppIcon-FB-Pro-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App内购买</h3><ul>
+  <li>
+    <strong>Premium：</strong><span>¥283.00</span> → <b>
+  <strong>¥143.00</strong>
+</b><span>[¥143.00 ~ ¥283.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>¥28.00</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    Premium：<b>¥143.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  做更强强大,更精壮,更好的自己
+- 上百种健身房 & 家庭室内训练动作
+- 清楚详细的锻炼介绍,并全部配有示范动画
+- 针对性减肥增肌食谱和制作方法（生酮饮食,原始饮食,素食主义,以及更多）
+- 我们的训练计划是由最顶尖的个人训练师精心制作的
+
+被以下媒体杂志高度好评：
+ - 芝加哥论坛报 - “这就像在你家里随身携带一个私人教练,而不需要真的花钱雇用一个”
+ -  EPSN杂志
+ - Jay Leno的脱口秀
+ -  Gizmodo：“最好的iPhone应用程序之一”
+
+找出为什么健身爱好者都开始使用健身伙伴App！ 健身伙伴将为您提供超过2400种独特的练习,将彻底改变您的训练方案。有了这个应用程序,您会发现跟踪监控自己的锻炼过程非常简单易用,您将维持持久的的锻炼激情,并最终努力达成您的健身目标。
+
+－－主要功能－－
+
+ - 2400+独特的锻炼练习！
+ - 1000多个高清视频
+ - 包括所有主要设备的综合练习：杠铃,ez卷曲杆,哑铃,提壶哑铃,阻力带和稳定球
+ - 运动分类（核心,下半身,胸部,肩膀,背部,手臂,有氧,伸展）
+ -  4000+运动图片和动画（达到视网膜分辨率）
+ - 详细的运动指示和肌肉分类
+ - 能够添加自己习惯的练习和喜爱的练习
+
+非常好用的用户界面
+- 快速简单的锻炼跟踪
+- 通过快速搜索栏找到您最喜欢的练习
+
+多达75个锻炼程序
+- 我们拥有不同的锻炼流程计划,也包括女性健身锻炼
+- 锻炼计划可以设定针对性目标（增大胸肌,翘臀,减肥,已经更多！）
+- 锻炼计划也可选择不同的健身器材（阻力带,提壶哑铃,徒手锻炼,等等！）
+- 来建立您自己独有的锻炼计划吧！
+
+身体指标跟踪
+- 健身伙伴可追踪显示您的体重和其他身体指标（胸围,手臂,大腿等）
+- 可以用图形显示您的锻炼进步
+
+优秀的客户服务
+- 我们有快速的电邮回复
+- 频繁更新
+
+健身伙伴与苹果健康应用程序共享数据
+ - 数据可分享到苹果健康应用程序（健身伙伴设置 - >设置苹果健康应用程序共享）
+
+升级到健身伙伴会员订阅,可以无限制地访问高级程序和Playpen Freeplay训练,高清视频,动态和激励音频,我们会定期发送锻炼小技巧,提供健康生活的提示​​和建议,以及可同时享有本公司的其他软件会员权限
+
+* 持续在后台使用GPS可大幅降低电池寿命
+
+我们提供以下规格的自动更新订阅：
+ - 订阅期为1个月或12个月
+ - 确认购买时将通过iTunes帐户支付
+ - 您的订阅将会自动续订,除非在本期结束前至少24小时关闭自动续订
+ - 帐户将在本期结束前24小时内收取续费费用,并确定续订费用
+ - 会员订阅可由您进行用户管理,自动续订可以在用户帐户设置关闭
+ - 在主动订阅期间不允许取消当前订阅
+ - 如果提供免费试用期的任何未使用部分,当用户购买该出版物的订阅时,将被暂停。
+ - 我们的隐私政策和使用条款：https://www.azumio.com/page/privacypolicy
+
+Azumio团队祝您健康！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/45/99/2f/45992f98-3573-5b4b-52d3-728d3f197b25/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple60/v4/bc/66/89/bc668915-62e5-3563-a368-017ac1dc99b8/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/e1/c3/3d/e1c33dcb-4b8f-a845-a5c1-a4063d3fd06c/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple20/v4/67/31/a7/6731a7f3-9d3b-f8bf-9225-fa02bc53e246/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/8d/0f/3d/8d0f3d97-1fec-4592-8ab1-bf02d88a665b/pr_source.png/392x696bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全能记(录音,备忘,流水)]]></title>
+        <id>全能记(录音,备忘,流水)-cn-1793501604822</id>
+        <link href="https://appstore-discounts.eyelly.me/cn/1587301632?lang=zh-CN"/>
+        <updated>2026-11-01T02:53:24.822Z</updated>
+        <summary type="html"><![CDATA[价格: ¥28.00 → ¥1.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/1587301632?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/89/59/96/8959968b-9509-d517-6970-bf90d931691e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥28.00</span> → <b>
+  <strong>¥1.00</strong>
+</b><span>[免费 ~ ¥28.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>¥1.00</b>
+</p><h2>应用描述</h2><p>
+  随时随地，将你想记录的文字，图片，视频，语音以及位置都得以妥善保存
+更有备忘提醒让繁忙的你无一错漏！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/78/cf/c9/78cfc91a-749b-6059-7753-91a5f18fa32a/808ab864-9f7e-461c-9376-5afabb2b32ff_8plus01cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8a/bb/72/8abb7218-bd3a-ccc9-b7dd-4f6935aaba0c/f1e2e929-0e38-499a-b257-84e86fda214d_8plus02cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6b/ff/90/6bff9096-9ea9-e297-c474-81d547b496a6/668cabae-2249-40ec-8513-e2221fa3e9f9_8plus03cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/82/76/36/82763680-7c14-f4d3-261f-561fcf572289/35d443dc-757b-40ca-86d1-8ff86adb7bc8_8plus04cn.png/392x696bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wider - Fullscreen Browsing]]></title>

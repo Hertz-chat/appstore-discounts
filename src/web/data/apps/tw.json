@@ -9460,7 +9460,7 @@
   {
     "trackId": 1179421849,
     "region": "tw",
-    "timestamp": 1793490606912,
+    "timestamp": 1793501604822,
     "discounts": [],
     "price": 299,
     "formattedPrice": "$299.00",
@@ -26207,6 +26207,18 @@
     "firstRecordedAt": 1792191938096
   },
   {
+    "trackId": 6780749343,
+    "region": "tw",
+    "timestamp": 1793501604822,
+    "discounts": [],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6780749343",
+    "trackName": "Katil Kim? Dedektiflik Oyunu",
+    "firstRecordedAt": 1793501604822
+  },
+  {
     "trackId": 6782209394,
     "region": "tw",
     "timestamp": 1782812098024,
@@ -27159,10 +27171,10 @@
   {
     "trackId": 6824686276,
     "region": "tw",
-    "timestamp": 1793479481135,
+    "timestamp": 1793501604822,
     "discounts": [],
-    "price": 0,
-    "formattedPrice": "免費",
+    "price": 60,
+    "formattedPrice": "$60.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6824686276",
     "trackName": "Wider - Fullscreen Browsing",

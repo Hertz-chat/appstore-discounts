@@ -9371,6 +9371,25 @@
     "history": [
       [
         {
+          "timestamp": 1793501604822,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "World 3 - Level Pack 2": "0,99 €",
+            "World 2 - Level Pack 2": "0,99 €",
+            "Unlock all Levels": "0,99 €",
+            "MEGA Bubble Popper Pack": "8,99 €",
+            "Bubble Popper Pack": "3,99 €",
+            "Pack of 15 Bumpers": "1,99 €",
+            "Pack of 5 Bumpers": "0,99 €",
+            "Pack of 30 Fireballs": "1,99 €",
+            "Pack of 10 Fireballs": "0,99 €",
+            "Pack of 1500 Tokens": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792781222157,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -79927,6 +79946,25 @@
     "history": [
       [
         {
+          "timestamp": 1793501604822,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "The Ultimate Edition Sale": "24,99 €",
+            "The Dragon": "3,49 €",
+            "New York 2121 Board": "6,99 €",
+            "Euro Trip": "3,99 €",
+            "New York 2121": "14,99 €",
+            "The Ultimate Edition": "14,99 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793415517315,
           "price": 4.99,
           "formattedPrice": "4,99 €",
@@ -119532,6 +119570,25 @@
     "history": [
       [
         {
+          "timestamp": 1793501604822,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Airbus A350-1000": "3,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Global scenery - 12 months": "19,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Boeing 737-800": "2,99 €",
+            "Concorde": "1,99 €",
+            "The Aircraft Bundle": "24,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793415517315,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -152434,6 +152491,14 @@
     "history": [
       [
         {
+          "timestamp": 1793501604822,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793479481135,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -152449,6 +152514,27 @@
           "timestamp": 1793438080874,
           "price": 2.99,
           "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6780749343": {
+    "name": "Katil Kim? Dedektiflik Oyunu",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793501604822,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]

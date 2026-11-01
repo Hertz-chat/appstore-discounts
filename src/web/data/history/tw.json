@@ -118879,6 +118879,23 @@
     "history": [
       [
         {
+          "timestamp": 1793501604822,
+          "price": 299,
+          "formattedPrice": "$299.00",
+          "inAppPurchases": {
+            "全部 DLC": "$0.00",
+            "高清材質": "$0.00",
+            "All DLC": "$0.00",
+            "HD Textures": "$0.00",
+            "道路與賽道套件": "$0.00",
+            "房車傳奇套件": "$0.00",
+            "衝刺套件": "$0.00",
+            "直線競速賽套件": "$0.00",
+            "英式精粹套件": "$0.00",
+            "黑色版本套件": "$0.00"
+          }
+        },
+        {
           "timestamp": 1793490606912,
           "price": 299,
           "formattedPrice": "$299.00",
@@ -327532,6 +327549,12 @@
     "history": [
       [
         {
+          "timestamp": 1793501604822,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1793479481135,
           "price": 0,
           "formattedPrice": "免費",
@@ -327549,6 +327572,29 @@
           "timestamp": 1793438080874,
           "price": 90,
           "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6780749343": {
+    "trackId": 6780749343,
+    "trackName": "Katil Kim? Dedektiflik Oyunu",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793501604822,
+          "price": 30,
+          "formattedPrice": "$30.00",
           "inAppPurchases": {}
         }
       ]

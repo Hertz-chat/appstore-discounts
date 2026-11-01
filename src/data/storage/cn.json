@@ -481,6 +481,25 @@
     "history": [
       [
         {
+          "timestamp": 1793501604822,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {
+            "World Sweetener Pack": "¥68.00",
+            "Steel Guitar Sweeteners": "¥98.00",
+            "Orchestral Sweeteners": "¥38.00",
+            "Misc Stringed Sweeteners": "¥28.00",
+            "Keyboard Sweeteners": "¥148.00",
+            "Harp Sweeteners": "¥38.00",
+            "Harmonica Sweeteners": "¥68.00",
+            "Guitar & Bass Sweeteners": "¥38.00",
+            "Buzz Feiten Pack": "¥38.00",
+            "Extended Frequency Modes": "¥38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784699415706,
           "price": 68,
           "formattedPrice": "¥68.00",
@@ -24427,6 +24446,16 @@
       "Fitness Buddy Premium": "¥198.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793501604822,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {
+            "Premium": "¥143.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791025831979,
@@ -146700,6 +146729,14 @@
     "history": [
       [
         {
+          "timestamp": 1793501604822,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792678231846,
           "price": 28,
           "formattedPrice": "¥28.00",
@@ -239343,6 +239380,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793501604822,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793479481135,
           "price": 0,

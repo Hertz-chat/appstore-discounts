@@ -2824,7 +2824,7 @@
   {
     "trackId": 480956504,
     "region": "mo",
-    "timestamp": 1791606695944,
+    "timestamp": 1793501604822,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "USD 4.99",
@@ -3210,7 +3210,7 @@
   {
     "trackId": 509223426,
     "region": "mo",
-    "timestamp": 1793490606912,
+    "timestamp": 1793501604822,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "USD 2.99",
@@ -9797,7 +9797,7 @@
   {
     "trackId": 1212201213,
     "region": "mo",
-    "timestamp": 1793490606912,
+    "timestamp": 1793501604822,
     "discounts": [],
     "price": 12.99,
     "formattedPrice": "USD 12.99",
@@ -9845,7 +9845,7 @@
   {
     "trackId": 1223392043,
     "region": "mo",
-    "timestamp": 1786775777169,
+    "timestamp": 1793501604822,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "USD 4.99",
@@ -16289,10 +16289,10 @@
   {
     "trackId": 1587301632,
     "region": "mo",
-    "timestamp": 1792678231846,
+    "timestamp": 1793501604822,
     "discounts": [],
-    "price": 3.99,
-    "formattedPrice": "USD 3.99",
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1587301632",
     "trackName": "全能備忘錄",
@@ -26070,6 +26070,18 @@
     "firstRecordedAt": 1792191938096
   },
   {
+    "trackId": 6780749343,
+    "region": "mo",
+    "timestamp": 1793501604822,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6780749343",
+    "trackName": "Katil Kim? Dedektiflik Oyunu",
+    "firstRecordedAt": 1793501604822
+  },
+  {
     "trackId": 6782209394,
     "region": "mo",
     "timestamp": 1782812098024,
@@ -27010,10 +27022,10 @@
   {
     "trackId": 6824686276,
     "region": "mo",
-    "timestamp": 1793479481135,
+    "timestamp": 1793501604822,
     "discounts": [],
-    "price": 0,
-    "formattedPrice": "免費",
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6824686276",
     "trackName": "Wider - Fullscreen Browsing",

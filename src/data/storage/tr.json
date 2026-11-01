@@ -97940,6 +97940,14 @@
     "history": [
       [
         {
+          "timestamp": 1793490606912,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792363190565,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -113928,8 +113936,8 @@
       "Live Tracer & Video Editor HalfYear": "₺1.499,99"
     },
     "minPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Map Subscription": "₺49,99",
       "Map Tracer Pro Annual Sub": "₺2.499,99",
       "Map Tracer Pro Half-Year Sub": "₺1.499,99",
@@ -113942,6 +113950,19 @@
       "Live Tracer & Video Editor HalfYear": "₺1.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793490606912,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Live Tracer & Video Editor Monthly": "₺449,99",
+            "Map Subscription": "₺49,99",
+            "Live Tracer & Video Editor Annual": "₺2.499,99",
+            "Live Tracer & Video Editor HalfYear": "₺1.499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1778529438834,
@@ -114634,6 +114655,14 @@
       "formattedPrice": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793490606912,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791420216639,
@@ -185072,6 +185101,25 @@
     "history": [
       [
         {
+          "timestamp": 1793490606912,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Starter Package": "₺80,99",
+            "Hunter Package": "₺159,99",
+            "Tamer Kit": "₺15,99",
+            "Evoker Kit": "₺15,99",
+            "Prime gemma 100": "₺15,99",
+            "Master Package": "₺319,99",
+            "Prime Gemma 500": "₺80,99",
+            "Spray kit": "₺80,99",
+            "Ascensio Kit": "₺80,99",
+            "Zenith Islands DLC Sale": "₺47,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793178284917,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -208870,6 +208918,14 @@
     "history": [
       [
         {
+          "timestamp": 1793490606912,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792712656381,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -209988,6 +210044,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793490606912,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792712656381,
@@ -219643,6 +219707,14 @@
       "formattedPrice": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793490606912,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772160100910,
@@ -282247,6 +282319,14 @@
       "formattedPrice": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793490606912,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786929139377,

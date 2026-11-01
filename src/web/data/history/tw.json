@@ -118879,6 +118879,25 @@
     "history": [
       [
         {
+          "timestamp": 1793490606912,
+          "price": 299,
+          "formattedPrice": "$299.00",
+          "inAppPurchases": {
+            "Road & Track Pack": "$0.00",
+            "Drag Pack": "$0.00",
+            "Touring Legends Pack": "$0.00",
+            "Sprint Pack": "$0.00",
+            "Coupé Style Pack": "$0.00",
+            "Best of British Pack": "$0.00",
+            "Black Edition Pack": "$0.00",
+            "Touring HD Textures": "$0.00",
+            "Endurance HD Textures": "$0.00",
+            "Open Wheel HD Textures": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790220081058,
           "price": 299,
           "formattedPrice": "$299.00",
@@ -210929,6 +210948,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793490606912,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792678231846,

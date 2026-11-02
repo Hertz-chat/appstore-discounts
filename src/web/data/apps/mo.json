@@ -543,7 +543,7 @@
   {
     "trackId": 325307477,
     "region": "mo",
-    "timestamp": 1793588409451,
+    "timestamp": 1793615910490,
     "discounts": [],
     "price": 19.99,
     "formattedPrice": "USD 19.99",
@@ -5689,10 +5689,10 @@
   {
     "trackId": 847381935,
     "region": "mo",
-    "timestamp": 1792827674174,
+    "timestamp": 1793615910490,
     "discounts": [],
-    "price": 8.99,
-    "formattedPrice": "USD 8.99",
+    "price": 14.99,
+    "formattedPrice": "USD 14.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id847381935",
     "trackName": "DRAGON QUEST IV",
@@ -7135,7 +7135,7 @@
   {
     "trackId": 983143183,
     "region": "mo",
-    "timestamp": 1793588409451,
+    "timestamp": 1793615910490,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -12098,7 +12098,7 @@
   {
     "trackId": 1441522083,
     "region": "mo",
-    "timestamp": 1745568184983,
+    "timestamp": 1793615910490,
     "discounts": [],
     "price": 0.29,
     "formattedPrice": "USD 0.29",
@@ -13666,10 +13666,10 @@
   {
     "trackId": 1492049794,
     "region": "mo",
-    "timestamp": 1792742526515,
+    "timestamp": 1793615910490,
     "discounts": [],
-    "price": 0.99,
-    "formattedPrice": "USD 0.99",
+    "price": 0,
+    "formattedPrice": "免費",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1492049794",
     "trackName": "宗師-武林群俠風雲傳",
@@ -23315,7 +23315,7 @@
   {
     "trackId": 6748852099,
     "region": "mo",
-    "timestamp": 1766040150772,
+    "timestamp": 1793615910490,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "USD 0.99",
@@ -25658,7 +25658,7 @@
     "formattedPrice": "USD 5.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6763518834",
-    "trackName": "NaviBeat",
+    "trackName": "NaviBeat: Navidrome Player",
     "firstRecordedAt": 1792308581189
   },
   {
@@ -26080,6 +26080,18 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id6780749343",
     "trackName": "Katil Kim? Dedektiflik Oyunu",
     "firstRecordedAt": 1793501604822
+  },
+  {
+    "trackId": 6781948334,
+    "region": "mo",
+    "timestamp": 1793615910490,
+    "discounts": [],
+    "price": 4.99,
+    "formattedPrice": "USD 4.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6781948334",
+    "trackName": "Perfect Viewer X",
+    "firstRecordedAt": 1793615910490
   },
   {
     "trackId": 6782209394,

@@ -69436,14 +69436,22 @@
     "trackName": "DRAGON QUEST IV",
     "region": "hk",
     "maxPriceInfo": {
-      "price": 68,
-      "formattedPrice": "HK$ 68.00"
+      "price": 118,
+      "formattedPrice": "HK$ 118.00"
     },
     "minPriceInfo": {
       "price": 68,
       "formattedPrice": "HK$ 68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615910490,
+          "price": 118,
+          "formattedPrice": "HK$ 118.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792827674174,
@@ -188791,6 +188799,25 @@
     "history": [
       [
         {
+          "timestamp": 1793615910490,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "3880元宝": "HK$ 488.00",
+            "月卡VIP": "HK$ 32.00",
+            "880元宝": "HK$ 98.00",
+            "250元宝": "HK$ 32.00",
+            "60元宝": "HK$ 8.00",
+            "2980元宝": "HK$ 288.00",
+            "1680元宝": "HK$ 188.00",
+            "终身卡VIP": "HK$ 488.00",
+            "终身VIP": "HK$ 488.00",
+            "年卡VIP": "HK$ 288.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792742526515,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -243532,6 +243559,23 @@
     "history": [
       [
         {
+          "timestamp": 1793615910490,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "自創武將": "HK$ 22.00",
+            "斜谷殘陽": "HK$ 48.00",
+            "月下追魂": "HK$ 48.00",
+            "戰國七雄": "HK$ 48.00",
+            "巾幗綻芳華": "HK$ 32.00",
+            "自創武將朝代特色兵種補丁": "HK$ 58.00",
+            "群雄爭霸": "HK$ 22.00",
+            "冠絕天下": "HK$ 48.00",
+            "楚漢爭霸": "HK$ 48.00",
+            "鎮海神威": "HK$ 22.00"
+          }
+        },
+        {
           "timestamp": 1793553601717,
           "price": 48,
           "formattedPrice": "HK$ 48.00",
@@ -268596,6 +268640,23 @@
     "history": [
       [
         {
+          "timestamp": 1793615910490,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 38.00",
+            "The Aircraft Bundle": "HK$ 188.00",
+            "Global scenery - 12 months": "HK$ 148.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Airbus A380": "HK$ 18.00",
+            "Boeing 747-400": "HK$ 18.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "Global scenery - 3 months": "HK$ 58.00",
+            "Boeing 737-800": "HK$ 22.00"
+          }
+        },
+        {
           "timestamp": 1793553601717,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -288346,9 +288407,9 @@
     "maxPriceInfo": {
       "price": 18,
       "formattedPrice": "HK$ 18.00",
-      "Büyük Altın Sandığı": "HK$ 18.00",
-      "Orta Altın Sandığı": "HK$ 8.00",
-      "Mega Altın Hazinesi": "HK$ 38.00",
+      "Büyük Altın Sandığı": "HK$ 38.00",
+      "Orta Altın Sandığı": "HK$ 22.00",
+      "Mega Altın Hazinesi": "HK$ 88.00",
       "Küçük Altın Çantası": "HK$ 8.00"
     },
     "minPriceInfo": {
@@ -288360,6 +288421,19 @@
       "Küçük Altın Çantası": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615910490,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Büyük Altın Sandığı": "HK$ 38.00",
+            "Orta Altın Sandığı": "HK$ 22.00",
+            "Mega Altın Hazinesi": "HK$ 88.00",
+            "Küçük Altın Çantası": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1766040150772,
@@ -300843,6 +300917,23 @@
     "history": [
       [
         {
+          "timestamp": 1793615910490,
+          "price": 28,
+          "formattedPrice": "HK$ 28.00",
+          "inAppPurchases": {
+            "RED-WHITE RYUKIN": "HK$ 18.00",
+            "ORANGE/WHITE": "HK$ 18.00",
+            "RED RYUKIN": "HK$ 18.00",
+            "PANDA TELESCOPE": "HK$ 18.00",
+            "CALICO RED/WHITE/BLACK": "HK$ 18.00",
+            "ROBO FISH 02": "HK$ 18.00",
+            "HOLOGRAPHIC GHOST": "HK$ 18.00",
+            "WIREFRAME RAINBOW": "HK$ 8.00",
+            "WIREFRAME RED": "HK$ 8.00",
+            "WIREFRAME BLACK": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1793588409451,
           "price": 28,
           "formattedPrice": "HK$ 28.00",
@@ -311684,6 +311775,23 @@
     "history": [
       [
         {
+          "timestamp": 1793615910490,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "全法術禮包": "HK$ 98.00",
+            "全英雄禮包": "HK$ 188.00",
+            "英雄 德拉坎": "HK$ 58.00",
+            "全塔禮包": "HK$ 148.00",
+            "英雄 阿什彼特": "HK$ 58.00",
+            "塔 鍊金術師小屋": "HK$ 22.00",
+            "全塔禮包_B": "HK$ 118.00",
+            "法術 艾洛拉": "HK$ 22.00",
+            "塔 野貓女獵手": "HK$ 38.00",
+            "法術 索羅化身": "HK$ 38.00"
+          }
+        },
+        {
           "timestamp": 1793553601717,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -313688,7 +313796,7 @@
   },
   "6763518834": {
     "trackId": 6763518834,
-    "trackName": "NaviBeat",
+    "trackName": "NaviBeat: Navidrome Player",
     "region": "hk",
     "maxPriceInfo": {
       "price": 48,
@@ -314636,6 +314744,29 @@
           "timestamp": 1793588409451,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6781948334": {
+    "trackId": 6781948334,
+    "trackName": "Perfect Viewer X",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793615910490,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
           "inAppPurchases": {}
         }
       ]

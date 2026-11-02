@@ -5689,10 +5689,10 @@
   {
     "trackId": 847381935,
     "region": "hk",
-    "timestamp": 1792827674174,
+    "timestamp": 1793615910490,
     "discounts": [],
-    "price": 68,
-    "formattedPrice": "HK$ 68.00",
+    "price": 118,
+    "formattedPrice": "HK$ 118.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id847381935",
     "trackName": "DRAGON QUEST IV",
@@ -13666,10 +13666,10 @@
   {
     "trackId": 1492049794,
     "region": "hk",
-    "timestamp": 1792742526515,
+    "timestamp": 1793615910490,
     "discounts": [],
-    "price": 8,
-    "formattedPrice": "HK$ 8.00",
+    "price": 0,
+    "formattedPrice": "免費",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id1492049794",
     "trackName": "宗師-武林群俠風雲傳",
@@ -19660,7 +19660,7 @@
   {
     "trackId": 6471839445,
     "region": "hk",
-    "timestamp": 1793588409451,
+    "timestamp": 1793615910490,
     "discounts": [],
     "price": 28,
     "formattedPrice": "HK$ 28.00",
@@ -19756,7 +19756,7 @@
   {
     "trackId": 6473001577,
     "region": "hk",
-    "timestamp": 1793553601717,
+    "timestamp": 1793615910490,
     "discounts": [],
     "price": 32,
     "formattedPrice": "HK$ 32.00",
@@ -22330,7 +22330,7 @@
   {
     "trackId": 6743459503,
     "region": "hk",
-    "timestamp": 1793553601717,
+    "timestamp": 1793615910490,
     "discounts": [],
     "price": 48,
     "formattedPrice": "HK$ 48.00",
@@ -23395,7 +23395,7 @@
   {
     "trackId": 6748852099,
     "region": "hk",
-    "timestamp": 1766040150772,
+    "timestamp": 1793615910490,
     "discounts": [],
     "price": 8,
     "formattedPrice": "HK$ 8.00",
@@ -25119,7 +25119,7 @@
   {
     "trackId": 6759664029,
     "region": "hk",
-    "timestamp": 1793553601717,
+    "timestamp": 1793615910490,
     "discounts": [],
     "price": 58,
     "formattedPrice": "HK$ 58.00",
@@ -25761,7 +25761,7 @@
     "formattedPrice": "HK$ 48.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id6763518834",
-    "trackName": "NaviBeat",
+    "trackName": "NaviBeat: Navidrome Player",
     "firstRecordedAt": 1792308581189
   },
   {
@@ -26183,6 +26183,18 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id6780749343",
     "trackName": "Katil Kim? Dedektiflik Oyunu",
     "firstRecordedAt": 1793501604822
+  },
+  {
+    "trackId": 6781948334,
+    "region": "hk",
+    "timestamp": 1793615910490,
+    "discounts": [],
+    "price": 38,
+    "formattedPrice": "HK$ 38.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6781948334",
+    "trackName": "Perfect Viewer X",
+    "firstRecordedAt": 1793615910490
   },
   {
     "trackId": 6782209394,

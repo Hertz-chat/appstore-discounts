@@ -5264,10 +5264,10 @@
   {
     "trackId": 847381935,
     "region": "pt",
-    "timestamp": 1792827674174,
+    "timestamp": 1793615910490,
     "discounts": [],
-    "price": 9.99,
-    "formattedPrice": "9,99 €",
+    "price": 17.99,
+    "formattedPrice": "17,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id847381935",
     "trackName": "DRAGON QUEST IV",
@@ -11223,10 +11223,10 @@
   {
     "trackId": 1441522083,
     "region": "pt",
-    "timestamp": 1761797674362,
+    "timestamp": 1793615910490,
     "discounts": [],
-    "price": 0.29,
-    "formattedPrice": "0,29 €",
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1441522083",
     "trackName": "Morphing LED Banner",
@@ -12653,10 +12653,10 @@
   {
     "trackId": 1492049794,
     "region": "pt",
-    "timestamp": 1792721789601,
+    "timestamp": 1793615910490,
     "discounts": [],
-    "price": 0.99,
-    "formattedPrice": "0,99 €",
+    "price": 0,
+    "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1492049794",
     "trackName": "宗师-武林风云传",
@@ -18266,7 +18266,7 @@
   {
     "trackId": 6473001577,
     "region": "pt",
-    "timestamp": 1793501604822,
+    "timestamp": 1793615910490,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "3,99 €",
@@ -21523,7 +21523,7 @@
   {
     "trackId": 6748852099,
     "region": "pt",
-    "timestamp": 1766040150772,
+    "timestamp": 1793615910490,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "0,99 €",
@@ -23738,7 +23738,7 @@
     "formattedPrice": "6,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6763518834",
-    "trackName": "NaviBeat",
+    "trackName": "NaviBeat: Navidrome Player",
     "firstRecordedAt": 1792308581189
   },
   {
@@ -24148,6 +24148,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id6780967766",
     "trackName": "Comprato",
     "firstRecordedAt": 1791397748865
+  },
+  {
+    "trackId": 6781948334,
+    "region": "pt",
+    "timestamp": 1793615910490,
+    "discounts": [],
+    "price": 5.99,
+    "formattedPrice": "5,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6781948334",
+    "trackName": "Perfect Viewer X",
+    "firstRecordedAt": 1793615910490
   },
   {
     "trackId": 6782209394,
@@ -25030,10 +25042,10 @@
   {
     "trackId": 6821872148,
     "region": "pt",
-    "timestamp": 1793113178688,
+    "timestamp": 1793615910490,
     "discounts": [],
-    "price": 2.99,
-    "formattedPrice": "2,99 €",
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6821872148",
     "trackName": "Duopaper: Fundos HD para ecrãs",

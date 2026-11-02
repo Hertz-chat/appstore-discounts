@@ -66521,6 +66521,25 @@
     "history": [
       [
         {
+          "timestamp": 1793615910490,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2016 Enhanced Diagnostics": "$14.99",
+            "Toyota 2017 Enhanced Diagnostics": "$14.99",
+            "Toyota 2015 Enhanced Diagnostics": "$14.99",
+            "Toyota 2005 Enhanced Diagnostics": "$14.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793588409451,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -79714,14 +79733,22 @@
     "trackName": "DRAGON QUEST IV",
     "region": "us",
     "maxPriceInfo": {
-      "price": 8.99,
-      "formattedPrice": "$8.99"
+      "price": 14.99,
+      "formattedPrice": "$14.99"
     },
     "minPriceInfo": {
       "price": 8.99,
       "formattedPrice": "$8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615910490,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792827674174,
@@ -79886,6 +79913,25 @@
       "$50 Credit": "$49.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615910490,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "1 Mo. Global Texting": "$3.99",
+            "1 Mo. CAN Texting": "$2.79",
+            "$5 Credit": "$5.49",
+            "3 Mo. CAN Texting": "$5.49",
+            "3 Mo. Global Texting": "$8.49",
+            "6 Mo. CAN Texting": "$9.99",
+            "1 Mo. Fongo Plus": "$9.99",
+            "6 Mo. Global Texting": "$14.99",
+            "$20 Credit": "$19.99",
+            "$10 Credit": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793415517315,
@@ -86221,6 +86267,25 @@
       "第05課教學影片": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615910490,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "第12課教學影片": "$0.99",
+            "第11課教學影片": "$0.99",
+            "第10課教學影片": "$0.99",
+            "第09課教學影片": "$0.99",
+            "第08課教學影片": "$0.99",
+            "第07課教學影片": "$0.99",
+            "第06課教學影片": "$0.99",
+            "第05課教學影片": "$0.99",
+            "第04課教學影片": "$0.99",
+            "第03課教學影片": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791687637772,
@@ -94437,6 +94502,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615910490,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792958987542,
@@ -139825,6 +139898,25 @@
     "history": [
       [
         {
+          "timestamp": 1793615910490,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "江湖名士": "$3.99",
+            "秦王的宝藏": "$24.99",
+            "鳌拜的私房钱": "$8.99",
+            "一盒元宝": "$2.99",
+            "一袋元宝": "$0.99",
+            "30元礼包": "$3.99",
+            "60元礼包": "$8.99",
+            "168元礼包": "$24.99",
+            "6元礼包": "$0.99",
+            "30元礼包四": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793588409451,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -174354,14 +174446,26 @@
     "trackName": "Morphing LED Banner",
     "region": "us",
     "maxPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "$0.29"
+      "price": 3.99,
+      "formattedPrice": "$3.99",
+      "Pro Lifetime": "$3.99"
     },
     "minPriceInfo": {
       "price": 0.29,
-      "formattedPrice": "$0.29"
+      "formattedPrice": "$0.29",
+      "Pro Lifetime": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615910490,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Pro Lifetime": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745568184983,
@@ -205772,6 +205876,25 @@
       "年卡VIP": "$34.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615910490,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "3880元宝": "$59.99",
+            "月卡VIP": "$3.99",
+            "880元宝": "$12.99",
+            "终身卡VIP": "$59.99",
+            "1680元宝": "$24.99",
+            "2980元宝": "$39.99",
+            "250元宝": "$3.99",
+            "60元宝": "$0.99",
+            "年卡VIP": "$34.99",
+            "终身VIP": "$59.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792742526515,
@@ -250857,10 +250980,18 @@
       "formattedPrice": "$9.99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "$9.99"
+      "price": 6.99,
+      "formattedPrice": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615910490,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788250806888,
@@ -277971,6 +278102,16 @@
     "history": [
       [
         {
+          "timestamp": 1793615910490,
+          "price": 59.99,
+          "formattedPrice": "$59.99",
+          "inAppPurchases": {
+            "Lies of P: Overture": "$29.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792635061631,
           "price": 29.99,
           "formattedPrice": "$29.99",
@@ -278064,6 +278205,14 @@
       "formattedPrice": "$17.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615910490,
+          "price": 39.99,
+          "formattedPrice": "$39.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792635061631,
@@ -285406,6 +285555,25 @@
       "Night Chill": "$1.79"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615910490,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "2025春さくらスキン": "$0.49",
+            "Halloween Party": "$1.79",
+            "2025春いちごスキン": "$0.49",
+            "ネオンシティ": "$1.79",
+            "Waterside": "$1.79",
+            "Sunset beach": "$1.19",
+            "Fireworks display": "$1.79",
+            "2025春ネモフィラスキン": "$0.49",
+            "Christmas night": "$1.79",
+            "Moonlight and Lanterns": "$1.19"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792914758864,
@@ -331788,6 +331956,14 @@
     "history": [
       [
         {
+          "timestamp": 1793615910490,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793295722489,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -333944,6 +334120,25 @@
       "Yucky Buddy Outfit": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615910490,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$9.99",
+            "Sun and Spice Bundle": "$7.99",
+            "Mystic Mayhem Pack": "$5.99",
+            "Santa Claws Pack": "$4.99",
+            "Beach Day Pack": "$5.99",
+            "Mystic Mayhem Card Back": "$0.99",
+            "Kitchen Chaos Pack": "$5.99",
+            "MysticMayhem Cauldron Creature": "$1.99",
+            "Beach Day Card back": "$0.99",
+            "All Wrapped Up outfit": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793526670644,
@@ -340247,9 +340442,9 @@
     "maxPriceInfo": {
       "price": 1.99,
       "formattedPrice": "$1.99",
-      "Büyük Altın Sandığı": "$1.99",
-      "Orta Altın Sandığı": "$0.99",
-      "Mega Altın Hazinesi": "$4.99",
+      "Büyük Altın Sandığı": "$4.99",
+      "Orta Altın Sandığı": "$2.99",
+      "Mega Altın Hazinesi": "$9.99",
       "Küçük Altın Çantası": "$0.99"
     },
     "minPriceInfo": {
@@ -340261,6 +340456,19 @@
       "Küçük Altın Çantası": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615910490,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Büyük Altın Sandığı": "$4.99",
+            "Orta Altın Sandığı": "$2.99",
+            "Mega Altın Hazinesi": "$9.99",
+            "Küçük Altın Çantası": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1766040150772,
@@ -356335,6 +356543,16 @@
     "history": [
       [
         {
+          "timestamp": 1793615910490,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "All Classes Unlocked": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792721789601,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -356484,6 +356702,14 @@
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615910490,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792635061631,
@@ -359301,6 +359527,25 @@
       "Clone Sensi – 3 Clonagens": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615910490,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Pro Mensal": "$1.99",
+            "SENSI iPhone 15 a 17 Pro Max": "$1.99",
+            "Elite Annual": "$7.99",
+            "1 Token Coach IA": "$0.99",
+            "Clone de Sensi": "$0.99",
+            "SENSI RANKED iPhone 15 a 17 Pro Max": "$1.99",
+            "SENSI iPhone 13 a 14 Pro Max": "$1.99",
+            "Clone Sensi – 3 Clonagens": "$1.99",
+            "3 Tokens Coach IA": "$1.99",
+            "SENSI iPhone X a 12 Pro Max": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793438080874,
@@ -364237,6 +364482,14 @@
     "history": [
       [
         {
+          "timestamp": 1793615910490,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793002369190,
           "price": 7.99,
           "formattedPrice": "$7.99",
@@ -367588,7 +367841,7 @@
   },
   "6763518834": {
     "trackId": 6763518834,
-    "trackName": "NaviBeat",
+    "trackName": "NaviBeat: Navidrome Player",
     "region": "us",
     "maxPriceInfo": {
       "price": 5.99,
@@ -368269,10 +368522,18 @@
       "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793615910490,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793113178688,
@@ -368517,6 +368778,29 @@
           "timestamp": 1793501604822,
           "price": 0.99,
           "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6781948334": {
+    "trackId": 6781948334,
+    "trackName": "Perfect Viewer X",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793615910490,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
           "inAppPurchases": {}
         }
       ]

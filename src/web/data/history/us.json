@@ -66483,7 +66483,8 @@
       "Mitsubishi 2023": "$14.99",
       "FCA 2025": "$14.99",
       "Ford 2024 Enhanced": "$14.99",
-      "Mazda 2024 Enhanced": "$14.99"
+      "Mazda 2024 Enhanced": "$14.99",
+      "Ford 2015 Enhanced Diagnostics": "$14.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -66514,9 +66515,29 @@
       "Mitsubishi 2023": "$14.99",
       "FCA 2025": "$14.99",
       "Ford 2024 Enhanced": "$14.99",
-      "Mazda 2024 Enhanced": "$14.99"
+      "Mazda 2024 Enhanced": "$14.99",
+      "Ford 2015 Enhanced Diagnostics": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793588409451,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2017 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2015 Enhanced Diagnostics": "$14.99",
+            "Toyota 2016 Enhanced Diagnostics": "$14.99",
+            "Ford 2015 Enhanced Diagnostics": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793380885407,
@@ -122426,6 +122447,23 @@
     "history": [
       [
         {
+          "timestamp": 1793588409451,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Pile O Monkey Money Sale": "$2.99",
+            "Monkey Money": "$1.99",
+            "Full Tower Unlock": "$4.99",
+            "Pile O Monkey Money": "$4.99",
+            "(5,000) Monkey XP": "$0.99",
+            "Vault O Monkey Money Sale": "$11.99",
+            "Paragon Unlock": "$4.99",
+            "10 Knowledge Points": "$7.99",
+            "Knowledge Point": "$0.99",
+            "Vault O Monkey Money": "$19.99"
+          }
+        },
+        {
           "timestamp": 1793568365537,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -139785,6 +139823,25 @@
       "648元礼包三": "$99.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793588409451,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "648元礼包四": "$99.99",
+            "328元礼包四": "$49.99",
+            "168元礼包四": "$24.99",
+            "30元礼包四": "$3.99",
+            "60元礼包四": "$8.99",
+            "18元礼包四": "$2.99",
+            "6元礼包四": "$0.99",
+            "328元礼包三": "$49.99",
+            "168元礼包三": "$24.99",
+            "648元礼包三": "$99.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792968791930,
@@ -366698,6 +366755,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793588409451,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793568365537,
           "price": 3.99,

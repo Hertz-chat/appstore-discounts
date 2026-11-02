@@ -543,7 +543,7 @@
   {
     "trackId": 325307477,
     "region": "mo",
-    "timestamp": 1791687637772,
+    "timestamp": 1793588409451,
     "discounts": [],
     "price": 19.99,
     "formattedPrice": "USD 19.99",
@@ -7135,7 +7135,7 @@
   {
     "trackId": 983143183,
     "region": "mo",
-    "timestamp": 1793415517315,
+    "timestamp": 1793588409451,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -26407,6 +26407,18 @@
     "firstRecordedAt": 1784360917216
   },
   {
+    "trackId": 6792072690,
+    "region": "mo",
+    "timestamp": 1793588409451,
+    "discounts": [],
+    "price": 6.99,
+    "formattedPrice": "USD 6.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6792072690",
+    "trackName": "班主任工作台",
+    "firstRecordedAt": 1793588409451
+  },
+  {
     "trackId": 6792675339,
     "region": "mo",
     "timestamp": 1785516330891,
@@ -26614,10 +26626,10 @@
   {
     "trackId": 6801866888,
     "region": "mo",
-    "timestamp": 1793568365537,
+    "timestamp": 1793588409451,
     "discounts": [],
-    "price": 3.99,
-    "formattedPrice": "USD 3.99",
+    "price": 2.99,
+    "formattedPrice": "USD 2.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6801866888",
     "trackName": "上次是什麼時候 - 家事·保養紀錄",

@@ -85922,6 +85922,14 @@
     "history": [
       [
         {
+          "timestamp": 1793588409451,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792950991459,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -219559,10 +219567,18 @@
       "formattedPrice": "₺499,99"
     },
     "minPriceInfo": {
-      "price": 499.99,
-      "formattedPrice": "₺499,99"
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793588409451,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788250806888,
@@ -234104,6 +234120,16 @@
     "history": [
       [
         {
+          "timestamp": 1793588409451,
+          "price": 999.99,
+          "formattedPrice": "₺999,99",
+          "inAppPurchases": {
+            "Lies of P: Overture": "₺500,00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792626402303,
           "price": 1499.99,
           "formattedPrice": "₺1.499,99",
@@ -234183,6 +234209,14 @@
       "formattedPrice": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793588409451,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792626402303,
@@ -274931,6 +274965,14 @@
     "history": [
       [
         {
+          "timestamp": 1793588409451,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793295722489,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -294292,6 +294334,16 @@
     "history": [
       [
         {
+          "timestamp": 1793588409451,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "All Classes Unlocked": "₺499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792712656381,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -294449,6 +294501,14 @@
       "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793588409451,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792626402303,
@@ -300399,6 +300459,14 @@
     "history": [
       [
         {
+          "timestamp": 1793588409451,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792968791930,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -303619,6 +303687,12 @@
     "history": [
       [
         {
+          "timestamp": 1793588409451,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1793568365537,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -305426,6 +305500,29 @@
           "timestamp": 1793501604822,
           "price": 9.99,
           "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6792072690": {
+    "trackId": 6792072690,
+    "trackName": "班主任工作台",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
+    },
+    "minPriceInfo": {
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793588409451,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
           "inAppPurchases": {}
         }
       ]

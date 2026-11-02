@@ -42703,6 +42703,14 @@
     "history": [
       [
         {
+          "timestamp": 1793588409451,
+          "price": 14.99,
+          "formattedPrice": "14,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792950991459,
           "price": 8.99,
           "formattedPrice": "8,99 €",
@@ -102990,10 +102998,18 @@
       "formattedPrice": "9,99 €"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "9,99 €"
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793588409451,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788250806888,
@@ -116224,6 +116240,14 @@
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793588409451,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793274810835,
@@ -132778,6 +132802,16 @@
     "history": [
       [
         {
+          "timestamp": 1793588409451,
+          "price": 59.99,
+          "formattedPrice": "59,99 €",
+          "inAppPurchases": {
+            "Lies of P: Overture": "29,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792626402303,
           "price": 34.99,
           "formattedPrice": "34,99 €",
@@ -132829,6 +132863,14 @@
       "formattedPrice": "19,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793588409451,
+          "price": 39.99,
+          "formattedPrice": "39,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792626402303,
@@ -142986,6 +143028,16 @@
     "history": [
       [
         {
+          "timestamp": 1793588409451,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Todas as classes": "9,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792712656381,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -143129,6 +143181,14 @@
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793588409451,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792626402303,
@@ -149028,6 +149088,14 @@
     "history": [
       [
         {
+          "timestamp": 1793588409451,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792968791930,
           "price": 8.99,
           "formattedPrice": "8,99 €",
@@ -151077,6 +151145,14 @@
     "history": [
       [
         {
+          "timestamp": 1793588409451,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793553601717,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -152608,6 +152684,27 @@
           "timestamp": 1793501604822,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6792072690": {
+    "name": "班主任工作台",
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793588409451,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
           "inAppPurchases": {}
         }
       ]

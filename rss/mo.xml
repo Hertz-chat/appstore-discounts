@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2026-11-01T22:53:13.448Z</updated>
+    <updated>2026-11-02T04:33:13.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008389768002560+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomemo</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-01T22:53:13.448Z</updated>
+        <updated>2026-11-02T04:33:13.367Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008389768002560+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingmoSun, 01 Nov 2026 22:53:13 GMT</id>
+        <id>rankingmoMon, 02 Nov 2026 04:33:13 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-01T22:53:13.448Z</updated>
+        <updated>2026-11-02T04:33:13.367Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>
@@ -68,13 +68,13 @@ feedId:157008389768002560+userId:73658201673997312
         <b>MO</b>
       </td>
       <td>
-        <b>2245</b>
+        <b>2246</b>
       </td>
       <td>
         <b>181</b>
       </td>
       <td>
-        <b>2064</b>
+        <b>2065</b>
       </td>
       <td>
         <b>94</b>
@@ -132,6 +132,23 @@ feedId:157008389768002560+userId:73658201673997312
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6824686276?lang=zh-CN">Wider - Fullscreen Browsing</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>4</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/mo/6801866888?lang=zh-CN">上次是什麼時候 - 家事·保養紀錄</a>
       </td>
       <td>
         <ul>
@@ -1001,6 +1018,58 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上次是什麼時候 - 家事·保養紀錄]]></title>
+        <id>上次是什麼時候 - 家事·保養紀錄-mo-1793588409451</id>
+        <link href="https://appstore-discounts.eyelly.me/mo/6801866888?lang=zh-CN"/>
+        <updated>2026-11-02T03:00:09.451Z</updated>
+        <summary type="html"><![CDATA[价格: USD 3.99 → USD 2.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/mo/6801866888?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/1e/3b/251e3b5e-2f3a-59ff-feff-b0e0805b227b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>USD 3.99</span> → <b>
+  <strong>USD 2.99</strong>
+</b><span>[USD 2.99 ~ USD 3.99]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>USD 2.99</b>
+</p><h2>应用描述</h2><p>
+  別再管理待辦事項了，只要記住上次做的日期就夠了。
+
+「床單上次是什麼時候洗的？」
+「淨水器濾心什麼時候換的？」
+「上次打電話給爸媽是哪一天？」
+
+總有一些事，怎麼也想不起來。「上次是什麼時候」只記錄你做這件事的日期。
+沒有目標，沒有轟炸式提醒，沒有清單。點一下記為今天，就完成了。
+
+■ 過了多久，一眼看清
+每一項都會顯示距離上次做過已經過了幾天。
+拖得越久，越顯眼。
+
+■ 間隔直接看得見的紀錄
+點與點之間的距離，就是真實的日期間隔。
+常做的時期看起來很密集，很久沒做的那段會空出一大片。
+
+■ 照片與備註
+每筆紀錄都能附上一張照片和一句備註。
+「那時候是什麼樣子」也一併留下。
+
+■ 小工具與鎖定畫面
+在主畫面小工具上查看逾期的事項，不用開啟 App 也能記錄。
+也可以直接在鎖定畫面上記錄。（iOS 16.4 及以上）
+
+■ 每日收尾提醒
+如果需要，晚上會問一次：「今天做了什麼？」預設關閉。
+
+■ 完全在你的裝置上
+沒有帳號、沒有伺服器、沒有廣告。紀錄只儲存在你的裝置上。
+可以自行匯出、匯入備份檔案，同時會在 iCloud 自動保留一份副本，
+換手機或重新安裝 App 後也能還原。
+
+■ 一次購買
+買一次即可使用全部功能。沒有內購、沒有訂閱、沒有廣告。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/e5/4f/5de54fb0-4e69-2bf3-cf7a-a43fc9fff13f/01.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/f2/20/19f22045-5e59-302b-2fb1-cbc968b68e7f/02.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/da/3f/feda3fca-3c78-c7a9-3f7f-860a0096bb63/03.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/99/9b/2d999b5c-0348-8b91-2f80-b278a227c21b/04.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/48/e1/e248e134-e7ee-0c05-5cca-91b8315150e6/05.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/3c/cd/aa3ccd0c-d3d6-3b6d-7edd-3d756495d7b5/06.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/8b/1f/3c8b1fca-440c-b92a-d09d-c9eb9db4187e/07.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/6d/16/b36d169f-4812-63ba-a834-7dc43f2b140e/01-home.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/83/25/698325e5-2b69-7c16-ca9f-0ef0f4b253a7/02-detail.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/53/f3/3953f3ce-285b-4753-0705-06f9d286c758/03-catalog.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/8e/db/0c8edbc1-0dd0-643c-f40f-d9d609c2db13/04-report.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/17/49/d417496d-c958-6eed-9818-0a7ddf13d05f/05-settings.png/360x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Siralim Ultimate]]></title>

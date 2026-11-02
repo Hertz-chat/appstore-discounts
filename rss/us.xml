@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2026-11-01T22:53:13.474Z</updated>
+    <updated>2026-11-02T04:33:13.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-01T22:53:13.475Z</updated>
+        <updated>2026-11-02T04:33:13.401Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusSun, 01 Nov 2026 22:53:13 GMT</id>
+        <id>rankingusMon, 02 Nov 2026 04:33:13 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-01T22:53:13.475Z</updated>
+        <updated>2026-11-02T04:33:13.401Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -189,6 +189,23 @@ feedId:157008699750812672+userId:73658201673997312
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6824686276?lang=en">Wider - Fullscreen Browsing</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/6801866888?lang=en">When'd I</a>
       </td>
       <td>
         <ul>
@@ -1024,6 +1041,57 @@ feedId:157008699750812672+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[When'd I]]></title>
+        <id>When'd I-us-1793588409451</id>
+        <link href="https://appstore-discounts.eyelly.me/us/6801866888?lang=en"/>
+        <updated>2026-11-02T03:00:09.451Z</updated>
+        <summary type="html"><![CDATA[Price: $3.99 → $2.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/6801866888?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/1e/3b/251e3b5e-2f3a-59ff-feff-b0e0805b227b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$3.99</span> → <b>
+  <strong>$2.99</strong>
+</b><span>[$2.99 ~ $3.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$2.99</b>
+</p><h2>Application Description</h2><p>
+  Stop managing to-dos. Just remember when you last did it.
+
+"When did I last wash the sheets?"
+"When did I change the water filter?"
+"When did I last call my parents?"
+
+Some things you can never remember. When'd I records just the date you did them.
+No goals, no nagging notifications, no checklists. Tap once and it's logged as today.
+
+■ See how long it's been
+Every item shows the days since you last did it.
+The longer it's been, the more it stands out.
+
+■ A timeline where distance means time
+The space between dots is the actual gap between dates.
+Busy stretches look dense. The months you skipped show up as empty space.
+
+■ Photos and notes
+Attach one photo and a short note to any record.
+
+■ Widgets and Lock Screen
+Check what's overdue from your Home Screen, and log without opening the app.
+You can even record straight from the Lock Screen. (iOS 16.4+)
+
+■ An optional evening nudge
+Once a day, if you want it. Off by default.
+
+■ Entirely on your device
+No account, no server, no ads. Your records stay on your phone.
+Export and import backup files yourself, and an automatic iCloud copy
+brings everything back if you switch phones or reinstall.
+
+■ Buy once
+One purchase unlocks everything. No in-app purchases, no subscriptions, no ads.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/e5/46/ace546a3-dafc-187a-51ec-e068db022d16/01.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/e5/58/0be5585f-ed0b-90a3-c9a2-4c5815efd457/02.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/ea/4a/82ea4a36-3609-0e85-c93e-8476c3c434c2/03.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/a6/ed/97a6eda2-a136-3137-cf43-cb7100cc481a/04.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/ea/53/d6ea538b-43ea-05ad-46aa-4d869a524a48/05.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/20/d1/0920d100-a37e-072b-39d1-fce535ca8cf3/06.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/e7/9f/a4e79fd6-382e-5576-38c6-7556dabb6b2b/07.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/59/c3/2059c3a4-d878-07b1-9420-35edd2b6b833/01-home.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/3b/a0/543ba051-64f9-8048-5560-1afbd8e8eb57/02-detail.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/be/30/62be30ef-fe8f-0f19-58c4-f41366b916de/03-catalog.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/56/68/f756689c-8fff-33e8-7140-4583d3411850/04-report.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/cb/af/f6cbaf2e-7f4e-0ed1-351e-1c29259b47a3/05-settings.png/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[生辰 — 桌面时间小组件]]></title>
         <id>生辰 — 桌面时间小组件-us-1793568365537</id>
         <link href="https://appstore-discounts.eyelly.me/us/966489322?lang=en"/>
@@ -1696,156 +1764,5 @@ Play rts games offline: Enjoy the awesome real-time strategy experience anywhere
 
 Iron Marines Invasion will give you hours of colorful, fun gameplay in this epic real-time strategy space odyssey, available to play RTS offline game.
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/84/69/72/846972af-5364-eb56-3d83-bbdc8143292a/dc5f8b76-ba45-46b3-879f-e597c87c4929_EN_Screenshot01_2208x1242_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/84/74/23/8474233a-68f3-2133-dcbc-39acc100b1ff/5da8d141-5507-4685-af99-e6b36abb348b_EN_Screenshot01_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ed/2c/ab/ed2cab17-3a30-e8b0-6871-e8a30f078b1f/b3a0d06f-c2f3-45a0-908b-5c63cd3e6ebf_EN_Screenshot02_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/26/29/a2/2629a21e-ab33-1c0f-9417-89279befc012/fa3340e3-be3e-4dca-b8a3-6e609b93ec7b_EN_Screenshot03_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b1/08/69/b1086984-79dc-6c67-0d55-70385e780367/1b1d1139-6c74-48a5-a453-b942dbea1d91_EN_Screenshot04_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/77/5c/04/775c04b8-b754-674b-1f9a-c288f5a40fc5/903d2321-9181-4f99-b18b-6d3f95ced40a_EN_Screenshot05_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ef/31/05/ef3105d4-c449-f24d-7821-23c39378ad64/e11c6453-ec40-4fef-a2b7-2fc438c1e99a_EN_Screenshot06_2208x1242.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a5/a5/92/a5a59241-e609-1081-c90c-f438486d0462/40ec87ac-dc6d-4b9c-9d0e-b028fb0c035d_EN_Screenshot01_2732x2048_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/06/71/6f/06716f4e-d840-84c2-9f69-46584fa9b9fc/4cdb7b4b-7755-4d61-ab23-3807c055cab8_EN_Screenshot01_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f7/37/92/f737921b-e472-bd54-ee0b-4bd34a4d0884/a9e00fb2-fd10-4ef6-9b46-e3cc6d30b820_EN_Screenshot02_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0a/d3/c2/0ad3c275-160d-e65a-6c0c-3d0f1cacafdc/5539b15b-2983-4244-b229-28572946882a_EN_Screenshot03_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/62/eb/52/62eb5253-0154-e9d5-d02d-28a54877bcea/283b7da8-8e20-4536-8f7c-6f66f86dbe92_EN_Screenshot04_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fe/54/a1/fe54a190-4e9e-f9cc-aff1-76760b3131dd/34220db6-ae27-4878-8c22-2c6dfd95ff3b_EN_Screenshot05_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d6/52/87/d652871f-cc61-4b04-67f6-b19d144bfbcd/6e900459-f96f-4ad9-805a-ce81d8bd7ac7_EN_Screenshot06_2732x2048.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Tiny Bang Story]]></title>
-        <id>The Tiny Bang Story-us-1793330060259</id>
-        <link href="https://appstore-discounts.eyelly.me/us/495937600?lang=en"/>
-        <updated>2026-10-30T03:14:20.259Z</updated>
-        <summary type="html"><![CDATA[Price: $4.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/495937600?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/04/eb/4204ebb8-bb99-daaa-a92b-5021c2a92478/AppIconIos-0-0-1x_U007emarketing-0-4-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$4.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $4.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$0.99</b>
-</p><h2>Application Description</h2><p>
-  Life on Tiny Planet was calm and carefree until a great disaster occurred - Tiny Planet was hit by a meteor! The world fell apart and now its future depends only on you! Use your imagination and creativity: in order to restore Tiny Planet and help its inhabitants you will have to fix a variety of machines and mechanisms as well as solve puzzles in each of the five chapters of this game. Navigation is simple and intuitive. It doesn't distract you from the witty brain teasers, and you will be able to fully immerse yourself in the unique atmosphere of the game.
-
-*There is no text in this game. It is fun for all ages and suitable for the whole family!
-*Five vastly different chapters and over 30 exciting brain teasers (minigames)
-*A bright, gorgeous world drawn entirely by hand
-*Absorbing game play and simple navigation
-*10 enchanting musical themes
-
-- #1 Top Paid Apps for iOS in UK, Japan, German, Russia
-- Top 10 Best Games and Top 5 Best Adventure Games of 2011 by Gamezebo
-- Best Games of 2011 by GameHouse
-- Top 100 Best Indie Games of 2011 by Indie DB. 
-- Top 10 on Mac App Store in more countries, TOP 1 - in Japan, Russia, Taiwan, China.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/1f/d4/44/1fd444d2-6f3c-d73e-965c-33ef68d3e206/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/2c/ba/dd/2cbadd8d-89c2-b8aa-1c13-95df839c56de/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/78/10/95/7810957c-343a-cf28-8735-3ba02619cae7/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/15/ad/92/15ad9214-216d-28cb-f6d1-588bc9f2fc19/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b0/85/b3/b085b3ae-8d3b-f8bf-5ebb-d934973b4b07/pr_source.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/78/e6/25/78e6257a-9bdb-ee4c-7170-9eaf5809fd21/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/2a/c2/85/2ac285f0-57c4-1798-19a7-967daee9f3e0/mzl.kagfidpc.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/89/89/94/89899470-4675-5087-7559-b15587806ec0/mzl.ksdzqzce.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/66/af/5466af2e-e3b2-f7f7-3d3f-89b1d549a18f/mzl.zbbylcoa.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0c/31/b8/0c31b8a8-9692-4498-d0db-4394fd9b0f1a/mzl.pyfaokhq.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/75/72/3f/75723f14-5974-8fbb-930d-b9eeb9dbc3a3/mzl.paqcinio.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dungeon Maker : Dark Lord]]></title>
-        <id>Dungeon Maker : Dark Lord-us-1793330060259</id>
-        <link href="https://appstore-discounts.eyelly.me/us/1359652100?lang=en"/>
-        <updated>2026-10-30T03:14:20.259Z</updated>
-        <summary type="html"><![CDATA[Price: $3.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/1359652100?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/85/40/b885403b-2d15-8354-8c7a-5fad26ff4017/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$3.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $3.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$1.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    DLC "The Card Game"：<b>$3.99</b>
-  </li><li>
-    Original Succession Package：<b>$17.99</b>
-  </li><li>
-    Dark Lord Awakening Complete：<b>$26.99</b>
-  </li><li>
-    Awakened Irea Package：<b>$4.99</b>
-  </li><li>
-    Monster Succession：<b>$4.99</b>
-  </li><li>
-    Awakening Viper Package：<b>$4.99</b>
-  </li><li>
-    Dark Lord Boost Package：<b>$8.99</b>
-  </li><li>
-    Original Lord Complete Package：<b>$26.99</b>
-  </li><li>
-    Torture Master Package：<b>$22.99</b>
-  </li><li>
-    Original Dungeon Package：<b>$17.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Prepare for battle - a mob of heroes is about to invade your territory!
-Build traps facilities in your dungeon, hire monsters, discover relics with mysterious power, and protect your dungeon from heroes that came to take you down.
-
-◆ CONTENTS
-- 9 Dark Lords with special skills!
-- 300+ monsters and heroes
-- 100+ traps and facilities for your dungeon
-- 200+ relics with mysterious power
-- Various EVENTS filled with surprises
-- Various elements that can be unlocked throughout gameplay
-- and more…!
-We are planning to add more Dark Lords, traps, monsters, and more game modes!
-
-◆ CREATE YOUR OWN DUNGEON
-Think carefully when placing traps, facilities, and monsters into your dungeon. Strong strategy will help you survive the swarm of heroes and allow you to unlock more elements for your dungeon. May your dungeon endure the bravest heroes there are!
-
-◆ EXPLORE YOUR FATE
-Choose your fate from a selection of fate cards every day. If you wish to battle, heroes will come, and if you wish for surprises, a special event will take place.
-Choose the fate you want as the master of your dungeon.
-
--SUPPORT-
-E-Mail : support@gamecoaster.com
-Tel :+82 10-4178-0283
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/26/3b/32/263b3234-1a05-2cf2-51d2-0f66a2db3bef/f6fc0a01-2e5d-45f4-a1f8-a413c5d5173c_1_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/1c/e6/06/1ce60605-a855-0faf-db5a-0af3280d6990/6936b2c4-41c1-44f6-9e3d-09d5a59e4f50_2_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/e6/37/d5/e637d5b7-6c45-21d7-1c13-057dc7dc7437/a50f22cf-2d98-4ed1-ac12-97a3f72bc169_3_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/87/01/5e/87015efa-4eb4-9b75-56fe-d28be543c8e0/be4e3b32-85fb-49a6-afe9-69058cafdbab_4_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/a3/58/0e/a3580e8a-4a0e-0db5-1711-26099806c564/ab204867-bf0c-4a94-8a59-3c49c000f2e0_5_eng.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/a2/11/9b/a2119bd2-901e-309a-c6df-375892757390/ed376d75-4548-4c1b-b785-1858c34abdd2_1_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/2d/52/b3/2d52b362-305d-0ac5-1a87-510e6a1e3aa4/5c6ba8a6-4032-4fc5-bb9e-f8cfe2612a79_2_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/59/72/d2/5972d228-3cbc-926f-edff-5b2beedaf4f7/eed6898b-c2fe-47fb-ad53-ff5417e2cfad_4_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/cd/ec/ae/cdecaeac-c102-5b51-a257-3d90f82ccbc8/b137d09f-55a1-493f-ab88-a53dd89eafbf_3_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/95/57/80/9557806e-01fe-01e9-af0f-c477735e2aa8/4fcb6d44-5c10-4254-a390-ec991aeb77f1_5_eng.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vintage Camera - Goodak]]></title>
-        <id>Vintage Camera - Goodak-us-1793330060259</id>
-        <link href="https://appstore-discounts.eyelly.me/us/1309638846?lang=en"/>
-        <updated>2026-10-30T03:14:20.259Z</updated>
-        <summary type="html"><![CDATA[Price: $2.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/1309638846?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6e/12/e2/6e12e20d-cbb9-c638-e2e0-9c298420bb4a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$2.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$0.99 ~ $2.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$1.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Upgrade Deluxe Edition：<b>$5.99</b>
-  </li><li>
-    Retro Frame Pack：<b>$0.99</b>
-  </li><li>
-    Color Frame Pack：<b>$0.99</b>
-  </li><li>
-    Blue Cam Film Pack：<b>$0.99</b>
-  </li><li>
-    Stroke Frame Pack：<b>$0.99</b>
-  </li><li>
-    Black Cam Film Pack：<b>$0.99</b>
-  </li><li>
-    Purple Cam Film Pack：<b>$0.99</b>
-  </li><li>
-    Green Cam Film Pack：<b>$0.99</b>
-  </li><li>
-    Stamp Frame Pack：<b>$0.99</b>
-  </li><li>
-    Red Cam Film Pack：<b>$0.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Some moments may have slipped away in our life, but will last forever in our memory, Now you can turn iPhone into a vintage disposable camera, so that you take each photo looks so unique, full of charm and moving, Goodak® lets you express even the most subtle mood on your photos. 
-
-+ CLASSIC DISPOSABLE CAMERA
-+ Enhance your images with random films.
-+ Photo album import feature.
-+ Dynamic photo albums selection.
-+ Other adjustable edit function.
-+ Automatically load date watermark.
-+ Random film photographic lens.
-+ Custom Date (Recall Past).
-+ Black & white and Lomo cameras.
-+ Viewfinder Switching Function.
-
-Goodak is provided as Goodak Studio® own product.
-Thanks for using! We're working on new features and constantly working to improve your experience!
-If you have any questions or feedback, please contact us:
-http://www.psdc.com.tw
-
-DISCLAIMER NOTICE
-Goodak is provided as Goodak Studio own product. this app is not the official app of Kodak and Fuji or any others. Goodak made every effort to ensure not to infringe other's copyrights or trademarks.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ab/a0/86/aba08624-6a06-39cf-a241-25f6d0e4f3ab/mzl.hmqjeztb.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/72/7d/e1727d7b-2dc6-1d43-51b9-28de209d15cd/mzl.uaudkfnw.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/da/0f/0c/da0f0cb6-9071-5e7c-1a1f-4ae42bdd1c11/mzl.tnvgrvvz.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/89/da/5c/89da5c30-8802-df12-d633-1837ba29813f/mzl.zflmcguf.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/af/77/c5/af77c577-7e9f-ee4f-74a1-f62d119a8f8b/mzl.wrrlcrce.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/22/1e/d4/221ed4bb-75f6-202c-cb8c-9dcdf0e1c2fc/mzl.grotjgtl.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/55/ce/f5/55cef5d2-3354-b366-f691-80c40df804d4/mzl.iwvgubsv.png/392x696bb.png" />]]></content>
     </entry>
 </feed>

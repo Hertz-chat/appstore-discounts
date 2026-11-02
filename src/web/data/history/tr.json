@@ -18440,6 +18440,25 @@
     "history": [
       [
         {
+          "timestamp": 1793653056000,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "₺199,99",
+            "Predictive Report - Full": "₺199,99",
+            "Gold Monthly": "₺349,99",
+            "Gold Level Free Trial": "₺0,00",
+            "Relationship Report": "₺199,99",
+            "Birthday Report": "₺199,99",
+            "7-day Trial Astrolocality": "₺0,00",
+            "Lunar Return Report": "₺199,99",
+            "Child Report - Full": "₺199,99",
+            "Astrolocality Maps": "₺1.299,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793330060259,
           "price": 0,
           "formattedPrice": "Free",
@@ -303760,6 +303779,12 @@
     "history": [
       [
         {
+          "timestamp": 1793653056000,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1793588409451,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -305628,6 +305653,42 @@
           "price": 249.99,
           "formattedPrice": "₺249,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6819103516": {
+    "trackId": 6819103516,
+    "trackName": "百死一生",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 299.99,
+      "formattedPrice": "₺299,99",
+      "出身包1・太平道之子": "₺99,99",
+      "天下統一版": "₺399,99",
+      "擴充包2・吳統一與真結局": "₺199,99",
+      "擴充包1・蜀統一": "₺199,99"
+    },
+    "minPriceInfo": {
+      "price": 299.99,
+      "formattedPrice": "₺299,99",
+      "出身包1・太平道之子": "₺99,99",
+      "天下統一版": "₺399,99",
+      "擴充包2・吳統一與真結局": "₺199,99",
+      "擴充包1・蜀統一": "₺199,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793653056000,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "出身包1・太平道之子": "₺99,99",
+            "天下統一版": "₺399,99",
+            "擴充包2・吳統一與真結局": "₺199,99",
+            "擴充包1・蜀統一": "₺199,99"
+          }
         }
       ]
     ]

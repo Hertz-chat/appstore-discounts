@@ -338,7 +338,7 @@
   {
     "trackId": 308296029,
     "region": "hk",
-    "timestamp": 1787606872010,
+    "timestamp": 1793653056000,
     "discounts": [],
     "price": 88,
     "formattedPrice": "HK$ 88.00",
@@ -11180,7 +11180,7 @@
   {
     "trackId": 1359652100,
     "region": "hk",
-    "timestamp": 1793295722489,
+    "timestamp": 1793653056000,
     "discounts": [],
     "price": 18,
     "formattedPrice": "HK$ 18.00",
@@ -12098,10 +12098,10 @@
   {
     "trackId": 1441522083,
     "region": "hk",
-    "timestamp": 1745568184983,
+    "timestamp": 1793653056000,
     "discounts": [],
-    "price": 2,
-    "formattedPrice": "HK$ 2.00",
+    "price": 0,
+    "formattedPrice": "免費",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id1441522083",
     "trackName": "Morphing LED Banner",
@@ -19311,7 +19311,7 @@
   {
     "trackId": 6462360082,
     "region": "hk",
-    "timestamp": 1793553601717,
+    "timestamp": 1793653056000,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -26753,10 +26753,10 @@
   {
     "trackId": 6801866888,
     "region": "hk",
-    "timestamp": 1793588409451,
+    "timestamp": 1793653056000,
     "discounts": [],
-    "price": 22,
-    "formattedPrice": "HK$ 22.00",
+    "price": 32,
+    "formattedPrice": "HK$ 32.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id6801866888",
     "trackName": "上次是什麼時候 - 家事·保養紀錄",
@@ -27099,6 +27099,18 @@
     "firstRecordedAt": 1792609257403
   },
   {
+    "trackId": 6819103516,
+    "region": "hk",
+    "timestamp": 1793653056000,
+    "discounts": [],
+    "price": 22,
+    "formattedPrice": "HK$ 22.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6819103516",
+    "trackName": "百死一生",
+    "firstRecordedAt": 1793653056000
+  },
+  {
     "trackId": 6819276809,
     "region": "hk",
     "timestamp": 1791568819448,
@@ -27137,10 +27149,10 @@
   {
     "trackId": 6821872148,
     "region": "hk",
-    "timestamp": 1793113178688,
+    "timestamp": 1793653056000,
     "discounts": [],
-    "price": 22,
-    "formattedPrice": "HK$ 22.00",
+    "price": 18,
+    "formattedPrice": "HK$ 18.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id6821872148",
     "trackName": "Duopaper: 摺疊螢幕全景桌布，展開發現畫裡隱藏的驚喜",

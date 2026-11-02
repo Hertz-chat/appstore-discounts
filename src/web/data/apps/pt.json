@@ -1925,7 +1925,7 @@
   {
     "trackId": 430270438,
     "region": "pt",
-    "timestamp": 1792934734921,
+    "timestamp": 1793653056000,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Gratuito",
@@ -3438,7 +3438,7 @@
   {
     "trackId": 563718995,
     "region": "pt",
-    "timestamp": 1793330060259,
+    "timestamp": 1793653056000,
     "discounts": [],
     "price": 3.49,
     "formattedPrice": "3,49 €",
@@ -12317,7 +12317,7 @@
   {
     "trackId": 1477966166,
     "region": "pt",
-    "timestamp": 1793501604822,
+    "timestamp": 1793653056000,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "4,99 €",
@@ -24694,10 +24694,10 @@
   {
     "trackId": 6801866888,
     "region": "pt",
-    "timestamp": 1793588409451,
+    "timestamp": 1793653056000,
     "discounts": [],
-    "price": 2.99,
-    "formattedPrice": "2,99 €",
+    "price": 6.99,
+    "formattedPrice": "6,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6801866888",
     "trackName": "Quando foi? - O último dia",
@@ -25014,6 +25014,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id6819090967",
     "trackName": "AWTRIX NG",
     "firstRecordedAt": 1792609257403
+  },
+  {
+    "trackId": 6819103516,
+    "region": "pt",
+    "timestamp": 1793653056000,
+    "discounts": [],
+    "price": 6.99,
+    "formattedPrice": "6,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6819103516",
+    "trackName": "百死一生",
+    "firstRecordedAt": 1793653056000
   },
   {
     "trackId": 6819276809,

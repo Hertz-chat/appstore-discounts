@@ -10587,6 +10587,25 @@
     "history": [
       [
         {
+          "timestamp": 1793653056000,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Gold Annual": "44,99 €",
+            "Gold Monthly": "8,99 €",
+            "Gold Level lifetime": "79,99 €",
+            "Gold Level Free Trial": "0,00 €",
+            "Lunar Return Report": "3,99 €",
+            "7-day Trial Astrolocality": "0,00 €",
+            "Astrolocality Maps": "29,99 €",
+            "The Big Three Report": "3,99 €",
+            "Relationship Report": "3,99 €",
+            "Predictive Report - Untimed": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792934734921,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -28836,6 +28855,25 @@
       "Medieval Dart Monkey Skin": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793653056000,
+          "price": 3.49,
+          "formattedPrice": "3,49 €",
+          "inAppPurchases": {
+            "Classic Tack Tower Skin Sale": "0,99 €",
+            "Classic Tack Tower Skin": "1,99 €",
+            "Classic Super Monkey Skin Sale": "0,99 €",
+            "Classic Super Monkey Skin": "1,99 €",
+            "Classic Ice Tower Skin Sale": "0,99 €",
+            "Classic Ice Tower Skin": "1,99 €",
+            "Classic Bomb Tower Skin Sale": "0,99 €",
+            "Classic Bomb Tower Skin": "1,99 €",
+            "Classic Dart Monkey Skin Sale": "0,99 €",
+            "Classic Dart Monkey Skin": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793330060259,
@@ -81851,7 +81889,16 @@
       "Diamondhoof Token": "9,99 €",
       "Kraken Token": "2,99 €",
       "The Trophy Tycoon Sale": "2,99 €",
-      "Enchanted Forest Token Bundle": "9,99 €"
+      "Enchanted Forest Token Bundle": "9,99 €",
+      "Pegasus Premium+ Token": "9,99 €",
+      "Premium Horses Pack": "19,99 €",
+      "Royal Guard Kintsugi Token": "3,49 €",
+      "Lion Kintsugi Token": "3,49 €",
+      "Crown Kintsugi Token": "3,49 €",
+      "Clocktower Kintsugi Token": "3,49 €",
+      "Wolf Kintsugi Token": "3,49 €",
+      "Throne Kintsugi Token": "3,49 €",
+      "Goblet Kintsugi Token": "3,49 €"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -82038,9 +82085,36 @@
       "Diamondhoof Token": "9,99 €",
       "Kraken Token": "2,99 €",
       "The Trophy Tycoon Sale": "2,99 €",
-      "Enchanted Forest Token Bundle": "9,99 €"
+      "Enchanted Forest Token Bundle": "9,99 €",
+      "Pegasus Premium+ Token": "9,99 €",
+      "Premium Horses Pack": "19,99 €",
+      "Royal Guard Kintsugi Token": "3,49 €",
+      "Lion Kintsugi Token": "3,49 €",
+      "Crown Kintsugi Token": "3,49 €",
+      "Clocktower Kintsugi Token": "3,49 €",
+      "Wolf Kintsugi Token": "3,49 €",
+      "Throne Kintsugi Token": "3,49 €",
+      "Goblet Kintsugi Token": "3,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793653056000,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Pegasus Premium+ Token": "9,99 €",
+            "Premium Horses Pack": "19,99 €",
+            "Royal Guard Kintsugi Token": "3,49 €",
+            "Lion Kintsugi Token": "3,49 €",
+            "Crown Kintsugi Token": "3,49 €",
+            "Clocktower Kintsugi Token": "3,49 €",
+            "Wolf Kintsugi Token": "3,49 €",
+            "Throne Kintsugi Token": "3,49 €",
+            "Goblet Kintsugi Token": "3,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793501604822,
@@ -155252,8 +155326,8 @@
     "trackName": "Quando foi? - O último dia",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €"
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -155261,6 +155335,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793653056000,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793588409451,
           "price": 2.99,
@@ -156980,6 +157060,42 @@
           "price": 5.99,
           "formattedPrice": "5,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6819103516": {
+    "trackId": 6819103516,
+    "trackName": "百死一生",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €",
+      "出身包1・太平道之子": "1,99 €",
+      "天下統一版": "7,99 €",
+      "擴充包2・吳統一與真結局": "3,99 €",
+      "擴充包1・蜀統一": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €",
+      "出身包1・太平道之子": "1,99 €",
+      "天下統一版": "7,99 €",
+      "擴充包2・吳統一與真結局": "3,99 €",
+      "擴充包1・蜀統一": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793653056000,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "出身包1・太平道之子": "1,99 €",
+            "天下統一版": "7,99 €",
+            "擴充包2・吳統一與真結局": "3,99 €",
+            "擴充包1・蜀統一": "3,99 €"
+          }
         }
       ]
     ]

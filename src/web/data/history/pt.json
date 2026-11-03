@@ -765,6 +765,25 @@
     "history": [
       [
         {
+          "timestamp": 1793700779769,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Soccer coins": "0,99 €",
+            "300,000 gold": "2,99 €",
+            "100,000 gold": "1,99 €",
+            "10,000 gold": "0,99 €",
+            "100,000 coins": "3,99 €",
+            "15000 eggs": "2,99 €",
+            "5000 eggs": "1,99 €",
+            "500 eggs": "0,99 €",
+            "10000 candies": "2,99 €",
+            "1000 candies": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793002369190,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -52881,6 +52900,23 @@
     "history": [
       [
         {
+          "timestamp": 1793700779769,
+          "price": 0.49,
+          "formattedPrice": "0,49 €",
+          "inAppPurchases": {
+            "20,000 points": "0,99 €",
+            "63,000 points": "2,99 €",
+            "500,000 points": "9,99 €",
+            "176,000 points": "8,99 €",
+            "100,000 points": "2,99 €",
+            "25,000 points": "0,99 €",
+            "225,000 points": "9,99 €",
+            "345,000 points": "17,99 €",
+            "300,000 points": "8,99 €",
+            "7,000,000 points": "89,99 €"
+          }
+        },
+        {
           "timestamp": 1793673861342,
           "price": 0.49,
           "formattedPrice": "0,49 €",
@@ -60462,6 +60498,23 @@
     "history": [
       [
         {
+          "timestamp": 1793700779769,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "Genius Big Deal Pack": "1,99 €",
+            "Boxer Big Deal Pack": "1,99 €",
+            "Double Bonus": "1,99 €",
+            "Fistful of Gems": "5,99 €",
+            "Buy 100 Gems": "0,99 €",
+            "Promoção Pack 5": "17,99 €",
+            "Promover Pack 4": "9,99 €",
+            "Promover Pack 3": "8,99 €",
+            "Promover Pack 2": "5,99 €",
+            "Promover Pacote 1": "2,99 €"
+          }
+        },
+        {
           "timestamp": 1793673861342,
           "price": 0.29,
           "formattedPrice": "0,29 €",
@@ -66985,7 +67038,8 @@
       "Kizuna AI Extend 2026": "5,99 €",
       "COLORFUL STAGE!": "5,99 €",
       "Special Pack 02": "5,99 €",
-      "Characters & Song Packs Bundle": "29,99 €"
+      "Characters & Song Packs Bundle": "29,99 €",
+      "PΛFF": "9,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -67023,9 +67077,22 @@
       "Kizuna AI Extend 2026": "5,99 €",
       "COLORFUL STAGE!": "5,99 €",
       "Special Pack 02": "5,99 €",
-      "Characters & Song Packs Bundle": "29,99 €"
+      "Characters & Song Packs Bundle": "24,99 €",
+      "PΛFF": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793700779769,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "PΛFF": "9,99 €",
+            "Special Pack 02": "5,99 €",
+            "Characters & Song Packs Bundle": "24,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790034627833,
@@ -155107,6 +155174,23 @@
     "history": [
       [
         {
+          "timestamp": 1793700779769,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "PUNHADO de Gemas": "2,99 €",
+            "BOLSA de Gemas": "5,99 €",
+            "BARRIL de Gemas": "9,99 €",
+            "Herói DRAKKAN": "7,99 €",
+            "Torre CAÇADORAS": "5,99 €",
+            "Herói IGNUS": "2,99 €",
+            "Herói ASHBITE": "7,99 €",
+            "PACOTE TODAS AS TORRES": "22,99 €",
+            "Torre FORJADOR": "5,99 €",
+            "Herói ONI": "5,99 €"
+          }
+        },
+        {
           "timestamp": 1793673861342,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -157149,6 +157233,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793700779769,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793673861342,
           "price": 2.99,

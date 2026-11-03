@@ -5797,7 +5797,7 @@
   {
     "trackId": 860809977,
     "region": "tr",
-    "timestamp": 1793360824433,
+    "timestamp": 1793700779769,
     "discounts": [],
     "price": 249.99,
     "formattedPrice": "₺249,99",
@@ -15421,7 +15421,7 @@
   {
     "trackId": 1555459868,
     "region": "tr",
-    "timestamp": 1793673861342,
+    "timestamp": 1793700779769,
     "discounts": [],
     "price": 249.99,
     "formattedPrice": "₺249,99",
@@ -15867,7 +15867,7 @@
   {
     "trackId": 1574175808,
     "region": "tr",
-    "timestamp": 1792808084244,
+    "timestamp": 1793700779769,
     "discounts": [],
     "price": 99.99,
     "formattedPrice": "₺99,99",
@@ -24738,7 +24738,7 @@
   {
     "trackId": 6759664029,
     "region": "tr",
-    "timestamp": 1793673861342,
+    "timestamp": 1793700779769,
     "discounts": [],
     "price": 399.99,
     "formattedPrice": "₺399,99",
@@ -26804,7 +26804,7 @@
   {
     "trackId": 6819239166,
     "region": "tr",
-    "timestamp": 1793311668998,
+    "timestamp": 1793700779769,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "₺2,99",
@@ -26864,10 +26864,10 @@
   {
     "trackId": 6824686276,
     "region": "tr",
-    "timestamp": 1793673861342,
+    "timestamp": 1793700779769,
     "discounts": [],
-    "price": 149.99,
-    "formattedPrice": "₺149,99",
+    "price": 0,
+    "formattedPrice": "Free",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6824686276",
     "trackName": "Wider - Fullscreen Browsing",

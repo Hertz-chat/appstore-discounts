@@ -73066,6 +73066,25 @@
     "history": [
       [
         {
+          "timestamp": 1793700779769,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "1 Mo. CAN Texting": "₺149,99",
+            "$5 Credit": "₺299,99",
+            "1 Mo. Global Texting": "₺199,99",
+            "1 Mo. Fongo Plus": "₺499,99",
+            "6 Mo. Global Texting": "₺799,99",
+            "3 Mo. CAN Texting": "₺299,99",
+            "$20 Credit": "₺999,99",
+            "6 Mo. CAN Texting": "₺499,99",
+            "$50 Credit": "₺2.499,99",
+            "3 Mo. Global Texting": "₺499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793360824433,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -196769,6 +196788,23 @@
     "history": [
       [
         {
+          "timestamp": 1793700779769,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Vaul of the Void Promo Pack": "₺0,00",
+            "Siege of Shadows": "₺249,99",
+            "Dawncaster Mega Bundle": "₺699,99",
+            "Masks of Misery": "₺249,99",
+            "Infernal Invasions": "₺299,99",
+            "Dawncaster Origins Bundle": "₺249,99",
+            "Death of Divinity": "₺249,99",
+            "Tribes of Twilight": "₺249,99",
+            "Nexus of Nightmares": "₺299,99",
+            "Eclypse Supporter Pack": "₺199,99"
+          }
+        },
+        {
           "timestamp": 1793673861342,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -206715,6 +206751,25 @@
       "James character": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793700779769,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Daniel skin": "₺49,99",
+            "Reyna skin": "₺49,99",
+            "Jorge skin": "₺49,99",
+            "Gloria skin": "₺49,99",
+            "Purple menu color": "₺199,99",
+            "Red menu color": "₺99,99",
+            "Yellow menu color": "₺49,99",
+            "James character": "₺49,99",
+            "Lisa character": "₺0,00",
+            "Elsa character": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792808084244,
@@ -298260,6 +298315,23 @@
     "history": [
       [
         {
+          "timestamp": 1793700779769,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Hero Drakkan": "₺399,99",
+            "Hero Ashbite": "₺399,99",
+            "Hero Oni": "₺249,99",
+            "Tower Forger": "₺249,99",
+            "Tower Wildcat": "₺249,99",
+            "Spell Aspect of Sol": "₺249,99",
+            "Tower Sniper": "₺299,99",
+            "Gems Barrel": "₺499,99",
+            "Tower Alchemist": "₺149,99",
+            "Tower Ironbark": "₺399,99"
+          }
+        },
+        {
           "timestamp": 1793673861342,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -301131,13 +301203,37 @@
     "name": "Trading Card Shop",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "₺2,99"
+      "formattedPrice": "₺2,99",
+      "Gold Hoard": "₺74,99",
+      "Gold Vault": "₺39,99",
+      "Gold Chest": "₺49,99",
+      "Handful of Gold": "₺4,99",
+      "Gold Pouch": "₺19,99"
     },
     "minPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "₺2,99"
+      "formattedPrice": "₺2,99",
+      "Gold Hoard": "₺74,99",
+      "Gold Vault": "₺39,99",
+      "Gold Chest": "₺49,99",
+      "Handful of Gold": "₺4,99",
+      "Gold Pouch": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793700779769,
+          "price": 2.99,
+          "formattedPrice": "₺2,99",
+          "inAppPurchases": {
+            "Gold Hoard": "₺74,99",
+            "Gold Vault": "₺39,99",
+            "Gold Chest": "₺49,99",
+            "Handful of Gold": "₺4,99",
+            "Gold Pouch": "₺19,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793311668998,
@@ -301223,6 +301319,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793700779769,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793673861342,
           "price": 149.99,

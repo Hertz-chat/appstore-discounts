@@ -77589,6 +77589,25 @@
     "history": [
       [
         {
+          "timestamp": 1793700779769,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Free Checkpoints": "$30.00",
+            "Large Coin Pack": "$90.00",
+            "Medium Coin Pack": "$60.00",
+            "Small Coin Pack": "$30.00",
+            "Pig": "$30.00",
+            "Dog": "$30.00",
+            "Rooster": "$30.00",
+            "Monkey": "$30.00",
+            "Goat": "$30.00",
+            "Horse": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792050467334,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -115755,6 +115774,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793700779769,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "一筆鑽石": "$150.00",
+            "1代套裝(3星)": "$60.00",
+            "僱傭超能少年": "$60.00",
+            "促銷禮包3": "$290.00",
+            "一小袋鑽石": "$320.00",
+            "雙倍獎勵": "$60.00",
+            "100鑽石": "$30.00",
+            "雙倍背包": "$60.00",
+            "促銷禮包2": "$150.00",
+            "一大袋鑽石": "$690.00"
+          }
+        },
         {
           "timestamp": 1793673861342,
           "price": 10,
@@ -168950,7 +168986,8 @@
       "Cosmetic Crystal": "$150.00",
       "Demon Pass": "$320.00",
       "Legendary Wings Pack 2": "$150.00",
-      "Crystal Piggy Bank 5": "$150.00"
+      "Crystal Piggy Bank 5": "$150.00",
+      "Magic Subscribe Package": "$90.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -168997,9 +169034,29 @@
       "Cosmetic Crystal": "$150.00",
       "Demon Pass": "$320.00",
       "Legendary Wings Pack 2": "$150.00",
-      "Crystal Piggy Bank 5": "$150.00"
+      "Crystal Piggy Bank 5": "$150.00",
+      "Magic Subscribe Package": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793700779769,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Double Exp Package 1": "$30.00",
+            "Flash Sale Crystal 2": "$90.00",
+            "300 Crystal": "$90.00",
+            "Flash Sale Star Rune 1": "$90.00",
+            "Magic Subscribe Package": "$90.00",
+            "First Purchase: Legendary Pack": "$320.00",
+            "Crystal Piggy Bank 5": "$150.00",
+            "Flash Sale Ore Rune 1": "$90.00",
+            "Flash Sale Ore Rune 2": "$60.00",
+            "Flash Sale Star Rune 2": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793615910490,
@@ -210389,6 +210446,25 @@
       "Banger Racing Car Pack": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793700779769,
+          "price": 330,
+          "formattedPrice": "$330.00",
+          "inAppPurchases": {
+            "Content Bundle 2": "$270.00",
+            "Reckless Car Pack": "$90.00",
+            "Off-Road Car Pack": "$90.00",
+            "Racing Heroes Car Pack": "$90.00",
+            "Steel & Wheels Pack": "$55.00",
+            "Goofy Roofs Pack": "$33.00",
+            "Getaway Car Pack": "$90.00",
+            "American All-Stars Car Pack": "$90.00",
+            "Rusty Rats Car Pack": "$90.00",
+            "Modified Monsters Car Pack": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793415517315,
@@ -288007,6 +288083,25 @@
     "history": [
       [
         {
+          "timestamp": 1793700779769,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "12.99美元商品2": "$390.00",
+            "19.99美元商品": "$690.00",
+            "39.99美元商品": "$1,290.00",
+            "12.99美元商品": "$390.00",
+            "49.99美元商品": "$1,490.00",
+            "3.99美元商品2": "$120.00",
+            "14.99美元商品": "$490.00",
+            "99.99美元商品": "$2,990.00",
+            "29.99美元商品": "$990.00",
+            "8.99美元商品": "$290.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793553601717,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -317919,6 +318014,25 @@
     "history": [
       [
         {
+          "timestamp": 1793700779769,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "16888 永恆威望包": "$6,990.00",
+            "49888 帝王神話禮": "$15,000.00",
+            "108 新手禮包": "$90.00",
+            "9888 豪華至尊禮": "$3,990.00",
+            "798 進階禮盒": "$490.00",
+            "6888 至尊禮": "$2,990.00",
+            "498 暢玩禮包": "$320.00",
+            "2888 豪華禮": "$1,490.00",
+            "1888 高級禮盒": "$990.00",
+            "198 體驗禮包": "$150.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793438080874,
           "price": 0,
           "formattedPrice": "免費",
@@ -320485,10 +320599,18 @@
       "formattedPrice": "$220.00"
     },
     "minPriceInfo": {
-      "price": 220,
-      "formattedPrice": "$220.00"
+      "price": 120,
+      "formattedPrice": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793700779769,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789225426600,
@@ -323689,6 +323811,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793700779769,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1793673861342,
           "price": 90,

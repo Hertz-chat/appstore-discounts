@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1298544927,
+    "region": "us",
+    "timestamp": 1793700779769,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1298544927",
+    "trackName": "My Child Lebensborn",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1441522083,
+    "region": "us",
+    "timestamp": 1793700779769,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$3.99",
+        "to": "Free",
+        "range": "[Free ~ $3.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1441522083",
+    "trackName": "Morphing LED Banner",
+    "firstRecordedAt": 1745568184983
+  },
+  {
+    "trackId": 6824686276,
+    "region": "us",
+    "timestamp": 1793700779769,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "Free",
+        "range": "[Free ~ $2.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6824686276",
+    "trackName": "Wider - Fullscreen Browsing",
+    "firstRecordedAt": 1793438080874
+  },
+  {
     "trackId": 954982733,
     "region": "us",
     "timestamp": 1793673861342,

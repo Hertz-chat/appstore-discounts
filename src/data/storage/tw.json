@@ -115756,6 +115756,25 @@
     "history": [
       [
         {
+          "timestamp": 1793673861342,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "100鑽石": "$30.00",
+            "一筆鑽石": "$150.00",
+            "一小袋鑽石": "$320.00",
+            "一箱鑽石": "$1,490.00",
+            "一大车钻石": "$2,990.00",
+            "一大袋鑽石": "$690.00",
+            "雙倍獎勵": "$60.00",
+            "1代套裝(3星)": "$60.00",
+            "僱傭超能少年": "$60.00",
+            "雙倍背包": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792781222157,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -134247,6 +134266,22 @@
     "history": [
       [
         {
+          "timestamp": 1793673861342,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Power Builder (weekly)": "$40.00",
+            "Power Builder (monthly)": "$100.00",
+            "Micro Tip": "$30.00",
+            "Medium Tip": "$60.00",
+            "Small Tip": "$30.00",
+            "Super Mega Tip": "$320.00",
+            "Power Builder (yearly)": "$860.00",
+            "The Ultimate Tip": "$1,990.00",
+            "Large Tip": "$120.00"
+          }
+        },
+        {
           "timestamp": 1793653056000,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -140589,6 +140624,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793673861342,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "$120.00",
+            "原版怪獸繼承卡牌包": "$590.00",
+            "怪獸繼承": "$150.00",
+            "原版魔王權能卡牌包": "$590.00",
+            "原版魔王完整卡牌包": "$890.00",
+            "覺醒魔王完整卡牌包": "$890.00",
+            "原版設施卡牌包": "$290.00",
+            "原版魔王加速卡牌包": "$290.00",
+            "覺醒魔王卡牌包": "$590.00",
+            "原版地宮卡牌包": "$590.00"
+          }
+        },
         {
           "timestamp": 1793653056000,
           "price": 60,
@@ -188372,7 +188424,7 @@
       "price": 0,
       "formattedPrice": "免費",
       "Prime Gemma 500": "$89.00",
-      "Prime gemma 100": "$30.00",
+      "Prime gemma 100": "$19.00",
       "Prime Gemma 1200": "$180.00",
       "Tamer Kit": "$19.00",
       "Starter Package": "$89.00",
@@ -188402,6 +188454,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793673861342,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Prime gemma 100": "$19.00",
+            "Prime Gemma 500": "$89.00",
+            "Prime Dimension DLC": "$125.00",
+            "Zenith Islands DLC": "$89.00",
+            "Prime Gemma 1200": "$180.00",
+            "Tamer Kit": "$19.00",
+            "Starter Package": "$89.00",
+            "Prime Gemma 2500": "$355.00",
+            "Master Package": "$355.00",
+            "Hunter Package": "$180.00"
+          }
+        },
         {
           "timestamp": 1793653056000,
           "price": 150,
@@ -283567,6 +283636,23 @@
     "history": [
       [
         {
+          "timestamp": 1793673861342,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "每月": "$60.00",
+            "森林": "$90.00",
+            "可可": "$60.00",
+            "月夜": "$90.00",
+            "招財": "$60.00",
+            "天空": "$90.00",
+            "點點": "$60.00",
+            "小灰": "$60.00",
+            "Jingle": "$90.00",
+            "每年": "$390.00"
+          }
+        },
+        {
           "timestamp": 1793653056000,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -323602,6 +323688,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793673861342,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793553601717,

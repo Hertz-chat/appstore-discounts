@@ -2741,6 +2741,23 @@
     "history": [
       [
         {
+          "timestamp": 1793673861342,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "Guitar & Bass Sweeteners": "HK$ 48.00",
+            "Harp Sweeteners": "HK$ 48.00",
+            "Tuning Tools": "HK$ 88.00",
+            "Harmonic Tuning": "HK$ 148.00",
+            "Full Discounted Upgrade Pack": "HK$ 488.00",
+            "Extended Frequency Modes": "HK$ 38.00",
+            "Orchestral Sweeteners": "HK$ 48.00",
+            "Buzz Feiten Pack": "HK$ 48.00",
+            "Harmonica Sweeteners": "HK$ 88.00",
+            "World Sweetener Pack": "HK$ 88.00"
+          }
+        },
+        {
           "timestamp": 1793653056000,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
@@ -68701,6 +68718,25 @@
     "history": [
       [
         {
+          "timestamp": 1793673861342,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "1 Mo. CAN Texting": "HK$ 22.00",
+            "1 Mo. Global Texting": "HK$ 32.00",
+            "$5 Credit": "HK$ 42.00",
+            "3 Mo. CAN Texting": "HK$ 42.00",
+            "12 Mo. CAN Texting": "HK$ 148.00",
+            "1 Mo. Remove Ads": "HK$ 22.00",
+            "6 Mo. CAN Texting": "HK$ 88.00",
+            "3 Mo. Global Texting": "HK$ 68.00",
+            "$10 Credit": "HK$ 88.00",
+            "1 Mo. Fongo Plus": "HK$ 88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793526670644,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -83306,6 +83342,14 @@
       "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793673861342,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792863731561,
@@ -139266,6 +139310,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793673861342,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "HK$ 32.00",
+            "原版怪獸繼承卡牌包": "HK$ 148.00",
+            "怪獸繼承": "HK$ 38.00",
+            "覺醒魔王完整卡牌包": "HK$ 228.00",
+            "原版設施卡牌包": "HK$ 68.00",
+            "原版魔王完整卡牌包": "HK$ 228.00",
+            "原版地宮卡牌包": "HK$ 148.00",
+            "原版魔王權能卡牌包": "HK$ 148.00",
+            "原版魔王加速卡牌包": "HK$ 68.00",
+            "原版怪獸卡牌包": "HK$ 68.00"
+          }
+        },
         {
           "timestamp": 1793653056000,
           "price": 18,
@@ -235887,6 +235948,23 @@
     "history": [
       [
         {
+          "timestamp": 1793673861342,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "HK$ 428.00",
+            "逆命殊途": "HK$ 68.00",
+            "額外內容擴充包": "HK$ 138.00",
+            "金色公事包": "HK$ 7.00",
+            "手槍彈藥吊飾": "HK$ 7.00",
+            "綠色藥草吊飾": "HK$ 7.00",
+            "經典公事包": "HK$ 7.00",
+            "武器專屬強化券 x5 (A)": "HK$ 68.00",
+            "武器專屬強化券 x3 (A)": "HK$ 49.00",
+            "武器專屬強化券 x3 (B)": "HK$ 49.00"
+          }
+        },
+        {
           "timestamp": 1793653056000,
           "price": 0,
           "formattedPrice": "免費",
@@ -307227,7 +307305,8 @@
       "服裝 · 萬聖節套組 2": "HK$ 22.00",
       "服裝 · 萬聖節套組 1": "HK$ 22.00",
       "付費角色・艾洛溫": "HK$ 8.00",
-      "組合・光之騎士團": "HK$ 88.00"
+      "組合・光之騎士團": "HK$ 88.00",
+      "擴充・四座塔": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 13,
@@ -307246,9 +307325,29 @@
       "服裝 · 萬聖節套組 2": "HK$ 22.00",
       "服裝 · 萬聖節套組 1": "HK$ 22.00",
       "付費角色・艾洛溫": "HK$ 8.00",
-      "組合・光之騎士團": "HK$ 88.00"
+      "組合・光之騎士團": "HK$ 88.00",
+      "擴充・四座塔": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793673861342,
+          "price": 13,
+          "formattedPrice": "HK$ 13.00",
+          "inAppPurchases": {
+            "付費角色・艾德瑞克": "HK$ 8.00",
+            "付費角色・蘿潔爾": "HK$ 8.00",
+            "主題包・哈爾布倫": "HK$ 8.00",
+            "贊助第一階・贊助者": "HK$ 2.00",
+            "付費角色・墨蘭": "HK$ 8.00",
+            "付費角色・伊蕾娜": "HK$ 8.00",
+            "擴充・四座塔": "HK$ 22.00",
+            "組合・光之騎士團": "HK$ 88.00",
+            "服裝 · 萬聖節套組 3": "HK$ 22.00",
+            "服裝 · 萬聖節套組 2": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793330060259,
@@ -310242,6 +310341,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793673861342,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793553601717,

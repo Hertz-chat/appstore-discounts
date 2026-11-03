@@ -10265,6 +10265,25 @@
     "history": [
       [
         {
+          "timestamp": 1793673861342,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "3,99 €",
+            "Predictive Report - Full": "3,99 €",
+            "Birthday Report": "3,99 €",
+            "Gold Level Free Trial": "0,00 €",
+            "Gold Monthly": "8,99 €",
+            "Relationship Report": "3,99 €",
+            "Child Report - Full": "3,99 €",
+            "Predictive Report - No Background": "2,99 €",
+            "7-day Trial Astrolocality": "0,00 €",
+            "Gold Level lifetime": "79,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793653056000,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -28283,6 +28302,24 @@
     "history": [
       [
         {
+          "timestamp": 1793673861342,
+          "price": 3.49,
+          "formattedPrice": "3,49 €",
+          "inAppPurchases": {
+            "Torre Liberar Todas as Melhorias": "0,99 €",
+            "Bundle O' Monkey Money": "3,49 €",
+            "Monte de Dinheiro": "5,99 €",
+            "Cofre de Fichas": "9,99 €",
+            "Dinheiro de Macaco": "0,99 €",
+            "Passe de Nível": "0,99 €",
+            "Modo Dinheiro Dobrado": "9,99 €",
+            "Cofre de Dinheiro": "22,99 €",
+            "Bundle O' Tokens": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793653056000,
           "price": 3.49,
           "formattedPrice": "3,49 €",
@@ -42989,6 +43026,14 @@
     "history": [
       [
         {
+          "timestamp": 1793673861342,
+          "price": 12.95,
+          "formattedPrice": "12,95 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792863731561,
           "price": 14.99,
           "formattedPrice": "14,99 €",
@@ -51474,7 +51519,12 @@
       "1,500,000 points": "29,99 €",
       "850,000 points": "17,99 €",
       "10,000,000 points": "99,99 €",
-      "3,750,000 points": "59,99 €"
+      "3,750,000 points": "59,99 €",
+      "50 kilometers": "1,99 €",
+      "600,000 points": "29,99 €",
+      "1,000,000 points": "44,99 €",
+      "1,300,000 points": "59,99 €",
+      "2,160,000 points": "89,99 €"
     },
     "minPriceInfo": {
       "price": 0.49,
@@ -51493,9 +51543,33 @@
       "1,500,000 points": "29,99 €",
       "850,000 points": "17,99 €",
       "10,000,000 points": "99,99 €",
-      "3,750,000 points": "59,99 €"
+      "3,750,000 points": "59,99 €",
+      "50 kilometers": "1,99 €",
+      "600,000 points": "29,99 €",
+      "1,000,000 points": "44,99 €",
+      "1,300,000 points": "59,99 €",
+      "2,160,000 points": "89,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793673861342,
+          "price": 0.49,
+          "formattedPrice": "0,49 €",
+          "inAppPurchases": {
+            "20,000 points": "0,99 €",
+            "50 kilometers": "1,99 €",
+            "63,000 points": "2,99 €",
+            "176,000 points": "8,99 €",
+            "225,000 points": "9,99 €",
+            "345,000 points": "17,99 €",
+            "600,000 points": "29,99 €",
+            "1,000,000 points": "44,99 €",
+            "1,300,000 points": "59,99 €",
+            "2,160,000 points": "89,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792846729867,
@@ -58919,7 +58993,10 @@
       "Promover Pack 2": "5,99 €",
       "Promover Pacote 1": "2,99 €",
       "Ranhura Mochila Dupla": "1,99 €",
-      "A Large Bag of Gems": "22,99 €"
+      "A Large Bag of Gems": "22,99 €",
+      "Pouch of Gems": "9,99 €",
+      "A Chest of Gems": "59,99 €",
+      "Wagon of Gems": "99,99 €"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -58935,9 +59012,31 @@
       "Promover Pack 2": "5,99 €",
       "Promover Pacote 1": "2,99 €",
       "Ranhura Mochila Dupla": "1,99 €",
-      "A Large Bag of Gems": "22,99 €"
+      "A Large Bag of Gems": "22,99 €",
+      "Pouch of Gems": "9,99 €",
+      "A Chest of Gems": "59,99 €",
+      "Wagon of Gems": "99,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793673861342,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "Buy 100 Gems": "0,99 €",
+            "Fistful of Gems": "5,99 €",
+            "Pouch of Gems": "9,99 €",
+            "A Chest of Gems": "59,99 €",
+            "Wagon of Gems": "99,99 €",
+            "A Large Bag of Gems": "22,99 €",
+            "Double Bonus": "1,99 €",
+            "Boxer Big Deal Pack": "1,99 €",
+            "Genius Big Deal Pack": "1,99 €",
+            "Ranhura Mochila Dupla": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,
@@ -67703,6 +67802,14 @@
     "history": [
       [
         {
+          "timestamp": 1793673861342,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789340065932,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -75103,11 +75210,21 @@
       "Pro Lifetime": "3,99 €"
     },
     "minPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "0,29 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "Pro Lifetime": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793673861342,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Pro Lifetime": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793615910490,
@@ -80045,6 +80162,25 @@
       "Goblet Kintsugi Token": "3,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793673861342,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "The Ultimate Edition Sale": "24,99 €",
+            "The Dragon": "3,49 €",
+            "New York 2121 Board": "6,99 €",
+            "Euro Trip": "3,99 €",
+            "New York 2121": "14,99 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €",
+            "Golden Dice": "4,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793653056000,
@@ -119737,6 +119873,25 @@
     "history": [
       [
         {
+          "timestamp": 1793673861342,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Global scenery - 3 months": "8,99 €",
+            "Airbus A380": "1,99 €",
+            "EC135": "0,99 €",
+            "Airbus A350-1000": "3,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Global scenery - 12 months": "19,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Boeing 737-800": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793615910490,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -150689,7 +150844,8 @@
       "Fantasia · Pacote Halloween 2": "2,99 €",
       "Fantasia · Pacote Halloween 1": "2,99 €",
       "Herói · Elowyn Briar": "0,99 €",
-      "Pacote · Cavaleiros da Luz": "9,99 €"
+      "Pacote · Cavaleiros da Luz": "9,99 €",
+      "Expansão · As Quatro Torres": "2,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -150708,9 +150864,29 @@
       "Fantasia · Pacote Halloween 2": "2,99 €",
       "Fantasia · Pacote Halloween 1": "2,99 €",
       "Herói · Elowyn Briar": "0,99 €",
-      "Pacote · Cavaleiros da Luz": "9,99 €"
+      "Pacote · Cavaleiros da Luz": "9,99 €",
+      "Expansão · As Quatro Torres": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793673861342,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Expansão · As Quatro Torres": "2,99 €",
+            "Pacote · Cavaleiros da Luz": "9,99 €",
+            "Fantasia · Pacote Halloween 3": "2,99 €",
+            "Fantasia · Pacote Halloween 2": "2,99 €",
+            "Fantasia · Pacote Halloween 1": "2,99 €",
+            "Herói · Elowyn Briar": "0,99 €",
+            "Hero · Rosel Ironbloom": "0,99 €",
+            "Hero · Sargul Krach": "0,99 €",
+            "Hero · Fine Kaltenbach": "0,99 €",
+            "Hero · Irena von Strahl": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793330060259,
@@ -150887,6 +151063,25 @@
       "BARRIL de Gemas": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793673861342,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "PUNHADO de Gemas": "2,99 €",
+            "BOLSA de Gemas": "5,99 €",
+            "BARRIL de Gemas": "9,99 €",
+            "Herói DRAKKAN": "7,99 €",
+            "BAÚ de Gemas": "22,99 €",
+            "Torre CAÇADORAS": "5,99 €",
+            "Herói IGNUS": "2,99 €",
+            "Herói ASHBITE": "7,99 €",
+            "PACOTE TODAS AS TORRES": "22,99 €",
+            "Torre FORJADOR": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793415517315,
@@ -152785,6 +152980,14 @@
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793673861342,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793553601717,

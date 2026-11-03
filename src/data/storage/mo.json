@@ -48523,6 +48523,23 @@
     "history": [
       [
         {
+          "timestamp": 1793673861342,
+          "price": 11.99,
+          "formattedPrice": "USD 11.99",
+          "inAppPurchases": {
+            "STANDARD ROCK KIT": "USD 0.00",
+            "DEEP BLUE": "USD 0.00",
+            "BEEPING BOBBIE": "USD 0.00",
+            "ISAAC'S NEW TONES": "USD 0.99",
+            "GROOVY GUT SHAKER": "USD 1.99",
+            "DARK DUNGEON OF DESPAIR": "USD 0.99",
+            "CAMPBELL'S CANS": "USD 0.99",
+            "FUSION FLIPPO": "USD 0.99",
+            "BLADE OF JUSTICE": "USD 0.99",
+            "HIGH FIVE": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1793653056000,
           "price": 11.99,
           "formattedPrice": "USD 11.99",
@@ -67443,6 +67460,14 @@
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793673861342,
+          "price": 11.95,
+          "formattedPrice": "USD 11.95",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792863731561,
@@ -215847,7 +215872,8 @@
       "服裝 · 萬聖節套組 2": "USD 2.99",
       "服裝 · 萬聖節套組 1": "USD 2.99",
       "付費角色・艾洛溫": "USD 0.99",
-      "組合・光之騎士團": "USD 9.99"
+      "組合・光之騎士團": "USD 9.99",
+      "擴充・四座塔": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -215866,9 +215892,29 @@
       "服裝 · 萬聖節套組 2": "USD 2.99",
       "服裝 · 萬聖節套組 1": "USD 2.99",
       "付費角色・艾洛溫": "USD 0.99",
-      "組合・光之騎士團": "USD 9.99"
+      "組合・光之騎士團": "USD 9.99",
+      "擴充・四座塔": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793673861342,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "擴充・四座塔": "USD 2.99",
+            "組合・光之騎士團": "USD 9.99",
+            "服裝 · 萬聖節套組 3": "USD 2.99",
+            "服裝 · 萬聖節套組 2": "USD 2.99",
+            "服裝 · 萬聖節套組 1": "USD 2.99",
+            "付費角色・艾洛溫": "USD 0.99",
+            "付費角色・蘿潔爾": "USD 0.99",
+            "付費角色・薩爾古爾": "USD 0.99",
+            "付費角色・菲涅": "USD 0.99",
+            "付費角色・伊蕾娜": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793330060259,
@@ -217967,6 +218013,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793673861342,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793553601717,

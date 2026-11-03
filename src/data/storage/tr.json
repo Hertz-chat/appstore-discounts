@@ -22248,6 +22248,25 @@
     "history": [
       [
         {
+          "timestamp": 1793673861342,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "₺49,99",
+            "Varazdin Orchestral Mobile": "₺199,99",
+            "Voices": "₺49,99",
+            "Essential Strings": "₺99,99",
+            "Synth Lead": "₺99,99",
+            "Sliced Beats": "₺49,99",
+            "Amped Guitar & Bass": "₺149,99",
+            "Technocraft": "₺99,99",
+            "Acoustic Guitars": "₺49,99",
+            "Synthetix Beats": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793463940314,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -87293,6 +87312,14 @@
     "history": [
       [
         {
+          "timestamp": 1793673861342,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792863731561,
           "price": 699.99,
           "formattedPrice": "₺699,99",
@@ -151838,11 +151865,21 @@
       "Pro Lifetime": "₺199,99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "₺9,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Pro Lifetime": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793673861342,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro Lifetime": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793615910490,
@@ -165949,6 +165986,25 @@
       "Chopper Token": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793673861342,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺599,99",
+            "Orient Express": "₺199,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "New York 2121 Board": "₺399,99",
+            "Arcade Dice Sale": "₺199,99",
+            "Astronaut Token Sale": "₺149,99",
+            "Speed Die": "₺799,99",
+            "The Complete Collection": "₺1.999,99",
+            "1935 Atlantic City Board": "₺399,99",
+            "The Dragon": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793615910490,
@@ -196688,7 +196744,7 @@
       "Eclypse Supporter Pack": "₺199,99",
       "Infinitum Support Banner": "₺199,99",
       "Catalyst Support Pack": "₺249,99",
-      "Buy the devs a coffee": "₺229,99",
+      "Buy the devs a coffee": "₺249,99",
       "Synthesis Support Pack": "₺199,99",
       "Nexus of Nightmares": "₺299,99"
     },
@@ -196711,6 +196767,25 @@
       "Nexus of Nightmares": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793673861342,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Tribes of Twilight": "₺249,99",
+            "Buy the devs a coffee": "₺249,99",
+            "Death of Divinity": "₺249,99",
+            "Infinitum Support Banner": "₺199,99",
+            "Masks of Misery": "₺249,99",
+            "Catalyst Support Pack": "₺249,99",
+            "Siege of Shadows": "₺249,99",
+            "Dawncaster Mega Bundle": "₺699,99",
+            "Dawncaster Origins Bundle": "₺249,99",
+            "Eclypse Supporter Pack": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792958987542,
@@ -249819,6 +249894,25 @@
     "history": [
       [
         {
+          "timestamp": 1793673861342,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Airbus A350-1000": "₺199,99",
+            "Boeing 747-400": "₺99,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Boeing 737-900": "₺99,99",
+            "Concorde": "₺99,99",
+            "Boeing 787-10": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793568365537,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -297950,7 +298044,8 @@
       "Costume · Halloween Set 2": "₺149,99",
       "Costume · Halloween Set 1": "₺149,99",
       "Hero · Elowyn Briar": "₺49,99",
-      "Bundle · Knights of Light": "₺499,99"
+      "Bundle · Knights of Light": "₺499,99",
+      "Expansion · The Four Towers": "₺149,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -297969,9 +298064,29 @@
       "Costume · Halloween Set 2": "₺149,99",
       "Costume · Halloween Set 1": "₺149,99",
       "Hero · Elowyn Briar": "₺49,99",
-      "Bundle · Knights of Light": "₺499,99"
+      "Bundle · Knights of Light": "₺499,99",
+      "Expansion · The Four Towers": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793673861342,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Expansion · The Four Towers": "₺149,99",
+            "Bundle · Knights of Light": "₺499,99",
+            "Costume · Halloween Set 3": "₺149,99",
+            "Costume · Halloween Set 2": "₺149,99",
+            "Costume · Halloween Set 1": "₺149,99",
+            "Hero · Elowyn Briar": "₺49,99",
+            "Hero · Rosel Ironbloom": "₺49,99",
+            "Hero · Sargul Krach": "₺49,99",
+            "Hero · Fine Kaltenbach": "₺49,99",
+            "Hero · Irena von Strahl": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793330060259,
@@ -298143,6 +298258,25 @@
       "Gems Barrel": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793673861342,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Hero Drakkan": "₺399,99",
+            "Hero Ashbite": "₺399,99",
+            "Hero Oni": "₺249,99",
+            "Tower Forger": "₺249,99",
+            "Tower Wildcat": "₺249,99",
+            "Tower Sniper": "₺299,99",
+            "Tower Ironbark": "₺399,99",
+            "Spell Aspect of Sol": "₺249,99",
+            "Hero Ignus": "₺149,99",
+            "Gems Barrel": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793568365537,
@@ -301088,6 +301222,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793673861342,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793553601717,

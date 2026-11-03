@@ -20862,6 +20862,23 @@
     "history": [
       [
         {
+          "timestamp": 1793673861342,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {
+            "Acoustic Guitars": "¥8.00",
+            "Varazdin Orchestral Mobile": "¥28.00",
+            "Amped Guitar & Bass": "¥22.00",
+            "Tuned 808 Bass": "¥8.00",
+            "Voices": "¥8.00",
+            "Synth Lead": "¥15.00",
+            "Sliced Beats": "¥8.00",
+            "Groove Machine Synth": "¥0.00",
+            "Synth Plucks": "¥15.00",
+            "Chill-Lo-Fi Mobile": "¥15.00"
+          }
+        },
+        {
           "timestamp": 1793653056000,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -173889,6 +173906,25 @@
     "history": [
       [
         {
+          "timestamp": 1793673861342,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "DLC：姐妹连": "¥2.00",
+            "DLC：英雄对决": "¥8.00",
+            "DLC：怪物联盟": "¥12.00",
+            "DLC：龙之神庙": "¥9.00",
+            "DLC：贪婪洞窟": "¥6.00",
+            "DLC：外星入侵": "¥8.00",
+            "DLC：异界": "¥8.00",
+            "DLC：邪恶之心": "¥12.00",
+            "奇境森林": "¥15.00",
+            "DLC：魔法之镜": "¥5.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793415517315,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -189286,6 +189322,25 @@
       "五子良将": "¥36.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793673861342,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {
+            "自创武将": "¥18.00",
+            "战国七雄": "¥36.00",
+            "群雄争霸": "¥18.00",
+            "楚汉争霸": "¥36.00",
+            "自创地图": "¥24.00",
+            "自创武将朝代特色兵种补丁": "¥48.00",
+            "重振汉室": "¥18.00",
+            "斜谷残阳": "¥36.00",
+            "无双战神": "¥36.00",
+            "五子良将": "¥36.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793438080874,
@@ -242340,6 +242395,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793673861342,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793553601717,

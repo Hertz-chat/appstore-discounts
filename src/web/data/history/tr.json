@@ -22614,6 +22614,23 @@
     "history": [
       [
         {
+          "timestamp": 1793731488753,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "₺49,99",
+            "DubTechno": "₺99,99",
+            "Varazdin Orchestral Mobile": "₺199,99",
+            "Voices": "₺49,99",
+            "Sliced Beats": "₺49,99",
+            "Amped Guitar & Bass": "₺149,99",
+            "Synth Lead": "₺99,99",
+            "Essential Strings": "₺99,99",
+            "Acoustic Guitars": "₺49,99",
+            "Technocraft": "₺99,99"
+          }
+        },
+        {
           "timestamp": 1793673861342,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -54022,6 +54039,29 @@
       [
         {
           "timestamp": 1791114629972,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "554766778": {
+    "trackId": 554766778,
+    "trackName": "liveBPM - Beat Detector",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
+    },
+    "minPriceInfo": {
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793731488753,
           "price": 199.99,
           "formattedPrice": "₺199,99",
           "inAppPurchases": {}
@@ -116314,7 +116354,7 @@
   },
   "1154832936": {
     "trackId": 1154832936,
-    "trackName": "Call Ranger: Mass Call Blocker",
+    "trackName": "Call Ranger: Phone Blocker",
     "region": "tr",
     "maxPriceInfo": {
       "price": 249.99,
@@ -189568,7 +189608,7 @@
       "+100 boosters ECO-Initiative!": "₺10,00",
       "+444! Triple-Four Booster Pack": "₺99,99",
       "+2026 boosters ECO-Initiative!": "₺229,99",
-      "Full scenarios": "₺99,99"
+      "Full scenarios": "₺249,99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -189582,6 +189622,19 @@
       "Full scenarios": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793731488753,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "+100 boosters ECO-Initiative!": "₺10,00",
+            "Full scenarios": "₺249,99",
+            "+444! Triple-Four Booster Pack": "₺99,99",
+            "+2026 boosters ECO-Initiative!": "₺229,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791397748865,
@@ -209388,6 +209441,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793731488753,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Lisa character": "₺0,00",
+            "Elsa character": "₺49,99",
+            "Founders Pack": "₺49,99",
+            "Manuel character": "₺49,99",
+            "Marco character": "₺49,99",
+            "Gloria skin": "₺49,99",
+            "Yellow menu color": "₺49,99",
+            "Jack character": "₺49,99",
+            "Daniel skin": "₺49,99",
+            "Jorge skin": "₺49,99"
+          }
+        },
         {
           "timestamp": 1793700779769,
           "price": 99.99,
@@ -253183,6 +253253,23 @@
     "history": [
       [
         {
+          "timestamp": 1793731488753,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Airbus A350-1000": "₺199,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Boeing 737-900": "₺99,99",
+            "Boeing 737": "₺49,99",
+            "Boeing 747-400": "₺99,99",
+            "Concorde": "₺99,99"
+          }
+        },
+        {
           "timestamp": 1793673861342,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -292022,9 +292109,9 @@
       "Pad Wind EFX": "₺39,99"
     },
     "minPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99",
-      "PadLab Full App": "₺399,99",
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
+      "PadLab Full App": "₺249,99",
       "PadLab Worship Complete": "₺399,99",
       "Worship Drum Collection": "₺199,99",
       "Coleção Completa de Pads": "₺249,99",
@@ -292034,7 +292121,7 @@
       "Worship Drum Kit 3": "₺49,99",
       "Worship Drum Kit 2": "₺49,99",
       "Worship Drum Kit 1": "₺49,99",
-      "StageLab": "₺299,99",
+      "StageLab": "₺199,99",
       "Pad Mix Pro": "₺99,99",
       "Pad Pulse Pro": "₺99,99",
       "Arp Pro": "₺99,99",
@@ -292046,6 +292133,25 @@
       "Pad Wind EFX": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793731488753,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "StageLab": "₺199,99",
+            "PadLab Full App": "₺249,99",
+            "PadLab Worship Complete": "₺399,99",
+            "Worship Drum Collection": "₺199,99",
+            "Coleção Completa de Pads": "₺249,99",
+            "Worship EFX": "₺49,99",
+            "Worship 808": "₺49,99",
+            "Worship Cinematic": "₺49,99",
+            "Worship Drum Kit 3": "₺49,99",
+            "Worship Drum Kit 2": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793396723963,
@@ -302445,6 +302551,23 @@
     "history": [
       [
         {
+          "timestamp": 1793731488753,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Bundle · Knights of Light": "₺499,99",
+            "Costume · Halloween Set 3": "₺149,99",
+            "Costume · Halloween Set 2": "₺149,99",
+            "Costume · Halloween Set 1": "₺149,99",
+            "Hero · Elowyn Briar": "₺49,99",
+            "Hero · Rosel Ironbloom": "₺49,99",
+            "Hero · Sargul Krach": "₺49,99",
+            "Hero · Fine Kaltenbach": "₺49,99",
+            "Hero · Irena von Strahl": "₺49,99",
+            "Support Tier 1 · Supporter": "₺29,99"
+          }
+        },
+        {
           "timestamp": 1793673861342,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -302636,6 +302759,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793731488753,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Hero Drakkan": "₺399,99",
+            "Spell Aspect of Sol": "₺249,99",
+            "Hero Ashbite": "₺399,99",
+            "Hero Oni": "₺249,99",
+            "Tower Forger": "₺249,99",
+            "Tower Wildcat": "₺249,99",
+            "Spell Zapper": "₺99,99",
+            "Tower Sniper": "₺299,99",
+            "Gems Barrel": "₺499,99",
+            "Tower Alchemist": "₺149,99"
+          }
+        },
         {
           "timestamp": 1793700779769,
           "price": 399.99,
@@ -305576,13 +305716,34 @@
     "region": "tr",
     "maxPriceInfo": {
       "price": 249.99,
-      "formattedPrice": "₺249,99"
+      "formattedPrice": "₺249,99",
+      "Sahara Notebook": "₺99,99",
+      "Highlands Notebook": "₺99,99",
+      "Bordeaux Notebook": "₺99,99",
+      "Atlantic Notebook": "₺99,99"
     },
     "minPriceInfo": {
       "price": 249.99,
-      "formattedPrice": "₺249,99"
+      "formattedPrice": "₺249,99",
+      "Sahara Notebook": "₺99,99",
+      "Highlands Notebook": "₺99,99",
+      "Bordeaux Notebook": "₺99,99",
+      "Atlantic Notebook": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793731488753,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Sahara Notebook": "₺99,99",
+            "Highlands Notebook": "₺99,99",
+            "Bordeaux Notebook": "₺99,99",
+            "Atlantic Notebook": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793178284917,

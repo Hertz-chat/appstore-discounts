@@ -187,6 +187,14 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6759358968": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "PadLab Full App": 1,
+        "StageLab": 1
+      }
     }
   },
   "us": {
@@ -256,6 +264,14 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6759358968": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "PadLab Full App": 1,
+        "StageLab": 1
+      }
     }
   },
   "tr": {
@@ -323,6 +339,14 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6759358968": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {
+        "StageLab": 1,
+        "PadLab Full App": 1
+      }
     }
   },
   "pt": {
@@ -385,6 +409,14 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6759358968": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {
+        "PadLab Full App": 1,
+        "StageLab": 1
+      }
     }
   }
 }

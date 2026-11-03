@@ -54070,6 +54070,29 @@
       ]
     ]
   },
+  "554766778": {
+    "trackId": 554766778,
+    "trackName": "liveBPM - Beat Detector",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793731488753,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "554937499": {
     "trackId": 554937499,
     "trackName": "Earn to Die",
@@ -128400,7 +128423,7 @@
   },
   "1154832936": {
     "trackId": 1154832936,
-    "trackName": "Call Ranger: Mass Call Blocker",
+    "trackName": "Call Ranger: Phone Blocker",
     "region": "us",
     "maxPriceInfo": {
       "price": 4.99,
@@ -209736,7 +209759,7 @@
       "+100 boosters ECO-Initiative!": "$1.00",
       "+2026 boosters ECO-Initiative!": "$4.99",
       "+444! Triple-Four Booster Pack": "$2.29",
-      "Full scenarios": "$1.99"
+      "Full scenarios": "$4.99"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -209750,6 +209773,19 @@
       "Full scenarios": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793731488753,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "+100 boosters ECO-Initiative!": "$1.00",
+            "+2026 boosters ECO-Initiative!": "$4.29",
+            "Full scenarios": "$4.99",
+            "+444! Triple-Four Booster Pack": "$2.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791397748865,
@@ -285729,6 +285765,25 @@
     "history": [
       [
         {
+          "timestamp": 1793731488753,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "2025春さくらスキン": "$0.49",
+            "Halloween Party": "$1.79",
+            "2025春いちごスキン": "$0.49",
+            "Night Chill": "$1.79",
+            "ネオンシティ": "$1.79",
+            "Waterside": "$1.79",
+            "Sunset beach": "$1.19",
+            "Fireworks display": "$1.79",
+            "Christmas night": "$1.79",
+            "2025春ネモフィラスキン": "$0.49"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793615910490,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -351627,7 +351682,7 @@
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "$2.99",
-      "PadLab Full App": "$7.99",
+      "PadLab Full App": "$4.59",
       "PadLab Worship Complete": "$6.99",
       "Worship Drum Collection": "$3.99",
       "Coleção Completa de Pads": "$4.99",
@@ -351641,10 +351696,29 @@
       "Arp Pro": "$1.99",
       "Pad Pulse Pro": "$1.99",
       "Sequencer Pro": "$2.99",
-      "StageLab": "$5.99",
+      "StageLab": "$3.69",
       "Worship Pad": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793731488753,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "PadLab Full App": "$4.59",
+            "Pad Mix Pro": "$1.99",
+            "StageLab": "$3.69",
+            "Pad Pulse Pro": "$1.99",
+            "Sequencer Pro": "$2.99",
+            "Arp Pro": "$1.99",
+            "Worship Pad": "$0.99",
+            "PadLab Worship Complete": "$6.99",
+            "Worship Drum Collection": "$3.99",
+            "Coleção Completa de Pads": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792569835923,
@@ -358117,7 +358191,9 @@
       "Game Boy Advance": "$0.99",
       "Unlock All (Upgrade 4)": "$0.99",
       "Unlock All (Upgrade 3)": "$1.99",
-      "Unlock All": "$4.99"
+      "Unlock All": "$4.99",
+      "Unlock All (Upgrade 1)": "$3.99",
+      "Unlock All (Upgrade 2)": "$2.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -358132,9 +358208,30 @@
       "Game Boy Advance": "$0.99",
       "Unlock All (Upgrade 4)": "$0.99",
       "Unlock All (Upgrade 3)": "$1.99",
-      "Unlock All": "$4.99"
+      "Unlock All": "$4.99",
+      "Unlock All (Upgrade 1)": "$3.99",
+      "Unlock All (Upgrade 2)": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793731488753,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Unlock All": "$4.99",
+            "Unlock All (Upgrade 1)": "$3.99",
+            "Unlock All (Upgrade 2)": "$2.99",
+            "Unlock All (Upgrade 3)": "$1.99",
+            "Unlock All (Upgrade 4)": "$0.99",
+            "Game Boy Advance": "$0.99",
+            "SNES": "$0.99",
+            "Pokémon Mini": "$0.99",
+            "Atari 2600": "$0.99",
+            "Mega Drive / Genesis": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793243454661,
@@ -366277,6 +366374,25 @@
     "history": [
       [
         {
+          "timestamp": 1793731488753,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Bundle · Knights of Light": "$9.99",
+            "Costume · Halloween Set 3": "$2.99",
+            "Costume · Halloween Set 2": "$2.99",
+            "Costume · Halloween Set 1": "$2.99",
+            "Hero · Elowyn Briar": "$0.99",
+            "Hero · Rosel Ironbloom": "$0.99",
+            "Hero · Sargul Krach": "$0.99",
+            "Hero · Fine Kaltenbach": "$0.99",
+            "Hero · Irena von Strahl": "$0.99",
+            "Support Tier 1 · Supporter": "$0.49"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793673861342,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -368829,13 +368945,34 @@
     "region": "us",
     "maxPriceInfo": {
       "price": 4.99,
-      "formattedPrice": "$4.99"
+      "formattedPrice": "$4.99",
+      "Sahara Notebook": "$1.99",
+      "Highlands Notebook": "$1.99",
+      "Bordeaux Notebook": "$1.99",
+      "Atlantic Notebook": "$1.99"
     },
     "minPriceInfo": {
       "price": 4.99,
-      "formattedPrice": "$4.99"
+      "formattedPrice": "$4.99",
+      "Sahara Notebook": "$1.99",
+      "Highlands Notebook": "$1.99",
+      "Bordeaux Notebook": "$1.99",
+      "Atlantic Notebook": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793731488753,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Sahara Notebook": "$1.99",
+            "Highlands Notebook": "$1.99",
+            "Bordeaux Notebook": "$1.99",
+            "Atlantic Notebook": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793178284917,

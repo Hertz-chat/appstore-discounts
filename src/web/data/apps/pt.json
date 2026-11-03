@@ -302,7 +302,7 @@
   {
     "trackId": 307727765,
     "region": "pt",
-    "timestamp": 1793700779769,
+    "timestamp": 1793731488753,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "1,99 €",
@@ -3314,6 +3314,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id553145544",
     "trackName": "FlashFace Full",
     "firstRecordedAt": 1791114629972
+  },
+  {
+    "trackId": 554766778,
+    "region": "pt",
+    "timestamp": 1793731488753,
+    "discounts": [],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id554766778",
+    "trackName": "liveBPM - Beat Detector",
+    "firstRecordedAt": 1793731488753
   },
   {
     "trackId": 554937499,
@@ -9744,7 +9756,7 @@
   {
     "trackId": 1290687550,
     "region": "pt",
-    "timestamp": 1793700779769,
+    "timestamp": 1793731488753,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "1,99 €",
@@ -12989,7 +13001,7 @@
   {
     "trackId": 1504760106,
     "region": "pt",
-    "timestamp": 1791397748865,
+    "timestamp": 1793731488753,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "0,99 €",
@@ -23072,10 +23084,10 @@
   {
     "trackId": 6759358968,
     "region": "pt",
-    "timestamp": 1793568365537,
+    "timestamp": 1793731488753,
     "discounts": [],
-    "price": 2.99,
-    "formattedPrice": "2,99 €",
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6759358968",
     "trackName": "PadLab - Live Pads",
@@ -24706,7 +24718,7 @@
   {
     "trackId": 6801980968,
     "region": "pt",
-    "timestamp": 1793673861342,
+    "timestamp": 1793731488753,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "0,99 €",
@@ -25066,7 +25078,7 @@
   {
     "trackId": 6822194774,
     "region": "pt",
-    "timestamp": 1793178284917,
+    "timestamp": 1793731488753,
     "discounts": [],
     "price": 5.99,
     "formattedPrice": "5,99 €",

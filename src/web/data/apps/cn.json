@@ -2500,6 +2500,18 @@
     "firstRecordedAt": 1791114629972
   },
   {
+    "trackId": 554766778,
+    "region": "cn",
+    "timestamp": 1793731488753,
+    "discounts": [],
+    "price": 28,
+    "formattedPrice": "¥28.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id554766778",
+    "trackName": "liveBPM - Beat Detector",
+    "firstRecordedAt": 1793731488753
+  },
+  {
     "trackId": 555347055,
     "region": "cn",
     "timestamp": 1763085738023,
@@ -9996,10 +10008,10 @@
   {
     "trackId": 1587301632,
     "region": "cn",
-    "timestamp": 1793501604822,
+    "timestamp": 1793731488753,
     "discounts": [],
-    "price": 1,
-    "formattedPrice": "¥1.00",
+    "price": 28,
+    "formattedPrice": "¥28.00",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id1587301632",
     "trackName": "全能记(录音,备忘,流水)",
@@ -16395,7 +16407,7 @@
   {
     "trackId": 6822194774,
     "region": "cn",
-    "timestamp": 1793178284917,
+    "timestamp": 1793731488753,
     "discounts": [],
     "price": 38,
     "formattedPrice": "¥38.00",

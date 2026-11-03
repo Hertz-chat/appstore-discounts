@@ -713,6 +713,23 @@
     "history": [
       [
         {
+          "timestamp": 1793731488753,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "10,000 coins": "1,99 €",
+            "1000 coins": "0,99 €",
+            "1000 candies": "0,99 €",
+            "30,000 coins": "2,99 €",
+            "100,000 coins": "3,99 €",
+            "15000 eggs": "2,99 €",
+            "10000 candies": "2,99 €",
+            "Soccer coins": "0,99 €",
+            "300,000 gold": "2,99 €",
+            "100,000 gold": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1793700779769,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -27958,6 +27975,27 @@
       [
         {
           "timestamp": 1791114629972,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "554766778": {
+    "name": "liveBPM - Beat Detector",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793731488753,
           "price": 3.99,
           "formattedPrice": "3,99 €",
           "inAppPurchases": {}
@@ -65459,6 +65497,23 @@
     "history": [
       [
         {
+          "timestamp": 1793731488753,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Miku": "9,99 €",
+            "CAPSO": "9,99 €",
+            "9 Characters": "39,99 €",
+            "ConneR": "9,99 €",
+            "Aroma": "9,99 €",
+            "Ilka": "9,99 €",
+            "Xenon": "9,99 €",
+            "Amiya": "9,99 €",
+            "Alice": "9,99 €",
+            "Cherry": "9,99 €"
+          }
+        },
+        {
           "timestamp": 1793700779769,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -88309,7 +88364,7 @@
       "+100 boosters ECO-Initiative!": "1,00 €",
       "+2026 boosters ECO-Initiative!": "5,99 €",
       "+444! Triple-Four Booster Pack": "2,99 €",
-      "Full scenarios": "1,99 €"
+      "Full scenarios": "5,99 €"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -88320,6 +88375,19 @@
       "Full scenarios": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793731488753,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "+100 boosters ECO-Initiative!": "1,00 €",
+            "+2026 boosters ECO-Initiative!": "4,99 €",
+            "Full scenarios": "5,99 €",
+            "+444! Triple-Four Booster Pack": "2,00 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791397748865,
@@ -140935,9 +141003,9 @@
       "Pad Wind EFX": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €",
-      "PadLab Full App": "8,99 €",
+      "price": 1.99,
+      "formattedPrice": "1,99 €",
+      "PadLab Full App": "4,99 €",
       "PadLab Worship Complete": "7,99 €",
       "Worship Drum Collection": "3,99 €",
       "Coleção Completa de Pads": "5,99 €",
@@ -140948,7 +141016,7 @@
       "Worship Drum Kit 2": "0,99 €",
       "Worship Drum Kit 1": "0,99 €",
       "Pad Mix Pro": "1,99 €",
-      "StageLab": "6,99 €",
+      "StageLab": "3,99 €",
       "Sequencer Pro": "2,99 €",
       "Arp Pro": "1,99 €",
       "Pad Pulse Pro": "1,99 €",
@@ -140959,6 +141027,25 @@
       "Pad Wind EFX": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793731488753,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "PadLab Full App": "4,99 €",
+            "StageLab": "3,99 €",
+            "Arp Pro": "1,99 €",
+            "Pad Mix Pro": "1,99 €",
+            "Sequencer Pro": "2,99 €",
+            "PadLab Worship Complete": "7,99 €",
+            "Worship Drum Collection": "3,99 €",
+            "Coleção Completa de Pads": "5,99 €",
+            "Worship EFX": "0,99 €",
+            "Worship 808": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793568365537,
@@ -150937,6 +151024,23 @@
     "history": [
       [
         {
+          "timestamp": 1793731488753,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Pacote · Cavaleiros da Luz": "9,99 €",
+            "Fantasia · Pacote Halloween 3": "2,99 €",
+            "Fantasia · Pacote Halloween 2": "2,99 €",
+            "Fantasia · Pacote Halloween 1": "2,99 €",
+            "Herói · Elowyn Briar": "0,99 €",
+            "Hero · Rosel Ironbloom": "0,99 €",
+            "Hero · Sargul Krach": "0,99 €",
+            "Hero · Fine Kaltenbach": "0,99 €",
+            "Hero · Irena von Strahl": "0,99 €",
+            "Support Tier 1 · Supporter": "0,49 €"
+          }
+        },
+        {
           "timestamp": 1793673861342,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -152923,13 +153027,34 @@
     "name": "TypeDraw",
     "maxPriceInfo": {
       "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "formattedPrice": "5,99 €",
+      "Sahara Notebook": "1,99 €",
+      "Highlands Notebook": "1,99 €",
+      "Bordeaux Notebook": "1,99 €",
+      "Atlantic Notebook": "1,99 €"
     },
     "minPriceInfo": {
       "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "formattedPrice": "5,99 €",
+      "Sahara Notebook": "1,99 €",
+      "Highlands Notebook": "1,99 €",
+      "Bordeaux Notebook": "1,99 €",
+      "Atlantic Notebook": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793731488753,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Sahara Notebook": "1,99 €",
+            "Highlands Notebook": "1,99 €",
+            "Bordeaux Notebook": "1,99 €",
+            "Atlantic Notebook": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793178284917,

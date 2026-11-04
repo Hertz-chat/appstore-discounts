@@ -1,5 +1,165 @@
 [
   {
+    "trackId": 998834675,
+    "region": "mo",
+    "timestamp": 1793818693473,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.49",
+        "to": "USD 0.79",
+        "range": "[USD 0.79 ~ USD 2.49]"
+      }
+    ],
+    "price": 0.79,
+    "formattedPrice": "USD 0.79",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id998834675",
+    "trackName": "Clouds & Sheep 2 Premium",
+    "firstRecordedAt": 1745442137026
+  },
+  {
+    "trackId": 1424977227,
+    "region": "mo",
+    "timestamp": 1793818693473,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 8.99",
+        "to": "USD 2.49",
+        "range": "[USD 0.90 ~ USD 8.99]"
+      }
+    ],
+    "price": 2.49,
+    "formattedPrice": "USD 2.49",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1424977227",
+    "trackName": "Titan Quest HD",
+    "firstRecordedAt": 1755861015760
+  },
+  {
+    "trackId": 1453820315,
+    "region": "mo",
+    "timestamp": 1793818693473,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 7.49",
+        "to": "USD 1.59",
+        "range": "[USD 0.90 ~ USD 7.49]"
+      }
+    ],
+    "price": 1.59,
+    "formattedPrice": "USD 1.59",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1453820315",
+    "trackName": "This Is the Police 2",
+    "firstRecordedAt": 1745470938782
+  },
+  {
+    "trackId": 1523633394,
+    "region": "mo",
+    "timestamp": 1793818693473,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 8.99",
+        "to": "USD 1.59",
+        "range": "[USD 0.39 ~ USD 8.99]"
+      }
+    ],
+    "price": 1.59,
+    "formattedPrice": "USD 1.59",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1523633394",
+    "trackName": "SpongeBob SquarePants",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1537362903,
+    "region": "mo",
+    "timestamp": 1793818693473,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 3.99",
+        "to": "USD 1.59",
+        "range": "[USD 0.90 ~ USD 3.99]"
+      }
+    ],
+    "price": 1.59,
+    "formattedPrice": "USD 1.59",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1537362903",
+    "trackName": "Neighbours back From Hell",
+    "firstRecordedAt": 1745539765557
+  },
+  {
+    "trackId": 1601446687,
+    "region": "mo",
+    "timestamp": 1793818693473,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 7.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.99 ~ USD 7.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1601446687",
+    "trackName": "Streets of Rage 4",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 6752503669,
+    "region": "mo",
+    "timestamp": 1793818693473,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 3.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 5.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6752503669",
+    "trackName": "Solar Arc: 黃金時刻 日出日落",
+    "firstRecordedAt": 1758269785305
+  },
+  {
+    "trackId": 6444660338,
+    "region": "mo",
+    "timestamp": 1793818693473,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 6.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.99 ~ USD 6.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6444660338",
+    "trackName": "Legend of Keepers",
+    "firstRecordedAt": 1774976856780
+  },
+  {
     "trackId": 6759358968,
     "region": "mo",
     "timestamp": 1793753850884,
@@ -96,7 +256,7 @@
         "name": "Price",
         "from": "USD 2.99",
         "to": "USD 1.99",
-        "range": "[USD 1.99 ~ USD 2.99]"
+        "range": "[USD 1.99 ~ USD 3.99]"
       }
     ],
     "price": 1.99,
@@ -4974,7 +5134,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 1.99",
-        "range": "[USD 1.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 7.99]"
       }
     ],
     "price": 1.99,
@@ -11993,7 +12153,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 1.99",
-        "range": "[USD 1.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 7.99]"
       }
     ],
     "price": 1.99,
@@ -16928,7 +17088,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 1.99",
-        "range": "[USD 1.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 7.99]"
       }
     ],
     "price": 1.99,
@@ -22377,7 +22537,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 1.99",
-        "range": "[USD 1.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 7.99]"
       }
     ],
     "price": 1.99,
@@ -26390,7 +26550,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 1.99",
-        "range": "[USD 1.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 7.99]"
       }
     ],
     "price": 1.99,
@@ -32657,7 +32817,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 1.99",
-        "range": "[USD 1.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 7.99]"
       }
     ],
     "price": 1.99,
@@ -35829,7 +35989,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 1.99",
-        "range": "[USD 1.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 7.99]"
       }
     ],
     "price": 1.99,
@@ -38842,7 +39002,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 1.99",
-        "range": "[USD 1.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 7.99]"
       }
     ],
     "price": 1.99,
@@ -41861,7 +42021,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 1.99",
-        "range": "[USD 1.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 7.99]"
       }
     ],
     "price": 1.99,
@@ -45364,7 +45524,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 1.99",
-        "range": "[USD 1.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 7.99]"
       }
     ],
     "price": 1.99,
@@ -47605,7 +47765,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 1.99",
-        "range": "[USD 1.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 7.99]"
       }
     ],
     "price": 1.99,
@@ -49283,7 +49443,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 1.99",
-        "range": "[USD 1.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 7.99]"
       }
     ],
     "price": 1.99,
@@ -51697,7 +51857,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 4.99",
-        "range": "[USD 1.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 7.99]"
       }
     ],
     "price": 4.99,
@@ -55933,7 +56093,7 @@
         "name": "Price",
         "from": "USD 7.99",
         "to": "USD 4.99",
-        "range": "[USD 1.99 ~ USD 7.99]"
+        "range": "[USD 0.99 ~ USD 7.99]"
       }
     ],
     "price": 4.99,

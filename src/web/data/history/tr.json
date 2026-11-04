@@ -17628,6 +17628,29 @@
       ]
     ]
   },
+  "408625926": {
+    "trackId": 408625926,
+    "trackName": "GPS 2 IP",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
+    },
+    "minPriceInfo": {
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793818693473,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "408697793": {
     "trackId": 408697793,
     "trackName": "King of Opera",
@@ -22612,6 +22635,25 @@
       "FL Cloud Mobile": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793818693473,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "₺49,99",
+            "Varazdin Orchestral Mobile": "₺199,99",
+            "Voices": "₺49,99",
+            "Sliced Beats": "₺49,99",
+            "Amped Guitar & Bass": "₺149,99",
+            "Synth Lead": "₺99,99",
+            "DubTechno": "₺99,99",
+            "FL Cloud Mobile": "₺799,99",
+            "Essential Strings": "₺99,99",
+            "Acoustic Guitars": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793731488753,
@@ -162224,6 +162266,23 @@
     "history": [
       [
         {
+          "timestamp": 1793818693473,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "VIP连续包季": "₺53,99",
+            "每日外刊": "₺57,99",
+            "大学英语_外刊精读 | 2025年度TOP100精选": "₺1.499,99",
+            "VIP连续包月": "₺199,99",
+            "肖维青英文原著精读课-纳尼亚传奇篇": "₺1.499,99",
+            "大学英语_外刊精读 | 2021年度TOP100精选": "₺1.499,99",
+            "大学英语_外刊精读 | 2022年度TOP100精选": "₺1.499,99",
+            "大学英语_外刊精读 | 2024年度TOP100精选": "₺1.499,99",
+            "林小鹿英语精读（1-7季合集升级版）": "₺3.999,99",
+            "大学英语_外刊精读 | 2023年度TOP100精选": "₺1.499,99"
+          }
+        },
+        {
           "timestamp": 1793786660480,
           "price": 4.99,
           "formattedPrice": "₺4,99",
@@ -253332,6 +253391,23 @@
     "history": [
       [
         {
+          "timestamp": 1793818693473,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Airbus A350-1000": "₺199,99",
+            "Concorde": "₺99,99",
+            "Boeing 747-400": "₺99,99",
+            "Boeing 787-10": "₺99,99",
+            "Boeing 737-900": "₺99,99",
+            "The Aircraft Bundle": "₺1.299,99"
+          }
+        },
+        {
           "timestamp": 1793786660480,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -282950,6 +283026,14 @@
     "history": [
       [
         {
+          "timestamp": 1793818693473,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793479481135,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -297435,7 +297519,7 @@
   },
   "6762850272": {
     "trackId": 6762850272,
-    "trackName": "Büfeci",
+    "trackName": "Snack Stand",
     "region": "tr",
     "maxPriceInfo": {
       "price": 9.99,
@@ -306225,6 +306309,29 @@
             "擴充包2・吳統一與真結局": "₺199,99",
             "擴充包1・蜀統一": "₺199,99"
           }
+        }
+      ]
+    ]
+  },
+  "6827745244": {
+    "trackId": 6827745244,
+    "trackName": "Vize: Yaşam Simülasyonu",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "₺4,99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "₺4,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793818693473,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {}
         }
       ]
     ]

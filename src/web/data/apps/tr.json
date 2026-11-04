@@ -1918,6 +1918,18 @@
     "firstRecordedAt": 1768552734989
   },
   {
+    "trackId": 408625926,
+    "region": "tr",
+    "timestamp": 1793818693473,
+    "discounts": [],
+    "price": 399.99,
+    "formattedPrice": "₺399,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id408625926",
+    "trackName": "GPS 2 IP",
+    "firstRecordedAt": 1793818693473
+  },
+  {
     "trackId": 408697793,
     "region": "tr",
     "timestamp": 1763345024209,
@@ -2197,7 +2209,7 @@
   {
     "trackId": 432850619,
     "region": "tr",
-    "timestamp": 1793731488753,
+    "timestamp": 1793818693473,
     "discounts": [],
     "price": 399.99,
     "formattedPrice": "₺399,99",
@@ -13038,7 +13050,7 @@
   {
     "trackId": 1464850921,
     "region": "tr",
-    "timestamp": 1793786660480,
+    "timestamp": 1793818693473,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "₺4,99",
@@ -19647,7 +19659,7 @@
   {
     "trackId": 6473001577,
     "region": "tr",
-    "timestamp": 1793786660480,
+    "timestamp": 1793818693473,
     "discounts": [],
     "price": 199.99,
     "formattedPrice": "₺199,99",
@@ -23454,10 +23466,10 @@
   {
     "trackId": 6752503669,
     "region": "tr",
-    "timestamp": 1793479481135,
+    "timestamp": 1793818693473,
     "discounts": [],
-    "price": 199.99,
-    "formattedPrice": "₺199,99",
+    "price": 0,
+    "formattedPrice": "Free",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6752503669",
     "trackName": "Solar Arc: Golden Hour Tracker",
@@ -25380,7 +25392,7 @@
     "formattedPrice": "₺9,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6762850272",
-    "trackName": "Büfeci",
+    "trackName": "Snack Stand",
     "firstRecordedAt": 1779542683429
   },
   {
@@ -26884,5 +26896,17 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6824686276",
     "trackName": "Wider - Fullscreen Browsing",
     "firstRecordedAt": 1793438080874
+  },
+  {
+    "trackId": 6827745244,
+    "region": "tr",
+    "timestamp": 1793818693473,
+    "discounts": [],
+    "price": 4.99,
+    "formattedPrice": "₺4,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6827745244",
+    "trackName": "Vize: Yaşam Simülasyonu",
+    "firstRecordedAt": 1793818693473
   }
 ]

@@ -19106,6 +19106,29 @@
       ]
     ]
   },
+  "408625926": {
+    "trackId": 408625926,
+    "trackName": "GPS 2 IP",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 58,
+      "formattedPrice": "HK$ 58.00"
+    },
+    "minPriceInfo": {
+      "price": 58,
+      "formattedPrice": "HK$ 58.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793818693473,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "408697793": {
     "trackId": 408697793,
     "trackName": "King of Opera",
@@ -89400,6 +89423,20 @@
     "history": [
       [
         {
+          "timestamp": 1793818693473,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "50 顆寶石": "HK$ 32.00",
+            "1400 顆寶石": "HK$ 588.00",
+            "650 顆寶石": "HK$ 328.00",
+            "250 顆寶石": "HK$ 128.00",
+            "120 顆寶石": "HK$ 58.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790711274462,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -154015,6 +154052,14 @@
     "history": [
       [
         {
+          "timestamp": 1793818693473,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792591960143,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -154623,6 +154668,19 @@
       "Eternal Embers DLC": "HK$ 36.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793818693473,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Immortal Throne DLC": "HK$ 38.00",
+            "Ragnarök DLC": "HK$ 38.00",
+            "Atlantis DLC": "HK$ 38.00",
+            "Eternal Embers DLC": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790711274462,
@@ -156061,6 +156119,14 @@
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793818693473,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793208660555,
@@ -172929,6 +172995,14 @@
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793818693473,
+          "price": 15,
+          "formattedPrice": "HK$ 15.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791316756993,
@@ -194659,6 +194733,14 @@
     "history": [
       [
         {
+          "timestamp": 1793818693473,
+          "price": 15,
+          "formattedPrice": "HK$ 15.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791316756993,
           "price": 78,
           "formattedPrice": "HK$ 78.00",
@@ -198585,6 +198667,14 @@
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793818693473,
+          "price": 15,
+          "formattedPrice": "HK$ 15.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790711274462,
@@ -219981,11 +220071,21 @@
       "Mr. X Nightmare DLC": "HK$ 22.00"
     },
     "minPriceInfo": {
-      "price": 18,
-      "formattedPrice": "HK$ 18.00",
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
       "Mr. X Nightmare DLC": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793818693473,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790094096914,
@@ -269275,6 +269375,25 @@
     "history": [
       [
         {
+          "timestamp": 1793818693473,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 38.00",
+            "The Aircraft Bundle": "HK$ 188.00",
+            "Global scenery - 12 months": "HK$ 148.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Global scenery - 3 months": "HK$ 58.00",
+            "Airbus A380": "HK$ 18.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "Boeing 747-400": "HK$ 18.00",
+            "UH-60": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793700779769,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -293213,6 +293332,14 @@
     "history": [
       [
         {
+          "timestamp": 1793818693473,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793479481135,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -303088,6 +303215,14 @@
     "history": [
       [
         {
+          "timestamp": 1793818693473,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790094096914,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -306444,6 +306579,19 @@
       "皮膚券 x3": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793818693473,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "經驗祝福": "HK$ 18.00",
+            "皮膚券 x1": "HK$ 2.00",
+            "皮膚券 x3": "HK$ 8.00",
+            "皮膚券 x8": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792591960143,
@@ -315267,14 +315415,22 @@
     "trackName": "Duopaper: 摺疊螢幕全景桌布，展開發現畫裡隱藏的驚喜",
     "region": "hk",
     "maxPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
     },
     "minPriceInfo": {
       "price": 18,
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793818693473,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793653056000,
@@ -315641,6 +315797,29 @@
             "擴充包2・吳統一與真結局": "HK$ 22.00",
             "擴充包1・蜀統一": "HK$ 22.00"
           }
+        }
+      ]
+    ]
+  },
+  "6827745244": {
+    "trackId": 6827745244,
+    "trackName": "Vize: Yaşam Simülasyonu",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793818693473,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
         }
       ]
     ]

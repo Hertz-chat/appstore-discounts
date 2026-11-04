@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2026-11-04T02:38:24.542Z</updated>
+    <updated>2026-11-04T20:26:03.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-04T02:38:24.543Z</updated>
+        <updated>2026-11-04T20:26:03.196Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptWed, 04 Nov 2026 02:38:24 GMT</id>
+        <id>rankingptWed, 04 Nov 2026 20:26:03 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-04T02:38:24.543Z</updated>
+        <updated>2026-11-04T20:26:03.196Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -51,13 +51,13 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>2401</b>
+        <b>2403</b>
       </td>
       <td>
         <b>204</b>
       </td>
       <td>
-        <b>2197</b>
+        <b>2199</b>
       </td>
       <td>
         <b>108</b>
@@ -68,13 +68,13 @@ feedId:206907475259680768+userId:73658201673997312
         <b>PT</b>
       </td>
       <td>
-        <b>2089</b>
+        <b>2091</b>
       </td>
       <td>
         <b>147</b>
       </td>
       <td>
-        <b>1942</b>
+        <b>1944</b>
       </td>
       <td>
         <b>34</b>
@@ -344,6 +344,48 @@ feedId:206907475259680768+userId:73658201673997312
                 <i>StageLab</i>：<b>1</b>
               </li>
             </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>15</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/6740698426?lang=en">Empires Game</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>Compras integradas</span><ol>
+              <li>
+                <i>New Clan</i>：<b>1</b>
+              </li><li>
+                <i>New Hero</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>16</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/6752503669?lang=en">Solar Arc: Hora Dourada</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
           </li>
         </ul>
       </td>
@@ -666,6 +708,78 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Empires Game]]></title>
+        <id>Empires Game-pt-1793818693473</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/6740698426?lang=en"/>
+        <updated>2026-11-04T18:58:13.473Z</updated>
+        <summary type="html"><![CDATA[New Clan: 22,99 € → 5,99 €<br/>New Hero: 9,99 € → 2,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6740698426?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/fc/d6/43fcd620-ee36-f1cc-55c9-05142874168e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>Compras integradas</h3><ul>
+  <li>
+    <strong>New Clan：</strong><span>22,99 €</span> → <b>
+  <strong>5,99 €</strong>
+</b><span>[5,99 € ~ 22,99 €]</span>
+  </li><li>
+    <strong>New Hero：</strong><span>9,99 €</span> → <b>
+  <strong>2,99 €</strong>
+</b><span>[2,99 € ~ 9,99 €]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>2,99 €</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    Privilege：<b>0,99 €</b>
+  </li><li>
+    New Clan：<b>5,99 €</b>
+  </li><li>
+    New Hero：<b>2,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  This is a single-session, save-file turn-based strategy game inspired by the gameplay mechanics of Heroes of Might and Magic, featuring fast-paced auto-chess mode combat.
+
+The game is set in the Age of Empires universe and features multiple civilizations, each reflecting the unique characteristics of historical nations such as French, Chinese, Ancient Roman, and others。 The game adopts  Q-style pixel art aesthetic, blending cute character proportions with retro-inspired visual presentation.
+
+Within each session, players must strategically develop their homeland, train heroes, build armies, explore dynamic maps, and employ tactical combinations to outmaneuver opponents and achieve final victory
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/31/0a/9f310a8c-86e5-773b-0967-e3340502f45b/IMG_9684.PNG/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/93/0f/ff930f24-1cde-c61e-8f3b-dd3db74b8d7e/IMG_9689.PNG/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/8f/7f/998f7fb6-dbaf-fd1f-6252-6f73c1cc06a9/IMG_9687.PNG/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/03/de/6103de34-0c41-2fe2-8431-5e92b5fa7b6b/IMG_9699.PNG/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/d9/18/f4d9185d-66b3-f20b-1e8a-fa1598aeaea3/IMG_9692.PNG/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/7a/db/177adbb2-f6b6-37d1-8e9f-1f046bc6828e/IMG_9695.PNG/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/ca/ac/63caacf1-3fff-b4fe-af59-1300aff8fa60/IMG_9690.PNG/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/9b/1e/259b1efb-db07-1859-4b1c-ac5eed4b68b9/IMG_9691.PNG/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/83/b1/c783b11b-d7db-6a32-9324-edd126e54808/Screenshot_20260624-155536.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/dc/dc/9fdcdc4e-b918-6408-b71e-128932d79dc5/Screenshot_20260624-160142.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/8b/91/908b91b5-57d3-c01d-2838-eb62f92dfd27/Screenshot_20260624-155754.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/16/63/f51663d2-889a-30ca-8621-74a121dfd9a0/Screenshot_20260624-155704.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/14/52/1314524f-2840-435f-54a7-5de8fd127905/Screenshot_20260624-160533.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/9d/f8/ad9df88a-9587-37db-ef0a-4e7ebd369b7e/Screenshot_20260624-160409.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/54/b2/6f54b2fd-5cf5-2f60-257c-b179a133d703/Screenshot_20260624-160150.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/a0/7c/dda07c42-3983-8f69-f6ed-5ad94707fe36/Screenshot_20260624-160339.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/77/a5/e177a5b3-1615-a7da-3edb-62778a142a17/Screenshot_20260624-155639.png/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solar Arc: Hora Dourada]]></title>
+        <id>Solar Arc: Hora Dourada-pt-1793818693473</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/6752503669?lang=en"/>
+        <updated>2026-11-04T18:58:13.473Z</updated>
+        <summary type="html"><![CDATA[Price: 3,99 € → Gratuito]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6752503669?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/3f/cc/2a3fcc06-b3b0-5a64-a5dc-9f18a17df3fb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>3,99 €</span> → <b>
+  <strong>Gratuito</strong>
+</b><span>[Gratuito ~ 6,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Gratuito</b>
+</p><h2>Application Description</h2><p>
+  A hora dourada acontece todos os dias. Quase todo mundo perde. O Solar Arc garante que você não perca.
+
+O Solar Arc acompanha o sol e a lua como se você olhasse pela janela. O céu na tela muda com a luz real: quente quando a luz é quente, escuro quando escurece.
+
+A LINHA EM DEGRADÊ
+Seu dia inteiro em uma linha. Âmbar ao amanhecer, azul ao meio-dia, laranja ao pôr do sol, azul-marinho à noite. A hora dourada brilha e a hora azul esfria. Basta olhar a cor para saber em que momento do dia você está.
+
+O ARCO
+O sol e a lua cruzam seu céu em tempo real. Arraste o dedo pelo arco e o céu, os horários e os dados se movem com você.
+
+A LUA
+Fase, iluminação, nascer e pôr da lua.
+
+TUDO INCLUÍDO
+Os sete widgets, a previsão de 52 semanas, lugares salvos ilimitados, os cinco modos e alertas de hora dourada, nascer e pôr do sol. Um único pagamento. Sem assinatura. Sem anúncios. Sem compras no app.
+
+Baseado nos algoritmos solares da NOAA e lunares de Meeus. Sem internet. Sem rastreamento. Sem conta.
+
+Dúvidas? hello@spruzzolabs.com
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/02/7b/d9027b6f-8ce2-0f25-1755-446e42c97ce8/01-golden-hour.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/c3/ca/22c3ca88-4490-119e-bef7-79ae2a0a012d/02-widgets.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/cb/33/b5cb33ab-7996-5408-0cb0-1199b09cc305/03-arc.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/4a/5d/cc4a5ddb-0772-0c24-e193-fba2d4ab9165/04-scrub.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/ab/c3/9fabc3a2-dd21-4282-0dd0-bc48681bfc53/05-moon.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/82/fc/6782fc03-07e0-bb6c-9ddc-a8bb66ee8afe/06-modes.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/a8/c7/c0a8c70e-54d5-05be-6787-bfef503f45a6/07-forecast.png/320x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Minecraft]]></title>
@@ -1119,27 +1233,5 @@ FEATURES
 • Cross-platform cloud saving allows you to pick up where you left off with the desktop version of the game or simply another mobile device.
 • No ads, no IAPs, no timers, no gimmicks! You don't even need to be connected to the internet to play.
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/75/c4/6c75c472-ad15-f052-aead-296bd769ffb8/f959c28f-ae4a-4f9f-a5ef-05d70aaccc2a_1262532_SiralimUltimateiOSAndroidSS_1242x2208_122121.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/cd/71/89cd714a-6567-ed77-2d39-6634d39546fe/95143585-9daf-45a1-ab59-e62b98d302d2_1262532_SiralimUltimateiOSAndroidSS_FIGHT_1242x2208_122921.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/e6/00/bfe6000d-62a8-b275-c2e8-03457334ca30/60ac4771-ed47-4d85-a570-39e7c9c2aef7_1262532_SiralimUltimateiOSAndroidSS_fuse_1242x2208_010322.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/d5/f1/29d5f1c2-1106-940b-ce57-1e037e52a333/eeb02b7d-be34-4d92-a6ae-c52192bba941_1262532_SiralimUltimateiOSAndroidSS_endlessadventures_1242x2208_122821.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/fe/61/10fe619f-16d2-5325-2f74-f4271c05d5fe/1604fc0b-1603-4066-9841-15eeb22027da_1262532_SiralimUltimateiOSAndroidSS_CRAFTING_1242x2208_122221.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/87/00/0e8700be-eec9-efbe-1729-8ab0b3de237b/bb1484a0-6a92-4aa7-83b2-a876e8921af9_1262532_SiralimUltimateiOSAndroidSS_customize_1242x2208_122721.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/05/22/630522e1-d8ad-9392-39a4-575dbcee1435/6a0ece82-37a5-4980-b1a4-f08c1968509a_1262532_SiralimUltimateiOSAndroidSS_END-GAMECONTENT_1242x2208_010422.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/26/7d/bf267d74-dd7a-6101-8379-e8790bee3b1c/ios4.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/53/50/cd535088-37c1-0ae4-b03c-db8ff005cb2c/ios3.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/91/77/e39177bc-bec2-4105-37cf-baaed50d4524/ios1.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/bd/99/16bd9944-4e60-0b1a-3b69-6d5a6a7e6974/ios5.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/d8/59/abd8590a-9e9d-dc25-923e-9a5c006aa737/ios2.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wider - Fullscreen Browsing]]></title>
-        <id>Wider - Fullscreen Browsing-pt-1793553601717</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/6824686276?lang=en"/>
-        <updated>2026-11-01T17:20:01.717Z</updated>
-        <summary type="html"><![CDATA[Price: 2,99 € → Gratuito]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6824686276?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/90/c9/cb90c9e5-e22b-7529-166d-81c9853a599a/AppIcon-0-0-1x_U007ephone-0-0-0-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>2,99 €</span> → <b>
-  <strong>Gratuito</strong>
-</b><span>[Gratuito ~ 2,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Gratuito</b>
-</p><h2>Application Description</h2><p>
-  If you want to use the full width of your iPhone Duo's external screen in Safari, use Wider. It's a simple extension that lets you quickly toggle websites into full width mode. 
-
-Use the Wider toggle button in the right navbar to quickly toggle between normal an Wider mode.
-
-Wider doesn't work on every website. If a website doesn't work as expected, you can report it through the app and I'll try to improve compatibility.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/2f/cf/972fcf27-e6cc-60f9-ce21-7ebebdbc59ab/Frame_14.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/00/02/4300026c-f626-76de-2b65-1f5a393dda41/Frame_15.png/320x480bb.jpg" />]]></content>
     </entry>
 </feed>

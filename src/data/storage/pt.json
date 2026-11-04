@@ -2616,6 +2616,23 @@
     "history": [
       [
         {
+          "timestamp": 1793818693473,
+          "price": 22.99,
+          "formattedPrice": "22,99 €",
+          "inAppPurchases": {
+            "SPL Pro Module": "8,99 €",
+            "Polarity Test Module": "3,99 €",
+            "SoundScope VR": "29,99 €",
+            "All-In Module Access": "9,99 €",
+            "SPL Graph Module": "9,99 €",
+            "Speaker Distortion": "6,99 €",
+            "ETC Module": "6,99 €",
+            "VU Meter": "2,99 €",
+            "SPL Traffic Light": "9,99 €",
+            "IR Module": "59,99 €"
+          }
+        },
+        {
           "timestamp": 1793786660480,
           "price": 22.99,
           "formattedPrice": "22,99 €",
@@ -9426,6 +9443,23 @@
     "history": [
       [
         {
+          "timestamp": 1793818693473,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Shooting Stars - Bubble Bust World 2": "0,99 €",
+            "Struck by Lightning - Bubble Bust World 3": "1,99 €",
+            "World 2 - Level Pack 2": "0,99 €",
+            "Pack of 30 Fireballs": "1,99 €",
+            "Pack of 5 Bumpers": "0,99 €",
+            "Pack of 10 Fireballs": "0,99 €",
+            "World 3 - Level Pack 2": "0,99 €",
+            "Pack of 15 Bumpers": "1,99 €",
+            "Pack of 500 Tokens": "0,99 €",
+            "MEGA Bubble Popper Pack": "8,99 €"
+          }
+        },
+        {
           "timestamp": 1793786660480,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -9787,6 +9821,27 @@
           "timestamp": 1768552734989,
           "price": 1.99,
           "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "408625926": {
+    "name": "GPS 2 IP",
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "8,99 €"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "8,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793818693473,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
           "inAppPurchases": {}
         }
       ]
@@ -107027,6 +107082,23 @@
     "history": [
       [
         {
+          "timestamp": 1793818693473,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Pacote Ultimate": "17,99 €",
+            "Pacote da 1ª Temporada": "9,99 €",
+            "Além dos Bunkers": "7,99 €",
+            "Abrigos Secretos": "7,99 €",
+            "Season 2 Pass": "9,99 €",
+            "Pacote Ultimate (desconto)": "12,99 €",
+            "Guia de Sobrevivência": "2,99 €",
+            "Custom Scenarios": "7,99 €",
+            "Seeds of Hope": "7,99 €",
+            "Season 2 Pass (Full)": "22,99 €"
+          }
+        },
+        {
           "timestamp": 1793786660480,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -112275,6 +112347,14 @@
       "Solar Arc Pro": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793818693473,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793479481135,
@@ -139331,6 +139411,18 @@
     "history": [
       [
         {
+          "timestamp": 1793818693473,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Privilege": "0,99 €",
+            "New Clan": "5,99 €",
+            "New Hero": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790999952664,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -153471,6 +153563,27 @@
             "擴充包2・吳統一與真結局": "3,99 €",
             "擴充包1・蜀統一": "3,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "6827745244": {
+    "name": "Vize: Yaşam Simülasyonu",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793818693473,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]

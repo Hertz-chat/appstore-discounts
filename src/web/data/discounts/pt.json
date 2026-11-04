@@ -1,5 +1,52 @@
 [
   {
+    "trackId": 6752503669,
+    "region": "pt",
+    "timestamp": 1793818693473,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "3,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 6,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6752503669",
+    "trackName": "Solar Arc: Hora Dourada",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6740698426,
+    "region": "pt",
+    "timestamp": 1793818693473,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "New Clan",
+        "from": "22,99 €",
+        "to": "5,99 €",
+        "range": "[5,99 € ~ 22,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "New Hero",
+        "from": "9,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6740698426",
+    "trackName": "Empires Game",
+    "firstRecordedAt": 1768538736603
+  },
+  {
     "trackId": 479516143,
     "region": "pt",
     "timestamp": 1793753850884,

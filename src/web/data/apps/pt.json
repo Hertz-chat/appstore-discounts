@@ -518,7 +518,7 @@
   {
     "trackId": 325307477,
     "region": "pt",
-    "timestamp": 1793786660480,
+    "timestamp": 1793818693473,
     "discounts": [],
     "price": 22.99,
     "formattedPrice": "22,99 €",
@@ -1709,7 +1709,7 @@
   {
     "trackId": 407998895,
     "region": "pt",
-    "timestamp": 1793786660480,
+    "timestamp": 1793818693473,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "0,99 €",
@@ -1729,6 +1729,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id408209116",
     "trackName": "SwingTool - Swing Weight",
     "firstRecordedAt": 1768552734989
+  },
+  {
+    "trackId": 408625926,
+    "region": "pt",
+    "timestamp": 1793818693473,
+    "discounts": [],
+    "price": 8.99,
+    "formattedPrice": "8,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id408625926",
+    "trackName": "GPS 2 IP",
+    "firstRecordedAt": 1793818693473
   },
   {
     "trackId": 408697793,
@@ -16173,7 +16185,7 @@
   {
     "trackId": 1631859420,
     "region": "pt",
-    "timestamp": 1793786660480,
+    "timestamp": 1793818693473,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "1,99 €",
@@ -20177,7 +20189,7 @@
   {
     "trackId": 6740698426,
     "region": "pt",
-    "timestamp": 1790999952664,
+    "timestamp": 1793818693473,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "2,99 €",
@@ -21859,10 +21871,10 @@
   {
     "trackId": 6752503669,
     "region": "pt",
-    "timestamp": 1793479481135,
+    "timestamp": 1793818693473,
     "discounts": [],
-    "price": 3.99,
-    "formattedPrice": "3,99 €",
+    "price": 0,
+    "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6752503669",
     "trackName": "Solar Arc: Hora Dourada",
@@ -25098,5 +25110,17 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id6824686276",
     "trackName": "Wider - Fullscreen Browsing",
     "firstRecordedAt": 1793438080874
+  },
+  {
+    "trackId": 6827745244,
+    "region": "pt",
+    "timestamp": 1793818693473,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6827745244",
+    "trackName": "Vize: Yaşam Simülasyonu",
+    "firstRecordedAt": 1793818693473
   }
 ]

@@ -1942,6 +1942,18 @@
     "firstRecordedAt": 1768552734989
   },
   {
+    "trackId": 408625926,
+    "region": "us",
+    "timestamp": 1793818693473,
+    "discounts": [],
+    "price": 7.99,
+    "formattedPrice": "$7.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id408625926",
+    "trackName": "GPS 2 IP",
+    "firstRecordedAt": 1793818693473
+  },
+  {
     "trackId": 408697793,
     "region": "us",
     "timestamp": 1745328692670,
@@ -17092,7 +17104,7 @@
   {
     "trackId": 1620202676,
     "region": "us",
-    "timestamp": 1793786660480,
+    "timestamp": 1793818693473,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -23514,10 +23526,10 @@
   {
     "trackId": 6752503669,
     "region": "us",
-    "timestamp": 1793479481135,
+    "timestamp": 1793818693473,
     "discounts": [],
-    "price": 3.99,
-    "formattedPrice": "$3.99",
+    "price": 0,
+    "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6752503669",
     "trackName": "Solar Arc: Golden Hour Tracker",
@@ -24822,7 +24834,7 @@
   {
     "trackId": 6759664029,
     "region": "us",
-    "timestamp": 1793786660480,
+    "timestamp": 1793818693473,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "$6.99",
@@ -26828,10 +26840,10 @@
   {
     "trackId": 6821872148,
     "region": "us",
-    "timestamp": 1793615910490,
+    "timestamp": 1793818693473,
     "discounts": [],
-    "price": 1.99,
-    "formattedPrice": "$1.99",
+    "price": 3.99,
+    "formattedPrice": "$3.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6821872148",
     "trackName": "Duopaper: Panoramic Wallpapers",
@@ -26860,5 +26872,17 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id6824686276",
     "trackName": "Wider - Fullscreen Browsing",
     "firstRecordedAt": 1793438080874
+  },
+  {
+    "trackId": 6827745244,
+    "region": "us",
+    "timestamp": 1793818693473,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6827745244",
+    "trackName": "Vize: Yaşam Simülasyonu",
+    "firstRecordedAt": 1793818693473
   }
 ]

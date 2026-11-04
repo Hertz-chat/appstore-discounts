@@ -22738,6 +22738,27 @@
       ]
     ]
   },
+  "408625926": {
+    "name": "GPS 2 IP",
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "$7.99"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "$7.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793818693473,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "408697793": {
     "name": "King of Opera",
     "maxPriceInfo": {
@@ -251659,6 +251680,23 @@
     "history": [
       [
         {
+          "timestamp": 1793818693473,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "All Unit Groups": "$12.99",
+            "All Heroes": "$14.99",
+            "Hero Dragon Kosmos": "$6.99",
+            "Unit Group Jaegers": "$6.99",
+            "Unit Group Rebooted Ascendii": "$2.99",
+            "Hero Red Dragon": "$5.99",
+            "Starter Pack": "$4.99",
+            "Special Daily Pack7": "$1.99",
+            "Hero Zhara": "$4.99",
+            "Unit Group Ascendii On Sale": "$0.99"
+          }
+        },
+        {
           "timestamp": 1793786660480,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -340886,6 +340924,14 @@
     "history": [
       [
         {
+          "timestamp": 1793818693473,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793479481135,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -362607,6 +362653,23 @@
     "history": [
       [
         {
+          "timestamp": 1793818693473,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "ALL HEROES BUNDLE": "$24.99",
+            "Tower Sniper": "$5.99",
+            "Tower Alchemist": "$2.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Hero Ignus": "$2.99",
+            "Gems Pouch": "$4.99",
+            "Tower Wildcat": "$4.99",
+            "ALL SPELLS BUNDLE": "$12.99"
+          }
+        },
+        {
           "timestamp": 1793786660480,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -364814,14 +364877,22 @@
   "6821872148": {
     "name": "Duopaper: Panoramic Wallpapers",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 3.99,
+      "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793818693473,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793615910490,
@@ -365149,6 +365220,27 @@
             "擴充包2・吳統一與真結局": "$3.99",
             "擴充包1・蜀統一": "$3.99"
           }
+        }
+      ]
+    ]
+  },
+  "6827745244": {
+    "name": "Vize: Yaşam Simülasyonu",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793818693473,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
         }
       ]
     ]

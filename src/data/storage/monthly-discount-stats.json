@@ -39,9 +39,23 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6759358968": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {
+        "PadLab Full App": 1
+      }
     }
   },
   "hk": {
+    "479516143": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Minecraft Store Item 10": 1
+      }
+    },
     "954982733": {
       "all": 1,
       "price": 1,
@@ -93,6 +107,13 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6759358968": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {
+        "PadLab Full App": 1
+      }
     }
   },
   "mo": {
@@ -140,9 +161,23 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6759358968": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {
+        "PadLab Full App": 1
+      }
     }
   },
   "tw": {
+    "479516143": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Minecraft Store Item 10": 1
+      }
+    },
     "1298544927": {
       "all": 1,
       "price": 1,
@@ -189,8 +224,8 @@
       "inAppPurchase": {}
     },
     "6759358968": {
-      "all": 1,
-      "price": 0,
+      "all": 2,
+      "price": 1,
       "inAppPurchase": {
         "PadLab Full App": 1,
         "StageLab": 1
@@ -266,8 +301,8 @@
       "inAppPurchase": {}
     },
     "6759358968": {
-      "all": 1,
-      "price": 0,
+      "all": 2,
+      "price": 1,
       "inAppPurchase": {
         "PadLab Full App": 1,
         "StageLab": 1
@@ -350,6 +385,15 @@
     }
   },
   "pt": {
+    "479516143": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Minecraft Store Item 6": 1,
+        "Minecraft Store Item 5": 1,
+        "Minecraft Store Item 8": 1
+      }
+    },
     "954982733": {
       "all": 1,
       "price": 1,

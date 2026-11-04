@@ -2,8 +2,15 @@
   {
     "trackId": 6759358968,
     "region": "us",
-    "timestamp": 1793731488753,
+    "timestamp": 1793753850884,
     "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$1.69",
+        "range": "[$1.69 ~ $2.99]"
+      },
       {
         "type": "inAppPurchase",
         "name": "PadLab Full App",
@@ -19,8 +26,8 @@
         "range": "[$3.69 ~ $5.99]"
       }
     ],
-    "price": 2.99,
-    "formattedPrice": "$2.99",
+    "price": 1.69,
+    "formattedPrice": "$1.69",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6759358968",
     "trackName": "PadLab - Live Pads",
@@ -123,7 +130,7 @@
     "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1492049794",
-    "trackName": "宗师-武林风云传",
+    "trackName": "武林群侠风云传",
     "firstRecordedAt": 1774723994994
   },
   {
@@ -1826,7 +1833,7 @@
     "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1422480068",
-    "trackName": "Notes Writer Browser: Nautilus",
+    "trackName": "Nautilus: Web, Docs, Annotate",
     "firstRecordedAt": 1722784406759
   },
   {
@@ -2427,7 +2434,7 @@
     "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1492049794",
-    "trackName": "宗师-武林风云传",
+    "trackName": "武林群侠风云传",
     "firstRecordedAt": 1774723994994
   },
   {
@@ -3598,7 +3605,7 @@
     "formattedPrice": "$9.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1422480068",
-    "trackName": "Notes Writer Browser: Nautilus",
+    "trackName": "Nautilus: Web, Docs, Annotate",
     "firstRecordedAt": 1722784406759
   },
   {
@@ -11009,7 +11016,7 @@
     "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1492049794",
-    "trackName": "宗师-武林风云传",
+    "trackName": "武林群侠风云传",
     "firstRecordedAt": 1774723994994
   },
   {
@@ -12704,7 +12711,7 @@
     "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1492049794",
-    "trackName": "宗师-武林风云传",
+    "trackName": "武林群侠风云传",
     "firstRecordedAt": 1774723994994
   },
   {
@@ -16297,7 +16304,7 @@
     "formattedPrice": "$9.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1422480068",
-    "trackName": "Notes Writer Browser: Nautilus",
+    "trackName": "Nautilus: Web, Docs, Annotate",
     "firstRecordedAt": 1722784406759
   },
   {
@@ -18940,7 +18947,7 @@
     "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1492049794",
-    "trackName": "宗师-武林风云传",
+    "trackName": "武林群侠风云传",
     "firstRecordedAt": 1774723994994
   },
   {
@@ -47901,7 +47908,7 @@
     "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1422480068",
-    "trackName": "Notes Writer Browser: Nautilus",
+    "trackName": "Nautilus: Web, Docs, Annotate",
     "firstRecordedAt": 1722784406759
   },
   {
@@ -53098,7 +53105,7 @@
     "formattedPrice": "$9.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1422480068",
-    "trackName": "Notes Writer Browser: Nautilus",
+    "trackName": "Nautilus: Web, Docs, Annotate",
     "firstRecordedAt": 1722784406759
   },
   {

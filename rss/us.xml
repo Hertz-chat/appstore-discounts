@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2026-11-03T20:15:20.433Z</updated>
+    <updated>2026-11-04T02:38:24.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-03T20:15:20.433Z</updated>
+        <updated>2026-11-04T02:38:24.522Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusTue, 03 Nov 2026 20:15:20 GMT</id>
+        <id>rankingusWed, 04 Nov 2026 02:38:24 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-03T20:15:20.434Z</updated>
+        <updated>2026-11-04T02:38:24.522Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -114,6 +114,31 @@ feedId:157008699750812672+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
+        <a href="https://appstore-discounts.eyelly.me/us/6759358968?lang=en">PadLab - Live Pads</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>PadLab Full App</i>：<b>1</b>
+              </li><li>
+                <i>StageLab</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
         <a href="https://appstore-discounts.eyelly.me/us/954982733?lang=en">Tuner T1 Pro</a>
       </td>
       <td>
@@ -128,7 +153,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/966489322?lang=en">生辰 — 桌面时间小组件</a>
@@ -151,7 +176,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1140451547?lang=en">Shot Tracer</a>
@@ -168,7 +193,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1159700098?lang=en">To the Moon</a>
@@ -185,7 +210,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1298544927?lang=en">My Child Lebensborn</a>
@@ -202,7 +227,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1441522083?lang=en">Morphing LED Banner</a>
@@ -219,27 +244,10 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/us/1492049794?lang=en">宗师-武林风云传</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>9</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/1587301632?lang=en">All In One Memo</a>
+        <a href="https://appstore-discounts.eyelly.me/us/1492049794?lang=en">武林群侠风云传</a>
       </td>
       <td>
         <ul>
@@ -256,7 +264,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/1601114348?lang=en">Siralim Ultimate</a>
+        <a href="https://appstore-discounts.eyelly.me/us/1587301632?lang=en">All In One Memo</a>
       </td>
       <td>
         <ul>
@@ -273,7 +281,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/1619867109?lang=en">Finding Paradise</a>
+        <a href="https://appstore-discounts.eyelly.me/us/1601114348?lang=en">Siralim Ultimate</a>
       </td>
       <td>
         <ul>
@@ -290,7 +298,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/6801866888?lang=en">When'd I</a>
+        <a href="https://appstore-discounts.eyelly.me/us/1619867109?lang=en">Finding Paradise</a>
       </td>
       <td>
         <ul>
@@ -307,7 +315,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/6821872148?lang=en">Duopaper: Panoramic Wallpapers</a>
+        <a href="https://appstore-discounts.eyelly.me/us/6801866888?lang=en">When'd I</a>
       </td>
       <td>
         <ul>
@@ -324,22 +332,14 @@ feedId:157008699750812672+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/6759358968?lang=en">PadLab - Live Pads</a>
+        <a href="https://appstore-discounts.eyelly.me/us/6821872148?lang=en">Duopaper: Panoramic Wallpapers</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>1</b>
           </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>PadLab Full App</i>：<b>1</b>
-              </li><li>
-                <i>StageLab</i>：<b>1</b>
-              </li>
-            </ol>
+            <span>Price</span>：<b>1</b>
           </li>
         </ul>
       </td>
@@ -1169,6 +1169,72 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[PadLab - Live Pads]]></title>
+        <id>PadLab - Live Pads-us-1793753850884</id>
+        <link href="https://appstore-discounts.eyelly.me/us/6759358968?lang=en"/>
+        <updated>2026-11-04T00:57:30.884Z</updated>
+        <summary type="html"><![CDATA[Price: $2.99 → $1.69]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/6759358968?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/7d/0d/707d0d9e-2dc8-44e5-106f-a73c6b181ca5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$2.99</span> → <b>
+  <strong>$1.69</strong>
+</b><span>[$1.69 ~ $2.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$1.69</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    PadLab Full App：<b>$4.59</b>
+  </li><li>
+    Pad Mix Pro：<b>$1.99</b>
+  </li><li>
+    StageLab：<b>$3.69</b>
+  </li><li>
+    Pad Pulse Pro：<b>$1.99</b>
+  </li><li>
+    Sequencer Pro：<b>$2.99</b>
+  </li><li>
+    Arp Pro：<b>$1.99</b>
+  </li><li>
+    Worship Pad：<b>$0.99</b>
+  </li><li>
+    PadLab Worship Complete：<b>$6.99</b>
+  </li><li>
+    Worship Drum Collection：<b>$3.99</b>
+  </li><li>
+    Coleção Completa de Pads：<b>$4.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  PadLab brings ambient pads, drums and instruments together for rehearsals, music creation and live performance. Play on your iPhone or iPad screen, or connect a compatible MIDI controller.
+
+• Continuous pads in different keys, with transitions and level controls.
+
+• Drum Pads with kits, individual sound selection and batch sample import.
+
+• Live Loops, available as a standalone one-time purchase or included in PadLab Full App, for creating patterns and recording quantized drum hits in one-loop or overdub mode. Arrange scenes, build your own kits and explore Gospel/worship presets.
+
+• A Live Loops mixer with volume, pan, mute, solo and convolution reverb with individual sends for each drum part.
+
+• A metronome with adjustable tempo, time signature, sound and volume.
+
+• MIDI Learn for pads, drum parts, transport, volume and set selection.
+
+• Complete performance sets that bring together pads, drums, Live Loops and StageLab instruments and settings when used. Arrange them in Set List for quick access.
+
+• Import and export performance sets and Live Loops sets with the personal files they use. Performance packages can include your samples and SF2 files.
+
+• On-screen guides to help you learn the controls and revisit them whenever needed.
+
+StageLab is an optional expansion unlocked through an in-app purchase. Combine up to eight sounds, use library instruments or import SoundFont SF2 files. Adjust levels, keyboard ranges, MIDI channels, envelopes, EQ, compression and reverb. Per-sound effects include chorus, tremolo, auto pan, drive and Leslie. Master controls provide volume, separate gain up to +9 dB and MIDI Learn.
+
+Inside StageLab, the WAVE 3 synthesizer offers oscillator, filter, envelope and effects editing, plus an integrated arpeggiator and sequencer. Explore a bank of 24 ARP/SEQ presets, create your own sounds and save your presets.
+
+In the standalone app, WAVE 3 and Live Loops follow the shared metronome. The AUv3 extension lets you use instruments in compatible hosts; Live Loops playback is available only in the standalone app. In AUv3, WAVE 3 retains Local/Host clock options.
+
+PadLab Full App includes Live Loops and StageLab, including for existing Full purchasers. WAVE 3 arpeggiator and sequencer are included in StageLab at no additional charge. Previous standalone ARP/SEQ purchasers retain access to their legacy tools. Buying Live Loops alone does not unlock StageLab or all premium drum kits. Other optional sounds, kits and features are offered through in-app purchases. Factory content referenced by a set depends on the library and purchases available on the destination device.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/75/87/07758738-c236-e225-f8f0-9c7a397d21f2/Padlab---iphone-ingles_01.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/58/b5/0758b588-9c83-8738-84bc-e531c7f8cc61/Padlab-iphone-ingles_1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/3d/9a/473d9af4-482d-0a28-9d05-8cbafd19fc77/Padlab-iphone-ingles_2.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/28/10/c8281079-057a-ba3c-1bb8-5a3edb27bdf6/Padlab-iphone-ingles_3.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/50/56/715056e8-d0c0-9497-5077-e09f5a6dd42b/Padlab-iphone-ingles_4.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/41/51/33415146-8f68-c864-aa01-309005e217ee/Padlab-iphone-ingles_5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/3b/f4/913bf4ef-7f4c-60e6-3ff2-c78213e05227/Padlab---iphone-ingles_02.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/cc/39/9acc395f-ecb7-877a-eb06-e1d0ba6a3936/Padlab---iphone-ingles_03.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/f8/db/c1f8db0a-daf4-92c3-bd53-815d827fc9d4/Padlab-2.0-Ipad-EN_01.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/46/60/d746608b-80b5-c10e-e17b-63b9ab667b89/Padlab-ipad-ingles_1.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/96/c9/ac96c949-00b3-ca1a-9f48-f5a44355771f/Padlab-ipad-ingles_2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/6a/37/d16a3753-af7a-03e1-7ac2-d676a02ffed6/Padlab-ipad-ingles_3.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/87/88/0a878856-70bf-0a72-3553-554ab6dbef9b/Padlab-ipad-ingles_4.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/81/95/a381952d-7b31-b409-21b0-c893198ba5ac/Padlab-ipad-ingles_5.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/4a/cc/944acca3-3bd0-8f07-d2a3-df984cb1674d/Padlab-2.0-Ipad-EN_02.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/3b/e0/6e3be000-7da5-5a65-cdf9-4aee1448bcec/Padlab-2.0-Ipad-EN_03.png/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PadLab - Live Pads]]></title>
         <id>PadLab - Live Pads-us-1793731488753</id>
         <link href="https://appstore-discounts.eyelly.me/us/6759358968?lang=en"/>
         <updated>2026-11-03T18:44:48.753Z</updated>
@@ -1892,124 +1958,5 @@ Service email: TotheMoon@xindong.com
 
 © 2017 X.D. Network Inc. All rights reserved.
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/8c/ba/e7/8cbae70f-cb96-836c-11ef-afee1d9f0995/mzl.duqjvmyj.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0d/e0/af/0de0af90-cb76-93e7-af4a-e602fe53a13b/mzl.kcpanvyh.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a8/b0/3f/a8b03fe9-bf55-1a2f-c386-10ff0cc7c627/mzl.ggycdnkb.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/03/c2/b2/03c2b201-1759-f62a-338f-9a0ace583983/mzl.lhameszq.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/1a/c8/d6/1ac8d620-f639-e740-db9d-2c7c9269fb60/mzl.snejulwv.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/48/c7/5e/48c75e27-41e0-657f-fa4d-310f414bb0cf/mzl.ukbjyhky.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3e/bb/96/3ebb96ae-1020-2499-f408-4eee13e0b753/mzl.fefblsaa.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a4/7c/a3/a47ca3ee-86e8-e9a2-cd46-6a14ffd1335c/mzl.elnaumho.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a7/ac/aa/a7acaa3e-34b8-df7f-bc02-c16f32d57f61/mzl.tcljipwn.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/aa/4d/b2/aa4db242-5627-7455-6895-efbc61ce2f54/mzl.zkmbxdnw.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All In One Memo]]></title>
-        <id>All In One Memo-us-1793490606912</id>
-        <link href="https://appstore-discounts.eyelly.me/us/1587301632?lang=en"/>
-        <updated>2026-10-31T23:50:06.912Z</updated>
-        <summary type="html"><![CDATA[Price: $3.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/1587301632?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/89/59/96/8959968b-9509-d517-6970-bf90d931691e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$3.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[Free ~ $3.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$0.99</b>
-</p><h2>Application Description</h2><p>
-  Keep the words, pictures, videos, voice and positions you want to record at any time and anywhere.
-And there are reminders that you can never forget.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/21/d9/b7/21d9b748-5450-6c9a-126d-c89003a8706e/f800892f-a55d-455c-ade4-0eeb7b43b15c_8plus01en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9f/6d/bb/9f6dbb7c-38ee-d336-0747-931bdecc3bad/5e170518-34df-42b6-8675-19706b96808a_8plus02en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6e/4c/06/6e4c06dd-7d88-b505-c4b1-8065c89e9d44/95dcaa79-2c3f-4159-8629-21d5c4bfd435_8plus03en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e1/cc/49/e1cc49e8-6363-7f7a-d413-2b7ea3000986/be9ed823-cb8b-45ac-9c87-62c0df31eb63_8plus04en.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wider - Fullscreen Browsing]]></title>
-        <id>Wider - Fullscreen Browsing-us-1793479481135</id>
-        <link href="https://appstore-discounts.eyelly.me/us/6824686276?lang=en"/>
-        <updated>2026-10-31T20:44:41.135Z</updated>
-        <summary type="html"><![CDATA[Price: $1.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/6824686276?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/5f/5d/fa5f5d58-6b5f-e5d1-04df-333a9668ec27/AppIcon-0-0-1x_U007ephone-0-0-0-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$1.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $2.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h2>Application Description</h2><p>
-  If you want to use the full width of your iPhone Duo's external screen in Safari, use Wider. It's a simple extension that lets you quickly toggle websites into full width mode. 
-
-Use the Wider toggle button in the right navbar to quickly toggle between normal an Wider mode.
-
-Wider doesn't work on every website. If a website doesn't work as expected, you can report it through the app and I'll try to improve compatibility.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/2f/cf/972fcf27-e6cc-60f9-ce21-7ebebdbc59ab/Frame_14.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/00/02/4300026c-f626-76de-2b65-1f5a393dda41/Frame_15.png/320x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solar Arc: Golden Hour Tracker]]></title>
-        <id>Solar Arc: Golden Hour Tracker-us-1793479481135</id>
-        <link href="https://appstore-discounts.eyelly.me/us/6752503669?lang=en"/>
-        <updated>2026-10-31T20:44:41.135Z</updated>
-        <summary type="html"><![CDATA[Price: $4.99 → $3.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/6752503669?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/3f/cc/2a3fcc06-b3b0-5a64-a5dc-9f18a17df3fb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$4.99</span> → <b>
-  <strong>$3.99</strong>
-</b><span>[Free ~ $5.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$3.99</b>
-</p><h2>Application Description</h2><p>
-  Golden hour happens every single day. Most people miss it. SolarArc makes sure you don't.
-
-- Chasing golden hour for a photo? Know the exact minute it starts.
-- Planning a sunrise hike? See the best trail windows at a glance.
-- Wondering when the moon rises tonight? It's right there on your screen.
-
-SolarArc is a sun and moon tracker that feels like looking out the window. Every view shifts with the real sky - warm when the light is warm, dark when the sky is dark.
-
-THE GRADIENT LINE
-
-Your entire day, painted in one line. Dawn amber bleeds into midday blue, then sunset orange, then deep navy night. Golden hour glows. Blue hour cools. You can read the exact times, or just glance at the color and know where you are in the day.
-
-THE ARC
-
-The sun and moon traced across your sky in real time. Watch them rise, climb, and fall against a live gradient that shifts with the actual light outside your window. Drag your finger across the arc to scrub through the day - the sky, the times, and the numbers all move with you. View the sun alone, the moon alone, or both together.
-
-THE MOON
-
-Know when to look up. SolarArc renders tonight's moon with the correct phase shape on the arc. Plan around full moons. Catch a crescent at dusk. Know exactly how dark the sky will be.
-
-52-WEEK FORECAST
-
-What will golden hour look like three Saturdays from now? How much daylight will you have on that hiking trip in April? Pick any date in the next year and see the full picture - sun, moon, and light - before you commit.
-
-FIVE WAYS TO USE THE SKY
-
-Photography - Golden hour and blue hour, down to the minute. Stop guessing when to shoot.
-Hiking - Best trail windows and how much daylight is left. Know when to turn around.
-Screens - A screen curfew that follows the sun. Wind down as the sky does.
-Gardening - When to water, when to protect, and how many sun hours your plants get today.
-Stargazing - When true darkness begins. The best window to see everything above you.
-
-FEATURES
-
-- Live gradient line and arc visualizations
-- Drag to scrub through any moment of the day
-- Sun view, moon view, or dual view
-- Golden hour and blue hour timing
-- Moonrise, moonset, phase, and illumination
-- 52-week forecast for any date
-- Five activity modes
-- Seven Home Screen widgets: sun and moon, line and arc, medium and large
-- Notifications for sunrise, sunset, and golden hour
-- Multi-location with automatic timezone handling
-- Available in English, Spanish, French, German, Italian, Portuguese, Korean, Japanese, Chinese (Simplified and Traditional), Ukrainian, and Russian
-- Built on NOAA solar and Meeus lunar algorithms
-- Fully offline. No tracking. No account required.
-
-WHAT IS GOLDEN HOUR?
-
-Golden hour is the short window after sunrise and before sunset when the light turns soft, warm, and directional. Photographers chase it. Hikers love it. SolarArc tells you exactly when it happens, wherever you are.
-
-EVERYTHING INCLUDED
-
-All seven widgets, the 52-week forecast, unlimited saved places, all five modes, and golden hour, sunrise, and sunset alerts.
-
-One purchase. No subscription. No ads. No in-app purchases.
-
-Made by Spruzzo Labs - a creative lab.
-
-Questions or ideas? hello@spruzzolabs.com
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/e2/47/79e247dd-b9d3-ef18-be18-a5e291ff510a/01-golden-hour.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/3e/c4/6f3ec445-5b93-211a-3b52-59d070a5c14d/02-widgets.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/c6/01/0ac6018d-49b2-c219-ef44-e4d147c2c529/04-scrub.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/20/d4/c120d47b-43da-22b9-4ee9-4a2351aee07f/03-arc.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/5e/e7/015ee79f-9d28-9043-3336-b55ac5266f20/05-moon.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/3a/4a/a63a4ac6-ec22-8782-0e8b-1bd27d753878/06-modes.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/08/c6/4b08c66f-c7e1-1272-d6c2-a2739b08b006/07-forecast.png/320x480bb.jpg" />]]></content>
     </entry>
 </feed>

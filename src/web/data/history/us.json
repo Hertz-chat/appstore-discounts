@@ -66543,7 +66543,8 @@
       "FCA 2025": "$14.99",
       "Ford 2024 Enhanced": "$14.99",
       "Mazda 2024 Enhanced": "$14.99",
-      "Ford 2015 Enhanced Diagnostics": "$14.99"
+      "Ford 2015 Enhanced Diagnostics": "$14.99",
+      "Ford 2017 Enhanced": "$14.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -66575,10 +66576,28 @@
       "FCA 2025": "$14.99",
       "Ford 2024 Enhanced": "$14.99",
       "Mazda 2024 Enhanced": "$14.99",
-      "Ford 2015 Enhanced Diagnostics": "$14.99"
+      "Ford 2015 Enhanced Diagnostics": "$14.99",
+      "Ford 2017 Enhanced": "$14.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1793753850884,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2017 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2013 Enhanced Diagnostics": "$14.99",
+            "Toyota 2016 Enhanced Diagnostics": "$14.99",
+            "Ford 2017 Enhanced": "$14.99"
+          }
+        },
         {
           "timestamp": 1793700779769,
           "price": 9.99,
@@ -158538,6 +158557,25 @@
     "history": [
       [
         {
+          "timestamp": 1793753850884,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "$3.99",
+            "Original Succession Package": "$17.99",
+            "Dark Lord Awakening Complete": "$26.99",
+            "Monster Succession": "$4.99",
+            "Awakened Irea Package": "$4.99",
+            "Dark Lord Boost Package": "$8.99",
+            "Awakening Viper Package": "$4.99",
+            "Original Lord Complete Package": "$26.99",
+            "Original Monster Package": "$8.99",
+            "Torture Master Package": "$22.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793330060259,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -171125,7 +171163,7 @@
   },
   "1422480068": {
     "trackId": 1422480068,
-    "trackName": "Notes Writer Browser: Nautilus",
+    "trackName": "Nautilus: Web, Docs, Annotate",
     "region": "us",
     "maxPriceInfo": {
       "price": 14.99,
@@ -186613,6 +186651,25 @@
       "Magic Package LevelUp 1-10": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793753850884,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "First Purchase: Legendary Pack": "$9.99",
+            "Piggy Bank": "$2.99",
+            "Flash Sale Star Rune 2": "$1.99",
+            "Flash Sale Crystal 2": "$2.99",
+            "Double Exp Package 1": "$0.99",
+            "Flash Sale Ore Rune 2": "$1.99",
+            "LegendaryPackage": "$19.99",
+            "Crystal Piggy Bank 5": "$4.99",
+            "Flash Sale Legendary Essence 1": "$4.99",
+            "Flash Sale Crystal 3": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790481229445,
@@ -206002,7 +206059,7 @@
   },
   "1492049794": {
     "trackId": 1492049794,
-    "trackName": "宗师-武林风云传",
+    "trackName": "武林群侠风云传",
     "region": "us",
     "maxPriceInfo": {
       "price": 0.99,
@@ -309725,6 +309782,25 @@
     "history": [
       [
         {
+          "timestamp": 1793753850884,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Global scenery - 3 months": "$7.99",
+            "Airbus A380": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Airbus A350-1000": "$3.99",
+            "UH-60": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793089647083,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -351680,8 +351756,8 @@
       "Worship Pad": "$0.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99",
+      "price": 1.69,
+      "formattedPrice": "$1.69",
       "PadLab Full App": "$4.59",
       "PadLab Worship Complete": "$6.99",
       "Worship Drum Collection": "$3.99",
@@ -351701,6 +351777,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793753850884,
+          "price": 1.69,
+          "formattedPrice": "$1.69",
+          "inAppPurchases": {
+            "PadLab Full App": "$4.59",
+            "Pad Mix Pro": "$1.99",
+            "StageLab": "$3.69",
+            "Pad Pulse Pro": "$1.99",
+            "Sequencer Pro": "$2.99",
+            "Arp Pro": "$1.99",
+            "Worship Pad": "$0.99",
+            "PadLab Worship Complete": "$6.99",
+            "Worship Drum Collection": "$3.99",
+            "Coleção Completa de Pads": "$4.99"
+          }
+        },
         {
           "timestamp": 1793731488753,
           "price": 2.99,
@@ -358215,6 +358308,23 @@
     "history": [
       [
         {
+          "timestamp": 1793753850884,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Unlock All": "$4.99",
+            "Game Boy Advance": "$0.99",
+            "Pokémon Mini": "$0.99",
+            "SG-1000": "$0.99",
+            "Master System": "$0.99",
+            "Game Gear": "$0.99",
+            "Mega Drive / Genesis": "$0.99",
+            "Atari 2600": "$0.99",
+            "SNES": "$0.99",
+            "Unlock All (Upgrade 4)": "$0.99"
+          }
+        },
+        {
           "timestamp": 1793731488753,
           "price": 0,
           "formattedPrice": "Free",
@@ -359814,6 +359924,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793753850884,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Pro Mensal": "$1.99",
+            "SENSI iPhone 15 a 17 Pro Max": "$1.99",
+            "1 Token Coach IA": "$0.99",
+            "SENSI RANKED iPhone 15 a 17 Pro Max": "$1.99",
+            "Elite Annual": "$7.99",
+            "Clone de Sensi": "$0.99",
+            "10 Tokens Coach IA": "$4.99",
+            "SENSI iPhone 13 a 14 Pro Max": "$1.99",
+            "Clone Sensi – 3 Clonagens": "$1.99",
+            "3 Tokens Coach IA": "$1.99"
+          }
+        },
         {
           "timestamp": 1793700779769,
           "price": 0.99,

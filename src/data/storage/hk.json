@@ -31083,7 +31083,7 @@
       "Realms Monthly Subscription: You + 2 Friends": "HK$ 28.00",
       "Minecraft Store Item 3": "HK$ 22.00",
       "Minecraft Store Item 4": "HK$ 32.00",
-      "Minecraft Store Item 10": "HK$ 82.00",
+      "Minecraft Store Item 10": "HK$ 78.00",
       "Minecraft Store Item 5": "HK$ 38.00",
       "Realms Plus: You + 10 Friends": "HK$ 58.00",
       "Minecraft Store Item 1": "HK$ 8.00",
@@ -31112,6 +31112,25 @@
       "Cuddly Starter Pack": "HK$ 48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793753850884,
+          "price": 56,
+          "formattedPrice": "HK$ 56.00",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "HK$ 58.00",
+            "Minecraft Store Item 2": "HK$ 16.00",
+            "Realms Monthly Subscription: You + 2 Friends": "HK$ 28.00",
+            "Minecraft Store Item 6": "HK$ 48.00",
+            "Minecraft Store Item 3": "HK$ 22.00",
+            "Realms Plus: You + 10 Friends": "HK$ 58.00",
+            "Minecraft Store Item 4": "HK$ 32.00",
+            "Minecraft Store Item 5": "HK$ 38.00",
+            "Minecraft Store Item 10": "HK$ 78.00",
+            "Minecraft Store Item 1": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,
@@ -101611,6 +101630,23 @@
     "history": [
       [
         {
+          "timestamp": 1793753850884,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "6480根火柴": "HK$ 788.00",
+            "60根火柴": "HK$ 8.00",
+            "月度礼包": "HK$ 32.00",
+            "180根火柴": "HK$ 22.00",
+            "980根火柴": "HK$ 118.00",
+            "1元礼包": "HK$ 8.00",
+            "500根火柴": "HK$ 58.00",
+            "1680根火柴": "HK$ 188.00",
+            "超值礼包-1": "HK$ 22.00",
+            "成长基金": "HK$ 32.00"
+          }
+        },
+        {
           "timestamp": 1793731488753,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -104561,6 +104597,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793753850884,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "225,000 points": "HK$ 88.00",
+            "63,000 points": "HK$ 22.00",
+            "25,000 points": "HK$ 8.00",
+            "176,000 points": "HK$ 58.00",
+            "100,000 points": "HK$ 22.00",
+            "345,000 points": "HK$ 118.00",
+            "850,000 points": "HK$ 118.00",
+            "500,000 points": "HK$ 88.00",
+            "2,160,000 points": "HK$ 588.00",
+            "20,000 points": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1793731488753,
           "price": 2,
@@ -115812,6 +115865,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793753850884,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "一筆鑽石": "HK$ 38.00",
+            "僱傭超能少年": "HK$ 18.00",
+            "促銷禮包3": "HK$ 58.00",
+            "1代套裝(3星)": "HK$ 18.00",
+            "雙倍獎勵": "HK$ 18.00",
+            "一小袋鑽石": "HK$ 88.00",
+            "100鑽石": "HK$ 8.00",
+            "促銷禮包2": "HK$ 38.00",
+            "一大袋鑽石": "HK$ 148.00",
+            "雙倍背包": "HK$ 18.00"
+          }
+        },
         {
           "timestamp": 1793731488753,
           "price": 2,
@@ -139479,6 +139549,23 @@
     "history": [
       [
         {
+          "timestamp": 1793753850884,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "HK$ 32.00",
+            "原版怪獸繼承卡牌包": "HK$ 148.00",
+            "怪獸繼承": "HK$ 38.00",
+            "覺醒魔王完整卡牌包": "HK$ 228.00",
+            "原版設施卡牌包": "HK$ 68.00",
+            "原版魔王完整卡牌包": "HK$ 228.00",
+            "原版地宮卡牌包": "HK$ 148.00",
+            "原版魔王權能卡牌包": "HK$ 148.00",
+            "原版魔王加速卡牌包": "HK$ 68.00",
+            "原版怪獸卡牌包": "HK$ 68.00"
+          }
+        },
+        {
           "timestamp": 1793731488753,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -152294,7 +152381,7 @@
     ]
   },
   "1422480068": {
-    "name": "Notes Writer Browser: Nautilus",
+    "name": "Nautilus：網頁、文件、標註",
     "maxPriceInfo": {
       "price": 118,
       "formattedPrice": "HK$ 118.00",
@@ -161690,6 +161777,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793753850884,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "68金玉": "HK$ 78.00",
+            "30金玉": "HK$ 38.00",
+            "6金玉": "HK$ 8.00",
+            "198金玉": "HK$ 238.00",
+            "648金玉": "HK$ 788.00",
+            "一鍵買斷禮包": "HK$ 38.00",
+            "尊享月俸": "HK$ 38.00",
+            "328金玉": "HK$ 398.00",
+            "禮包5": "HK$ 38.00",
+            "月俸": "HK$ 22.00"
+          }
+        },
         {
           "timestamp": 1793731488753,
           "price": 2,
@@ -186814,7 +186918,7 @@
     ]
   },
   "1492049794": {
-    "name": "宗師-武林群俠風雲傳",
+    "name": "武林群俠風雲傳",
     "maxPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00",
@@ -240861,6 +240965,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793753850884,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "自創武將": "HK$ 22.00",
+            "道法自然": "HK$ 22.00",
+            "斜谷殘陽": "HK$ 48.00",
+            "月下追魂": "HK$ 48.00",
+            "戰國七雄": "HK$ 48.00",
+            "自創武將朝代特色兵種補丁": "HK$ 58.00",
+            "群雄爭霸": "HK$ 22.00",
+            "巾幗綻芳華": "HK$ 32.00",
+            "冠絕天下": "HK$ 48.00",
+            "楚漢爭霸": "HK$ 48.00"
+          }
+        },
         {
           "timestamp": 1793731488753,
           "price": 48,
@@ -297161,9 +297282,9 @@
       "Worship Drum Kit 1": "HK$ 8.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00",
-      "PadLab Full App": "HK$ 58.00",
+      "price": 12,
+      "formattedPrice": "HK$ 12.00",
+      "PadLab Full App": "HK$ 38.00",
       "PadLab Worship Complete": "HK$ 58.00",
       "Worship Drum Collection": "HK$ 32.00",
       "Coleção Completa de Pads": "HK$ 38.00",
@@ -297175,6 +297296,25 @@
       "Worship Drum Kit 1": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793753850884,
+          "price": 12,
+          "formattedPrice": "HK$ 12.00",
+          "inAppPurchases": {
+            "PadLab Full App": "HK$ 38.00",
+            "PadLab Worship Complete": "HK$ 58.00",
+            "Worship Drum Collection": "HK$ 32.00",
+            "Coleção Completa de Pads": "HK$ 38.00",
+            "Worship EFX": "HK$ 8.00",
+            "Worship 808": "HK$ 8.00",
+            "Worship Cinematic": "HK$ 8.00",
+            "Worship Drum Kit 3": "HK$ 8.00",
+            "Worship Drum Kit 2": "HK$ 8.00",
+            "Worship Drum Kit 1": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792569835923,

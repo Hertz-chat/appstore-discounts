@@ -115192,7 +115192,7 @@
     ]
   },
   "1422480068": {
-    "name": "Notes Writer Browser: Nautilus",
+    "name": "Nautilus：網頁、文件、標註",
     "maxPriceInfo": {
       "price": 12.99,
       "formattedPrice": "USD 12.99",
@@ -137191,7 +137191,7 @@
     ]
   },
   "1492049794": {
-    "name": "宗師-武林群俠風雲傳",
+    "name": "武林群俠風雲傳",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99",
@@ -206020,9 +206020,9 @@
       "Worship Drum Kit 1": "USD 0.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99",
-      "PadLab Full App": "USD 7.99",
+      "price": 1.69,
+      "formattedPrice": "USD 1.69",
+      "PadLab Full App": "USD 4.59",
       "PadLab Worship Complete": "USD 6.99",
       "Worship Drum Collection": "USD 3.99",
       "Coleção Completa de Pads": "USD 4.99",
@@ -206034,6 +206034,25 @@
       "Worship Drum Kit 1": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793753850884,
+          "price": 1.69,
+          "formattedPrice": "USD 1.69",
+          "inAppPurchases": {
+            "PadLab Full App": "USD 4.59",
+            "PadLab Worship Complete": "USD 6.99",
+            "Worship Drum Collection": "USD 3.99",
+            "Coleção Completa de Pads": "USD 4.99",
+            "Worship EFX": "USD 0.99",
+            "Worship 808": "USD 0.99",
+            "Worship Cinematic": "USD 0.99",
+            "Worship Drum Kit 3": "USD 0.99",
+            "Worship Drum Kit 2": "USD 0.99",
+            "Worship Drum Kit 1": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792569835923,

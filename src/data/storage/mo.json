@@ -22637,6 +22637,21 @@
     "history": [
       [
         {
+          "timestamp": 1793872776771,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Complete Set": "USD 3.99",
+            "Full Armor": "USD 1.99",
+            "All Health Boosts": "USD 0.99",
+            "Arranged BGMs": "USD 2.99",
+            "All Weapons": "USD 1.99",
+            "All Subtanks": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792656146968,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -45186,7 +45201,16 @@
       "LifeTime Pass 30": "USD 29.99",
       "Love Island USA Fan Deck": "USD 0.00",
       "Holiday Offer 4th of July 2026": "USD 19.99",
-      "DIY Bundle Sale": "USD 6.99"
+      "DIY Bundle Sale": "USD 6.99",
+      "All The Right Moves": "USD 1.99",
+      "Broadway Baby": "USD 1.99",
+      "Favorite Fictional Characters": "USD 1.99",
+      "I'm With The Band": "USD 1.99",
+      "Movie Buff": "USD 1.99",
+      "Sports Legends": "USD 1.99",
+      "Take It Literally": "USD 1.99",
+      "That's So 90s": "USD 1.99",
+      "Totally 80s": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -45293,9 +45317,37 @@
       "LifeTime Pass 30": "USD 29.99",
       "Love Island USA Fan Deck": "USD 0.00",
       "Holiday Offer 4th of July 2026": "USD 19.99",
-      "DIY Bundle Sale": "USD 6.99"
+      "DIY Bundle Sale": "USD 6.99",
+      "All The Right Moves": "USD 1.99",
+      "Broadway Baby": "USD 1.99",
+      "Favorite Fictional Characters": "USD 1.99",
+      "I'm With The Band": "USD 1.99",
+      "Movie Buff": "USD 1.99",
+      "Sports Legends": "USD 1.99",
+      "Take It Literally": "USD 1.99",
+      "That's So 90s": "USD 1.99",
+      "Totally 80s": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793872776771,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "All The Right Moves": "USD 1.99",
+            "Broadway Baby": "USD 1.99",
+            "Favorite Fictional Characters": "USD 1.99",
+            "I'm With The Band": "USD 1.99",
+            "Movie Buff": "USD 1.99",
+            "Sports Legends": "USD 1.99",
+            "Take It Literally": "USD 1.99",
+            "That's So 90s": "USD 1.99",
+            "Totally 80s": "USD 1.99",
+            "As Seen On TV": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786682840855,
@@ -57824,6 +57876,22 @@
       "Episode 3": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793872776771,
+          "price": 0.49,
+          "formattedPrice": "USD 0.49",
+          "inAppPurchases": {
+            "Main Story Set": "USD 9.49",
+            "Special Episode": "USD 1.49",
+            "Costume Set": "USD 0.49",
+            "Episode 2": "USD 4.99",
+            "Episode 5": "USD 4.99",
+            "Episode 4": "USD 4.99",
+            "Episode 3": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792656146968,
@@ -88128,6 +88196,20 @@
       "Turnabout Corner": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793872776771,
+          "price": 0.49,
+          "formattedPrice": "USD 0.49",
+          "inAppPurchases": {
+            "All Episodes Set": "USD 9.49",
+            "Turnabout Trump, Part 2": "USD 1.99",
+            "Turnabout Succession": "USD 4.99",
+            "Turnabout Serenade": "USD 4.99",
+            "Turnabout Corner": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792656146968,
@@ -165073,6 +165155,14 @@
     "history": [
       [
         {
+          "timestamp": 1793872776771,
+          "price": 9.89,
+          "formattedPrice": "USD 9.89",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792656146968,
           "price": 24.99,
           "formattedPrice": "USD 24.99",
@@ -190096,6 +190186,14 @@
     "history": [
       [
         {
+          "timestamp": 1793872776771,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792656146968,
           "price": 29.99,
           "formattedPrice": "USD 29.99",
@@ -204240,16 +204338,31 @@
       "formattedPrice": "USD 0.99",
       "季度会员": "USD 2.99",
       "月度会员": "USD 0.99",
-      "永久会员": "USD 5.99"
+      "永久会员": "USD 5.99",
+      "PhotoShare相册扩容包": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
       "季度会员": "USD 2.99",
       "月度会员": "USD 0.99",
-      "永久会员": "USD 5.99"
+      "永久会员": "USD 5.99",
+      "PhotoShare相册扩容包": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793872776771,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "PhotoShare相册扩容包": "USD 0.99",
+            "季度会员": "USD 2.99",
+            "月度会员": "USD 0.99",
+            "永久会员": "USD 5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792425460361,

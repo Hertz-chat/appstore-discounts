@@ -43997,7 +43997,8 @@
       "Lattice Shedding": "$30.00",
       "Crystal Overclock": "$30.00",
       "Magnetic Siphon": "$30.00",
-      "Harmonic Vibrations": "$30.00"
+      "Harmonic Vibrations": "$30.00",
+      "Unlock Anti-Vax": "$30.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -44037,9 +44038,29 @@
       "Lattice Shedding": "$30.00",
       "Crystal Overclock": "$30.00",
       "Magnetic Siphon": "$30.00",
-      "Harmonic Vibrations": "$30.00"
+      "Harmonic Vibrations": "$30.00",
+      "Unlock Anti-Vax": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793840903622,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Unlock Anti-Vax": "$30.00",
+            "Alien Chemistry": "$30.00",
+            "Atmospheric Interference": "$30.00",
+            "Void Signal": "$30.00",
+            "Brittle Lattice": "$30.00",
+            "Quantum Obfuscation": "$30.00",
+            "Synaptic Pulse": "$30.00",
+            "Lattice Shedding": "$30.00",
+            "Crystal Overclock": "$30.00",
+            "Magnetic Siphon": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786615484339,
@@ -276971,6 +276992,25 @@
     "history": [
       [
         {
+          "timestamp": 1793840903622,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "The Aircraft Bundle": "$790.00",
+            "ASG29": "$30.00",
+            "Boeing 787-10": "$60.00",
+            "C90GTx": "$30.00",
+            "Concorde": "$60.00",
+            "F4U Corsair": "$30.00",
+            "Boeing 737-900": "$60.00",
+            "Airbus A380": "$60.00",
+            "Boeing 777-300ER": "$60.00",
+            "Junkers Ju 52": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793526670644,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -314009,7 +314049,8 @@
       "Worship Drum Kit 2": "$30.00",
       "Worship Drum Kit 1": "$30.00",
       "Pad Mix Pro": "$60.00",
-      "StageLab": "$190.00"
+      "StageLab": "$190.00",
+      "Live Loops": "$190.00"
     },
     "minPriceInfo": {
       "price": 60,
@@ -314025,9 +314066,29 @@
       "Worship Drum Kit 2": "$30.00",
       "Worship Drum Kit 1": "$30.00",
       "Pad Mix Pro": "$60.00",
-      "StageLab": "$120.00"
+      "StageLab": "$120.00",
+      "Live Loops": "$190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793840903622,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "PadLab Full App": "$150.00",
+            "Pad Mix Pro": "$60.00",
+            "StageLab": "$120.00",
+            "Live Loops": "$190.00",
+            "PadLab Worship Complete": "$220.00",
+            "Worship Drum Collection": "$120.00",
+            "Coleção Completa de Pads": "$150.00",
+            "Worship EFX": "$30.00",
+            "Worship 808": "$30.00",
+            "Worship Cinematic": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793753850884,
@@ -314429,6 +314490,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793840903622,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "GHOST TRANSLUCENT": "$60.00",
+            "GHOST LUMINOUS": "$60.00",
+            "RED-WHITE RYUKIN": "$60.00",
+            "RED RYUKIN": "$60.00",
+            "WHITE KITTY FISH": "$60.00",
+            "BLACK KITTY FISH": "$60.00",
+            "ROBO FISH 02": "$60.00",
+            "GHOST": "$60.00",
+            "ORANGE/WHITE": "$60.00",
+            "PANDA TELESCOPE": "$60.00"
+          }
+        },
         {
           "timestamp": 1793818693473,
           "price": 120,
@@ -326057,6 +326135,25 @@
       "一把寶石": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793840903622,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "全英雄禮包": "$790.00",
+            "全法術禮包": "$390.00",
+            "英雄 阿什彼特": "$220.00",
+            "全塔禮包": "$690.00",
+            "英雄 德拉坎": "$220.00",
+            "塔 鍊金術師小屋": "$90.00",
+            "塔 奧術鍛造匠": "$150.00",
+            "全塔禮包_B": "$490.00",
+            "英雄 鬼侍": "$150.00",
+            "塔 野貓女獵手": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793360824433,

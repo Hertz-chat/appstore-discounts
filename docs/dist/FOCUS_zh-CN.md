@@ -403,7 +403,7 @@
 |2010|6749406060|自动|❌|Subnautica: Below Zero|Subnautica: Below Zero|Subnautica: Below Zero|Subnautica: Below Zero|Subnautica: Below Zero|Subnautica: Below Zero|
 |2009|385902072|自动|❌|Guns'n'Glory Premium|Guns'n'Glory Premium|Guns'n'Glory Premium|Guns'n'Glory Premium|Guns'n'Glory Premium|Guns'n'Glory Premium|
 |2008|975482646|自动|GENKI Conjugation Cards|GENKI Conjugation Cards|GENKI Conjugation Cards|GENKI Conjugation Cards|GENKI Conjugation Cards|GENKI Conjugation Cards|GENKI Conjugation Cards|
-|2007|6762850272|自动|❌|Büfeci|Büfeci|Büfeci|Büfeci|Snack Stand|Büfeci|
+|2007|6762850272|自动|❌|Büfeci|Büfeci|Büfeci|Snack Stand|Snack Stand|Büfeci|
 |2006|1434964023|自动|❌|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Jogos de Relógio Arcade|
 |2005|1483947937|自动|❌|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|
 |2004|6757171842|自动|❌|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|

@@ -64859,6 +64859,14 @@
     "history": [
       [
         {
+          "timestamp": 1793840903622,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793224661146,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -91903,6 +91911,20 @@
       "120 Gems": "₺349,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793840903622,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "50 Gems": "₺199,99",
+            "1400 Gems": "₺3.999,99",
+            "650 Gems": "₺2.299,99",
+            "250 Gems": "₺899,99",
+            "120 Gems": "₺399,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790726691370,
@@ -147926,6 +147948,14 @@
     "history": [
       [
         {
+          "timestamp": 1793840903622,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792626402303,
           "price": 29.99,
           "formattedPrice": "₺29,99",
@@ -148427,6 +148457,19 @@
       "Eternal Embers DLC": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793840903622,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Immortal Throne DLC": "₺89,99",
+            "Ragnarök DLC": "₺89,99",
+            "Atlantis DLC": "₺89,99",
+            "Eternal Embers DLC": "₺89,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790726691370,
@@ -149830,6 +149873,14 @@
       "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793840903622,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793224661146,
@@ -158041,6 +158092,14 @@
       "formattedPrice": "₺5,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793840903622,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791332575449,
@@ -190301,6 +190360,14 @@
     "history": [
       [
         {
+          "timestamp": 1793840903622,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791332575449,
           "price": 169.99,
           "formattedPrice": "₺169,99",
@@ -192970,6 +193037,14 @@
       "formattedPrice": "₺5,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793840903622,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790726691370,
@@ -217583,11 +217658,21 @@
       "Mr. X Nightmare DLC": "₺149,99"
     },
     "minPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99",
+      "price": 49.99,
+      "formattedPrice": "₺49,99",
       "Mr. X Nightmare DLC": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793840903622,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790119857097,
@@ -288491,7 +288576,8 @@
       "Analog Pad 2": "₺39,99",
       "Atmospheric Pad EFX": "₺39,99",
       "Haze Pad EFX": "₺39,99",
-      "Pad Wind EFX": "₺39,99"
+      "Pad Wind EFX": "₺39,99",
+      "Live Loops": "₺299,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -288515,9 +288601,29 @@
       "Analog Pad 2": "₺39,99",
       "Atmospheric Pad EFX": "₺39,99",
       "Haze Pad EFX": "₺39,99",
-      "Pad Wind EFX": "₺39,99"
+      "Pad Wind EFX": "₺39,99",
+      "Live Loops": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793840903622,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "StageLab": "₺199,99",
+            "PadLab Full App": "₺249,99",
+            "Live Loops": "₺299,99",
+            "PadLab Worship Complete": "₺399,99",
+            "Worship Drum Collection": "₺199,99",
+            "Coleção Completa de Pads": "₺249,99",
+            "Worship EFX": "₺49,99",
+            "Worship 808": "₺49,99",
+            "Worship Cinematic": "₺49,99",
+            "Worship Drum Kit 3": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793731488753,
@@ -289958,6 +290064,19 @@
       "Return of the Goddess": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793840903622,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Legend of Keepers - DLC Bundle": "₺19,99",
+            "Soul Smugglers": "₺6,99",
+            "Feed the Troll": "₺6,99",
+            "Return of the Goddess": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790119857097,
@@ -292862,6 +292981,19 @@
       "Skin Ticket x8": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793840903622,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Blessing of Experience": "₺99,99",
+            "Skin Ticket x1": "₺19,99",
+            "Skin Ticket x3": "₺49,99",
+            "Skin Ticket x8": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792626402303,
@@ -301846,14 +301978,22 @@
   "6827745244": {
     "name": "Vize: Yaşam Simülasyonu",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "₺4,99"
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
     },
     "minPriceInfo": {
       "price": 4.99,
       "formattedPrice": "₺4,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793840903622,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793818693473,

@@ -33185,6 +33185,14 @@
     "history": [
       [
         {
+          "timestamp": 1793840903622,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793224661146,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -45706,6 +45714,20 @@
       "50 GEMAS": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793840903622,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "1400 GEMAS": "89,99 €",
+            "650 GEMAS": "49,99 €",
+            "250 GEMAS": "17,99 €",
+            "120 GEMAS": "8,99 €",
+            "50 GEMAS": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790726691370,
@@ -73369,6 +73391,14 @@
     "history": [
       [
         {
+          "timestamp": 1793840903622,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792626402303,
           "price": 0.49,
           "formattedPrice": "0,49 €",
@@ -73776,6 +73806,19 @@
       "Eternal Embers DLC": "4,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793840903622,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Immortal Throne DLC": "4,99 €",
+            "Ragnarök DLC": "4,99 €",
+            "Atlantis DLC": "4,99 €",
+            "Eternal Embers DLC": "4,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790726691370,
@@ -74533,6 +74576,14 @@
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793840903622,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793224661146,
@@ -77352,6 +77403,14 @@
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793840903622,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791332575449,
@@ -89931,6 +89990,14 @@
     "history": [
       [
         {
+          "timestamp": 1793840903622,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791332575449,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -91991,6 +92058,14 @@
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793840903622,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790726691370,
@@ -100562,7 +100637,12 @@
       "Escolha recomendada": "3,99 €",
       "Popular Offer": "1,99 €",
       "Escolha recomendada - Desconto": "2,99 €",
-      "36000 moedas": "19,99 €"
+      "36000 moedas": "19,99 €",
+      "Elimina os anúncios": "9,99 €",
+      "Coins Package 1": "0,99 €",
+      "6250 moedas": "3,99 €",
+      "Coins Package 2": "1,99 €",
+      "18000 moedas": "9,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -100576,9 +100656,33 @@
       "Escolha recomendada": "3,99 €",
       "Popular Offer": "1,99 €",
       "Escolha recomendada - Desconto": "2,99 €",
-      "36000 moedas": "19,99 €"
+      "36000 moedas": "19,99 €",
+      "Elimina os anúncios": "9,99 €",
+      "Coins Package 1": "0,99 €",
+      "6250 moedas": "3,99 €",
+      "Coins Package 2": "1,99 €",
+      "18000 moedas": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793840903622,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Elimina os anúncios": "9,99 €",
+            "Coins Package 1": "0,99 €",
+            "6250 moedas": "3,99 €",
+            "Coins Package 2": "1,99 €",
+            "18000 moedas": "9,99 €",
+            "36000 moedas": "19,99 €",
+            "Escolha recomendada - Desconto": "2,99 €",
+            "Popular Offer": "1,99 €",
+            "Escolha recomendada": "3,99 €",
+            "Oferta diária": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -103704,11 +103808,21 @@
       "DLC Mr. X Nightmare": "2,99 €"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €",
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
       "DLC Mr. X Nightmare": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793840903622,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "DLC Mr. X Nightmare": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790119857097,
@@ -139411,6 +139525,18 @@
     "history": [
       [
         {
+          "timestamp": 1793840903622,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "New Hero": "9,99 €",
+            "New Clan": "22,99 €",
+            "Privilege": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793818693473,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -141190,7 +141316,8 @@
       "Analog Pad 2": "0,99 €",
       "Atmospheric Pad EFX": "0,99 €",
       "Haze Pad EFX": "0,99 €",
-      "Pad Wind EFX": "0,99 €"
+      "Pad Wind EFX": "0,99 €",
+      "Live Loops": "6,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -141214,9 +141341,29 @@
       "Analog Pad 2": "0,99 €",
       "Atmospheric Pad EFX": "0,99 €",
       "Haze Pad EFX": "0,99 €",
-      "Pad Wind EFX": "0,99 €"
+      "Pad Wind EFX": "0,99 €",
+      "Live Loops": "6,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793840903622,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "PadLab Full App": "4,99 €",
+            "StageLab": "3,99 €",
+            "Arp Pro": "1,99 €",
+            "Pad Mix Pro": "1,99 €",
+            "Sequencer Pro": "2,99 €",
+            "Live Loops": "6,99 €",
+            "PadLab Worship Complete": "7,99 €",
+            "Worship Drum Collection": "3,99 €",
+            "Coleção Completa de Pads": "5,99 €",
+            "Worship EFX": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793731488753,
@@ -142714,6 +142861,19 @@
       "Return of the Goddess": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793840903622,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Legend of Keepers - DLC Bundle": "3,99 €",
+            "Soul Smugglers": "1,99 €",
+            "Feed the Troll": "1,99 €",
+            "Return of the Goddess": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790119857097,
@@ -145719,6 +145879,19 @@
       "Skin Ticket x8": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793840903622,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Blessing of Experience": "1,99 €",
+            "Skin Ticket x1": "0,29 €",
+            "Skin Ticket x3": "0,99 €",
+            "Skin Ticket x8": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792626402303,

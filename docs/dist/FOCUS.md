@@ -403,7 +403,7 @@ So far, we've covered `7` `Countries or Regions` and  `2403` `Apps` <br />Push n
 |2010|6749406060|Automatic|❌|Subnautica: Below Zero|Subnautica: Below Zero|Subnautica: Below Zero|Subnautica: Below Zero|Subnautica: Below Zero|Subnautica: Below Zero|
 |2009|385902072|Automatic|❌|Guns'n'Glory Premium|Guns'n'Glory Premium|Guns'n'Glory Premium|Guns'n'Glory Premium|Guns'n'Glory Premium|Guns'n'Glory Premium|
 |2008|975482646|Automatic|GENKI Conjugation Cards|GENKI Conjugation Cards|GENKI Conjugation Cards|GENKI Conjugation Cards|GENKI Conjugation Cards|GENKI Conjugation Cards|GENKI Conjugation Cards|
-|2007|6762850272|Automatic|❌|Büfeci|Büfeci|Büfeci|Büfeci|Snack Stand|Büfeci|
+|2007|6762850272|Automatic|❌|Büfeci|Büfeci|Büfeci|Snack Stand|Snack Stand|Büfeci|
 |2006|1434964023|Automatic|❌|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Jogos de Relógio Arcade|
 |2005|1483947937|Automatic|❌|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|
 |2004|6757171842|Automatic|❌|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|

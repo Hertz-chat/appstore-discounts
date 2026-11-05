@@ -129061,6 +129061,23 @@
     "history": [
       [
         {
+          "timestamp": 1793840903622,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "2年联合VIP会员": "USD 29.99",
+            "大学英语_外刊精读 | 2025年度TOP100精选": "USD 29.99",
+            "VIP连续包月": "USD 3.99",
+            "肖维青英文原著精读课-纳尼亚传奇篇": "USD 29.99",
+            "大学英语_外刊精读 | 2021年度TOP100精选": "USD 29.99",
+            "大学英语_外刊精读 | 2022年度TOP100精选": "USD 29.99",
+            "大学英语_外刊精读 | 2024年度TOP100精选": "USD 29.99",
+            "林小鹿英语精读（1-7季合集升级版）": "USD 69.99",
+            "大学英语_外刊精读 | 2023年度TOP100精选": "USD 29.99",
+            "林小鹿经济学人精读": "USD 19.99"
+          }
+        },
+        {
           "timestamp": 1793818693473,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -206187,7 +206204,8 @@
       "Worship Cinematic": "USD 0.99",
       "Worship Drum Kit 3": "USD 0.99",
       "Worship Drum Kit 2": "USD 0.99",
-      "Worship Drum Kit 1": "USD 0.99"
+      "Worship Drum Kit 1": "USD 0.99",
+      "Live Loops": "USD 5.99"
     },
     "minPriceInfo": {
       "price": 1.69,
@@ -206201,9 +206219,29 @@
       "Worship Cinematic": "USD 0.99",
       "Worship Drum Kit 3": "USD 0.99",
       "Worship Drum Kit 2": "USD 0.99",
-      "Worship Drum Kit 1": "USD 0.99"
+      "Worship Drum Kit 1": "USD 0.99",
+      "Live Loops": "USD 5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793840903622,
+          "price": 1.69,
+          "formattedPrice": "USD 1.69",
+          "inAppPurchases": {
+            "Live Loops": "USD 5.99",
+            "PadLab Full App": "USD 4.59",
+            "PadLab Worship Complete": "USD 6.99",
+            "Worship Drum Collection": "USD 3.99",
+            "Coleção Completa de Pads": "USD 4.99",
+            "Worship EFX": "USD 0.99",
+            "Worship 808": "USD 0.99",
+            "Worship Cinematic": "USD 0.99",
+            "Worship Drum Kit 3": "USD 0.99",
+            "Worship Drum Kit 2": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793753850884,

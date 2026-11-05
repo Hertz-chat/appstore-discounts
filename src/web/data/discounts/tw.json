@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6759358968,
+    "region": "tw",
+    "timestamp": 1793840903622,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $90.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6759358968",
+    "trackName": "PadLab - Live Pads",
+    "firstRecordedAt": 1771737513147
+  },
+  {
     "trackId": 998834675,
     "region": "tw",
     "timestamp": 1793818693473,

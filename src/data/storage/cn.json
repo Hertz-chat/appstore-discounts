@@ -9273,6 +9273,25 @@
     "history": [
       [
         {
+          "timestamp": 1793840903622,
+          "price": 168,
+          "formattedPrice": "¥168.00",
+          "inAppPurchases": {
+            "forScore Pro": "¥98.00",
+            "Brahms: The Mutopia Collection": "¥0.00",
+            "Liszt: The Mutopia Collection": "¥0.00",
+            "Burgmüller: The Mutopia Collection": "¥0.00",
+            "Schumann: The Mutopia Collection": "¥0.00",
+            "Rameau: The Mutopia Collection": "¥0.00",
+            "Tchaikovsky: The Mutopia Collection": "¥0.00",
+            "Haydn: The Mutopia Collection": "¥0.00",
+            "Sousa: The Mutopia Collection": "¥0.00",
+            "Verdi: The Mutopia Collection": "¥0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793438080874,
           "price": 168,
           "formattedPrice": "¥168.00",
@@ -51333,6 +51352,25 @@
       "下载包318": "¥318.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793840903622,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "下载包8": "¥8.00",
+            "下载包318": "¥318.00",
+            "永久金紫会员": "¥298.00",
+            "下载次数": "¥1.00",
+            "金紫会员永久": "¥298.00",
+            "金紫会员6个月": "¥50.00",
+            "金紫会员12个月": "¥85.00",
+            "金紫会员1个月": "¥10.00",
+            "纯净模式永久": "¥188.00",
+            "纯净模式12个月": "¥50.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793653056000,
@@ -231552,7 +231590,8 @@
       "Worship Cinematic": "¥8.00",
       "Worship Drum Kit 3": "¥8.00",
       "Worship Drum Kit 2": "¥8.00",
-      "Worship Drum Kit 1": "¥8.00"
+      "Worship Drum Kit 1": "¥8.00",
+      "Live Loops": "¥38.00"
     },
     "minPriceInfo": {
       "price": 12,
@@ -231566,9 +231605,29 @@
       "Worship Cinematic": "¥8.00",
       "Worship Drum Kit 3": "¥8.00",
       "Worship Drum Kit 2": "¥8.00",
-      "Worship Drum Kit 1": "¥8.00"
+      "Worship Drum Kit 1": "¥8.00",
+      "Live Loops": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793840903622,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {
+            "PadLab Full App": "¥32.00",
+            "Live Loops": "¥38.00",
+            "PadLab Worship Complete": "¥48.00",
+            "Worship Drum Collection": "¥28.00",
+            "Coleção Completa de Pads": "¥38.00",
+            "Worship EFX": "¥8.00",
+            "Worship 808": "¥8.00",
+            "Worship Cinematic": "¥8.00",
+            "Worship Drum Kit 3": "¥8.00",
+            "Worship Drum Kit 2": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793753850884,

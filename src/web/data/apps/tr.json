@@ -5146,7 +5146,7 @@
   {
     "trackId": 727544019,
     "region": "tr",
-    "timestamp": 1793872776771,
+    "timestamp": 1793905807227,
     "discounts": [],
     "price": 229.99,
     "formattedPrice": "₺229,99",
@@ -19659,7 +19659,7 @@
   {
     "trackId": 6473001577,
     "region": "tr",
-    "timestamp": 1793818693473,
+    "timestamp": 1793905807227,
     "discounts": [],
     "price": 199.99,
     "formattedPrice": "₺199,99",
@@ -24594,7 +24594,7 @@
   {
     "trackId": 6758999138,
     "region": "tr",
-    "timestamp": 1792846729867,
+    "timestamp": 1793905807227,
     "discounts": [],
     "price": 249.99,
     "formattedPrice": "₺249,99",
@@ -24762,7 +24762,7 @@
   {
     "trackId": 6759664029,
     "region": "tr",
-    "timestamp": 1793731488753,
+    "timestamp": 1793905807227,
     "discounts": [],
     "price": 399.99,
     "formattedPrice": "₺399,99",
@@ -25262,6 +25262,18 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6761963228",
     "trackName": "国学日历",
     "firstRecordedAt": 1791316756993
+  },
+  {
+    "trackId": 6762192063,
+    "region": "tr",
+    "timestamp": 1793905807227,
+    "discounts": [],
+    "price": 499.99,
+    "formattedPrice": "₺499,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6762192063",
+    "trackName": "Absolum",
+    "firstRecordedAt": 1793905807227
   },
   {
     "trackId": 6762279908,
@@ -26816,7 +26828,7 @@
   {
     "trackId": 6819103516,
     "region": "tr",
-    "timestamp": 1793653056000,
+    "timestamp": 1793905807227,
     "discounts": [],
     "price": 299.99,
     "formattedPrice": "₺299,99",
@@ -26864,10 +26876,10 @@
   {
     "trackId": 6821872148,
     "region": "tr",
-    "timestamp": 1793786660480,
+    "timestamp": 1793905807227,
     "discounts": [],
-    "price": 199.99,
-    "formattedPrice": "₺199,99",
+    "price": 249.99,
+    "formattedPrice": "₺249,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6821872148",
     "trackName": "Duopaper: Panoramic Wallpapers",

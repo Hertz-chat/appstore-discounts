@@ -71430,6 +71430,25 @@
     "history": [
       [
         {
+          "timestamp": 1793905807227,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "1 Mo. CAN Texting": "$90.00",
+            "$5 Credit": "$190.00",
+            "3 Mo. CAN Texting": "$190.00",
+            "1 Mo. Global Texting": "$120.00",
+            "3 Mo. Global Texting": "$290.00",
+            "12 Mo. Global Texting": "$990.00",
+            "6 Mo. Global Texting": "$490.00",
+            "12 Mo. CAN Texting": "$590.00",
+            "6 Mo. CAN Texting": "$320.00",
+            "$10 Credit": "$320.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793243454661,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -133231,6 +133250,25 @@
     "history": [
       [
         {
+          "timestamp": 1793905807227,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Miku": "$320.00",
+            "CAPSO": "$320.00",
+            "ConneR": "$320.00",
+            "9 Characters": "$1,190.00",
+            "Xenon": "$320.00",
+            "Cherry": "$320.00",
+            "Kizuna AI": "$320.00",
+            "Battle CHAOS 2019": "$150.00",
+            "Alice": "$320.00",
+            "Amiya": "$320.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793178284917,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -142774,6 +142812,25 @@
       "原版怪獸卡牌包": "$290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793905807227,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "$120.00",
+            "原版怪獸繼承卡牌包": "$590.00",
+            "怪獸繼承": "$150.00",
+            "原版魔王權能卡牌包": "$590.00",
+            "原版魔王完整卡牌包": "$890.00",
+            "覺醒魔王完整卡牌包": "$890.00",
+            "原版設施卡牌包": "$290.00",
+            "原版魔王加速卡牌包": "$290.00",
+            "覺醒魔王卡牌包": "$590.00",
+            "原版地宮卡牌包": "$590.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793673861342,
@@ -210629,6 +210686,14 @@
       "formattedPrice": "$10.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793905807227,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793463940314,
@@ -303275,6 +303340,14 @@
     "history": [
       [
         {
+          "timestamp": 1793905807227,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792483161643,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -324969,6 +325042,14 @@
     "history": [
       [
         {
+          "timestamp": 1793905807227,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793295722489,
           "price": 320,
           "formattedPrice": "$320.00",
@@ -328666,13 +328747,25 @@
     "region": "tw",
     "maxPriceInfo": {
       "price": 150,
-      "formattedPrice": "$150.00"
+      "formattedPrice": "$150.00",
+      "Faraway Tales": "$60.00"
     },
     "minPriceInfo": {
       "price": 150,
-      "formattedPrice": "$150.00"
+      "formattedPrice": "$150.00",
+      "Faraway Tales": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793905807227,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Faraway Tales": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792846729867,
@@ -328803,14 +328896,22 @@
     "trackName": "Duopaper: 摺疊螢幕全景桌布，展開發現畫裡隱藏的驚喜",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 120,
-      "formattedPrice": "$120.00"
+      "price": 150,
+      "formattedPrice": "$150.00"
     },
     "minPriceInfo": {
       "price": 60,
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793905807227,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793818693473,
@@ -329177,7 +329278,8 @@
       "天下統一版": "$160.00",
       "擴充包1・蜀統一": "$90.00",
       "擴充包2・吳統一與真結局": "$90.00",
-      "出身包1・太平道之子": "$60.00"
+      "出身包1・太平道之子": "$60.00",
+      "出身包2・河北之子": "$60.00"
     },
     "minPriceInfo": {
       "price": 90,
@@ -329185,9 +329287,24 @@
       "天下統一版": "$160.00",
       "擴充包1・蜀統一": "$90.00",
       "擴充包2・吳統一與真結局": "$90.00",
-      "出身包1・太平道之子": "$60.00"
+      "出身包1・太平道之子": "$60.00",
+      "出身包2・河北之子": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793905807227,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "天下統一版": "$160.00",
+            "擴充包1・蜀統一": "$90.00",
+            "擴充包2・吳統一與真結局": "$90.00",
+            "出身包2・河北之子": "$60.00",
+            "出身包1・太平道之子": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793653056000,
@@ -329221,6 +329338,29 @@
           "timestamp": 1793818693473,
           "price": 30,
           "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6762192063": {
+    "trackId": 6762192063,
+    "trackName": "Absolum",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 290,
+      "formattedPrice": "$290.00"
+    },
+    "minPriceInfo": {
+      "price": 290,
+      "formattedPrice": "$290.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793905807227,
+          "price": 290,
+          "formattedPrice": "$290.00",
           "inAppPurchases": {}
         }
       ]

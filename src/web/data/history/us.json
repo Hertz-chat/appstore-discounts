@@ -11508,6 +11508,17 @@
     "history": [
       [
         {
+          "timestamp": 1793905807227,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "I <3 Analog Filter Pack": "$0.99",
+            "Hollywood Filter Pack": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787131983558,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -254694,6 +254705,23 @@
     "history": [
       [
         {
+          "timestamp": 1793905807227,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "All Unit Groups": "$12.99",
+            "All Heroes": "$14.99",
+            "Hero Dragon Kosmos": "$6.99",
+            "Unit Group Jaegers": "$6.99",
+            "Unit Group Rebooted Ascendii": "$2.99",
+            "Hero Red Dragon": "$5.99",
+            "Starter Pack": "$4.99",
+            "Unit Group Jaegers On Sale": "$4.99",
+            "Hero Zhara": "$4.99",
+            "Special Daily Pack7": "$1.99"
+          }
+        },
+        {
           "timestamp": 1793872776771,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -369523,13 +369551,25 @@
     "region": "us",
     "maxPriceInfo": {
       "price": 4.99,
-      "formattedPrice": "$4.99"
+      "formattedPrice": "$4.99",
+      "Faraway Tales": "$1.99"
     },
     "minPriceInfo": {
       "price": 4.99,
-      "formattedPrice": "$4.99"
+      "formattedPrice": "$4.99",
+      "Faraway Tales": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793905807227,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Faraway Tales": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792846729867,
@@ -369660,14 +369700,22 @@
     "trackName": "Duopaper: Panoramic Wallpapers",
     "region": "us",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "$3.99"
+      "price": 4.99,
+      "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793905807227,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793818693473,
@@ -370003,7 +370051,8 @@
       "出身包1・太平道之子": "$1.99",
       "天下統一版": "$6.99",
       "擴充包2・吳統一與真結局": "$3.99",
-      "擴充包1・蜀統一": "$3.99"
+      "擴充包1・蜀統一": "$3.99",
+      "出身包2・河北之子": "$1.99"
     },
     "minPriceInfo": {
       "price": 5.99,
@@ -370011,9 +370060,24 @@
       "出身包1・太平道之子": "$1.99",
       "天下統一版": "$6.99",
       "擴充包2・吳統一與真結局": "$3.99",
-      "擴充包1・蜀統一": "$3.99"
+      "擴充包1・蜀統一": "$3.99",
+      "出身包2・河北之子": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793905807227,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "出身包2・河北之子": "$1.99",
+            "出身包1・太平道之子": "$1.99",
+            "天下統一版": "$6.99",
+            "擴充包2・吳統一與真結局": "$3.99",
+            "擴充包1・蜀統一": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793653056000,
@@ -370047,6 +370111,29 @@
           "timestamp": 1793818693473,
           "price": 0.99,
           "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6762192063": {
+    "trackId": 6762192063,
+    "trackName": "Absolum",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "$8.99"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "$8.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793905807227,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
           "inAppPurchases": {}
         }
       ]

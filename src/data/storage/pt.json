@@ -50444,6 +50444,20 @@
     "history": [
       [
         {
+          "timestamp": 1793905807227,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "89,99 €",
+            "Parallels Desktop for Mac #4": "89,99 €",
+            "Parallels Desktop for Mac #3": "89,99 €",
+            "Parallels Desktop for Mac": "89,99 €",
+            "Parallels Desktop for Mac #2": "89,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -153361,13 +153375,25 @@
     "name": "Knightica",
     "maxPriceInfo": {
       "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "formattedPrice": "5,99 €",
+      "Faraway Tales": "1,99 €"
     },
     "minPriceInfo": {
       "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "formattedPrice": "5,99 €",
+      "Faraway Tales": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793905807227,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Faraway Tales": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792846729867,
@@ -153465,14 +153491,22 @@
   "6821872148": {
     "name": "Duopaper: Fundos HD para ecrãs",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €"
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793905807227,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793786660480,
@@ -153813,7 +153847,8 @@
       "出身包1・太平道之子": "1,99 €",
       "天下統一版": "7,99 €",
       "擴充包2・吳統一與真結局": "3,99 €",
-      "擴充包1・蜀統一": "3,99 €"
+      "擴充包1・蜀統一": "3,99 €",
+      "出身包2・河北之子": "1,99 €"
     },
     "minPriceInfo": {
       "price": 6.99,
@@ -153821,9 +153856,24 @@
       "出身包1・太平道之子": "1,99 €",
       "天下統一版": "7,99 €",
       "擴充包2・吳統一與真結局": "3,99 €",
-      "擴充包1・蜀統一": "3,99 €"
+      "擴充包1・蜀統一": "3,99 €",
+      "出身包2・河北之子": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793905807227,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "出身包2・河北之子": "1,99 €",
+            "出身包1・太平道之子": "1,99 €",
+            "天下統一版": "7,99 €",
+            "擴充包2・吳統一與真結局": "3,99 €",
+            "擴充包1・蜀統一": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793653056000,
@@ -153855,6 +153905,27 @@
           "timestamp": 1793818693473,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6762192063": {
+    "name": "Absolum",
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "8,99 €"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "8,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1793905807227,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
           "inAppPurchases": {}
         }
       ]

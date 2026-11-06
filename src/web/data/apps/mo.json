@@ -11704,7 +11704,7 @@
     "formattedPrice": "免費",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1422480068",
-    "trackName": "Nautilus：網頁、文件、標註",
+    "trackName": "Nautilus：網頁、Word、標註",
     "firstRecordedAt": 1722784406759
   },
   {
@@ -12128,7 +12128,7 @@
     "formattedPrice": "免費",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1441522083",
-    "trackName": "Morphing LED Banner",
+    "trackName": "LED Banner: Marquee & Scroller",
     "firstRecordedAt": 1745568184983
   },
   {
@@ -19708,7 +19708,7 @@
   {
     "trackId": 6471839445,
     "region": "mo",
-    "timestamp": 1793927683912,
+    "timestamp": 1793959313216,
     "discounts": [],
     "price": 3.49,
     "formattedPrice": "USD 3.49",
@@ -20442,7 +20442,7 @@
   {
     "trackId": 6480501528,
     "region": "mo",
-    "timestamp": 1793927683912,
+    "timestamp": 1793959313216,
     "discounts": [],
     "price": 0.29,
     "formattedPrice": "USD 0.29",
@@ -25100,10 +25100,10 @@
   {
     "trackId": 6759970821,
     "region": "mo",
-    "timestamp": 1793927683912,
+    "timestamp": 1793959313216,
     "discounts": [],
-    "price": 2.99,
-    "formattedPrice": "USD 2.99",
+    "price": 0,
+    "formattedPrice": "免費",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6759970821",
     "trackName": "地牢合併!（Dungeon Merge!）",

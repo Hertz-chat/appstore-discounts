@@ -115363,7 +115363,7 @@
     ]
   },
   "1422480068": {
-    "name": "Nautilus：網頁、文件、標註",
+    "name": "Nautilus：網頁、Word、標註",
     "maxPriceInfo": {
       "price": 12.99,
       "formattedPrice": "USD 12.99",
@@ -119055,7 +119055,7 @@
     ]
   },
   "1441522083": {
-    "name": "Morphing LED Banner",
+    "name": "LED Banner: Marquee & Scroller",
     "maxPriceInfo": {
       "price": 0.29,
       "formattedPrice": "USD 0.29",
@@ -183423,6 +183423,23 @@
     "history": [
       [
         {
+          "timestamp": 1793959313216,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "Jingle": "USD 2.99",
+            "2025 Spring Forest Theme": "USD 1.99",
+            "2025 Spring Lawn Theme": "USD 2.49",
+            "2025 Spring Flower Theme": "USD 1.99",
+            "Lawn Theme": "USD 1.99",
+            "小灰": "USD 1.99",
+            "軟軟": "USD 1.99",
+            "招財": "USD 1.99",
+            "點點": "USD 1.99",
+            "Civet Theme": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1793927683912,
           "price": 0.29,
           "formattedPrice": "USD 0.29",
@@ -206764,6 +206781,23 @@
     "history": [
       [
         {
+          "timestamp": 1793959313216,
+          "price": 3.49,
+          "formattedPrice": "USD 3.49",
+          "inAppPurchases": {
+            "HOLOGRAPHIC GHOST": "USD 1.99",
+            "WIREFRAME RAINBOW": "USD 0.99",
+            "WIREFRAME RED": "USD 0.99",
+            "WIREFRAME BLACK": "USD 0.99",
+            "WIREFRAME WHITE": "USD 0.99",
+            "LOW POLY BLUE": "USD 1.99",
+            "LOW POLY PINK": "USD 1.99",
+            "LOW POLY CALICO": "USD 1.99",
+            "LOW POLY RED": "USD 1.99",
+            "LOW POLY BLACK": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1793927683912,
           "price": 3.49,
           "formattedPrice": "USD 3.49",
@@ -215208,8 +215242,8 @@
       "30天補給卡": "USD 5.99"
     },
     "minPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "USD 0.29",
+      "price": 0,
+      "formattedPrice": "免費",
       "120 Diamonds": "USD 3.99",
       "Starter Pack 1": "USD 1.99",
       "4000 Diamonds": "USD 99.99",
@@ -215220,6 +215254,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1793959313216,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "30天補給卡": "USD 5.99",
+            "120 Diamonds": "USD 3.99",
+            "Starter Pack 1": "USD 1.99",
+            "4000 Diamonds": "USD 99.99",
+            "50 Diamonds": "USD 1.99",
+            "16 Base Heroes Unlock Pack": "USD 39.99",
+            "700 Diamonds": "USD 19.99"
+          }
+        },
         {
           "timestamp": 1793927683912,
           "price": 2.99,

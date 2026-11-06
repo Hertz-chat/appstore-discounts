@@ -65855,6 +65855,25 @@
     "history": [
       [
         {
+          "timestamp": 1793959313216,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2017 Enhanced Diagnostics": "$14.99",
+            "Ford 2013 Enhanced Diagnostics": "$14.99",
+            "Toyota 2016 Enhanced Diagnostics": "$14.99",
+            "Toyota 2005 Enhanced Diagnostics": "$14.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793872776771,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -156865,6 +156884,25 @@
     "history": [
       [
         {
+          "timestamp": 1793959313216,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "$3.99",
+            "Original Succession Package": "$17.99",
+            "Dark Lord Awakening Complete": "$26.99",
+            "Monster Succession": "$4.99",
+            "Awakened Irea Package": "$4.99",
+            "Dark Lord Boost Package": "$8.99",
+            "Awakening Viper Package": "$4.99",
+            "Original Lord Complete Package": "$26.99",
+            "Original Monster Package": "$8.99",
+            "Torture Master Package": "$22.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793753850884,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -169398,7 +169436,7 @@
     ]
   },
   "1422480068": {
-    "name": "Nautilus: Web, Docs, Annotate",
+    "name": "Nautilus: Web, Word, Annotate",
     "maxPriceInfo": {
       "price": 14.99,
       "formattedPrice": "$14.99",
@@ -172814,7 +172852,7 @@
     ]
   },
   "1441522083": {
-    "name": "Morphing LED Banner",
+    "name": "LED Banner: Marquee & Scroller",
     "maxPriceInfo": {
       "price": 3.99,
       "formattedPrice": "$3.99",
@@ -178827,6 +178865,25 @@
       "1980玉符": "$29.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793959313216,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "68金玉": "$9.99",
+            "30金玉": "$4.99",
+            "648金玉": "$99.99",
+            "198金玉": "$29.99",
+            "禮包5": "$4.99",
+            "禮包6": "$9.99",
+            "6金玉": "$0.99",
+            "328金玉": "$49.99",
+            "禮包7": "$14.99",
+            "丹青閣通行證": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792656146968,
@@ -240475,6 +240532,14 @@
     "history": [
       [
         {
+          "timestamp": 1793959313216,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793501604822,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -251861,6 +251926,25 @@
       "Hero Bomett On Sale": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793959313216,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "All Unit Groups": "$12.99",
+            "All Heroes": "$14.99",
+            "Hero Dragon Kosmos": "$6.99",
+            "Unit Group Jaegers": "$6.99",
+            "Unit Group Rebooted Ascendii": "$2.99",
+            "Hero Red Dragon": "$5.99",
+            "Starter Pack": "$4.99",
+            "Unit Group Jaegers On Sale": "$4.99",
+            "Hero Zhara": "$4.99",
+            "Unit Group Ascendii On Sale": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793905807227,
@@ -276120,6 +276204,25 @@
       "五子良將": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793959313216,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "江山美人": "$2.99",
+            "自創武將": "$2.99",
+            "虎嘯鳳鳴": "$3.99",
+            "冠絕天下": "$5.99",
+            "西涼悍將": "$5.99",
+            "五子良將": "$5.99",
+            "無雙戰神": "$5.99",
+            "鎮海神威": "$2.99",
+            "斜谷殘陽": "$5.99",
+            "群雄爭霸": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793673861342,
@@ -338815,6 +338918,14 @@
     "history": [
       [
         {
+          "timestamp": 1793959313216,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792483161643,
           "price": 0.29,
           "formattedPrice": "$0.29",
@@ -344678,6 +344789,25 @@
     "history": [
       [
         {
+          "timestamp": 1793959313216,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "porches": "$0.99",
+            "5 gold": "$0.29",
+            "5 ticket": "$0.29",
+            "30000 money": "$0.29",
+            "10 gold": "$0.49",
+            "30 gold": "$0.99",
+            "sonsuz paket": "$4.99",
+            "orta paket": "$0.99",
+            "25 gold": "$0.89",
+            "30 ticket": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792742526515,
           "price": 0,
           "formattedPrice": "Free",
@@ -349074,6 +349204,25 @@
       "BLACK VAMPIRE": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793959313216,
+          "price": 3.49,
+          "formattedPrice": "$3.49",
+          "inAppPurchases": {
+            "RED RYUKIN": "$1.99",
+            "RED-WHITE RYUKIN": "$1.99",
+            "PANDA TELESCOPE": "$1.99",
+            "CALICO RED/WHITE/BLACK": "$1.99",
+            "SKELETON FISH": "$1.99",
+            "ROBO FISH 02": "$1.99",
+            "ORANGE/WHITE": "$1.99",
+            "GHOST TRANSLUCENT": "$1.99",
+            "CALICO RED/GRAY/BLACK": "$1.99",
+            "ROBO FISH 01": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793872776771,
@@ -361511,8 +361660,8 @@
       "30-Day Supply Pass": "$5.99"
     },
     "minPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "$0.29",
+      "price": 0,
+      "formattedPrice": "Free",
       "Starter Pack 1": "$1.99",
       "120 Diamonds": "$3.99",
       "4000 Diamonds": "$99.99",
@@ -361522,6 +361671,22 @@
       "30-Day Supply Pass": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793959313216,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Starter Pack 1": "$1.99",
+            "120 Diamonds": "$3.99",
+            "30-Day Supply Pass": "$5.99",
+            "4000 Diamonds": "$99.99",
+            "50 Diamonds": "$1.99",
+            "16 Base Heroes Unlock Pack": "$39.99",
+            "700 Diamonds": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793927683912,
@@ -361855,6 +362020,14 @@
       "Unlocked! “Akane” & “Koro”": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793959313216,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793330060259,
@@ -363021,6 +363194,25 @@
       "Gems Barrel": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793959313216,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Drakkan": "$6.99",
+            "Hero Ashbite": "$6.99",
+            "Tower Sniper": "$5.99",
+            "ALL HEROES BUNDLE": "$24.99",
+            "Gems Pouch": "$4.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Tower Alchemist": "$2.99",
+            "ALL SPELLS BUNDLE": "$12.99",
+            "Hero Ignus": "$2.99",
+            "Gems Handful": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793927683912,

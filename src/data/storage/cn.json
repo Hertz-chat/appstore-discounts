@@ -26537,7 +26537,16 @@
       "Calendars - Rio Games 2016 edition": "¥8.00",
       "公眾假期 澳大利亚": "¥8.00",
       "公眾假期 香港": "¥8.00",
-      "Calendars - PL Football Men Senegal 2015-2016 edition": "¥8.00"
+      "Calendars - PL Football Men Senegal 2015-2016 edition": "¥8.00",
+      "Calendars - Primera Divisio Football Men Andorra 2015-2016 edition": "¥8.00",
+      "Calendars - Segona Divisio Football Men Andorra 2015-2016 edition": "¥8.00",
+      "Calendars - Premier Division Football Men Gibraltar 2015-2016 edition": "¥8.00",
+      "Calendars - Superliga Volleyball Women Brazil 2015-2016 edition": "¥8.00",
+      "Calendars - LPB Basketball Men Portugal 2015-2016 edition": "¥8.00",
+      "时间表 - CBA 篮球 Men 中国 2015-2016 版": "¥8.00",
+      "Calendars - LFB Basketball Women France 2015-2016 edition": "¥8.00",
+      "Calendars - Eredivisie Handball Men Netherlands 2015-2016 edition": "¥8.00",
+      "Calendars - Eredivisie Handball Women Netherlands 2015-2016 edition": "¥8.00"
     },
     "minPriceInfo": {
       "price": 68,
@@ -26551,9 +26560,37 @@
       "Calendars - Rio Games 2016 edition": "¥8.00",
       "公眾假期 澳大利亚": "¥8.00",
       "公眾假期 香港": "¥8.00",
-      "Calendars - PL Football Men Senegal 2015-2016 edition": "¥8.00"
+      "Calendars - PL Football Men Senegal 2015-2016 edition": "¥8.00",
+      "Calendars - Primera Divisio Football Men Andorra 2015-2016 edition": "¥8.00",
+      "Calendars - Segona Divisio Football Men Andorra 2015-2016 edition": "¥8.00",
+      "Calendars - Premier Division Football Men Gibraltar 2015-2016 edition": "¥8.00",
+      "Calendars - Superliga Volleyball Women Brazil 2015-2016 edition": "¥8.00",
+      "Calendars - LPB Basketball Men Portugal 2015-2016 edition": "¥8.00",
+      "时间表 - CBA 篮球 Men 中国 2015-2016 版": "¥8.00",
+      "Calendars - LFB Basketball Women France 2015-2016 edition": "¥8.00",
+      "Calendars - Eredivisie Handball Men Netherlands 2015-2016 edition": "¥8.00",
+      "Calendars - Eredivisie Handball Women Netherlands 2015-2016 edition": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793927683912,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {
+            "Calendars - PL Football Men Senegal 2015-2016 edition": "¥8.00",
+            "Calendars - Primera Divisio Football Men Andorra 2015-2016 edition": "¥8.00",
+            "Calendars - Segona Divisio Football Men Andorra 2015-2016 edition": "¥8.00",
+            "Calendars - Premier Division Football Men Gibraltar 2015-2016 edition": "¥8.00",
+            "Calendars - Superliga Volleyball Women Brazil 2015-2016 edition": "¥8.00",
+            "Calendars - LPB Basketball Men Portugal 2015-2016 edition": "¥8.00",
+            "时间表 - CBA 篮球 Men 中国 2015-2016 版": "¥8.00",
+            "Calendars - LFB Basketball Women France 2015-2016 edition": "¥8.00",
+            "Calendars - Eredivisie Handball Men Netherlands 2015-2016 edition": "¥8.00",
+            "Calendars - Eredivisie Handball Women Netherlands 2015-2016 edition": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788801558459,
@@ -64340,6 +64377,25 @@
       "限时礼包-4": "¥30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793927683912,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "助飞战令-3000积分": "¥6.00",
+            "助飞战令-初级精英战令": "¥30.00",
+            "助飞战令-6000积分": "¥38.00",
+            "助飞战令-15000积分": "¥68.00",
+            "助飞战令-高级精英战令": "¥30.00",
+            "翅膀初绽礼包": "¥6.00",
+            "翅膀焕新礼包": "¥18.00",
+            "神器微光礼包": "¥6.00",
+            "战力启航礼包": "¥6.00",
+            "战力跃升礼包": "¥18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793068805806,
@@ -128345,6 +128401,23 @@
     "history": [
       [
         {
+          "timestamp": 1793927683912,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "6金玉": "¥6.00",
+            "30金玉": "¥30.00",
+            "68金玉": "¥68.00",
+            "30元礼包": "¥30.00",
+            "1元礼包": "¥1.00",
+            "328元礼包": "¥328.00",
+            "198金玉": "¥198.00",
+            "648金玉": "¥648.00",
+            "高级月奉": "¥30.00",
+            "丹青阁68元通行证": "¥68.00"
+          }
+        },
+        {
           "timestamp": 1793905807227,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -135738,6 +135811,25 @@
       "购买128个海星": "¥128.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793927683912,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {
+            "心岛日记心礼会员VIP（3个月）": "¥50.00",
+            "心岛日记心礼会员VIP（12个月）": "¥188.00",
+            "心岛日记心礼会员VIP（1个月）": "¥18.00",
+            "购买12个海星": "¥12.00",
+            "购买128个海星": "¥128.00",
+            "购买68个海星": "¥68.00",
+            "购买30个海星": "¥30.00",
+            "购买6个海星": "¥6.00",
+            "6800贝壳购买": "¥68.00",
+            "1200贝壳购买": "¥12.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793438080874,
@@ -178983,6 +179075,25 @@
       "648.0元礼包": "¥648.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793927683912,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "25.0元礼包": "¥25.00",
+            "30.0元礼包": "¥30.00",
+            "128.0元礼包": "¥128.00",
+            "648.0元礼包": "¥648.00",
+            "168.0元礼包": "¥168.00",
+            "18.0元礼包": "¥18.00",
+            "6.0元礼包": "¥6.00",
+            "98.0元礼包": "¥98.00",
+            "45.0元礼包": "¥45.00",
+            "60.0元礼包": "¥60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792462971499,
@@ -228554,6 +228665,25 @@
       "DLC-暖意泳装礼包1": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793927683912,
+          "price": 29,
+          "formattedPrice": "¥29.00",
+          "inAppPurchases": {
+            "《沙石镇时光》美好时光与怪兽萌宠合集包": "¥14.00",
+            "《沙石镇时光》肥尾守宫宠物包": "¥3.00",
+            "DLC-家具合集包": "¥10.00",
+            "手游DLC-工坊主泳装礼服合集包": "¥5.00",
+            "DLC超值合集包": "¥56.00",
+            "DLC-星光礼服礼包合集": "¥12.00",
+            "《沙石镇时光》DLC-暖意泳装礼包合集": "¥12.00",
+            "《沙石镇时光》怪兽萌宠": "¥10.00",
+            "沙石镇时光恋爱时光DLC": "¥10.00",
+            "《沙石镇时光》DLC-家具硬装包": "¥5.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793653056000,

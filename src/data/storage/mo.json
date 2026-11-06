@@ -183386,14 +183386,14 @@
       "Jingle": "USD 2.99",
       "每月": "USD 1.99",
       "每年": "USD 11.99",
-      "乖乖": "USD 0.99",
-      "Calico Theme": "USD 0.99",
-      "Orange Theme": "USD 0.99",
-      "辛巴": "USD 0.99",
-      "Siamese Theme": "USD 0.99",
-      "可可": "USD 0.99",
-      "City Night Theme": "USD 0.99",
-      "Blue Sky Theme": "USD 0.99"
+      "乖乖": "USD 1.99",
+      "Calico Theme": "USD 1.99",
+      "Orange Theme": "USD 1.99",
+      "辛巴": "USD 1.99",
+      "Siamese Theme": "USD 1.99",
+      "可可": "USD 1.99",
+      "City Night Theme": "USD 1.99",
+      "Blue Sky Theme": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -183421,6 +183421,25 @@
       "Blue Sky Theme": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793927683912,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "每月": "USD 1.99",
+            "每年": "USD 11.99",
+            "乖乖": "USD 1.99",
+            "Calico Theme": "USD 1.99",
+            "Orange Theme": "USD 1.99",
+            "辛巴": "USD 1.99",
+            "Siamese Theme": "USD 1.99",
+            "可可": "USD 1.99",
+            "City Night Theme": "USD 1.99",
+            "Blue Sky Theme": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791397748865,
@@ -206745,6 +206764,25 @@
     "history": [
       [
         {
+          "timestamp": 1793927683912,
+          "price": 3.49,
+          "formattedPrice": "USD 3.49",
+          "inAppPurchases": {
+            "BLACK KITTY FISH": "USD 1.99",
+            "ROBO FISH 02": "USD 1.99",
+            "ROBO FISH 01": "USD 1.99",
+            "ROBO FISH 03": "USD 1.99",
+            "ROBO FISH 04": "USD 1.99",
+            "ROBO FISH 05": "USD 1.99",
+            "ROBO FISH 06": "USD 1.99",
+            "WHITE KITTY FISH": "USD 1.99",
+            "ORANGE & WHITE KITTY FISH": "USD 1.99",
+            "RED RYUKIN": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793178284917,
           "price": 3.49,
           "formattedPrice": "USD 3.49",
@@ -215166,7 +215204,8 @@
       "4000 Diamonds": "USD 99.99",
       "50 Diamonds": "USD 1.99",
       "16 Base Heroes Unlock Pack": "USD 39.99",
-      "700 Diamonds": "USD 19.99"
+      "700 Diamonds": "USD 19.99",
+      "30天補給卡": "USD 5.99"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -215176,9 +215215,26 @@
       "4000 Diamonds": "USD 99.99",
       "50 Diamonds": "USD 1.99",
       "16 Base Heroes Unlock Pack": "USD 39.99",
-      "700 Diamonds": "USD 19.99"
+      "700 Diamonds": "USD 19.99",
+      "30天補給卡": "USD 5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793927683912,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "30天補給卡": "USD 5.99",
+            "120 Diamonds": "USD 3.99",
+            "Starter Pack 1": "USD 1.99",
+            "4000 Diamonds": "USD 99.99",
+            "50 Diamonds": "USD 1.99",
+            "16 Base Heroes Unlock Pack": "USD 39.99",
+            "700 Diamonds": "USD 19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793178284917,

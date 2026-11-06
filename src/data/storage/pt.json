@@ -50444,6 +50444,21 @@
     "history": [
       [
         {
+          "timestamp": 1793927683912,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #4": "89,99 €",
+            "Parallels Desktop for Mac": "89,99 €",
+            "Parallels Desktop for Mac #2": "89,99 €",
+            "Assinatura (1 ano)": "89,99 €",
+            "Parallels Desktop for Mac #3": "89,99 €",
+            "Parallels Desktop for Mac #5": "89,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793905807227,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -70713,6 +70728,25 @@
       "Myth full pack": "44,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793927683912,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "3,99 €",
+            "TeaSet DarkLord Skin Package C": "5,99 €",
+            "Teaset Dark Lord Skin PackageB": "5,99 €",
+            "Teaset DarkLord Skin Package A": "5,99 €",
+            "Little Corr. Hero costume Pack": "29,99 €",
+            "Little Hero Costume Package": "29,99 €",
+            "Black Dark Lord Skin Package": "8,99 €",
+            "White Dark Lord Skin Package": "8,99 €",
+            "Awakening Viper Package": "5,99 €",
+            "Myth full pack": "44,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793311668998,
@@ -113649,6 +113683,14 @@
     "history": [
       [
         {
+          "timestamp": 1793927683912,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792483161643,
           "price": 0.29,
           "formattedPrice": "0,29 €",
@@ -150239,7 +150281,8 @@
       "4000 Diamonds": "99,99 €",
       "50 Diamonds": "1,99 €",
       "16 Base Heroes Unlock Pack": "44,99 €",
-      "700 Diamonds": "22,99 €"
+      "700 Diamonds": "22,99 €",
+      "30-Day Supply Pass": "6,99 €"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -150249,9 +150292,26 @@
       "4000 Diamonds": "99,99 €",
       "50 Diamonds": "1,99 €",
       "16 Base Heroes Unlock Pack": "44,99 €",
-      "700 Diamonds": "22,99 €"
+      "700 Diamonds": "22,99 €",
+      "30-Day Supply Pass": "6,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793927683912,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "30-Day Supply Pass": "6,99 €",
+            "120 Diamonds": "3,99 €",
+            "Starter Pack 1": "1,99 €",
+            "4000 Diamonds": "99,99 €",
+            "50 Diamonds": "1,99 €",
+            "16 Base Heroes Unlock Pack": "44,99 €",
+            "700 Diamonds": "22,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793178284917,
@@ -150569,6 +150629,14 @@
       "Unlocked! “Akane” & “Koro”": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793927683912,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793311668998,

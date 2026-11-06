@@ -143565,6 +143565,25 @@
     "history": [
       [
         {
+          "timestamp": 1793927683912,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "₺199,99",
+            "TeaSet DarkLord Skin Package C": "₺249,99",
+            "Teaset Dark Lord Skin PackageB": "₺249,99",
+            "Teaset DarkLord Skin Package A": "₺249,99",
+            "Little Corr. Hero costume Pack": "₺1.499,99",
+            "Little Hero Costume Package": "₺1.499,99",
+            "Black Dark Lord Skin Package": "₺399,99",
+            "White Dark Lord Skin Package": "₺399,99",
+            "Awakening Viper Package": "₺249,99",
+            "Myth full pack": "₺1.999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793311668998,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -212405,6 +212424,14 @@
       "formattedPrice": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793927683912,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793490606912,
@@ -281736,6 +281763,14 @@
     "history": [
       [
         {
+          "timestamp": 1793927683912,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792483161643,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -301564,7 +301599,8 @@
       "4000 Diamonds": "₺4.999,99",
       "50 Diamonds": "₺99,99",
       "16 Base Heroes Unlock Pack": "₺1.999,99",
-      "700 Diamonds": "₺999,99"
+      "700 Diamonds": "₺999,99",
+      "30-Day Supply Pass": "₺299,99"
     },
     "minPriceInfo": {
       "price": 19.99,
@@ -301574,9 +301610,26 @@
       "4000 Diamonds": "₺4.999,99",
       "50 Diamonds": "₺99,99",
       "16 Base Heroes Unlock Pack": "₺1.999,99",
-      "700 Diamonds": "₺999,99"
+      "700 Diamonds": "₺999,99",
+      "30-Day Supply Pass": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793927683912,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "30-Day Supply Pass": "₺299,99",
+            "120 Diamonds": "₺199,99",
+            "Starter Pack 1": "₺99,99",
+            "4000 Diamonds": "₺4.999,99",
+            "50 Diamonds": "₺99,99",
+            "16 Base Heroes Unlock Pack": "₺1.999,99",
+            "700 Diamonds": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793178284917,
@@ -301906,6 +301959,14 @@
       "Unlocked! “Akane” & “Koro”": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793927683912,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793311668998,

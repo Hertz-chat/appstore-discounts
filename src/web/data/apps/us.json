@@ -6342,7 +6342,7 @@
   {
     "trackId": 921954809,
     "region": "us",
-    "timestamp": 1793526670644,
+    "timestamp": 1793990259190,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "$4.99",
@@ -6510,10 +6510,10 @@
   {
     "trackId": 931188326,
     "region": "us",
-    "timestamp": 1791173827832,
+    "timestamp": 1793990259190,
     "discounts": [],
-    "price": 2.99,
-    "formattedPrice": "$2.99",
+    "price": 0,
+    "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id931188326",
     "trackName": "DayCost Pro - Personal Finance",
@@ -10692,7 +10692,7 @@
     "formattedPrice": "$4.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1303222868",
-    "trackName": "Paprika Recipe Manager 3",
+    "trackName": "Paprika Recipe Manager 4",
     "firstRecordedAt": 1745328692670
   },
   {
@@ -11660,7 +11660,7 @@
   {
     "trackId": 1410053842,
     "region": "us",
-    "timestamp": 1792240324701,
+    "timestamp": 1793990259190,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -16347,7 +16347,7 @@
   {
     "trackId": 1592505377,
     "region": "us",
-    "timestamp": 1793330060259,
+    "timestamp": 1793990259190,
     "discounts": [],
     "price": 10.99,
     "formattedPrice": "$10.99",
@@ -19537,7 +19537,7 @@
   {
     "trackId": 6471839445,
     "region": "us",
-    "timestamp": 1793959313216,
+    "timestamp": 1793990259190,
     "discounts": [],
     "price": 3.49,
     "formattedPrice": "$3.49",
@@ -20078,10 +20078,10 @@
   {
     "trackId": 6478639011,
     "region": "us",
-    "timestamp": 1787284187290,
+    "timestamp": 1793990259190,
     "discounts": [],
-    "price": 8.99,
-    "formattedPrice": "$8.99",
+    "price": 9.99,
+    "formattedPrice": "$9.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6478639011",
     "trackName": "Subnautica",
@@ -25110,10 +25110,10 @@
   {
     "trackId": 6760948683,
     "region": "us",
-    "timestamp": 1793479481135,
+    "timestamp": 1793990259190,
     "discounts": [],
-    "price": 3.99,
-    "formattedPrice": "$3.99",
+    "price": 0.99,
+    "formattedPrice": "$0.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6760948683",
     "trackName": "Digline: Cozy Mining",

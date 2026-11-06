@@ -85637,6 +85637,25 @@
     "history": [
       [
         {
+          "timestamp": 1793990259190,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "DLC Sisters in Arms": "$2.99",
+            "Biomes Add-on": "$1.99",
+            "Abandoned Mines Add-on": "$0.99",
+            "Grottoes Add-on": "$0.99",
+            "Heroes Add-on": "$3.99",
+            "Temples of 4 Elements Add-on": "$3.99",
+            "Bosses & Monsters Add-on": "$7.99",
+            "Heart of Evil Add-on": "$6.99",
+            "Invasion Add-on": "$4.99",
+            "Wonderwood Add-on": "$8.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793526670644,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -88659,6 +88678,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793990259190,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791173827832,
@@ -151727,7 +151754,7 @@
     ]
   },
   "1303222868": {
-    "name": "Paprika Recipe Manager 3",
+    "name": "Paprika Recipe Manager 4",
     "maxPriceInfo": {
       "price": 4.99,
       "formattedPrice": "$4.99",
@@ -169044,13 +169071,31 @@
     "name": "Selene: Shift Calendar",
     "maxPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "$9.99"
+      "formattedPrice": "$9.99",
+      "A Latte": "$2.99",
+      "Coffee and Cake": "$4.99",
+      "A Cookie": "$0.99"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "Free"
+      "formattedPrice": "Free",
+      "A Latte": "$2.99",
+      "Coffee and Cake": "$4.99",
+      "A Cookie": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793990259190,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "A Latte": "$2.99",
+            "Coffee and Cake": "$4.99",
+            "A Cookie": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792240324701,
@@ -243037,6 +243082,25 @@
       "Retro Rammers Car Pack": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793990259190,
+          "price": 10.99,
+          "formattedPrice": "$10.99",
+          "inAppPurchases": {
+            "Banger Racing Car Pack": "$2.99",
+            "Content Bundle 1": "$10.99",
+            "Backwoods Bangers Car Pack": "$2.99",
+            "Retro Rammers Car Pack": "$2.99",
+            "Modified Monsters Car Pack": "$2.99",
+            "Rusty Rats Car Pack": "$2.99",
+            "American All-Stars Car Pack": "$2.99",
+            "Getaway Car Pack": "$2.99",
+            "Goofy Roofs Pack": "$0.99",
+            "Steel & Wheels Pack": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793330060259,
@@ -337007,6 +337071,14 @@
     "history": [
       [
         {
+          "timestamp": 1793990259190,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787284187290,
           "price": 8.99,
           "formattedPrice": "$8.99",
@@ -349206,6 +349278,23 @@
     "history": [
       [
         {
+          "timestamp": 1793990259190,
+          "price": 3.49,
+          "formattedPrice": "$3.49",
+          "inAppPurchases": {
+            "CALICO RED/GRAY/BLACK": "$1.99",
+            "YELLOW GOLD RYUKIN": "$1.99",
+            "GRAY WHITE KITTY FISH": "$1.99",
+            "RED RYUKIN": "$1.99",
+            "RED-WHITE RYUKIN": "$1.99",
+            "PANDA TELESCOPE": "$1.99",
+            "CALICO RED/WHITE/BLACK": "$1.99",
+            "SKELETON FISH": "$1.99",
+            "ROBO FISH 02": "$1.99",
+            "ORANGE/WHITE": "$1.99"
+          }
+        },
+        {
           "timestamp": 1793959313216,
           "price": 3.49,
           "formattedPrice": "$3.49",
@@ -358587,6 +358676,14 @@
       "20 fuel to storage": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793990259190,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793479481135,

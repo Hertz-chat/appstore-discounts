@@ -62265,6 +62265,14 @@
     "history": [
       [
         {
+          "timestamp": 1793990259190,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791131403610,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -70463,6 +70471,22 @@
     "history": [
       [
         {
+          "timestamp": 1793990259190,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "積分包 Ⅱ": "USD 4.99",
+            "積分包 I": "USD 0.99",
+            "積分包 Ⅵ": "USD 99.99",
+            "積分包 Ⅴ": "USD 39.99",
+            "積分包 Ⅳ": "USD 19.99",
+            "積分包 Ⅲ": "USD 9.99",
+            "雙倍積分包": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789055621758,
           "price": 0.29,
           "formattedPrice": "USD 0.29",
@@ -74000,6 +74024,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793990259190,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788450692170,
@@ -106502,7 +106534,7 @@
   },
   "1303222868": {
     "trackId": 1303222868,
-    "trackName": "Paprika Recipe Manager 3",
+    "trackName": "Paprika Recipe Manager 4",
     "region": "mo",
     "maxPriceInfo": {
       "price": 4.99,
@@ -116815,13 +116847,31 @@
     "region": "mo",
     "maxPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "USD 9.99"
+      "formattedPrice": "USD 9.99",
+      "一杯拿鐵": "USD 2.99",
+      "咖啡和蛋糕": "USD 4.99",
+      "一塊曲奇": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "免費"
+      "formattedPrice": "免費",
+      "一杯拿鐵": "USD 2.99",
+      "咖啡和蛋糕": "USD 4.99",
+      "一塊曲奇": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793990259190,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "一杯拿鐵": "USD 2.99",
+            "咖啡和蛋糕": "USD 4.99",
+            "一塊曲奇": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792240324701,
@@ -155176,6 +155226,16 @@
     "history": [
       [
         {
+          "timestamp": 1793990259190,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "MenubarX Pro": "USD 6.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793002369190,
           "price": 0,
           "formattedPrice": "免費",
@@ -169371,6 +169431,14 @@
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793990259190,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792863731561,
@@ -198732,6 +198800,14 @@
     "history": [
       [
         {
+          "timestamp": 1793990259190,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787239953273,
           "price": 8.99,
           "formattedPrice": "USD 8.99",
@@ -216396,6 +216472,14 @@
     "history": [
       [
         {
+          "timestamp": 1793990259190,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793479481135,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -218313,6 +218397,22 @@
       "珍品匣檔": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1793990259190,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "宗師匣檔": "USD 99.99",
+            "問道進階檔": "USD 44.99",
+            "定向匣檔": "USD 29.99",
+            "輕囊通寶": "USD 2.99",
+            "進階材料檔": "USD 14.99",
+            "小袋通寶": "USD 0.99",
+            "珍品匣檔": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793178284917,

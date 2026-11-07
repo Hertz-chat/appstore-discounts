@@ -162318,6 +162318,25 @@
     "history": [
       [
         {
+          "timestamp": 1794085796977,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "68金玉": "HK$ 78.00",
+            "30金玉": "HK$ 38.00",
+            "6金玉": "HK$ 8.00",
+            "648金玉": "HK$ 788.00",
+            "198金玉": "HK$ 238.00",
+            "一鍵買斷禮包": "HK$ 38.00",
+            "尊享月俸": "HK$ 38.00",
+            "禮包5": "HK$ 38.00",
+            "禮包11": "HK$ 398.00",
+            "328金玉": "HK$ 398.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793927683912,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -266694,6 +266713,25 @@
     "history": [
       [
         {
+          "timestamp": 1794085796977,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 38.00",
+            "The Aircraft Bundle": "HK$ 188.00",
+            "Global scenery - 12 months": "HK$ 148.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "Global scenery - 3 months": "HK$ 58.00",
+            "Boeing 747-400": "HK$ 18.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "Airbus A380": "HK$ 18.00",
+            "Boeing 737-800": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794043335284,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -309111,6 +309149,25 @@
     "history": [
       [
         {
+          "timestamp": 1794085796977,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "全英雄禮包": "HK$ 188.00",
+            "全法術禮包": "HK$ 98.00",
+            "英雄 阿什彼特": "HK$ 58.00",
+            "全塔禮包": "HK$ 148.00",
+            "英雄 德拉坎": "HK$ 58.00",
+            "英雄 伊格納斯": "HK$ 22.00",
+            "全塔禮包_B": "HK$ 118.00",
+            "法術 索羅化身": "HK$ 38.00",
+            "英雄 鬼侍": "HK$ 38.00",
+            "塔 奧術鍛造匠": "HK$ 38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794043335284,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -312330,6 +312387,27 @@
           "timestamp": 1794071113366,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6819150080": {
+    "name": "Duo Aquarium",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794085796977,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
           "inAppPurchases": {}
         }
       ]

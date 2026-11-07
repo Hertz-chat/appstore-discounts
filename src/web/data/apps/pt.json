@@ -9167,7 +9167,7 @@
   {
     "trackId": 1223392043,
     "region": "pt",
-    "timestamp": 1764059795706,
+    "timestamp": 1794085796977,
     "discounts": [],
     "price": 5.99,
     "formattedPrice": "5,99 €",
@@ -18326,7 +18326,7 @@
   {
     "trackId": 6473001577,
     "region": "pt",
-    "timestamp": 1793673861342,
+    "timestamp": 1794085796977,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "3,99 €",
@@ -21907,10 +21907,10 @@
   {
     "trackId": 6752503669,
     "region": "pt",
-    "timestamp": 1793818693473,
+    "timestamp": 1794085796977,
     "discounts": [],
-    "price": 0,
-    "formattedPrice": "Gratuito",
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6752503669",
     "trackName": "Solar Arc: Hora Dourada",
@@ -25110,6 +25110,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id6819103516",
     "trackName": "百死一生",
     "firstRecordedAt": 1793653056000
+  },
+  {
+    "trackId": 6819150080,
+    "region": "pt",
+    "timestamp": 1794085796977,
+    "discounts": [],
+    "price": 1,
+    "formattedPrice": "1,00 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6819150080",
+    "trackName": "Duo Aquarium",
+    "firstRecordedAt": 1794085796977
   },
   {
     "trackId": 6819276809,

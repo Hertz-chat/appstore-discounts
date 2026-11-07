@@ -4513,7 +4513,7 @@
   {
     "trackId": 964708975,
     "region": "cn",
-    "timestamp": 1794071113366,
+    "timestamp": 1794085796977,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免费",
@@ -5490,7 +5490,7 @@
   {
     "trackId": 1096461203,
     "region": "cn",
-    "timestamp": 1792968791930,
+    "timestamp": 1794085796977,
     "discounts": [],
     "price": 8,
     "formattedPrice": "¥8.00",
@@ -10960,7 +10960,7 @@
   {
     "trackId": 1660014964,
     "region": "cn",
-    "timestamp": 1794071113366,
+    "timestamp": 1794085796977,
     "discounts": [],
     "price": 20,
     "formattedPrice": "¥20.00",
@@ -12921,7 +12921,7 @@
   {
     "trackId": 6739274856,
     "region": "cn",
-    "timestamp": 1793959313216,
+    "timestamp": 1794085796977,
     "discounts": [],
     "price": 6,
     "formattedPrice": "¥6.00",
@@ -13186,7 +13186,7 @@
   {
     "trackId": 6742311454,
     "region": "cn",
-    "timestamp": 1792240324701,
+    "timestamp": 1794085796977,
     "discounts": [],
     "price": 1,
     "formattedPrice": "¥1.00",
@@ -16391,6 +16391,18 @@
     "trackViewUrl": "https://apps.apple.com/cn/app/id6819090967",
     "trackName": "AWTRIX NG",
     "firstRecordedAt": 1792609257403
+  },
+  {
+    "trackId": 6819150080,
+    "region": "cn",
+    "timestamp": 1794085796977,
+    "discounts": [],
+    "price": 8,
+    "formattedPrice": "¥8.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6819150080",
+    "trackName": "Duo Aquarium",
+    "firstRecordedAt": 1794085796977
   },
   {
     "trackId": 6819276809,

@@ -1920,7 +1920,7 @@
   {
     "trackId": 407998895,
     "region": "us",
-    "timestamp": 1792626402303,
+    "timestamp": 1794085796977,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -9507,7 +9507,7 @@
   {
     "trackId": 1179421849,
     "region": "us",
-    "timestamp": 1785399944043,
+    "timestamp": 1794085796977,
     "discounts": [],
     "price": 9.99,
     "formattedPrice": "$9.99",
@@ -10156,7 +10156,7 @@
   {
     "trackId": 1242654932,
     "region": "us",
-    "timestamp": 1794071113366,
+    "timestamp": 1794085796977,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -16383,7 +16383,7 @@
   {
     "trackId": 1592505377,
     "region": "us",
-    "timestamp": 1794011332916,
+    "timestamp": 1794085796977,
     "discounts": [],
     "price": 10.99,
     "formattedPrice": "$10.99",
@@ -17140,7 +17140,7 @@
   {
     "trackId": 1620202676,
     "region": "us",
-    "timestamp": 1794043335284,
+    "timestamp": 1794085796977,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -19453,7 +19453,7 @@
   {
     "trackId": 6469114836,
     "region": "us",
-    "timestamp": 1793786660480,
+    "timestamp": 1794085796977,
     "discounts": [],
     "price": 2.99,
     "formattedPrice": "$2.99",
@@ -24870,7 +24870,7 @@
   {
     "trackId": 6759664029,
     "region": "us",
-    "timestamp": 1794043335284,
+    "timestamp": 1794085796977,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "$6.99",
@@ -26860,6 +26860,18 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id6819103516",
     "trackName": "百死一生",
     "firstRecordedAt": 1793653056000
+  },
+  {
+    "trackId": 6819150080,
+    "region": "us",
+    "timestamp": 1794085796977,
+    "discounts": [],
+    "price": 1,
+    "formattedPrice": "$1.00",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6819150080",
+    "trackName": "Duo Aquarium",
+    "firstRecordedAt": 1794085796977
   },
   {
     "trackId": 6819276809,

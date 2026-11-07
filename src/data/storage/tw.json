@@ -23817,10 +23817,20 @@
     "minPriceInfo": {
       "price": 120,
       "formattedPrice": "$120.00",
-      "Premium": "$1,260.00",
+      "Premium": "$620.00",
       "Fitness Buddy Premium": "$890.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794085796977,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Premium": "$620.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788900351663,
@@ -161197,6 +161207,25 @@
     "history": [
       [
         {
+          "timestamp": 1794085796977,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "68金玉": "$330.00",
+            "30金玉": "$170.00",
+            "6金玉": "$33.00",
+            "198金玉": "$990.00",
+            "禮包5": "$170.00",
+            "尊享月俸": "$170.00",
+            "648金玉": "$3,290.00",
+            "一鍵買斷禮包": "$150.00",
+            "禮包1": "$10.00",
+            "丹青閣通行證": "$330.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793990259190,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -274234,6 +274263,25 @@
     "history": [
       [
         {
+          "timestamp": 1794085796977,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Boeing 787-10": "$60.00",
+            "Boeing 777-300ER": "$60.00",
+            "Global scenery - 12 months": "$690.00",
+            "Airbus A380": "$60.00",
+            "The Aircraft Bundle": "$790.00",
+            "Boeing 737 MAX 9": "$60.00",
+            "Airbus A350-1000": "$120.00",
+            "UH-60": "$30.00",
+            "Boeing 787-9": "$120.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794043335284,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -322473,6 +322521,25 @@
     "history": [
       [
         {
+          "timestamp": 1794085796977,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "全英雄禮包": "$790.00",
+            "全法術禮包": "$390.00",
+            "全塔禮包": "$690.00",
+            "全塔禮包_B": "$490.00",
+            "英雄 阿什彼特": "$220.00",
+            "英雄 德拉坎": "$220.00",
+            "塔 鍊金術師小屋": "$90.00",
+            "塔 奧術鍛造匠": "$150.00",
+            "塔 野貓女獵手": "$150.00",
+            "展示 禮包 1": "$320.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793927683912,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -325376,6 +325443,27 @@
           "timestamp": 1794071113366,
           "price": 220,
           "formattedPrice": "$220.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6819150080": {
+    "name": "Duo Aquarium",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794085796977,
+          "price": 30,
+          "formattedPrice": "$30.00",
           "inAppPurchases": {}
         }
       ]

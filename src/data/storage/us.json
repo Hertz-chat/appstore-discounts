@@ -22211,6 +22211,25 @@
     "history": [
       [
         {
+          "timestamp": 1794085796977,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "World 3 - Level Pack 2": "$0.99",
+            "World 2 - Level Pack 2": "$0.99",
+            "Unlock all Levels": "$0.99",
+            "MEGA Bubble Popper Pack": "$7.99",
+            "Bubble Popper Pack": "$3.99",
+            "Pack of 15 Bumpers": "$1.99",
+            "Pack of 5 Bumpers": "$0.99",
+            "Pack of 30 Fireballs": "$1.99",
+            "Pack of 10 Fireballs": "$0.99",
+            "Pack of 1500 Tokens": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792626402303,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -130546,7 +130565,8 @@
       "Tuner HD Textures": "$0.00",
       "Open Wheel HD Textures": "$0.00",
       "Endurance HD Textures": "$0.00",
-      "Touring HD Textures": "$0.00"
+      "Touring HD Textures": "$0.00",
+      "Touring Legends Pack": "$0.00"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -130564,9 +130584,29 @@
       "Tuner HD Textures": "$0.00",
       "Open Wheel HD Textures": "$0.00",
       "Endurance HD Textures": "$0.00",
-      "Touring HD Textures": "$0.00"
+      "Touring HD Textures": "$0.00",
+      "Touring Legends Pack": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794085796977,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Road & Track Pack": "$0.00",
+            "Drag Pack": "$0.00",
+            "Touring Legends Pack": "$0.00",
+            "Sprint Pack": "$0.00",
+            "Coupé Style Pack": "$0.00",
+            "Best of British Pack": "$0.00",
+            "Black Edition Pack": "$0.00",
+            "Touring HD Textures": "$0.00",
+            "Endurance HD Textures": "$0.00",
+            "Open Wheel HD Textures": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785399944043,
@@ -138696,6 +138736,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794085796977,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "江湖名士": "$3.99",
+            "秦王的宝藏": "$24.99",
+            "鳌拜的私房钱": "$8.99",
+            "60元礼包": "$8.99",
+            "一盒元宝": "$2.99",
+            "168元礼包": "$24.99",
+            "一袋元宝": "$0.99",
+            "30元礼包": "$3.99",
+            "6元礼包": "$0.99",
+            "30元礼包四": "$3.99"
+          }
+        },
         {
           "timestamp": 1794071113366,
           "price": 0.99,
@@ -243324,6 +243381,25 @@
     "history": [
       [
         {
+          "timestamp": 1794085796977,
+          "price": 10.99,
+          "formattedPrice": "$10.99",
+          "inAppPurchases": {
+            "Content Bundle 2": "$8.99",
+            "Reckless Car Pack": "$2.99",
+            "Off-Road Car Pack": "$2.99",
+            "Racing Heroes Car Pack": "$2.99",
+            "Steel & Wheels Pack": "$1.99",
+            "Goofy Roofs Pack": "$0.99",
+            "Getaway Car Pack": "$2.99",
+            "American All-Stars Car Pack": "$2.99",
+            "Rusty Rats Car Pack": "$2.99",
+            "Modified Monsters Car Pack": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794011332916,
           "price": 10.99,
           "formattedPrice": "$10.99",
@@ -252256,6 +252332,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794085796977,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "All Unit Groups": "$12.99",
+            "All Heroes": "$14.99",
+            "Hero Dragon Kosmos": "$6.99",
+            "Unit Group Jaegers": "$6.99",
+            "Unit Group Rebooted Ascendii": "$2.99",
+            "Hero Red Dragon": "$5.99",
+            "Unit Group Jaegers On Sale": "$4.99",
+            "Starter Pack": "$4.99",
+            "Hero Red Dragon On Sale": "$3.99",
+            "Unit Group Ascendii On Sale": "$0.99"
+          }
+        },
         {
           "timestamp": 1794043335284,
           "price": 0.99,
@@ -283590,6 +283683,25 @@
       "Night Chill": "$1.79"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794085796977,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "2025春さくらスキン": "$0.49",
+            "2025春いちごスキン": "$0.49",
+            "Halloween Party": "$1.79",
+            "Night Chill": "$1.79",
+            "Starry Night": "$1.79",
+            "Fireworks display": "$1.79",
+            "ネオンシティ": "$1.79",
+            "Waterside": "$1.79",
+            "Sunset beach": "$1.19",
+            "Christmas night": "$1.79"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793786660480,
@@ -363746,6 +363858,23 @@
     "history": [
       [
         {
+          "timestamp": 1794085796977,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "ALL HEROES BUNDLE": "$24.99",
+            "Tower Sniper": "$5.99",
+            "Hero Ignus": "$2.99",
+            "Tower Alchemist": "$2.99",
+            "Tower Wildcat": "$4.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Hero Oni": "$4.99",
+            "ALL SPELLS BUNDLE": "$12.99"
+          }
+        },
+        {
           "timestamp": 1794043335284,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -366531,6 +366660,27 @@
           "timestamp": 1794071113366,
           "price": 6.99,
           "formattedPrice": "$6.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6819150080": {
+    "name": "Duo Aquarium",
+    "maxPriceInfo": {
+      "price": 1,
+      "formattedPrice": "$1.00"
+    },
+    "minPriceInfo": {
+      "price": 1,
+      "formattedPrice": "$1.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794085796977,
+          "price": 1,
+          "formattedPrice": "$1.00",
           "inAppPurchases": {}
         }
       ]

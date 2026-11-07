@@ -95295,7 +95295,17 @@
       "Project Tuning: Scattered Echoes 1": "₺199,99",
       "Challenge Pass \"Fallen Resonance\"": "₺149,99",
       "Medium bottle of Chiming Core": "₺249,99",
-      "Sound of Reunion: Phase I": "₺249,99"
+      "Sound of Reunion: Phase I": "₺249,99",
+      "Challenge Pass \"Virtual Campus\"": "₺149,99",
+      "Secret Library Selection 13-P": "₺199,99",
+      "Secret Library Selection 15-P": "₺199,99",
+      "Secret Library Selection 13": "₺399,99",
+      "Secret Library Selection 13-B": "₺399,99",
+      "Secret Library Selection 14": "₺399,99",
+      "Secret Library Selection 15-B": "₺399,99",
+      "Secret Library Selection 14-P": "₺199,99",
+      "Secret Library Selection 15": "₺399,99",
+      "Secret Library Selection 14-B": "₺399,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -95342,9 +95352,38 @@
       "Project Tuning: Scattered Echoes 1": "₺199,99",
       "Challenge Pass \"Fallen Resonance\"": "₺149,99",
       "Medium bottle of Chiming Core": "₺249,99",
-      "Sound of Reunion: Phase I": "₺249,99"
+      "Sound of Reunion: Phase I": "₺249,99",
+      "Challenge Pass \"Virtual Campus\"": "₺149,99",
+      "Secret Library Selection 13-P": "₺199,99",
+      "Secret Library Selection 15-P": "₺199,99",
+      "Secret Library Selection 13": "₺399,99",
+      "Secret Library Selection 13-B": "₺399,99",
+      "Secret Library Selection 14": "₺399,99",
+      "Secret Library Selection 15-B": "₺399,99",
+      "Secret Library Selection 14-P": "₺199,99",
+      "Secret Library Selection 15": "₺399,99",
+      "Secret Library Selection 14-B": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794085796977,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Challenge Pass \"Virtual Campus\"": "₺149,99",
+            "Secret Library Selection 13-P": "₺199,99",
+            "Secret Library Selection 15-P": "₺199,99",
+            "Secret Library Selection 13": "₺399,99",
+            "Secret Library Selection 13-B": "₺399,99",
+            "Secret Library Selection 14": "₺399,99",
+            "Secret Library Selection 15-B": "₺399,99",
+            "Secret Library Selection 14-P": "₺199,99",
+            "Secret Library Selection 15": "₺399,99",
+            "Secret Library Selection 14-B": "₺399,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787111112140,
@@ -132511,6 +132550,25 @@
       "PΛFF": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794085796977,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Amiya": "₺499,99",
+            "Xenon": "₺499,99",
+            "Miku": "₺499,99",
+            "CAPSO": "₺499,99",
+            "ConneR": "₺499,99",
+            "9 Characters": "₺1.999,99",
+            "Cherry": "₺499,99",
+            "Memory Unit [A1]": "₺249,99",
+            "Ilka": "₺499,99",
+            "JOE": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792968791930,
@@ -250791,6 +250849,25 @@
     "history": [
       [
         {
+          "timestamp": 1794085796977,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Airbus A380": "₺99,99",
+            "Airbus A350-1000": "₺199,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 787-10": "₺99,99",
+            "Boeing 737-800": "₺149,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Global scenery - 3 months": "₺399,99",
+            "Boeing 737": "₺49,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794011332916,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -280195,6 +280272,14 @@
     "history": [
       [
         {
+          "timestamp": 1794085796977,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793818693473,
           "price": 0,
           "formattedPrice": "Free",
@@ -284166,6 +284251,25 @@
       "1000000 money": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794085796977,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "5 ticket": "₺19,99",
+            "passatb8": "₺49,99",
+            "5 gold": "₺19,99",
+            "15 gold": "₺29,99",
+            "30000 money": "₺19,99",
+            "sonsuz paket": "₺249,99",
+            "10 gold": "₺29,99",
+            "15 ticket": "₺29,99",
+            "30 gold": "₺49,99",
+            "30 ticket": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793501604822,
@@ -299607,6 +299711,25 @@
     "history": [
       [
         {
+          "timestamp": 1794085796977,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Hero Drakkan": "₺399,99",
+            "Hero Ignus": "₺149,99",
+            "Hero Ashbite": "₺399,99",
+            "Tower Ironbark": "₺399,99",
+            "Tower Sniper": "₺299,99",
+            "Spell Aspect of Sol": "₺249,99",
+            "Hero Oni": "₺249,99",
+            "Tower Forger": "₺249,99",
+            "Gems Chest": "₺999,99",
+            "Tower Wildcat": "₺249,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793959313216,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -302978,6 +303101,27 @@
           "timestamp": 1794071113366,
           "price": 399.99,
           "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6819150080": {
+    "name": "Duo Aquarium",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794085796977,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
           "inAppPurchases": {}
         }
       ]

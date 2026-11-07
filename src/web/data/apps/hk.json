@@ -12509,7 +12509,7 @@
   {
     "trackId": 1450144092,
     "region": "hk",
-    "timestamp": 1793927683912,
+    "timestamp": 1794085796977,
     "discounts": [],
     "price": 2,
     "formattedPrice": "HK$ 2.00",
@@ -19816,7 +19816,7 @@
   {
     "trackId": 6473001577,
     "region": "hk",
-    "timestamp": 1794043335284,
+    "timestamp": 1794085796977,
     "discounts": [],
     "price": 32,
     "formattedPrice": "HK$ 32.00",
@@ -25179,7 +25179,7 @@
   {
     "trackId": 6759664029,
     "region": "hk",
-    "timestamp": 1794043335284,
+    "timestamp": 1794085796977,
     "discounts": [],
     "price": 58,
     "formattedPrice": "HK$ 58.00",
@@ -27193,6 +27193,18 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id6819103516",
     "trackName": "百死一生",
     "firstRecordedAt": 1793653056000
+  },
+  {
+    "trackId": 6819150080,
+    "region": "hk",
+    "timestamp": 1794085796977,
+    "discounts": [],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6819150080",
+    "trackName": "Duo Aquarium",
+    "firstRecordedAt": 1794085796977
   },
   {
     "trackId": 6819276809,

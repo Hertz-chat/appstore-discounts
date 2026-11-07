@@ -12911,6 +12911,14 @@
     "history": [
       [
         {
+          "timestamp": 1794071113366,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1766355976704,
           "price": 499.99,
           "formattedPrice": "₺499,99",
@@ -76079,6 +76087,43 @@
       ]
     ]
   },
+  "882453590": {
+    "name": "Reckless Racing 3",
+    "maxPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99",
+      "Big Pack": "₺199,99",
+      "Kickstarter Pack": "₺49,99",
+      "Massive Pack": "₺499,99",
+      "Small Pack": "₺99,99",
+      "Rock'n Roller Pack": "₺999,99"
+    },
+    "minPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99",
+      "Big Pack": "₺199,99",
+      "Kickstarter Pack": "₺49,99",
+      "Massive Pack": "₺499,99",
+      "Small Pack": "₺99,99",
+      "Rock'n Roller Pack": "₺999,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "Big Pack": "₺199,99",
+            "Kickstarter Pack": "₺49,99",
+            "Massive Pack": "₺499,99",
+            "Small Pack": "₺99,99",
+            "Rock'n Roller Pack": "₺999,99"
+          }
+        }
+      ]
+    ]
+  },
   "884153085": {
     "name": "Remote, Mouse & Keyboard Pro",
     "maxPriceInfo": {
@@ -123317,6 +123362,27 @@
       ]
     ]
   },
+  "1233326914": {
+    "name": "ParKing P - Find My Parked Car",
+    "maxPriceInfo": {
+      "price": 299.99,
+      "formattedPrice": "₺299,99"
+    },
+    "minPriceInfo": {
+      "price": 299.99,
+      "formattedPrice": "₺299,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1234266367": {
     "name": "iDrumTune Precision Drum Tuner",
     "maxPriceInfo": {
@@ -149176,14 +149242,22 @@
   "1435004182": {
     "name": "Hermes: KAYIP",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "₺4,99"
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "₺2,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1759475507353,
@@ -159896,6 +159970,27 @@
             "Schumann Forum": "₺39,99",
             "Forum Access – 12 months": "₺499,99"
           }
+        }
+      ]
+    ]
+  },
+  "1462754972": {
+    "name": "MONG LI",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -184616,6 +184711,14 @@
       "formattedPrice": "₺4,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1757683199043,
@@ -226115,7 +226218,7 @@
       "Pro (Yearly)": "₺249,99",
       "Pro (Monthly)": "₺59,99",
       "Pro (Activate)": "₺499,99",
-      "Pro (Lifetime)": "₺499,99"
+      "Pro (Lifetime)": "₺799,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -226127,6 +226230,19 @@
       "Pro (Lifetime)": "₺449,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro (Yearly)": "₺249,99",
+            "Pro (Lifetime)": "₺799,99",
+            "Pro (Monthly)": "₺59,99",
+            "Pro (Activate)": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765809216918,
@@ -302841,6 +302957,27 @@
           "timestamp": 1794043335284,
           "price": 149.99,
           "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6788134172": {
+    "name": "Poppy Playtime Chapter 5",
+    "maxPriceInfo": {
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
+    },
+    "minPriceInfo": {
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
           "inAppPurchases": {}
         }
       ]

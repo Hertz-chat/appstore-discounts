@@ -52204,6 +52204,25 @@
     "history": [
       [
         {
+          "timestamp": 1794071113366,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "纯净模式1个月": "¥6.00",
+            "纯净模式6个月": "¥30.00",
+            "纯净模式12个月": "¥50.00",
+            "纯净模式永久": "¥188.00",
+            "金紫会员1个月": "¥10.00",
+            "金紫会员12个月": "¥85.00",
+            "金紫会员6个月": "¥50.00",
+            "金紫会员永久": "¥298.00",
+            "下载次数": "¥1.00",
+            "永久金紫会员": "¥298.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793872776771,
           "price": 0,
           "formattedPrice": "免费",
@@ -54630,6 +54649,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793990259190,
@@ -77828,6 +77855,14 @@
     "history": [
       [
         {
+          "timestamp": 1794071113366,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793463940314,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -88026,6 +88061,29 @@
           "timestamp": 1763072743115,
           "price": 12,
           "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1233326914": {
+    "trackId": 1233326914,
+    "trackName": "ParKing P - 我的车在哪里？",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 38,
+          "formattedPrice": "¥38.00",
           "inAppPurchases": {}
         }
       ]
@@ -121413,6 +121471,29 @@
             "Schumann Forum": "¥8.00",
             "Forum Access – 12 months": "¥68.00"
           }
+        }
+      ]
+    ]
+  },
+  "1462754972": {
+    "trackId": 1462754972,
+    "trackName": "MONG LI",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -167324,6 +167405,25 @@
       "212枚鸡蛋": "¥128.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 20,
+          "formattedPrice": "¥20.00",
+          "inAppPurchases": {
+            "212枝鲜花": "¥128.00",
+            "99枝鲜花": "¥68.00",
+            "7枝鲜花": "¥6.00",
+            "7枚鸡蛋": "¥6.00",
+            "15枝鲜花": "¥12.00",
+            "396枝鲜花": "¥198.00",
+            "41枝鲜花": "¥30.00",
+            "41枚鸡蛋": "¥30.00",
+            "212枚鸡蛋": "¥128.00",
+            "15枚鸡蛋": "¥12.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787131983558,

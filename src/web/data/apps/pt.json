@@ -1047,7 +1047,7 @@
   {
     "trackId": 366195670,
     "region": "pt",
-    "timestamp": 1761797674362,
+    "timestamp": 1794071113366,
     "discounts": [],
     "price": 9.99,
     "formattedPrice": "9,99 €",
@@ -5406,6 +5406,18 @@
     "firstRecordedAt": 1788602462583
   },
   {
+    "trackId": 882453590,
+    "region": "pt",
+    "timestamp": 1794071113366,
+    "discounts": [],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id882453590",
+    "trackName": "Reckless Racing 3",
+    "firstRecordedAt": 1794071113366
+  },
+  {
     "trackId": 884153085,
     "region": "pt",
     "timestamp": 1778754411837,
@@ -9261,6 +9273,18 @@
     "firstRecordedAt": 1761797674362
   },
   {
+    "trackId": 1233326914,
+    "region": "pt",
+    "timestamp": 1794071113366,
+    "discounts": [],
+    "price": 6.99,
+    "formattedPrice": "6,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1233326914",
+    "trackName": "ParKing P Onde está meu carro?",
+    "firstRecordedAt": 1794071113366
+  },
+  {
     "trackId": 1234266367,
     "region": "pt",
     "timestamp": 1769524692097,
@@ -11989,6 +12013,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id1462584573",
     "trackName": "Schumann Resonance",
     "firstRecordedAt": 1785449095856
+  },
+  {
+    "trackId": 1462754972,
+    "region": "pt",
+    "timestamp": 1794071113366,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1462754972",
+    "trackName": "MONG LI",
+    "firstRecordedAt": 1794071113366
   },
   {
     "trackId": 1462805796,
@@ -16330,7 +16366,7 @@
   {
     "trackId": 1636719674,
     "region": "pt",
-    "timestamp": 1790805284947,
+    "timestamp": 1794071113366,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Gratuito",
@@ -23528,7 +23564,7 @@
   {
     "trackId": 6761328517,
     "region": "pt",
-    "timestamp": 1794043335284,
+    "timestamp": 1794071113366,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "6,99 €",
@@ -24461,6 +24497,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id6787897705",
     "trackName": "Volcano Princess",
     "firstRecordedAt": 1785449095856
+  },
+  {
+    "trackId": 6788134172,
+    "region": "pt",
+    "timestamp": 1794071113366,
+    "discounts": [],
+    "price": 7.99,
+    "formattedPrice": "7,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6788134172",
+    "trackName": "Poppy Playtime Chapter 5",
+    "firstRecordedAt": 1794071113366
   },
   {
     "trackId": 6789323764,

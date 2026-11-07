@@ -7070,6 +7070,14 @@
     "history": [
       [
         {
+          "timestamp": 1794071113366,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1761797674362,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -39592,6 +39600,45 @@
       ]
     ]
   },
+  "882453590": {
+    "trackId": 882453590,
+    "trackName": "Reckless Racing 3",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
+      "Kickstarter Pack": "0,99 €",
+      "Big Pack": "3,99 €",
+      "Massive Pack": "9,99 €",
+      "Small Pack": "1,99 €",
+      "Rock'n Roller Pack": "22,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
+      "Kickstarter Pack": "0,99 €",
+      "Big Pack": "3,99 €",
+      "Massive Pack": "9,99 €",
+      "Small Pack": "1,99 €",
+      "Rock'n Roller Pack": "22,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Kickstarter Pack": "0,99 €",
+            "Big Pack": "3,99 €",
+            "Massive Pack": "9,99 €",
+            "Small Pack": "1,99 €",
+            "Rock'n Roller Pack": "22,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "884153085": {
     "trackId": 884153085,
     "trackName": "Remote, Mouse & Keyboard Pro",
@@ -63612,6 +63659,29 @@
       ]
     ]
   },
+  "1233326914": {
+    "trackId": 1233326914,
+    "trackName": "ParKing P Onde está meu carro?",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1234266367": {
     "trackId": 1234266367,
     "trackName": "iDrumTune Precision Drum Tuner",
@@ -80651,6 +80721,29 @@
             "Schumann Forum": "0,99 €",
             "Forum Access – 12 months": "9,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "1462754972": {
+    "trackId": 1462754972,
+    "trackName": "MONG LI",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -110850,7 +110943,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "Pro (Lifetime)": "9,99 €",
+      "Pro (Lifetime)": "17,99 €",
       "Pro (Yearly)": "7,99 €",
       "Pro (Monthly)": "1,99 €",
       "Pro (Activate)": "9,99 €"
@@ -110864,6 +110957,19 @@
       "Pro (Activate)": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Pro (Lifetime)": "17,99 €",
+            "Pro (Monthly)": "1,99 €",
+            "Pro (Yearly)": "7,99 €",
+            "Pro (Activate)": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -148150,6 +148256,23 @@
     "history": [
       [
         {
+          "timestamp": 1794071113366,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "New Rulers": "6,99 €",
+            "Wedding Skin Set": "9,99 €",
+            "Underworld Pass 2": "2,99 €",
+            "Memory of Training": "19,99 €",
+            "Neo Behemoth": "1,99 €",
+            "Underworld Pass 1": "2,99 €",
+            "Ark of Eternity": "34,99 €",
+            "Pioneer of the Abyss": "9,99 €",
+            "Time Traveler": "6,99 €",
+            "Essence of Transcendence": "34,99 €"
+          }
+        },
+        {
           "timestamp": 1794043335284,
           "price": 6.99,
           "formattedPrice": "6,99 €",
@@ -158443,6 +158566,29 @@
           "timestamp": 1793905807227,
           "price": 8.99,
           "formattedPrice": "8,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6788134172": {
+    "trackId": 6788134172,
+    "trackName": "Poppy Playtime Chapter 5",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
           "inAppPurchases": {}
         }
       ]

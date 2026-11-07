@@ -17857,6 +17857,14 @@
     "history": [
       [
         {
+          "timestamp": 1794071113366,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1757096149484,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -83974,6 +83982,45 @@
       ]
     ]
   },
+  "882453590": {
+    "trackId": 882453590,
+    "trackName": "Reckless Racing 3",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99",
+      "Big Pack": "$3.99",
+      "Kickstarter Pack": "$0.99",
+      "Small Pack": "$1.99",
+      "Massive Pack": "$9.99",
+      "Rock'n Roller Pack": "$19.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99",
+      "Big Pack": "$3.99",
+      "Kickstarter Pack": "$0.99",
+      "Small Pack": "$1.99",
+      "Massive Pack": "$9.99",
+      "Rock'n Roller Pack": "$19.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Big Pack": "$3.99",
+            "Kickstarter Pack": "$0.99",
+            "Small Pack": "$1.99",
+            "Massive Pack": "$9.99",
+            "Rock'n Roller Pack": "$19.99"
+          }
+        }
+      ]
+    ]
+  },
   "884153085": {
     "trackId": 884153085,
     "trackName": "Remote, Mouse & Keyboard Pro",
@@ -139824,6 +139871,29 @@
       ]
     ]
   },
+  "1233326914": {
+    "trackId": 1233326914,
+    "trackName": "ParKing P - Find My Parked Car",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1234266367": {
     "trackId": 1234266367,
     "trackName": "iDrumTune Precision Drum Tuner",
@@ -140279,7 +140349,11 @@
       "6元礼包四": "$0.99",
       "328元礼包三": "$49.99",
       "168元礼包三": "$24.99",
-      "648元礼包三": "$99.99"
+      "648元礼包三": "$99.99",
+      "韦爵爷的饭钱": "$3.99",
+      "汉帝的宝箱": "$49.99",
+      "传世珍宝": "$99.99",
+      "18元礼包": "$2.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -140302,9 +140376,32 @@
       "6元礼包四": "$0.99",
       "328元礼包三": "$49.99",
       "168元礼包三": "$24.99",
-      "648元礼包三": "$99.99"
+      "648元礼包三": "$99.99",
+      "韦爵爷的饭钱": "$3.99",
+      "汉帝的宝箱": "$49.99",
+      "传世珍宝": "$99.99",
+      "18元礼包": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "一袋元宝": "$0.99",
+            "一盒元宝": "$2.99",
+            "鳌拜的私房钱": "$8.99",
+            "秦王的宝藏": "$24.99",
+            "江湖名士": "$3.99",
+            "韦爵爷的饭钱": "$3.99",
+            "汉帝的宝箱": "$49.99",
+            "传世珍宝": "$99.99",
+            "18元礼包": "$2.99",
+            "6元礼包": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793615910490,
@@ -193953,6 +194050,29 @@
             "Schumann Forum": "$0.99",
             "Forum Access – 12 months": "$9.99"
           }
+        }
+      ]
+    ]
+  },
+  "1462754972": {
+    "trackId": 1462754972,
+    "trackName": "MONG LI",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -370868,6 +370988,29 @@
           "timestamp": 1794043335284,
           "price": 2.99,
           "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6788134172": {
+    "trackId": 6788134172,
+    "trackName": "Poppy Playtime Chapter 5",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "$6.99"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "$6.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
           "inAppPurchases": {}
         }
       ]

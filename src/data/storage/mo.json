@@ -9821,6 +9821,14 @@
     "history": [
       [
         {
+          "timestamp": 1794071113366,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1765824087672,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -57961,6 +57969,43 @@
       ]
     ]
   },
+  "882453590": {
+    "name": "Reckless Racing 3",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99",
+      "Small Pack": "USD 1.99",
+      "Rock'n Roller Pack": "USD 19.99",
+      "Massive Pack": "USD 9.99",
+      "Big Pack": "USD 3.99",
+      "Kickstarter Pack": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99",
+      "Small Pack": "USD 1.99",
+      "Rock'n Roller Pack": "USD 19.99",
+      "Massive Pack": "USD 9.99",
+      "Big Pack": "USD 3.99",
+      "Kickstarter Pack": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Small Pack": "USD 1.99",
+            "Rock'n Roller Pack": "USD 19.99",
+            "Massive Pack": "USD 9.99",
+            "Big Pack": "USD 3.99",
+            "Kickstarter Pack": "USD 0.99"
+          }
+        }
+      ]
+    ]
+  },
   "884153085": {
     "name": "Remote, Mouse & Keyboard Pro",
     "maxPriceInfo": {
@@ -72780,6 +72825,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793990259190,
@@ -89299,6 +89352,14 @@
     "history": [
       [
         {
+          "timestamp": 1794071113366,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793463940314,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -96115,6 +96176,27 @@
           "timestamp": 1745578938597,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1233326914": {
+    "name": "ParKing P - Find My Parked Car",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
           "inAppPurchases": {}
         }
       ]
@@ -128666,6 +128748,27 @@
             "Forum Access – 12 months": "USD 9.99",
             "Schumann Forum": "USD 0.99"
           }
+        }
+      ]
+    ]
+  },
+  "1462754972": {
+    "name": "MONG LI",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -164082,6 +164185,14 @@
       "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793463940314,
@@ -203871,6 +203982,14 @@
     "history": [
       [
         {
+          "timestamp": 1794071113366,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789746868566,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -219167,6 +219286,27 @@
           "timestamp": 1794043335284,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6788134172": {
+    "name": "Poppy Playtime Chapter 5",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794071113366,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
           "inAppPurchases": {}
         }
       ]

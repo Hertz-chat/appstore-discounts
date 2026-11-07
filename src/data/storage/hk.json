@@ -8010,6 +8010,23 @@
     "history": [
       [
         {
+          "timestamp": 1794043335284,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Williamsburg Starter HipstaPak": "HK$ 8.00",
+            "Shibuya HipstaPak": "HK$ 8.00",
+            "Portland HipstaPak": "HK$ 8.00",
+            "Camden HipstaPak": "HK$ 8.00",
+            "Mission Hipstapak": "HK$ 8.00",
+            "Soho HipstaPak": "HK$ 8.00",
+            "Bondi HipstaPak": "HK$ 8.00",
+            "Foodie SnapPak": "HK$ 8.00",
+            "Dali GoodPak": "HK$ 8.00",
+            "RetroPak One": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1794011332916,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -217356,10 +217373,18 @@
       "formattedPrice": "HK$ 58.00"
     },
     "minPriceInfo": {
-      "price": 48,
-      "formattedPrice": "HK$ 48.00"
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794043335284,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1777543998844,
@@ -266558,6 +266583,25 @@
     "history": [
       [
         {
+          "timestamp": 1794043335284,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 38.00",
+            "The Aircraft Bundle": "HK$ 188.00",
+            "Global scenery - 12 months": "HK$ 148.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "Global scenery - 3 months": "HK$ 58.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "Airbus A380": "HK$ 18.00",
+            "Boeing 747-400": "HK$ 18.00",
+            "Concorde": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793818693473,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -303051,12 +303095,12 @@
   "6476342802": {
     "name": "Skel和Defense：地下城Roguelike防禦",
     "maxPriceInfo": {
-      "price": 18,
-      "formattedPrice": "HK$ 18.00",
-      "經驗祝福": "HK$ 18.00",
-      "皮膚券 x8": "HK$ 22.00",
-      "皮膚券 x1": "HK$ 2.00",
-      "皮膚券 x3": "HK$ 8.00"
+      "price": 19,
+      "formattedPrice": "HK$ 19.00",
+      "經驗祝福": "HK$ 19.00",
+      "皮膚券 x8": "HK$ 28.00",
+      "皮膚券 x1": "HK$ 4.00",
+      "皮膚券 x3": "HK$ 11.00"
     },
     "minPriceInfo": {
       "price": 2,
@@ -303067,6 +303111,19 @@
       "皮膚券 x3": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794043335284,
+          "price": 19,
+          "formattedPrice": "HK$ 19.00",
+          "inAppPurchases": {
+            "經驗祝福": "HK$ 19.00",
+            "皮膚券 x1": "HK$ 4.00",
+            "皮膚券 x3": "HK$ 11.00",
+            "皮膚券 x8": "HK$ 28.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793818693473,
@@ -308648,6 +308705,23 @@
     "history": [
       [
         {
+          "timestamp": 1794043335284,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "組合・光之騎士團": "HK$ 88.00",
+            "付費角色・艾德瑞克": "HK$ 8.00",
+            "付費角色・墨蘭": "HK$ 8.00",
+            "付費角色・蘿潔爾": "HK$ 8.00",
+            "主題包・哈爾布倫": "HK$ 8.00",
+            "贊助第一階・贊助者": "HK$ 2.00",
+            "付費角色・伊蕾娜": "HK$ 8.00",
+            "服裝組合 · 騎士團盛宴": "HK$ 22.00",
+            "服裝組合 · 森林與工坊": "HK$ 22.00",
+            "服裝組合 · 雪花庭園": "HK$ 22.00"
+          }
+        },
+        {
           "timestamp": 1794011332916,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -308925,6 +308999,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794043335284,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "全英雄禮包": "HK$ 188.00",
+            "全法術禮包": "HK$ 98.00",
+            "英雄 阿什彼特": "HK$ 58.00",
+            "全塔禮包": "HK$ 148.00",
+            "英雄 德拉坎": "HK$ 58.00",
+            "全塔禮包_B": "HK$ 118.00",
+            "法術 索羅化身": "HK$ 38.00",
+            "英雄 鬼侍": "HK$ 38.00",
+            "塔 奧術鍛造匠": "HK$ 38.00",
+            "一把寶石": "HK$ 22.00"
+          }
+        },
         {
           "timestamp": 1794011332916,
           "price": 58,
@@ -312086,6 +312177,27 @@
           "timestamp": 1793905807227,
           "price": 68,
           "formattedPrice": "HK$ 68.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6828960722": {
+    "name": "Grounds Up",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794043335284,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
           "inAppPurchases": {}
         }
       ]

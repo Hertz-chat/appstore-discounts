@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1020541183,
+    "region": "us",
+    "timestamp": 1794043335284,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "Free",
+        "range": "[Free ~ $9.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1020541183",
+    "trackName": "MovieSpirit - Movie Maker Pro",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 1600925588,
+    "region": "us",
+    "timestamp": 1794043335284,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$7.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $7.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1600925588",
+    "trackName": "GR Linker - Image Sync",
+    "firstRecordedAt": 1745578938597
+  },
+  {
     "trackId": 1303222868,
     "region": "us",
     "timestamp": 1794011332916,

@@ -18105,6 +18105,25 @@
     "history": [
       [
         {
+          "timestamp": 1794043335284,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "₺199,99",
+            "Gold Level Free Trial": "₺0,00",
+            "Predictive Report - Full": "₺199,99",
+            "Gold Monthly": "₺349,99",
+            "Relationship Report": "₺199,99",
+            "7-day Trial Astrolocality": "₺0,00",
+            "Birthday Report": "₺199,99",
+            "Child Report - Full": "₺199,99",
+            "Astrolocality Maps": "₺1.299,99",
+            "Predictive Report - No Background": "₺149,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793653056000,
           "price": 0,
           "formattedPrice": "Free",
@@ -22268,6 +22287,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794043335284,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "₺49,99",
+            "Sliced Beats": "₺49,99",
+            "Varazdin Orchestral Mobile": "₺199,99",
+            "Voices": "₺49,99",
+            "Amped Guitar & Bass": "₺149,99",
+            "Synth Plucks": "₺99,99",
+            "Synth Lead": "₺99,99",
+            "Technocraft": "₺99,99",
+            "Acoustic Guitars": "₺49,99",
+            "Synthetix Beats": "₺99,99"
+          }
+        },
         {
           "timestamp": 1794011332916,
           "price": 399.99,
@@ -148225,6 +148261,14 @@
     "history": [
       [
         {
+          "timestamp": 1794043335284,
+          "price": 139,
+          "formattedPrice": "₺139,00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793840903622,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -166489,6 +166533,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794043335284,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "The Complete Collection": "₺1.999,99",
+            "Arcade Dice Sale": "₺199,99",
+            "Victorian London Board": "₺399,99",
+            "Welcome Offer": "₺999,99",
+            "Speed Die": "₺799,99",
+            "Lava Dice": "₺249,99"
+          }
+        },
         {
           "timestamp": 1794011332916,
           "price": 249.99,
@@ -217602,10 +217663,18 @@
       "formattedPrice": "₺399,99"
     },
     "minPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99"
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794043335284,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1777543998844,
@@ -293508,12 +293577,25 @@
     "minPriceInfo": {
       "price": 29.99,
       "formattedPrice": "₺29,99",
-      "Blessing of Experience": "₺99,99",
-      "Skin Ticket x1": "₺19,99",
-      "Skin Ticket x3": "₺49,99",
-      "Skin Ticket x8": "₺149,99"
+      "Blessing of Experience": "₺69,99",
+      "Skin Ticket x1": "₺14,99",
+      "Skin Ticket x3": "₺39,99",
+      "Skin Ticket x8": "₺99,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794043335284,
+          "price": 69.99,
+          "formattedPrice": "₺69,99",
+          "inAppPurchases": {
+            "Blessing of Experience": "₺69,99",
+            "Skin Ticket x1": "₺14,99",
+            "Skin Ticket x3": "₺39,99",
+            "Skin Ticket x8": "₺99,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793840903622,
@@ -302738,6 +302820,27 @@
           "timestamp": 1793905807227,
           "price": 499.99,
           "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6828960722": {
+    "name": "Grounds Up",
+    "maxPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "minPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794043335284,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
           "inAppPurchases": {}
         }
       ]

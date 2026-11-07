@@ -2148,7 +2148,7 @@
   {
     "trackId": 430270438,
     "region": "tr",
-    "timestamp": 1793653056000,
+    "timestamp": 1794043335284,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -2209,7 +2209,7 @@
   {
     "trackId": 432850619,
     "region": "tr",
-    "timestamp": 1794011332916,
+    "timestamp": 1794043335284,
     "discounts": [],
     "price": 399.99,
     "formattedPrice": "₺399,99",
@@ -11685,10 +11685,10 @@
   {
     "trackId": 1411823462,
     "region": "tr",
-    "timestamp": 1793840903622,
+    "timestamp": 1794043335284,
     "discounts": [],
-    "price": 249.99,
-    "formattedPrice": "₺249,99",
+    "price": 139,
+    "formattedPrice": "₺139,00",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id1411823462",
     "trackName": "7Days : Backer",
@@ -13339,7 +13339,7 @@
   {
     "trackId": 1477966166,
     "region": "tr",
-    "timestamp": 1794011332916,
+    "timestamp": 1794043335284,
     "discounts": [],
     "price": 249.99,
     "formattedPrice": "₺249,99",
@@ -16612,10 +16612,10 @@
   {
     "trackId": 1600925588,
     "region": "tr",
-    "timestamp": 1777543998844,
+    "timestamp": 1794043335284,
     "discounts": [],
-    "price": 399.99,
-    "formattedPrice": "₺399,99",
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id1600925588",
     "trackName": "GR Linker - Image Sync",
@@ -19828,10 +19828,10 @@
   {
     "trackId": 6476342802,
     "region": "tr",
-    "timestamp": 1793840903622,
+    "timestamp": 1794043335284,
     "discounts": [],
-    "price": 99.99,
-    "formattedPrice": "₺99,99",
+    "price": 69.99,
+    "formattedPrice": "₺69,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6476342802",
     "trackName": "Skel and Defense",
@@ -26920,5 +26920,17 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6827745244",
     "trackName": "Vize: Yaşam Simülasyonu",
     "firstRecordedAt": 1793818693473
+  },
+  {
+    "trackId": 6828960722,
+    "region": "tr",
+    "timestamp": 1794043335284,
+    "discounts": [],
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6828960722",
+    "trackName": "Grounds Up",
+    "firstRecordedAt": 1794043335284
   }
 ]

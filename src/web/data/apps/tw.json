@@ -4438,7 +4438,7 @@
   {
     "trackId": 623592465,
     "region": "tw",
-    "timestamp": 1791540411692,
+    "timestamp": 1794043335284,
     "discounts": [],
     "price": 60,
     "formattedPrice": "$60.00",
@@ -11697,10 +11697,10 @@
   {
     "trackId": 1411823462,
     "region": "tw",
-    "timestamp": 1793818693473,
+    "timestamp": 1794043335284,
     "discounts": [],
-    "price": 150,
-    "formattedPrice": "$150.00",
+    "price": 160,
+    "formattedPrice": "$160.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1411823462",
     "trackName": "7Days : Backer",
@@ -16696,10 +16696,10 @@
   {
     "trackId": 1600925588,
     "region": "tw",
-    "timestamp": 1777543998844,
+    "timestamp": 1794043335284,
     "discounts": [],
-    "price": 250,
-    "formattedPrice": "$250.00",
+    "price": 30,
+    "formattedPrice": "$30.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1600925588",
     "trackName": "GR Linker - 理光相機傳圖 Image Sync",
@@ -19839,7 +19839,7 @@
   {
     "trackId": 6473001577,
     "region": "tw",
-    "timestamp": 1794011332916,
+    "timestamp": 1794043335284,
     "discounts": [],
     "price": 120,
     "formattedPrice": "$120.00",
@@ -20020,10 +20020,10 @@
   {
     "trackId": 6476342802,
     "region": "tw",
-    "timestamp": 1793818693473,
+    "timestamp": 1794043335284,
     "discounts": [],
-    "price": 60,
-    "formattedPrice": "$60.00",
+    "price": 79,
+    "formattedPrice": "$79.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6476342802",
     "trackName": "Skel和Defense：地下城Roguelike防禦",
@@ -27263,5 +27263,17 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id6827745244",
     "trackName": "Vize: Yaşam Simülasyonu",
     "firstRecordedAt": 1793818693473
+  },
+  {
+    "trackId": 6828960722,
+    "region": "tw",
+    "timestamp": 1794043335284,
+    "discounts": [],
+    "price": 90,
+    "formattedPrice": "$90.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6828960722",
+    "trackName": "Grounds Up",
+    "firstRecordedAt": 1794043335284
   }
 ]

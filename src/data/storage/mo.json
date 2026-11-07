@@ -84529,6 +84529,25 @@
     "history": [
       [
         {
+          "timestamp": 1794043335284,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "一堆猴幣促銷": "USD 2.99",
+            "全塔解鎖": "USD 4.99",
+            "塔XP": "USD 0.99",
+            "猴幣": "USD 1.99",
+            "解鎖典範": "USD 4.99",
+            "一保險庫的猴幣": "USD 19.99",
+            "一堆猴幣": "USD 4.99",
+            "猴幣山": "USD 49.99",
+            "10個知識點": "USD 7.99",
+            "完全解鎖防禦塔和典範": "USD 9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793526670644,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -160541,10 +160560,18 @@
       "formattedPrice": "USD 7.99"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "USD 5.99"
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794043335284,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1777543998844,
@@ -211012,7 +211039,7 @@
       "皮膚券 x3": "USD 0.99",
       "經驗祝福": "USD 1.99",
       "皮膚券 x1": "USD 0.49",
-      "皮膚券 x8": "USD 2.99"
+      "皮膚券 x8": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 0.49,
@@ -211023,6 +211050,19 @@
       "皮膚券 x8": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794043335284,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "皮膚券 x3": "USD 0.99",
+            "經驗祝福": "USD 1.99",
+            "皮膚券 x1": "USD 0.49",
+            "皮膚券 x8": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793818693473,
@@ -219106,6 +219146,27 @@
           "timestamp": 1793905807227,
           "price": 8.99,
           "formattedPrice": "USD 8.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6828960722": {
+    "name": "Grounds Up",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794043335284,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
         }
       ]

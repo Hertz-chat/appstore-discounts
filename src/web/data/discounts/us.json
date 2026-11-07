@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1303222868,
+    "region": "us",
+    "timestamp": 1794011332916,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "Free",
+        "range": "[Free ~ $4.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1303222868",
+    "trackName": "Paprika Recipe Manager 4",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6821872148,
+    "region": "us",
+    "timestamp": 1794011332916,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$3.99",
+        "range": "[$1.99 ~ $4.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "$3.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6821872148",
+    "trackName": "Duopaper: Panoramic Wallpapers",
+    "firstRecordedAt": 1793113178688
+  },
+  {
     "trackId": 931188326,
     "region": "us",
     "timestamp": 1793990259190,
@@ -32558,7 +32598,7 @@
         "name": "Price",
         "from": "$4.99",
         "to": "$2.99",
-        "range": "[$2.99 ~ $4.99]"
+        "range": "[Free ~ $4.99]"
       }
     ],
     "price": 2.99,

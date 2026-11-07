@@ -151762,12 +151762,23 @@
       "Paprika 4 Premium": "$14.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Paprika 4 Premium (Discount)": "$9.99",
       "Paprika 4 Premium": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794011332916,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Paprika 4 Premium (Discount)": "$9.99",
+            "Paprika 4 Premium": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793224661146,
@@ -184870,6 +184881,25 @@
     "history": [
       [
         {
+          "timestamp": 1794011332916,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "First Purchase: Legendary Pack": "$9.99",
+            "Piggy Bank": "$2.99",
+            "Flash Sale Star Rune 2": "$1.99",
+            "LegendaryPackage": "$19.99",
+            "Flash Sale Crystal 2": "$2.99",
+            "Double Exp Package 1": "$0.99",
+            "Flash Sale Ore Rune 2": "$1.99",
+            "Crystal Piggy Bank 5": "$4.99",
+            "Flash Sale Legendary Essence 1": "$4.99",
+            "Flash Sale Crystal 3": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793872776771,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -194533,6 +194563,25 @@
       "可乐新概念（二）语音语调及连读": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794011332916,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "《爱丽丝梦游仙境》": "$5.99",
+            "《老人与海》": "$5.99",
+            "《福尔摩斯探案之血字的研究》": "$5.99",
+            "《福尔摩斯探案归来记（上部）》": "$5.99",
+            "《福尔摩斯探案归来记（下部）》": "$5.99",
+            "《了不起的盖茨比》": "$5.99",
+            "《野性的呼唤》": "$6.99",
+            "《欧·亨利短篇小说精选》": "$5.99",
+            "《每日外刊》订阅": "$8.99",
+            "《英语四级真题精品课》": "$8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793438080874,
@@ -243084,6 +243133,23 @@
     "history": [
       [
         {
+          "timestamp": 1794011332916,
+          "price": 10.99,
+          "formattedPrice": "$10.99",
+          "inAppPurchases": {
+            "Content Bundle 1": "$10.99",
+            "Content Bundle 2": "$8.99",
+            "Getaway Car Pack": "$2.99",
+            "Modified Monsters Car Pack": "$2.99",
+            "Off-Road Car Pack": "$2.99",
+            "Racing Heroes Car Pack": "$2.99",
+            "Steel & Wheels Pack": "$1.99",
+            "American All-Stars Car Pack": "$2.99",
+            "Banger Racing Car Pack": "$2.99",
+            "Rusty Rats Car Pack": "$2.99"
+          }
+        },
+        {
           "timestamp": 1793990259190,
           "price": 10.99,
           "formattedPrice": "$10.99",
@@ -251991,6 +252057,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794011332916,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "All Unit Groups": "$12.99",
+            "All Heroes": "$14.99",
+            "Hero Dragon Kosmos": "$6.99",
+            "Unit Group Jaegers": "$6.99",
+            "Unit Group Rebooted Ascendii": "$2.99",
+            "Hero Red Dragon": "$5.99",
+            "Starter Pack": "$4.99",
+            "Hero Red Dragon On Sale": "$3.99",
+            "Unit Group Jaegers On Sale": "$4.99",
+            "Hero Zhara": "$4.99"
+          }
+        },
         {
           "timestamp": 1793959313216,
           "price": 0.99,
@@ -307129,6 +307212,25 @@
     "history": [
       [
         {
+          "timestamp": 1794011332916,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Global scenery - 3 months": "$7.99",
+            "Airbus A380": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "UH-60": "$0.99",
+            "Boeing 747-400": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793840903622,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -356746,6 +356848,25 @@
     "history": [
       [
         {
+          "timestamp": 1794011332916,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Pro Mensal": "$1.99",
+            "SENSI iPhone 15 a 17 Pro Max": "$1.99",
+            "Elite Annual": "$7.99",
+            "1 Token Coach IA": "$0.99",
+            "SENSI RANKED iPhone 15 a 17 Pro Max": "$1.99",
+            "Clone de Sensi": "$0.99",
+            "SENSI iPhone X a 12 Pro Max": "$1.99",
+            "SENSI iPhone 13 a 14 Pro Max": "$1.99",
+            "10 Tokens Coach IA": "$4.99",
+            "Clone Sensi – 3 Clonagens": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793753850884,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -363039,7 +363160,17 @@
       "Costume · Halloween Set 1": "$2.99",
       "Hero · Elowyn Briar": "$0.99",
       "Bundle · Knights of Light": "$9.99",
-      "Expansion · The Four Towers": "$2.99"
+      "Expansion · The Four Towers": "$2.99",
+      "Pack · Knights' Gala": "$2.99",
+      "Pack · Forest and Forge": "$2.99",
+      "Pack · Snowflower Garden": "$2.99",
+      "Pack · Eastern Night": "$2.99",
+      "Pack · Moon and Stars": "$2.99",
+      "Autumn Hunt Queen": "$0.49",
+      "Silver Gladiator": "$0.49",
+      "Snow Festival Princess": "$0.49",
+      "Pack · Gala of Legends": "$3.99",
+      "Rune Engineer": "$0.49"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -363059,9 +363190,38 @@
       "Costume · Halloween Set 1": "$2.99",
       "Hero · Elowyn Briar": "$0.99",
       "Bundle · Knights of Light": "$9.99",
-      "Expansion · The Four Towers": "$2.99"
+      "Expansion · The Four Towers": "$2.99",
+      "Pack · Knights' Gala": "$2.99",
+      "Pack · Forest and Forge": "$2.99",
+      "Pack · Snowflower Garden": "$2.99",
+      "Pack · Eastern Night": "$2.99",
+      "Pack · Moon and Stars": "$2.99",
+      "Autumn Hunt Queen": "$0.49",
+      "Silver Gladiator": "$0.49",
+      "Snow Festival Princess": "$0.49",
+      "Pack · Gala of Legends": "$3.99",
+      "Rune Engineer": "$0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794011332916,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Pack · Knights' Gala": "$2.99",
+            "Pack · Forest and Forge": "$2.99",
+            "Pack · Snowflower Garden": "$2.99",
+            "Pack · Eastern Night": "$2.99",
+            "Pack · Moon and Stars": "$2.99",
+            "Autumn Hunt Queen": "$0.49",
+            "Silver Gladiator": "$0.49",
+            "Snow Festival Princess": "$0.49",
+            "Pack · Gala of Legends": "$3.99",
+            "Rune Engineer": "$0.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793786660480,
@@ -363292,6 +363452,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794011332916,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Drakkan": "$6.99",
+            "Hero Ashbite": "$6.99",
+            "ALL HEROES BUNDLE": "$24.99",
+            "Tower Sniper": "$5.99",
+            "Gems Pouch": "$4.99",
+            "Tower Alchemist": "$2.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Hero Ignus": "$2.99",
+            "ALL SPELLS BUNDLE": "$12.99",
+            "Hero Oni": "$4.99"
+          }
+        },
         {
           "timestamp": 1793959313216,
           "price": 6.99,
@@ -365592,6 +365769,14 @@
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794011332916,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793905807227,

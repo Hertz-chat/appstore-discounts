@@ -22269,6 +22269,25 @@
     "history": [
       [
         {
+          "timestamp": 1794011332916,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "₺49,99",
+            "Sliced Beats": "₺49,99",
+            "Varazdin Orchestral Mobile": "₺199,99",
+            "Voices": "₺49,99",
+            "Synth Plucks": "₺99,99",
+            "Amped Guitar & Bass": "₺149,99",
+            "Synth Lead": "₺99,99",
+            "Technocraft": "₺99,99",
+            "FL Cloud Mobile": "₺129,99",
+            "Acoustic Guitars": "₺49,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793959313216,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -93404,6 +93423,14 @@
     "history": [
       [
         {
+          "timestamp": 1794011332916,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1788476366977,
           "price": 499.99,
           "formattedPrice": "₺499,99",
@@ -119427,6 +119454,25 @@
       "1100 Rebirth Stones": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794011332916,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Feature Package": "₺199,99",
+            "Element Package": "₺899,99",
+            "Automatic Package": "₺899,99",
+            "Element EXP increase": "₺499,99",
+            "Rebirth EXP increase": "₺499,99",
+            "Rebirth Package": "₺2.299,99",
+            "12000 Rubies": "₺4.999,99",
+            "50000 Rebirth Stones": "₺4.999,99",
+            "250 Hell Stones": "₺2.299,99",
+            "120 Hell Stones": "₺1.299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793990259190,
@@ -166444,6 +166490,25 @@
     "history": [
       [
         {
+          "timestamp": 1794011332916,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "Arcade Dice Sale": "₺199,99",
+            "The Complete Collection": "₺1.999,99",
+            "Ruby Dragon Sale": "₺149,99",
+            "Speed Die": "₺799,99",
+            "The Hyda Token": "₺149,99",
+            "Victorian London Board": "₺399,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793959313216,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -208937,6 +209002,16 @@
     "history": [
       [
         {
+          "timestamp": 1794011332916,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "MenubarX Pro": "₺399,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793002369190,
           "price": 0,
           "formattedPrice": "Free",
@@ -223845,6 +223920,14 @@
       "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794011332916,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792881993930,
@@ -250521,6 +250604,25 @@
       "Airbus A321 XLR": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794011332916,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Airbus A350-1000": "₺199,99",
+            "Boeing 737-800": "₺149,99",
+            "Global scenery - 3 months": "₺399,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Airbus A321": "₺99,99",
+            "Boeing 737": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793959313216,
@@ -291731,7 +291833,10 @@
       "Moonveil Skin Set": "₺499,99",
       "Underworld Pass 1": "₺149,99",
       "Memory of Training": "₺999,99",
-      "Neo Behemoth": "₺99,99"
+      "Neo Behemoth": "₺99,99",
+      "New Rulers": "₺299,99",
+      "Wedding Skin Set": "₺499,99",
+      "Underworld Pass 2": "₺149,99"
     },
     "minPriceInfo": {
       "price": 149.99,
@@ -291748,9 +291853,31 @@
       "Moonveil Skin Set": "₺299,99",
       "Underworld Pass 1": "₺149,99",
       "Memory of Training": "₺999,99",
-      "Neo Behemoth": "₺99,99"
+      "Neo Behemoth": "₺99,99",
+      "New Rulers": "₺299,99",
+      "Wedding Skin Set": "₺499,99",
+      "Underworld Pass 2": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794011332916,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Underworld Expansion Pass": "₺299,99",
+            "Pioneer of the Abyss": "₺499,99",
+            "Neo Behemoth": "₺99,99",
+            "Essence of Transcendence": "₺1.499,99",
+            "Underworld Pass 1": "₺149,99",
+            "Time Traveler": "₺299,99",
+            "New Rulers": "₺299,99",
+            "Wedding Skin Set": "₺499,99",
+            "Underworld Pass 2": "₺149,99",
+            "Memory of Training": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791507612931,
@@ -292370,6 +292497,25 @@
       "Unlock All (Upgrade 2)": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794011332916,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "SG-1000": "₺49,99",
+            "Master System": "₺49,99",
+            "Game Gear": "₺49,99",
+            "Mega Drive / Genesis": "₺49,99",
+            "Atari 2600": "₺49,99",
+            "Pokémon Mini": "₺49,99",
+            "SNES": "₺49,99",
+            "Game Boy Advance": "₺49,99",
+            "Unlock All (Upgrade 4)": "₺49,99",
+            "Unlock All (Upgrade 3)": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793990259190,
@@ -296446,6 +296592,22 @@
     "history": [
       [
         {
+          "timestamp": 1794011332916,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "宗師匣檔": "₺4.999,99",
+            "問道進階檔": "₺2.499,99",
+            "定向匣檔": "₺1.499,99",
+            "輕囊通寶": "₺149,99",
+            "進階材料檔": "₺799,99",
+            "小袋通寶": "₺49,99",
+            "珍品匣檔": "₺199,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793178284917,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -298976,7 +299138,17 @@
       "Costume · Halloween Set 1": "₺149,99",
       "Hero · Elowyn Briar": "₺49,99",
       "Bundle · Knights of Light": "₺499,99",
-      "Expansion · The Four Towers": "₺149,99"
+      "Expansion · The Four Towers": "₺149,99",
+      "Pack · Knights' Gala": "₺149,99",
+      "Pack · Forest and Forge": "₺149,99",
+      "Pack · Snowflower Garden": "₺149,99",
+      "Pack · Eastern Night": "₺149,99",
+      "Pack · Moon and Stars": "₺149,99",
+      "Autumn Hunt Queen": "₺29,99",
+      "Silver Gladiator": "₺29,99",
+      "Snow Festival Princess": "₺29,99",
+      "Pack · Gala of Legends": "₺199,99",
+      "Rune Engineer": "₺29,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -298996,9 +299168,38 @@
       "Costume · Halloween Set 1": "₺149,99",
       "Hero · Elowyn Briar": "₺49,99",
       "Bundle · Knights of Light": "₺499,99",
-      "Expansion · The Four Towers": "₺149,99"
+      "Expansion · The Four Towers": "₺149,99",
+      "Pack · Knights' Gala": "₺149,99",
+      "Pack · Forest and Forge": "₺149,99",
+      "Pack · Snowflower Garden": "₺149,99",
+      "Pack · Eastern Night": "₺149,99",
+      "Pack · Moon and Stars": "₺149,99",
+      "Autumn Hunt Queen": "₺29,99",
+      "Silver Gladiator": "₺29,99",
+      "Snow Festival Princess": "₺29,99",
+      "Pack · Gala of Legends": "₺199,99",
+      "Rune Engineer": "₺29,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794011332916,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Pack · Knights' Gala": "₺149,99",
+            "Pack · Forest and Forge": "₺149,99",
+            "Pack · Snowflower Garden": "₺149,99",
+            "Pack · Eastern Night": "₺149,99",
+            "Pack · Moon and Stars": "₺149,99",
+            "Autumn Hunt Queen": "₺29,99",
+            "Silver Gladiator": "₺29,99",
+            "Snow Festival Princess": "₺29,99",
+            "Pack · Gala of Legends": "₺199,99",
+            "Rune Engineer": "₺29,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793731488753,
@@ -302049,6 +302250,14 @@
       "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794011332916,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793905807227,

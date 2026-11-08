@@ -22296,6 +22296,23 @@
     "history": [
       [
         {
+          "timestamp": 1794158365765,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "₺49,99",
+            "Sliced Beats": "₺49,99",
+            "Varazdin Orchestral Mobile": "₺199,99",
+            "Voices": "₺49,99",
+            "Amped Guitar & Bass": "₺149,99",
+            "PsyTrance": "₺149,99",
+            "Synth Lead": "₺99,99",
+            "Synth Plucks": "₺99,99",
+            "Acoustic Guitars": "₺49,99",
+            "Technocraft": "₺99,99"
+          }
+        },
+        {
           "timestamp": 1794106722002,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -136583,6 +136600,22 @@
     "history": [
       [
         {
+          "timestamp": 1794158365765,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Power Builder (weekly)": "₺6,99",
+            "Power Builder (monthly)": "₺20,99",
+            "Micro Tip": "₺49,99",
+            "Power Builder (yearly)": "₺169,99",
+            "Medium Tip": "₺99,99",
+            "The Ultimate Tip": "₺2.999,99",
+            "Super Mega Smashing Tip": "₺1.799,99",
+            "Super Smashing Tip": "₺999,99",
+            "Super Mega Tip": "₺499,99"
+          }
+        },
+        {
           "timestamp": 1794131413359,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -242486,7 +242519,13 @@
       "Spooktacular Pumpkin Carriage": "₺99,99",
       "Spooktacular Vampire Character": "₺99,99",
       "Spooktacular Orange Player Colour": "₺249,99",
-      "The Spooktacular Halloween Bundle": "₺399,99"
+      "The Spooktacular Halloween Bundle": "₺399,99",
+      "Ultimate Bundle": "₺3.499,99",
+      "New York Map": "₺499,99",
+      "France Map": "₺499,99",
+      "Nederlands Map": "₺499,99",
+      "Iberia Map": "₺499,99",
+      "Old West Map": "₺499,99"
     },
     "minPriceInfo": {
       "price": 129.99,
@@ -242548,9 +242587,30 @@
       "Spooktacular Pumpkin Carriage": "₺99,99",
       "Spooktacular Vampire Character": "₺99,99",
       "Spooktacular Orange Player Colour": "₺249,99",
-      "The Spooktacular Halloween Bundle": "₺399,99"
+      "The Spooktacular Halloween Bundle": "₺399,99",
+      "Ultimate Bundle": "₺3.499,99",
+      "New York Map": "₺499,99",
+      "France Map": "₺499,99",
+      "Nederlands Map": "₺499,99",
+      "Iberia Map": "₺499,99",
+      "Old West Map": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794158365765,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Ultimate Bundle": "₺3.499,99",
+            "New York Map": "₺499,99",
+            "France Map": "₺499,99",
+            "Nederlands Map": "₺499,99",
+            "Iberia Map": "₺499,99",
+            "Old West Map": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793501604822,
@@ -297074,6 +297134,22 @@
     "history": [
       [
         {
+          "timestamp": 1794158365765,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "宗師匣檔": "₺4.999,99",
+            "問道進階檔": "₺2.499,99",
+            "定向匣檔": "₺1.499,99",
+            "輕囊通寶": "₺149,99",
+            "進階材料檔": "₺799,99",
+            "小袋通寶": "₺49,99",
+            "珍品匣檔": "₺199,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794011332916,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -298149,14 +298225,22 @@
   "6798830578": {
     "name": "PDF2MD: PDF to Markdown",
     "maxPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
     },
     "minPriceInfo": {
       "price": 149.99,
       "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794158365765,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787402209195,

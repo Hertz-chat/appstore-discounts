@@ -30405,6 +30405,25 @@
     "history": [
       [
         {
+          "timestamp": 1794158365765,
+          "price": 235,
+          "formattedPrice": "$235.00",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "$240.00",
+            "Minecraft Store Item 2": "$70.00",
+            "Minecraft Store Item 6": "$205.00",
+            "Realms Monthly Subscription: You + 2 Friends": "$120.00",
+            "Minecraft Store Item 3": "$105.00",
+            "Realms Plus: You + 10 Friends": "$240.00",
+            "Minecraft Store Item 10": "$335.00",
+            "Minecraft Store Item 4": "$135.00",
+            "Minecraft Store Item 5": "$170.00",
+            "Marketplace Pass Trial": "$120.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793959313216,
           "price": 235,
           "formattedPrice": "$235.00",
@@ -78542,6 +78561,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794158365765,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793990259190,
@@ -157835,7 +157862,7 @@
   },
   "1441522083": {
     "trackId": 1441522083,
-    "trackName": "LED Banner: Marquee & Scroller",
+    "trackName": "LED跑馬燈・手持彈幕・應援燈牌",
     "region": "tw",
     "maxPriceInfo": {
       "price": 120,
@@ -163319,6 +163346,25 @@
       "禮包1": "$10.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794158365765,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "68金玉": "$330.00",
+            "30金玉": "$170.00",
+            "6金玉": "$33.00",
+            "198金玉": "$990.00",
+            "尊享月俸": "$170.00",
+            "禮包5": "$170.00",
+            "648金玉": "$3,290.00",
+            "一鍵買斷禮包": "$150.00",
+            "禮包9": "$990.00",
+            "丹青閣通行證": "$330.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794131413359,
@@ -218838,6 +218884,14 @@
     "history": [
       [
         {
+          "timestamp": 1794158365765,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793568365537,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -222220,6 +222274,25 @@
       "Hero Bomett": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794158365765,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "All Unit Groups": "$390.00",
+            "All Heroes": "$490.00",
+            "Hero Dragon Kosmos": "$220.00",
+            "Special Daily Pack7": "$60.00",
+            "Unit Group Jaegers": "$220.00",
+            "Starter Pack": "$150.00",
+            "Hero Red Dragon On Sale": "$120.00",
+            "Unit Group Rebooted Ascendii": "$90.00",
+            "Hero Red Dragon": "$190.00",
+            "Unit Group Jaegers On Sale": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793553601717,
@@ -229082,8 +229155,8 @@
       "price": 0,
       "formattedPrice": "免費",
       "Pro(Lifetime)": "$320.00",
-      "Pro (Yearly)": "$220.00",
-      "Pro (Monthly)": "$50.00",
+      "Pro (Yearly)": "$320.00",
+      "Pro (Monthly)": "$90.00",
       "Pro (Activate)": "$320.00",
       "Pro (Lifetime)": "$320.00"
     },
@@ -229097,6 +229170,19 @@
       "Pro (Lifetime)": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794158365765,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro (Lifetime)": "$320.00",
+            "Pro (Yearly)": "$320.00",
+            "Pro (Monthly)": "$90.00",
+            "Pro (Activate)": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -263944,6 +264030,25 @@
     "history": [
       [
         {
+          "timestamp": 1794158365765,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "Jingle": "$90.00",
+            "2025 Spring Forest Theme": "$60.00",
+            "2025 Spring Lawn Theme": "$90.00",
+            "2025 Spring Flower Theme": "$60.00",
+            "Lawn Theme": "$60.00",
+            "小灰": "$60.00",
+            "軟軟": "$60.00",
+            "招財": "$60.00",
+            "點點": "$60.00",
+            "Civet Theme": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791773850972,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -277613,6 +277718,25 @@
       "Airbus A321 XLR": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794158365765,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Boeing 787-10": "$60.00",
+            "Global scenery - 12 months": "$690.00",
+            "Boeing 777-300ER": "$60.00",
+            "The Aircraft Bundle": "$790.00",
+            "Airbus A380": "$60.00",
+            "Airbus A350-1000": "$120.00",
+            "Boeing 737 MAX 9": "$60.00",
+            "Boeing 747-400": "$60.00",
+            "Global scenery - 3 months": "$290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794106722002,
@@ -324277,6 +324401,22 @@
     "history": [
       [
         {
+          "timestamp": 1794158365765,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "珍品匣檔": "$120.00",
+            "進階材料檔": "$490.00",
+            "小袋通寶": "$30.00",
+            "輕囊通寶": "$90.00",
+            "定向匣檔": "$990.00",
+            "宗師匣檔": "$2,990.00",
+            "問道進階檔": "$1,490.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793990259190,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -325312,14 +325452,22 @@
     "trackName": "PDF2MD: PDF to Markdown",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00"
+      "price": 150,
+      "formattedPrice": "$150.00"
     },
     "minPriceInfo": {
       "price": 90,
       "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794158365765,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787402209195,
@@ -326316,6 +326464,14 @@
       "formattedPrice": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794158365765,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793700779769,

@@ -1496,7 +1496,7 @@
 |925|1059911569|自动|❌|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|
 |924|1202650514|自动|HealthFit|HealthFit|HealthFit|HealthFit|HealthFit|HealthFit|HealthFit|
 |923|1230231705|自动|❌|The Witness|The Witness|The Witness|The Witness|The Witness|The Witness|
-|922|1441522083|自动|LED弹幕-手持弹幕显示屏，跑马灯滚动字幕|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|
+|922|1441522083|自动|LED弹幕-手持弹幕显示屏，跑马灯滚动字幕|LED跑馬燈・手持彈幕・應援燈牌|LED跑馬燈・手持彈幕・應援燈牌|LED跑馬燈・手持彈幕・應援燈牌|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|
 |921|1492041539|自动|❌|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|
 |920|1498778559|自动|MindPage|MindPage|MindPage|MindPage|MindPage|MindPage|MindPage - Mind Map|
 |919|1533709428|自动|❌|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City: Cidade de Bolso 2|

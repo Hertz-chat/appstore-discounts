@@ -72641,6 +72641,23 @@
     "history": [
       [
         {
+          "timestamp": 1794158365765,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "3,99 €",
+            "TeaSet DarkLord Skin Package C": "5,99 €",
+            "Teaset Dark Lord Skin PackageB": "5,99 €",
+            "Teaset DarkLord Skin Package A": "5,99 €",
+            "Little Corr. Hero costume Pack": "29,99 €",
+            "Little Hero Costume Package": "29,99 €",
+            "Black Dark Lord Skin Package": "8,99 €",
+            "White Dark Lord Skin Package": "8,99 €",
+            "Awakening Viper Package": "5,99 €",
+            "Myth full pack": "44,99 €"
+          }
+        },
+        {
           "timestamp": 1794131413359,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -89364,21 +89381,40 @@
       "Zenith Islands DLC": "2,99 €",
       "Prime Dimension DLC": "3,99 €",
       "Fancy Apparel": "17,99 €",
-      "Zenith Islands DLC Sale": "2,99 €",
-      "Prime Dimension DLC Sale": "2,99 €",
-      "Crystal Offer Sale": "9,99 €",
-      "Elite Offer Sale": "5,99 €",
-      "Fancy Apparel Offer Sale": "7,99 €",
+      "Zenith Islands DLC Sale": "1,99 €",
+      "Prime Dimension DLC Sale": "1,99 €",
+      "Crystal Offer Sale": "4,99 €",
+      "Elite Offer Sale": "2,99 €",
+      "Fancy Apparel Offer Sale": "4,99 €",
       "Starter Offer Sale": "1,99 €",
-      "Hunter Offer Sale": "5,99 €",
-      "Master Offer Sale": "9,99 €",
+      "Hunter Offer Sale": "2,99 €",
+      "Master Offer Sale": "4,99 €",
       "Crystal Offer": "10,99 €",
       "Elite Offer": "4,99 €",
-      "Spray kit": "3,99 €",
-      "Ascensio Kit": "5,99 €",
+      "Spray kit": "2,99 €",
+      "Ascensio Kit": "2,99 €",
       "Intro Offer (low)": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794158365765,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Spray kit": "2,99 €",
+            "Ascensio Kit": "2,99 €",
+            "Zenith Islands DLC Sale": "1,99 €",
+            "Prime Dimension DLC Sale": "1,99 €",
+            "Crystal Offer Sale": "4,99 €",
+            "Elite Offer Sale": "2,99 €",
+            "Fancy Apparel Offer Sale": "4,99 €",
+            "Starter Offer Sale": "1,99 €",
+            "Hunter Offer Sale": "2,99 €",
+            "Master Offer Sale": "4,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793490606912,
@@ -153616,6 +153652,22 @@
     "history": [
       [
         {
+          "timestamp": 1794158365765,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "宗師匣檔": "99,99 €",
+            "問道進階檔": "49,99 €",
+            "定向匣檔": "34,99 €",
+            "輕囊通寶": "2,99 €",
+            "進階材料檔": "17,99 €",
+            "小袋通寶": "0,99 €",
+            "珍品匣檔": "3,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794011332916,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -154793,14 +154845,22 @@
     "trackName": "PDF2MD: PDF to Markdown",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794158365765,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787402209195,

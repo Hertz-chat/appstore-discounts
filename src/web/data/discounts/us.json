@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6770101449,
+    "region": "us",
+    "timestamp": 1794158365765,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $5.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6770101449",
+    "trackName": "五道門：文字江湖",
+    "firstRecordedAt": 1785154990397
+  },
+  {
+    "trackId": 6816896250,
+    "region": "us",
+    "timestamp": 1794158365765,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$3.99",
+        "range": "[$3.99 ~ $4.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "$3.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6816896250",
+    "trackName": "Tiny Computers",
+    "firstRecordedAt": 1792798647744
+  },
+  {
     "trackId": 1020541183,
     "region": "us",
     "timestamp": 1794043335284,

@@ -1496,7 +1496,7 @@ So far, we've covered `7` `Countries or Regions` and  `2411` `Apps` <br />Push n
 |925|1059911569|Automatic|❌|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|
 |924|1202650514|Automatic|HealthFit|HealthFit|HealthFit|HealthFit|HealthFit|HealthFit|HealthFit|
 |923|1230231705|Automatic|❌|The Witness|The Witness|The Witness|The Witness|The Witness|The Witness|
-|922|1441522083|Automatic|LED弹幕-手持弹幕显示屏，跑马灯滚动字幕|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|
+|922|1441522083|Automatic|LED弹幕-手持弹幕显示屏，跑马灯滚动字幕|LED跑馬燈・手持彈幕・應援燈牌|LED跑馬燈・手持彈幕・應援燈牌|LED跑馬燈・手持彈幕・應援燈牌|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|
 |921|1492041539|Automatic|❌|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|
 |920|1498778559|Automatic|MindPage|MindPage|MindPage|MindPage|MindPage|MindPage|MindPage - Mind Map|
 |919|1533709428|Automatic|❌|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City: Cidade de Bolso 2|

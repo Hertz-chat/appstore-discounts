@@ -96941,6 +96941,23 @@
     "history": [
       [
         {
+          "timestamp": 1794106722002,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "江湖名士": "USD 3.99",
+            "鳌拜的私房钱": "USD 8.99",
+            "30元礼包": "USD 3.99",
+            "60元礼包": "USD 8.99",
+            "6元礼包": "USD 0.99",
+            "30元礼包四": "USD 3.99",
+            "秦王的宝藏": "USD 24.99",
+            "168元礼包": "USD 24.99",
+            "一盒元宝": "USD 2.99",
+            "一袋元宝": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1794085796977,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -109315,6 +109332,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794106722002,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "USD 3.99",
+            "原版怪獸繼承卡牌包": "USD 17.99",
+            "覺醒魔王完整卡牌包": "USD 26.99",
+            "原版魔王完整卡牌包": "USD 26.99",
+            "怪獸繼承": "USD 4.99",
+            "原版地宮卡牌包": "USD 17.99",
+            "覺醒魔王卡牌包": "USD 17.99",
+            "原版魔王權能卡牌包": "USD 17.99",
+            "覺醒技能卡牌包": "USD 17.99",
+            "原版魔王加速卡牌包": "USD 8.99"
+          }
+        },
         {
           "timestamp": 1794085796977,
           "price": 3.99,
@@ -123267,6 +123301,25 @@
       "Silver Decree": "USD 49.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794106722002,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "7200 gems": "USD 99.99",
+            "60 gems": "USD 0.99",
+            "310 gems": "USD 4.99",
+            "2080 gems": "USD 29.99",
+            "Gold Decree": "USD 89.99",
+            "Silver Decree": "USD 49.99",
+            "Resource Package": "USD 2.99",
+            "Heroic Package#1": "USD 9.99",
+            "英雄礼包II": "USD 9.99",
+            "Role Package": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786484699249,
@@ -178123,6 +178176,23 @@
     "history": [
       [
         {
+          "timestamp": 1794106722002,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "終身版": "USD 6.99",
+            "自創武將": "USD 2.99",
+            "自創寶物": "USD 1.99",
+            "五子良將": "USD 5.99",
+            "地圖存檔": "USD 1.99",
+            "劇本存檔": "USD 1.99",
+            "月下追魂": "USD 5.99",
+            "斜谷殘陽": "USD 5.99",
+            "冠絕天下": "USD 5.99",
+            "西涼悍將": "USD 5.99"
+          }
+        },
+        {
           "timestamp": 1794085796977,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
@@ -199304,6 +199374,14 @@
     "history": [
       [
         {
+          "timestamp": 1794106722002,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793818693473,
           "price": 0,
           "formattedPrice": "免費",
@@ -218757,14 +218835,22 @@
   "6816896250": {
     "name": "Tiny Computers",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794106722002,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792798647744,
@@ -218924,6 +219010,14 @@
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794106722002,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794011332916,

@@ -23823,6 +23823,15 @@
     "history": [
       [
         {
+          "timestamp": 1794106722002,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Premium": "$1,260.00",
+            "Fitness Buddy Premium": "$890.00"
+          }
+        },
+        {
           "timestamp": 1794085796977,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -274263,6 +274272,23 @@
     "history": [
       [
         {
+          "timestamp": 1794106722002,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Boeing 787-10": "$60.00",
+            "Boeing 777-300ER": "$60.00",
+            "Global scenery - 12 months": "$690.00",
+            "Airbus A380": "$60.00",
+            "The Aircraft Bundle": "$790.00",
+            "Boeing 737 MAX 9": "$60.00",
+            "Airbus A350-1000": "$120.00",
+            "Boeing 747-400": "$60.00",
+            "UH-60": "$30.00"
+          }
+        },
+        {
           "timestamp": 1794085796977,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -303140,6 +303166,14 @@
     "history": [
       [
         {
+          "timestamp": 1794106722002,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793818693473,
           "price": 0,
           "formattedPrice": "免費",
@@ -314350,7 +314384,10 @@
       "成長之始": "$320.00",
       "魔界通行證1": "$90.00",
       "尼奧貝希摩斯": "$60.00",
-      "訓練記憶": "$590.00"
+      "訓練記憶": "$590.00",
+      "新的統治者": "$190.00",
+      "婚禮造型套裝": "$320.00",
+      "魔界通行證2": "$90.00"
     },
     "minPriceInfo": {
       "price": 90,
@@ -314367,9 +314404,31 @@
       "成長之始": "$320.00",
       "魔界通行證1": "$90.00",
       "尼奧貝希摩斯": "$60.00",
-      "訓練記憶": "$590.00"
+      "訓練記憶": "$590.00",
+      "新的統治者": "$190.00",
+      "婚禮造型套裝": "$320.00",
+      "魔界通行證2": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794106722002,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "新的統治者": "$190.00",
+            "婚禮造型套裝": "$320.00",
+            "魔界擴充通行證": "$190.00",
+            "深淵開拓者": "$320.00",
+            "尼奧貝希摩斯": "$60.00",
+            "魔界通行證2": "$90.00",
+            "隱月造型套裝": "$320.00",
+            "超越精華": "$990.00",
+            "永恆方舟": "$990.00",
+            "時間旅行者": "$190.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793786660480,
@@ -324797,14 +324856,22 @@
   "6816896250": {
     "name": "Tiny Computers",
     "maxPriceInfo": {
-      "price": 120,
-      "formattedPrice": "$120.00"
+      "price": 150,
+      "formattedPrice": "$150.00"
     },
     "minPriceInfo": {
       "price": 120,
       "formattedPrice": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794106722002,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792798647744,
@@ -324964,6 +325031,14 @@
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794106722002,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794011332916,

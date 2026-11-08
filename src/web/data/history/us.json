@@ -22531,6 +22531,23 @@
     "history": [
       [
         {
+          "timestamp": 1794106722002,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Shooting Stars - Bubble Bust World 2": "$0.99",
+            "Struck by Lightning - Bubble Bust World 3": "$1.99",
+            "Pack of 15 Bumpers": "$1.99",
+            "World 2 - Level Pack 2": "$0.99",
+            "Pack of 30 Fireballs": "$1.99",
+            "Pack of 5 Bumpers": "$0.99",
+            "Pack of 10 Fireballs": "$0.99",
+            "MEGA Bubble Popper Pack": "$7.99",
+            "World 3 - Level Pack 2": "$0.99",
+            "Pack of 500 Tokens": "$0.99"
+          }
+        },
+        {
           "timestamp": 1794085796977,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -66663,6 +66680,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794106722002,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2017 Enhanced Diagnostics": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2016 Enhanced Diagnostics": "$14.99",
+            "Ford 2013 Enhanced Diagnostics": "$14.99"
+          }
+        },
         {
           "timestamp": 1794043335284,
           "price": 9.99,
@@ -132169,6 +132203,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794106722002,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "All DLC": "$0.00",
+            "HD Textures": "$0.00",
+            "Best of British Pack": "$0.00",
+            "Black Edition Pack": "$0.00",
+            "Road & Track Pack": "$0.00",
+            "Drag Pack": "$0.00",
+            "Sprint Pack": "$0.00",
+            "Coupé Style Pack": "$0.00"
+          }
+        },
         {
           "timestamp": 1794085796977,
           "price": 9.99,
@@ -230565,6 +230614,25 @@
     "history": [
       [
         {
+          "timestamp": 1794106722002,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$9.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Word Bonanza Bundle": "$19.99",
+            "Generations Gen Z Pack": "$1.99",
+            "Midnight Bedroom Pack": "$2.99",
+            "Midnight Night Out Pack": "$2.99",
+            "Mystery Mix Pack 1": "$1.99",
+            "Ready to Roast": "$6.49",
+            "Sports and Games Pack": "$7.99",
+            "Midnight Mix Pack 1": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793872776771,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -246102,6 +246170,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794106722002,
+          "price": 10.99,
+          "formattedPrice": "$10.99",
+          "inAppPurchases": {
+            "Content Bundle 1": "$10.99",
+            "Content Bundle 2": "$8.99",
+            "Getaway Car Pack": "$2.99",
+            "Modified Monsters Car Pack": "$2.99",
+            "Racing Heroes Car Pack": "$2.99",
+            "Off-Road Car Pack": "$2.99",
+            "Steel & Wheels Pack": "$1.99",
+            "American All-Stars Car Pack": "$2.99",
+            "Banger Racing Car Pack": "$2.99",
+            "Rusty Rats Car Pack": "$2.99"
+          }
+        },
         {
           "timestamp": 1794085796977,
           "price": 10.99,
@@ -345399,6 +345484,14 @@
     "history": [
       [
         {
+          "timestamp": 1794106722002,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793818693473,
           "price": 0,
           "formattedPrice": "Free",
@@ -358491,7 +358584,9 @@
       "Beginning of the Abyss": "$9.99",
       "Underworld Pass 1": "$2.99",
       "Neo Behemoth": "$1.99",
-      "Memory of Training": "$17.99"
+      "Memory of Training": "$17.99",
+      "New Rulers": "$5.99",
+      "Wedding Skin Set": "$9.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -358508,9 +358603,30 @@
       "Beginning of the Abyss": "$9.99",
       "Underworld Pass 1": "$2.99",
       "Neo Behemoth": "$1.99",
-      "Memory of Training": "$17.99"
+      "Memory of Training": "$17.99",
+      "New Rulers": "$5.99",
+      "Wedding Skin Set": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794106722002,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "New Rulers": "$5.99",
+            "Wedding Skin Set": "$9.99",
+            "Underworld Expansion Pass": "$5.99",
+            "Neo Behemoth": "$1.99",
+            "Moonveil Skin Set": "$9.99",
+            "Pioneer of the Abyss": "$9.99",
+            "Essence of Transcendence": "$29.99",
+            "Ark of Eternity": "$29.99",
+            "Memory of Training": "$17.99",
+            "Time Traveler": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793786660480,
@@ -367817,7 +367933,7 @@
     "maxPriceInfo": {
       "price": 1.99,
       "formattedPrice": "$1.99",
-      "Keeps Pro": "$9.99"
+      "Keeps Pro": "$19.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -367825,6 +367941,16 @@
       "Keeps Pro": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794106722002,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Keeps Pro": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793415517315,
@@ -368189,6 +368315,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794106722002,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "ALL HEROES BUNDLE": "$24.99",
+            "Tower Sniper": "$5.99",
+            "Hero Ignus": "$2.99",
+            "Tower Wildcat": "$4.99",
+            "Hero Oni": "$4.99",
+            "ALL SPELLS BUNDLE": "$12.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Gems Pouch": "$4.99"
+          }
+        },
         {
           "timestamp": 1794085796977,
           "price": 6.99,
@@ -370479,14 +370622,22 @@
     "trackName": "Tiny Computers",
     "region": "us",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "$3.99"
+      "price": 4.99,
+      "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794106722002,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792798647744,
@@ -370660,6 +370811,14 @@
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794106722002,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794011332916,

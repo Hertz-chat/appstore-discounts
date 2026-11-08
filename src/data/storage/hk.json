@@ -162318,6 +162318,23 @@
     "history": [
       [
         {
+          "timestamp": 1794106722002,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "68金玉": "HK$ 78.00",
+            "30金玉": "HK$ 38.00",
+            "6金玉": "HK$ 8.00",
+            "648金玉": "HK$ 788.00",
+            "198金玉": "HK$ 238.00",
+            "一鍵買斷禮包": "HK$ 38.00",
+            "尊享月俸": "HK$ 38.00",
+            "禮包5": "HK$ 38.00",
+            "禮包11": "HK$ 398.00",
+            "禮包9": "HK$ 238.00"
+          }
+        },
+        {
           "timestamp": 1794085796977,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -290408,6 +290425,14 @@
     "history": [
       [
         {
+          "timestamp": 1794106722002,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793818693473,
           "price": 0,
           "formattedPrice": "免費",
@@ -301301,7 +301326,10 @@
       "成長之始": "HK$ 88.00",
       "魔界通行證1": "HK$ 22.00",
       "尼奧貝希摩斯": "HK$ 18.00",
-      "訓練記憶": "HK$ 148.00"
+      "訓練記憶": "HK$ 148.00",
+      "新的統治者": "HK$ 48.00",
+      "婚禮造型套裝": "HK$ 88.00",
+      "魔界通行證2": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 22,
@@ -301318,9 +301346,31 @@
       "成長之始": "HK$ 88.00",
       "魔界通行證1": "HK$ 22.00",
       "尼奧貝希摩斯": "HK$ 18.00",
-      "訓練記憶": "HK$ 148.00"
+      "訓練記憶": "HK$ 148.00",
+      "新的統治者": "HK$ 48.00",
+      "婚禮造型套裝": "HK$ 88.00",
+      "魔界通行證2": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794106722002,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "新的統治者": "HK$ 48.00",
+            "魔界擴充通行證": "HK$ 48.00",
+            "婚禮造型套裝": "HK$ 88.00",
+            "深淵開拓者": "HK$ 88.00",
+            "尼奧貝希摩斯": "HK$ 18.00",
+            "魔界通行證2": "HK$ 22.00",
+            "隱月造型套裝": "HK$ 88.00",
+            "超越精華": "HK$ 228.00",
+            "時間旅行者": "HK$ 48.00",
+            "永恆方舟": "HK$ 228.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793959313216,
@@ -301988,7 +302038,10 @@
       "SNES": "HK$ 8.00",
       "Game Boy Advance": "HK$ 8.00",
       "Unlock All (Upgrade 4)": "HK$ 8.00",
-      "Unlock All (Upgrade 3)": "HK$ 18.00"
+      "Unlock All (Upgrade 3)": "HK$ 18.00",
+      "Unlock All": "HK$ 38.00",
+      "Unlock All (Upgrade 1)": "HK$ 32.00",
+      "Unlock All (Upgrade 2)": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -302002,9 +302055,31 @@
       "SNES": "HK$ 8.00",
       "Game Boy Advance": "HK$ 8.00",
       "Unlock All (Upgrade 4)": "HK$ 8.00",
-      "Unlock All (Upgrade 3)": "HK$ 18.00"
+      "Unlock All (Upgrade 3)": "HK$ 18.00",
+      "Unlock All": "HK$ 38.00",
+      "Unlock All (Upgrade 1)": "HK$ 32.00",
+      "Unlock All (Upgrade 2)": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794106722002,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Unlock All": "HK$ 38.00",
+            "Unlock All (Upgrade 1)": "HK$ 32.00",
+            "Unlock All (Upgrade 2)": "HK$ 22.00",
+            "Unlock All (Upgrade 3)": "HK$ 18.00",
+            "Unlock All (Upgrade 4)": "HK$ 8.00",
+            "Game Boy Advance": "HK$ 8.00",
+            "SNES": "HK$ 8.00",
+            "Pokémon Mini": "HK$ 8.00",
+            "Atari 2600": "HK$ 8.00",
+            "Mega Drive / Genesis": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793068805806,
@@ -311755,14 +311830,22 @@
   "6816896250": {
     "name": "Tiny Computers",
     "maxPriceInfo": {
-      "price": 32,
-      "formattedPrice": "HK$ 32.00"
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
     },
     "minPriceInfo": {
       "price": 32,
       "formattedPrice": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794106722002,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792798647744,
@@ -311922,6 +312005,14 @@
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794106722002,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794011332916,

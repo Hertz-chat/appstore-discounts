@@ -59999,6 +59999,14 @@
     "history": [
       [
         {
+          "timestamp": 1794106722002,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793490606912,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -63380,6 +63388,25 @@
       "Fast Mode": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794106722002,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Childhood Memories": "0,99 €",
+            "Santa Costume": "0,99 €",
+            "Meat Bun Outfit": "0,99 €",
+            "Penguin Suit": "0,99 €",
+            "Bearington Outfit": "0,99 €",
+            "Dancing Sally Prin": "1,99 €",
+            "Dancing Wairobot": "1,99 €",
+            "Dancing Kairobot": "1,99 €",
+            "Kairobot Statues 2": "1,99 €",
+            "Kairobot Statue Set": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794085796977,
@@ -82780,6 +82807,25 @@
       "Victorian London Board": "6,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794106722002,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "The Complete Collection": "39,99 €",
+            "Snowdrop Valley": "14,99 €",
+            "Snowdrop Valley Board": "6,99 €",
+            "Explorer Pack": "11,99 €",
+            "Snowdrop Valley Token Bundle": "9,99 €",
+            "Reindeer": "2,99 €",
+            "Snowman": "2,99 €",
+            "Snowmobile Token": "2,99 €",
+            "Tree Token": "2,99 €",
+            "1935 Atlantic City Board": "6,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793872776771,
@@ -108248,6 +108294,14 @@
     "history": [
       [
         {
+          "timestamp": 1794106722002,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793490606912,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -123832,6 +123886,25 @@
       "Dr.1": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794106722002,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 737": "0,99 €",
+            "EC135": "0,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "C90GTx": "0,99 €",
+            "Boeing 737-800": "2,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Airbus A350-1000": "3,99 €",
+            "Boeing 737 MAX 9": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794085796977,
@@ -142440,6 +142513,14 @@
     "history": [
       [
         {
+          "timestamp": 1794106722002,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789772536425,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -145789,7 +145870,17 @@
       "LOW POLY RED": "1,99 €",
       "LOW POLY BLACK": "1,99 €",
       "LOW POLY GRAY": "1,99 €",
-      "HOLOGRAPHIC GHOST": "1,99 €"
+      "HOLOGRAPHIC GHOST": "1,99 €",
+      "BLACK KITTY FISH": "1,99 €",
+      "ROBO FISH 02": "1,99 €",
+      "ROBO FISH 01": "1,99 €",
+      "ROBO FISH 03": "1,99 €",
+      "ROBO FISH 04": "1,99 €",
+      "ROBO FISH 05": "1,99 €",
+      "ROBO FISH 06": "1,99 €",
+      "WHITE KITTY FISH": "1,99 €",
+      "ORANGE & WHITE KITTY FISH": "1,99 €",
+      "RED RYUKIN": "1,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -145804,9 +145895,38 @@
       "LOW POLY RED": "1,99 €",
       "LOW POLY BLACK": "1,99 €",
       "LOW POLY GRAY": "1,99 €",
-      "HOLOGRAPHIC GHOST": "1,99 €"
+      "HOLOGRAPHIC GHOST": "1,99 €",
+      "BLACK KITTY FISH": "1,99 €",
+      "ROBO FISH 02": "1,99 €",
+      "ROBO FISH 01": "1,99 €",
+      "ROBO FISH 03": "1,99 €",
+      "ROBO FISH 04": "1,99 €",
+      "ROBO FISH 05": "1,99 €",
+      "ROBO FISH 06": "1,99 €",
+      "WHITE KITTY FISH": "1,99 €",
+      "ORANGE & WHITE KITTY FISH": "1,99 €",
+      "RED RYUKIN": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794106722002,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "BLACK KITTY FISH": "1,99 €",
+            "ROBO FISH 02": "1,99 €",
+            "ROBO FISH 01": "1,99 €",
+            "ROBO FISH 03": "1,99 €",
+            "ROBO FISH 04": "1,99 €",
+            "ROBO FISH 05": "1,99 €",
+            "ROBO FISH 06": "1,99 €",
+            "WHITE KITTY FISH": "1,99 €",
+            "ORANGE & WHITE KITTY FISH": "1,99 €",
+            "RED RYUKIN": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793146065483,
@@ -157993,14 +158113,22 @@
     "trackName": "Tiny Computers",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €"
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794106722002,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792798647744,
@@ -158151,6 +158279,14 @@
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794106722002,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794011332916,

@@ -1560,7 +1560,7 @@
   {
     "trackId": 432850619,
     "region": "cn",
-    "timestamp": 1794011332916,
+    "timestamp": 1794131413359,
     "discounts": [],
     "price": 88,
     "formattedPrice": "¥88.00",
@@ -6465,10 +6465,10 @@
   {
     "trackId": 1236657805,
     "region": "cn",
-    "timestamp": 1791585205739,
+    "timestamp": 1794131413359,
     "discounts": [],
-    "price": 22,
-    "formattedPrice": "¥22.00",
+    "price": 12,
+    "formattedPrice": "¥12.00",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id1236657805",
     "trackName": "Cube CFOP：F2L、OLL、PLL 魔方公式",
@@ -12921,7 +12921,7 @@
   {
     "trackId": 6739274856,
     "region": "cn",
-    "timestamp": 1794106722002,
+    "timestamp": 1794131413359,
     "discounts": [],
     "price": 6,
     "formattedPrice": "¥6.00",
@@ -16475,5 +16475,17 @@
     "trackViewUrl": "https://apps.apple.com/cn/app/id6824686276",
     "trackName": "Wider - Fullscreen Browsing",
     "firstRecordedAt": 1793438080874
+  },
+  {
+    "trackId": 6830479627,
+    "region": "cn",
+    "timestamp": 1794131413359,
+    "discounts": [],
+    "price": 8,
+    "formattedPrice": "¥8.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6830479627",
+    "trackName": "1in8b Life",
+    "firstRecordedAt": 1794131413359
   }
 ]

@@ -9676,7 +9676,7 @@
   {
     "trackId": 1195035357,
     "region": "tw",
-    "timestamp": 1793959313216,
+    "timestamp": 1794131413359,
     "discounts": [],
     "price": 30,
     "formattedPrice": "$30.00",
@@ -12556,7 +12556,7 @@
   {
     "trackId": 1450144092,
     "region": "tw",
-    "timestamp": 1794085796977,
+    "timestamp": 1794131413359,
     "discounts": [],
     "price": 10,
     "formattedPrice": "$10.00",
@@ -12616,7 +12616,7 @@
   {
     "trackId": 1450908177,
     "region": "tw",
-    "timestamp": 1793959313216,
+    "timestamp": 1794131413359,
     "discounts": [],
     "price": 30,
     "formattedPrice": "$30.00",
@@ -27335,5 +27335,17 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id6828960722",
     "trackName": "Grounds Up",
     "firstRecordedAt": 1794043335284
+  },
+  {
+    "trackId": 6830479627,
+    "region": "tw",
+    "timestamp": 1794131413359,
+    "discounts": [],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6830479627",
+    "trackName": "1in8b Life",
+    "firstRecordedAt": 1794131413359
   }
 ]

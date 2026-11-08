@@ -10453,7 +10453,7 @@
   {
     "trackId": 1359652100,
     "region": "pt",
-    "timestamp": 1793927683912,
+    "timestamp": 1794131413359,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "3,99 €",
@@ -12377,7 +12377,7 @@
   {
     "trackId": 1477966166,
     "region": "pt",
-    "timestamp": 1794106722002,
+    "timestamp": 1794131413359,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "4,99 €",
@@ -18230,7 +18230,7 @@
   {
     "trackId": 6471839445,
     "region": "pt",
-    "timestamp": 1794106722002,
+    "timestamp": 1794131413359,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "3,99 €",
@@ -25194,5 +25194,17 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id6827745244",
     "trackName": "Vize: Yaşam Simülasyonu",
     "firstRecordedAt": 1793818693473
+  },
+  {
+    "trackId": 6830479627,
+    "region": "pt",
+    "timestamp": 1794131413359,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6830479627",
+    "trackName": "1in8b Life",
+    "firstRecordedAt": 1794131413359
   }
 ]

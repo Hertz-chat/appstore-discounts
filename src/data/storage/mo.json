@@ -30437,6 +30437,25 @@
     "history": [
       [
         {
+          "timestamp": 1794131413359,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "「日本香港組合包」": "USD 0.99",
+            "大富翁4 Fun 美國地圖": "USD 0.99",
+            "大富翁 4 fun 仙劍仙靈島組合包": "USD 0.99",
+            "大富翁 4 fun 軒轅劍太山組合包": "USD 0.99",
+            "大富翁 4 fun 韓國地圖組合包": "USD 0.99",
+            "大富翁 4 fun 樂園組合包": "USD 0.99",
+            "仙五地圖包": "USD 0.99",
+            "大富翁 4 FUN  巴黎倫敦組合包": "USD 0.99",
+            "大富翁4 Fun夏日組合包": "USD 0.99",
+            "大富翁 4 fun 水上世界組合包": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793526670644,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -123302,6 +123321,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794131413359,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Teammate Package#2": "USD 4.99",
+            "Bronze Decree": "USD 25.99",
+            "Heroic Package#3": "USD 49.99",
+            "Role Package III": "USD 9.99",
+            "Suit Package": "USD 29.99",
+            "Teammate Package": "USD 4.99",
+            "Role Package": "USD 2.99",
+            "英雄礼包II": "USD 9.99",
+            "Heroic Package#1": "USD 9.99",
+            "Resource Package": "USD 2.99"
+          }
+        },
         {
           "timestamp": 1794106722002,
           "price": 0.99,
@@ -219510,6 +219546,27 @@
           "timestamp": 1794085796977,
           "price": 1,
           "formattedPrice": "USD 1.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6830479627": {
+    "name": "1in8b Life",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794131413359,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
         }
       ]

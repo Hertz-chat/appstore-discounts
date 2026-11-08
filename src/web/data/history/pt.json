@@ -72602,7 +72602,17 @@
       "Black Dark Lord Skin Package": "8,99 €",
       "White Dark Lord Skin Package": "8,99 €",
       "Awakening Viper Package": "5,99 €",
-      "Myth full pack": "44,99 €"
+      "Myth full pack": "44,99 €",
+      "Monster Succession": "5,99 €",
+      "Dark Lord Boost Package": "9,99 €",
+      "Dark Lord Emma": "2,99 €",
+      "Dark Lord Floria": "2,99 €",
+      "Dark Lord Marielle": "2,99 €",
+      "Dark Lord Rebecca": "2,99 €",
+      "Dark Lord Tania": "2,99 €",
+      "Original Dungeon Package": "19,99 €",
+      "Original Monster Package": "9,99 €",
+      "Original Lord Skill Package": "19,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -72616,9 +72626,38 @@
       "Black Dark Lord Skin Package": "8,99 €",
       "White Dark Lord Skin Package": "8,99 €",
       "Awakening Viper Package": "5,99 €",
-      "Myth full pack": "44,99 €"
+      "Myth full pack": "44,99 €",
+      "Monster Succession": "5,99 €",
+      "Dark Lord Boost Package": "9,99 €",
+      "Dark Lord Emma": "2,99 €",
+      "Dark Lord Floria": "2,99 €",
+      "Dark Lord Marielle": "2,99 €",
+      "Dark Lord Rebecca": "2,99 €",
+      "Dark Lord Tania": "2,99 €",
+      "Original Dungeon Package": "19,99 €",
+      "Original Monster Package": "9,99 €",
+      "Original Lord Skill Package": "19,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794131413359,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Monster Succession": "5,99 €",
+            "Dark Lord Boost Package": "9,99 €",
+            "Dark Lord Emma": "2,99 €",
+            "Dark Lord Floria": "2,99 €",
+            "Dark Lord Marielle": "2,99 €",
+            "Dark Lord Rebecca": "2,99 €",
+            "Dark Lord Tania": "2,99 €",
+            "Original Dungeon Package": "19,99 €",
+            "Original Monster Package": "9,99 €",
+            "Original Lord Skill Package": "19,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793927683912,
@@ -82808,6 +82847,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794131413359,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "New York 2121 Board": "6,99 €",
+            "Victorian London Board": "6,99 €",
+            "Euro Trip": "3,99 €",
+            "New York 2121": "14,99 €",
+            "The Dragon": "3,49 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €",
+            "The Ultimate Edition Sale": "24,99 €"
+          }
+        },
         {
           "timestamp": 1794106722002,
           "price": 4.99,
@@ -145910,6 +145966,23 @@
     "history": [
       [
         {
+          "timestamp": 1794131413359,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "HOLOGRAPHIC GHOST": "1,99 €",
+            "WIREFRAME RAINBOW": "0,99 €",
+            "WIREFRAME RED": "0,99 €",
+            "WIREFRAME BLACK": "0,99 €",
+            "WIREFRAME WHITE": "0,99 €",
+            "LOW POLY BLUE": "1,99 €",
+            "LOW POLY PINK": "1,99 €",
+            "LOW POLY CALICO": "1,99 €",
+            "LOW POLY RED": "1,99 €",
+            "LOW POLY BLACK": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1794106722002,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -158796,6 +158869,29 @@
           "timestamp": 1794085796977,
           "price": 1,
           "formattedPrice": "1,00 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6830479627": {
+    "trackId": 6830479627,
+    "trackName": "1in8b Life",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794131413359,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]

@@ -130407,6 +130407,22 @@
     "history": [
       [
         {
+          "timestamp": 1794131413359,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "SF2SEPack3": "₺149,99",
+            "Pile of Gems": "₺149,99",
+            "Pile of Coins": "₺49,99",
+            "SF2SEPack2": "₺99,99",
+            "Casket of Gems": "₺499,99",
+            "SF2SEPack6": "₺399,99",
+            "Bag of Coins": "₺249,99",
+            "SF2SEPack5": "₺249,99",
+            "Bag of Gems": "₺999,99"
+          }
+        },
+        {
           "timestamp": 1794106722002,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -136544,8 +136560,8 @@
       "Super Mega Tip": "₺499,99",
       "Mega Tip": "₺299,99",
       "Super Tip": "₺249,99",
-      "Small Tip": "₺39,99",
-      "Large Tip": "₺179,99"
+      "Small Tip": "₺49,99",
+      "Large Tip": "₺199,99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -136565,6 +136581,25 @@
       "Large Tip": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794131413359,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Micro Tip": "₺49,99",
+            "Small Tip": "₺49,99",
+            "Medium Tip": "₺99,99",
+            "Large Tip": "₺199,99",
+            "Super Tip": "₺249,99",
+            "Mega Tip": "₺299,99",
+            "Super Mega Tip": "₺499,99",
+            "Super Smashing Tip": "₺999,99",
+            "Super Mega Smashing Tip": "₺1.799,99",
+            "The Ultimate Tip": "₺2.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790726691370,
@@ -303281,6 +303316,27 @@
       [
         {
           "timestamp": 1794085796977,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6830479627": {
+    "name": "1in8b Life",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794131413359,
           "price": 49.99,
           "formattedPrice": "₺49,99",
           "inAppPurchases": {}

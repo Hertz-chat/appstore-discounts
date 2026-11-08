@@ -4690,7 +4690,7 @@
   {
     "trackId": 650684932,
     "region": "us",
-    "timestamp": 1794106722002,
+    "timestamp": 1794131413359,
     "discounts": [],
     "price": 9.99,
     "formattedPrice": "$9.99",
@@ -7591,10 +7591,10 @@
   {
     "trackId": 1020541183,
     "region": "us",
-    "timestamp": 1794043335284,
+    "timestamp": 1794131413359,
     "discounts": [],
-    "price": 0,
-    "formattedPrice": "Free",
+    "price": 9.99,
+    "formattedPrice": "$9.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1020541183",
     "trackName": "MovieSpirit - Movie Maker Pro",
@@ -9303,10 +9303,10 @@
   {
     "trackId": 1159700098,
     "region": "us",
-    "timestamp": 1793501604822,
+    "timestamp": 1794131413359,
     "discounts": [],
-    "price": 1.99,
-    "formattedPrice": "$1.99",
+    "price": 4.99,
+    "formattedPrice": "$4.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1159700098",
     "trackName": "To the Moon",
@@ -15251,7 +15251,7 @@
   {
     "trackId": 1550721625,
     "region": "us",
-    "timestamp": 1793786660480,
+    "timestamp": 1794131413359,
     "discounts": [],
     "price": 15.99,
     "formattedPrice": "$15.99",
@@ -15732,7 +15732,7 @@
   {
     "trackId": 1563932741,
     "region": "us",
-    "timestamp": 1794106722002,
+    "timestamp": 1794131413359,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "$1.99",
@@ -15890,7 +15890,7 @@
   {
     "trackId": 1574175808,
     "region": "us",
-    "timestamp": 1793501604822,
+    "timestamp": 1794131413359,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "$1.99",
@@ -17128,10 +17128,10 @@
   {
     "trackId": 1619867109,
     "region": "us",
-    "timestamp": 1793501604822,
+    "timestamp": 1794131413359,
     "discounts": [],
-    "price": 3.99,
-    "formattedPrice": "$3.99",
+    "price": 4.99,
+    "formattedPrice": "$4.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1619867109",
     "trackName": "Finding Paradise",
@@ -17140,7 +17140,7 @@
   {
     "trackId": 1620202676,
     "region": "us",
-    "timestamp": 1794085796977,
+    "timestamp": 1794131413359,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -17718,7 +17718,7 @@
   {
     "trackId": 1642733080,
     "region": "us",
-    "timestamp": 1792968791930,
+    "timestamp": 1794131413359,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "$4.99",
@@ -18669,10 +18669,10 @@
   {
     "trackId": 6448352407,
     "region": "us",
-    "timestamp": 1789787996372,
+    "timestamp": 1794131413359,
     "discounts": [],
-    "price": 1.99,
-    "formattedPrice": "$1.99",
+    "price": 2.99,
+    "formattedPrice": "$2.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6448352407",
     "trackName": "Unboxing the Cryptic Killer",
@@ -19573,7 +19573,7 @@
   {
     "trackId": 6471839445,
     "region": "us",
-    "timestamp": 1793990259190,
+    "timestamp": 1794131413359,
     "discounts": [],
     "price": 3.49,
     "formattedPrice": "$3.49",
@@ -19669,7 +19669,7 @@
   {
     "trackId": 6473001577,
     "region": "us",
-    "timestamp": 1794011332916,
+    "timestamp": 1794131413359,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "$3.99",
@@ -24870,7 +24870,7 @@
   {
     "trackId": 6759664029,
     "region": "us",
-    "timestamp": 1794106722002,
+    "timestamp": 1794131413359,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "$6.99",
@@ -25242,7 +25242,7 @@
   {
     "trackId": 6761328517,
     "region": "us",
-    "timestamp": 1794106722002,
+    "timestamp": 1794131413359,
     "discounts": [],
     "price": 5.99,
     "formattedPrice": "$5.99",
@@ -25566,7 +25566,7 @@
   {
     "trackId": 6766166468,
     "region": "us",
-    "timestamp": 1794043335284,
+    "timestamp": 1794131413359,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -26968,5 +26968,17 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id6828960722",
     "trackName": "Grounds Up",
     "firstRecordedAt": 1794043335284
+  },
+  {
+    "trackId": 6830479627,
+    "region": "us",
+    "timestamp": 1794131413359,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6830479627",
+    "trackName": "1in8b Life",
+    "firstRecordedAt": 1794131413359
   }
 ]

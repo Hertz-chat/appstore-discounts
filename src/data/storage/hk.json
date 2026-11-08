@@ -33935,7 +33935,10 @@
       "30,000 Geniz (7,500 FREE)": "HK$ 18.00",
       "礼包65币": "HK$ 22.00",
       "礼包40币": "HK$ 18.00",
-      "礼包15币": "HK$ 18.00"
+      "礼包15币": "HK$ 18.00",
+      "礼包5币": "HK$ 8.00",
+      "礼包25币": "HK$ 48.00",
+      "礼包50币": "HK$ 88.00"
     },
     "minPriceInfo": {
       "price": 32,
@@ -33947,9 +33950,25 @@
       "30,000 Geniz (7,500 FREE)": "HK$ 18.00",
       "礼包65币": "HK$ 22.00",
       "礼包40币": "HK$ 18.00",
-      "礼包15币": "HK$ 18.00"
+      "礼包15币": "HK$ 18.00",
+      "礼包5币": "HK$ 8.00",
+      "礼包25币": "HK$ 48.00",
+      "礼包50币": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794131413359,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "礼包5币": "HK$ 8.00",
+            "礼包15币": "HK$ 18.00",
+            "礼包25币": "HK$ 48.00",
+            "礼包50币": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787838577561,
@@ -162318,6 +162337,23 @@
     "history": [
       [
         {
+          "timestamp": 1794131413359,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "68金玉": "HK$ 78.00",
+            "30金玉": "HK$ 38.00",
+            "6金玉": "HK$ 8.00",
+            "198金玉": "HK$ 238.00",
+            "648金玉": "HK$ 788.00",
+            "一鍵買斷禮包": "HK$ 38.00",
+            "尊享月俸": "HK$ 38.00",
+            "禮包9": "HK$ 238.00",
+            "禮包5": "HK$ 38.00",
+            "328金玉": "HK$ 398.00"
+          }
+        },
+        {
           "timestamp": 1794106722002,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -241685,6 +241721,25 @@
     "history": [
       [
         {
+          "timestamp": 1794131413359,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "自創武將": "HK$ 22.00",
+            "戰國七雄": "HK$ 48.00",
+            "群雄爭霸": "HK$ 22.00",
+            "道法自然": "HK$ 22.00",
+            "斜谷殘陽": "HK$ 48.00",
+            "自創武將朝代特色兵種補丁": "HK$ 58.00",
+            "楚漢爭霸": "HK$ 48.00",
+            "巾幗綻芳華": "HK$ 32.00",
+            "無雙戰神": "HK$ 48.00",
+            "鎮海神威": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793959313216,
           "price": 48,
           "formattedPrice": "HK$ 48.00",
@@ -259470,6 +259525,25 @@
     "history": [
       [
         {
+          "timestamp": 1794131413359,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Round the World Ticket": "HK$ 388.00",
+            "Europe Expansion": "HK$ 118.00",
+            "Europe Map": "HK$ 98.00",
+            "Ticket to Ride ChristmasBundle": "HK$ 88.00",
+            "Japan Expansion": "HK$ 98.00",
+            "Legendary Asia Expansion": "HK$ 98.00",
+            "Nordic Expansion": "HK$ 98.00",
+            "Welcome Offer": "HK$ 228.00",
+            "1910 Ticket Pack": "HK$ 32.00",
+            "Nordic Map": "HK$ 88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792968791930,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -266729,6 +266803,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794131413359,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 38.00",
+            "The Aircraft Bundle": "HK$ 188.00",
+            "Global scenery - 12 months": "HK$ 148.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "Global scenery - 3 months": "HK$ 58.00",
+            "Boeing 747-400": "HK$ 18.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "Airbus A380": "HK$ 18.00",
+            "UH-60": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1794085796977,
           "price": 32,
@@ -302063,6 +302154,23 @@
     "history": [
       [
         {
+          "timestamp": 1794131413359,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "SG-1000": "HK$ 8.00",
+            "Master System": "HK$ 8.00",
+            "Game Gear": "HK$ 8.00",
+            "Mega Drive / Genesis": "HK$ 8.00",
+            "Atari 2600": "HK$ 8.00",
+            "Pokémon Mini": "HK$ 8.00",
+            "SNES": "HK$ 8.00",
+            "Game Boy Advance": "HK$ 8.00",
+            "Unlock All (Upgrade 4)": "HK$ 8.00",
+            "Unlock All (Upgrade 3)": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1794106722002,
           "price": 0,
           "formattedPrice": "免費",
@@ -302866,6 +302974,21 @@
       "Rally Alūksne 2025": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794131413359,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Rally ALŪKSNE 2025": "HK$ 18.00",
+            "SM Ralli Kuopio 2025": "HK$ 18.00",
+            "Rallye Monte-Carlo": "HK$ 18.00",
+            "Arctic Lapland Rally 2025": "HK$ 18.00",
+            "Otepää Talveralli": "HK$ 18.00",
+            "Rally Alūksne 2025": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791837063531,
@@ -312497,6 +312620,27 @@
       [
         {
           "timestamp": 1794085796977,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6830479627": {
+    "name": "1in8b Life",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794131413359,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
           "inAppPurchases": {}

@@ -1929,6 +1929,23 @@
     "history": [
       [
         {
+          "timestamp": 1794173147020,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "10,000 coins": "HK$ 18.00",
+            "30,000 coins": "HK$ 22.00",
+            "1000 coins": "HK$ 8.00",
+            "100,000 gold": "HK$ 18.00",
+            "10000 candies": "HK$ 22.00",
+            "500 eggs": "HK$ 8.00",
+            "5000 eggs": "HK$ 18.00",
+            "1000 candies": "HK$ 8.00",
+            "100,000 coins": "HK$ 32.00",
+            "10,000 gold": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1794158365765,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -106965,6 +106982,25 @@
     "history": [
       [
         {
+          "timestamp": 1794173147020,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Sauda Hero Bundle Sale": "HK$ 32.00",
+            "Sauda Hero Bundle": "HK$ 58.00",
+            "Insta Monkey Bucket 7": "HK$ 58.00",
+            "Insta Monkey Bucket 5": "HK$ 38.00",
+            "Insta Monkey Bucket 4": "HK$ 32.00",
+            "Insta Monkey Bucket 3": "HK$ 22.00",
+            "Insta Monkey Bucket 2": "HK$ 18.00",
+            "Insta Monkey Bucket 1.5": "HK$ 12.00",
+            "Insta Monkey Bucket 1": "HK$ 8.00",
+            "Portable Lake Pro": "HK$ 32.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793927683912,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -135019,6 +135055,25 @@
     "history": [
       [
         {
+          "timestamp": 1794173147020,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Design Frame Package": "HK$ 8.00",
+            "Social Frame Package": "HK$ 8.00",
+            "Magazine Frame Package": "HK$ 8.00",
+            "Black Frame Pack": "HK$ 8.00",
+            "Geometric Frame Pack": "HK$ 8.00",
+            "Stamp Frame Pack": "HK$ 8.00",
+            "Retro Frame Pack": "HK$ 8.00",
+            "Stroke Frame Pack": "HK$ 8.00",
+            "Color Frame Pack": "HK$ 8.00",
+            "Upgrade Deluxe Edition": "HK$ 48.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793295722489,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -137676,6 +137731,25 @@
       "Border": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794173147020,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Rate": "HK$ 0.00",
+            "Info": "HK$ 0.00",
+            "Tuner": "HK$ 0.00",
+            "Chromakey": "HK$ 0.00",
+            "Unlock All": "HK$ 58.00",
+            "Paint": "HK$ 0.00",
+            "Erase": "HK$ 8.00",
+            "Blend": "HK$ 8.00",
+            "Distortion": "HK$ 0.00",
+            "Magnifier": "HK$ 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791965170280,
@@ -306828,6 +306902,22 @@
     "history": [
       [
         {
+          "timestamp": 1794173147020,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "小袋通寶": "HK$ 8.00",
+            "宗師匣檔": "HK$ 788.00",
+            "問道進階檔": "HK$ 368.00",
+            "定向匣檔": "HK$ 228.00",
+            "輕囊通寶": "HK$ 22.00",
+            "進階材料檔": "HK$ 118.00",
+            "珍品匣檔": "HK$ 32.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793990259190,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -307872,14 +307962,22 @@
   "6798830578": {
     "name": "PDF2MD: PDF to Markdown",
     "maxPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
     },
     "minPriceInfo": {
       "price": 22,
       "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794173147020,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787402209195,

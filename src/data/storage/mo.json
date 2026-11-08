@@ -20482,6 +20482,23 @@
     "history": [
       [
         {
+          "timestamp": 1794173147020,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Ripley's Believe It or Not® Pinball Table": "USD 1.99",
+            "Black Hole™ Pinball Table": "USD 1.99",
+            "Gorgar™ + Monster Bash™": "USD 4.99",
+            "Theatre of Magic® Pinball Table": "USD 2.99",
+            "Cirqus Voltaire™": "USD 2.99",
+            "Medieval Madness™": "USD 2.99",
+            "The Machine: Bride of Pin•bot™": "USD 2.99",
+            "Stern Pack 1": "USD 4.99",
+            "Big Buck Hunter Single Table": "USD 9.99",
+            "Whoa Nellie Single Table": "USD 9.99"
+          }
+        },
+        {
           "timestamp": 1794158365765,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -124111,6 +124128,25 @@
       "超值好禮1_6": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794173147020,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "禮包1": "USD 0.29",
+            "68金玉": "USD 9.99",
+            "禮包3": "USD 1.99",
+            "禮包2": "USD 0.99",
+            "演武大會68元通行證": "USD 9.99",
+            "30金玉": "USD 4.99",
+            "198金玉": "USD 29.99",
+            "丹青閣通行證": "USD 9.99",
+            "6金玉": "USD 0.99",
+            "648金玉": "USD 99.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793905807227,

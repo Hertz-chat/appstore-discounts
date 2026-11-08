@@ -11931,6 +11931,23 @@
     "history": [
       [
         {
+          "timestamp": 1794173147020,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Williamsburg Starter HipstaPak": "$0.99",
+            "Portland HipstaPak": "$0.99",
+            "Shibuya HipstaPak": "$0.99",
+            "Camden HipstaPak": "$0.99",
+            "Mission Hipstapak": "$0.99",
+            "Soho HipstaPak": "$0.99",
+            "Bondi HipstaPak": "$0.99",
+            "Wicker Park HipstaPak": "$0.99",
+            "RetroPak One": "$1.99",
+            "Dali GoodPak": "$0.99"
+          }
+        },
+        {
           "timestamp": 1794158365765,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -228092,6 +228109,23 @@
     "history": [
       [
         {
+          "timestamp": 1794173147020,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$9.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Generations Gen Z Pack": "$1.99",
+            "Word Bonanza Bundle": "$19.99",
+            "Midnight Bedroom Pack": "$2.99",
+            "Midnight Night Out Pack": "$2.99",
+            "Welcome Offer": "$9.99",
+            "Mystery Mix Pack 1": "$1.99",
+            "Ready to Roast": "$6.49",
+            "Midnight Mix Pack 1": "$2.99"
+          }
+        },
+        {
           "timestamp": 1794131413359,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -350033,6 +350067,23 @@
     "history": [
       [
         {
+          "timestamp": 1794173147020,
+          "price": 3.49,
+          "formattedPrice": "$3.49",
+          "inAppPurchases": {
+            "LIONHEAD ORANGE/WHITE/BLACK": "$1.99",
+            "CALICO RED/GRAY/BLACK": "$1.99",
+            "YELLOW GOLD RYUKIN": "$1.99",
+            "RED-WHITE RYUKIN": "$1.99",
+            "RED RYUKIN": "$1.99",
+            "GRAY WHITE KITTY FISH": "$1.99",
+            "CALICO RED/WHITE/BLACK": "$1.99",
+            "PANDA TELESCOPE": "$1.99",
+            "ORANGE/WHITE": "$1.99",
+            "ROBO FISH 02": "$1.99"
+          }
+        },
+        {
           "timestamp": 1794131413359,
           "price": 3.49,
           "formattedPrice": "$3.49",
@@ -364270,6 +364321,23 @@
     "history": [
       [
         {
+          "timestamp": 1794173147020,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "ALL HEROES BUNDLE": "$24.99",
+            "Tower Alchemist": "$2.99",
+            "Tower Sniper": "$5.99",
+            "Tower Wildcat": "$4.99",
+            "Hero Ignus": "$2.99",
+            "Hero Oni": "$4.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Gems Pouch": "$4.99"
+          }
+        },
+        {
           "timestamp": 1794131413359,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -366500,6 +366568,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794173147020,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1794158365765,
           "price": 3.99,

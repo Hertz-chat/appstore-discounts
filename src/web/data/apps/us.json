@@ -4426,7 +4426,7 @@
   {
     "trackId": 623592465,
     "region": "us",
-    "timestamp": 1794158365765,
+    "timestamp": 1794194439896,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "$1.99",
@@ -4690,7 +4690,7 @@
   {
     "trackId": 650684932,
     "region": "us",
-    "timestamp": 1794131413359,
+    "timestamp": 1794194439896,
     "discounts": [],
     "price": 9.99,
     "formattedPrice": "$9.99",
@@ -6522,10 +6522,10 @@
   {
     "trackId": 931188326,
     "region": "us",
-    "timestamp": 1793990259190,
+    "timestamp": 1794194439896,
     "discounts": [],
-    "price": 0,
-    "formattedPrice": "Free",
+    "price": 2.99,
+    "formattedPrice": "$2.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id931188326",
     "trackName": "DayCost Pro - Personal Finance",
@@ -10215,6 +10215,18 @@
     "notificationDisabled": true
   },
   {
+    "trackId": 1248661960,
+    "region": "us",
+    "timestamp": 1794194439896,
+    "discounts": [],
+    "price": 0.49,
+    "formattedPrice": "$0.49",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1248661960",
+    "trackName": "Ace Attorney Spirit of Justice",
+    "firstRecordedAt": 1794194439896
+  },
+  {
     "trackId": 1249864455,
     "region": "us",
     "timestamp": 1745328692670,
@@ -11630,7 +11642,7 @@
     "formattedPrice": "$1.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1402259944",
-    "trackName": "Salário Líquido",
+    "trackName": "Net Salary Portugal",
     "firstRecordedAt": 1771620074172
   },
   {
@@ -11756,7 +11768,7 @@
   {
     "trackId": 1422480068,
     "region": "us",
-    "timestamp": 1792950991459,
+    "timestamp": 1794194439896,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -12434,7 +12446,7 @@
   {
     "trackId": 1448573670,
     "region": "us",
-    "timestamp": 1793068805806,
+    "timestamp": 1794194439896,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -15251,7 +15263,7 @@
   {
     "trackId": 1550721625,
     "region": "us",
-    "timestamp": 1794131413359,
+    "timestamp": 1794194439896,
     "discounts": [],
     "price": 15.99,
     "formattedPrice": "$15.99",
@@ -15444,7 +15456,7 @@
   {
     "trackId": 1555184523,
     "region": "us",
-    "timestamp": 1793653056000,
+    "timestamp": 1794194439896,
     "discounts": [],
     "price": 7.99,
     "formattedPrice": "$7.99",
@@ -15890,7 +15902,7 @@
   {
     "trackId": 1574175808,
     "region": "us",
-    "timestamp": 1794131413359,
+    "timestamp": 1794194439896,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "$1.99",
@@ -16635,10 +16647,10 @@
   {
     "trackId": 1601114348,
     "region": "us",
-    "timestamp": 1793615910490,
+    "timestamp": 1794194439896,
     "discounts": [],
-    "price": 6.99,
-    "formattedPrice": "$6.99",
+    "price": 9.99,
+    "formattedPrice": "$9.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1601114348",
     "trackName": "Siralim Ultimate",
@@ -17140,10 +17152,10 @@
   {
     "trackId": 1620202676,
     "region": "us",
-    "timestamp": 1794131413359,
+    "timestamp": 1794194439896,
     "discounts": [],
-    "price": 0.99,
-    "formattedPrice": "$0.99",
+    "price": 2.99,
+    "formattedPrice": "$2.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1620202676",
     "trackName": "Iron Marines Invasion RTS Game",
@@ -17550,7 +17562,7 @@
   {
     "trackId": 1636719674,
     "region": "us",
-    "timestamp": 1743350539827,
+    "timestamp": 1794194439896,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -19573,7 +19585,7 @@
   {
     "trackId": 6471839445,
     "region": "us",
-    "timestamp": 1794173147020,
+    "timestamp": 1794194439896,
     "discounts": [],
     "price": 3.49,
     "formattedPrice": "$3.49",
@@ -19669,7 +19681,7 @@
   {
     "trackId": 6473001577,
     "region": "us",
-    "timestamp": 1794131413359,
+    "timestamp": 1794194439896,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "$3.99",
@@ -22147,7 +22159,7 @@
   {
     "trackId": 6743459503,
     "region": "us",
-    "timestamp": 1794043335284,
+    "timestamp": 1794194439896,
     "discounts": [],
     "price": 5.99,
     "formattedPrice": "$5.99",
@@ -24870,7 +24882,7 @@
   {
     "trackId": 6759664029,
     "region": "us",
-    "timestamp": 1794173147020,
+    "timestamp": 1794194439896,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "$6.99",
@@ -26792,10 +26804,10 @@
   {
     "trackId": 6816896250,
     "region": "us",
-    "timestamp": 1794173147020,
+    "timestamp": 1794194439896,
     "discounts": [],
-    "price": 4.99,
-    "formattedPrice": "$4.99",
+    "price": 2.99,
+    "formattedPrice": "$2.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6816896250",
     "trackName": "Tiny Computers",
@@ -26966,7 +26978,7 @@
     "formattedPrice": "$2.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6828960722",
-    "trackName": "Grounds Up",
+    "trackName": "Grounds Up: Business Tycoon",
     "firstRecordedAt": 1794043335284
   },
   {

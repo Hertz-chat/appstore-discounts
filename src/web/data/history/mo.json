@@ -5734,6 +5734,25 @@
     "history": [
       [
         {
+          "timestamp": 1794194439896,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Saint-Germain HipstaPak": "USD 1.99",
+            "Jimbocho HipstaPak": "USD 1.99",
+            "Mers Sultan HipstaPak": "USD 1.99",
+            "HipstaBoy SnapPak": "USD 1.99",
+            "Príncipe Real HipstaPak": "USD 1.99",
+            "Coyoacán HipstaPak": "USD 1.99",
+            "Ohara HipstaPak": "USD 1.99",
+            "RetroPak 2022": "USD 6.99",
+            "RetroPak 2023": "USD 9.99",
+            "RetroPak Twenty-One": "USD 4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789081003914,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -23888,6 +23907,25 @@
       "Farming Starter Pack": "USD 5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794194439896,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Explorer Starter Pack": "USD 9.99",
+            "Farming Starter Pack": "USD 5.99",
+            "Creepy Starter Pack": "USD 9.99",
+            "Cuddly Starter Pack": "USD 5.99",
+            "Furniture Starter Pack": "USD 9.99",
+            "Structures Starter Pack": "USD 5.99",
+            "Scary Pack": "USD 9.99",
+            "Weapon Pack": "USD 5.99",
+            "Minecraft Pets Pack": "USD 9.99",
+            "Minecraft Morph Pack": "USD 5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793068805806,
@@ -81118,6 +81156,20 @@
     "history": [
       [
         {
+          "timestamp": 1794194439896,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "USD 79.99",
+            "Parallels Desktop for Mac #4": "USD 79.99",
+            "Parallels Desktop for Mac #3": "USD 79.99",
+            "Parallels Desktop for Mac": "USD 79.99",
+            "Parallels Desktop for Mac #2": "USD 79.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 0,
           "formattedPrice": "免費",
@@ -100526,6 +100578,51 @@
             "Hero Tank": "USD 5.99",
             "Hero Eiskalt": "USD 5.99",
             "Tower Deep Devil's Reef": "USD 2.99"
+          }
+        }
+      ]
+    ]
+  },
+  "1248661960": {
+    "trackId": 1248661960,
+    "trackName": "Ace Attorney Spirit of Justice",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.49,
+      "formattedPrice": "USD 0.49",
+      "Main Story Set": "USD 9.49",
+      "Special Episode": "USD 1.49",
+      "Costume Set": "USD 0.49",
+      "Episode 5": "USD 4.99",
+      "Episode 4": "USD 4.99",
+      "Episode 3": "USD 4.99",
+      "Episode 2": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 0.49,
+      "formattedPrice": "USD 0.49",
+      "Main Story Set": "USD 9.49",
+      "Special Episode": "USD 1.49",
+      "Costume Set": "USD 0.49",
+      "Episode 5": "USD 4.99",
+      "Episode 4": "USD 4.99",
+      "Episode 3": "USD 4.99",
+      "Episode 2": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794194439896,
+          "price": 0.49,
+          "formattedPrice": "USD 0.49",
+          "inAppPurchases": {
+            "Main Story Set": "USD 9.49",
+            "Special Episode": "USD 1.49",
+            "Costume Set": "USD 0.49",
+            "Episode 5": "USD 4.99",
+            "Episode 4": "USD 4.99",
+            "Episode 3": "USD 4.99",
+            "Episode 2": "USD 4.99"
           }
         }
       ]
@@ -126207,6 +126304,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794194439896,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "禮包1": "USD 0.29",
+            "68金玉": "USD 9.99",
+            "禮包3": "USD 1.99",
+            "禮包2": "USD 0.99",
+            "尊享月俸": "USD 4.99",
+            "演武大會68元通行證": "USD 9.99",
+            "30金玉": "USD 4.99",
+            "198金玉": "USD 29.99",
+            "6金玉": "USD 0.99",
+            "丹青閣通行證": "USD 9.99"
+          }
+        },
         {
           "timestamp": 1794173147020,
           "price": 0.29,
@@ -223484,10 +223598,18 @@
       "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794194439896,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794106722002,
@@ -224141,7 +224263,7 @@
   },
   "6828960722": {
     "trackId": 6828960722,
-    "trackName": "Grounds Up",
+    "trackName": "Grounds Up: Business Tycoon",
     "region": "mo",
     "maxPriceInfo": {
       "price": 2.99,

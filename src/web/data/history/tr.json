@@ -22664,6 +22664,25 @@
     "history": [
       [
         {
+          "timestamp": 1794194439896,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "₺49,99",
+            "Sliced Beats": "₺49,99",
+            "Varazdin Orchestral Mobile": "₺199,99",
+            "Voices": "₺49,99",
+            "Amped Guitar & Bass": "₺149,99",
+            "Synth Lead": "₺99,99",
+            "PsyTrance": "₺149,99",
+            "Synth Plucks": "₺99,99",
+            "Acoustic Guitars": "₺49,99",
+            "FL Cloud Mobile": "₺799,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794158365765,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -81865,6 +81884,14 @@
     "history": [
       [
         {
+          "timestamp": 1794194439896,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793990259190,
           "price": 0,
           "formattedPrice": "Free",
@@ -131427,6 +131454,51 @@
       ]
     ]
   },
+  "1248661960": {
+    "trackId": 1248661960,
+    "trackName": "Ace Attorney Spirit of Justice",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 20,
+      "formattedPrice": "₺20,00",
+      "Main Story Set": "₺319,99",
+      "Special Episode": "₺63,99",
+      "Costume Set": "₺20,00",
+      "Episode 3": "₺109,99",
+      "Episode 2": "₺109,99",
+      "Episode 5": "₺109,99",
+      "Episode 4": "₺109,99"
+    },
+    "minPriceInfo": {
+      "price": 20,
+      "formattedPrice": "₺20,00",
+      "Main Story Set": "₺319,99",
+      "Special Episode": "₺63,99",
+      "Costume Set": "₺20,00",
+      "Episode 3": "₺109,99",
+      "Episode 2": "₺109,99",
+      "Episode 5": "₺109,99",
+      "Episode 4": "₺109,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794194439896,
+          "price": 20,
+          "formattedPrice": "₺20,00",
+          "inAppPurchases": {
+            "Main Story Set": "₺319,99",
+            "Special Episode": "₺63,99",
+            "Costume Set": "₺20,00",
+            "Episode 3": "₺109,99",
+            "Episode 2": "₺109,99",
+            "Episode 5": "₺109,99",
+            "Episode 4": "₺109,99"
+          }
+        }
+      ]
+    ]
+  },
   "1249864455": {
     "trackId": 1249864455,
     "trackName": "Peace, Death!",
@@ -150145,7 +150217,7 @@
   },
   "1402259944": {
     "trackId": 1402259944,
-    "trackName": "Salário Líquido",
+    "trackName": "Net Salary Portugal",
     "region": "tr",
     "maxPriceInfo": {
       "price": 99.99,
@@ -162615,6 +162687,25 @@
     "history": [
       [
         {
+          "timestamp": 1794194439896,
+          "price": 499,
+          "formattedPrice": "₺499,00",
+          "inAppPurchases": {
+            "Spanish Audio": "₺0,00",
+            "French Audio": "₺0,00",
+            "Russian Audio": "₺0,00",
+            "German Audio": "₺0,00",
+            "Invasion of Normandy 2-5": "₺0,00",
+            "Invasion of Normandy 6-10": "₺0,00",
+            "Invasion of Normandy 11-15": "₺0,00",
+            "All Mission Content": "₺0,00",
+            "1 vs 1 Skirmish Maps": "₺0,00",
+            "2 vs 2 Skirmish Maps": "₺0,00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784576586517,
           "price": 499,
           "formattedPrice": "₺499,00",
@@ -169080,6 +169171,25 @@
       "Chopper Token": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794194439896,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Sale": "₺1.299,99",
+            "The Complete Collection": "₺1.999,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "Victorian London Board": "₺399,99",
+            "Welcome Offer": "₺999,99",
+            "Lava Dice": "₺249,99",
+            "Golden Dice": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794106722002,
@@ -220858,6 +220968,14 @@
     "history": [
       [
         {
+          "timestamp": 1794194439896,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793588409451,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -224165,6 +224283,25 @@
       "Starter Pack": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794194439896,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "Unit Group Ascendii On Sale": "₺49,99",
+            "Hero Dragon Kosmos": "₺399,99",
+            "All Unit Groups": "₺699,99",
+            "Hero Red Dragon On Sale": "₺199,99",
+            "All Heroes": "₺799,99",
+            "Unit Group Rebooted Ascendii": "₺149,99",
+            "Unit Group Jaegers": "₺399,99",
+            "Hero Dragon Kosmos On Sale": "₺249,99",
+            "Hero Red Dragon": "₺299,99",
+            "Special Daily Pack7": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793415517315,
@@ -227537,6 +227674,23 @@
     "history": [
       [
         {
+          "timestamp": 1794194439896,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Ultimate Pack": "₺799,99",
+            "Season 1 Pack": "₺499,99",
+            "Critical Mass": "₺399,99",
+            "Beyond the Bunkers": "₺399,99",
+            "Cheats & Punishment": "₺249,99",
+            "Season 1 Pack (discount)": "₺399,99",
+            "Ultimate Pack (discount)": "₺599,99",
+            "Ultimate Pack (big discount)": "₺249,99",
+            "New Leaders": "₺249,99",
+            "Survival Guide": "₺149,99"
+          }
+        },
+        {
           "timestamp": 1794173147020,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -229412,8 +229566,8 @@
       "price": 0,
       "formattedPrice": "Free",
       "Pro(Lifetime)": "₺449,99",
-      "Pro (Yearly)": "₺249,99",
-      "Pro (Monthly)": "₺59,99",
+      "Pro (Yearly)": "₺499,99",
+      "Pro (Monthly)": "₺149,99",
       "Pro (Activate)": "₺499,99",
       "Pro (Lifetime)": "₺799,99"
     },
@@ -229427,6 +229581,19 @@
       "Pro (Lifetime)": "₺449,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794194439896,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro (Yearly)": "₺499,99",
+            "Pro (Lifetime)": "₺799,99",
+            "Pro (Monthly)": "₺149,99",
+            "Pro (Activate)": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794071113366,
@@ -241084,6 +241251,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794194439896,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "60 Gold": "₺49,99",
+            "Double Combat Rewards": "₺99,99",
+            "Monthly Card": "₺249,99",
+            "120 Gold": "₺99,99",
+            "Backpack Expansion": "₺99,99",
+            "3280 Gold": "₺2.499,99",
+            "1280 Gold": "₺999,99",
+            "300 Gold": "₺249,99",
+            "980 Gold": "₺799,99",
+            "6480 Gold": "₺4.999,99"
+          }
+        },
         {
           "timestamp": 1794173147020,
           "price": 19.99,
@@ -288217,6 +288401,25 @@
     "history": [
       [
         {
+          "timestamp": 1794194439896,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "porches": "₺49,99",
+            "passatb8": "₺49,99",
+            "sonsuz paket": "₺249,99",
+            "mega paket": "₺99,99",
+            "büyük paket": "₺59,99",
+            "orta paket": "₺49,99",
+            "mini paket": "₺29,99",
+            "20 gold": "₺39,99",
+            "10 gold": "₺29,99",
+            "5 gold": "₺19,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794106722002,
           "price": 0,
           "formattedPrice": "Free",
@@ -307183,11 +307386,17 @@
       "formattedPrice": "₺249,99"
     },
     "minPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99"
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1794194439896,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1794173147020,
           "price": 199.99,
@@ -307909,7 +308118,7 @@
   },
   "6828960722": {
     "trackId": 6828960722,
-    "trackName": "Grounds Up",
+    "trackName": "Grounds Up: Business Tycoon",
     "region": "tr",
     "maxPriceInfo": {
       "price": 149.99,

@@ -2,18 +2,18 @@
   {
     "trackId": 6816896250,
     "region": "tr",
-    "timestamp": 1794173147020,
+    "timestamp": 1794194439896,
     "discounts": [
       {
         "type": "price",
         "name": "Price",
         "from": "₺249,99",
-        "to": "₺199,99",
-        "range": "[₺199,99 ~ ₺249,99]"
+        "to": "₺149,99",
+        "range": "[₺149,99 ~ ₺249,99]"
       }
     ],
-    "price": 199.99,
-    "formattedPrice": "₺199,99",
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6816896250",
     "trackName": "Tiny Computers",

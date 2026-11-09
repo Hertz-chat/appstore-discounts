@@ -2,6 +2,13 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1248661960,
+      "name": {
+        "mo": "Ace Attorney Spirit of Justice"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 6830479627,
       "name": {
         "tr": "1in8b Life"

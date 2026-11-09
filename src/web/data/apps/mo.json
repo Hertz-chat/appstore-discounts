@@ -833,7 +833,7 @@
   {
     "trackId": 342115564,
     "region": "mo",
-    "timestamp": 1789081003914,
+    "timestamp": 1794194439896,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "USD 4.99",
@@ -2764,7 +2764,7 @@
   {
     "trackId": 479516143,
     "region": "mo",
-    "timestamp": 1793068805806,
+    "timestamp": 1794194439896,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "USD 6.99",
@@ -8317,7 +8317,7 @@
   {
     "trackId": 1085114709,
     "region": "mo",
-    "timestamp": 1790805284947,
+    "timestamp": 1794194439896,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -10167,6 +10167,18 @@
     "trackName": "王國保衛戰：復仇",
     "firstRecordedAt": 1745328692670,
     "notificationDisabled": true
+  },
+  {
+    "trackId": 1248661960,
+    "region": "mo",
+    "timestamp": 1794194439896,
+    "discounts": [],
+    "price": 0.49,
+    "formattedPrice": "USD 0.49",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1248661960",
+    "trackName": "Ace Attorney Spirit of Justice",
+    "firstRecordedAt": 1794194439896
   },
   {
     "trackId": 1249864455,
@@ -12509,7 +12521,7 @@
   {
     "trackId": 1450144092,
     "region": "mo",
-    "timestamp": 1794173147020,
+    "timestamp": 1794194439896,
     "discounts": [],
     "price": 0.29,
     "formattedPrice": "USD 0.29",
@@ -27010,10 +27022,10 @@
   {
     "trackId": 6816896250,
     "region": "mo",
-    "timestamp": 1794106722002,
+    "timestamp": 1794194439896,
     "discounts": [],
-    "price": 4.99,
-    "formattedPrice": "USD 4.99",
+    "price": 2.99,
+    "formattedPrice": "USD 2.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6816896250",
     "trackName": "Tiny Computers",
@@ -27184,7 +27196,7 @@
     "formattedPrice": "USD 2.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6828960722",
-    "trackName": "Grounds Up",
+    "trackName": "Grounds Up: Business Tycoon",
     "firstRecordedAt": 1794043335284
   },
   {

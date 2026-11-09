@@ -9737,6 +9737,25 @@
     "history": [
       [
         {
+          "timestamp": 1794194439896,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "World 3 - Level Pack 2": "0,99 €",
+            "World 2 - Level Pack 2": "0,99 €",
+            "Unlock all Levels": "0,99 €",
+            "MEGA Bubble Popper Pack": "8,99 €",
+            "Bubble Popper Pack": "3,99 €",
+            "Pack of 15 Bumpers": "1,99 €",
+            "Pack of 5 Bumpers": "0,99 €",
+            "Pack of 30 Fireballs": "1,99 €",
+            "Pack of 10 Fireballs": "0,99 €",
+            "Pack of 1500 Tokens": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793818693473,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -10724,6 +10743,25 @@
       "My Pet Report": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794194439896,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "3,99 €",
+            "Birth Chart Report - Untimed": "2,99 €",
+            "Birthday Report": "3,99 €",
+            "Child Report - Full": "3,99 €",
+            "Child Report - Untimed": "2,99 €",
+            "My Pet Report": "1,99 €",
+            "Predictive Report - Full": "3,99 €",
+            "Predictive Report - No Background": "2,99 €",
+            "Predictive Report - Untimed": "2,99 €",
+            "Relationship Report": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793673861342,
@@ -42065,6 +42103,14 @@
     "history": [
       [
         {
+          "timestamp": 1794194439896,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793990259190,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -65405,6 +65451,51 @@
             "Pouch of gems": "5,99 €",
             "Mega Heroe Bundle": "19,99 €",
             "Tower Deep Devil's Reef": "0,99 €"
+          }
+        }
+      ]
+    ]
+  },
+  "1248661960": {
+    "trackId": 1248661960,
+    "trackName": "Ace Attorney Spirit of Justice",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0.49,
+      "formattedPrice": "0,49 €",
+      "Main Story Set": "9,49 €",
+      "Special Episode": "1,49 €",
+      "Costume Set": "0,49 €",
+      "Episode 5": "5,99 €",
+      "Episode 4": "5,99 €",
+      "Episode 3": "5,99 €",
+      "Episode 2": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.49,
+      "formattedPrice": "0,49 €",
+      "Main Story Set": "9,49 €",
+      "Special Episode": "1,49 €",
+      "Costume Set": "0,49 €",
+      "Episode 5": "5,99 €",
+      "Episode 4": "5,99 €",
+      "Episode 3": "5,99 €",
+      "Episode 2": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794194439896,
+          "price": 0.49,
+          "formattedPrice": "0,49 €",
+          "inAppPurchases": {
+            "Main Story Set": "9,49 €",
+            "Special Episode": "1,49 €",
+            "Costume Set": "0,49 €",
+            "Episode 5": "5,99 €",
+            "Episode 4": "5,99 €",
+            "Episode 3": "5,99 €",
+            "Episode 2": "5,99 €"
           }
         }
       ]
@@ -106666,6 +106757,14 @@
     "history": [
       [
         {
+          "timestamp": 1794194439896,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793588409451,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -108492,6 +108591,25 @@
       "Special Daily Pack7": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794194439896,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Unit Group Rebooted Ascendii": "2,99 €",
+            "Hero Dragon Kosmos": "7,99 €",
+            "Hero Zhara": "2,99 €",
+            "Special Daily Pack7": "1,99 €",
+            "All Unit Groups": "14,99 €",
+            "All Heroes": "17,99 €",
+            "Unit Group Jaegers": "7,99 €",
+            "Unit Group Ascendii On Sale": "0,99 €",
+            "pack 21": "8,99 €",
+            "Special Daily Pack20": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793396723963,
@@ -111128,8 +111246,8 @@
       "price": 0,
       "formattedPrice": "Gratuito",
       "Pro (Lifetime)": "17,99 €",
-      "Pro (Yearly)": "7,99 €",
-      "Pro (Monthly)": "1,99 €",
+      "Pro (Yearly)": "9,99 €",
+      "Pro (Monthly)": "2,99 €",
       "Pro (Activate)": "9,99 €"
     },
     "minPriceInfo": {
@@ -111141,6 +111259,19 @@
       "Pro (Activate)": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794194439896,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Pro (Lifetime)": "17,99 €",
+            "Pro (Monthly)": "2,99 €",
+            "Pro (Yearly)": "9,99 €",
+            "Pro (Activate)": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794071113366,
@@ -158267,10 +158398,18 @@
       "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €"
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794194439896,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794173147020,

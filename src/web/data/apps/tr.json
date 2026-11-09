@@ -2209,7 +2209,7 @@
   {
     "trackId": 432850619,
     "region": "tr",
-    "timestamp": 1794158365765,
+    "timestamp": 1794194439896,
     "discounts": [],
     "price": 399.99,
     "formattedPrice": "₺399,99",
@@ -6498,10 +6498,10 @@
   {
     "trackId": 931188326,
     "region": "tr",
-    "timestamp": 1793990259190,
+    "timestamp": 1794194439896,
     "discounts": [],
-    "price": 0,
-    "formattedPrice": "Free",
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id931188326",
     "trackName": "DayCost Pro - Personal Finance",
@@ -10216,6 +10216,18 @@
     "notificationDisabled": true
   },
   {
+    "trackId": 1248661960,
+    "region": "tr",
+    "timestamp": 1794194439896,
+    "discounts": [],
+    "price": 20,
+    "formattedPrice": "₺20,00",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1248661960",
+    "trackName": "Ace Attorney Spirit of Justice",
+    "firstRecordedAt": 1794194439896
+  },
+  {
     "trackId": 1249864455,
     "region": "tr",
     "timestamp": 1763345024209,
@@ -11619,7 +11631,7 @@
     "formattedPrice": "₺99,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id1402259944",
-    "trackName": "Salário Líquido",
+    "trackName": "Net Salary Portugal",
     "firstRecordedAt": 1771620074172
   },
   {
@@ -13062,7 +13074,7 @@
   {
     "trackId": 1464645812,
     "region": "tr",
-    "timestamp": 1784576586517,
+    "timestamp": 1794194439896,
     "discounts": [],
     "price": 499,
     "formattedPrice": "₺499,00",
@@ -13375,7 +13387,7 @@
   {
     "trackId": 1477966166,
     "region": "tr",
-    "timestamp": 1794106722002,
+    "timestamp": 1794194439896,
     "discounts": [],
     "price": 249.99,
     "formattedPrice": "₺249,99",
@@ -16672,10 +16684,10 @@
   {
     "trackId": 1601114348,
     "region": "tr",
-    "timestamp": 1793588409451,
+    "timestamp": 1794194439896,
     "discounts": [],
-    "price": 399.99,
-    "formattedPrice": "₺399,99",
+    "price": 499.99,
+    "formattedPrice": "₺499,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id1601114348",
     "trackName": "Siralim Ultimate",
@@ -17165,10 +17177,10 @@
   {
     "trackId": 1620202676,
     "region": "tr",
-    "timestamp": 1793415517315,
+    "timestamp": 1794194439896,
     "discounts": [],
-    "price": 49.99,
-    "formattedPrice": "₺49,99",
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id1620202676",
     "trackName": "Iron Marines Invasion RTS Game",
@@ -17418,7 +17430,7 @@
   {
     "trackId": 1631859420,
     "region": "tr",
-    "timestamp": 1794173147020,
+    "timestamp": 1794194439896,
     "discounts": [],
     "price": 99.99,
     "formattedPrice": "₺99,99",
@@ -17575,7 +17587,7 @@
   {
     "trackId": 1636719674,
     "region": "tr",
-    "timestamp": 1794071113366,
+    "timestamp": 1794194439896,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -18743,7 +18755,7 @@
   {
     "trackId": 6448928429,
     "region": "tr",
-    "timestamp": 1794106722002,
+    "timestamp": 1794194439896,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -20176,7 +20188,7 @@
   {
     "trackId": 6478843819,
     "region": "tr",
-    "timestamp": 1794173147020,
+    "timestamp": 1794194439896,
     "discounts": [],
     "price": 19.99,
     "formattedPrice": "₺19,99",
@@ -26804,10 +26816,10 @@
   {
     "trackId": 6816896250,
     "region": "tr",
-    "timestamp": 1794173147020,
+    "timestamp": 1794194439896,
     "discounts": [],
-    "price": 199.99,
-    "formattedPrice": "₺199,99",
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6816896250",
     "trackName": "Tiny Computers",
@@ -26990,7 +27002,7 @@
     "formattedPrice": "₺149,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6828960722",
-    "trackName": "Grounds Up",
+    "trackName": "Grounds Up: Business Tycoon",
     "firstRecordedAt": 1794043335284
   },
   {

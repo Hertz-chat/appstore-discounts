@@ -1,19 +1,20 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2411` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2412` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2412|1248661960|自动|❌|Ace Attorney Spirit of Justice|Ace Attorney Spirit of Justice|Ace Attorney Spirit of Justice|Ace Attorney Spirit of Justice|Ace Attorney Spirit of Justice|Ace Attorney Spirit of Justice|
 |2411|6830479627|自动|1in8b Life|1in8b Life|1in8b Life|1in8b Life|1in8b Life|1in8b Life|1in8b Life|
 |2410|6819150080|自动|Duo Aquarium|Duo Aquarium|Duo Aquarium|Duo Aquarium|Duo Aquarium|Duo Aquarium|Duo Aquarium|
 |2409|882453590|自动|❌|Reckless Racing 3|Reckless Racing 3|Reckless Racing 3|Reckless Racing 3|Reckless Racing 3|Reckless Racing 3|
 |2408|1233326914|自动|ParKing P - 我的车在哪里？|ParKing P - Find My Parked Car|ParKing P - Find My Parked Car|ParKing P - Find My Parked Car|ParKing P - Find My Parked Car|ParKing P - Find My Parked Car|ParKing P Onde está meu carro?|
 |2407|1462754972|自动|MONG LI|MONG LI|MONG LI|MONG LI|MONG LI|MONG LI|MONG LI|
 |2406|6788134172|自动|❌|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|
-|2405|6828960722|自动|❌|Grounds Up|Grounds Up|Grounds Up|Grounds Up|Grounds Up|❌|
+|2405|6828960722|自动|❌|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|❌|
 |2404|6762192063|自动|❌|Absolum|Absolum|Absolum|Absolum|Absolum|Absolum|
 |2403|408625926|自动|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|
 |2402|6827745244|自动|❌|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|
@@ -644,7 +645,7 @@
 |1777|6449783315|自动|MedNotes -For Medical Students|MedNotes -For Medical Students|MedNotes -For Medical Students|MedNotes -For Medical Students|MedNotes -For Medical Students|MedNotes -For Medical Students|MedNotes -For Medical Students|
 |1776|930404329|自动|❌|Bertram Fiddle: Episode 1: A Dreadly Business|Bertram Fiddle: Episode 1: A Dreadly Business|Bertram Fiddle: Episode 1: A Dreadly Business|Bertram Fiddle: Episode 1: A Dreadly Business|Bertram Fiddle: Episode 1: A Dreadly Business|Bertram Fiddle: Episode 1: A Dreadly Business|
 |1775|6759358968|自动|PadLab - Live Pads|PadLab - Live Pads|PadLab - Live Pads|PadLab - Live Pads|PadLab - Live Pads|PadLab - Live Pads|PadLab - Live Pads|
-|1774|1402259944|自动|Salário Líquido|Salário Líquido|Salário Líquido|Salário Líquido|Salário Líquido|Salário Líquido|Salário Líquido|
+|1774|1402259944|自动|Salário Líquido|Salário Líquido|Salário Líquido|Salário Líquido|Net Salary Portugal|Net Salary Portugal|Salário Líquido|
 |1773|999623871|自动|❌|Real Drift Car Racing|Real Drift Car Racing|Real Drift Car Racing|Real Drift Car Racing|Real Drift Car Racing|Real Drift Car Racing|
 |1772|6741873549|自动|Zone System|Zone System|Zone System|Zone System|Zone System|Zone System|Zone System|
 |1771|1520427393|自动|El Tubero 2.0|El Tubero 2.0|El Tubero 2.0|El Tubero 2.0|El Tubero 2.0|El Tubero 2.0|El Tubero 2.0|

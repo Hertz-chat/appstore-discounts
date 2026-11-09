@@ -60840,6 +60840,25 @@
     "history": [
       [
         {
+          "timestamp": 1794194439896,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "ISAAC'S NEW TONES": "HK$ 8.00",
+            "GROOVY GUT SHAKER": "HK$ 18.00",
+            "DARK DUNGEON OF DESPAIR": "HK$ 8.00",
+            "CAMPBELL'S CANS": "HK$ 8.00",
+            "BEEPING BOBBIE": "HK$ 0.00",
+            "FUSION FLIPPO": "HK$ 8.00",
+            "BLADE OF JUSTICE": "HK$ 8.00",
+            "DEEP BLUE": "HK$ 0.00",
+            "HIGH FIVE": "HK$ 8.00",
+            "LOW RIDER": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790508533224,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
@@ -108448,6 +108467,23 @@
     "history": [
       [
         {
+          "timestamp": 1794194439896,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "一堆猴幣促銷": "HK$ 22.00",
+            "全塔解鎖": "HK$ 38.00",
+            "猴幣": "HK$ 18.00",
+            "塔XP": "HK$ 8.00",
+            "一堆猴幣": "HK$ 38.00",
+            "10個知識點": "HK$ 58.00",
+            "完全解鎖防禦塔和典範": "HK$ 88.00",
+            "一保險庫的猴幣促銷": "HK$ 88.00",
+            "知識點": "HK$ 8.00",
+            "雙現金模式": "HK$ 148.00"
+          }
+        },
+        {
           "timestamp": 1794173147020,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -126335,6 +126371,25 @@
     "history": [
       [
         {
+          "timestamp": 1794194439896,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "648元礼包四": "HK$ 788.00",
+            "328元礼包四": "HK$ 388.00",
+            "168元礼包四": "HK$ 188.00",
+            "30元礼包四": "HK$ 32.00",
+            "60元礼包四": "HK$ 68.00",
+            "18元礼包四": "HK$ 22.00",
+            "6元礼包四": "HK$ 8.00",
+            "328元礼包三": "HK$ 388.00",
+            "168元礼包三": "HK$ 188.00",
+            "648元礼包三": "HK$ 788.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793380885407,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -129140,6 +129195,51 @@
             "Tower Shaolin Temple": "HK$ 22.00",
             "Tower Deep Devil's Reef": "HK$ 22.00",
             "Hero Dianyun": "HK$ 48.00"
+          }
+        }
+      ]
+    ]
+  },
+  "1248661960": {
+    "trackId": 1248661960,
+    "trackName": "Ace Attorney Spirit of Justice",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 3,
+      "formattedPrice": "HK$ 3.00",
+      "Main Story Set": "HK$ 68.00",
+      "Special Episode": "HK$ 11.00",
+      "Costume Set": "HK$ 3.00",
+      "Episode 2": "HK$ 38.00",
+      "Episode 5": "HK$ 38.00",
+      "Episode 3": "HK$ 38.00",
+      "Episode 4": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 3,
+      "formattedPrice": "HK$ 3.00",
+      "Main Story Set": "HK$ 68.00",
+      "Special Episode": "HK$ 11.00",
+      "Costume Set": "HK$ 3.00",
+      "Episode 2": "HK$ 38.00",
+      "Episode 5": "HK$ 38.00",
+      "Episode 3": "HK$ 38.00",
+      "Episode 4": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794194439896,
+          "price": 3,
+          "formattedPrice": "HK$ 3.00",
+          "inAppPurchases": {
+            "Main Story Set": "HK$ 68.00",
+            "Special Episode": "HK$ 11.00",
+            "Costume Set": "HK$ 3.00",
+            "Episode 2": "HK$ 38.00",
+            "Episode 5": "HK$ 38.00",
+            "Episode 3": "HK$ 38.00",
+            "Episode 4": "HK$ 38.00"
           }
         }
       ]
@@ -139156,6 +139256,25 @@
     "history": [
       [
         {
+          "timestamp": 1794194439896,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "6480心动包": "HK$ 788.00",
+            "3280心动包": "HK$ 388.00",
+            "1980心动包": "HK$ 228.00",
+            "1280心动包": "HK$ 148.00",
+            "980心动包": "HK$ 118.00",
+            "680心动包": "HK$ 88.00",
+            "300心动包": "HK$ 32.00",
+            "180心动包": "HK$ 22.00",
+            "60心动包": "HK$ 8.00",
+            "120心动包": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791263120623,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -139554,6 +139673,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794194439896,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Crop": "HK$ 0.00",
+            "Splice": "HK$ 0.00",
+            "Sticker": "HK$ 0.00",
+            "Rate": "HK$ 0.00",
+            "Magnifier": "HK$ 0.00",
+            "Paint": "HK$ 0.00",
+            "Rotate": "HK$ 0.00",
+            "Distortion": "HK$ 0.00",
+            "Info": "HK$ 0.00",
+            "Chromakey": "HK$ 0.00"
+          }
+        },
         {
           "timestamp": 1794173147020,
           "price": 8,
@@ -316711,10 +316847,18 @@
       "formattedPrice": "HK$ 38.00"
     },
     "minPriceInfo": {
-      "price": 32,
-      "formattedPrice": "HK$ 32.00"
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794194439896,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794106722002,
@@ -317362,7 +317506,7 @@
   },
   "6828960722": {
     "trackId": 6828960722,
-    "trackName": "Grounds Up",
+    "trackName": "Grounds Up: Business Tycoon",
     "region": "hk",
     "maxPriceInfo": {
       "price": 22,

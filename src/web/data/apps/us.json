@@ -6834,10 +6834,10 @@
   {
     "trackId": 954982733,
     "region": "us",
-    "timestamp": 1793673861342,
+    "timestamp": 1794234717577,
     "discounts": [],
-    "price": 11.95,
-    "formattedPrice": "$11.95",
+    "price": 9.99,
+    "formattedPrice": "$9.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id954982733",
     "trackName": "Tuner T1 Pro",
@@ -11768,7 +11768,7 @@
   {
     "trackId": 1422480068,
     "region": "us",
-    "timestamp": 1794194439896,
+    "timestamp": 1794234717577,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -12446,7 +12446,7 @@
   {
     "trackId": 1448573670,
     "region": "us",
-    "timestamp": 1794194439896,
+    "timestamp": 1794234717577,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -15263,7 +15263,7 @@
   {
     "trackId": 1550721625,
     "region": "us",
-    "timestamp": 1794194439896,
+    "timestamp": 1794234717577,
     "discounts": [],
     "price": 15.99,
     "formattedPrice": "$15.99",
@@ -24688,6 +24688,18 @@
     "firstRecordedAt": 1775467033543
   },
   {
+    "trackId": 6758903716,
+    "region": "us",
+    "timestamp": 1794234717577,
+    "discounts": [],
+    "price": 6.99,
+    "formattedPrice": "$6.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6758903716",
+    "trackName": "Dungeon Warfare 3",
+    "firstRecordedAt": 1794234717577
+  },
+  {
     "trackId": 6758929719,
     "region": "us",
     "timestamp": 1776693666284,
@@ -24882,7 +24894,7 @@
   {
     "trackId": 6759664029,
     "region": "us",
-    "timestamp": 1794194439896,
+    "timestamp": 1794234717577,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "$6.99",
@@ -26800,6 +26812,18 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id6814210373",
     "trackName": "Auday - All-Day Watch Recorder",
     "firstRecordedAt": 1791718980381
+  },
+  {
+    "trackId": 6814254443,
+    "region": "us",
+    "timestamp": 1794234717577,
+    "discounts": [],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6814254443",
+    "trackName": "Pixel Miner: Cozy Digging Game",
+    "firstRecordedAt": 1794234717577
   },
   {
     "trackId": 6816896250,

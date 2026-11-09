@@ -98740,6 +98740,14 @@
     "history": [
       [
         {
+          "timestamp": 1794234717577,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793673861342,
           "price": 11.95,
           "formattedPrice": "$11.95",
@@ -171869,6 +171877,17 @@
     "history": [
       [
         {
+          "timestamp": 1794234717577,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Nautilus Unlock All and AI": "$14.99",
+            "Nautilus Pro Lifetime": "$14.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794194439896,
           "price": 0,
           "formattedPrice": "Free",
@@ -179588,6 +179607,25 @@
       "2080 gems": "$29.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794234717577,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Resource Package": "$2.99",
+            "Teammate Package": "$4.99",
+            "Role Package III": "$9.99",
+            "60 gems": "$0.99",
+            "Role Package": "$2.99",
+            "Heroic Package#1": "$9.99",
+            "Teammate Package#2": "$4.99",
+            "Heroic Package#2": "$9.99",
+            "310 gems": "$4.99",
+            "Bronze Decree": "$25.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794194439896,
@@ -221176,6 +221214,25 @@
       "Fred Hersch Compositions": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794234717577,
+          "price": 15.99,
+          "formattedPrice": "$15.99",
+          "inAppPurchases": {
+            "Major Jazz Blues 12 key": "$4.99",
+            "Funk Popular": "$2.99",
+            "Swing Ⅱ-V-I-VI 12key (Long)": "$4.99",
+            "Herbie Hancock & Chick corea": "$4.99",
+            "Rhythm Change 12key": "$4.99",
+            "Bossa Nova Blues 12key": "$2.99",
+            "Minor Blues 12 key": "$4.99",
+            "Neo Soul Jam Track 12key": "$4.99",
+            "Essential Wayne Shorter": "$4.99",
+            "Antonio Carlos Jobim Book Ⅰ.": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794194439896,
@@ -368883,7 +368940,13 @@
       "Gems Handful": "$2.99",
       "Gems Pouch": "$4.99",
       "Tower Forger": "$4.99",
-      "Gems Barrel": "$9.99"
+      "Gems Barrel": "$9.99",
+      "Hero Malik": "$4.99",
+      "Gems Wagon": "$49.99",
+      "Gems Chest": "$19.99",
+      "Gems Mountain": "$99.99",
+      "Gems Pouch Sale": "$3.99",
+      "Hero Ignus Sale": "$1.99"
     },
     "minPriceInfo": {
       "SHOWCASE OFFER 07": "$4.99",
@@ -368909,9 +368972,34 @@
       "Gems Handful": "$2.99",
       "Gems Pouch": "$4.99",
       "Tower Forger": "$4.99",
-      "Gems Barrel": "$9.99"
+      "Gems Barrel": "$9.99",
+      "Hero Malik": "$4.99",
+      "Gems Wagon": "$49.99",
+      "Gems Chest": "$19.99",
+      "Gems Mountain": "$99.99",
+      "Gems Pouch Sale": "$3.99",
+      "Hero Ignus Sale": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794234717577,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Malik": "$4.99",
+            "Gems Handful": "$2.99",
+            "Gems Pouch": "$4.99",
+            "Gems Wagon": "$49.99",
+            "Gems Barrel": "$9.99",
+            "Gems Chest": "$19.99",
+            "Gems Mountain": "$99.99",
+            "Gems Pouch Sale": "$3.99",
+            "Hero Ashbite": "$6.99",
+            "Hero Ignus Sale": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794194439896,
@@ -372016,6 +372104,52 @@
           "timestamp": 1794131413359,
           "price": 0.99,
           "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6758903716": {
+    "trackId": 6758903716,
+    "trackName": "Dungeon Warfare 3",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "$6.99"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "$6.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794234717577,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6814254443": {
+    "trackId": 6814254443,
+    "trackName": "Pixel Miner: Cozy Digging Game",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794234717577,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
           "inAppPurchases": {}
         }
       ]

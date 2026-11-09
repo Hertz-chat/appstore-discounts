@@ -6822,10 +6822,10 @@
   {
     "trackId": 954982733,
     "region": "tr",
-    "timestamp": 1793673861342,
+    "timestamp": 1794234717577,
     "discounts": [],
-    "price": 599.99,
-    "formattedPrice": "₺599,99",
+    "price": 499.99,
+    "formattedPrice": "₺499,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id954982733",
     "trackName": "Tuner T1 Pro",
@@ -13074,7 +13074,7 @@
   {
     "trackId": 1464645812,
     "region": "tr",
-    "timestamp": 1794194439896,
+    "timestamp": 1794234717577,
     "discounts": [],
     "price": 499,
     "formattedPrice": "₺499,00",
@@ -18755,7 +18755,7 @@
   {
     "trackId": 6448928429,
     "region": "tr",
-    "timestamp": 1794194439896,
+    "timestamp": 1794234717577,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -24616,6 +24616,18 @@
     "firstRecordedAt": 1775467033543
   },
   {
+    "trackId": 6758903716,
+    "region": "tr",
+    "timestamp": 1794234717577,
+    "discounts": [],
+    "price": 399.99,
+    "formattedPrice": "₺399,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6758903716",
+    "trackName": "Dungeon Warfare 3",
+    "firstRecordedAt": 1794234717577
+  },
+  {
     "trackId": 6758929719,
     "region": "tr",
     "timestamp": 1776693666284,
@@ -26812,6 +26824,18 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6814210373",
     "trackName": "Auday - All-Day Watch Recorder",
     "firstRecordedAt": 1791718980381
+  },
+  {
+    "trackId": 6814254443,
+    "region": "tr",
+    "timestamp": 1794234717577,
+    "discounts": [],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6814254443",
+    "trackName": "Pixel Miner: Cozy Digging Game",
+    "firstRecordedAt": 1794234717577
   },
   {
     "trackId": 6816896250,

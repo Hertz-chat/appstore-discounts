@@ -9737,6 +9737,23 @@
     "history": [
       [
         {
+          "timestamp": 1794234717577,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Shooting Stars - Bubble Bust World 2": "0,99 €",
+            "Struck by Lightning - Bubble Bust World 3": "1,99 €",
+            "World 2 - Level Pack 2": "0,99 €",
+            "Pack of 30 Fireballs": "1,99 €",
+            "Pack of 5 Bumpers": "0,99 €",
+            "Pack of 10 Fireballs": "0,99 €",
+            "World 3 - Level Pack 2": "0,99 €",
+            "Pack of 15 Bumpers": "1,99 €",
+            "Pack of 500 Tokens": "0,99 €",
+            "MEGA Bubble Popper Pack": "8,99 €"
+          }
+        },
+        {
           "timestamp": 1794194439896,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -10744,6 +10761,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794234717577,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Predictive Report - Full": "3,99 €",
+            "Birth Chart Report - Full": "3,99 €",
+            "Birthday Report": "3,99 €",
+            "Gold Level Free Trial": "0,00 €",
+            "Gold Monthly": "8,99 €",
+            "Relationship Report": "3,99 €",
+            "Child Report - Full": "3,99 €",
+            "Predictive Report - No Background": "2,99 €",
+            "7-day Trial Astrolocality": "0,00 €",
+            "Gold Level lifetime": "79,99 €"
+          }
+        },
         {
           "timestamp": 1794194439896,
           "price": 0,
@@ -44362,6 +44396,14 @@
       "formattedPrice": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794234717577,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793673861342,
@@ -159114,6 +159156,52 @@
           "timestamp": 1794131413359,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6758903716": {
+    "trackId": 6758903716,
+    "trackName": "Dungeon Warfare 3",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794234717577,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6814254443": {
+    "trackId": 6814254443,
+    "trackName": "Pixel Miner: Jogo de Cavar",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794234717577,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
           "inAppPurchases": {}
         }
       ]

@@ -5594,6 +5594,23 @@
     "history": [
       [
         {
+          "timestamp": 1794234717577,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Williamsburg Starter HipstaPak": "USD 0.99",
+            "Portland HipstaPak": "USD 0.99",
+            "Mission Hipstapak": "USD 0.99",
+            "Shibuya HipstaPak": "USD 0.99",
+            "Camden HipstaPak": "USD 0.99",
+            "Soho HipstaPak": "USD 0.99",
+            "Foodie SnapPak": "USD 0.99",
+            "Bondi HipstaPak": "USD 0.99",
+            "Multi-Exposure Kit": "USD 0.99",
+            "America HipstaPak": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1794194439896,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -23448,6 +23465,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794234717577,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "USD 7.99",
+            "Minecraft Store Item 6": "USD 5.99",
+            "Minecraft Store Item 2": "USD 1.99",
+            "Realms Monthly Subscription: You + 2 Friends": "USD 3.99",
+            "Minecraft Store Item 10": "USD 9.99",
+            "Minecraft Store Item 4": "USD 3.99",
+            "Minecraft Store Item 5": "USD 4.99",
+            "Minecraft Store Item 3": "USD 2.99",
+            "Realms Plus: You + 10 Friends": "USD 7.99",
+            "Minecraft Store Item 20": "USD 19.99"
+          }
+        },
         {
           "timestamp": 1794194439896,
           "price": 6.99,
@@ -67767,6 +67801,14 @@
     "history": [
       [
         {
+          "timestamp": 1794234717577,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793673861342,
           "price": 11.95,
           "formattedPrice": "USD 11.95",
@@ -79773,6 +79815,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794234717577,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #4": "USD 79.99",
+            "Parallels Desktop for Mac": "USD 79.99",
+            "訂閱 (1 年)": "USD 79.99",
+            "Parallels Desktop for Mac #2": "USD 79.99",
+            "Parallels Desktop for Mac #5": "USD 79.99",
+            "Parallels Desktop for Mac #3": "USD 79.99"
+          }
+        },
         {
           "timestamp": 1794194439896,
           "price": 0,
@@ -99583,7 +99638,10 @@
       "SF2SEPack40": "USD 39.99",
       "SF2SEPack38": "USD 37.99",
       "SF2SEPack23": "USD 22.99",
-      "SF2SEPack9": "USD 8.99"
+      "SF2SEPack9": "USD 8.99",
+      "Pile of Coins": "USD 0.99",
+      "SF2SEPack2": "USD 1.99",
+      "SF2SEPack3": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -99618,9 +99676,31 @@
       "SF2SEPack40": "USD 39.99",
       "SF2SEPack38": "USD 37.99",
       "SF2SEPack23": "USD 22.99",
-      "SF2SEPack9": "USD 8.99"
+      "SF2SEPack9": "USD 8.99",
+      "Pile of Coins": "USD 0.99",
+      "SF2SEPack2": "USD 1.99",
+      "SF2SEPack3": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794234717577,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "金幣堆": "USD 0.99",
+            "金幣袋": "USD 4.99",
+            "金幣箱": "USD 19.99",
+            "寶石堆": "USD 2.99",
+            "寶石箱": "USD 9.99",
+            "宝石箱": "USD 49.99",
+            "寶石袋": "USD 19.99",
+            "Pile of Coins": "USD 0.99",
+            "SF2SEPack2": "USD 1.99",
+            "SF2SEPack3": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791718980381,
@@ -219826,6 +219906,48 @@
       [
         {
           "timestamp": 1794131413359,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6758903716": {
+    "name": "Dungeon Warfare 3",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794234717577,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6814254443": {
+    "name": "Pixel Miner：悠閒挖礦遊戲",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794234717577,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
           "inAppPurchases": {}

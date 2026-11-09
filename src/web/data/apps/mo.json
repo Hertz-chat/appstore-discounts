@@ -833,7 +833,7 @@
   {
     "trackId": 342115564,
     "region": "mo",
-    "timestamp": 1794194439896,
+    "timestamp": 1794234717577,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "USD 4.99",
@@ -2764,7 +2764,7 @@
   {
     "trackId": 479516143,
     "region": "mo",
-    "timestamp": 1794194439896,
+    "timestamp": 1794234717577,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "USD 6.99",
@@ -6750,10 +6750,10 @@
   {
     "trackId": 954982733,
     "region": "mo",
-    "timestamp": 1793673861342,
+    "timestamp": 1794234717577,
     "discounts": [],
-    "price": 11.95,
-    "formattedPrice": "USD 11.95",
+    "price": 9.99,
+    "formattedPrice": "USD 9.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id954982733",
     "trackName": "Tuner T1 Pro",
@@ -8317,7 +8317,7 @@
   {
     "trackId": 1085114709,
     "region": "mo",
-    "timestamp": 1794194439896,
+    "timestamp": 1794234717577,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -10327,7 +10327,7 @@
   {
     "trackId": 1261834568,
     "region": "mo",
-    "timestamp": 1791718980381,
+    "timestamp": 1794234717577,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "USD 4.99",
@@ -24906,6 +24906,18 @@
     "firstRecordedAt": 1775467033543
   },
   {
+    "trackId": 6758903716,
+    "region": "mo",
+    "timestamp": 1794234717577,
+    "discounts": [],
+    "price": 6.99,
+    "formattedPrice": "USD 6.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6758903716",
+    "trackName": "Dungeon Warfare 3",
+    "firstRecordedAt": 1794234717577
+  },
+  {
     "trackId": 6758929719,
     "region": "mo",
     "timestamp": 1776693666284,
@@ -27018,6 +27030,18 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id6814210373",
     "trackName": "Auday - All-Day Watch Recorder",
     "firstRecordedAt": 1791718980381
+  },
+  {
+    "trackId": 6814254443,
+    "region": "mo",
+    "timestamp": 1794234717577,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6814254443",
+    "trackName": "Pixel Miner：悠閒挖礦遊戲",
+    "firstRecordedAt": 1794234717577
   },
   {
     "trackId": 6816896250,

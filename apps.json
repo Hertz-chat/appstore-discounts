@@ -2,6 +2,20 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 892347083,
+      "name": {
+        "mo": "FORScan Lite - for Ford, Mazda"
+      },
+      "addType": "auto"
+    },
+    {
+      "id": 6828383349,
+      "name": {
+        "tw": "DuoFridge"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 6827445474,
       "name": {
         "mo": "FoldTick"

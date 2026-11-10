@@ -5976,6 +5976,18 @@
     "firstRecordedAt": 1763238344389
   },
   {
+    "trackId": 892347083,
+    "region": "mo",
+    "timestamp": 1794318757010,
+    "discounts": [],
+    "price": 6.99,
+    "formattedPrice": "USD 6.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id892347083",
+    "trackName": "FORScan Lite - for Ford, Mazda",
+    "firstRecordedAt": 1794318757010
+  },
+  {
     "trackId": 892542000,
     "region": "mo",
     "timestamp": 1765824087672,
@@ -16311,6 +16323,18 @@
     "firstRecordedAt": 1745328692670
   },
   {
+    "trackId": 1582355047,
+    "region": "mo",
+    "timestamp": 1794318757010,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1582355047",
+    "trackName": "Hacker Başlangıç",
+    "firstRecordedAt": 1794318757010
+  },
+  {
     "trackId": 1586126746,
     "region": "mo",
     "timestamp": 1790020348261,
@@ -24704,10 +24728,10 @@
   {
     "trackId": 6758201392,
     "region": "mo",
-    "timestamp": 1780335522977,
+    "timestamp": 1794318757010,
     "discounts": [],
-    "price": 8.99,
-    "formattedPrice": "USD 8.99",
+    "price": 7.99,
+    "formattedPrice": "USD 7.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6758201392",
     "trackName": "Slime Rancher",
@@ -27246,6 +27270,18 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id6827745244",
     "trackName": "Vize: Yaşam Simülasyonu",
     "firstRecordedAt": 1793818693473
+  },
+  {
+    "trackId": 6828383349,
+    "region": "mo",
+    "timestamp": 1794318757010,
+    "discounts": [],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6828383349",
+    "trackName": "DuoFridge",
+    "firstRecordedAt": 1794318757010
   },
   {
     "trackId": 6828960722,

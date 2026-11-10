@@ -29996,6 +29996,23 @@
     "history": [
       [
         {
+          "timestamp": 1794318757010,
+          "price": 235,
+          "formattedPrice": "$235.00",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "$240.00",
+            "Minecraft Store Item 2": "$70.00",
+            "Minecraft Store Item 6": "$205.00",
+            "Realms Monthly Subscription: You + 2 Friends": "$120.00",
+            "Minecraft Store Item 3": "$105.00",
+            "Realms Plus: You + 10 Friends": "$240.00",
+            "Minecraft Store Item 10": "$335.00",
+            "Minecraft Store Item 4": "$135.00",
+            "Minecraft Store Item 5": "$170.00",
+            "Minecraft Store Item 1": "$35.00"
+          }
+        },
+        {
           "timestamp": 1794286670366,
           "price": 235,
           "formattedPrice": "$235.00",
@@ -63636,6 +63653,25 @@
     "history": [
       [
         {
+          "timestamp": 1794318757010,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Rayark Selection Vol.1": "$120.00",
+            "Rayark Selection Vol.2": "$120.00",
+            "MILI Collection": "$120.00",
+            "V.K Collection": "$120.00",
+            "Brian Crain Collection": "$120.00",
+            "Eshen Chen Colleciton Vol.1": "$120.00",
+            "Rayark Selection Vol.3": "$120.00",
+            "Cytus Selection Vol.1": "$120.00",
+            "Cytus Selection Vol.2": "$120.00",
+            "Knight Iris": "$120.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792175391583,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -74389,6 +74425,27 @@
             "教育性有關太陽系的電影為孩子們": "$30.00",
             "太陽系行星的探索": "$30.00"
           }
+        }
+      ]
+    ]
+  },
+  "892347083": {
+    "name": "FORScan Lite - for Ford, Mazda",
+    "maxPriceInfo": {
+      "price": 220,
+      "formattedPrice": "$220.00"
+    },
+    "minPriceInfo": {
+      "price": 220,
+      "formattedPrice": "$220.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794318757010,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -209684,6 +209741,27 @@
       ]
     ]
   },
+  "1582355047": {
+    "name": "Hacker Başlangıç",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794318757010,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1586126746": {
     "name": "Labyrinth City",
     "maxPriceInfo": {
@@ -318398,10 +318476,18 @@
       "formattedPrice": "$290.00"
     },
     "minPriceInfo": {
-      "price": 290,
-      "formattedPrice": "$290.00"
+      "price": 250,
+      "formattedPrice": "$250.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794318757010,
+          "price": 250,
+          "formattedPrice": "$250.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1779875386311,
@@ -322996,7 +323082,8 @@
       "服裝 · 萬聖節套組 2": "$90.00",
       "服裝 · 萬聖節套組 1": "$90.00",
       "服裝 · 萬聖節套組 3": "$90.00",
-      "組合・光之騎士團": "$320.00"
+      "組合・光之騎士團": "$320.00",
+      "黑蘭宴服": "$20.00"
     },
     "minPriceInfo": {
       "price": 49,
@@ -323015,10 +323102,28 @@
       "服裝 · 萬聖節套組 2": "$90.00",
       "服裝 · 萬聖節套組 1": "$90.00",
       "服裝 · 萬聖節套組 3": "$90.00",
-      "組合・光之騎士團": "$320.00"
+      "組合・光之騎士團": "$320.00",
+      "黑蘭宴服": "$20.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1794318757010,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "組合・光之騎士團": "$320.00",
+            "付費角色・艾德瑞克": "$30.00",
+            "付費角色・墨蘭": "$30.00",
+            "付費角色・伊蕾娜": "$30.00",
+            "付費角色・菲涅": "$30.00",
+            "付費角色・艾洛溫": "$30.00",
+            "付費角色・薩爾古爾": "$30.00",
+            "付費角色・蘿潔爾": "$30.00",
+            "主題包・哈爾布倫": "$30.00",
+            "黑蘭宴服": "$20.00"
+          }
+        },
         {
           "timestamp": 1794267500104,
           "price": 60,
@@ -326505,6 +326610,27 @@
           "timestamp": 1794267500104,
           "price": 30,
           "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6828383349": {
+    "name": "DuoFridge",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794318757010,
+          "price": 60,
+          "formattedPrice": "$60.00",
           "inAppPurchases": {}
         }
       ]

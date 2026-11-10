@@ -3030,7 +3030,7 @@
   {
     "trackId": 525818839,
     "region": "pt",
-    "timestamp": 1794267500104,
+    "timestamp": 1794318757010,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "0,99 €",
@@ -5538,6 +5538,18 @@
     "firstRecordedAt": 1763238344389
   },
   {
+    "trackId": 892347083,
+    "region": "pt",
+    "timestamp": 1794318757010,
+    "discounts": [],
+    "price": 7.99,
+    "formattedPrice": "7,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id892347083",
+    "trackName": "FORScan Lite - for Ford, Mazda",
+    "firstRecordedAt": 1794318757010
+  },
+  {
     "trackId": 892542000,
     "region": "pt",
     "timestamp": 1762313071665,
@@ -6416,7 +6428,7 @@
   {
     "trackId": 964708975,
     "region": "pt",
-    "timestamp": 1790805284947,
+    "timestamp": 1794318757010,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Gratuito",
@@ -12389,7 +12401,7 @@
   {
     "trackId": 1477966166,
     "region": "pt",
-    "timestamp": 1794131413359,
+    "timestamp": 1794318757010,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "4,99 €",
@@ -15101,6 +15113,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id1581640677",
     "trackName": "Football Referee Simulator",
     "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1582355047,
+    "region": "pt",
+    "timestamp": 1794318757010,
+    "discounts": [],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1582355047",
+    "trackName": "Hacker Başlangıç",
+    "firstRecordedAt": 1794318757010
   },
   {
     "trackId": 1583113291,
@@ -22808,10 +22832,10 @@
   {
     "trackId": 6758201392,
     "region": "pt",
-    "timestamp": 1780372658995,
+    "timestamp": 1794318757010,
     "discounts": [],
-    "price": 8.99,
-    "formattedPrice": "8,99 €",
+    "price": 7.99,
+    "formattedPrice": "7,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6758201392",
     "trackName": "Slime Rancher",
@@ -25244,6 +25268,18 @@
     "firstRecordedAt": 1794267500104
   },
   {
+    "trackId": 6827445474,
+    "region": "pt",
+    "timestamp": 1794318757010,
+    "discounts": [],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6827445474",
+    "trackName": "FoldTick",
+    "firstRecordedAt": 1794318757010
+  },
+  {
     "trackId": 6827745244,
     "region": "pt",
     "timestamp": 1793818693473,
@@ -25254,6 +25290,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id6827745244",
     "trackName": "Vize: Yaşam Simülasyonu",
     "firstRecordedAt": 1793818693473
+  },
+  {
+    "trackId": 6828383349,
+    "region": "pt",
+    "timestamp": 1794318757010,
+    "discounts": [],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6828383349",
+    "trackName": "DuoFridge",
+    "firstRecordedAt": 1794318757010
   },
   {
     "trackId": 6830479627,

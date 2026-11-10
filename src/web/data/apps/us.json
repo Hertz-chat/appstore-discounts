@@ -4426,7 +4426,7 @@
   {
     "trackId": 623592465,
     "region": "us",
-    "timestamp": 1794267500104,
+    "timestamp": 1794318757010,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "$1.99",
@@ -4690,7 +4690,7 @@
   {
     "trackId": 650684932,
     "region": "us",
-    "timestamp": 1794267500104,
+    "timestamp": 1794318757010,
     "discounts": [],
     "price": 9.99,
     "formattedPrice": "$9.99",
@@ -5158,7 +5158,7 @@
   {
     "trackId": 727544019,
     "region": "us",
-    "timestamp": 1793553601717,
+    "timestamp": 1794318757010,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -6060,6 +6060,18 @@
     "firstRecordedAt": 1763238344389
   },
   {
+    "trackId": 892347083,
+    "region": "us",
+    "timestamp": 1794318757010,
+    "discounts": [],
+    "price": 6.99,
+    "formattedPrice": "$6.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id892347083",
+    "trackName": "FORScan Lite - for Ford, Mazda",
+    "firstRecordedAt": 1794318757010
+  },
+  {
     "trackId": 892542000,
     "region": "us",
     "timestamp": 1762313071665,
@@ -6822,7 +6834,7 @@
   {
     "trackId": 954724812,
     "region": "us",
-    "timestamp": 1793380885407,
+    "timestamp": 1794318757010,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -9904,7 +9916,7 @@
   {
     "trackId": 1212201213,
     "region": "us",
-    "timestamp": 1794286670366,
+    "timestamp": 1794318757010,
     "discounts": [],
     "price": 12.99,
     "formattedPrice": "$12.99",
@@ -12615,7 +12627,7 @@
   {
     "trackId": 1450908177,
     "region": "us",
-    "timestamp": 1794011332916,
+    "timestamp": 1794318757010,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -13952,7 +13964,7 @@
   {
     "trackId": 1499001662,
     "region": "us",
-    "timestamp": 1793501604822,
+    "timestamp": 1794318757010,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "$4.99",
@@ -16237,6 +16249,18 @@
     "firstRecordedAt": 1745328692670
   },
   {
+    "trackId": 1582355047,
+    "region": "us",
+    "timestamp": 1794318757010,
+    "discounts": [],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1582355047",
+    "trackName": "Hacker Başlangıç",
+    "firstRecordedAt": 1794318757010
+  },
+  {
     "trackId": 1586126746,
     "region": "us",
     "timestamp": 1790047846706,
@@ -17730,7 +17754,7 @@
   {
     "trackId": 1642733080,
     "region": "us",
-    "timestamp": 1794131413359,
+    "timestamp": 1794318757010,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "$4.99",
@@ -24486,10 +24510,10 @@
   {
     "trackId": 6758201392,
     "region": "us",
-    "timestamp": 1780372658995,
+    "timestamp": 1794318757010,
     "discounts": [],
-    "price": 8.99,
-    "formattedPrice": "$8.99",
+    "price": 7.99,
+    "formattedPrice": "$7.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6758201392",
     "trackName": "Slime Rancher",
@@ -27028,6 +27052,18 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id6827745244",
     "trackName": "Vize: Yaşam Simülasyonu",
     "firstRecordedAt": 1793818693473
+  },
+  {
+    "trackId": 6828383349,
+    "region": "us",
+    "timestamp": 1794318757010,
+    "discounts": [],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6828383349",
+    "trackName": "DuoFridge",
+    "firstRecordedAt": 1794318757010
   },
   {
     "trackId": 6828960722,

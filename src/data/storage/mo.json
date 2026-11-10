@@ -58540,6 +58540,27 @@
       ]
     ]
   },
+  "892347083": {
+    "name": "FORScan Lite - for Ford, Mazda",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794318757010,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "892542000": {
     "name": "Board Game Stats",
     "maxPriceInfo": {
@@ -154965,6 +154986,27 @@
       ]
     ]
   },
+  "1582355047": {
+    "name": "Hacker Başlangıç",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794318757010,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1586126746": {
     "name": "Labyrinth City",
     "maxPriceInfo": {
@@ -212682,6 +212724,14 @@
     "history": [
       [
         {
+          "timestamp": 1794318757010,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1780335522977,
           "price": 8.99,
           "formattedPrice": "USD 8.99",
@@ -220127,6 +220177,27 @@
           "timestamp": 1794267500104,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6828383349": {
+    "name": "DuoFridge",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794318757010,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
           "inAppPurchases": {}
         }
       ]

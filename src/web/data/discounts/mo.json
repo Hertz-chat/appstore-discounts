@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6471594918,
+    "region": "mo",
+    "timestamp": 1794286670366,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 9.99",
+        "to": "USD 4.99",
+        "range": "[免費 ~ USD 9.99]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "USD 4.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6471594918",
+    "trackName": "Just a Simple Image Converter",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6755103808,
+    "region": "mo",
+    "timestamp": 1794286670366,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "繪畫工具套裝",
+        "from": "USD 5.99",
+        "to": "USD 5.49",
+        "range": "[USD 5.49 ~ USD 5.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6755103808",
+    "trackName": "VoidLink - Extreme",
+    "firstRecordedAt": 1772052197068
+  },
+  {
     "trackId": 1591620171,
     "region": "mo",
     "timestamp": 1794267500104,

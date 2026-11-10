@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 6471594918,
+    "region": "pt",
+    "timestamp": 1794286670366,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "5,99 €",
+        "range": "[Gratuito ~ 9,99 €]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "5,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6471594918",
+    "trackName": "Just a Simple Image Converter",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6755103808,
+    "region": "pt",
+    "timestamp": 1794286670366,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Drawing Toolkit",
+        "from": "6,99 €",
+        "to": "5,99 €",
+        "range": "[5,99 € ~ 6,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6755103808",
+    "trackName": "VoidLink - Extreme",
+    "firstRecordedAt": 1772052197068
+  },
+  {
+    "trackId": 6758999138,
+    "region": "pt",
+    "timestamp": 1794286670366,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "4,99 €",
+        "range": "[4,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "4,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6758999138",
+    "trackName": "Knightica",
+    "firstRecordedAt": 1792846729867
+  },
+  {
     "trackId": 525818839,
     "region": "pt",
     "timestamp": 1794267500104,

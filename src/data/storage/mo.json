@@ -96761,6 +96761,14 @@
     "history": [
       [
         {
+          "timestamp": 1794286670366,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -186054,6 +186062,14 @@
     "history": [
       [
         {
+          "timestamp": 1794286670366,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793380885407,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -207421,8 +207437,8 @@
   "6755103808": {
     "name": "VoidLink - Extreme",
     "maxPriceInfo": {
-      "price": 1.49,
-      "formattedPrice": "USD 1.49",
+      "price": 1.99,
+      "formattedPrice": "USD 1.99",
       "Pencil Pro Pack": "USD 5.99",
       "繪畫工具套裝": "USD 5.99"
     },
@@ -207430,9 +207446,19 @@
       "price": 1.49,
       "formattedPrice": "USD 1.49",
       "Pencil Pro Pack": "USD 5.99",
-      "繪畫工具套裝": "USD 5.99"
+      "繪畫工具套裝": "USD 5.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794286670366,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "繪畫工具套裝": "USD 5.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772419456897,

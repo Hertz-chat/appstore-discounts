@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 6471594918,
+    "region": "us",
+    "timestamp": 1794286670366,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$4.99",
+        "range": "[Free ~ $9.99]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "$4.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6471594918",
+    "trackName": "Just a Simple Image Converter",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6474541983,
+    "region": "us",
+    "timestamp": 1794286670366,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$6.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $6.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6474541983",
+    "trackName": "Children of Morta",
+    "firstRecordedAt": 1763130406035
+  },
+  {
+    "trackId": 6755103808,
+    "region": "us",
+    "timestamp": 1794286670366,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Drawing Toolkit",
+        "from": "$5.99",
+        "to": "$5.49",
+        "range": "[$5.49 ~ $5.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6755103808",
+    "trackName": "VoidLink - Extreme",
+    "firstRecordedAt": 1772052197068
+  },
+  {
     "trackId": 1591620171,
     "region": "us",
     "timestamp": 1794267500104,
@@ -5605,7 +5665,7 @@
         "name": "Price",
         "from": "$6.99",
         "to": "$2.99",
-        "range": "[$2.99 ~ $6.99]"
+        "range": "[$1.99 ~ $6.99]"
       }
     ],
     "price": 2.99,
@@ -12534,7 +12594,7 @@
         "name": "Price",
         "from": "$6.99",
         "to": "$2.99",
-        "range": "[$2.99 ~ $6.99]"
+        "range": "[$1.99 ~ $6.99]"
       }
     ],
     "price": 2.99,
@@ -18127,7 +18187,7 @@
         "name": "Price",
         "from": "$6.99",
         "to": "$2.99",
-        "range": "[$2.99 ~ $6.99]"
+        "range": "[$1.99 ~ $6.99]"
       }
     ],
     "price": 2.99,
@@ -23445,7 +23505,7 @@
         "name": "Price",
         "from": "$6.99",
         "to": "$2.99",
-        "range": "[$2.99 ~ $6.99]"
+        "range": "[$1.99 ~ $6.99]"
       }
     ],
     "price": 2.99,
@@ -27722,7 +27782,7 @@
         "name": "Price",
         "from": "$6.99",
         "to": "$2.99",
-        "range": "[$2.99 ~ $6.99]"
+        "range": "[$1.99 ~ $6.99]"
       }
     ],
     "price": 2.99,

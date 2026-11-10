@@ -10729,6 +10729,14 @@
     "history": [
       [
         {
+          "timestamp": 1794344679438,
+          "price": 999.99,
+          "formattedPrice": "₺999,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787411997217,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -22313,6 +22321,25 @@
       "FL Cloud Mobile": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794344679438,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "₺49,99",
+            "Sliced Beats": "₺49,99",
+            "Varazdin Orchestral Mobile": "₺199,99",
+            "FL Cloud Mobile": "₺799,99",
+            "Voices": "₺49,99",
+            "Amped Guitar & Bass": "₺149,99",
+            "Hyper-Pop Mobile": "₺149,99",
+            "Synth Lead": "₺99,99",
+            "PsyTrance": "₺149,99",
+            "Acoustic Guitars": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794194439896,
@@ -142312,6 +142339,27 @@
       ]
     ]
   },
+  "1359584622": {
+    "name": "小學初階數學",
+    "maxPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794344679438,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1359652100": {
     "name": "Dungeon Maker : Dark Lord",
     "maxPriceInfo": {
@@ -196674,6 +196722,25 @@
     "history": [
       [
         {
+          "timestamp": 1794344679438,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Sandrock Deputy": "₺49,99",
+            "Blue Elegance": "₺49,99",
+            "Wandering Heart": "₺49,99",
+            "Stripy Neatness": "₺49,99",
+            "Charming Spirit": "₺49,99",
+            "Futurewave": "₺49,99",
+            "Extra Drippy": "₺49,99",
+            "Innocent Memory": "₺49,99",
+            "Country Passion": "₺49,99",
+            "Comfy Jamjams": "₺49,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794318757010,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -218753,6 +218820,16 @@
       "Mr. X Nightmare DLC": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794344679438,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793840903622,
@@ -272408,6 +272485,14 @@
     "history": [
       [
         {
+          "timestamp": 1794344679438,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790885290521,
           "price": 299.99,
           "formattedPrice": "₺299,99",
@@ -304198,6 +304283,48 @@
           "timestamp": 1794318757010,
           "price": 99.99,
           "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6752607219": {
+    "name": "Warhammer Survivors",
+    "maxPriceInfo": {
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
+    },
+    "minPriceInfo": {
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794344679438,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6829459666": {
+    "name": "Phone Shop Simulator",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794344679438,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
           "inAppPurchases": {}
         }
       ]

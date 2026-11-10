@@ -14867,6 +14867,14 @@
     "history": [
       [
         {
+          "timestamp": 1794344679438,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787411997217,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -37445,6 +37453,25 @@
       "Calendars - Eredivisie Handball Women Netherlands 2015-2016 edition": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794344679438,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "+800 Emoji Stickers": "$0.99",
+            "AEX Company Calendars": "$2.99",
+            "DAX Company Calendars": "$2.99",
+            "FTSE 100 Company Calendars": "$2.99",
+            "DJ 30 Company Calendars": "$2.99",
+            "Religious holidays": "$0.99",
+            "AMX Company Calendars": "$2.99",
+            "BEL 20 Company Calendars": "$2.99",
+            "CAC 40 Company Calendars": "$2.99",
+            "NASDAQ 100 Company Calendars": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793130591753,
@@ -91698,6 +91725,25 @@
       "Subscription Ticket 6~10": "$8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794344679438,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Music Collection 01": "$1.99",
+            "Music Collection  02": "$1.99",
+            "Forever friends": "$6.99",
+            "Subscription Ticket 1~5": "$8.99",
+            "Music Collection 03": "$2.99",
+            "Music Collection 04": "$2.99",
+            "Music collection sp01": "$0.00",
+            "Music collection 05": "$1.99",
+            "Music collection 06": "$1.99",
+            "Subscription Ticket 6~10": "$8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791131403610,
@@ -157430,6 +157476,27 @@
       ]
     ]
   },
+  "1359584622": {
+    "name": "小學初階數學",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794344679438,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1359652100": {
     "name": "Dungeon Maker : Dark Lord",
     "maxPriceInfo": {
@@ -205657,6 +205724,23 @@
     "history": [
       [
         {
+          "timestamp": 1794344679438,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Tamer Kit": "$0.99",
+            "Master Package": "$19.99",
+            "Prime Gemma 2500": "$19.99",
+            "Prime Gemma 1200": "$9.99",
+            "Starter Package": "$4.99",
+            "Prime Gemma 500": "$4.99",
+            "Hunter Package": "$9.99",
+            "Prime gemma 100": "$0.99",
+            "Evoker Kit": "$0.99",
+            "Prime Dimension DLC": "$6.99"
+          }
+        },
+        {
           "timestamp": 1794318757010,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -250244,6 +250328,16 @@
     "history": [
       [
         {
+          "timestamp": 1794344679438,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793872776771,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -263509,6 +263603,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794344679438,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Season Pass": "$6.99",
+            "Autonomy": "$2.99",
+            "Time Flow": "$2.99",
+            "Wedding Pack": "$4.99",
+            "Neo Package": "$4.99",
+            "Character Pass": "$11.99",
+            "Nurse Pack": "$4.99",
+            "Corrupted Pack": "$6.99",
+            "Uniform Pack": "$3.99",
+            "Monster Pack": "$19.99"
+          }
+        },
         {
           "timestamp": 1794318757010,
           "price": 4.99,
@@ -328907,6 +329018,14 @@
     "history": [
       [
         {
+          "timestamp": 1794344679438,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790885290521,
           "price": 5.99,
           "formattedPrice": "$5.99",
@@ -350624,7 +350743,8 @@
       "BLACK WHITE KITTY FISH": "$1.99",
       "BAT FISH": "$1.99",
       "ROBO FISH 06": "$1.99",
-      "BLACK VAMPIRE": "$1.99"
+      "BLACK VAMPIRE": "$1.99",
+      "ROBO FISH 05": "$1.99"
     },
     "minPriceInfo": {
       "price": 1.69,
@@ -350674,9 +350794,29 @@
       "BLACK WHITE KITTY FISH": "$1.99",
       "BAT FISH": "$1.99",
       "ROBO FISH 06": "$1.99",
-      "BLACK VAMPIRE": "$1.99"
+      "BLACK VAMPIRE": "$1.99",
+      "ROBO FISH 05": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794344679438,
+          "price": 3.49,
+          "formattedPrice": "$3.49",
+          "inAppPurchases": {
+            "BLACK KITTY FISH": "$1.99",
+            "ROBO FISH 02": "$1.99",
+            "ROBO FISH 01": "$1.99",
+            "ROBO FISH 03": "$1.99",
+            "ROBO FISH 04": "$1.99",
+            "ROBO FISH 05": "$1.99",
+            "ROBO FISH 06": "$1.99",
+            "WHITE KITTY FISH": "$1.99",
+            "ORANGE & WHITE KITTY FISH": "$1.99",
+            "RED RYUKIN": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794194439896,
@@ -368125,6 +368265,48 @@
           "timestamp": 1794318757010,
           "price": 1.99,
           "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6752607219": {
+    "name": "Warhammer Survivors",
+    "maxPriceInfo": {
+      "price": 7.19,
+      "formattedPrice": "$7.19"
+    },
+    "minPriceInfo": {
+      "price": 7.19,
+      "formattedPrice": "$7.19"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794344679438,
+          "price": 7.19,
+          "formattedPrice": "$7.19",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6829459666": {
+    "name": "Phone Shop Simulator",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794344679438,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
           "inAppPurchases": {}
         }
       ]

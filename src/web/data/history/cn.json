@@ -9085,6 +9085,14 @@
     "history": [
       [
         {
+          "timestamp": 1794344679438,
+          "price": 148,
+          "formattedPrice": "¥148.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787411997217,
           "price": 38,
           "formattedPrice": "¥38.00",
@@ -9401,6 +9409,25 @@
       "Sousa: The Mutopia Collection": "¥0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794344679438,
+          "price": 168,
+          "formattedPrice": "¥168.00",
+          "inAppPurchases": {
+            "forScore Pro": "¥98.00",
+            "Brahms: The Mutopia Collection": "¥0.00",
+            "Liszt: The Mutopia Collection": "¥0.00",
+            "Verdi: The Mutopia Collection": "¥0.00",
+            "Burgmüller: The Mutopia Collection": "¥0.00",
+            "Schumann: The Mutopia Collection": "¥0.00",
+            "forScore Pro 30-Day Pass": "¥22.00",
+            "Tchaikovsky: The Mutopia Collection": "¥0.00",
+            "Haydn: The Mutopia Collection": "¥0.00",
+            "Rameau: The Mutopia Collection": "¥0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793959313216,
@@ -20921,6 +20948,25 @@
       "FL Cloud Mobile": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794344679438,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "¥8.00",
+            "Acoustic Guitars": "¥8.00",
+            "Amped Guitar & Bass": "¥22.00",
+            "Varazdin Orchestral Mobile": "¥28.00",
+            "Voices": "¥8.00",
+            "Synth Lead": "¥15.00",
+            "Sliced Beats": "¥8.00",
+            "Synth Plucks": "¥15.00",
+            "Groove Machine Synth": "¥0.00",
+            "Essential Strings": "¥15.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794131413359,
@@ -108118,6 +108164,29 @@
       ]
     ]
   },
+  "1359584622": {
+    "trackId": 1359584622,
+    "trackName": "小學初階數學",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794344679438,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1361473095": {
     "trackId": 1361473095,
     "trackName": "喵斯快跑",
@@ -155028,6 +155097,25 @@
     "history": [
       [
         {
+          "timestamp": 1794344679438,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "6元满级武器礼包": "¥6.00",
+            "30元月卡": "¥30.00",
+            "18元每日系统经验礼包": "¥18.00",
+            "98元永久通行证": "¥98.00",
+            "6元每日电量礼包": "¥6.00",
+            "12元每日活跃数据礼包": "¥12.00",
+            "6元皮肤礼包1": "¥6.00",
+            "30元快递券礼包": "¥30.00",
+            "98元每月限时皮肤礼包": "¥98.00",
+            "108每月签名皮肤礼包": "¥108.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794267500104,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -190435,6 +190523,25 @@
       "五子良将": "¥36.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794344679438,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {
+            "自创武将": "¥18.00",
+            "战国七雄": "¥28.00",
+            "群雄争霸": "¥14.00",
+            "楚汉争霸": "¥28.00",
+            "自创地图": "¥24.00",
+            "重振汉室": "¥14.00",
+            "自创武将朝代特色兵种补丁": "¥48.00",
+            "无双战神": "¥28.00",
+            "斜谷残阳": "¥28.00",
+            "终身版": "¥45.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794318757010,

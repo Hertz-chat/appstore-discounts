@@ -1038,10 +1038,10 @@
   {
     "trackId": 355460798,
     "region": "tr",
-    "timestamp": 1787411997217,
+    "timestamp": 1794344679438,
     "discounts": [],
-    "price": 249.99,
-    "formattedPrice": "₺249,99",
+    "price": 999.99,
+    "formattedPrice": "₺999,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id355460798",
     "trackName": "Inspire Pro",
@@ -2209,7 +2209,7 @@
   {
     "trackId": 432850619,
     "region": "tr",
-    "timestamp": 1794194439896,
+    "timestamp": 1794344679438,
     "discounts": [],
     "price": 399.99,
     "formattedPrice": "₺399,99",
@@ -11285,6 +11285,18 @@
     "firstRecordedAt": 1745328692670
   },
   {
+    "trackId": 1359584622,
+    "region": "tr",
+    "timestamp": 1794344679438,
+    "discounts": [],
+    "price": 249.99,
+    "formattedPrice": "₺249,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1359584622",
+    "trackName": "小學初階數學",
+    "firstRecordedAt": 1794344679438
+  },
+  {
     "trackId": 1359652100,
     "region": "tr",
     "timestamp": 1793927683912,
@@ -15493,7 +15505,7 @@
   {
     "trackId": 1555184523,
     "region": "tr",
-    "timestamp": 1794318757010,
+    "timestamp": 1794344679438,
     "discounts": [],
     "price": 399.99,
     "formattedPrice": "₺399,99",
@@ -16732,10 +16744,10 @@
   {
     "trackId": 1601446687,
     "region": "tr",
-    "timestamp": 1793840903622,
+    "timestamp": 1794344679438,
     "discounts": [],
-    "price": 49.99,
-    "formattedPrice": "₺49,99",
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id1601446687",
     "trackName": "Streets of Rage 4",
@@ -20128,10 +20140,10 @@
   {
     "trackId": 6478398981,
     "region": "tr",
-    "timestamp": 1790885290521,
+    "timestamp": 1794344679438,
     "discounts": [],
-    "price": 299.99,
-    "formattedPrice": "₺299,99",
+    "price": 249.99,
+    "formattedPrice": "₺249,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6478398981",
     "trackName": "IPTV Smart Pro - 4K Live TV",
@@ -23546,6 +23558,18 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6752598693",
     "trackName": "Screw Pin Jam Puzzle: Wood",
     "firstRecordedAt": 1766845506998
+  },
+  {
+    "trackId": 6752607219,
+    "region": "tr",
+    "timestamp": 1794344679438,
+    "discounts": [],
+    "price": 399.99,
+    "formattedPrice": "₺399,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6752607219",
+    "trackName": "Warhammer Survivors",
+    "firstRecordedAt": 1794344679438
   },
   {
     "trackId": 6752662508,
@@ -27088,6 +27112,18 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6828960722",
     "trackName": "Grounds Up: Business Tycoon",
     "firstRecordedAt": 1794043335284
+  },
+  {
+    "trackId": 6829459666,
+    "region": "tr",
+    "timestamp": 1794344679438,
+    "discounts": [],
+    "price": 9.99,
+    "formattedPrice": "₺9,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6829459666",
+    "trackName": "Phone Shop Simulator",
+    "firstRecordedAt": 1794344679438
   },
   {
     "trackId": 6830479627,

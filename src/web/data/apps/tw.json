@@ -1038,10 +1038,10 @@
   {
     "trackId": 355460798,
     "region": "tw",
-    "timestamp": 1787411997217,
+    "timestamp": 1794344679438,
     "discounts": [],
-    "price": 150,
-    "formattedPrice": "$150.00",
+    "price": 690,
+    "formattedPrice": "$690.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id355460798",
     "trackName": "Inspire Pro",
@@ -2969,7 +2969,7 @@
   {
     "trackId": 491231653,
     "region": "tw",
-    "timestamp": 1793786660480,
+    "timestamp": 1794344679438,
     "discounts": [],
     "price": 60,
     "formattedPrice": "$60.00",
@@ -5050,7 +5050,7 @@
   {
     "trackId": 700637744,
     "region": "tw",
-    "timestamp": 1794318757010,
+    "timestamp": 1794344679438,
     "discounts": [],
     "price": 60,
     "formattedPrice": "$60.00",
@@ -7411,10 +7411,10 @@
   {
     "trackId": 1001096601,
     "region": "tw",
-    "timestamp": 1793208660555,
+    "timestamp": 1794344679438,
     "discounts": [],
-    "price": 33,
-    "formattedPrice": "$33.00",
+    "price": 130,
+    "formattedPrice": "$130.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1001096601",
     "trackName": "1941 Frozen Front Premium",
@@ -10723,10 +10723,10 @@
   {
     "trackId": 1298544927,
     "region": "tw",
-    "timestamp": 1793653056000,
+    "timestamp": 1794344679438,
     "discounts": [],
-    "price": 60,
-    "formattedPrice": "$60.00",
+    "price": 90,
+    "formattedPrice": "$90.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1298544927",
     "trackName": "My Child Lebensborn",
@@ -11295,6 +11295,18 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id1359107338",
     "trackName": "Catch the Easter Bunny",
     "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1359584622,
+    "region": "tw",
+    "timestamp": 1794344679438,
+    "discounts": [],
+    "price": 150,
+    "formattedPrice": "$150.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1359584622",
+    "trackName": "小學初階數學",
+    "firstRecordedAt": 1794344679438
   },
   {
     "trackId": 1359652100,
@@ -16828,10 +16840,10 @@
   {
     "trackId": 1601446687,
     "region": "tw",
-    "timestamp": 1793818693473,
+    "timestamp": 1794344679438,
     "discounts": [],
-    "price": 30,
-    "formattedPrice": "$30.00",
+    "price": 60,
+    "formattedPrice": "$60.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1601446687",
     "trackName": "Streets of Rage 4",
@@ -17490,10 +17502,10 @@
   {
     "trackId": 1625083646,
     "region": "tw",
-    "timestamp": 1793208660555,
+    "timestamp": 1794344679438,
     "discounts": [],
-    "price": 55,
-    "formattedPrice": "$55.00",
+    "price": 330,
+    "formattedPrice": "$330.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1625083646",
     "trackName": "Endling",
@@ -20320,10 +20332,10 @@
   {
     "trackId": 6478398981,
     "region": "tw",
-    "timestamp": 1790885290521,
+    "timestamp": 1794344679438,
     "discounts": [],
-    "price": 190,
-    "formattedPrice": "$190.00",
+    "price": 150,
+    "formattedPrice": "$150.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6478398981",
     "trackName": "直播 - IPTV Smart Pro",
@@ -23946,6 +23958,18 @@
     "firstRecordedAt": 1766845506998
   },
   {
+    "trackId": 6752607219,
+    "region": "tw",
+    "timestamp": 1794344679438,
+    "discounts": [],
+    "price": 250,
+    "formattedPrice": "$250.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6752607219",
+    "trackName": "Warhammer Survivors",
+    "firstRecordedAt": 1794344679438
+  },
+  {
     "trackId": 6752662508,
     "region": "tw",
     "timestamp": 1791207805972,
@@ -27443,6 +27467,18 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id6828960722",
     "trackName": "Grounds Up: Business Tycoon",
     "firstRecordedAt": 1794043335284
+  },
+  {
+    "trackId": 6829459666,
+    "region": "tw",
+    "timestamp": 1794344679438,
+    "discounts": [],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6829459666",
+    "trackName": "Telefoncu Simülatörü",
+    "firstRecordedAt": 1794344679438
   },
   {
     "trackId": 6830479627,

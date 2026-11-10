@@ -8126,6 +8126,14 @@
     "history": [
       [
         {
+          "timestamp": 1794344679438,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787411997217,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -72136,6 +72144,20 @@
     "history": [
       [
         {
+          "timestamp": 1794344679438,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "700,000資金": "USD 89.99",
+            "325,000資金": "USD 44.99",
+            "125,000資金": "USD 17.99",
+            "60,000資金": "USD 8.99",
+            "25,000資金": "USD 3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793208660555,
           "price": 0.79,
           "formattedPrice": "USD 0.79",
@@ -105166,6 +105188,14 @@
     "history": [
       [
         {
+          "timestamp": 1794344679438,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793653056000,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -109559,6 +109589,27 @@
           "timestamp": 1745328692670,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1359584622": {
+    "name": "小學初階數學",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794344679438,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
           "inAppPurchases": {}
         }
       ]
@@ -154989,14 +155040,22 @@
   "1582355047": {
     "name": "Hacker Başlangıç",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794344679438,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794318757010,
@@ -161541,6 +161600,16 @@
     "history": [
       [
         {
+          "timestamp": 1794344679438,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793818693473,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -166820,6 +166889,14 @@
       "formattedPrice": "USD 0.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794344679438,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793208660555,
@@ -193208,6 +193285,14 @@
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794344679438,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790885290521,
@@ -220198,6 +220283,48 @@
           "timestamp": 1794318757010,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6752607219": {
+    "name": "Warhammer Survivors",
+    "maxPriceInfo": {
+      "price": 7.19,
+      "formattedPrice": "USD 7.19"
+    },
+    "minPriceInfo": {
+      "price": 7.19,
+      "formattedPrice": "USD 7.19"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794344679438,
+          "price": 7.19,
+          "formattedPrice": "USD 7.19",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6829459666": {
+    "name": "Telefoncu Simülatörü",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794344679438,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
         }
       ]

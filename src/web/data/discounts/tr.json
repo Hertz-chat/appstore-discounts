@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1591620171,
+    "region": "tr",
+    "timestamp": 1794267500104,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Lifetime",
+        "from": "₺249,99",
+        "to": "₺149,99",
+        "range": "[₺129,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1591620171",
+    "trackName": "Stay for Safari",
+    "firstRecordedAt": 1730693617795
+  },
+  {
+    "trackId": 6474541983,
+    "region": "tr",
+    "timestamp": 1794267500104,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺399,99",
+        "to": "₺49,99",
+        "range": "[₺49,99 ~ ₺399,99]"
+      }
+    ],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6474541983",
+    "trackName": "Children of Morta",
+    "firstRecordedAt": 1763130406035
+  },
+  {
     "trackId": 954982733,
     "region": "tr",
     "timestamp": 1794234717577,
@@ -277,7 +317,7 @@
         "name": "Price",
         "from": "₺199,99",
         "to": "₺49,99",
-        "range": "[₺29,99 ~ ₺199,99]"
+        "range": "[₺29,99 ~ ₺249,99]"
       }
     ],
     "price": 49.99,
@@ -2129,7 +2169,7 @@
         "name": "Price",
         "from": "₺149,99",
         "to": "₺49,99",
-        "range": "[₺29,99 ~ ₺199,99]"
+        "range": "[₺29,99 ~ ₺249,99]"
       }
     ],
     "price": 49.99,
@@ -3840,7 +3880,7 @@
         "name": "Price",
         "from": "₺149,99",
         "to": "₺49,99",
-        "range": "[₺29,99 ~ ₺199,99]"
+        "range": "[₺29,99 ~ ₺249,99]"
       }
     ],
     "price": 49.99,
@@ -5973,7 +6013,7 @@
         "name": "Price",
         "from": "₺399,99",
         "to": "₺149,99",
-        "range": "[₺149,99 ~ ₺399,99]"
+        "range": "[₺49,99 ~ ₺399,99]"
       }
     ],
     "price": 149.99,
@@ -6093,7 +6133,7 @@
         "name": "Price",
         "from": "₺149,99",
         "to": "₺49,99",
-        "range": "[₺29,99 ~ ₺199,99]"
+        "range": "[₺29,99 ~ ₺249,99]"
       }
     ],
     "price": 49.99,
@@ -8580,7 +8620,7 @@
         "name": "Price",
         "from": "₺149,99",
         "to": "₺29,99",
-        "range": "[₺29,99 ~ ₺199,99]"
+        "range": "[₺29,99 ~ ₺249,99]"
       }
     ],
     "price": 29.99,
@@ -10630,7 +10670,7 @@
         "name": "Price",
         "from": "₺499,99",
         "to": "₺399,99",
-        "range": "[₺199,99 ~ ₺499,99]"
+        "range": "[₺199,99 ~ ₺799,99]"
       }
     ],
     "price": 399.99,
@@ -11621,7 +11661,7 @@
         "name": "Price",
         "from": "₺99,99",
         "to": "₺49,99",
-        "range": "[₺29,99 ~ ₺199,99]"
+        "range": "[₺29,99 ~ ₺249,99]"
       }
     ],
     "price": 49.99,
@@ -12742,7 +12782,7 @@
         "name": "Price",
         "from": "₺399,99",
         "to": "₺149,99",
-        "range": "[₺149,99 ~ ₺399,99]"
+        "range": "[₺49,99 ~ ₺399,99]"
       }
     ],
     "price": 149.99,
@@ -12862,7 +12902,7 @@
         "name": "Price",
         "from": "₺199,99",
         "to": "₺99,99",
-        "range": "[₺29,99 ~ ₺199,99]"
+        "range": "[₺29,99 ~ ₺249,99]"
       }
     ],
     "price": 99.99,
@@ -12969,7 +13009,7 @@
     "formattedPrice": "Free",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6462841384",
-    "trackName": "香港基本法和國安法筆試",
+    "trackName": "香港基本法及國安法筆試",
     "firstRecordedAt": 1770886651190
   },
   {
@@ -14816,7 +14856,7 @@
         "name": "Price",
         "from": "₺99,99",
         "to": "₺49,99",
-        "range": "[₺29,99 ~ ₺199,99]"
+        "range": "[₺29,99 ~ ₺249,99]"
       }
     ],
     "price": 49.99,
@@ -18433,7 +18473,7 @@
         "name": "Price",
         "from": "₺399,99",
         "to": "₺149,99",
-        "range": "[₺149,99 ~ ₺399,99]"
+        "range": "[₺49,99 ~ ₺399,99]"
       }
     ],
     "price": 149.99,
@@ -24076,7 +24116,7 @@
         "name": "Price",
         "from": "₺399,99",
         "to": "₺149,99",
-        "range": "[₺149,99 ~ ₺399,99]"
+        "range": "[₺49,99 ~ ₺399,99]"
       }
     ],
     "price": 149.99,
@@ -28430,7 +28470,7 @@
         "name": "Price",
         "from": "₺399,99",
         "to": "₺149,99",
-        "range": "[₺149,99 ~ ₺399,99]"
+        "range": "[₺49,99 ~ ₺399,99]"
       }
     ],
     "price": 149.99,

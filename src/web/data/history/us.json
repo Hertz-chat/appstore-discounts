@@ -44605,7 +44605,7 @@
   },
   "499470113": {
     "trackId": 499470113,
-    "trackName": "FE File Explorer",
+    "trackName": "FE File Explorer - SMB & FTP",
     "region": "us",
     "maxPriceInfo": {
       "price": 4.99,
@@ -62840,6 +62840,25 @@
     "history": [
       [
         {
+          "timestamp": 1794267500104,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Adult Supervision": "$1.99",
+            "Just For Kids": "$0.00",
+            "Happy Holidays": "$1.99",
+            "Mix It Up": "$0.00",
+            "That's So 90s": "$1.99",
+            "The Ellen Show": "$0.00",
+            "Food Fight": "$1.99",
+            "Adult Supervision 2: Even Adultier": "$1.99",
+            "Branded": "$1.99",
+            "Adults Only! Bundle": "$7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794194439896,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -66751,6 +66770,25 @@
       "Toyota 2018 Enhanced": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2017 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2019 Enhanced": "$14.99",
+            "Ford 2013 Enhanced Diagnostics": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794194439896,
@@ -246427,6 +246465,16 @@
     "history": [
       [
         {
+          "timestamp": 1794267500104,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1763138033698,
           "price": 0,
           "formattedPrice": "Free",
@@ -350835,14 +350883,22 @@
     "trackName": "Parachute Backup Mobile",
     "region": "us",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "$9.99"
+      "price": 14.99,
+      "formattedPrice": "$14.99"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785638610705,
@@ -353043,7 +353099,7 @@
   },
   "6462841384": {
     "trackId": 6462841384,
-    "trackName": "香港基本法和國安法筆試",
+    "trackName": "香港基本法及國安法筆試",
     "region": "us",
     "maxPriceInfo": {
       "price": 4.99,
@@ -363993,8 +364049,8 @@
     "trackName": "Digline: Cozy Mining",
     "region": "us",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "$3.99",
+      "price": 4.99,
+      "formattedPrice": "$4.99",
       "+200 fuel to storage": "$4.99",
       "+75 fuel to storage": "$2.99",
       "20 fuel to storage": "$0.99"
@@ -364007,6 +364063,14 @@
       "20 fuel to storage": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793990259190,
@@ -368983,6 +369047,23 @@
     "history": [
       [
         {
+          "timestamp": 1794267500104,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "ALL HEROES BUNDLE": "$24.99",
+            "Tower Alchemist": "$2.99",
+            "Hero Ignus": "$2.99",
+            "Tower Sniper": "$5.99",
+            "Tower Wildcat": "$4.99",
+            "Hero Oni": "$4.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Gems Pouch": "$4.99"
+          }
+        },
+        {
           "timestamp": 1794234717577,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -370492,6 +370573,14 @@
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792934734921,
@@ -372150,6 +372239,75 @@
           "timestamp": 1794234717577,
           "price": 2.99,
           "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6827445474": {
+    "trackId": 6827445474,
+    "trackName": "FoldTick",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6816793607": {
+    "trackId": 6816793607,
+    "trackName": "GigClick: Metronome, Setlist",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6826404492": {
+    "trackId": 6826404492,
+    "trackName": "Aşçı: Chasing the Dream",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
           "inAppPurchases": {}
         }
       ]

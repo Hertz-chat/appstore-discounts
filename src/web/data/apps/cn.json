@@ -2109,7 +2109,7 @@
     "formattedPrice": "¥38.00",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id499470113",
-    "trackName": "FE文件管理器",
+    "trackName": "FE文件管理器 - SMB，FTP，SFTP和网盘",
     "firstRecordedAt": 1745578938597
   },
   {
@@ -10092,7 +10092,7 @@
   {
     "trackId": 1591620171,
     "region": "cn",
-    "timestamp": 1790828594798,
+    "timestamp": 1794267500104,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免费",
@@ -10200,10 +10200,10 @@
   {
     "trackId": 1600925588,
     "region": "cn",
-    "timestamp": 1794043335284,
+    "timestamp": 1794267500104,
     "discounts": [],
-    "price": 1,
-    "formattedPrice": "¥1.00",
+    "price": 50,
+    "formattedPrice": "¥50.00",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id1600925588",
     "trackName": "GR Linker - 理光相机传图 Image Sync",
@@ -10526,7 +10526,7 @@
   {
     "trackId": 1621055260,
     "region": "cn",
-    "timestamp": 1794106722002,
+    "timestamp": 1794267500104,
     "discounts": [],
     "price": 1,
     "formattedPrice": "¥1.00",
@@ -11466,7 +11466,7 @@
   {
     "trackId": 6446607609,
     "region": "cn",
-    "timestamp": 1794234717577,
+    "timestamp": 1794267500104,
     "discounts": [],
     "price": 1,
     "formattedPrice": "¥1.00",
@@ -11786,7 +11786,7 @@
     "formattedPrice": "免费",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id6462841384",
-    "trackName": "香港基本法和國安法筆試",
+    "trackName": "香港基本法及國安法筆試",
     "firstRecordedAt": 1770886651190
   },
   {
@@ -14206,10 +14206,10 @@
   {
     "trackId": 6749824842,
     "region": "cn",
-    "timestamp": 1785600007091,
+    "timestamp": 1794267500104,
     "discounts": [],
-    "price": 68,
-    "formattedPrice": "¥68.00",
+    "price": 98,
+    "formattedPrice": "¥98.00",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id6749824842",
     "trackName": "Parachute Backup Mobile",
@@ -16369,6 +16369,18 @@
     "firstRecordedAt": 1791718980381
   },
   {
+    "trackId": 6816793607,
+    "region": "cn",
+    "timestamp": 1794267500104,
+    "discounts": [],
+    "price": 8,
+    "formattedPrice": "¥8.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6816793607",
+    "trackName": "GigClick: Metronome, Setlist",
+    "firstRecordedAt": 1794267500104
+  },
+  {
     "trackId": 6817070335,
     "region": "cn",
     "timestamp": 1792798647744,
@@ -16475,6 +16487,18 @@
     "trackViewUrl": "https://apps.apple.com/cn/app/id6824686276",
     "trackName": "Wider - Fullscreen Browsing",
     "firstRecordedAt": 1793438080874
+  },
+  {
+    "trackId": 6827445474,
+    "region": "cn",
+    "timestamp": 1794267500104,
+    "discounts": [],
+    "price": 8,
+    "formattedPrice": "¥8.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6827445474",
+    "trackName": "FoldTick",
+    "firstRecordedAt": 1794267500104
   },
   {
     "trackId": 6830479627,

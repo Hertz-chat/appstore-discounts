@@ -2160,7 +2160,7 @@
   {
     "trackId": 430270438,
     "region": "tw",
-    "timestamp": 1794194439896,
+    "timestamp": 1794267500104,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -3107,7 +3107,7 @@
     "formattedPrice": "$150.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id499470113",
-    "trackName": "FE File Explorer",
+    "trackName": "FE File Explorer - SMB & FTP",
     "firstRecordedAt": 1745578938597
   },
   {
@@ -8883,7 +8883,7 @@
   {
     "trackId": 1118115766,
     "region": "tw",
-    "timestamp": 1794234717577,
+    "timestamp": 1794267500104,
     "discounts": [],
     "price": 220,
     "formattedPrice": "$220.00",
@@ -10145,7 +10145,7 @@
   {
     "trackId": 1242654932,
     "region": "tw",
-    "timestamp": 1793360824433,
+    "timestamp": 1794267500104,
     "discounts": [],
     "price": 30,
     "formattedPrice": "$30.00",
@@ -13423,7 +13423,7 @@
   {
     "trackId": 1477966166,
     "region": "tw",
-    "timestamp": 1793872776771,
+    "timestamp": 1794267500104,
     "discounts": [],
     "price": 150,
     "formattedPrice": "$150.00",
@@ -16480,7 +16480,7 @@
   {
     "trackId": 1591620171,
     "region": "tw",
-    "timestamp": 1790805284947,
+    "timestamp": 1794267500104,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -19448,7 +19448,7 @@
     "formattedPrice": "免費",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6462841384",
-    "trackName": "香港基本法和國安法筆試",
+    "trackName": "香港基本法及國安法筆試",
     "firstRecordedAt": 1770886651190
   },
   {
@@ -20777,7 +20777,7 @@
   {
     "trackId": 6502623166,
     "region": "tw",
-    "timestamp": 1794234717577,
+    "timestamp": 1794267500104,
     "discounts": [],
     "price": 10,
     "formattedPrice": "$10.00",
@@ -23706,10 +23706,10 @@
   {
     "trackId": 6749824842,
     "region": "tw",
-    "timestamp": 1785600007091,
+    "timestamp": 1794267500104,
     "discounts": [],
-    "price": 320,
-    "formattedPrice": "$320.00",
+    "price": 490,
+    "formattedPrice": "$490.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6749824842",
     "trackName": "Parachute Backup Mobile",
@@ -25513,10 +25513,10 @@
   {
     "trackId": 6760948683,
     "region": "tw",
-    "timestamp": 1793990259190,
+    "timestamp": 1794267500104,
     "discounts": [],
-    "price": 30,
-    "formattedPrice": "$30.00",
+    "price": 150,
+    "formattedPrice": "$150.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6760948683",
     "trackName": "Digline：療癒挖礦",
@@ -26907,7 +26907,7 @@
   {
     "trackId": 6801980968,
     "region": "tw",
-    "timestamp": 1793872776771,
+    "timestamp": 1794267500104,
     "discounts": [],
     "price": 60,
     "formattedPrice": "$60.00",
@@ -27147,10 +27147,10 @@
   {
     "trackId": 6812927976,
     "region": "tw",
-    "timestamp": 1793295722489,
+    "timestamp": 1794267500104,
     "discounts": [],
-    "price": 30,
-    "formattedPrice": "$30.00",
+    "price": 90,
+    "formattedPrice": "$90.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6812927976",
     "trackName": "Enchanted Survival: 刷寶RPG",
@@ -27191,6 +27191,18 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id6814254443",
     "trackName": "Pixel Miner：悠閒挖礦遊戲",
     "firstRecordedAt": 1794234717577
+  },
+  {
+    "trackId": 6816793607,
+    "region": "tw",
+    "timestamp": 1794267500104,
+    "discounts": [],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6816793607",
+    "trackName": "GigClick: Metronome, Setlist",
+    "firstRecordedAt": 1794267500104
   },
   {
     "trackId": 6816896250,
@@ -27347,6 +27359,30 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id6824686276",
     "trackName": "Wider - Fullscreen Browsing",
     "firstRecordedAt": 1793438080874
+  },
+  {
+    "trackId": 6826404492,
+    "region": "tw",
+    "timestamp": 1794267500104,
+    "discounts": [],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6826404492",
+    "trackName": "Aşçı: Hayalin Peşinde",
+    "firstRecordedAt": 1794267500104
+  },
+  {
+    "trackId": 6827445474,
+    "region": "tw",
+    "timestamp": 1794267500104,
+    "discounts": [],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6827445474",
+    "trackName": "FoldTick",
+    "firstRecordedAt": 1794267500104
   },
   {
     "trackId": 6827745244,

@@ -34104,6 +34104,25 @@
     "history": [
       [
         {
+          "timestamp": 1794267500104,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Chapter D": "HK$ 38.00",
+            "Chapter R": "HK$ 38.00",
+            "Chapter 0": "HK$ 38.00",
+            "Chapter L": "HK$ 88.00",
+            "Chapter N": "HK$ 32.00",
+            "Chapter K": "HK$ 38.00",
+            "Chapter T": "HK$ 38.00",
+            "Chapter S": "HK$ 38.00",
+            "Chapter 8": "HK$ 38.00",
+            "Chapter 6": "HK$ 38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794234717577,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -39064,7 +39083,7 @@
     ]
   },
   "499470113": {
-    "name": "FE File Explorer",
+    "name": "FE File Explorer - SMB & FTP",
     "maxPriceInfo": {
       "price": 38,
       "formattedPrice": "HK$ 38.00"
@@ -204745,6 +204764,25 @@
     "history": [
       [
         {
+          "timestamp": 1794267500104,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Ready to Roast": "HK$ 48.00",
+            "Wild World Bundle": "HK$ 48.00",
+            "Surprise Pack 1": "HK$ 98.00",
+            "Surprise Pack 2": "HK$ 98.00",
+            "Sports and Games Pack": "HK$ 58.00",
+            "Celebrity Deck": "HK$ 48.00",
+            "Word Bonanza Bundle": "HK$ 148.00",
+            "Double Mystery Bundle": "HK$ 38.00",
+            "Food and Nature Bundle": "HK$ 38.00",
+            "Sports and Celebrity Bundle": "HK$ 38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793501604822,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -213301,6 +213339,16 @@
     "history": [
       [
         {
+          "timestamp": 1794267500104,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Lifetime": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 0,
           "formattedPrice": "免費",
@@ -217967,6 +218015,14 @@
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794043335284,
@@ -265889,6 +265945,17 @@
     "history": [
       [
         {
+          "timestamp": 1794267500104,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "The Boglands DLC": "HK$ 22.00",
+            "Supporter Pack": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793113178688,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -267257,6 +267324,25 @@
       "Airbus A321 XLR": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 38.00",
+            "The Aircraft Bundle": "HK$ 188.00",
+            "Global scenery - 12 months": "HK$ 148.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Global scenery - 3 months": "HK$ 58.00",
+            "Boeing 747-400": "HK$ 18.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "Airbus A380": "HK$ 18.00",
+            "EC135": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794131413359,
@@ -284214,6 +284300,25 @@
     "history": [
       [
         {
+          "timestamp": 1794267500104,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "328元礼包": "HK$ 388.00",
+            "648元礼包": "HK$ 788.00",
+            "128元礼包": "HK$ 148.00",
+            "98元礼包": "HK$ 118.00",
+            "198元礼包": "HK$ 228.00",
+            "68元礼包": "HK$ 88.00",
+            "60元礼包": "HK$ 68.00",
+            "30元礼包": "HK$ 32.00",
+            "18元礼包": "HK$ 22.00",
+            "6元礼包": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794234717577,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -293604,10 +293709,18 @@
       "formattedPrice": "HK$ 58.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790094096914,
@@ -295877,14 +295990,22 @@
   "6749824842": {
     "name": "Parachute Backup Mobile",
     "maxPriceInfo": {
-      "price": 88,
-      "formattedPrice": "HK$ 88.00"
+      "price": 118,
+      "formattedPrice": "HK$ 118.00"
     },
     "minPriceInfo": {
       "price": 32,
       "formattedPrice": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 118,
+          "formattedPrice": "HK$ 118.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785600007091,
@@ -298236,7 +298357,7 @@
     ]
   },
   "6462841384": {
-    "name": "香港基本法和國安法筆試",
+    "name": "香港基本法及國安法筆試",
     "maxPriceInfo": {
       "price": 38,
       "formattedPrice": "HK$ 38.00"
@@ -305273,6 +305394,14 @@
     "history": [
       [
         {
+          "timestamp": 1794267500104,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793990259190,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -311660,6 +311789,14 @@
     "history": [
       [
         {
+          "timestamp": 1794267500104,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793295722489,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -312507,6 +312644,14 @@
     "history": [
       [
         {
+          "timestamp": 1794267500104,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794194439896,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -313235,6 +313380,69 @@
       [
         {
           "timestamp": 1794234717577,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6827445474": {
+    "name": "FoldTick",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6816793607": {
+    "name": "GigClick: Metronome, Setlist",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6826404492": {
+    "name": "Aşçı: Hayalin Peşinde",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794267500104,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
           "inAppPurchases": {}

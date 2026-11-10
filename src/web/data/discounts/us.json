@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1591620171,
+    "region": "us",
+    "timestamp": 1794267500104,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Lifetime",
+        "from": "$4.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $4.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1591620171",
+    "trackName": "Stay for Safari",
+    "firstRecordedAt": 1726201068727
+  },
+  {
     "trackId": 954982733,
     "region": "us",
     "timestamp": 1794234717577,
@@ -169,7 +189,7 @@
         "name": "Price",
         "from": "$3.99",
         "to": "$0.99",
-        "range": "[$0.99 ~ $3.99]"
+        "range": "[$0.99 ~ $4.99]"
       }
     ],
     "price": 0.99,
@@ -2114,7 +2134,7 @@
         "name": "Price",
         "from": "$2.99",
         "to": "$0.99",
-        "range": "[$0.99 ~ $3.99]"
+        "range": "[$0.99 ~ $4.99]"
       }
     ],
     "price": 0.99,
@@ -3115,7 +3135,7 @@
         "name": "Price",
         "from": "$2.99",
         "to": "$1.99",
-        "range": "[$0.99 ~ $3.99]"
+        "range": "[$0.99 ~ $4.99]"
       }
     ],
     "price": 1.99,
@@ -4721,7 +4741,7 @@
         "name": "Price",
         "from": "$2.99",
         "to": "$0.99",
-        "range": "[$0.99 ~ $3.99]"
+        "range": "[$0.99 ~ $4.99]"
       }
     ],
     "price": 0.99,
@@ -5725,7 +5745,7 @@
         "name": "Price",
         "from": "$2.99",
         "to": "$0.99",
-        "range": "[$0.99 ~ $3.99]"
+        "range": "[$0.99 ~ $4.99]"
       }
     ],
     "price": 0.99,
@@ -8378,7 +8398,7 @@
         "name": "Price",
         "from": "$1.99",
         "to": "$0.99",
-        "range": "[$0.99 ~ $3.99]"
+        "range": "[$0.99 ~ $4.99]"
       }
     ],
     "price": 0.99,
@@ -8979,7 +8999,7 @@
         "name": "Price",
         "from": "$2.99",
         "to": "$1.99",
-        "range": "[$0.99 ~ $3.99]"
+        "range": "[$0.99 ~ $4.99]"
       }
     ],
     "price": 1.99,
@@ -9782,7 +9802,7 @@
         "name": "Price",
         "from": "$2.99",
         "to": "$0.99",
-        "range": "[$0.99 ~ $3.99]"
+        "range": "[$0.99 ~ $4.99]"
       }
     ],
     "price": 0.99,
@@ -10431,7 +10451,7 @@
         "name": "Price",
         "from": "$9.99",
         "to": "$7.99",
-        "range": "[$3.99 ~ $9.99]"
+        "range": "[$3.99 ~ $14.99]"
       }
     ],
     "price": 7.99,
@@ -11382,7 +11402,7 @@
         "name": "Price",
         "from": "$3.99",
         "to": "$0.99",
-        "range": "[$0.99 ~ $3.99]"
+        "range": "[$0.99 ~ $4.99]"
       }
     ],
     "price": 0.99,
@@ -12193,7 +12213,7 @@
         "name": "Price",
         "from": "$3.99",
         "to": "$1.99",
-        "range": "[$0.99 ~ $3.99]"
+        "range": "[$0.99 ~ $4.99]"
       }
     ],
     "price": 1.99,
@@ -12762,7 +12782,7 @@
     "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6462841384",
-    "trackName": "香港基本法和國安法筆試",
+    "trackName": "香港基本法及國安法筆試",
     "firstRecordedAt": 1770886651190
   },
   {
@@ -14435,7 +14455,7 @@
         "name": "Price",
         "from": "$3.99",
         "to": "$0.99",
-        "range": "[$0.99 ~ $3.99]"
+        "range": "[$0.99 ~ $4.99]"
       }
     ],
     "price": 0.99,

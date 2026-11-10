@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1591620171,
+    "region": "tw",
+    "timestamp": 1794267500104,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Lifetime",
+        "from": "$150.00",
+        "to": "$90.00",
+        "range": "[$90.00 ~ $150.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1591620171",
+    "trackName": "Stay for Safari - 使用者腳本與廣告攔截擴充",
+    "firstRecordedAt": 1726201068727
+  },
+  {
     "trackId": 954982733,
     "region": "tw",
     "timestamp": 1794234717577,
@@ -169,7 +189,7 @@
         "name": "Price",
         "from": "$120.00",
         "to": "$30.00",
-        "range": "[$30.00 ~ $120.00]"
+        "range": "[$30.00 ~ $150.00]"
       }
     ],
     "price": 30,
@@ -2114,7 +2134,7 @@
         "name": "Price",
         "from": "$90.00",
         "to": "$30.00",
-        "range": "[$30.00 ~ $120.00]"
+        "range": "[$30.00 ~ $150.00]"
       }
     ],
     "price": 30,
@@ -3838,7 +3858,7 @@
         "name": "Price",
         "from": "$90.00",
         "to": "$30.00",
-        "range": "[$30.00 ~ $120.00]"
+        "range": "[$30.00 ~ $150.00]"
       }
     ],
     "price": 30,
@@ -4921,7 +4941,7 @@
         "name": "Price",
         "from": "$60.00",
         "to": "$30.00",
-        "range": "[$30.00 ~ $120.00]"
+        "range": "[$30.00 ~ $150.00]"
       }
     ],
     "price": 30,
@@ -7386,7 +7406,7 @@
         "name": "Price",
         "from": "$90.00",
         "to": "$30.00",
-        "range": "[$30.00 ~ $120.00]"
+        "range": "[$30.00 ~ $150.00]"
       }
     ],
     "price": 30,
@@ -10482,7 +10502,7 @@
         "name": "Price",
         "from": "$320.00",
         "to": "$290.00",
-        "range": "[$120.00 ~ $320.00]"
+        "range": "[$120.00 ~ $490.00]"
       }
     ],
     "price": 290,
@@ -11514,7 +11534,7 @@
         "name": "Price",
         "from": "$60.00",
         "to": "$30.00",
-        "range": "[$30.00 ~ $120.00]"
+        "range": "[$30.00 ~ $150.00]"
       }
     ],
     "price": 30,
@@ -12472,7 +12492,7 @@
         "name": "Price",
         "from": "$120.00",
         "to": "$60.00",
-        "range": "[$30.00 ~ $120.00]"
+        "range": "[$30.00 ~ $150.00]"
       }
     ],
     "price": 60,
@@ -13079,7 +13099,7 @@
     "formattedPrice": "免費",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6462841384",
-    "trackName": "香港基本法和國安法筆試",
+    "trackName": "香港基本法及國安法筆試",
     "firstRecordedAt": 1770886651190
   },
   {

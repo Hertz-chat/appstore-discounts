@@ -32380,7 +32380,7 @@
   },
   "499470113": {
     "trackId": 499470113,
-    "trackName": "FE File Explorer",
+    "trackName": "FE File Explorer - SMB & FTP",
     "region": "mo",
     "maxPriceInfo": {
       "price": 4.99,
@@ -101400,6 +101400,25 @@
     "history": [
       [
         {
+          "timestamp": 1794267500104,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "寶石箱": "USD 9.99",
+            "SF2SEPack120": "USD 119.99",
+            "SF2SEPack100": "USD 99.99",
+            "SF2SEPack90": "USD 89.99",
+            "SF2SEPack75": "USD 74.99",
+            "SF2SEPack70": "USD 69.99",
+            "SF2SEPack55": "USD 54.99",
+            "SF2SEPack40": "USD 39.99",
+            "SF2SEPack38": "USD 37.99",
+            "SF2SEPack23": "USD 22.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794234717577,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -159384,6 +159403,16 @@
     "history": [
       [
         {
+          "timestamp": 1794267500104,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Lifetime": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 0,
           "formattedPrice": "免費",
@@ -163861,6 +163890,14 @@
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794043335284,
@@ -189572,6 +189609,17 @@
     "history": [
       [
         {
+          "timestamp": 1794267500104,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Supporter Pack": "USD 0.99",
+            "The Boglands DLC": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793113178688,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -206007,10 +206055,18 @@
       "formattedPrice": "USD 6.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790094096914,
@@ -208344,14 +208400,22 @@
     "trackName": "Parachute Backup Mobile",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "USD 9.99"
+      "price": 14.99,
+      "formattedPrice": "USD 14.99"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785600007091,
@@ -210524,7 +210588,7 @@
   },
   "6462841384": {
     "trackId": 6462841384,
-    "trackName": "香港基本法和國安法筆試",
+    "trackName": "香港基本法及國安法筆試",
     "region": "mo",
     "maxPriceInfo": {
       "price": 4.99,
@@ -217170,8 +217234,8 @@
     "trackName": "Digline：療癒挖礦",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99",
+      "price": 4.99,
+      "formattedPrice": "USD 4.99",
       "+200 fuel to storage": "USD 4.99",
       "+75 fuel to storage": "USD 2.99",
       "20 fuel to storage": "USD 0.99"
@@ -217184,6 +217248,14 @@
       "20 fuel to storage": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793990259190,
@@ -222797,6 +222869,14 @@
     "history": [
       [
         {
+          "timestamp": 1794267500104,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793295722489,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -223684,6 +223764,14 @@
     "history": [
       [
         {
+          "timestamp": 1794267500104,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794194439896,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -224472,6 +224560,75 @@
       [
         {
           "timestamp": 1794234717577,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6827445474": {
+    "trackId": 6827445474,
+    "trackName": "FoldTick",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6816793607": {
+    "trackId": 6816793607,
+    "trackName": "GigClick: Metronome, Setlist",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6826404492": {
+    "trackId": 6826404492,
+    "trackName": "Aşçı: Hayalin Peşinde",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794267500104,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
           "inAppPurchases": {}

@@ -18113,6 +18113,25 @@
     "history": [
       [
         {
+          "timestamp": 1794267500104,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "₺199,99",
+            "Gold Monthly": "₺349,99",
+            "Gold Level Free Trial": "₺0,00",
+            "Predictive Report - Full": "₺199,99",
+            "Relationship Report": "₺199,99",
+            "Birthday Report": "₺199,99",
+            "7-day Trial Astrolocality": "₺0,00",
+            "Gold Level lifetime": "₺3.999,99",
+            "Child Report - Full": "₺199,99",
+            "Astrolocality Maps": "₺1.299,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794043335284,
           "price": 0,
           "formattedPrice": "Free",
@@ -43285,7 +43304,7 @@
     ]
   },
   "499470113": {
-    "name": "FE File Explorer",
+    "name": "FE File Explorer - SMB & FTP",
     "maxPriceInfo": {
       "price": 249.99,
       "formattedPrice": "₺249,99"
@@ -166974,6 +166993,25 @@
     "history": [
       [
         {
+          "timestamp": 1794267500104,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Sale": "₺1.299,99",
+            "The Complete Collection": "₺1.999,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "Emberwing Token": "₺499,99",
+            "Victorian London Board": "₺399,99",
+            "Welcome Offer": "₺999,99",
+            "Lava Dice": "₺249,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794194439896,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -213382,6 +213420,16 @@
     "history": [
       [
         {
+          "timestamp": 1794267500104,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "₺149,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1763345024209,
           "price": 0,
           "formattedPrice": "Free",
@@ -218153,6 +218201,14 @@
       "formattedPrice": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794043335284,
@@ -249864,6 +249920,17 @@
     "history": [
       [
         {
+          "timestamp": 1794267500104,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Supporter Pack": "₺49,99",
+            "The Boglands DLC": "₺149,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793146065483,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -251338,6 +251405,25 @@
       "Airbus A321 XLR": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Global scenery - 3 months": "₺399,99",
+            "Boeing 737-800": "₺149,99",
+            "Boeing 787-10": "₺99,99",
+            "Airbus A350-1000": "₺199,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Boeing 747-400": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794085796977,
@@ -283331,10 +283417,18 @@
       "formattedPrice": "₺399,99"
     },
     "minPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790119857097,
@@ -287074,14 +287168,22 @@
   "6749824842": {
     "name": "Parachute Backup Mobile",
     "maxPriceInfo": {
-      "price": 499.99,
-      "formattedPrice": "₺499,99"
+      "price": 799.99,
+      "formattedPrice": "₺799,99"
     },
     "minPriceInfo": {
       "price": 199.99,
       "formattedPrice": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 799.99,
+          "formattedPrice": "₺799,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785638610705,
@@ -289351,7 +289453,7 @@
     ]
   },
   "6462841384": {
-    "name": "香港基本法和國安法筆試",
+    "name": "香港基本法及國安法筆試",
     "maxPriceInfo": {
       "price": 249.99,
       "formattedPrice": "₺249,99"
@@ -295679,8 +295781,8 @@
   "6760948683": {
     "name": "Digline: Cosy Mining",
     "maxPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99",
+      "price": 249.99,
+      "formattedPrice": "₺249,99",
       "+200 fuel to storage": "₺249,99",
       "+75 fuel to storage": "₺149,99",
       "20 fuel to storage": "₺49,99"
@@ -295693,6 +295795,14 @@
       "20 fuel to storage": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793990259190,
@@ -300267,7 +300377,7 @@
       "SHOWCASE OFFER 09": "₺199,99",
       "ALL TOWERS BUNDLE_B": "₺799,99",
       "ALL TOWERS BUNDLE": "₺999,99",
-      "ALL HEROES BUNDLE": "₺1.499,99",
+      "ALL HEROES BUNDLE": "₺1.299,99",
       "Hero Drakkan": "₺399,99",
       "Gems Chest": "₺999,99",
       "Hero Ignus": "₺149,99",
@@ -300291,6 +300401,25 @@
       "Gems Barrel": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Hero Drakkan": "₺399,99",
+            "Hero Ignus": "₺149,99",
+            "Hero Oni": "₺249,99",
+            "ALL HEROES BUNDLE": "₺1.299,99",
+            "Hero Ashbite": "₺399,99",
+            "Tower Ironbark": "₺399,99",
+            "Tower Sniper": "₺299,99",
+            "Spell Aspect of Sol": "₺249,99",
+            "Tower Forger": "₺249,99",
+            "Gems Chest": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794085796977,
@@ -302220,6 +302349,14 @@
     "history": [
       [
         {
+          "timestamp": 1794267500104,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792934734921,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -302994,6 +303131,14 @@
       "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794194439896,
@@ -303797,6 +303942,69 @@
           "timestamp": 1794234717577,
           "price": 49.99,
           "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6827445474": {
+    "name": "FoldTick",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6816793607": {
+    "name": "GigClick: Metronome, Setlist",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6826404492": {
+    "name": "Aşçı: Chasing the Dream",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
           "inAppPurchases": {}
         }
       ]

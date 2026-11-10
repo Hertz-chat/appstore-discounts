@@ -20485,7 +20485,7 @@
     ]
   },
   "499470113": {
-    "name": "FE File Explorer",
+    "name": "FE File Explorer - SMB & FTP",
     "maxPriceInfo": {
       "price": 5.99,
       "formattedPrice": "5,99 €"
@@ -22065,6 +22065,24 @@
       "Desbloquear Arma Biológica": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Pacote de Vírus Necroa": "1,99 €",
+            "Desbloquear 7 Pragas Padrão": "2,99 €",
+            "Desbloquear de Verme Neurax": "1,99 €",
+            "Desbloquear Todos os Genes": "8,99 €",
+            "Pacote pragas": "11,99 €",
+            "Desbloquear Vírus": "0,99 €",
+            "Pacote Cenário": "2,99 €",
+            "Pacote de expansão Gripe símia": "1,99 €",
+            "Pacote de Praga das Sombras": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793415517315,
@@ -74054,10 +74072,21 @@
       "price": 0,
       "formattedPrice": "Gratuito",
       "Notes Writer Pro AI Assistant": "1,99 €",
-      "Nautilus Unlock All and AI": "12,99 €",
+      "Nautilus Unlock All and AI": "3,49 €",
       "Nautilus Pro Lifetime": "12,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Nautilus Pro Lifetime": "12,99 €",
+            "Nautilus Unlock All and AI": "3,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792157762180,
@@ -101350,6 +101379,16 @@
     "history": [
       [
         {
+          "timestamp": 1794267500104,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Lifetime": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -104155,6 +104194,14 @@
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794043335284,
@@ -126531,6 +126578,17 @@
     "history": [
       [
         {
+          "timestamp": 1794267500104,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Supporter Pack": "0,99 €",
+            "The Boglands DLC": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793146065483,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -137030,10 +137088,18 @@
       "formattedPrice": "6,99 €"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790119857097,
@@ -139434,14 +139500,22 @@
   "6749824842": {
     "name": "Parachute Backup Mobile",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "9,99 €"
+      "price": 17.99,
+      "formattedPrice": "17,99 €"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785621318731,
@@ -141614,7 +141688,7 @@
     ]
   },
   "6462841384": {
-    "name": "香港基本法和國安法筆試",
+    "name": "香港基本法及國安法筆試",
     "maxPriceInfo": {
       "price": 5.99,
       "formattedPrice": "5,99 €"
@@ -148230,8 +148304,8 @@
   "6760948683": {
     "name": "Digline: Mineração Relaxante",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "4,99 €",
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
       "+200 fuel to storage": "5,99 €",
       "+75 fuel to storage": "2,99 €",
       "20 fuel to storage": "0,99 €"
@@ -148244,6 +148318,14 @@
       "20 fuel to storage": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793990259190,
@@ -153574,6 +153656,14 @@
     "history": [
       [
         {
+          "timestamp": 1794267500104,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792934734921,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -154294,6 +154384,12 @@
     "history": [
       [
         {
+          "timestamp": 1794267500104,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1794194439896,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -155000,6 +155096,48 @@
           "timestamp": 1794234717577,
           "price": 2.99,
           "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6816793607": {
+    "name": "GigClick: Metronome, Setlist",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6826404492": {
+    "name": "Aşçı: Hayalin Peşinde",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]

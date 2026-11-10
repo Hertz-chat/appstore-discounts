@@ -43,6 +43,13 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1591620171": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "永久": 1
+      }
+    },
     "1600925588": {
       "all": 1,
       "price": 1,
@@ -209,6 +216,13 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1591620171": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Lifetime": 1
+      }
+    },
     "1600925588": {
       "all": 1,
       "price": 1,
@@ -292,6 +306,11 @@
       "inAppPurchase": {}
     },
     "6816896250": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6474541983": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -394,6 +413,13 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1591620171": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Lifetime": 1
+      }
+    },
     "1600925588": {
       "all": 1,
       "price": 1,
@@ -472,6 +498,11 @@
       "inAppPurchase": {}
     },
     "6816896250": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6474541983": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -582,6 +613,13 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "1591620171": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Lifetime": 1
+      }
     },
     "1600925588": {
       "all": 1,
@@ -788,6 +826,13 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1591620171": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Lifetime": 1
+      }
+    },
     "1600925588": {
       "all": 1,
       "price": 1,
@@ -979,6 +1024,13 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1591620171": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Lifetime": 1
+      }
+    },
     "1600925588": {
       "all": 1,
       "price": 1,
@@ -1091,6 +1143,11 @@
       "all": 2,
       "price": 2,
       "inAppPurchase": {}
+    },
+    "6474541983": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     }
   },
   "pt": {
@@ -1101,6 +1158,13 @@
         "Minecraft Store Item 6": 1,
         "Minecraft Store Item 5": 1,
         "Minecraft Store Item 8": 1
+      }
+    },
+    "525818839": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Pacote pragas": 1
       }
     },
     "882362024": {
@@ -1164,6 +1228,13 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1422480068": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Nautilus Unlock All and AI": 1
+      }
+    },
     "1424977227": {
       "all": 1,
       "price": 1,
@@ -1198,6 +1269,13 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "1591620171": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Lifetime": 1
+      }
     },
     "1600925588": {
       "all": 1,
@@ -1301,6 +1379,11 @@
     "6816896250": {
       "all": 2,
       "price": 2,
+      "inAppPurchase": {}
+    },
+    "6474541983": {
+      "all": 1,
+      "price": 1,
       "inAppPurchase": {}
     }
   }

@@ -28074,7 +28074,7 @@
     ]
   },
   "499470113": {
-    "name": "FE文件管理器",
+    "name": "FE文件管理器 - SMB，FTP，SFTP和网盘",
     "maxPriceInfo": {
       "price": 38,
       "formattedPrice": "¥38.00"
@@ -150050,9 +150050,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "永久": "¥22.00"
+      "永久": "¥19.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "永久": "¥19.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790828594798,
@@ -151016,6 +151026,14 @@
       "formattedPrice": "¥1.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 50,
+          "formattedPrice": "¥50.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794043335284,
@@ -153180,6 +153198,25 @@
       "60元灼炎净天*阿耆尼皮肤礼包": "¥60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "6元满级武器礼包": "¥6.00",
+            "30元月卡": "¥30.00",
+            "18元每日系统经验礼包": "¥18.00",
+            "6元每日电量礼包": "¥6.00",
+            "98元永久通行证": "¥98.00",
+            "12元每日活跃数据礼包": "¥12.00",
+            "6元皮肤礼包1": "¥6.00",
+            "98元每月限时皮肤礼包": "¥98.00",
+            "108每月签名皮肤礼包": "¥108.00",
+            "6元每周超值礼包": "¥6.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794106722002,
@@ -179545,6 +179582,25 @@
       "648.0元礼包": "¥648.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "6.0元礼包": "¥6.00",
+            "30.0元礼包": "¥30.00",
+            "98.0元礼包": "¥98.00",
+            "12.0元礼包": "¥12.00",
+            "198.0元礼包": "¥198.00",
+            "128.0元礼包": "¥128.00",
+            "68.0元礼包": "¥68.00",
+            "25.0元礼包": "¥25.00",
+            "168.0元礼包": "¥168.00",
+            "328.0元礼包": "¥328.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794234717577,
@@ -227734,14 +227790,22 @@
   "6749824842": {
     "name": "Parachute Backup Mobile",
     "maxPriceInfo": {
-      "price": 68,
-      "formattedPrice": "¥68.00"
+      "price": 98,
+      "formattedPrice": "¥98.00"
     },
     "minPriceInfo": {
       "price": 28,
       "formattedPrice": "¥28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785600007091,
@@ -232201,7 +232265,7 @@
     ]
   },
   "6462841384": {
-    "name": "香港基本法和國安法筆試",
+    "name": "香港基本法及國安法筆試",
     "maxPriceInfo": {
       "price": 38,
       "formattedPrice": "¥38.00"
@@ -241243,6 +241307,48 @@
       [
         {
           "timestamp": 1794131413359,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6827445474": {
+    "name": "FoldTick",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794267500104,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6816793607": {
+    "name": "GigClick: Metronome, Setlist",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794267500104,
           "price": 8,
           "formattedPrice": "¥8.00",
           "inAppPurchases": {}

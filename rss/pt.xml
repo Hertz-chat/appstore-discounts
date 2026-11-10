@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2026-11-09T16:11:23.422Z</updated>
+    <updated>2026-11-10T01:22:17.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-09T16:11:23.422Z</updated>
+        <updated>2026-11-10T01:22:17.730Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptMon, 09 Nov 2026 16:11:23 GMT</id>
+        <id>rankingptTue, 10 Nov 2026 01:22:17 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-09T16:11:23.422Z</updated>
+        <updated>2026-11-10T01:22:17.730Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -51,13 +51,13 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>2414</b>
+        <b>2417</b>
       </td>
       <td>
         <b>204</b>
       </td>
       <td>
-        <b>2210</b>
+        <b>2213</b>
       </td>
       <td>
         <b>108</b>
@@ -68,13 +68,13 @@ feedId:206907475259680768+userId:73658201673997312
         <b>PT</b>
       </td>
       <td>
-        <b>2101</b>
+        <b>2103</b>
       </td>
       <td>
         <b>147</b>
       </td>
       <td>
-        <b>1954</b>
+        <b>1956</b>
       </td>
       <td>
         <b>34</b>
@@ -192,6 +192,29 @@ feedId:206907475259680768+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/525818839?lang=en">Plague Inc.</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>Compras integradas</span><ol>
+              <li>
+                <i>Pacote pragas</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
         <a href="https://appstore-discounts.eyelly.me/pt/882362024?lang=en">Ace Attorney: Dual Destinies</a>
       </td>
       <td>
@@ -216,7 +239,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/931188326?lang=en">DayCost Pro - Personal Finance</a>
@@ -233,7 +256,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/982457990?lang=en">求生无限 - 单机经典无限流大冒险</a>
@@ -250,7 +273,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/998834675?lang=en">Clouds & Sheep 2 Premium</a>
@@ -267,7 +290,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1136993233?lang=en">Apollo Justice Ace Attorney</a>
@@ -290,7 +313,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1140451547?lang=en">Shot Tracer</a>
@@ -307,7 +330,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1159700098?lang=en">To the Moon</a>
@@ -324,7 +347,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1298544927?lang=en">My Child Lebensborn</a>
@@ -341,7 +364,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1303222868?lang=en">Gestor de Receitas Paprika 4</a>
@@ -358,7 +381,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1411823462?lang=en">7Days : Backer</a>
@@ -375,7 +398,30 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/1422480068?lang=en">Nautilus: Web, Word, anota</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>Compras integradas</span><ol>
+              <li>
+                <i>Nautilus Unlock All and AI</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>18</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1424977227?lang=en">Titan Quest HD</a>
@@ -392,7 +438,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1441522083?lang=en">LED Banner: Marquee & Scroller</a>
@@ -409,7 +455,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1453820315?lang=en">This Is the Police 2</a>
@@ -426,7 +472,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1492049794?lang=en">武林群侠风云传</a>
@@ -443,7 +489,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1523633394?lang=en">SpongeBob SquarePants: BfBB</a>
@@ -460,7 +506,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1537362903?lang=en">Neighbours back From Hell</a>
@@ -477,7 +523,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1587301632?lang=en">All In One Memo</a>
@@ -494,7 +540,30 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>25</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/1591620171?lang=en">Stay for Safari</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>Compras integradas</span><ol>
+              <li>
+                <i>Lifetime</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>26</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1600925588?lang=en">GR Linker - Image Sync</a>
@@ -511,7 +580,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1601114348?lang=en">Siralim Ultimate</a>
@@ -528,7 +597,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1601446687?lang=en">Streets of Rage 4</a>
@@ -545,7 +614,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1619867109?lang=en">Finding Paradise</a>
@@ -562,7 +631,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1621065119?lang=en">Ace Attorney Trilogy</a>
@@ -579,7 +648,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6801866888?lang=en">Quando foi? - O último dia</a>
@@ -596,7 +665,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6759358968?lang=en">PadLab - Live Pads</a>
@@ -621,7 +690,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6740698426?lang=en">Empires Game</a>
@@ -646,7 +715,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6752503669?lang=en">Solar Arc: Hora Dourada</a>
@@ -663,7 +732,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6444660338?lang=en">Legend of Keepers</a>
@@ -680,7 +749,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6446021269?lang=en">MEGA MAN X DiVE Offline</a>
@@ -697,7 +766,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6786115854?lang=en">No More Slimes!!: Idle Action</a>
@@ -714,7 +783,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6759970821?lang=en">Dungeon Merge!</a>
@@ -731,7 +800,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6760948683?lang=en">Digline: Mineração Relaxante</a>
@@ -748,7 +817,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6476342802?lang=en">Skel and Defense</a>
@@ -773,10 +842,27 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6770101449?lang=en">五道門：文字江湖</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>42</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/6474541983?lang=en">Children of Morta</a>
       </td>
       <td>
         <ul>
@@ -1106,6 +1192,253 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Children of Morta]]></title>
+        <id>Children of Morta-pt-1794267500104</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/6474541983?lang=en"/>
+        <updated>2026-11-09T23:38:20.104Z</updated>
+        <summary type="html"><![CDATA[Price: 6,99 € → 1,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6474541983?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/3f/9b/8e3f9baf-aa9e-3406-54c4-75a11742ecec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>6,99 €</span> → <b>
+  <strong>1,99 €</strong>
+</b><span>[1,99 € ~ 6,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>1,99 €</b>
+</p><h2>Application Description</h2><p>
+  *O cooperativo on-line já está disponível: compartilhe um código e jogue com um amigo!*
+
+Children of Morta é um RPG de ação baseado em história, com uma abordagem roguelite ao desenvolvimento de personagens, no qual você não joga com um único personagem, mas com uma família inteira e extraordinária de heróis.
+
+Derrote hordas de inimigos em masmorras, cavernas e terras geradas processualmente e lidere a família Bergson, com todas as suas falhas e virtudes, contra a corrupção que se aproxima. A história se passa em uma terra distante, mas lida com temas e emoções comuns a todos nós: amor e esperança, saudade e incerteza, perda... e o sacrifício que estamos dispostos a fazer para salvar quem mais amamos.
+No fim, trata-se de uma família de heróis unida contra a escuridão iminente.
+
+-- Edição Completa --
+
+Tanto o DLC Ancient Spirits quanto o Paws and Claws estão incluídos no jogo principal e disponíveis conforme você joga.
+
+CARACTERÍSTICAS
+- Boas-vindas à família! Junte-se aos heroicos Bergsons em provações para honrar sua herança e salvar a terra de Rea da crescente corrupção
+- Um por todos e todos por um! Melhore as habilidades e os equipamentos de toda a família a cada partida no mundo em constante mudança deste RPG roguelite
+- A união faz a força! Alterne entre 7 personagens jogáveis, cada um com as próprias habilidades, estilos de luta e personalidade cativante
+- Mergulhe no belo e mortal mundo de Rea feito em pixel art 2D, misturando animações feitas à mão com técnicas modernas de iluminação
+- Família que mata unida permanece unida: use o modo cooperativo on-line para dois jogadores e confiem um no outro em todas as lutas (disponível em uma atualização pós-lançamento)
+
+CUIDADOSAMENTE REPROJETADO PARA DISPOSITIVOS MÓVEIS
+- Interface renovada – interface exclusiva para dispositivos móveis com controle sensível ao toque completo
+- Conquistas do Game Center
+- Armazenamento na nuvem – compartilhe o progresso entre dispositivos iOS
+- Compatível com controles MFi
+- Otimizado para iPhone 15 (incluindo Pro Max)
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/2f/41/0e2f4153-e59f-dc24-76d9-207f21d2ff92/156013ce-63dc-455c-9795-0f9aca143cf4_01-Linda-combat-mort-6.7.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/2c/0d/cb2c0d3d-f38d-ccef-cb4e-dcf2bb965ff5/8d954aba-fc2d-48b6-b55e-502843995d62_02-Mark-Barahut-ziggurat-gameplay-6.7.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/f3/71/60f37191-619d-6843-db1b-babafc5cdbfd/250721bf-22c4-45f4-91a5-553ed55af4c2_03-Lucy_Training_-_6.7.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/b3/d5/a3b3d5a1-ba4c-c34c-63cc-bd9f477890e7/b77599ac-a5df-4ba2-b486-82e8dd9b568b_04-Lucy-terralava-industrial_district-6.7.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/59/1a/78591aa9-5d0c-82b5-c0d1-ad791544e2f1/da13e741-34ed-44e6-bede-dc570747464f_06-John-anai_dya-BOSS-guardian-6.7.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/10/c6/6d10c633-9337-ee64-321d-52983fde5907/0662c0ab-0222-460e-8b24-fd22992b8149_07-John-Tuto-combat-vue-6.7.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/df/0f/dadf0fa7-2c5b-2523-dc62-6882a6df7bd9/7eea30db-3f68-411f-8723-6b2207e000d3_08-Corruption_jardin_cerf-6.7.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/56/76/d35676d4-f2ed-b855-e245-2b01df9ad2f7/1d0964e5-d64a-44fc-adf7-1e559408928f_10-Repas_en_famille_-_6.7.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/26/59/b32659a2-8ad9-2c72-ee22-583202390e6a/a43d0150-fe49-46da-9e5e-c0aea21d5a63_01-Linda-combat-mort-12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/ce/48/0ece4887-0677-6b87-dc67-5f6298356656/2a06f8b7-2cd6-4e4e-a783-838e6a6fbec9_02-Mark-Barahut-ziggurat-gameplay-2-12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/35/2d/00352d54-a9b3-5beb-d65d-c3e4fe3d493b/53257876-fcd3-4adb-b662-c9a229fef304_03-Lucy_Training_-_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/c1/ef/b7c1ef13-aa96-1394-e0a4-d1b2e6956a13/86c71fce-7602-4b83-90c0-0c0f21438ef1_04-Lucy-terralava-industrial_district-3-12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/bb/1e/3fbb1e77-9d14-3ae5-c072-df93fde15773/876d5dd7-2bd8-4772-8104-7c1c731cd6fb_05-Character__PT-12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/16/21/a31621e3-a77e-4518-2fed-ef4dd53a5667/ce30d1e3-7bcd-44bf-b25a-8066533467f8_06-John-anai_dya-BOSS-guardian-3-12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/31/57/cf315757-a54d-94a9-d5e7-2626d1ec4baf/51243b33-5601-46e9-af5f-ad79ef4bfa5b_07-John-Tuto-combat-vue-12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/e9/22/01e9221c-4b91-fcf6-cc53-7cbbf763295c/106c30d4-6548-4625-8d01-a9c6a39c0e23_08-Corruption_jardin_cerf-_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/eb/33/28eb337e-2080-bea4-f161-df8bca8baa70/61b32bdc-1841-4abe-b2b0-a6d0ac359739_09-Workshop-oncle-Ben-12.9-PT.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/a3/7f/c5a37f70-336f-7288-0f05-7cd3e79a114f/959d6f0e-3bd3-4f0c-adde-044b4531aa37_10-Repas_en_famille_-_12.9.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plague Inc.]]></title>
+        <id>Plague Inc.-pt-1794267500104</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/525818839?lang=en"/>
+        <updated>2026-11-09T23:38:20.104Z</updated>
+        <summary type="html"><![CDATA[Pacote pragas: 14,99 € → 11,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/525818839?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/74/1c/dd741c2a-043b-dc73-d83d-3c81abed681a/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>Compras integradas</h3><ul>
+  <li>
+    <strong>Pacote pragas：</strong><span>14,99 €</span> → <b>
+  <strong>11,99 €</strong>
+</b><span>[11,99 € ~ 14,99 €]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>0,99 €</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    Pacote de Vírus Necroa：<b>1,99 €</b>
+  </li><li>
+    Desbloquear 7 Pragas Padrão：<b>2,99 €</b>
+  </li><li>
+    Desbloquear de Verme Neurax：<b>1,99 €</b>
+  </li><li>
+    Desbloquear Todos os Genes：<b>8,99 €</b>
+  </li><li>
+    Pacote pragas：<b>11,99 €</b>
+  </li><li>
+    Desbloquear Vírus：<b>0,99 €</b>
+  </li><li>
+    Pacote Cenário：<b>2,99 €</b>
+  </li><li>
+    Pacote de expansão Gripe símia：<b>1,99 €</b>
+  </li><li>
+    Pacote de Praga das Sombras：<b>1,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Você consegue contaminar o mundo? Plague Inc. é uma mistura única de alta estratégia e simulação terrivelmente realista. 
+
+Seu agente patogênico acabou de contaminar o 'Paciente zero'. Agora você deve acabar com a história da humanidade evoluindo para uma mortal Praga global, enquanto se adapta a tudo que a humanidade pode fazer para se defender. 
+
+Brilhantemente executado, com jogabilidade inovadora e construido especificamente para iPhone e iPad, Plague Inc. é uma evolução do gênero de estratégia e leva os jogos em dispositivos móves (e você) a novos níveis. É Você contra o mundo - só o forte sobrevive! 
+
+◈◈◈ Jogo #1 globalmente com mais de 500 milhões de jogos jogados ◈◈◈
+
+Plague Inc. é um hit global com mais de meio milhão de classificações de 5 estrelas e reportagens em jornais como The Economist, New York Post, Boston Herald, The Guardian e London Metro! 
+
+O desenvolvedor de Plague Inc. foi convidado a falar no CDC em Atlanta sobre os modelos de doenças do jogo!
+
+▶ “O jogo cria um mundo convincente que engaja o público em tópicos sérios de saúde pública” – The Centers for Disease Control and Prevention
+▶ “Melhor jogo para tablet de 2012” - New York Daily News 
+▶ “Plague Inc. vai captar sua atenção de todas as formas certas, e vai mantê-la” - Touch Arcade 
+▶ “Não há como negar o alto nível de qualidade de Plague Inc.” - Modojo 
+▶ “Plague Inc. não deveria ser tão divertido como é” – London Metro 
+▶ “Vai deixar você na esperança de destruir o mundo, tudo em nome de um pouco de diversão” – Pocket Lint 
+▶ “A jogabilidade de Plague Inc.'s é contagiosa” - Slide to Play 
+▶ Vencedor – “Melhor jogo do ano” – Pocket Gamer
+▶ “Matar bilhões nunca foi tão divertido” – IGN 
+
+◈◈◈
+
+Características: 
+● Lindos gráficos retina com uma interface bastante refinada (Contágio garantido) 
+● Mundo hiperrealistas, altamente detalhado, com IA avançada (Gerenciamento de epidemia) 
+● Sistema abrangente de ajudar e tutorial (Eu sou a lenda da ajuda) 
+● 12 diferentes tipos de doenças com estratégias radicalmente diferentes para dominar (12 Macacos?) 
+● Funcionalidade completa de Salvamento/Carregamento (28 salvamentos depois!) 
+● 50+ países para contaminar, centenas de caractetísticas para evoluir e milhares de eventos mundiais para se adaptar (Evolução pandêmica) 
+● Suporte total ao jogo 
+● Atualizações de expansão acrescentam o Verme Neurax que controla a mente, o Vírus Necroa que produz zumbis, Corridas de velocidade e Cenários da vida real!
+● Você consegue salvar o mundo? Assuma o controle e vença uma doença mundial na nossa maior expansão!
+● Enfrente as Doenças Diárias, ganhe melhorias poderosas e compita contra o mundo no Modo Surto!
+
+
+Traduzido para Inglês, Alemão, Espanhol, Português do Brasil, Italiano, Francês, Japonês, Coreano e Russo. (mais em breve) 
+
+P.S. Dê um tapa nas suas costas se entendeu todos as referências da literatura do tema! 
+
+Preço promocional especial para celebrar o fato de ser o 5º jogo de iPhone mais popular de 2015!
+
+◈◈◈
+
+Curta Plague Inc. no Facebook: 
+http://www.facebook.com/PlagueInc 
+
+Siga-me no Twitter: 
+www.twitter.com/NdemicCreations
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/8f/73/0d8f73ae-01a0-53f3-ceb2-de361890349e/iPhone5-5inch_brazilian.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/f2/f0/33f2f0e6-f7a6-e3b4-dbeb-21d207e09fc8/mzl.dkeuvhuk.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/b5/94/7cb59459-943f-4d68-844b-c6ceafb41df2/xenolith_5.5inch_brazilian.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/e2/cd/b6e2cd6d-bd68-34c5-29c0-a64b5a18ef4f/mzl.wcedscal.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/d0/9c/95d09caa-941c-93c3-2a68-06faaa546320/mzl.hkgfxnxl.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/7c/fe/617cfeb7-d8ce-0e38-d739-3fd0109deed6/mzl.synvsosd.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/64/08/ba6408a2-bcc8-b39b-ae36-049c2d5cb59a/mzl.fvmsjvym.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/a4/78/66a47870-4c62-6069-8637-9a10b75f3266/mzl.zujghhqo.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/46/1d/c6461dc4-7560-b3bd-e48e-787936d1da28/mzl.gdfeodnt.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/ee/0a/41ee0a15-4e8b-8e0e-4339-7e9ea9f501b6/mzl.qzmlqnfx.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/f9/69/cef96990-2d17-5e3f-9a8a-eac9dec525b5/209b56e2-d3be-4f20-9525-b13e57fde592_Portuguese_Store_1_iOS_12.9_display_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/11/25/80112519-9edc-9749-4863-bbc5f2c13bac/mzl.dvncuybt.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/c6/d3/cfc6d348-9dd4-bcda-dd66-63636be3f81c/mzl.zhjifkvi.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/90/f3/c290f31d-fb89-e93f-95b0-e65aff5d8bc9/mzl.teurlqen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/c3/37/25c3371f-6496-499d-b736-f13b42e87c8e/mzl.dkzlwthg.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/d5/b6/dcd5b63a-f25e-b22e-4f43-22f110f132da/mzl.vrjdgafm.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/bd/4e/d7bd4e5e-dde0-2b34-aa90-a69ea1209a21/mzl.qolzxotr.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/d3/14/10d3148a-a294-d05c-aa11-af230d39d1a0/mzl.uvgfiblj.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/79/63/267963b2-ac9e-8f4a-da96-c73373389221/mzl.dhuumtrw.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stay for Safari]]></title>
+        <id>Stay for Safari-pt-1794267500104</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/1591620171?lang=en"/>
+        <updated>2026-11-09T23:38:20.104Z</updated>
+        <summary type="html"><![CDATA[Lifetime: 5,99 € → 2,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1591620171?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/bf/e3/2abfe3a9-d4b9-ccd9-d564-a2810cbe0ffd/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>Compras integradas</h3><ul>
+  <li>
+    <strong>Lifetime：</strong><span>5,99 €</span> → <b>
+  <strong>2,99 €</strong>
+</b><span>[2,99 € ~ 5,99 €]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>Gratuito</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    Lifetime：<b>2,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  # The choice of 2 million Safari users. A Must-Have Extension for Safari. 
+
+Stay is a powerful extension designed specifically for Safari, focused on enhancing browsing efficiency, flexibility, and cross-device continuity.
+
+Stay supports all Apple platforms and offers a one-time payment that covers iPhone, iPad, and Mac devices.
+
+With Stay installed, what new features can you expect in your Safari browser?
+【Userscripts】
+ Give Safari more capabilities. By installing or writing user scripts, Safari can support features such as automatic pagination, immersive translation, redirect blocking, aggregated search, and more.
+【Cross-Device Bookmark Sync】
+Enhance Safari’s bookmark functionality. With Stay’s multi-platform coverage, your bookmarks are no longer limited to the Apple ecosystem and can be synced across devices.
+【Downloads】
+Enhance file downloads in Safari. Downloads are faster, and files can be saved into categorized folders, making it easier to manage downloaded resources.
+【Ad Blocking】
+Enhance Safari’s ad filtering capabilities. Supports AdGuard, uBlock Origin, and AdBlock Plus, compatible with EasyList filtering rules, making your browsing experience cleaner and safer.
+【Dark Mode for Web Pages】
+Enable dark mode for all web pages browsed in Safari.
+
+By purchasing Stay Pro, you can enjoy the following additional benefits:
+- Supports self-hosted script synchronization
+- Unlimited custom ad-blocking rules
+- Ability to mark ads directly on web pages
+- Download management with privacy mode support
+
+Privacy policy: https://www.privacypolicyonline.com/live.php?token=ZPXT0Jfv2diYUfbf5ciLDV9oYRgJ6Evc
+Terms of service: https://fastclip.app/policy/terms-stay.htm
+
+Visit our open-source version address at https://github.com/shenruisi/Stay.
+For any questions, please follow our official Twitter @stayfork to provide feedback.
+Join our Telegram group at t.me/fastclipchat.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/da/3e/6cda3e23-de5b-76e2-21dc-ca1315558b50/a565e7ac-03ee-446f-88c6-abbfeb8a1c67_stay-2.5.8-en1-5.5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/3f/ea/133fea82-578f-8ada-bcad-e18d71fa126f/3d2a5f83-b39f-4668-a998-b6f61f873f62_5.5-en-t2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/dd/84/e7dd8429-9450-f41a-3c7e-2b71ebf8a318/dc3e7ddc-c47d-469b-a4f9-928dc04ad537_sceenshot-en-5.5-t3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/0b/03/d80b0321-851f-9801-469b-274445b2b5ee/b23ccce3-2cfc-4df2-a936-9cc3bf4996f8_sceenshot-en-5.5-t5.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/95/5e/43955edf-8098-f9bc-ae33-12ecdfc1d0e3/a232565e-b947-4476-9e6c-211a0989ba54_stay-ipad-sc1-en.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/75/a2/f575a25e-255c-3965-f782-a560548a8f12/929bd02c-7aa8-4fb7-98aa-ef61c98eb424_stay-ipad-sc2-en.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/01/be/8301be0a-9305-6040-54e3-d88ec9826b44/c5f1356f-82be-4c1b-91d3-40c0b388242f_stay-ipad-sc3-en.png/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nautilus: Web, Word, anota]]></title>
+        <id>Nautilus: Web, Word, anota-pt-1794267500104</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/1422480068?lang=en"/>
+        <updated>2026-11-09T23:38:20.104Z</updated>
+        <summary type="html"><![CDATA[Nautilus Unlock All and AI: 12,99 € → 3,49 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1422480068?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/b3/a3/2cb3a397-e905-cc3f-2b6e-cbb02bf395c4/NautilusAppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>Compras integradas</h3><ul>
+  <li>
+    <strong>Nautilus Unlock All and AI：</strong><span>12,99 €</span> → <b>
+  <strong>3,49 €</strong>
+</b><span>[3,49 € ~ 12,99 €]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>Gratuito</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    Nautilus Pro Lifetime：<b>12,99 €</b>
+  </li><li>
+    Nautilus Unlock All and AI：<b>3,49 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  O Nautilus é um navegador web criado para a pesquisa. Lê a web, faz anotações, pergunta à IA sobre o que encontras e escreve o teu trabalho sem saíres da app, no iPad e no iPhone.
+
+Estudantes, investigadores, jornalistas, escritores e profissionais usam-no para passar da primeira pesquisa ao documento concluído, tudo no mesmo lugar.
+
+Navega com ferramentas de pesquisa integradas
+Abre páginas em separadores, fixa as que consultas com frequência e guarda sites nos marcadores e no histórico. Muda para o Modo Leitor para veres uma página limpa e sem distrações ou deixa o Modo Leitor ativar-se automaticamente. Pede a versão para computador de um site quando precisares.
+
+Compreende qualquer página
+Pergunta à IA sobre a página que estás a ler. Resume um artigo longo ou traduz uma página para o teu idioma ou para inglês e volta ao original a qualquer momento.
+
+Circunda com o Lasso Mágico
+Circunda uma passagem, um gráfico ou uma imagem numa página. Pede à IA que a explique, faz a tua própria pergunta, realça-a ou guarda-a como clip no teu quadro de recortes para manteres as tuas descobertas juntas.
+
+Faz anotações na web
+Desenha e escreve diretamente nas páginas web. Exporta uma página com as tuas anotações como PDF em formato A4, Letter ou Legal, ou como documento Word, Markdown, RTF, texto simples ou imagem.
+
+Lê e anota as tuas fontes
+Abre PDFs, artigos académicos e relatórios em separadores junto das tuas páginas web. Realça, escreve nas margens, adiciona comentários e compara dois documentos lado a lado. Preenche e assina formulários, digitaliza páginas em papel para PDFs, mede desenhos à escala e oculta texto sensível antes de o partilhares.
+
+Redige o trabalho
+Faz rascunhos em documentos Word, RTF, Markdown ou texto simples. Planeia um trabalho longo ou um livro, secção a secção, num Quadro de cortiça, mantém as fontes abertas junto do rascunho, guarda instantâneos de versões anteriores e compila tudo num documento ou livro eletrónico. Os projetos de estudo reúnem as leituras de cada disciplina num só lugar.
+
+Ajuda da IA, da primeira ideia ao rascunho final
+Conversa com a IA sobre ideias, pergunta sobre os teus próprios documentos e obtém explicações. Reescreve, simplifica, corrige a ortografia e a gramática, muda o tom ou traduz o que escreveste.
+
+Também no Nautilus
+Grava aulas e entrevistas e cria transcrições. Liga ideias em quadros brancos com notas autocolantes, organiza planos em esquemas e trabalha em cálculos e gráficos nos cadernos de matemática.
+
+A tua biblioteca, segura e sincronizada
+Guarda documentos em pastas e cadernos com capas e encontra tudo através da pesquisa. Exporta para PDF, Word, HTML, EPUB e muito mais. Sincroniza com iCloud, Dropbox, Box, Google Drive ou WebDAV. A gravação automática, a recuperação e as cópias de segurança protegem o teu trabalho, e os códigos de acesso bloqueiam a app ou as pastas privadas.
+
+Anteriormente, Notes Writer Pro
+O Nautilus é o novo nome do Notes Writer Pro. As tuas notas em PDF e os teus esquemas existentes abrem aqui.
+
+Política de privacidade
+http://www.noteswriter.com/Kairoos_Privacy_Policy.html
+
+Termos de utilização
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/63/4e/61634ed5-8d3f-ae5f-63fe-9054d5288605/01.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/00/05/6c000537-4c5f-adf6-d60f-f2284ce9eeb9/02.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/9f/75/ad9f75c6-b687-13b7-6082-93b68bb1f2ec/06.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/a5/c8/aba5c830-70dc-cb6a-6558-06505bfdb8b1/04.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/47/fb/ee47fbbc-ea74-fc1e-40e5-0f5aad3a2d34/05.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/25/a4/2425a472-e910-609d-0405-477e650809d6/03.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/20/de/8f20de6f-713a-51a6-a8fa-7548e00048f4/07.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/62/01/0d620161-3304-42bf-94d6-113c37aa3fd0/08.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/d9/30/2ad930bb-d823-87ea-beff-74f6ce10defc/09.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/79/94/ee799417-d143-01be-8f38-9d0e75260c8d/10.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/5d/e4/355de4ee-0f39-82c3-1831-9adcab414da3/01.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/4a/64/084a6417-4226-d559-a866-a228419a4293/02.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/cd/44/65cd4425-0d19-5858-da9c-975abf3ffdfa/06.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/5b/82/cd5b82ae-475e-6abb-0067-d6a058c21fad/04.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/2d/6d/032d6d9b-cf31-4e26-c86d-42d196d6e4e3/05.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/ae/d5/7faed58d-05fd-d5af-0d8f-f8e5b2e683b0/03.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/93/3d/1d933deb-4d53-1ba7-cc3a-0a95a0d19c83/07.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/ab/e3/29abe389-b0eb-9ae0-d4aa-0d0d64b25810/08.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/24/21/1a24212b-a7a1-26d8-78e3-651ec074f92d/09.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/e2/08/bde20804-7fb4-bb80-4da2-c824622a7640/10.png/360x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tuner T1 Pro]]></title>
@@ -1513,316 +1846,5 @@ If you have any questions, please email support@solotechstudio.com
 
 ：）
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/63/6a/70636a3b-9b9f-16b8-42c6-f27e341af6f3/c104e238-24a3-4c26-a252-9b164de2093d_EN_2.1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/10/c3/a610c3cf-3eb6-f4c4-0efd-08e98aaf978d/24d191b5-ac20-4ab3-a32d-e581e3562f2e_EN_2.2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/a5/1a/7fa51a0b-1f13-1988-dc4b-c2811a18d810/3d998642-2f97-41a3-8f57-993cd9b58cdb_EN_2.3.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/0b/d9/d30bd966-b1ea-f7d3-294c-77825c48eed7/18659dac-c9d7-4a02-ab83-683c45ab5d90_EN_3.1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/73/26/047326c9-a430-3857-1f7d-cbbdf073828e/2393eb8b-7eb4-4019-aa70-118ee322117d_EN_3.2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/99/aa/0999aa55-23e2-2521-2cc2-8910b70b97a5/331101a5-e5dd-4cdc-b667-4f754fcbe15d_EN_3.3.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Duopaper: Fundos HD para ecrãs]]></title>
-        <id>Duopaper: Fundos HD para ecrãs-pt-1794011332916</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/6821872148?lang=en"/>
-        <updated>2026-11-07T00:28:52.916Z</updated>
-        <summary type="html"><![CDATA[Price: 5,99 € → 3,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6821872148?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/e9/6f/7ae96f7f-a8ae-7dbf-9b13-38fafac85d59/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>5,99 €</span> → <b>
-  <strong>3,99 €</strong>
-</b><span>[1,99 € ~ 5,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>3,99 €</b>
-</p><h2>Application Description</h2><p>
-  Feche para ver um pormenor. Abra para descobrir o resto da história.
-
-O Duopaper reúne uma seleção cuidada de arte digital para explorar com dois enquadramentos. A vista fechada concentra o olhar; a vista aberta revela toda a composição. Uma só imagem cria a surpresa, tanto num ecrã dobrável como num formato mais amplo.
-
-Descubra seis estilos: minimalista, ilustração, banda desenhada, tridimensional, gráfico e pintura. De ambientes serenos a composições cheias de personalidade, encontre imagens em alta definição que façam sentido no seu ecrã.
-
-Desloque o controlo de abertura para comparar as duas vistas. Experimente o relógio, ajuste o ponto de enquadramento e leia a história da imagem. Utilize a pesquisa e guarde as suas escolhas nos favoritos para as reencontrar, mesmo sem ligação à internet.
-
-Toda a coleção está disponível sem anúncios, compras integradas nem conta. Guarde o JPEG inteiro em Fotografias ou partilhe-o através do menu do sistema. O relógio e os ajustes de enquadramento afetam apenas a pré-visualização; a composição exportada mantém-se completa.
-
-Depois de guardar, defina manualmente o fundo em Fotografias; a pré-visualização é uma referência e o recorte ou a animação do sistema podem ser diferentes.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/e0/81/d2e081b0-1daf-10ba-48d8-246a5869b67a/01-discover.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/fc/69/3bfc6993-f3c8-a84a-deb5-fea25d99f0f3/02-closed-preview.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/ab/66/29ab662d-8fe5-b7b5-1f48-d4b844ca2cb8/03-open-preview.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/39/20/2b3920ad-fb60-ab1f-85ad-d0a36da481ac/01-duopaper-discover.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/10/f8/c310f824-81f1-03b2-1ba5-735c51048eb6/02-duopaper-closed-preview.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/e1/b0/2be1b00a-46c9-ea35-a075-6d516bda1660/03-duopaper-open-preview.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digline: Mineração Relaxante]]></title>
-        <id>Digline: Mineração Relaxante-pt-1793990259190</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/6760948683?lang=en"/>
-        <updated>2026-11-06T18:37:39.190Z</updated>
-        <summary type="html"><![CDATA[Price: 3,99 € → 0,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6760948683?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/ca/b1/d5cab1f4-ec64-7607-d57d-63047bff8a4d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>3,99 €</span> → <b>
-  <strong>0,99 €</strong>
-</b><span>[0,99 € ~ 4,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>0,99 €</b>
-</p><h2>Application Description</h2><p>
-  Digline é um jogo de perfuração relaxante e fácil de aprender, onde cada descida é uma pequena aposta entre progresso e risco, e a verdadeira recompensa está mais fundo no subsolo.
-
-Comece cada partida na sua oficina, escolha sua configuração e desça com combustível limitado e um equipamento improvisado. Abra caminho através de camadas de terra em constante mudança, decida o que coletar e escolha o momento certo para voltar antes que tudo se esgote.
-
-Cada descida revela novos materiais, descobertas mais raras e padrões inesperados sob a superfície. O que começa como uma simples escavação gradualmente se transforma em um equilíbrio cuidadoso entre exploração, eficiência e tempo.
-
-De volta à superfície, refine sua estratégia e melhore suas partidas:
-
-• Melhore sua perfuradora, capacidade de combustível e eficiência
-• Desbloqueie novos materiais de maior valor e localizados mais profundamente
-• Otimize rotas para maximizar cada descida
-
-O progresso se acumula de forma constante, mas cada partida carrega tensão. Se jogar com muita cautela, você deixa valor para trás. Se avançar demais, corre o risco de perder tudo.
-
-Defina seu próprio ritmo no subsolo: partidas curtas e eficientes, descidas profundas de alto risco ou uma progressão constante rumo ao domínio do que está abaixo.
-
-Top 10 jogos casuais nos Estados Unidos e no Reino Unido, Top 5 na Alemanha, Noruega e outros. Venha se juntar à diversão!
-
-O que começa como uma simples busca por recursos gradualmente se torna algo mais estranho. Seus antigos túneis permanecem, seu mapa se expande com o tempo, e o subsolo passa a parecer menos aleatório e mais como um lugar com sua própria história.
-
-Digline foi projetado para ser fácil de começar, divertido em sessões curtas e recompensador no longo prazo. Escavações rápidas, descidas curtas, muita diversão relaxante.
-
-Recursos:
-
-• controles intuitivos com um dedo em modo retrato
-• partidas curtas que cabem facilmente em um ou dois minutos
-• túneis persistentes e um mapa que cresce a cada expedição
-• múltiplas regiões subterrâneas com diferentes materiais, perigos e surpresas
-• recursos para coletar e usar na criação de melhorias e melhor preparação
-• uma oficina que transforma cada partida bem-sucedida em progresso permanente
-• um sistema de mercado para negociar o que você traz de volta
-• progressão que se constrói ao longo de muitas sessões, não apenas uma única partida
-• uma atmosfera calma e aconchegante com um senso de descoberta por baixo
-• sem anúncios, sem compras dentro do aplicativo e sem sistemas pay-to-win
-• conquistas e competição no placar do Daily Dig
-
-Quanto mais fundo você vai, mais a mina revela.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/9c/90/fd9c9062-0145-e3d5-d67b-bc40a5c1c1c4/pt-pt-1-Introduction.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/4d/e3/e64de30c-88da-ae5c-e36a-f4b38db2abfe/pt-pt-2-Feature_A.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/cd/6d/ebcd6dff-5d96-0884-5261-fc67cf054519/pt-pt-3-Feature_B.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/af/bd/b5afbde1-9b68-0375-a42e-e490183a5842/pt-pt-4-Feature_C.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/9f/43/a69f4335-a17a-5282-7a53-57e5a3c74952/pt-pt-5-Feature_D.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/4c/ff/7f4cffd3-ec50-6207-7652-68d22627e153/pt-pt-6-Feature_E.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/6d/4f/146d4f36-0686-e041-4f75-809defb1492c/pt-pt-7-Feature_F.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/aa/33/d8aa339a-96a5-e144-8599-4a8f9c136142/pt-pt-1-Introduction_iPad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/ba/18/d4ba185e-078b-bede-7e05-71d7b7c2da40/pt-pt-2-Feature_A_iPad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/51/d5/5751d544-00af-3684-73d0-78a3a1955ecf/pt-pt-3-Feature_B_iPad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/01/e2/1401e26c-4a6b-7ed6-14e6-4d4862daa7da/pt-pt-4-Feature_C_iPad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/33/d7/4533d76f-56de-ce51-648d-02af323fbd65/pt-pt-6-Feature_E_iPad.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/2e/a3/422ea3f6-5c56-bacf-6b6f-31f20c65a641/pt-pt-7-Feature_F_iPad.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[求生无限 - 单机经典无限流大冒险]]></title>
-        <id>求生无限 - 单机经典无限流大冒险-pt-1793990259190</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/982457990?lang=en"/>
-        <updated>2026-11-06T18:37:39.190Z</updated>
-        <summary type="html"><![CDATA[Price: 0,29 € → Gratuito]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/982457990?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/d0/d2/dcd0d2e2-f928-6dd4-de78-b67dbd03e311/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>0,29 €</span> → <b>
-  <strong>Gratuito</strong>
-</b><span>[Gratuito ~ 0,29 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Gratuito</b>
-</p><h3>Compras integradas</h3><ul>
-  <li>
-    Package Ⅵ：<b>99,99 €</b>
-  </li><li>
-    Package Ⅴ：<b>44,99 €</b>
-  </li><li>
-    Package Ⅳ：<b>22,99 €</b>
-  </li><li>
-    Package Ⅲ：<b>9,99 €</b>
-  </li><li>
-    Package Ⅱ：<b>5,99 €</b>
-  </li><li>
-    Package Ⅱ-other：<b>1,99 €</b>
-  </li><li>
-    Package I：<b>0,99 €</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  身陷怪异危险游戏
-
-穿梭在不同的神秘世界展开征程
-
-成为孤胆英雄，也可与队友们结伴前行
-
-遭遇危机，是选择避其锋芒，还是果敢无畏迎难直上
-
-收服和培养宠物、自由兑换各种物资甚至血脉能力，开启一段奇幻旅程……
-
-冒险者，你准备好了吗？
-
-－－－－－－－－－－－
-
-无限流生存挑战大冒险
-
-如果你厌倦了浮夸的画面
-如果你想要一份原汁原味的无限流奇幻冒险  
-
-这里有——
-
-高自由度，开放式
-经典的，宏大的，原始的，未知的
-  
-探索与成长
-职业，能力，血统，物品
-
-策略与决断
-捕获宠物，争夺生存点，攻略剧情角色……
-
-重度数据预警！这里是真正的无限流试炼场
-
-－－－－－－－－－－－
-部分评论：
-- “这游戏有毒，越玩越上瘾，模式就和无限恐怖一样，还原度挺高，真的有意思。”
-- “很棒，设定新颖，而且耐玩，有挑战，喜欢这类游戏的朋友一定不要错过。”
-- “无限流游戏中的顶尖作品，跟我很久以前看过的无限流小说很相似，也符合我脑海中无限流游戏应该有的样子”
-- “符合我对游戏的要求，最开始真的一头雾水，上手后就感觉有趣了，到现在无法自拔啊”
-- “非常不错的游戏，细节，战斗，生存，彩蛋，都需要自己去挖掘，希望作者继续多更新后续剧情，加油！”
-- “优秀的作品，自由度蛮高的一款游戏，可以攻略游戏里的npc，角色成长多样化。目前游戏还在持续更新中，正如游戏的名字一样，是一款拥有无限可能性的游戏。”
-
-－－－－－－－－－－－
-    Q：为何我首次运行App，选择角色属性选择进入游戏/点选选项发生闪退？
-    A：首次运行App，在loading页面请不要强制退出或切换屏幕，否则可能导致App数据初始化不完全。解抉方式：重新下载运行即可
-
-(备注:[特别篇章节]与正篇内容有很大不同，其中不仅存在低难度、普通难度、高难度敌人角色，同时也存在超高等级非常规难度剧情角色，此类非常规角色可视作剧情世界需要存在，玩家可不必刻意尝试挑战)
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/f2/d1/68f2d187-e73f-1e1c-4ad6-c5e43df65aeb/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/ae/af/18aeaf67-8d7d-dbcf-7faa-e63cbb887544/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/d7/4b/7fd74b36-ed06-400a-fccc-ff7a8c002457/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/65/8b/4c658ba0-e5e2-ad70-6544-bcc806f261f5/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/d3/d4/78d3d449-3441-159f-3c57-3016e242bed3/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/bd/2a/8ebd2ad5-7da0-2a6d-02c4-cd533740ea0d/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/14/66/e5146611-153f-73d0-ce77-8b70eb1c4376/pr_source.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/27/b4/3227b4c3-1542-8fbb-9bfb-4e0ff16f2dba/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/12/0b/7e120b08-bd56-84f9-6ee4-50ec08076ac8/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/f6/e5/b0f6e5f2-e63d-eade-8f4e-52bdca412c92/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/90/d8/b690d87d-992e-3c67-67ea-abcfc3038326/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/57/62/7e576264-6536-a363-ab8d-eab59e9f3b7f/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/46/9b/dc469b18-4090-0be6-f7ba-93215e0752ec/pr_source.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gestor de Receitas Paprika 4]]></title>
-        <id>Gestor de Receitas Paprika 4-pt-1793990259190</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/1303222868?lang=en"/>
-        <updated>2026-11-06T18:37:39.190Z</updated>
-        <summary type="html"><![CDATA[Price: 5,99 € → Gratuito]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1303222868?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/d6/28/b2d628ca-9d0f-21c0-b2b7-d5fbc9f7b46d/Paprika4-Cutout-Curl-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>5,99 €</span> → <b>
-  <strong>Gratuito</strong>
-</b><span>[Gratuito ~ 5,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Gratuito</b>
-</p><h3>Compras integradas</h3><ul>
-  <li>
-    Paprika 4 Premium (desconto)：<b>9,99 €</b>
-  </li><li>
-    Paprika 4 Premium：<b>17,99 €</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Gerenciamento de receitas deliciosamente simples.
-
-Colecione receitas, crie listas de compras, planeje refeições.
-
-O Paprika 4 agora pode ser baixado gratuitamente em todas as plataformas. A versão gratuita permite salvar até 50 receitas em um único dispositivo. A assinatura premium desbloqueia receitas ilimitadas, sincronização na nuvem, acesso em todos os dispositivos e todos os outros recursos premium.
-
-Adicione receitas
-
-• Baixe receitas dos seus sites favoritos
-• Salve receitas do TikTok, Instagram, Facebook e YouTube (Premium)
-• Digitalize uma página de livro de receitas ou um cartão de receita (Premium)
-• Cole uma receita da área de transferência (Premium)
-• Importe arquivos de receitas de outros apps
-• Ou simplesmente digite as suas
-
-Cozinhe
-
-• Modo cozinha: use comandos de voz para cozinhar sem usar as mãos
-• Ajuste a proporção das porções e converta medidas
-• Risque ingredientes e destaque o passo atual
-• Detecção de timers: toque para iniciar
-• Calcule a informação nutricional (Premium)
-• Receba substituições de ingredientes (Apple Intelligence)
-• Mantenha a tela ligada enquanto cozinha
-
-Organize
-
-• Crie categorias e subcategorias
-• Receba sugestões de categorias para receitas (Premium)
-• Agrupe receitas em livros de receitas (Premium)
-• Pesquisa avançada para encontrar a receita certa
-
-Compre
-
-• Veja as listas de compras por corredores
-• Crie várias listas de compras (Premium)
-• Acompanhe os itens da despensa
-• Localizações da despensa adicionais (Premium)
-• Leia códigos de barras (Premium)
-
-Planeje
-
-• Planeje as refeições do dia, da semana ou do mês
-• Crie cardápios reutilizáveis
-• Adicione a semana inteira à sua lista de compras
-• Sincronize com o Calendário (Premium)
-
-Sincronize e compartilhe
-
-• Sincronize com todos os seus dispositivos (Premium)
-• Contas familiares (Premium)
-• Imprima receitas, listas de compras, cardápios e planos de refeições
-• Compartilhe seus livros de receitas (Premium)
-• Integração com Alexa (Premium)
-• Funciona offline
-
-iOS
-
-• Suporte ao iPhone Duo
-• Suporte ao Apple Watch
-• Suporte a Widgets, Atalhos, Siri AI e Spotlight
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/00/22/63002256-d944-d6b2-c30d-4d17d767d6fd/01-recipes.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/4f/ce/7d4fce80-2f1e-2437-e348-c7d9135fa2ff/02-recipe.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/0b/8d/c50b8d30-21fa-d16b-e6b4-f28a77e7bf62/04-groceries.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/9f/96/3e9f966f-6a12-c4cc-20d6-a164582c9ed5/05-meals.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/e1/f4/afe1f4c4-aa16-af17-d957-fe6543f9af39/06-sync.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/46/4b/38464b5e-948c-f64f-5d19-948f583e69ec/01-recipes.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/8d/7a/cb8d7a78-e338-5a0a-c205-cc97a5741410/02-recipe.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/89/73/0c8973b8-4852-0ab2-cadd-13f1df5ba1fe/04-groceries.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/6a/dd/ff6add8c-cb2a-2958-5bfb-f704b50ad69d/05-meals.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ba/c7/27bac7ea-51f5-c597-314e-d8315305820e/06-sync.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DayCost Pro - Personal Finance]]></title>
-        <id>DayCost Pro - Personal Finance-pt-1793990259190</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/931188326?lang=en"/>
-        <updated>2026-11-06T18:37:39.190Z</updated>
-        <summary type="html"><![CDATA[Price: 2,99 € → Gratuito]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/931188326?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/51/0f/ef510f23-f22c-d774-f3e4-8c660e0a342f/ProAppIcon-0-1x_U007epad-0-1-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>2,99 €</span> → <b>
-  <strong>Gratuito</strong>
-</b><span>[Gratuito ~ 2,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Gratuito</b>
-</p><h2>Application Description</h2><p>
-  Apenas três segundos por item. Rápido, Seguro e Fácil de usar, esse é o nosso objetivo, e também através da Central de Notificações do iOS. 
-
-Apple Watch:
-Você pode criar receitas e despesas a partir do seu Apple Watch. A visualização mostra suas despesas de hoje, este mês.
-
-Recurso:
-◎ Três segundos somente: deslize para baixo, preencha o valor, escolha a categoria
-◎ Central de Notificações do iOS: você pode facilmente usar a partir da tela de bloqueio do iPhone
-◎ Senha de segurança: Ninguém pode abrir, somente você. Mesmo apertando duas vezes o botão início, na lista de Apps não podemos ver os dados
-◎ Suporta mais de 160 tipos de moedas, faz a atualização e a conversão do câmbio de forma automática
-◎ Calculadora: Calculadora embutida, mais conveniência e rapidez
-◎ Completamente gestual: Basicamente rápido ao inserir as informações
-◎ Guia para iniciantes humanizado: para operações especiais, nós mostramos o caminho através de animações + texto, mais intuitivo, fácil de entender
-◎ iCloud backup & restauração
-◎ Dropbox backup & restauração
-◎ Exportar dados para o formato CSV através de E-mail 
-◎ Evento recorrente, ambos os gastos e rendimentos, com opções de freqüência ricos.
-
-Básico:
-◎ Nas Despesas & Receitas você pode adicionar fotos das suas contas
-◎ Receitas, Despesas, Transferências, entre outros
-◎ Relatórios Gráficos, permitem a você visualizar facilmente o balanço dos pagamentos, a situação por ano / mês / semana
-◎ Gerenciamento do orçamento: Dê a você uma razão para controlar o seu consumo
-◎ Uma variedade de temas coloridos e papéis de parede, permitem você personalizar completamente o aplicativo
-◎ Categorias personalizadas e contas de consumo, mais adequado com suas necessidades
-◎ Suporta iPhone & iPad
-◎ Lembretes diários. 
-
-Mais:
-◎ Copia facilmente o histórico através de gestos e posiciona automaticamente na data correta, você só precisa modificar o valor para onde deve estar. É claro, você pode usar o valor existente já gravado diretamente
-◎ Você também pode adicionar categorias e contas quando estiver editando algum item, toque na bandeira para alterar a moeda. 
-
-Se você desistir por causa das dificuldades. 
-Se você desistir porque está ocupado. 
-Se você quer saber para onde estão indo as despesas. 
-Se você quer economizar dinheiro. 
-Se 。。。
-
-Teste nosso "DayCost", ele será o seu melhor assistente. Esquemas de 
-
-URL Schemes: DayCost://
-
-Ajude a traduzir o DayCost:
-Contribua para traduzir o DayCost para o seu idioma. 
-Vamos tornar o DayCost disponível para todo o mundo! 
-Nós mostraremos a informação do tradutor no DayCost, se você assim desejar.
-Como bônus, nós também daremos alguns códigos de desconto como cortesia.
-
-Tem alguma sugestão ou comentário? Por favor, escreva para nós：support@daycost.com
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/72/f9/96/72f99669-f1ac-3ff7-d8b9-222071c539d2/mzl.ihbomlvg.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/30/c7/f5/30c7f5aa-674b-4bdb-f345-82cdf3a76081/mzl.gnlfbmal.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e9/64/8b/e9648b6b-b301-8e34-74f4-a02502bce8ad/mzl.rxtvqasn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/bf/ec/05/bfec05a6-cbc6-32ec-64c5-75c6cd3e1311/mzl.zpelbeyg.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/4c/bf/4b/4cbf4b26-10c0-2692-2a90-30b5b3e4a474/mzl.pqywmgcc.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0c/55/6d/0c556d1e-d0dc-ff65-810b-0eed9aecc466/mzl.ehqvlchr.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/96/b7/7d/96b77df6-da51-c072-2e1a-c6f89cd6fa24/mzl.eqhxnwob.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/2e/b9/a4/2eb9a437-3240-51ab-09ab-2fae65cdd4f8/mzl.sxnrufnd.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f2/83/88/f283880c-2344-83d2-ec85-7026d8561873/mzl.tastvujh.png/576x768bb.png" />]]></content>
     </entry>
 </feed>

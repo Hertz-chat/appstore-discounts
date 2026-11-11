@@ -117,6 +117,37 @@
       ]
     ]
   },
+  "294631159": {
+    "name": "WeatherPro",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "Premium 12 Month": "HK$ 68.00",
+      "Premium 3 Month": "HK$ 18.00",
+      "Premium Monthly": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "Premium 12 Month": "HK$ 68.00",
+      "Premium 3 Month": "HK$ 18.00",
+      "Premium Monthly": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794433436114,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Premium 12 Month": "HK$ 68.00",
+            "Premium 3 Month": "HK$ 18.00",
+            "Premium Monthly": "HK$ 8.00"
+          }
+        }
+      ]
+    ]
+  },
   "294730339": {
     "name": "TripView",
     "maxPriceInfo": {
@@ -15799,6 +15830,18 @@
       "Unlock Everything": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433436114,
+          "price": 5,
+          "formattedPrice": "HK$ 5.00",
+          "inAppPurchases": {
+            "Dakota Map Pack": "HK$ 8.00",
+            "Alaska Map Pack": "HK$ 8.00",
+            "Unlock Everything": "HK$ 68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791916572466,
@@ -97088,7 +97131,7 @@
     ]
   },
   "1055650930": {
-    "name": "Codenames",
+    "name": "Codenames: Word Board Game",
     "maxPriceInfo": {
       "price": 38,
       "formattedPrice": "HK$ 38.00",
@@ -97978,14 +98021,22 @@
   "1065311870": {
     "name": "VRPlayer Pro : 2D 3D 360°Video",
     "maxPriceInfo": {
-      "price": 18,
-      "formattedPrice": "HK$ 18.00"
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 18,
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433436114,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1767558646047,
@@ -163035,6 +163086,25 @@
     "history": [
       [
         {
+          "timestamp": 1794433436114,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "68金玉": "HK$ 78.00",
+            "30金玉": "HK$ 38.00",
+            "6金玉": "HK$ 8.00",
+            "198金玉": "HK$ 238.00",
+            "648金玉": "HK$ 788.00",
+            "一鍵買斷禮包": "HK$ 38.00",
+            "尊享月俸": "HK$ 38.00",
+            "禮包3": "HK$ 16.00",
+            "禮包5": "HK$ 38.00",
+            "328金玉": "HK$ 398.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794344679438,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -207195,6 +207265,14 @@
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433436114,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1792345098035,
@@ -294994,6 +295072,17 @@
     "history": [
       [
         {
+          "timestamp": 1794433436114,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Steyr Arms Pack": "HK$ 22.00",
+            "Hunter's Pack": "HK$ 15.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791916572466,
           "price": 78,
           "formattedPrice": "HK$ 78.00",
@@ -305297,6 +305386,14 @@
     "history": [
       [
         {
+          "timestamp": 1794433436114,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793113178688,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -309381,7 +309478,7 @@
       "price": 22,
       "formattedPrice": "HK$ 22.00",
       "终身护持": "HK$ 118.00",
-      "年度护持": "HK$ 22.00",
+      "年度护持": "HK$ 148.00",
       "月度护持": "HK$ 8.00",
       "3-day Trial": "HK$ 0.00"
     },
@@ -309394,6 +309491,19 @@
       "3-day Trial": "HK$ 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433436114,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "3-day Trial": "HK$ 0.00",
+            "终身护持": "HK$ 118.00",
+            "年度护持": "HK$ 148.00",
+            "月度护持": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792397485602,
@@ -310148,14 +310258,30 @@
     "maxPriceInfo": {
       "price": 18,
       "formattedPrice": "HK$ 18.00",
-      "Keeps Pro": "HK$ 44.00"
+      "Keeps Pro": "HK$ 44.00",
+      "Keeps Pro Yearly": "HK$ 88.00",
+      "Keeps Pro Monthly": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Keeps Pro": "HK$ 9.00"
+      "Keeps Pro": "HK$ 9.00",
+      "Keeps Pro Yearly": "HK$ 88.00",
+      "Keeps Pro Monthly": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433436114,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Keeps Pro Yearly": "HK$ 88.00",
+            "Keeps Pro Monthly": "HK$ 18.00",
+            "Keeps Pro": "HK$ 44.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793380885407,
@@ -313896,14 +314022,22 @@
   "6830479627": {
     "name": "1in8b Life",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433436114,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794131413359,
@@ -314099,6 +314233,31 @@
           "price": 18,
           "formattedPrice": "HK$ 18.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6801113954": {
+    "name": "Booster Pack Heroes",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00",
+      "支持者禮包": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00",
+      "支持者禮包": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794433436114,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "支持者禮包": "HK$ 18.00"
+          }
         }
       ]
     ]

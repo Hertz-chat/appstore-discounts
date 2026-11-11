@@ -45,6 +45,39 @@
       ]
     ]
   },
+  "294631159": {
+    "trackId": 294631159,
+    "trackName": "WeatherPro",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00",
+      "Premium 3 Month": "¥15.00",
+      "Premium 12 Month": "¥58.00",
+      "Premium Monthly": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00",
+      "Premium 3 Month": "¥15.00",
+      "Premium 12 Month": "¥58.00",
+      "Premium Monthly": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794433436114,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {
+            "Premium 3 Month": "¥15.00",
+            "Premium 12 Month": "¥58.00",
+            "Premium Monthly": "¥8.00"
+          }
+        }
+      ]
+    ]
+  },
   "294730339": {
     "trackId": 294730339,
     "trackName": "TripView",
@@ -56786,14 +56819,22 @@
     "trackName": "VRPlayer Pro : 2D 3D 360°Video",
     "region": "cn",
     "maxPriceInfo": {
-      "price": 15,
-      "formattedPrice": "¥15.00"
+      "price": 22,
+      "formattedPrice": "¥22.00"
     },
     "minPriceInfo": {
       "price": 15,
       "formattedPrice": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433436114,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1767558646047,
@@ -141384,6 +141425,25 @@
     "history": [
       [
         {
+          "timestamp": 1794433436114,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {
+            "Funk Popular": "¥22.00",
+            "Swing Ⅱ-V-I-VI 12key (Long)": "¥38.00",
+            "Metheny & Mehldau": "¥38.00",
+            "Herbie Hancock & Chick corea": "¥38.00",
+            "Rhythm Change 12key": "¥38.00",
+            "Neo Soul Jam Track 12key": "¥38.00",
+            "Major Jazz Blues 12 key": "¥38.00",
+            "Art Blakey&The Jazz Messengers": "¥38.00",
+            "Feel Like Makin love 12key": "¥22.00",
+            "Bill Evans Repertoire": "¥58.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794402266910,
           "price": 98,
           "formattedPrice": "¥98.00",
@@ -175031,6 +175091,25 @@
     "history": [
       [
         {
+          "timestamp": 1794433436114,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "DLC：姐妹连": "¥2.00",
+            "DLC：英雄对决": "¥8.00",
+            "DLC：龙之神庙": "¥9.00",
+            "DLC：怪物联盟": "¥12.00",
+            "DLC：贪婪洞窟": "¥6.00",
+            "DLC：异界": "¥8.00",
+            "DLC：外星入侵": "¥8.00",
+            "DLC：邪恶之心": "¥12.00",
+            "奇境森林": "¥15.00",
+            "DLC：魔法之镜": "¥5.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793872776771,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -190654,6 +190733,25 @@
       "五子良将": "¥28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433436114,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {
+            "自创武将": "¥18.00",
+            "战国七雄": "¥28.00",
+            "群雄争霸": "¥14.00",
+            "楚汉争霸": "¥28.00",
+            "五子良将": "¥28.00",
+            "重振汉室": "¥14.00",
+            "自创地图": "¥24.00",
+            "无双战神": "¥28.00",
+            "斜谷残阳": "¥28.00",
+            "冠绝天下": "¥28.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794402266910,
@@ -212846,8 +212944,8 @@
     "trackName": "VoidLink",
     "region": "cn",
     "maxPriceInfo": {
-      "price": 9,
-      "formattedPrice": "¥9.00",
+      "price": 12,
+      "formattedPrice": "¥12.00",
       "Pencil Pro Pack": "¥37.00",
       "绘画工具套装": "¥37.00"
     },
@@ -212855,9 +212953,19 @@
       "price": 6,
       "formattedPrice": "¥6.00",
       "Pencil Pro Pack": "¥37.00",
-      "绘画工具套装": "¥37.00"
+      "绘画工具套装": "¥33.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433436114,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {
+            "绘画工具套装": "¥33.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772592000341,
@@ -242542,8 +242650,8 @@
       "price": 18,
       "formattedPrice": "¥18.00",
       "终身护持": "¥99.00",
-      "年度护持": "¥20.00",
-      "月度护持": "¥3.00",
+      "年度护持": "¥128.00",
+      "月度护持": "¥8.00",
       "3-day Trial": "¥0.00"
     },
     "minPriceInfo": {
@@ -242555,6 +242663,19 @@
       "3-day Trial": "¥0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433436114,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "3-day Trial": "¥0.00",
+            "年度护持": "¥128.00",
+            "月度护持": "¥8.00",
+            "终身护持": "¥99.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792397485602,
@@ -243065,14 +243186,30 @@
     "maxPriceInfo": {
       "price": 15,
       "formattedPrice": "¥15.00",
-      "Keeps Pro": "¥68.00"
+      "Keeps Pro": "¥68.00",
+      "Keeps Pro Yearly": "¥68.00",
+      "Keeps Pro Monthly": "¥15.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "Keeps Pro": "¥13.80"
+      "Keeps Pro": "¥13.80",
+      "Keeps Pro Yearly": "¥68.00",
+      "Keeps Pro Monthly": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433436114,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Keeps Pro Yearly": "¥68.00",
+            "Keeps Pro Monthly": "¥15.00",
+            "Keeps Pro": "¥33.80"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793380885407,
@@ -244449,14 +244586,22 @@
     "trackName": "1in8b Life",
     "region": "cn",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
+      "price": 15,
+      "formattedPrice": "¥15.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433436114,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794131413359,

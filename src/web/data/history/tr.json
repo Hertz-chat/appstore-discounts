@@ -282,6 +282,39 @@
       ]
     ]
   },
+  "294631159": {
+    "trackId": 294631159,
+    "trackName": "WeatherPro",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99",
+      "Premium Monthly": "₺29,99",
+      "Premium 12 Month": "₺499,99",
+      "Premium 3 Month": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99",
+      "Premium Monthly": "₺29,99",
+      "Premium 12 Month": "₺499,99",
+      "Premium 3 Month": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794433436114,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Premium Monthly": "₺29,99",
+            "Premium 12 Month": "₺499,99",
+            "Premium 3 Month": "₺99,99"
+          }
+        }
+      ]
+    ]
+  },
   "294730339": {
     "trackId": 294730339,
     "trackName": "TripView",
@@ -98894,7 +98927,7 @@
   },
   "1055650930": {
     "trackId": 1055650930,
-    "trackName": "Codenames",
+    "trackName": "Codenames: Word Board Game",
     "region": "tr",
     "maxPriceInfo": {
       "price": 249.99,
@@ -119901,6 +119934,22 @@
       "Coupé Style Pack": "₺0,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433436114,
+          "price": 349,
+          "formattedPrice": "₺349,00",
+          "inAppPurchases": {
+            "All DLC": "₺0,00",
+            "HD Textures": "₺0,00",
+            "Best of British Pack": "₺0,00",
+            "Black Edition Pack": "₺0,00",
+            "Road & Track Pack": "₺0,00",
+            "Drag Pack": "₺0,00",
+            "Sprint Pack": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794402266910,
@@ -254990,6 +255039,25 @@
     "history": [
       [
         {
+          "timestamp": 1794433436114,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 787-10": "₺99,99",
+            "Boeing 737-900": "₺99,99",
+            "Global scenery - 3 months": "₺399,99",
+            "Boeing 747-400": "₺99,99",
+            "Boeing 737-800": "₺149,99",
+            "Airbus A321": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794402266910,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -294668,6 +294736,25 @@
     "history": [
       [
         {
+          "timestamp": 1794433436114,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "CALICO RED/WHITE/BLACK": "₺99,99",
+            "HOLOGRAPHIC GHOST": "₺99,99",
+            "WIREFRAME RAINBOW": "₺49,99",
+            "WIREFRAME RED": "₺49,99",
+            "WIREFRAME BLACK": "₺49,99",
+            "WIREFRAME WHITE": "₺49,99",
+            "LOW POLY BLUE": "₺99,99",
+            "LOW POLY PINK": "₺99,99",
+            "LOW POLY CALICO": "₺99,99",
+            "LOW POLY RED": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794402266910,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -304860,14 +304947,30 @@
     "maxPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99",
-      "Keeps Pro": "₺144,99"
+      "Keeps Pro": "₺144,99",
+      "Keeps Pro Yearly": "₺499,99",
+      "Keeps Pro Monthly": "₺99,99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Keeps Pro": "₺29,00"
+      "Keeps Pro": "₺29,00",
+      "Keeps Pro Yearly": "₺499,99",
+      "Keeps Pro Monthly": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433436114,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Keeps Pro Yearly": "₺499,99",
+            "Keeps Pro Monthly": "₺99,99",
+            "Keeps Pro": "₺144,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793415517315,
@@ -308755,14 +308858,22 @@
     "trackName": "Vize: Yaşam Simülasyonu",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "₺9,99"
+      "price": 29.99,
+      "formattedPrice": "₺29,99"
     },
     "minPriceInfo": {
       "price": 4.99,
       "formattedPrice": "₺4,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433436114,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793840903622,
@@ -308878,14 +308989,22 @@
     "trackName": "1in8b Life",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
       "price": 49.99,
       "formattedPrice": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433436114,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794131413359,
@@ -309099,6 +309218,33 @@
           "price": 99.99,
           "formattedPrice": "₺99,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6801113954": {
+    "trackId": 6801113954,
+    "trackName": "Booster Pack Heroes",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 250,
+      "formattedPrice": "₺250,00",
+      "Supporter Pack": "₺72,99"
+    },
+    "minPriceInfo": {
+      "price": 250,
+      "formattedPrice": "₺250,00",
+      "Supporter Pack": "₺72,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794433436114,
+          "price": 250,
+          "formattedPrice": "₺250,00",
+          "inAppPurchases": {
+            "Supporter Pack": "₺72,99"
+          }
         }
       ]
     ]

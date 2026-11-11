@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 385902072,
+    "region": "mo",
+    "timestamp": 1794433436114,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.49",
+        "to": "USD 0.39",
+        "range": "[USD 0.39 ~ USD 2.49]"
+      }
+    ],
+    "price": 0.39,
+    "formattedPrice": "USD 0.39",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id385902072",
+    "trackName": "Guns'n'Glory Premium",
+    "firstRecordedAt": 1779638471104
+  },
+  {
+    "trackId": 1571643809,
+    "region": "mo",
+    "timestamp": 1794433436114,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1571643809",
+    "trackName": "地城謎蹤",
+    "firstRecordedAt": 1751962698117
+  },
+  {
+    "trackId": 6497948575,
+    "region": "mo",
+    "timestamp": 1794433436114,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 8.99",
+        "to": "USD 5.99",
+        "range": "[USD 3.99 ~ USD 8.99]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "USD 5.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6497948575",
+    "trackName": "Way of the Hunter Wild America",
+    "firstRecordedAt": 1764095974561
+  },
+  {
     "trackId": 6478398981,
     "region": "mo",
     "timestamp": 1794344679438,
@@ -1719,7 +1779,7 @@
     "formattedPrice": "USD 2.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1055650930",
-    "trackName": "Codenames",
+    "trackName": "Codenames: Word Board Game",
     "firstRecordedAt": 1745560983791
   },
   {
@@ -28741,7 +28801,7 @@
     "formattedPrice": "USD 2.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1055650930",
-    "trackName": "Codenames",
+    "trackName": "Codenames: Word Board Game",
     "firstRecordedAt": 1745560983791
   },
   {
@@ -34472,7 +34532,7 @@
     "formattedPrice": "USD 2.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1055650930",
-    "trackName": "Codenames",
+    "trackName": "Codenames: Word Board Game",
     "firstRecordedAt": 1745560983791
   },
   {
@@ -37498,7 +37558,7 @@
     "formattedPrice": "USD 0.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1055650930",
-    "trackName": "Codenames",
+    "trackName": "Codenames: Word Board Game",
     "firstRecordedAt": 1745560983791
   },
   {
@@ -39739,7 +39799,7 @@
     "formattedPrice": "USD 1.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1055650930",
-    "trackName": "Codenames",
+    "trackName": "Codenames: Word Board Game",
     "firstRecordedAt": 1745560983791
   },
   {
@@ -42779,7 +42839,7 @@
     "formattedPrice": "USD 1.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1055650930",
-    "trackName": "Codenames",
+    "trackName": "Codenames: Word Board Game",
     "firstRecordedAt": 1745560983791
   },
   {
@@ -46910,7 +46970,7 @@
     "formattedPrice": "USD 2.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1055650930",
-    "trackName": "Codenames",
+    "trackName": "Codenames: Word Board Game",
     "firstRecordedAt": 1745560983791
   },
   {

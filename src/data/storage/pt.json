@@ -171,6 +171,37 @@
       ]
     ]
   },
+  "294631159": {
+    "name": "WeatherPro",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
+      "Premium 12 Month": "9,99 €",
+      "Premium 3 Month": "1,99 €",
+      "Premium Monthly": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
+      "Premium 12 Month": "9,99 €",
+      "Premium 3 Month": "1,99 €",
+      "Premium Monthly": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794433436114,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Premium 12 Month": "9,99 €",
+            "Premium 3 Month": "1,99 €",
+            "Premium Monthly": "0,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "294730339": {
     "name": "TripView",
     "maxPriceInfo": {
@@ -48933,7 +48964,7 @@
     ]
   },
   "1055650930": {
-    "name": "Codenames",
+    "name": "Codenames: Código Secreto",
     "maxPriceInfo": {
       "price": 5.99,
       "formattedPrice": "5,99 €",
@@ -121437,6 +121468,23 @@
     "history": [
       [
         {
+          "timestamp": 1794433436114,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Global scenery - 3 months": "8,99 €",
+            "Airbus A380": "1,99 €",
+            "CRJ900": "0,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Airbus A321 XLR": "3,99 €",
+            "Boeing 737": "0,99 €",
+            "Boeing 737-800": "2,99 €",
+            "EC135": "0,99 €",
+            "Boeing 787-10": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1794402266910,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -152824,14 +152872,30 @@
     "maxPriceInfo": {
       "price": 1.99,
       "formattedPrice": "1,99 €",
-      "Keeps Pro": "6,49 €"
+      "Keeps Pro": "6,49 €",
+      "Keeps Pro Yearly": "9,99 €",
+      "Keeps Pro Monthly": "1,99 €"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "Keeps Pro": "1,29 €"
+      "Keeps Pro": "1,29 €",
+      "Keeps Pro Yearly": "9,99 €",
+      "Keeps Pro Monthly": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433436114,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Keeps Pro Yearly": "9,99 €",
+            "Keeps Pro Monthly": "1,99 €",
+            "Keeps Pro": "6,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793396723963,
@@ -155494,14 +155558,22 @@
   "6830479627": {
     "name": "1in8b Life",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794433436114,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794131413359,
@@ -155697,6 +155769,31 @@
           "price": 1.99,
           "formattedPrice": "1,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6801113954": {
+    "name": "Booster Pack Heroes",
+    "maxPriceInfo": {
+      "price": 6.79,
+      "formattedPrice": "6,79 €",
+      "Pacote de Apoiador": "2,49 €"
+    },
+    "minPriceInfo": {
+      "price": 6.79,
+      "formattedPrice": "6,79 €",
+      "Pacote de Apoiador": "2,49 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794433436114,
+          "price": 6.79,
+          "formattedPrice": "6,79 €",
+          "inAppPurchases": {
+            "Pacote de Apoiador": "2,49 €"
+          }
         }
       ]
     ]

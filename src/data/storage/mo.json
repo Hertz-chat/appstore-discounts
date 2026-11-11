@@ -502,6 +502,24 @@
     "history": [
       [
         {
+          "timestamp": 1794367744578,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Tyrannosaurus Rex Skin Pack": "USD 0.99",
+            "Halloween Skin Pack": "USD 0.99",
+            "Holiday Skin Pack": "USD 0.99",
+            "Dance Pack Too": "USD 0.99",
+            "Alien Pack": "USD 0.99",
+            "Ice Monster Skin Pack": "USD 0.99",
+            "Retro Games SkinPack": "USD 0.99",
+            "Medieval Pack": "USD 0.99",
+            "Japanese Skin Pack": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792656146968,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -97174,6 +97192,25 @@
       "648元礼包三": "USD 99.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794367744578,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "648元礼包四": "USD 99.99",
+            "328元礼包四": "USD 49.99",
+            "168元礼包四": "USD 24.99",
+            "30元礼包四": "USD 3.99",
+            "60元礼包四": "USD 8.99",
+            "18元礼包四": "USD 2.99",
+            "6元礼包四": "USD 0.99",
+            "328元礼包三": "USD 49.99",
+            "168元礼包三": "USD 24.99",
+            "648元礼包三": "USD 99.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794106722002,

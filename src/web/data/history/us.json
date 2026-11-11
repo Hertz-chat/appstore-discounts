@@ -37923,6 +37923,23 @@
     "history": [
       [
         {
+          "timestamp": 1794367744578,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Moon Phases calendar": "$0.99",
+            "Holidays United States": "$0.99",
+            "+800 Emoji Stickers": "$0.99",
+            "Religious holidays": "$0.99",
+            "TV Schedules": "$0.99",
+            "Week Numbers": "$0.99",
+            "Weather calendars": "$1.99",
+            "Calendars - Pro Baseball USA 2015 edition": "$0.99",
+            "Calendars - Pro Football USA 2014-2015 edition": "$0.99",
+            "Calendars - Rio Games 2016 edition": "$0.99"
+          }
+        },
+        {
           "timestamp": 1794344679438,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -55659,6 +55676,25 @@
       "Handful O' Tokens": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794367744578,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Bigger Beacons": "$0.99",
+            "Healthy Bananas": "$0.99",
+            "Tower Unlock All Upgrades": "$0.99",
+            "Handful O' Tokens": "$0.99",
+            "Pile O' Tokens": "$4.99",
+            "Vault O' Tokens": "$9.99",
+            "Rank Up": "$0.99",
+            "500 Monkey Money": "$0.99",
+            "Pile O' Monkey Money": "$4.99",
+            "Vault O' Monkey Money": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793089647083,
@@ -92825,6 +92861,23 @@
     "history": [
       [
         {
+          "timestamp": 1794367744578,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Forever friends": "$6.99",
+            "Music collection sp01": "$0.00",
+            "奇怪的试题集": "$0.99",
+            "小酒仙节拍器": "$0.99",
+            "Music Collection 01": "$1.99",
+            "Music Collection 04": "$2.99",
+            "Subscription Ticket 1~5": "$8.99",
+            "和风主题": "$3.99",
+            "Music Collection 03": "$2.99",
+            "HOUSE风格主题包B": "$3.99"
+          }
+        },
+        {
           "timestamp": 1794344679438,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -103914,6 +103967,20 @@
       "325,000 Gold": "$45.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794367744578,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "60,000 Gold": "$10.99",
+            "25,000 Gold": "$5.99",
+            "125,000 Gold": "$21.99",
+            "700,000 Gold": "$89.99",
+            "325,000 Gold": "$54.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793243454661,
@@ -129108,7 +129175,7 @@
   },
   "1154832936": {
     "trackId": 1154832936,
-    "trackName": "Call Ranger: Phone Blocker",
+    "trackName": "Call Ranger: Mass Spam Blocker",
     "region": "us",
     "maxPriceInfo": {
       "price": 4.99,
@@ -154075,6 +154142,14 @@
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794367744578,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793700779769,
@@ -245173,7 +245248,7 @@
   },
   "1582355047": {
     "trackId": 1582355047,
-    "trackName": "Hacker Başlangıç",
+    "trackName": "Hacker the Beginning",
     "region": "us",
     "maxPriceInfo": {
       "price": 1.99,
@@ -262667,6 +262742,14 @@
       "formattedPrice": "$0.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794367744578,
+          "price": 10.99,
+          "formattedPrice": "$10.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793243454661,
@@ -354600,7 +354683,8 @@
       "BAT FISH": "$1.99",
       "ROBO FISH 06": "$1.99",
       "BLACK VAMPIRE": "$1.99",
-      "ROBO FISH 05": "$1.99"
+      "ROBO FISH 05": "$1.99",
+      "HOLOGRAPHIC GHOST": "$1.99"
     },
     "minPriceInfo": {
       "price": 1.69,
@@ -354651,10 +354735,28 @@
       "BAT FISH": "$1.99",
       "ROBO FISH 06": "$1.99",
       "BLACK VAMPIRE": "$1.99",
-      "ROBO FISH 05": "$1.99"
+      "ROBO FISH 05": "$1.99",
+      "HOLOGRAPHIC GHOST": "$1.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1794367744578,
+          "price": 3.49,
+          "formattedPrice": "$3.49",
+          "inAppPurchases": {
+            "HOLOGRAPHIC GHOST": "$1.99",
+            "WIREFRAME RAINBOW": "$0.99",
+            "WIREFRAME RED": "$0.99",
+            "WIREFRAME BLACK": "$0.99",
+            "WIREFRAME WHITE": "$0.99",
+            "LOW POLY BLUE": "$1.99",
+            "LOW POLY PINK": "$1.99",
+            "LOW POLY CALICO": "$1.99",
+            "LOW POLY RED": "$1.99",
+            "LOW POLY BLACK": "$1.99"
+          }
+        },
         {
           "timestamp": 1794344679438,
           "price": 3.49,

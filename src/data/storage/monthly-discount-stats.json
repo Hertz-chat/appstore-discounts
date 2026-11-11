@@ -358,6 +358,13 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6755290585": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Raider Mk. 1": 1
+      }
     }
   },
   "mo": {
@@ -1036,6 +1043,13 @@
     }
   },
   "tr": {
+    "432850619": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "FL Cloud Mobile": 1
+      }
+    },
     "882362024": {
       "all": 1,
       "price": 1,

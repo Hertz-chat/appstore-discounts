@@ -22691,6 +22691,22 @@
     "history": [
       [
         {
+          "timestamp": 1794367744578,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "₺49,99",
+            "Sliced Beats": "₺49,99",
+            "Varazdin Orchestral Mobile": "₺199,99",
+            "FL Cloud Mobile": "₺129,99",
+            "Voices": "₺49,99",
+            "DubTechno": "₺99,99",
+            "Amped Guitar & Bass": "₺149,99",
+            "Hyper-Pop Mobile": "₺149,99",
+            "Synth Lead": "₺99,99"
+          }
+        },
+        {
           "timestamp": 1794344679438,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -39103,6 +39119,25 @@
       "Autobahn paint job for all vehicles": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794367744578,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Hot Chrome paint job for all vehicles": "₺149,99",
+            "Seoul Rider paint job for all vehicles": "₺49,99",
+            "Autobahn paint job for all vehicles": "₺49,99",
+            "The Met paint job for all vehicles": "₺49,99",
+            "East Side paint job for all vehicles": "₺49,99",
+            "Donut Finder": "₺149,99",
+            "Pack of 50 Super Cops": "₺699,99",
+            "Pack of 10 Super Cops": "₺149,99",
+            "Pack of 3 Super Cops": "₺49,99",
+            "Unlock All Vehicles": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785428765959,
@@ -93991,6 +94026,20 @@
     "history": [
       [
         {
+          "timestamp": 1794367744578,
+          "price": 69.99,
+          "formattedPrice": "₺69,99",
+          "inAppPurchases": {
+            "25,000 Gold": "₺89,99",
+            "700,000 Gold": "₺4.999,99",
+            "325,000 Gold": "₺769,99",
+            "125,000 Gold": "₺349,99",
+            "60,000 Gold": "₺169,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793224661146,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -116929,7 +116978,7 @@
   },
   "1154832936": {
     "trackId": 1154832936,
-    "trackName": "Call Ranger: Phone Blocker",
+    "trackName": "Call Ranger: Mass Spam Blocker",
     "region": "tr",
     "maxPriceInfo": {
       "price": 249.99,
@@ -214316,7 +214365,7 @@
   },
   "1582355047": {
     "trackId": 1582355047,
-    "trackName": "Hacker Başlangıç",
+    "trackName": "Hacker the Beginning",
     "region": "tr",
     "maxPriceInfo": {
       "price": 19.99,
@@ -227272,6 +227321,14 @@
       "formattedPrice": "₺4,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794367744578,
+          "price": 169.99,
+          "formattedPrice": "₺169,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793224661146,
@@ -254859,6 +254916,25 @@
       "Airbus A321 XLR": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794367744578,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 787-10": "₺99,99",
+            "Boeing 737-800": "₺149,99",
+            "Global scenery - 3 months": "₺399,99",
+            "Boeing 737-900": "₺99,99",
+            "Airbus A321": "₺99,99",
+            "Airbus A350-1000": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794267500104,
@@ -288734,6 +288810,25 @@
       "1000000 money": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794367744578,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "5 ticket": "₺19,99",
+            "passatb8": "₺49,99",
+            "5 gold": "₺19,99",
+            "15 gold": "₺29,99",
+            "30000 money": "₺19,99",
+            "sonsuz paket": "₺249,99",
+            "30 gold": "₺49,99",
+            "30 ticket": "₺49,99",
+            "porches": "₺49,99",
+            "10 gold": "₺29,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794234717577,

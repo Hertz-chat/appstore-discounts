@@ -246,7 +246,7 @@
 |2186|6761228817|自动|TileGrid 地毯设计|TileGrid カーペット|TileGrid カーペット|TileGrid カーペット|TileGrid - Carpet Planner|TileGrid - Carpet Planner|TileGrid - Carpet Planner|
 |2185|6786316806|自动|Wildwood: Follow the Crows|Wildwood: Follow the Crows|Wildwood: Follow the Crows|Wildwood: Follow the Crows|Wildwood: Follow the Crows|Wildwood: Follow the Crows|Wildwood: Follow the Crows|
 |2184|6773620703|自动|安尼姆的无尽旅途|安尼姆的无尽旅途|安尼姆的无尽旅途|安尼姆的无尽旅途|安尼姆的无尽旅途|安尼姆的无尽旅途|安尼姆的无尽旅途|
-|2183|1154832936|自动|Call Ranger: 海量来电拦截器|Call Ranger: 海量來電封鎖器|Call Ranger: 海量來電封鎖器|Call Ranger: 海量來電封鎖器|Call Ranger: Phone Blocker|Call Ranger: Phone Blocker|Call Ranger: Bloquear Chamadas|
+|2183|1154832936|自动|Call Ranger: 海量来电拦截器|Call Ranger: 海量來電封鎖器|Call Ranger: 海量來電封鎖器|Call Ranger: 海量來電封鎖器|Call Ranger: Mass Spam Blocker|Call Ranger: Mass Spam Blocker|Call Ranger: Bloquear Chamadas|
 |2182|433579249|自动|飕飕相机美颜版|ソソカメラ|ソソカメラ|ソソカメラ|SoSoCamera Beauty|SoSoCamera Beauty|ソソカメラ|
 |2181|6760764479|自动|Alpin Quest PRO – Outdoor GPS|Alpin Quest PRO – Outdoor GPS|Alpin Quest PRO – Outdoor GPS|Alpin Quest PRO – Outdoor GPS|Alpin Quest PRO – Outdoor GPS|Alpin Quest PRO – Outdoor GPS|Alpin Quest PRO – Outdoor GPS|
 |2180| ~~6794760301~~ |自动| ~~FileFlip: Convert Files~~ | ~~FileFlip: Convert Files~~ | ~~FileFlip: Convert Files~~ | ~~FileFlip: Convert Files~~ | ~~FileFlip: Convert Files~~ | ~~FileFlip: Convert Files~~ | ~~FileFlip: Convert Files~~ |
@@ -1720,7 +1720,7 @@
 |712| ~~1423585518~~ |自动| ~~ROMAN: 进食计画、减肥、减脂一体化。 体重管理。~~ | ~~ROMAN: 進食計畫、減肥、減脂一體化。體重管理。~~ | ~~ROMAN: 進食計畫、減肥、減脂一體化。體重管理。~~ | ~~ROMAN: 進食計畫、減肥、減脂一體化。體重管理。~~ | ~~Roman: budget weight loss~~ | ~~Roman: budget weight loss~~ | ~~Roman: budget weight loss~~ |
 |711|1508108761|自动|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|Pare de fumar - EasyQuit Pro|
 |710|1550721625|自动|JAMMATES|JAMMATES|JAMMATES|JAMMATES|JAMMATES|JAMMATES|JAMMATES|
-|709|1582355047|自动|❌|Hacker Başlangıç|Hacker Başlangıç|Hacker Başlangıç|Hacker Başlangıç|Hacker Başlangıç|Hacker Başlangıç|
+|709|1582355047|自动|❌|Hacker Başlangıç|Hacker Başlangıç|Hacker Başlangıç|Hacker the Beginning|Hacker the Beginning|Hacker Başlangıç|
 |708|1610305853|自动|SunOnTrack：太阳路径|SunOnTrack: Sun Path & Shadows|SunOnTrack: Sun Path & Shadows|SunOnTrack: Sun Path & Shadows|SunOnTrack: Sun Path & Shadows|SunOnTrack: Sun Path & Shadows|SunOnTrack: Trajeto solar|
 |707|1616391834|自动|合成游戏合集：含合成大西瓜、2048和合成神龙经典游戏|合成游戏合集：含合成大西瓜、2048和合成神龙经典游戏|合成游戏合集：含合成大西瓜、2048和合成神龙经典游戏|合成游戏合集：含合成大西瓜、2048和合成神龙经典游戏|❌|❌|❌|
 |706|1668418644|自动|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|❌|

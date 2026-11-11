@@ -34110,6 +34110,23 @@
     "history": [
       [
         {
+          "timestamp": 1794402266910,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Rayark Selection Vol.2": "3,99 €",
+            "Rayark Selection Vol.1": "3,99 €",
+            "V.K Collection": "3,99 €",
+            "Forgotten Hourglass": "9,99 €",
+            "MILI Collection": "3,99 €",
+            "M2U X NICODE Collection": "3,99 €",
+            "Sakuzyo Collection": "3,99 €",
+            "Knight Iris": "3,99 €",
+            "Cytus Selection Vol.1": "3,99 €",
+            "Brian Crain Collection": "3,99 €"
+          }
+        },
+        {
           "timestamp": 1794367744578,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -121420,6 +121437,25 @@
     "history": [
       [
         {
+          "timestamp": 1794402266910,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Airbus A380": "1,99 €",
+            "CRJ900": "0,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Airbus A321 XLR": "3,99 €",
+            "Boeing 737": "0,99 €",
+            "Boeing 737-800": "2,99 €",
+            "EC135": "0,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Boeing 737 MAX 9": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794106722002,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -145458,6 +145494,23 @@
     "history": [
       [
         {
+          "timestamp": 1794402266910,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "New Rulers": "6,99 €",
+            "Wedding Skin Set": "9,99 €",
+            "Underworld Pass 2": "2,99 €",
+            "Memory of Training": "19,99 €",
+            "Neo Behemoth": "1,99 €",
+            "Underworld Pass 1": "2,99 €",
+            "Ark of Eternity": "34,99 €",
+            "Pioneer of the Abyss": "9,99 €",
+            "Time Traveler": "6,99 €",
+            "Essence of Transcendence": "34,99 €"
+          }
+        },
+        {
           "timestamp": 1794367744578,
           "price": 6.99,
           "formattedPrice": "6,99 €",
@@ -155622,6 +155675,27 @@
           "timestamp": 1794344679438,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6776231069": {
+    "name": "Screen Off Recorder",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794402266910,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
           "inAppPurchases": {}
         }
       ]

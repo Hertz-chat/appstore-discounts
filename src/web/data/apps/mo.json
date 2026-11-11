@@ -182,7 +182,7 @@
   {
     "trackId": 301387274,
     "region": "mo",
-    "timestamp": 1794367744578,
+    "timestamp": 1794402266910,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "USD 0.99",
@@ -10110,7 +10110,7 @@
   {
     "trackId": 1242654932,
     "region": "mo",
-    "timestamp": 1794367744578,
+    "timestamp": 1794402266910,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "USD 0.99",
@@ -12545,7 +12545,7 @@
   {
     "trackId": 1450144092,
     "region": "mo",
-    "timestamp": 1794194439896,
+    "timestamp": 1794402266910,
     "discounts": [],
     "price": 0.29,
     "formattedPrice": "USD 0.29",
@@ -26080,6 +26080,18 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id6775851661",
     "trackName": "Agent Limbo: AI Coding",
     "firstRecordedAt": 1792345098035
+  },
+  {
+    "trackId": 6776231069,
+    "region": "mo",
+    "timestamp": 1794402266910,
+    "discounts": [],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6776231069",
+    "trackName": "熄屏錄影機",
+    "firstRecordedAt": 1794402266910
   },
   {
     "trackId": 6776762891,

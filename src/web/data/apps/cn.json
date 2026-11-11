@@ -6549,7 +6549,7 @@
   {
     "trackId": 1242654932,
     "region": "cn",
-    "timestamp": 1794367744578,
+    "timestamp": 1794402266910,
     "discounts": [],
     "price": 1,
     "formattedPrice": "¥1.00",
@@ -6981,7 +6981,7 @@
   {
     "trackId": 1329434099,
     "region": "cn",
-    "timestamp": 1794286670366,
+    "timestamp": 1794402266910,
     "discounts": [],
     "price": 1,
     "formattedPrice": "¥1.00",
@@ -9451,7 +9451,7 @@
   {
     "trackId": 1550721625,
     "region": "cn",
-    "timestamp": 1788088833295,
+    "timestamp": 1794402266910,
     "discounts": [],
     "price": 98,
     "formattedPrice": "¥98.00",
@@ -9633,7 +9633,7 @@
   {
     "trackId": 1557637265,
     "region": "cn",
-    "timestamp": 1793786660480,
+    "timestamp": 1794402266910,
     "discounts": [],
     "price": 1,
     "formattedPrice": "¥1.00",
@@ -10550,7 +10550,7 @@
   {
     "trackId": 1621055260,
     "region": "cn",
-    "timestamp": 1794367744578,
+    "timestamp": 1794402266910,
     "discounts": [],
     "price": 1,
     "formattedPrice": "¥1.00",
@@ -11380,7 +11380,7 @@
   {
     "trackId": 6444508254,
     "region": "cn",
-    "timestamp": 1794367744578,
+    "timestamp": 1794402266910,
     "discounts": [],
     "price": 28,
     "formattedPrice": "¥28.00",
@@ -12044,7 +12044,7 @@
   {
     "trackId": 6473332700,
     "region": "cn",
-    "timestamp": 1794344679438,
+    "timestamp": 1794402266910,
     "discounts": [],
     "price": 35,
     "formattedPrice": "¥35.00",
@@ -15849,6 +15849,18 @@
     "trackViewUrl": "https://apps.apple.com/cn/app/id6775851661",
     "trackName": "Agent Limbo - AI 编程助手",
     "firstRecordedAt": 1792345098035
+  },
+  {
+    "trackId": 6776231069,
+    "region": "cn",
+    "timestamp": 1794402266910,
+    "discounts": [],
+    "price": 12,
+    "formattedPrice": "¥12.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6776231069",
+    "trackName": "熄屏录像机",
+    "firstRecordedAt": 1794402266910
   },
   {
     "trackId": 6776762891,

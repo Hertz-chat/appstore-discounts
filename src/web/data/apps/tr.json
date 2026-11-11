@@ -2209,7 +2209,7 @@
   {
     "trackId": 432850619,
     "region": "tr",
-    "timestamp": 1794367744578,
+    "timestamp": 1794402266910,
     "discounts": [],
     "price": 399.99,
     "formattedPrice": "₺399,99",
@@ -2824,7 +2824,7 @@
   {
     "trackId": 480956504,
     "region": "tr",
-    "timestamp": 1794367744578,
+    "timestamp": 1794402266910,
     "discounts": [],
     "price": 249.99,
     "formattedPrice": "₺249,99",
@@ -9507,7 +9507,7 @@
   {
     "trackId": 1179421849,
     "region": "tr",
-    "timestamp": 1792266405252,
+    "timestamp": 1794402266910,
     "discounts": [],
     "price": 349,
     "formattedPrice": "₺349,00",
@@ -13411,7 +13411,7 @@
   {
     "trackId": 1477966166,
     "region": "tr",
-    "timestamp": 1794318757010,
+    "timestamp": 1794402266910,
     "discounts": [],
     "price": 249.99,
     "formattedPrice": "₺249,99",
@@ -18779,7 +18779,7 @@
   {
     "trackId": 6448928429,
     "region": "tr",
-    "timestamp": 1794367744578,
+    "timestamp": 1794402266910,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -19635,7 +19635,7 @@
   {
     "trackId": 6471839445,
     "region": "tr",
-    "timestamp": 1793146065483,
+    "timestamp": 1794402266910,
     "discounts": [],
     "price": 199.99,
     "formattedPrice": "₺199,99",
@@ -19731,7 +19731,7 @@
   {
     "trackId": 6473001577,
     "region": "tr",
-    "timestamp": 1794367744578,
+    "timestamp": 1794402266910,
     "discounts": [],
     "price": 199.99,
     "formattedPrice": "₺199,99",
@@ -25826,6 +25826,18 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6775851661",
     "trackName": "Agent Limbo: AI Coding",
     "firstRecordedAt": 1792345098035
+  },
+  {
+    "trackId": 6776231069,
+    "region": "tr",
+    "timestamp": 1794402266910,
+    "discounts": [],
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6776231069",
+    "trackName": "Screen Off Recorder",
+    "firstRecordedAt": 1794402266910
   },
   {
     "trackId": 6776762891,

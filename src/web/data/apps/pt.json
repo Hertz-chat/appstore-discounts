@@ -4603,7 +4603,7 @@
   {
     "trackId": 700637744,
     "region": "pt",
-    "timestamp": 1794367744578,
+    "timestamp": 1794402266910,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "1,99 €",
@@ -18374,7 +18374,7 @@
   {
     "trackId": 6473001577,
     "region": "pt",
-    "timestamp": 1794106722002,
+    "timestamp": 1794402266910,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "3,99 €",
@@ -23636,7 +23636,7 @@
   {
     "trackId": 6761328517,
     "region": "pt",
-    "timestamp": 1794367744578,
+    "timestamp": 1794402266910,
     "discounts": [],
     "price": 6.99,
     "formattedPrice": "6,99 €",
@@ -24160,6 +24160,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id6775851661",
     "trackName": "Agent Limbo: AI Coding",
     "firstRecordedAt": 1792345098035
+  },
+  {
+    "trackId": 6776231069,
+    "region": "pt",
+    "timestamp": 1794402266910,
+    "discounts": [],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6776231069",
+    "trackName": "Screen Off Recorder",
+    "firstRecordedAt": 1794402266910
   },
   {
     "trackId": 6776762891,

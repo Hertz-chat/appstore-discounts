@@ -212287,6 +212287,23 @@
     "history": [
       [
         {
+          "timestamp": 1794519490990,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "购买6个海星": "$0.99",
+            "600贝壳购买": "$0.99",
+            "心岛日记心礼会员VIP（3个月）": "$6.99",
+            "购买30个海星": "$3.99",
+            "心岛日记心礼会员VIP（1个月）": "$2.99",
+            "购买12个海星": "$1.99",
+            "1200贝壳购买": "$1.99",
+            "心岛日记心礼会员VIP（12个月）": "$29.99",
+            "购买128个海星": "$19.99",
+            "购买68个海星": "$9.99"
+          }
+        },
+        {
           "timestamp": 1794492446451,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -224321,6 +224338,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794519490990,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Vaul of the Void Promo Pack": "$0.00",
+            "Siege of Shadows": "$4.99",
+            "Dawncaster Mega Bundle": "$12.99",
+            "Tribes of Twilight": "$4.99",
+            "Masks of Misery": "$4.99",
+            "Death of Divinity": "$4.99",
+            "Infernal Invasions": "$5.99",
+            "Nexus of Nightmares": "$5.99",
+            "Dawncaster Origins Bundle": "$4.99",
+            "Eclypse Supporter Pack": "$3.99"
+          }
+        },
         {
           "timestamp": 1794492446451,
           "price": 4.99,
@@ -244286,6 +244320,16 @@
       "Lifetime": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794519490990,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794267500104,
@@ -282431,6 +282475,25 @@
       "1980 Gold": "$29.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794519490990,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Monthly Card": "$4.99",
+            "Professional Training": "$14.99",
+            "680 Gold": "$9.99",
+            "Special Training": "$9.99",
+            "60 Gold": "$0.99",
+            "1980 Gold": "$29.99",
+            "6480 Gold": "$99.99",
+            "980 Gold": "$14.99",
+            "300 Gold": "$4.99",
+            "1280 Gold": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789010266489,
@@ -329649,6 +329712,25 @@
     "history": [
       [
         {
+          "timestamp": 1794519490990,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "12.99美元商品2": "$12.99",
+            "19.99美元商品": "$19.99",
+            "39.99美元商品": "$39.99",
+            "12.99美元商品": "$12.99",
+            "49.99美元商品": "$49.99",
+            "3.99美元商品2": "$3.99",
+            "14.99美元商品": "$14.99",
+            "99.99美元商品": "$99.99",
+            "29.99美元商品": "$29.99",
+            "8.99美元商品": "$8.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793786660480,
           "price": 0.29,
           "formattedPrice": "$0.29",
@@ -331352,6 +331434,14 @@
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794519490990,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793615910490,
@@ -350000,10 +350090,18 @@
       "formattedPrice": "$0.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 0.29,
+      "formattedPrice": "$0.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794519490990,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1770490042625,
@@ -365024,7 +365122,7 @@
     ]
   },
   "6799335271": {
-    "name": "Funny Doctor: Kids Habit Scan",
+    "name": "Funny Doctor - Kids Tummy Scan",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99"
@@ -367315,7 +367413,7 @@
     ]
   },
   "6819276809": {
-    "name": "構造大飯店",
+    "name": "構造大飯店－建築師考試題庫",
     "maxPriceInfo": {
       "price": 11.99,
       "formattedPrice": "$11.99"

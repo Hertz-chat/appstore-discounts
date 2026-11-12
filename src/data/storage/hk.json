@@ -4637,6 +4637,25 @@
     "history": [
       [
         {
+          "timestamp": 1794519490990,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {
+            "Max Subwoofer SPL": "HK$ 228.00",
+            "LUFS Meter": "HK$ 88.00",
+            "HAA CinemaTools with HAA Link": "HK$ 1,188.00",
+            "HAA Link": "HK$ 88.00",
+            "HAA Pro Module": "HK$ 148.00",
+            "SPL Enhance": "HK$ 288.00",
+            "All-In Module Access": "HK$ 88.00",
+            "HAA Upgrade to Pro": "HK$ 2,888.00",
+            "HAA Pro Installer Calibration": "HK$ 3,888.00",
+            "HAA Home Theater": "HK$ 788.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793872776771,
           "price": 148,
           "formattedPrice": "HK$ 148.00",
@@ -156204,6 +156223,21 @@
     "history": [
       [
         {
+          "timestamp": 1794519490990,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "The Riverfolk Expansion": "HK$ 88.00",
+            "Root: The Underworld Expansion": "HK$ 88.00",
+            "Exiles & Partisans & Vagabonds": "HK$ 58.00",
+            "The Clockwork Expansion": "HK$ 48.00",
+            "Root: The Marauder Expansion": "HK$ 88.00",
+            "Hirelings & Landmarks": "HK$ 88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
@@ -209711,6 +209745,18 @@
     "history": [
       [
         {
+          "timestamp": 1794519490990,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Dune: Imperium - Rise of Ix": "HK$ 88.00",
+            "Dune: Imperium - Immortality": "HK$ 88.00",
+            "Dune: Imperium - Uprising": "HK$ 88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
@@ -211534,6 +211580,17 @@
       "Mummy's Curse": "HK$ 68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794519490990,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Sunken Treasures": "HK$ 68.00",
+            "Mummy's Curse": "HK$ 68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787498460547,
@@ -213814,6 +213871,16 @@
       "Lifetime": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794519490990,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Lifetime": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794267500104,
@@ -231104,6 +231171,25 @@
       "機械耶夢加得": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794519490990,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Autonomy": "HK$ 22.00",
+            "Time Flow": "HK$ 22.00",
+            "賽季通行證": "HK$ 58.00",
+            "角色通行證": "HK$ 88.00",
+            "婚禮禮包": "HK$ 38.00",
+            "尼奧禮包": "HK$ 38.00",
+            "勇者研究": "HK$ 48.00",
+            "解鎖性質": "HK$ 58.00",
+            "賽季０戰鬥通行證": "HK$ 18.00",
+            "鍛造禮包": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793068805806,
@@ -267889,7 +267975,8 @@
       "EC135": "HK$ 8.00",
       "Airbus A320neo": "HK$ 32.00",
       "Boeing 787-9": "HK$ 32.00",
-      "Airbus A321 XLR": "HK$ 32.00"
+      "Airbus A321 XLR": "HK$ 32.00",
+      "CRJ900": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -267920,9 +268007,29 @@
       "EC135": "HK$ 8.00",
       "Airbus A320neo": "HK$ 32.00",
       "Boeing 787-9": "HK$ 32.00",
-      "Airbus A321 XLR": "HK$ 32.00"
+      "Airbus A321 XLR": "HK$ 32.00",
+      "CRJ900": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794519490990,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 38.00",
+            "The Aircraft Bundle": "HK$ 188.00",
+            "Global scenery - 12 months": "HK$ 148.00",
+            "Global scenery - 3 months": "HK$ 58.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "Airbus A380": "HK$ 18.00",
+            "Boeing 747-400": "HK$ 18.00",
+            "CRJ900": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794458321964,
@@ -283352,6 +283459,14 @@
     "history": [
       [
         {
+          "timestamp": 1794519490990,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793553601717,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -284332,6 +284447,14 @@
       "formattedPrice": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794519490990,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791397748865,
@@ -298957,10 +299080,18 @@
       "formattedPrice": "HK$ 8.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "price": 2,
+      "formattedPrice": "HK$ 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794519490990,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1770490042625,
@@ -310117,7 +310248,7 @@
     ]
   },
   "6799335271": {
-    "name": "奇趣小醫生 - 肚子身體模擬掃描壞習慣小怪獸與好打卡自律養成",
+    "name": "奇趣小醫生-肚肚检查肚子透视胃部B超X光模拟儿童过家家小医院",
     "maxPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00"
@@ -310745,8 +310876,8 @@
       "英雄 禮包 3": "HK$ 88.00",
       "全英雄禮包_B": "HK$ 188.00",
       "混合 禮包 12": "HK$ 58.00",
-      "法術變羊術促銷": "HK$ 18.00",
-      "法術變羊術": "HK$ 22.00",
+      "法術變羊術促銷": "HK$ 22.00",
+      "法術變羊術": "HK$ 38.00",
       "混合 禮包 11": "HK$ 88.00",
       "英雄達莉雅促銷": "HK$ 22.00",
       "英雄奧斯尼爾": "HK$ 38.00",
@@ -310801,6 +310932,25 @@
       "一把寶石": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794519490990,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "混合 禮包 12": "HK$ 58.00",
+            "法術變羊術促銷": "HK$ 22.00",
+            "法術變羊術": "HK$ 38.00",
+            "混合 禮包 11": "HK$ 88.00",
+            "英雄達莉雅促銷": "HK$ 22.00",
+            "英雄奧斯尼爾": "HK$ 38.00",
+            "英雄達莉雅": "HK$ 38.00",
+            "塔樓貓頭鷹騎士促銷": "HK$ 22.00",
+            "英雄奧斯尼爾促銷": "HK$ 22.00",
+            "塔樓貓頭鷹騎士": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794085796977,
@@ -312658,7 +312808,7 @@
     ]
   },
   "6819276809": {
-    "name": "構造大飯店",
+    "name": "構造大飯店－建築師考試題庫",
     "maxPriceInfo": {
       "price": 88,
       "formattedPrice": "HK$ 88.00"

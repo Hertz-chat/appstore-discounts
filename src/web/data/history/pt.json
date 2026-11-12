@@ -73109,6 +73109,25 @@
     "history": [
       [
         {
+          "timestamp": 1794492446451,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Monster Succession": "5,99 €",
+            "Dark Lord Boost Package": "9,99 €",
+            "Dark Lord Emma": "2,99 €",
+            "Dark Lord Floria": "2,99 €",
+            "Dark Lord Marielle": "2,99 €",
+            "Dark Lord Rebecca": "2,99 €",
+            "Dark Lord Tania": "2,99 €",
+            "Original Dungeon Package": "19,99 €",
+            "Original Monster Package": "9,99 €",
+            "Original Lord Skill Package": "19,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794158365765,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -107643,6 +107662,29 @@
             "Basic Plan": "3,99 €",
             "Business Plan": "29,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "1602772289": {
+    "trackId": 1602772289,
+    "trackName": "7 Days to End with You",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794492446451,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]

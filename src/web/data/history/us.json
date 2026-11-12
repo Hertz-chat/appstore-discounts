@@ -15271,14 +15271,22 @@
     "trackName": "PeakFinder",
     "region": "us",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99"
+      "price": 5.99,
+      "formattedPrice": "$5.99"
     },
     "minPriceInfo": {
       "price": 4.99,
       "formattedPrice": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794492446451,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -208205,6 +208213,25 @@
     "history": [
       [
         {
+          "timestamp": 1794492446451,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Tamer Kit": "$0.99",
+            "Master Package": "$19.99",
+            "Prime Gemma 2500": "$19.99",
+            "Starter Package": "$4.99",
+            "Prime Gemma 1200": "$9.99",
+            "Prime Gemma 500": "$4.99",
+            "Hunter Package": "$9.99",
+            "Evoker Kit": "$0.99",
+            "Prime gemma 100": "$0.99",
+            "Evoker Package": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794458321964,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -214710,6 +214737,25 @@
       "3000贝壳购买": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794492446451,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "600贝壳购买": "$0.99",
+            "3000贝壳购买": "$3.99",
+            "1200贝壳购买": "$1.99",
+            "6800贝壳购买": "$9.99",
+            "购买6个海星": "$0.99",
+            "购买30个海星": "$3.99",
+            "购买68个海星": "$9.99",
+            "购买128个海星": "$19.99",
+            "购买12个海星": "$1.99",
+            "心岛日记心礼会员VIP（1个月）": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787773587954,
@@ -226850,6 +226896,25 @@
       "Nexus of Nightmares": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794492446451,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Nexus of Nightmares": "$5.99",
+            "Synthesis Support Pack": "$3.99",
+            "Infernal Invasions": "$5.99",
+            "Vaul of the Void Promo Pack": "$0.00",
+            "Eclypse Supporter Pack": "$3.99",
+            "Dawncaster Origins Bundle": "$4.99",
+            "Dawncaster Mega Bundle": "$12.99",
+            "Siege of Shadows": "$4.99",
+            "Catalyst Support Pack": "$4.99",
+            "Masks of Misery": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792871696104,
@@ -258381,6 +258446,14 @@
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794492446451,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790134270308,
@@ -336833,6 +336906,25 @@
     "history": [
       [
         {
+          "timestamp": 1794492446451,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$9.99",
+            "Mystic Mayhem Pack": "$5.99",
+            "Sun and Spice Bundle": "$7.99",
+            "Santa Claws Pack": "$4.99",
+            "Beach Day Pack": "$5.99",
+            "Mystic Mayhem Card Back": "$0.99",
+            "Kitchen Chaos Pack": "$5.99",
+            "MysticMayhem Cauldron Creature": "$1.99",
+            "Sea Rat Outfit": "$1.99",
+            "Kitchen Chaos Card Back": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794458321964,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -360030,6 +360122,25 @@
     "history": [
       [
         {
+          "timestamp": 1794492446451,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "New Rulers": "$5.99",
+            "Wedding Skin Set": "$9.99",
+            "Underworld Expansion Pass": "$5.99",
+            "Underworld Pass 2": "$2.99",
+            "Neo Behemoth": "$1.99",
+            "Pioneer of the Abyss": "$9.99",
+            "Moonveil Skin Set": "$9.99",
+            "Memory of Training": "$17.99",
+            "Underworld Pass 1": "$2.99",
+            "Essence of Transcendence": "$29.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794402266910,
           "price": 5.99,
           "formattedPrice": "$5.99",
@@ -369922,6 +370033,25 @@
       "Hero Ignus Sale": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794492446451,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "ALL HEROES BUNDLE": "$24.99",
+            "Tower Sniper": "$5.99",
+            "Hero Oni": "$4.99",
+            "Tower Alchemist": "$2.99",
+            "Gems Handful": "$2.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Hero Ignus": "$2.99",
+            "Tower Wildcat": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794458321964,

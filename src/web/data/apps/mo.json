@@ -10736,10 +10736,10 @@
   {
     "trackId": 1304822713,
     "region": "mo",
-    "timestamp": 1788364904788,
+    "timestamp": 1794458321964,
     "discounts": [],
-    "price": 9.99,
-    "formattedPrice": "USD 9.99",
+    "price": 0,
+    "formattedPrice": "免費",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1304822713",
     "trackName": "無盡坦克大戰 - 八位元單機王者 完美模擬穿越舊經典電視手遊",
@@ -15542,7 +15542,7 @@
   {
     "trackId": 1555184523,
     "region": "mo",
-    "timestamp": 1792029989391,
+    "timestamp": 1794458321964,
     "discounts": [],
     "price": 7.99,
     "formattedPrice": "USD 7.99",
@@ -26842,7 +26842,7 @@
   {
     "trackId": 6801980968,
     "region": "mo",
-    "timestamp": 1794011332916,
+    "timestamp": 1794458321964,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "USD 1.99",
@@ -27294,6 +27294,18 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id6824686276",
     "trackName": "Wider - Fullscreen Browsing",
     "firstRecordedAt": 1793438080874
+  },
+  {
+    "trackId": 6825710504,
+    "region": "mo",
+    "timestamp": 1794458321964,
+    "discounts": [],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6825710504",
+    "trackName": "Mahalleden Yıldıza",
+    "firstRecordedAt": 1794458321964
   },
   {
     "trackId": 6826404492,

@@ -1,5 +1,561 @@
 [
   {
+    "timestamp": 1794458321964,
+    "regionAppInfo": {
+      "cn": [
+        {
+          "trackId": 6761129817,
+          "trackName": "Brightroom",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1233326914,
+          "trackName": "ParKing P - 我的车在哪里？",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1462754972,
+          "trackName": "MONG LI",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6775851661,
+          "trackName": "Agent Limbo - AI 编程助手",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 928403895,
+          "trackName": "拼音字典专业版",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1384164285,
+          "trackName": "AR鲁班尺",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1586762439,
+          "trackName": "Auto Translate for Safari",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6739755879,
+          "trackName": "百名店map",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1536762482,
+          "trackName": "Spirit Talker ®",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1544412558,
+          "trackName": "航海奇闻",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "hk": [
+        {
+          "trackId": 6811690345,
+          "trackName": "Kokoreççi",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1245988397,
+          "trackName": "PUZZLE BOBBLE JOURNEY",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6806721202,
+          "trackName": "M8 Music Tracker",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 700740791,
+          "trackName": "Squeezy",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6758867945,
+          "trackName": "Hidden Memories",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 374098312,
+          "trackName": "Unicode Pad",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 744321889,
+          "trackName": "Unicode Pad Pro with keyboards",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1115022026,
+          "trackName": "The Secret To Money",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1453820315,
+          "trackName": "This Is the Police 2",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1298544927,
+          "trackName": "My Child Lebensborn",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1303222868,
+          "trackName": "Paprika Recipe Manager 4",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "mo": [
+        {
+          "trackId": 338971047,
+          "trackName": "BA金融計算器Pro",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1322914367,
+          "trackName": "心動回憶",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 673017568,
+          "trackName": "幼兒學聲音123",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 321109246,
+          "trackName": "Mahjong Demon",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1387167006,
+          "trackName": "Алфавит: азбука для детей 2+",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 432791399,
+          "trackName": "Cloud Baby Monitor",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 375819093,
+          "trackName": "Forvo Pronunciation",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1557502285,
+          "trackName": "Rush Rally Origins",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6755165826,
+          "trackName": "擇吉(實用)",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6478639011,
+          "trackName": "Subnautica",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1519754224,
+          "trackName": "Spanish Word Parts",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1619733202,
+          "trackName": "的士地方筆試 2024 Pro",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 860809977,
+          "trackName": "Fongo World Edition",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 870322730,
+          "trackName": "Implosion 聚爆",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "tw": [
+        {
+          "trackId": 6825710504,
+          "trackName": "Mahalleden Yıldıza",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 294631159,
+          "trackName": "WeatherPro",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6762279908,
+          "trackName": "DayGrid：每日計畫表・時間表・時間管理・行程管理",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6778099993,
+          "trackName": "Manager for Scooters",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6754641661,
+          "trackName": "婚启 - 情侣协同备婚助手",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1163338854,
+          "trackName": "千卡到千焦轉換器 - 千焦到千卡轉換器 - 换算",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1442035374,
+          "trackName": "圍棋師傅",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 993483096,
+          "trackName": "拼音助手专业版 - 最好的普通話真人發聲字典",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 479431697,
+          "trackName": "CHRONO TRIGGER (Upgrade Ver.)",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 525176875,
+          "trackName": "Sun Surveyor (太陽測量師)",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 433596395,
+          "trackName": "ZOOKEEPER DX",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 491231653,
+          "trackName": "大富翁 4 Fun",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1373575045,
+          "trackName": "The Gardens Between",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1371965583,
+          "trackName": "The Gardens Between",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "us": [
+        {
+          "trackId": 351109647,
+          "trackName": "聖經工具(現代中文譯本)",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 904280696,
+          "trackName": "Things 3",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6754986970,
+          "trackName": "RPGPlayer - An RPGMaker Player",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6779676299,
+          "trackName": "警務處投考全攻略",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6759131919,
+          "trackName": "公開資訊接收站 - 公開資訊觀測站重大訊息快篩",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6753934071,
+          "trackName": "Slime Dash: Roguelike Game",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1113002956,
+          "trackName": "Plague Inc: Scenario Creator",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1369699810,
+          "trackName": "Nuclear inc 2. Atom simulator",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1256626606,
+          "trackName": "iTHUMP/Toxic+",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1123436822,
+          "trackName": "五色學倉頡 (1500 字)",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6739755879,
+          "trackName": "Oishii Map - Tabelog Top 100",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6443849085,
+          "trackName": "Terminal Madness - Awakening",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 503190232,
+          "trackName": "Bridge Constructor",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 504176984,
+          "trackName": "论子平-论八字(实用)",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6475002485,
+          "trackName": "Reeder.",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6504433140,
+          "trackName": "LaxtTime - Remember Last Time",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "tr": [
+        {
+          "trackId": 484090401,
+          "trackName": "Akinator VIP",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1574504250,
+          "trackName": "GWENT: Rogue Mage",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 1443533088,
+          "trackName": "搜韵",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6760368318,
+          "trackName": "In Progress: Local Music",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 338971047,
+          "trackName": "BA Financial Calculator Pro",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 375819093,
+          "trackName": "Forvo Pronunciation",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1591192160,
+          "trackName": "METAL SLUG 5 ACA NEOGEO",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6748885060,
+          "trackName": "Acgbg~Anime Bg Wallpaper",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1476509317,
+          "trackName": "每日英语 听力学习版",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1621065119,
+          "trackName": "Ace Attorney Trilogy",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 363385252,
+          "trackName": "DTMFdec",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 911201894,
+          "trackName": "DRAGON QUEST",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 921954809,
+          "trackName": "Craft The World-Pocket Edition",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1128464707,
+          "trackName": "Death Road to Canada",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1129429340,
+          "trackName": "RaceChrono Pro",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1296085645,
+          "trackName": "aRacerSmart",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1359107338,
+          "trackName": "Catch the Easter Bunny",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6444029612,
+          "trackName": "Loon Lite",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1373567447,
+          "trackName": "Loon",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "pt": [
+        {
+          "trackId": 1483947937,
+          "trackName": "Hidden Through Time",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6757171842,
+          "trackName": "Green Pond Town",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6596729064,
+          "trackName": "Nezha Mobile",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6743831121,
+          "trackName": "图片分割器 - Image Splitter",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 622398496,
+          "trackName": "VBA Guide For Excel",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1163338854,
+          "trackName": "Quilocalorias em quilojoules e kJ em kcal",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6748683190,
+          "trackName": "Eco Power Towns",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 351058026,
+          "trackName": "通勝 300年版",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 968820626,
+          "trackName": "Watch Tuner Lite",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1065791514,
+          "trackName": "The Ramen Sensei",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 409818349,
+          "trackName": "Real Piano™ Classic",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 667362389,
+          "trackName": "The Room Two",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 768379887,
+          "trackName": "Eye Meter",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 983145797,
+          "trackName": "超注音",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1112850631,
+          "trackName": "VideoShow PRO: Editor de Vídeo",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1498550832,
+          "trackName": "ASCCP Management Guidelines",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1195035357,
+          "trackName": "Dungeon Defense : The Gate",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1239299402,
+          "trackName": "Street Fighter IV CE",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1264608487,
+          "trackName": "Driving Zone: Germany Pro",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6451498949,
+          "trackName": "Stray",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1630403500,
+          "trackName": "APTV",
+          "inAppPurchasesTimes": 2
+        }
+      ]
+    },
+    "duration": "1h51m15.667s",
+    "regionAppCount": {
+      "cn": 1169,
+      "hk": 2030,
+      "mo": 2025,
+      "tw": 2034,
+      "us": 2015,
+      "tr": 2006,
+      "pt": 1963
+    },
+    "limitCount": 2,
+    "inAppPurchasesScrapeType": "playwright"
+  },
+  {
     "timestamp": 1794433436114,
     "regionAppInfo": {
       "cn": [
@@ -51585,932 +52141,6 @@
       "us": 1993,
       "tr": 1985,
       "pt": 1940
-    },
-    "limitCount": 2,
-    "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1793840903622,
-    "regionAppInfo": {
-      "cn": [
-        {
-          "trackId": 6758669847,
-          "trackName": "Echo - SSH + Mosh Client",
-          "inAppPurchasesTimes": 29
-        },
-        {
-          "trackId": 6480510314,
-          "trackName": "Eml Reader Pro",
-          "inAppPurchasesTimes": 29
-        },
-        {
-          "trackId": 1062022008,
-          "trackName": "LumaFusion",
-          "inAppPurchasesTimes": 28
-        },
-        {
-          "trackId": 1372408358,
-          "trackName": "ARGun2018",
-          "inAppPurchasesTimes": 27
-        },
-        {
-          "trackId": 672878122,
-          "trackName": "CoPE Paediatric Emergency",
-          "inAppPurchasesTimes": 23
-        },
-        {
-          "trackId": 1615288664,
-          "trackName": "法环地图艾尔登冒险指南",
-          "inAppPurchasesTimes": 22
-        },
-        {
-          "trackId": 1255627901,
-          "trackName": "方便面 - 朋友圈图文排版好帮手",
-          "inAppPurchasesTimes": 18
-        },
-        {
-          "trackId": 1449020025,
-          "trackName": "不玩手机-自律习惯养成记",
-          "inAppPurchasesTimes": 18
-        },
-        {
-          "trackId": 586149216,
-          "trackName": "Monash FODMAP Diet",
-          "inAppPurchasesTimes": 15
-        },
-        {
-          "trackId": 646256209,
-          "trackName": "Photo Eraser",
-          "inAppPurchasesTimes": 15
-        },
-        {
-          "trackId": 1346501102,
-          "trackName": "FSNotes",
-          "inAppPurchasesTimes": 14
-        },
-        {
-          "trackId": 6449265626,
-          "trackName": "Groic : Listen music togther",
-          "inAppPurchasesTimes": 14
-        }
-      ],
-      "hk": [
-        {
-          "trackId": 414469628,
-          "trackName": "臉部及身體修圖工具",
-          "inAppPurchasesTimes": 20
-        },
-        {
-          "trackId": 459313476,
-          "trackName": "Tenuto",
-          "inAppPurchasesTimes": 20
-        },
-        {
-          "trackId": 421929034,
-          "trackName": "Time Guru 節拍器",
-          "inAppPurchasesTimes": 17
-        },
-        {
-          "trackId": 1194938970,
-          "trackName": "Miracle行車記錄儀-開車視頻拍攝與導航的智能安全助手",
-          "inAppPurchasesTimes": 16
-        },
-        {
-          "trackId": 1658365944,
-          "trackName": "DS Download Manager",
-          "inAppPurchasesTimes": 15
-        },
-        {
-          "trackId": 6761418873,
-          "trackName": "Kolluk",
-          "inAppPurchasesTimes": 15
-        },
-        {
-          "trackId": 6743467531,
-          "trackName": "雞寶小廚神：療癒系餐廳經營",
-          "inAppPurchasesTimes": 15
-        },
-        {
-          "trackId": 6760900452,
-          "trackName": "紙鴿 - 藍牙離線通訊，斷網也能傳話",
-          "inAppPurchasesTimes": 15
-        },
-        {
-          "trackId": 6740482160,
-          "trackName": "《最終前哨: 終極版》",
-          "inAppPurchasesTimes": 14
-        },
-        {
-          "trackId": 1614740269,
-          "trackName": "答题王 - 百科知识问答题库",
-          "inAppPurchasesTimes": 14
-        },
-        {
-          "trackId": 6449046261,
-          "trackName": "水晶戰爭2-精品生存Roguelike策略塔防單機獨立遊戲",
-          "inAppPurchasesTimes": 14
-        },
-        {
-          "trackId": 335454448,
-          "trackName": "Tilt to Live",
-          "inAppPurchasesTimes": 13
-        },
-        {
-          "trackId": 583922375,
-          "trackName": "myLightMeter PRO",
-          "inAppPurchasesTimes": 13
-        },
-        {
-          "trackId": 6572290447,
-          "trackName": "Backpack Battles",
-          "inAppPurchasesTimes": 12
-        },
-        {
-          "trackId": 1637438059,
-          "trackName": "UnTrap for YouTube",
-          "inAppPurchasesTimes": 12
-        },
-        {
-          "trackId": 1001096601,
-          "trackName": "1941 Frozen Front Premium",
-          "inAppPurchasesTimes": 12
-        },
-        {
-          "trackId": 6746189288,
-          "trackName": "不/存在的你，和我",
-          "inAppPurchasesTimes": 11
-        },
-        {
-          "trackId": 1439889483,
-          "trackName": "Construction Simulator 3",
-          "inAppPurchasesTimes": 11
-        },
-        {
-          "trackId": 1462584573,
-          "trackName": "Schumann Resonance",
-          "inAppPurchasesTimes": 6
-        },
-        {
-          "trackId": 6787897705,
-          "trackName": "火山的女兒",
-          "inAppPurchasesTimes": 6
-        },
-        {
-          "trackId": 6756117621,
-          "trackName": "Easy Find My Stuff",
-          "inAppPurchasesTimes": 3
-        },
-        {
-          "trackId": 1039733201,
-          "trackName": "生命 - LIFE",
-          "inAppPurchasesTimes": 3
-        },
-        {
-          "trackId": 6752803014,
-          "trackName": "Joguman 日曆",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 338971047,
-          "trackName": "BA金融計算器Pro",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 468368751,
-          "trackName": "LightSpectrum Pro",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 364876095,
-          "trackName": "Jump Desktop (RDP, VNC, Fluid)",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 344919689,
-          "trackName": "HOOP i for Basketball Scores",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 6472669484,
-          "trackName": "Redirect",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 6449183990,
-          "trackName": "勇者鬥惡龍 怪物仙境3 魔族王子與艾爾芙的旅程",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "mo": [
-        {
-          "trackId": 1544947623,
-          "trackName": "Kiosk - fullscreen browser",
-          "inAppPurchasesTimes": 27
-        },
-        {
-          "trackId": 1575192531,
-          "trackName": "遊樂園夢物語",
-          "inAppPurchasesTimes": 27
-        },
-        {
-          "trackId": 1216484605,
-          "trackName": "Viewfinder Preview",
-          "inAppPurchasesTimes": 21
-        },
-        {
-          "trackId": 440666387,
-          "trackName": "化學家 - CHEMIST",
-          "inAppPurchasesTimes": 21
-        },
-        {
-          "trackId": 6478843819,
-          "trackName": "家園、異星與獵人",
-          "inAppPurchasesTimes": 19
-        },
-        {
-          "trackId": 6502453075,
-          "trackName": "Balatro",
-          "inAppPurchasesTimes": 19
-        },
-        {
-          "trackId": 998437582,
-          "trackName": "法语背单词 - 法语单词记忆工具",
-          "inAppPurchasesTimes": 18
-        },
-        {
-          "trackId": 1010311475,
-          "trackName": "QuickBend: Conduit Bending",
-          "inAppPurchasesTimes": 18
-        },
-        {
-          "trackId": 1477229754,
-          "trackName": "Papa's Cheeseria To Go!",
-          "inAppPurchasesTimes": 16
-        },
-        {
-          "trackId": 1514329124,
-          "trackName": "Rusted Warfare - RTS",
-          "inAppPurchasesTimes": 16
-        },
-        {
-          "trackId": 6740698426,
-          "trackName": "Empires Game",
-          "inAppPurchasesTimes": 15
-        },
-        {
-          "trackId": 364909484,
-          "trackName": "GOToronto: GO Transit Sidekick",
-          "inAppPurchasesTimes": 15
-        },
-        {
-          "trackId": 1554691584,
-          "trackName": "Naturalisation en France",
-          "inAppPurchasesTimes": 15
-        },
-        {
-          "trackId": 1574339556,
-          "trackName": "Game Booster 4x",
-          "inAppPurchasesTimes": 15
-        },
-        {
-          "trackId": 1080235640,
-          "trackName": "CNU - 顶尖视觉精选",
-          "inAppPurchasesTimes": 14
-        },
-        {
-          "trackId": 1658579911,
-          "trackName": "小特钥匙 - 特斯拉蓝牙手表钥匙",
-          "inAppPurchasesTimes": 14
-        },
-        {
-          "trackId": 1499001662,
-          "trackName": "EvoCreo2: Monster Trainer Game",
-          "inAppPurchasesTimes": 7
-        },
-        {
-          "trackId": 6753102795,
-          "trackName": "Zero One Progrise",
-          "inAppPurchasesTimes": 7
-        },
-        {
-          "trackId": 958604518,
-          "trackName": "Lumino City",
-          "inAppPurchasesTimes": 6
-        },
-        {
-          "trackId": 1446215054,
-          "trackName": "差異檢查",
-          "inAppPurchasesTimes": 6
-        },
-        {
-          "trackId": 6819103516,
-          "trackName": "百死一生",
-          "inAppPurchasesTimes": 4
-        },
-        {
-          "trackId": 6754094013,
-          "trackName": "Zombie Assault: Resurgence",
-          "inAppPurchasesTimes": 3
-        },
-        {
-          "trackId": 810405576,
-          "trackName": "StaffWars",
-          "inAppPurchasesTimes": 3
-        },
-        {
-          "trackId": 6443677513,
-          "trackName": "Keka •",
-          "inAppPurchasesTimes": 3
-        },
-        {
-          "trackId": 6759284932,
-          "trackName": "Voice Keyboard: ai keyboard.io",
-          "inAppPurchasesTimes": 3
-        },
-        {
-          "trackId": 6758867106,
-          "trackName": "Another Shadow",
-          "inAppPurchasesTimes": 3
-        },
-        {
-          "trackId": 554766778,
-          "trackName": "liveBPM - Beat Detector",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 6781948334,
-          "trackName": "Perfect Viewer X",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 6758867557,
-          "trackName": "Escape from the Shadows",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 6758866520,
-          "trackName": "Haunted Laia",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1613286262,
-          "trackName": "KOF '96 ACA NEOGEO",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1492049794,
-          "trackName": "武林群俠風雲傳",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 764925064,
-          "trackName": "Waterlogue: Photo to Painting",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "tw": [
-        {
-          "trackId": 6744579956,
-          "trackName": "Illusion Bowling",
-          "inAppPurchasesTimes": 25
-        },
-        {
-          "trackId": 6761228817,
-          "trackName": "TileGrid カーペット",
-          "inAppPurchasesTimes": 24
-        },
-        {
-          "trackId": 784265988,
-          "trackName": "Multi Track Song Recorder Pro",
-          "inAppPurchasesTimes": 21
-        },
-        {
-          "trackId": 6757986827,
-          "trackName": "Translate Gemma l Offline",
-          "inAppPurchasesTimes": 20
-        },
-        {
-          "trackId": 1434690170,
-          "trackName": "Power Grid Boardgame",
-          "inAppPurchasesTimes": 20
-        },
-        {
-          "trackId": 1596736236,
-          "trackName": "Rovio Classics: Angry Birds",
-          "inAppPurchasesTimes": 20
-        },
-        {
-          "trackId": 892279069,
-          "trackName": "Star Walk 2 Pro: 觀星軟件和星空地圖",
-          "inAppPurchasesTimes": 19
-        },
-        {
-          "trackId": 950012304,
-          "trackName": "Cellular Info",
-          "inAppPurchasesTimes": 19
-        },
-        {
-          "trackId": 378503081,
-          "trackName": "Groundwire: VoIP SIP Softphone",
-          "inAppPurchasesTimes": 19
-        },
-        {
-          "trackId": 1586437121,
-          "trackName": "吃饭打卡-饮食记录和减肥健身,轻断食健康管理日记本",
-          "inAppPurchasesTimes": 19
-        },
-        {
-          "trackId": 1599393574,
-          "trackName": "Peace, Death! 2",
-          "inAppPurchasesTimes": 19
-        },
-        {
-          "trackId": 1600307023,
-          "trackName": "Dealer's Life 2",
-          "inAppPurchasesTimes": 19
-        },
-        {
-          "trackId": 528194758,
-          "trackName": "Rushing Alice",
-          "inAppPurchasesTimes": 17
-        },
-        {
-          "trackId": 1005098334,
-          "trackName": "Human Resource Machine",
-          "inAppPurchasesTimes": 16
-        },
-        {
-          "trackId": 1550721625,
-          "trackName": "JAMMATES",
-          "inAppPurchasesTimes": 16
-        },
-        {
-          "trackId": 1616391834,
-          "trackName": "合成游戏合集：含合成大西瓜、2048和合成神龙经典游戏",
-          "inAppPurchasesTimes": 16
-        },
-        {
-          "trackId": 6759131919,
-          "trackName": "公開資訊接收站 - 公開資訊觀測站重大訊息快篩",
-          "inAppPurchasesTimes": 15
-        },
-        {
-          "trackId": 351109647,
-          "trackName": "聖經工具(現代中文譯本)",
-          "inAppPurchasesTimes": 15
-        },
-        {
-          "trackId": 1672085276,
-          "trackName": "Aiko",
-          "inAppPurchasesTimes": 15
-        },
-        {
-          "trackId": 1370362850,
-          "trackName": "LAYOUT 拍立得相機 - 極簡時尚海報，照片美圖設計",
-          "inAppPurchasesTimes": 15
-        },
-        {
-          "trackId": 1512838461,
-          "trackName": "DayCircle - 倒數",
-          "inAppPurchasesTimes": 13
-        },
-        {
-          "trackId": 1400032769,
-          "trackName": "Card.Note - 集文字、照片、语音的多彩卡片笔记",
-          "inAppPurchasesTimes": 13
-        },
-        {
-          "trackId": 1304231334,
-          "trackName": "GPS海拔表-实时高度测量仪专业版",
-          "inAppPurchasesTimes": 9
-        },
-        {
-          "trackId": 376302649,
-          "trackName": "Animated Knots by Grog",
-          "inAppPurchasesTimes": 9
-        },
-        {
-          "trackId": 1039733201,
-          "trackName": "生命 - LIFE",
-          "inAppPurchasesTimes": 7
-        },
-        {
-          "trackId": 6472669484,
-          "trackName": "Redirect",
-          "inAppPurchasesTimes": 6
-        }
-      ],
-      "us": [
-        {
-          "trackId": 1471323296,
-          "trackName": "Basketball Club Story",
-          "inAppPurchasesTimes": 26
-        },
-        {
-          "trackId": 1472184189,
-          "trackName": "The White Door",
-          "inAppPurchasesTimes": 25
-        },
-        {
-          "trackId": 961328776,
-          "trackName": "JPics",
-          "inAppPurchasesTimes": 24
-        },
-        {
-          "trackId": 421929034,
-          "trackName": "Time Guru Metronome",
-          "inAppPurchasesTimes": 24
-        },
-        {
-          "trackId": 808296431,
-          "trackName": "Crashlands",
-          "inAppPurchasesTimes": 24
-        },
-        {
-          "trackId": 1116905928,
-          "trackName": "nPlayer",
-          "inAppPurchasesTimes": 23
-        },
-        {
-          "trackId": 6771652722,
-          "trackName": "ONE PIECE: Grand Gourmet",
-          "inAppPurchasesTimes": 20
-        },
-        {
-          "trackId": 6793744610,
-          "trackName": "2AM CAM",
-          "inAppPurchasesTimes": 20
-        },
-        {
-          "trackId": 6751258224,
-          "trackName": "古诗学习助手",
-          "inAppPurchasesTimes": 19
-        },
-        {
-          "trackId": 530090434,
-          "trackName": "7 Wonders",
-          "inAppPurchasesTimes": 19
-        },
-        {
-          "trackId": 952764370,
-          "trackName": "Rolling Coins",
-          "inAppPurchasesTimes": 18
-        },
-        {
-          "trackId": 1618663548,
-          "trackName": "swimstats live",
-          "inAppPurchasesTimes": 18
-        },
-        {
-          "trackId": 886697025,
-          "trackName": "ArtPose Female Edition",
-          "inAppPurchasesTimes": 18
-        },
-        {
-          "trackId": 407933070,
-          "trackName": "懷舊日曆 - 十三行作品",
-          "inAppPurchasesTimes": 18
-        },
-        {
-          "trackId": 408697793,
-          "trackName": "King of Opera",
-          "inAppPurchasesTimes": 18
-        },
-        {
-          "trackId": 6745723131,
-          "trackName": "GenChord - Piano Scale Chord",
-          "inAppPurchasesTimes": 17
-        },
-        {
-          "trackId": 922155038,
-          "trackName": "aprs.fi",
-          "inAppPurchasesTimes": 11
-        },
-        {
-          "trackId": 989630809,
-          "trackName": "Malody",
-          "inAppPurchasesTimes": 11
-        },
-        {
-          "trackId": 1438245901,
-          "trackName": "Papa's Pancakeria To Go!",
-          "inAppPurchasesTimes": 11
-        },
-        {
-          "trackId": 1441969889,
-          "trackName": "Z.O.N.A Shadow of Lemansk",
-          "inAppPurchasesTimes": 11
-        },
-        {
-          "trackId": 625477515,
-          "trackName": "Fast Flash -Browser and Player",
-          "inAppPurchasesTimes": 8
-        },
-        {
-          "trackId": 6785550835,
-          "trackName": "LomoHi",
-          "inAppPurchasesTimes": 8
-        },
-        {
-          "trackId": 6742782416,
-          "trackName": "Gunshot sound simulator pro",
-          "inAppPurchasesTimes": 4
-        },
-        {
-          "trackId": 6451376191,
-          "trackName": "Dumb Phone — Launcher & Themes",
-          "inAppPurchasesTimes": 4
-        },
-        {
-          "trackId": 6445911052,
-          "trackName": "Fran Bow",
-          "inAppPurchasesTimes": 3
-        },
-        {
-          "trackId": 968820626,
-          "trackName": "Watch Tuner Lite",
-          "inAppPurchasesTimes": 3
-        },
-        {
-          "trackId": 6446912063,
-          "trackName": "Disney Iwájú: Rising Chef",
-          "inAppPurchasesTimes": 3
-        },
-        {
-          "trackId": 6756487934,
-          "trackName": "Period Tracker: P Forest",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 380105927,
-          "trackName": "HachiCalendar2 Pro",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 919815747,
-          "trackName": "大家學標準日本語：初級本",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1479808939,
-          "trackName": "孙美琪",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1564383045,
-          "trackName": "CLRS.Helper",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "tr": [
-        {
-          "trackId": 847381935,
-          "trackName": "DRAGON QUEST IV",
-          "inAppPurchasesTimes": 22
-        },
-        {
-          "trackId": 6817070335,
-          "trackName": "Deck-Man: Cassette Player",
-          "inAppPurchasesTimes": 22
-        },
-        {
-          "trackId": 6802565793,
-          "trackName": "我不想当班主任-班主任工作台&教师工作台&班级管理",
-          "inAppPurchasesTimes": 21
-        },
-        {
-          "trackId": 579940279,
-          "trackName": "Basketball Stat Tracker",
-          "inAppPurchasesTimes": 21
-        },
-        {
-          "trackId": 1193531073,
-          "trackName": "WebBLE",
-          "inAppPurchasesTimes": 21
-        },
-        {
-          "trackId": 6769140324,
-          "trackName": "Milky Way Tonight",
-          "inAppPurchasesTimes": 21
-        },
-        {
-          "trackId": 6759238458,
-          "trackName": "上瘾修仙 - 上头的单机新形态文字游戏",
-          "inAppPurchasesTimes": 21
-        },
-        {
-          "trackId": 6471839445,
-          "trackName": "RYUKIN",
-          "inAppPurchasesTimes": 21
-        },
-        {
-          "trackId": 1308097969,
-          "trackName": "MyAsset Finance V3",
-          "inAppPurchasesTimes": 21
-        },
-        {
-          "trackId": 6749609393,
-          "trackName": "Computer Basics: PC Guide",
-          "inAppPurchasesTimes": 21
-        },
-        {
-          "trackId": 6502953520,
-          "trackName": "Control Ultimate Edition",
-          "inAppPurchasesTimes": 20
-        },
-        {
-          "trackId": 6761575159,
-          "trackName": "退休倒數",
-          "inAppPurchasesTimes": 20
-        },
-        {
-          "trackId": 299021909,
-          "trackName": "聖經工具(新標點和合本)",
-          "inAppPurchasesTimes": 20
-        },
-        {
-          "trackId": 418751595,
-          "trackName": "GyrOSC",
-          "inAppPurchasesTimes": 20
-        },
-        {
-          "trackId": 390017969,
-          "trackName": "Due - Reminders & Timers",
-          "inAppPurchasesTimes": 19
-        },
-        {
-          "trackId": 6740814979,
-          "trackName": "Follow the meaning",
-          "inAppPurchasesTimes": 19
-        },
-        {
-          "trackId": 6456886656,
-          "trackName": "Layla",
-          "inAppPurchasesTimes": 19
-        },
-        {
-          "trackId": 6742044212,
-          "trackName": "SnapKoin - Expense Tracker",
-          "inAppPurchasesTimes": 18
-        },
-        {
-          "trackId": 1561136737,
-          "trackName": "Word Puzzle-Cambridge (NoAds)",
-          "inAppPurchasesTimes": 17
-        },
-        {
-          "trackId": 6504192378,
-          "trackName": "B.ROLL - Youth Filter Camera",
-          "inAppPurchasesTimes": 17
-        },
-        {
-          "trackId": 307751675,
-          "trackName": "PopStar!-stars crush",
-          "inAppPurchasesTimes": 17
-        },
-        {
-          "trackId": 315021242,
-          "trackName": "Unblock Me Premium",
-          "inAppPurchasesTimes": 16
-        },
-        {
-          "trackId": 1166143148,
-          "trackName": "Brutal Street 2",
-          "inAppPurchasesTimes": 16
-        },
-        {
-          "trackId": 1184204602,
-          "trackName": "ProMovie Recorder +",
-          "inAppPurchasesTimes": 15
-        },
-        {
-          "trackId": 6744608603,
-          "trackName": "A Game About Digging A Hole™",
-          "inAppPurchasesTimes": 6
-        },
-        {
-          "trackId": 1498367664,
-          "trackName": "Charger Master Pro",
-          "inAppPurchasesTimes": 6
-        },
-        {
-          "trackId": 6667107639,
-          "trackName": "HTML WYSIWYG",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "pt": [
-        {
-          "trackId": 1236657805,
-          "trackName": "Cube CFOP: F2L, OLL & PLL",
-          "inAppPurchasesTimes": 30
-        },
-        {
-          "trackId": 657638474,
-          "trackName": "Lightbot",
-          "inAppPurchasesTimes": 30
-        },
-        {
-          "trackId": 1604438442,
-          "trackName": "Ritmo MIDI: Leia notas",
-          "inAppPurchasesTimes": 29
-        },
-        {
-          "trackId": 305608072,
-          "trackName": "SPACE INVADERS",
-          "inAppPurchasesTimes": 29
-        },
-        {
-          "trackId": 6452276410,
-          "trackName": "遊戲開發者：全能製作人",
-          "inAppPurchasesTimes": 26
-        },
-        {
-          "trackId": 1531068181,
-          "trackName": "TimeGlance - Compilação",
-          "inAppPurchasesTimes": 25
-        },
-        {
-          "trackId": 1551539091,
-          "trackName": "NFC Business Card - Read Write",
-          "inAppPurchasesTimes": 25
-        },
-        {
-          "trackId": 6547834967,
-          "trackName": "Animal Crossing: Pocket Camp C",
-          "inAppPurchasesTimes": 25
-        },
-        {
-          "trackId": 1517410833,
-          "trackName": "Startup Panic",
-          "inAppPurchasesTimes": 22
-        },
-        {
-          "trackId": 6753707049,
-          "trackName": "通勝 2026",
-          "inAppPurchasesTimes": 22
-        },
-        {
-          "trackId": 933113994,
-          "trackName": "DRAGON QUEST V",
-          "inAppPurchasesTimes": 19
-        },
-        {
-          "trackId": 1082806154,
-          "trackName": "Age of Rivals",
-          "inAppPurchasesTimes": 19
-        },
-        {
-          "trackId": 6760838876,
-          "trackName": "Oldi - Phone Camera",
-          "inAppPurchasesTimes": 14
-        },
-        {
-          "trackId": 836603095,
-          "trackName": "Scanner RF detector Campo EMF",
-          "inAppPurchasesTimes": 14
-        },
-        {
-          "trackId": 982175678,
-          "trackName": "This War of Mine",
-          "inAppPurchasesTimes": 14
-        },
-        {
-          "trackId": 992047786,
-          "trackName": "Analog Wedding",
-          "inAppPurchasesTimes": 14
-        },
-        {
-          "trackId": 318639200,
-          "trackName": "Crush the Castle",
-          "inAppPurchasesTimes": 13
-        },
-        {
-          "trackId": 325915322,
-          "trackName": "BatteryFull + (Alarm)",
-          "inAppPurchasesTimes": 13
-        },
-        {
-          "trackId": 6821872148,
-          "trackName": "Duopaper: Fundos HD para ecrãs",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 6755391836,
-          "trackName": "KidoQuiz Animais (Completo)",
-          "inAppPurchasesTimes": 2
-        }
-      ]
-    },
-    "duration": "1h29m32.118s",
-    "regionAppCount": {
-      "cn": 1160,
-      "hk": 2010,
-      "mo": 2005,
-      "tw": 2013,
-      "us": 1994,
-      "tr": 1986,
-      "pt": 1942
     },
     "limitCount": 2,
     "inAppPurchasesScrapeType": "fetch"

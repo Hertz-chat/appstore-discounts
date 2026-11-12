@@ -13965,6 +13965,18 @@
     "history": [
       [
         {
+          "timestamp": 1794458321964,
+          "price": 14.99,
+          "formattedPrice": "₺14,99",
+          "inAppPurchases": {
+            "Dakota Map Pack": "₺49,99",
+            "Alaska Map Pack": "₺49,99",
+            "Unlock Everything": "₺139,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791936037723,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -22352,6 +22364,25 @@
       "FL Cloud Mobile": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794458321964,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "₺49,99",
+            "Sliced Beats": "₺49,99",
+            "Varazdin Orchestral Mobile": "₺199,99",
+            "Voices": "₺49,99",
+            "Amped Guitar & Bass": "₺149,99",
+            "Synth Lead": "₺99,99",
+            "DubTechno": "₺99,99",
+            "Acoustic Guitars": "₺49,99",
+            "Hyper-Pop Mobile": "₺149,99",
+            "Synth Plucks": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794402266910,
@@ -73509,6 +73540,25 @@
     "history": [
       [
         {
+          "timestamp": 1794458321964,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "1 Mo. CAN Texting": "₺149,99",
+            "$5 Credit": "₺299,99",
+            "1 Mo. Global Texting": "₺199,99",
+            "3 Mo. CAN Texting": "₺299,99",
+            "1 Mo. Fongo Plus": "₺499,99",
+            "$20 Credit": "₺999,99",
+            "6 Mo. CAN Texting": "₺499,99",
+            "$50 Credit": "₺2.499,99",
+            "3 Mo. Global Texting": "₺499,99",
+            "$10 Credit": "₺499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793700779769,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -98618,14 +98668,22 @@
   "1065311870": {
     "name": "VRPlayer Pro : 2D 3D 360°Video",
     "maxPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
     },
     "minPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794458321964,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1767558646047,
@@ -138216,6 +138274,19 @@
     "history": [
       [
         {
+          "timestamp": 1794458321964,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "500 Tickets": "₺499,99",
+            "200 Tickets": "₺249,99",
+            "50 Tickets": "₺99,99",
+            "Golden Pass": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788389988743,
           "price": 499.99,
           "formattedPrice": "₺499,99",
@@ -142523,7 +142594,17 @@
       "Black Dark Lord Skin Package": "₺399,99",
       "White Dark Lord Skin Package": "₺399,99",
       "Awakening Viper Package": "₺249,99",
-      "Myth full pack": "₺1.999,99"
+      "Myth full pack": "₺1.999,99",
+      "Monster Succession": "₺249,99",
+      "Dark Lord Boost Package": "₺499,99",
+      "Dark Lord Emma": "₺149,99",
+      "Dark Lord Floria": "₺149,99",
+      "Dark Lord Marielle": "₺149,99",
+      "Dark Lord Rebecca": "₺149,99",
+      "Dark Lord Tania": "₺149,99",
+      "Original Dungeon Package": "₺999,99",
+      "Original Monster Package": "₺499,99",
+      "Original Lord Skill Package": "₺999,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -142537,9 +142618,38 @@
       "Black Dark Lord Skin Package": "₺349,99",
       "White Dark Lord Skin Package": "₺349,99",
       "Awakening Viper Package": "₺229,99",
-      "Myth full pack": "₺1.799,99"
+      "Myth full pack": "₺1.799,99",
+      "Monster Succession": "₺249,99",
+      "Dark Lord Boost Package": "₺499,99",
+      "Dark Lord Emma": "₺149,99",
+      "Dark Lord Floria": "₺149,99",
+      "Dark Lord Marielle": "₺149,99",
+      "Dark Lord Rebecca": "₺149,99",
+      "Dark Lord Tania": "₺149,99",
+      "Original Dungeon Package": "₺999,99",
+      "Original Monster Package": "₺499,99",
+      "Original Lord Skill Package": "₺999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794458321964,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Monster Succession": "₺249,99",
+            "Dark Lord Boost Package": "₺499,99",
+            "Dark Lord Emma": "₺149,99",
+            "Dark Lord Floria": "₺149,99",
+            "Dark Lord Marielle": "₺149,99",
+            "Dark Lord Rebecca": "₺149,99",
+            "Dark Lord Tania": "₺149,99",
+            "Original Dungeon Package": "₺999,99",
+            "Original Monster Package": "₺499,99",
+            "Original Lord Skill Package": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793927683912,
@@ -207529,6 +207639,14 @@
     "history": [
       [
         {
+          "timestamp": 1794458321964,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792363190565,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -251787,6 +251905,23 @@
     "history": [
       [
         {
+          "timestamp": 1794458321964,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 737-900": "₺99,99",
+            "Boeing 787-10": "₺99,99",
+            "Boeing 737-800": "₺149,99",
+            "Global scenery - 3 months": "₺399,99",
+            "Boeing 747-400": "₺99,99",
+            "The Aircraft Bundle": "₺1.299,99"
+          }
+        },
+        {
           "timestamp": 1794433436114,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -284730,6 +284865,17 @@
     "history": [
       [
         {
+          "timestamp": 1794458321964,
+          "price": 119.99,
+          "formattedPrice": "₺119,99",
+          "inAppPurchases": {
+            "Steyr Arms Pack": "₺49,99",
+            "Hunter's Pack": "₺29,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791936037723,
           "price": 169.99,
           "formattedPrice": "₺169,99",
@@ -291697,10 +291843,18 @@
       "formattedPrice": "₺39,99"
     },
     "minPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99"
+      "price": 4.99,
+      "formattedPrice": "₺4,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794458321964,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1774263596218,
@@ -295711,6 +295865,14 @@
     "history": [
       [
         {
+          "timestamp": 1794458321964,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793146065483,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -299682,8 +299844,8 @@
       "price": 149.99,
       "formattedPrice": "₺149,99",
       "终身护持": "₺799,99",
-      "年度护持": "₺149,99",
-      "月度护持": "₺19,99",
+      "年度护持": "₺999,99",
+      "月度护持": "₺49,99",
       "3-day Trial": "₺0,00"
     },
     "minPriceInfo": {
@@ -299695,6 +299857,19 @@
       "3-day Trial": "₺0,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794458321964,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "3-day Trial": "₺0,00",
+            "终身护持": "₺799,99",
+            "年度护持": "₺999,99",
+            "月度护持": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792397485602,
@@ -300713,7 +300888,9 @@
       "Silver Gladiator": "₺29,99",
       "Snow Festival Princess": "₺29,99",
       "Pack · Gala of Legends": "₺199,99",
-      "Rune Engineer": "₺29,99"
+      "Rune Engineer": "₺29,99",
+      "Hero · Yarna": "₺49,99",
+      "Hero · Unheo": "₺49,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -300743,9 +300920,30 @@
       "Silver Gladiator": "₺29,99",
       "Snow Festival Princess": "₺29,99",
       "Pack · Gala of Legends": "₺199,99",
-      "Rune Engineer": "₺29,99"
+      "Rune Engineer": "₺29,99",
+      "Hero · Yarna": "₺49,99",
+      "Hero · Unheo": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794458321964,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Hero · Yarna": "₺49,99",
+            "Hero · Unheo": "₺49,99",
+            "Pack · Knights' Gala": "₺149,99",
+            "Pack · Forest and Forge": "₺149,99",
+            "Pack · Snowflower Garden": "₺149,99",
+            "Pack · Eastern Night": "₺149,99",
+            "Pack · Moon and Stars": "₺149,99",
+            "Autumn Hunt Queen": "₺29,99",
+            "Silver Gladiator": "₺29,99",
+            "Snow Festival Princess": "₺29,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794011332916,
@@ -304729,6 +304927,27 @@
           "inAppPurchases": {
             "Supporter Pack": "₺72,99"
           }
+        }
+      ]
+    ]
+  },
+  "6825710504": {
+    "name": "Mahalleden Yıldıza",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794458321964,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
         }
       ]
     ]

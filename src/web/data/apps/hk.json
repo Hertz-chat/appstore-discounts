@@ -10736,10 +10736,10 @@
   {
     "trackId": 1304822713,
     "region": "hk",
-    "timestamp": 1788364904788,
+    "timestamp": 1794458321964,
     "discounts": [],
-    "price": 88,
-    "formattedPrice": "HK$ 88.00",
+    "price": 0,
+    "formattedPrice": "免費",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id1304822713",
     "trackName": "無盡坦克大戰 - 八位元單機王者 完美模擬穿越舊經典電視手遊",
@@ -13424,7 +13424,7 @@
   {
     "trackId": 1477966166,
     "region": "hk",
-    "timestamp": 1794318757010,
+    "timestamp": 1794458321964,
     "discounts": [],
     "price": 38,
     "formattedPrice": "HK$ 38.00",
@@ -19443,7 +19443,7 @@
   {
     "trackId": 6462841384,
     "region": "hk",
-    "timestamp": 1790828594798,
+    "timestamp": 1794458321964,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -19876,7 +19876,7 @@
   {
     "trackId": 6473001577,
     "region": "hk",
-    "timestamp": 1794318757010,
+    "timestamp": 1794458321964,
     "discounts": [],
     "price": 32,
     "formattedPrice": "HK$ 32.00",
@@ -26957,7 +26957,7 @@
   {
     "trackId": 6801980968,
     "region": "hk",
-    "timestamp": 1794318757010,
+    "timestamp": 1794458321964,
     "discounts": [],
     "price": 18,
     "formattedPrice": "HK$ 18.00",
@@ -27409,6 +27409,18 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id6824686276",
     "trackName": "Wider - Fullscreen Browsing",
     "firstRecordedAt": 1793438080874
+  },
+  {
+    "trackId": 6825710504,
+    "region": "hk",
+    "timestamp": 1794458321964,
+    "discounts": [],
+    "price": 18,
+    "formattedPrice": "HK$ 18.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6825710504",
+    "trackName": "Mahalleden Yıldıza",
+    "firstRecordedAt": 1794458321964
   },
   {
     "trackId": 6826404492,

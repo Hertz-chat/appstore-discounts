@@ -12037,6 +12037,24 @@
     "history": [
       [
         {
+          "timestamp": 1794541901399,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "FL Cloud Mobile": "5,99 €",
+            "Ferrous Mobile": "2,99 €",
+            "Hyper-Pop Mobile": "2,99 €",
+            "Chip-Tune Mobile": "2,99 €",
+            "Essential Winds": "1,99 €",
+            "Essential Strings": "1,99 €",
+            "DubTechno": "1,99 €",
+            "Chill-Lo-Fi Mobile": "1,99 €",
+            "Technocraft": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792742526515,
           "price": 17.99,
           "formattedPrice": "17,99 €",
@@ -29255,6 +29273,25 @@
       "Medieval Dart Monkey Skin": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794541901399,
+          "price": 3.49,
+          "formattedPrice": "3,49 €",
+          "inAppPurchases": {
+            "Classic Tack Tower Skin Sale": "0,99 €",
+            "Classic Tack Tower Skin": "1,99 €",
+            "Classic Super Monkey Skin Sale": "0,99 €",
+            "Classic Super Monkey Skin": "1,99 €",
+            "Classic Ice Tower Skin Sale": "0,99 €",
+            "Classic Ice Tower Skin": "1,99 €",
+            "Classic Bomb Tower Skin Sale": "0,99 €",
+            "Classic Bomb Tower Skin": "1,99 €",
+            "Classic Dart Monkey Skin Sale": "0,99 €",
+            "Classic Dart Monkey Skin": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793673861342,
@@ -53577,6 +53614,25 @@
     "history": [
       [
         {
+          "timestamp": 1794541901399,
+          "price": 0.49,
+          "formattedPrice": "0,49 €",
+          "inAppPurchases": {
+            "7,000,000 points": "89,99 €",
+            "500,000 points": "9,99 €",
+            "2,100,000 points": "39,99 €",
+            "100,000 points": "2,99 €",
+            "25,000 points": "0,99 €",
+            "1,500,000 points": "29,99 €",
+            "850,000 points": "17,99 €",
+            "10,000,000 points": "99,99 €",
+            "3,750,000 points": "59,99 €",
+            "300,000 points": "8,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793700779769,
           "price": 0.49,
           "formattedPrice": "0,49 €",
@@ -54457,6 +54513,19 @@
       "Early Weeks Annual Offer": "17,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794541901399,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Early Weeks Annual Offer": "17,99 €",
+            "All Access Yearly": "34,99 €",
+            "Early Access Weekly": "1,99 €",
+            "All Access Weekly": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -77641,6 +77710,21 @@
     "history": [
       [
         {
+          "timestamp": 1794541901399,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "The Riverfolk Expansion": "9,99 €",
+            "Root: The Underworld Expansion": "9,99 €",
+            "Exiles & Partisans & Vagabonds": "8,99 €",
+            "The Clockwork Expansion": "6,99 €",
+            "Root: The Marauder Expansion": "9,99 €",
+            "Hirelings & Landmarks": "9,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791420216639,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -78872,7 +78956,15 @@
       "Role Package": "2,99 €",
       "Heroic Package#2": "9,99 €",
       "Heroic Package#1": "9,99 €",
-      "Resource Package": "2,99 €"
+      "Resource Package": "2,99 €",
+      "Gift 21": "99,99 €",
+      "Gift 19": "59,99 €",
+      "Gift 16": "22,99 €",
+      "Gift 13": "9,99 €",
+      "Gift 9": "3,99 €",
+      "Gift 6": "2,99 €",
+      "Gift 5": "1,99 €",
+      "Gift 3": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -78886,9 +78978,36 @@
       "Role Package": "2,99 €",
       "Heroic Package#2": "9,99 €",
       "Heroic Package#1": "9,99 €",
-      "Resource Package": "2,99 €"
+      "Resource Package": "2,99 €",
+      "Gift 21": "99,99 €",
+      "Gift 19": "59,99 €",
+      "Gift 16": "22,99 €",
+      "Gift 13": "9,99 €",
+      "Gift 9": "3,99 €",
+      "Gift 6": "2,99 €",
+      "Gift 5": "1,99 €",
+      "Gift 3": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794541901399,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Gift 21": "99,99 €",
+            "Gift 19": "59,99 €",
+            "Gift 16": "22,99 €",
+            "Gift 13": "9,99 €",
+            "Gift 9": "3,99 €",
+            "Gift 6": "2,99 €",
+            "Gift 5": "1,99 €",
+            "Gift 3": "0,99 €",
+            "Teammate Package#2": "5,99 €",
+            "Bronze Decree": "29,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -102326,6 +102445,18 @@
     "history": [
       [
         {
+          "timestamp": 1794541901399,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Dune: Imperium - Uprising": "11,99 €",
+            "Dune: Imperium - Rise of Ix": "9,99 €",
+            "Dune: Imperium - Immortality": "9,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791420216639,
           "price": 11.99,
           "formattedPrice": "11,99 €",
@@ -103260,6 +103391,17 @@
       "Mummy's Curse": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794541901399,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {
+            "Sunken Treasures": "9,99 €",
+            "Mummy's Curse": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791420216639,
@@ -112976,6 +113118,25 @@
     "history": [
       [
         {
+          "timestamp": 1794541901399,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Season Pass": "7,99 €",
+            "Nurse Pack": "5,99 €",
+            "Unlock Beholder": "2,99 €",
+            "Unlock Gumiho": "2,99 €",
+            "Season 3 Battle Pass": "1,99 €",
+            "Uniform Pack": "3,99 €",
+            "Unlock Baphomet": "2,99 €",
+            "Season 2 Battle Pass": "1,99 €",
+            "Monster Pack 2": "34,99 €",
+            "Info Pack": "14,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794367744578,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -120367,6 +120528,14 @@
       "formattedPrice": "8,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794541901399,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791420216639,
@@ -157060,6 +157229,14 @@
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794541901399,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790885290521,

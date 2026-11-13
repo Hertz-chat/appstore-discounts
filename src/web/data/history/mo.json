@@ -13716,6 +13716,25 @@
     "history": [
       [
         {
+          "timestamp": 1794541901399,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Rank Up +2 Ranks": "USD 0.99",
+            "Double Cash": "USD 2.99",
+            "Healthy Bananas": "USD 1.99",
+            "Explosive Darts": "USD 1.99",
+            "Double Ranga": "USD 1.99",
+            "Monkey Tycoon": "USD 0.99",
+            "Frag Bombs": "USD 0.99",
+            "Digital Amplification": "USD 0.99",
+            "Dreadnought": "USD 0.99",
+            "Crystal Ball": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1792609257403,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -66969,6 +66988,23 @@
     "history": [
       [
         {
+          "timestamp": 1794541901399,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "金牛会员尊享版连续包月": "USD 0.99",
+            "问财专业版连续包月": "USD 24.99",
+            "问财进阶版连续包月": "USD 9.99",
+            "598花币": "USD 89.99",
+            "299花币": "USD 39.99",
+            "早盘选股宝连续包月": "USD 39.99",
+            "机构探测器连续包月": "USD 17.49",
+            "金牛情报连续包月": "USD 10.99",
+            "分时顶底连续包季": "USD 18.99",
+            "波段雷达连续包季": "USD 41.99"
+          }
+        },
+        {
           "timestamp": 1794519490990,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -92531,6 +92567,25 @@
       "一箱鑽石": "USD 49.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794541901399,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "促銷禮包5": "USD 14.99",
+            "促銷禮包4": "USD 9.99",
+            "促銷禮包3": "USD 7.99",
+            "促銷禮包2": "USD 4.99",
+            "促銷禮包1": "USD 2.99",
+            "雙倍背包": "USD 1.99",
+            "僱傭超能少年": "USD 1.99",
+            "1代套裝(3星)": "USD 1.99",
+            "雙倍獎勵": "USD 1.99",
+            "一大袋鑽石": "USD 19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792175391583,
@@ -125873,7 +125928,15 @@
       "310 gems": "USD 4.99",
       "2080 gems": "USD 29.99",
       "Gold Decree": "USD 89.99",
-      "Silver Decree": "USD 49.99"
+      "Silver Decree": "USD 49.99",
+      "Gift 21": "USD 99.99",
+      "Gift 19": "USD 49.99",
+      "Gift 16": "USD 19.99",
+      "Gift 13": "USD 9.99",
+      "Gift 9": "USD 3.99",
+      "Gift 6": "USD 2.99",
+      "Gift 5": "USD 1.99",
+      "Gift 3": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -125893,9 +125956,36 @@
       "310 gems": "USD 4.99",
       "2080 gems": "USD 29.99",
       "Gold Decree": "USD 89.99",
-      "Silver Decree": "USD 49.99"
+      "Silver Decree": "USD 49.99",
+      "Gift 21": "USD 99.99",
+      "Gift 19": "USD 49.99",
+      "Gift 16": "USD 19.99",
+      "Gift 13": "USD 9.99",
+      "Gift 9": "USD 3.99",
+      "Gift 6": "USD 2.99",
+      "Gift 5": "USD 1.99",
+      "Gift 3": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794541901399,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Gift 21": "USD 99.99",
+            "Gift 19": "USD 49.99",
+            "Gift 16": "USD 19.99",
+            "Gift 13": "USD 9.99",
+            "Gift 9": "USD 3.99",
+            "Gift 6": "USD 2.99",
+            "Gift 5": "USD 1.99",
+            "Gift 3": "USD 0.99",
+            "Teammate Package#2": "USD 4.99",
+            "Bronze Decree": "USD 25.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794131413359,
@@ -222164,6 +222254,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794541901399,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790901150979,

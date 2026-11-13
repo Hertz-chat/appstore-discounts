@@ -2932,7 +2932,7 @@
   {
     "trackId": 485246824,
     "region": "tw",
-    "timestamp": 1794541901399,
+    "timestamp": 1794576729054,
     "discounts": [],
     "price": 60,
     "formattedPrice": "$60.00",
@@ -4714,7 +4714,7 @@
   {
     "trackId": 655607914,
     "region": "tw",
-    "timestamp": 1794541901399,
+    "timestamp": 1794576729054,
     "discounts": [],
     "price": 390,
     "formattedPrice": "$390.00",
@@ -5821,7 +5821,7 @@
   {
     "trackId": 860809977,
     "region": "tw",
-    "timestamp": 1794402266910,
+    "timestamp": 1794576729054,
     "discounts": [],
     "price": 150,
     "formattedPrice": "$150.00",
@@ -8907,7 +8907,7 @@
   {
     "trackId": 1118115766,
     "region": "tw",
-    "timestamp": 1794267500104,
+    "timestamp": 1794576729054,
     "discounts": [],
     "price": 220,
     "formattedPrice": "$220.00",
@@ -12604,7 +12604,7 @@
   {
     "trackId": 1450144092,
     "region": "tw",
-    "timestamp": 1794458321964,
+    "timestamp": 1794576729054,
     "discounts": [],
     "price": 10,
     "formattedPrice": "$10.00",
@@ -15577,7 +15577,7 @@
   {
     "trackId": 1555184523,
     "region": "tw",
-    "timestamp": 1794541901399,
+    "timestamp": 1794576729054,
     "discounts": [],
     "price": 290,
     "formattedPrice": "$290.00",
@@ -17149,6 +17149,18 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id1613295180",
     "trackName": "青春敘曲",
     "firstRecordedAt": 1745442137026
+  },
+  {
+    "trackId": 1613297344,
+    "region": "tw",
+    "timestamp": 1794576729054,
+    "discounts": [],
+    "price": 120,
+    "formattedPrice": "$120.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1613297344",
+    "trackName": "KOF 2000 ACA NEOGEO",
+    "firstRecordedAt": 1794576729054
   },
   {
     "trackId": 1613920866,
@@ -21558,7 +21570,7 @@
   {
     "trackId": 6737434503,
     "region": "tw",
-    "timestamp": 1793731488753,
+    "timestamp": 1794576729054,
     "discounts": [],
     "price": 10,
     "formattedPrice": "$10.00",
@@ -25309,7 +25321,7 @@
   {
     "trackId": 6759664029,
     "region": "tw",
-    "timestamp": 1794519490990,
+    "timestamp": 1794576729054,
     "discounts": [],
     "price": 220,
     "formattedPrice": "$220.00",
@@ -25537,7 +25549,7 @@
   {
     "trackId": 6760838876,
     "region": "tw",
-    "timestamp": 1779809260240,
+    "timestamp": 1794576729054,
     "discounts": [],
     "price": 30,
     "formattedPrice": "$30.00",
@@ -26991,7 +27003,7 @@
   {
     "trackId": 6801980968,
     "region": "tw",
-    "timestamp": 1794541901399,
+    "timestamp": 1794576729054,
     "discounts": [],
     "price": 60,
     "formattedPrice": "$60.00",
@@ -27291,10 +27303,10 @@
   {
     "trackId": 6816896250,
     "region": "tw",
-    "timestamp": 1794234717577,
+    "timestamp": 1794576729054,
     "discounts": [],
-    "price": 120,
-    "formattedPrice": "$120.00",
+    "price": 30,
+    "formattedPrice": "$30.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id6816896250",
     "trackName": "Tiny Computers",

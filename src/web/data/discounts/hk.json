@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1642733080,
+    "region": "hk",
+    "timestamp": 1794576729054,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 38.00",
+        "to": "HK$ 18.00",
+        "range": "[HK$ 18.00 ~ HK$ 38.00]"
+      }
+    ],
+    "price": 18,
+    "formattedPrice": "HK$ 18.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1642733080",
+    "trackName": "DungeonSquad",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6816896250,
+    "region": "hk",
+    "timestamp": 1794576729054,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 32.00",
+        "to": "HK$ 8.00",
+        "range": "[HK$ 8.00 ~ HK$ 38.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6816896250",
+    "trackName": "Tiny Computers",
+    "firstRecordedAt": 1792798647744
+  },
+  {
     "trackId": 1504000687,
     "region": "hk",
     "timestamp": 1794541901399,
@@ -18,26 +58,6 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id1504000687",
     "trackName": "雙人遊戲 2 Player Offline Games",
     "firstRecordedAt": 1792175391583
-  },
-  {
-    "trackId": 1642733080,
-    "region": "hk",
-    "timestamp": 1794541901399,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "HK$ 38.00",
-        "to": "HK$ 18.00",
-        "range": "[HK$ 18.00 ~ HK$ 38.00]"
-      }
-    ],
-    "price": 18,
-    "formattedPrice": "HK$ 18.00",
-    "currency": "HKD",
-    "trackViewUrl": "https://apps.apple.com/hk/app/id1642733080",
-    "trackName": "DungeonSquad",
-    "firstRecordedAt": 1745328692670
   },
   {
     "trackId": 6786557574,
@@ -429,7 +449,7 @@
         "name": "Price",
         "from": "HK$ 38.00",
         "to": "HK$ 22.00",
-        "range": "[HK$ 22.00 ~ HK$ 38.00]"
+        "range": "[HK$ 8.00 ~ HK$ 38.00]"
       }
     ],
     "price": 22,

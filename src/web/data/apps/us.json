@@ -10818,7 +10818,7 @@
   {
     "trackId": 1309638846,
     "region": "us",
-    "timestamp": 1794541901399,
+    "timestamp": 1794576729054,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "$1.99",
@@ -17006,6 +17006,18 @@
     "firstRecordedAt": 1745442137026
   },
   {
+    "trackId": 1613297344,
+    "region": "us",
+    "timestamp": 1794576729054,
+    "discounts": [],
+    "price": 3.99,
+    "formattedPrice": "$3.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1613297344",
+    "trackName": "KOF 2000 ACA NEOGEO",
+    "firstRecordedAt": 1794576729054
+  },
+  {
     "trackId": 1613920866,
     "region": "us",
     "timestamp": 1745481777335,
@@ -20114,7 +20126,7 @@
   {
     "trackId": 6478287619,
     "region": "us",
-    "timestamp": 1794541901399,
+    "timestamp": 1794576729054,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "$4.99",
@@ -25194,7 +25206,7 @@
   {
     "trackId": 6760838876,
     "region": "us",
-    "timestamp": 1779809260240,
+    "timestamp": 1794576729054,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -26924,10 +26936,10 @@
   {
     "trackId": 6816896250,
     "region": "us",
-    "timestamp": 1794286670366,
+    "timestamp": 1794576729054,
     "discounts": [],
-    "price": 3.99,
-    "formattedPrice": "$3.99",
+    "price": 0.99,
+    "formattedPrice": "$0.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6816896250",
     "trackName": "Tiny Computers",

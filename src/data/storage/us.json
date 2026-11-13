@@ -153062,6 +153062,25 @@
     "history": [
       [
         {
+          "timestamp": 1794576729054,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$5.99",
+            "Retro Frame Pack": "$0.99",
+            "Color Frame Pack": "$0.99",
+            "Blue Cam Film Pack": "$0.99",
+            "Stroke Frame Pack": "$0.99",
+            "Black Cam Film Pack": "$0.99",
+            "Purple Cam Film Pack": "$0.99",
+            "Green Cam Film Pack": "$0.99",
+            "Stamp Frame Pack": "$0.99",
+            "Red Cam Film Pack": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794541901399,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -252476,6 +252495,27 @@
       ]
     ]
   },
+  "1613297344": {
+    "name": "KOF 2000 ACA NEOGEO",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794576729054,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1613920866": {
     "name": "金價即時通",
     "maxPriceInfo": {
@@ -333722,6 +333762,25 @@
     "history": [
       [
         {
+          "timestamp": 1794576729054,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$9.99",
+            "Sun and Spice Bundle": "$7.99",
+            "Mystic Mayhem Pack": "$5.99",
+            "Santa Claws Pack": "$4.99",
+            "Beach Day Pack": "$5.99",
+            "Kitchen Chaos Pack": "$5.99",
+            "Mystic Mayhem Card Back": "$0.99",
+            "MysticMayhem Cauldron Creature": "$1.99",
+            "Sea Rat Outfit": "$1.99",
+            "Kitchen Chaos Card Back": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794541901399,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -360754,13 +360813,25 @@
     "name": "Oldi - Phone Camera",
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "$0.99"
+      "formattedPrice": "$0.99",
+      "Oldi Unlimited": "$0.49"
     },
     "minPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "$0.99"
+      "formattedPrice": "$0.99",
+      "Oldi Unlimited": "$0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794576729054,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Oldi Unlimited": "$0.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779809260240,
@@ -368404,10 +368475,18 @@
       "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 0.99,
+      "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794576729054,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794286670366,

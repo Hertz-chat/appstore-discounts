@@ -5833,7 +5833,7 @@
   {
     "trackId": 860809977,
     "region": "tr",
-    "timestamp": 1794541901399,
+    "timestamp": 1794576729054,
     "discounts": [],
     "price": 249.99,
     "formattedPrice": "₺249,99",
@@ -13423,7 +13423,7 @@
   {
     "trackId": 1477966166,
     "region": "tr",
-    "timestamp": 1794541901399,
+    "timestamp": 1794576729054,
     "discounts": [],
     "price": 249.99,
     "formattedPrice": "₺249,99",
@@ -17017,6 +17017,18 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id1613295180",
     "trackName": "Growing Up: Life of the '90s",
     "firstRecordedAt": 1745442137026
+  },
+  {
+    "trackId": 1613297344,
+    "region": "tr",
+    "timestamp": 1794576729054,
+    "discounts": [],
+    "price": 199.99,
+    "formattedPrice": "₺199,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1613297344",
+    "trackName": "KOF 2000 ACA NEOGEO",
+    "firstRecordedAt": 1794576729054
   },
   {
     "trackId": 1613920866,
@@ -25134,7 +25146,7 @@
   {
     "trackId": 6760838876,
     "region": "tr",
-    "timestamp": 1779809260240,
+    "timestamp": 1794576729054,
     "discounts": [],
     "price": 49.99,
     "formattedPrice": "₺49,99",
@@ -26924,10 +26936,10 @@
   {
     "trackId": 6816896250,
     "region": "tr",
-    "timestamp": 1794267500104,
+    "timestamp": 1794576729054,
     "discounts": [],
-    "price": 199.99,
-    "formattedPrice": "₺199,99",
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6816896250",
     "trackName": "Tiny Computers",

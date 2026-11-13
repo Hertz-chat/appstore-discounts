@@ -18559,6 +18559,23 @@
     "history": [
       [
         {
+          "timestamp": 1794576729054,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Premium Upgrade Pack": "HK$ 58.00",
+            "Extreme Map Pack": "HK$ 18.00",
+            "Double Cash": "HK$ 22.00",
+            "Rank Up +2 Ranks": "HK$ 8.00",
+            "Healthy Bananas": "HK$ 18.00",
+            "Explosive Darts": "HK$ 18.00",
+            "Double Ranga": "HK$ 18.00",
+            "Monkey Tycoon": "HK$ 8.00",
+            "Frag Bombs": "HK$ 8.00",
+            "Digital Amplification": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1794541901399,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -151659,6 +151676,23 @@
     "history": [
       [
         {
+          "timestamp": 1794576729054,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "HK$ 38.00",
+            "Reason Font Pack": "HK$ 0.00",
+            "Just Font Pack": "HK$ 0.00",
+            "All Filter Packs": "HK$ 18.00",
+            "Always Font Pack": "HK$ 0.00",
+            "Unique Font Pack": "HK$ 8.00",
+            "Rainbow Film Pack": "HK$ 8.00",
+            "All Poster Packs": "HK$ 22.00",
+            "Pic Say Poster Pack": "HK$ 8.00",
+            "Insta Poster Pack": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1794541901399,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -165282,6 +165316,25 @@
     "history": [
       [
         {
+          "timestamp": 1794576729054,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "68金玉": "HK$ 78.00",
+            "30金玉": "HK$ 38.00",
+            "6金玉": "HK$ 8.00",
+            "198金玉": "HK$ 238.00",
+            "648金玉": "HK$ 788.00",
+            "一鍵買斷禮包": "HK$ 38.00",
+            "禮包5": "HK$ 38.00",
+            "尊享月俸": "HK$ 38.00",
+            "禮包1": "HK$ 2.00",
+            "禮包3": "HK$ 16.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794433436114,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -176683,6 +176736,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794576729054,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "每日外刊": "HK$ 73.00",
+            "2年联合VIP会员": "HK$ 228.00",
+            "VIP连续包季": "HK$ 63.00",
+            "VIP连续包月": "HK$ 32.00",
+            "一年联合VIP会员": "HK$ 148.00",
+            "大学英语_外刊精读 | 2025年度TOP100精选": "HK$ 228.00",
+            "肖维青英文原著精读课-纳尼亚传奇篇": "HK$ 228.00",
+            "大学英语_外刊精读 | 2021年度TOP100精选": "HK$ 228.00",
+            "大学英语_外刊精读 | 2022年度TOP100精选": "HK$ 228.00"
+          }
+        },
         {
           "timestamp": 1794541901399,
           "price": 8,
@@ -223949,6 +224018,29 @@
       ]
     ]
   },
+  "1613297344": {
+    "trackId": 1613297344,
+    "trackName": "KOF 2000 ACA NEOGEO",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "minPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794576729054,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1613920866": {
     "trackId": 1613920866,
     "trackName": "金價即時通",
@@ -234230,6 +234322,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794576729054,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Autonomy": "HK$ 22.00",
+            "Time Flow": "HK$ 22.00",
+            "賽季通行證": "HK$ 58.00",
+            "角色通行證": "HK$ 88.00",
+            "婚禮禮包": "HK$ 38.00",
+            "尼奧禮包": "HK$ 38.00",
+            "勇者研究": "HK$ 48.00",
+            "解鎖性質": "HK$ 58.00",
+            "賽季０戰鬥通行證": "HK$ 18.00",
+            "鍛造禮包": "HK$ 58.00"
+          }
+        },
         {
           "timestamp": 1794541901399,
           "price": 18,
@@ -309950,13 +310059,25 @@
     "region": "hk",
     "maxPriceInfo": {
       "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "formattedPrice": "HK$ 8.00",
+      "Oldi 無限": "HK$ 2.00"
     },
     "minPriceInfo": {
       "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "formattedPrice": "HK$ 8.00",
+      "Oldi 無限": "HK$ 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794576729054,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Oldi 無限": "HK$ 2.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779809260240,
@@ -315127,7 +315248,8 @@
       "服裝組合 · 森林與工坊": "HK$ 22.00",
       "服裝組合 · 雪花庭園": "HK$ 22.00",
       "服裝組合 · 東方之夜": "HK$ 22.00",
-      "服裝組合 · 傳奇盛宴": "HK$ 32.00"
+      "服裝組合 · 傳奇盛宴": "HK$ 32.00",
+      "服裝組合 · 月與星": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 13,
@@ -315152,10 +315274,28 @@
       "服裝組合 · 森林與工坊": "HK$ 22.00",
       "服裝組合 · 雪花庭園": "HK$ 22.00",
       "服裝組合 · 東方之夜": "HK$ 22.00",
-      "服裝組合 · 傳奇盛宴": "HK$ 32.00"
+      "服裝組合 · 傳奇盛宴": "HK$ 32.00",
+      "服裝組合 · 月與星": "HK$ 22.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1794576729054,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "組合・光之騎士團": "HK$ 88.00",
+            "付費角色・艾德瑞克": "HK$ 8.00",
+            "付費角色・菲涅": "HK$ 8.00",
+            "服裝組合 · 騎士團盛宴": "HK$ 22.00",
+            "服裝組合 · 森林與工坊": "HK$ 22.00",
+            "服裝組合 · 雪花庭園": "HK$ 22.00",
+            "服裝組合 · 東方之夜": "HK$ 22.00",
+            "服裝組合 · 月與星": "HK$ 22.00",
+            "服裝組合 · 傳奇盛宴": "HK$ 32.00",
+            "付費角色・墨蘭": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1794541901399,
           "price": 18,
@@ -318269,10 +318409,18 @@
       "formattedPrice": "HK$ 38.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794576729054,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794267500104,

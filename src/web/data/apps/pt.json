@@ -1997,7 +1997,7 @@
   {
     "trackId": 432850619,
     "region": "pt",
-    "timestamp": 1794541901399,
+    "timestamp": 1794576729054,
     "discounts": [],
     "price": 17.99,
     "formattedPrice": "17,99 €",
@@ -2598,7 +2598,7 @@
   {
     "trackId": 485246824,
     "region": "pt",
-    "timestamp": 1790034627833,
+    "timestamp": 1794576729054,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "1,99 €",
@@ -3474,7 +3474,7 @@
   {
     "trackId": 563718995,
     "region": "pt",
-    "timestamp": 1794541901399,
+    "timestamp": 1794576729054,
     "discounts": [],
     "price": 3.49,
     "formattedPrice": "3,49 €",
@@ -4543,7 +4543,7 @@
   {
     "trackId": 686923970,
     "region": "pt",
-    "timestamp": 1761797674362,
+    "timestamp": 1794576729054,
     "discounts": [],
     "price": 9.99,
     "formattedPrice": "9,99 €",
@@ -8027,7 +8027,7 @@
   {
     "trackId": 1108479411,
     "region": "pt",
-    "timestamp": 1794541901399,
+    "timestamp": 1794576729054,
     "discounts": [],
     "price": 0.49,
     "formattedPrice": "0,49 €",
@@ -8063,7 +8063,7 @@
   {
     "trackId": 1111420122,
     "region": "pt",
-    "timestamp": 1794541901399,
+    "timestamp": 1794576729054,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Gratuito",
@@ -15859,6 +15859,18 @@
     "firstRecordedAt": 1761797674362
   },
   {
+    "trackId": 1613297344,
+    "region": "pt",
+    "timestamp": 1794576729054,
+    "discounts": [],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1613297344",
+    "trackName": "KOF 2000 ACA NEOGEO",
+    "firstRecordedAt": 1794576729054
+  },
+  {
     "trackId": 1613920866,
     "region": "pt",
     "timestamp": 1761797674362,
@@ -23528,7 +23540,7 @@
   {
     "trackId": 6760838876,
     "region": "pt",
-    "timestamp": 1779809260240,
+    "timestamp": 1794576729054,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "0,99 €",
@@ -25186,10 +25198,10 @@
   {
     "trackId": 6816896250,
     "region": "pt",
-    "timestamp": 1794267500104,
+    "timestamp": 1794576729054,
     "discounts": [],
-    "price": 3.99,
-    "formattedPrice": "3,99 €",
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6816896250",
     "trackName": "Tiny Computers",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2026-11-13T05:31:13.557Z</updated>
+    <updated>2026-11-13T14:59:37.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-13T05:31:13.557Z</updated>
+        <updated>2026-11-13T14:59:37.310Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusFri, 13 Nov 2026 05:31:13 GMT</id>
+        <id>rankingusFri, 13 Nov 2026 14:59:37 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-13T05:31:13.557Z</updated>
+        <updated>2026-11-13T14:59:37.310Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -51,13 +51,13 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>2426</b>
+        <b>2427</b>
       </td>
       <td>
         <b>204</b>
       </td>
       <td>
-        <b>2222</b>
+        <b>2223</b>
       </td>
       <td>
         <b>108</b>
@@ -68,13 +68,13 @@ feedId:157008699750812672+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>2258</b>
+        <b>2259</b>
       </td>
       <td>
         <b>178</b>
       </td>
       <td>
-        <b>2080</b>
+        <b>2081</b>
       </td>
       <td>
         <b>90</b>
@@ -97,14 +97,14 @@ feedId:157008699750812672+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/954982733?lang=en">Tuner T1 Pro</a>
+        <a href="https://appstore-discounts.eyelly.me/us/6816896250?lang=en">Tiny Computers</a>
       </td>
       <td>
         <ul>
           <li>
-            <span>Total Times</span>：<b>2</b>
+            <span>Total Times</span>：<b>3</b>
           </li><li>
-            <span>Price</span>：<b>2</b>
+            <span>Price</span>：<b>3</b>
           </li>
         </ul>
       </td>
@@ -114,7 +114,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/6824686276?lang=en">Wider - Fullscreen Browsing</a>
+        <a href="https://appstore-discounts.eyelly.me/us/954982733?lang=en">Tuner T1 Pro</a>
       </td>
       <td>
         <ul>
@@ -131,7 +131,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/6821872148?lang=en">Duopaper: Panoramic Wallpapers</a>
+        <a href="https://appstore-discounts.eyelly.me/us/6824686276?lang=en">Wider - Fullscreen Browsing</a>
       </td>
       <td>
         <ul>
@@ -146,6 +146,23 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>
         <b>4</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/6821872148?lang=en">Duopaper: Panoramic Wallpapers</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6759358968?lang=en">PadLab - Live Pads</a>
@@ -164,23 +181,6 @@ feedId:157008699750812672+userId:73658201673997312
                 <i>StageLab</i>：<b>1</b>
               </li>
             </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>5</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/us/6816896250?lang=en">Tiny Computers</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>2</b>
-          </li><li>
-            <span>Price</span>：<b>2</b>
           </li>
         </ul>
       </td>
@@ -1922,6 +1922,48 @@ feedId:157008699750812672+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tiny Computers]]></title>
+        <id>Tiny Computers-us-1794576729054</id>
+        <link href="https://appstore-discounts.eyelly.me/us/6816896250?lang=en"/>
+        <updated>2026-11-13T13:32:09.054Z</updated>
+        <summary type="html"><![CDATA[Price: $3.99 → $0.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/6816896250?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/25/0b/b4250b10-48b9-1186-1407-af72a4913299/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$3.99</span> → <b>
+  <strong>$0.99</strong>
+</b><span>[$0.99 ~ $4.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$0.99</b>
+</p><h2>Application Description</h2><p>
+  Ten miniature machines from decades of computing sit on the table in front of you, each with a working screen and a keyboard you can type on. Spend a little time with an old favourite, or discover the computer your parents grew up with.
+
+Some computers stay with you long after you stop using them. Now there's room for them on your desk again.
+
+EXPLORE THE COLLECTION
+
+Ten computers are ready to play with, inspired by the Macintosh, Commodore 64, IBM PC, Amiga 500, Windows 95, ThinkPad, iMac G3, iBook G3, PowerBook G4 and Windows XP.
+
+TYPE, DRAW AND PLAY
+
+Enjoy clicking keyboards, working command lines, paint programs, floppy disks and familiar desktop games. Open windows, write a note, draw something small and explore each computer's personality. Type 10 PRINT on the Commodore, run BASICA ROOFTOP at the DOS prompt, or load BRICKS from the Amiga's floppy. Occasionally, even Windows crashes.
+
+FIFTY NOSTALGIC SECRETS
+
+Every computer hides five nostalgic secrets: pieces of real computing history, a hidden game and, where its era had them, screen savers. Turn on the Hot Dog Stand colour scheme, ask the 1541 for its directory, meet Rover, or fill a 1984 Mac's memory until the bomb appears. Each computer's page in the collection keeps track of what you've found. Stuck? Open a hint, one at a time: what it is, where to look, then exactly what to do.
+
+ON IPHONE AND IPAD
+
+Each computer appears on your screen as a real little machine resting on an oak table, with its own case, keys and controls. On iPad, the whole computer is in front of you. On iPhone, turn sideways to see the whole machine, then zoom into its screen or its keyboard.
+
+ON IPHONE DUO, IT BECOMES THE COMPUTER
+
+iPhone Duo is the special case. Fold your Duo into tabletop mode and the phone itself transforms into the computer: the screen stands up above and a working keyboard lies flat below, so you hold and type on the machine itself. Close your Duo to browse the collection and choose your next exhibit.
+
+All ten computers are included. No ads, subscriptions or in-app purchases.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/40/a7/c640a735-5207-957b-ef17-c1a13a232d22/01-touch-the-exhibits.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/96/e1/d896e12e-13c5-0aa5-2d6f-be6e428f7c09/02-command-lines.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/62/e1/3062e1ef-0cfd-3973-b67c-4a72b20d339b/03-one-more-game.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/fa/cb/59facb42-0c1e-4993-511f-d5c46c6090a5/04-keyboards-click.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/a4/8b/e6a48bb9-34df-236f-8152-f830702b1567/05-ibm-rooftop.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/9e/3e/549e3ef4-dc6c-e4d1-2ace-7d1eda0f44bb/06-amiga-bricks.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/4e/b2/484eb228-7c2f-813e-9482-2ada978c509e/07-xp-media.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/0f/31/670f31f0-680c-0840-776c-293779727a14/08-thinkpad-minefield.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/50/c4/4550c421-b743-09ae-8a4d-abc08991e901/09-ibook-garden.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/df/d8/78dfd82a-6f83-6c51-e28e-0364c8a1ea05/10-powerbook-paint.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/64/0f/b2640f29-ec09-ea4c-3431-7d3b593166d9/01-touch-the-exhibits.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/0e/8e/e80e8ee3-6931-7d6a-8a82-c652210d34fd/02-command-lines.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/f2/8a/abf28a00-92fa-e125-eacc-9b5e3d954bbb/03-one-more-game.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/d9/61/1fd96140-75eb-40f4-84fd-836d2d5f166d/04-keyboards-click.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/82/55/bb825521-4420-b5ca-9fa5-44e8e4d42c95/05-ibm-rooftop.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/d0/90/ced090be-6a6c-906c-3233-0b22f4df7577/06-amiga-bricks.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/b2/a4/f6b2a45b-1bf7-4777-c520-6cb34309b1e8/07-xp-media.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/b8/3e/90b83e00-0df5-746a-e80a-720b5aafcaf7/08-thinkpad-minefield.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/7f/89/cd7f89e1-b1d3-9406-11b8-a9f3f31a88ce/09-ibook-garden.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/76/e1/4a76e165-cfa6-d3dc-5f13-fd7bc05fdb07/10-powerbook-paint.png/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fuel MPG Mileage Tracker Log]]></title>
         <id>Fuel MPG Mileage Tracker Log-us-1794541901399</id>
         <link href="https://appstore-discounts.eyelly.me/us/6786557574?lang=en"/>
@@ -2585,48 +2627,5 @@ Terms and Conditions: https://www.discoverapp.store/terms-and-conditions
 
 Contact: https://www.discoverapp.store/contact
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/d6/46/7bd646a1-21b3-4052-3c87-b026b95b9ad3/eng.PNG/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/b1/38/78b13842-e28f-fbdb-9d93-9a2e1c543020/10.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/03/a2/d103a24a-4177-018c-7b4e-aadc139d229f/8.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/96/5c/38965c9b-4153-d3a5-9d2a-c63e62e701ac/6.PNG/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/fc/d0/61fcd07a-ef9f-1a46-0caa-79ac23a36fa1/1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/76/12/907612fd-ac57-39f6-15e7-89ceef25b25a/5.PNG/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/40/5c/8b405cfb-d278-8244-cf27-fb1f60d84bbb/2.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/54/75/d4547513-f598-a342-227e-bf1816552617/9.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/3b/4c/453b4cfb-4d7d-0aa1-a435-5488f037a97a/3.PNG/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/ca/eb/45caeb0c-940e-afee-7603-5ba5a0d282b2/4.PNG/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/66/b8/4566b80f-b55d-bff5-b2e1-ba7b1e4ec133/english.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/87/30/b08730e4-ede6-9910-02b9-764fd2269a5e/9.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/bd/c9/38bdc9ed-3de7-b918-d7e6-a028cf9c43c6/2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/c3/c3/c9c3c37c-d3d5-cde0-f742-4ebe0fd47da4/1.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/33/56/8e335637-3544-85dd-69e8-7c5a631c1b7f/4.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/4e/be/914ebef4-3f25-679e-4e5f-8beb38ac091f/7.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/e7/67/79e767a7-335c-c130-cd64-bd2363614c7f/5.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/4a/35/ea4a35e1-3005-44bd-d0ef-9c5f1f622a80/3.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/1e/6e/b31e6e7d-43c2-40c1-fb4d-eb46f57058e3/6.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/62/e2/6162e2d7-781e-2ecc-4bf0-1a9dc2ec36f1/8.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slime Rancher]]></title>
-        <id>Slime Rancher-us-1794318757010</id>
-        <link href="https://appstore-discounts.eyelly.me/us/6758201392?lang=en"/>
-        <updated>2026-11-10T13:52:37.010Z</updated>
-        <summary type="html"><![CDATA[Price: $8.99 → $7.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/6758201392?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/97/1b/81971ba5-2155-2874-407b-5f85e1fb9a29/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$8.99</span> → <b>
-  <strong>$7.99</strong>
-</b><span>[$7.99 ~ $8.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$7.99</b>
-</p><h2>Application Description</h2><p>
-  Due to limited RAM, these devices are not compatible. You won’t have access to all the graphic settings and may experience some freezes or crashes: iPhone Xr, iPhone SE Gen 2 (2020), iPad Mini Gen 5, iPad Air Gen 3, iPad Gen 8, iPad Gen 9.
-
-Slime Rancher is the tale of Beatrix LeBeau, a plucky young rancher who sets out for a life a thousand light years away from Earth on the ‘Far, Far Range,’ where she tries her hand at making a living wrangling slimes.
-
-[Explore a vibrant alien world, capture and tend to adorable slimes, and get a once-abandoned ranch back on track!]
-
-*** FEATURES ***
-
-- Play as a curious and adventurous woman trying to get her newly acquired slime ranch back on track.
-- Use your trusty vacpack to collect adorable slimes in the wild. Each type has its own likes, dislikes, and sometimes even special needs that must be met to take care of them properly! 
-- Discover new hybrid species!
-- Explore the vast, colorful nature of the Far, Far Range. Find slimes and gather resources!
-- Roam around the sands of the Dry Reef, discover the wild flora of the Moss Blanket, and wonder at the shining crystals of the Indigo Quarry while uncovering hidden treasures!
-- Earn money through daily requests or the market exchange to expand your ranch: decorate your estate, contain your slimes with corrals, grow crops and build coops to feed them.  
-- Earn money through daily requests on the Range Exchange or selling plorts on the Plort Market. Then decorate your ranch house, expand the corrals for your slimes, and feed them by growing gardens and building coops!
-- Craft and upgrade your vacpack and tools for faster and better ranching!
-- Follow Bea’s journey at your own pace with 3 different game modes! Adventure Mode lets you experience the trials and tribulations of ranching life as it really is. But you can also play Casual Mode for a cozier experience, or challenge yourself to succeed faster with Rush Mode! 
-
-CAREFULLY REDESIGNED FOR MOBILE
-
-
-- Revamped interface – exclusive mobile UI with complete touch control
-- Game Center achievements
-- Cloud Saves – share your progress between iOS devices.
-- Compatible only with PS4, PS5, and Xbox controllers
-- iPhone 17 Optimization (including Pro Max)
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/3c/5c/7a3c5ca8-d4d9-53c4-3a47-c8098c298408/6.9-SR-screenshots-4.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/4c/6b/f14c6b0b-0dcd-358b-c1ff-939af566dce0/6.9-SR-screenshots-7.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/a4/f5/95a4f5c0-bfdb-153e-a21c-9553682935a0/6.9-SR-screenshots-2.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/71/d4/a071d4a9-81ea-2d89-cfe5-6d077c4fcd66/6.9-SR-screenshots-5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/b0/70/4ab07081-7970-7fcb-65fe-5b87b8cca34d/6.9-SR-screenshots-10.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/92/89/44928944-8aa1-5706-33ee-ef0dac4014cc/6.9-SR-screenshots-9.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/27/09/f6270945-0b24-73a1-740c-76d1e233c3f1/6.9-SR-screenshots-8.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/3d/a9/d03da906-3f9c-071b-0241-c8075b68f0ea/6.9-SR-screenshots-1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/95/79/f09579df-322e-3059-53ae-2ad589988b6a/6.9-SR-screenshots-3.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/9d/e6/759de6b8-ecab-7762-40ee-df6f02de2f35/6.9-SR-screenshots-6.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/88/3a/44883a4a-31da-7bb7-58ad-7474cf328c9c/13-SR-screenshots-3.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/aa/00/59aa00bf-6160-afd2-4117-ddf39bada541/13-SR-screenshots-5.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/e1/9d/11e19d91-1b4c-a144-969f-dbb27b430039/13-SR-screenshots-1.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/7b/cc/277bcce3-94c9-3527-1dc5-49e91d05a72f/13-SR-screenshots-4.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/c4/51/8ac45161-589e-8e73-c2c6-64aba7d3b9ac/13-SR-screenshots-2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/c4/3b/9dc43bb5-3731-c831-66c8-6fd83da071a1/13-SR-screenshots-6.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/c5/2d/1cc52de6-24a8-d3cd-83fe-84f2c59fa904/13-SR-screenshots-9.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/1c/73/6d1c73ee-fc98-c946-c455-5e07f5ff09ed/13-SR-screenshots-7.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/a4/73/4da4735a-5ec8-6f1b-a574-ba937c06c3b0/13-SR-screenshots-10.png/360x480bb.jpg" />]]></content>
     </entry>
 </feed>

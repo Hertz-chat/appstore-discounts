@@ -3017,10 +3017,10 @@
   {
     "trackId": 495937600,
     "region": "hk",
-    "timestamp": 1793295722489,
+    "timestamp": 1794603835491,
     "discounts": [],
-    "price": 8,
-    "formattedPrice": "HK$ 8.00",
+    "price": 38,
+    "formattedPrice": "HK$ 38.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id495937600",
     "trackName": "The Tiny Bang Story",
@@ -4942,7 +4942,7 @@
   {
     "trackId": 686923970,
     "region": "hk",
-    "timestamp": 1755299553649,
+    "timestamp": 1794603835491,
     "discounts": [],
     "price": 88,
     "formattedPrice": "HK$ 88.00",
@@ -5202,6 +5202,18 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id736683061",
     "trackName": "A Dark Room",
     "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 737006024,
+    "region": "hk",
+    "timestamp": 1794603835491,
+    "discounts": [],
+    "price": 38,
+    "formattedPrice": "HK$ 38.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id737006024",
+    "trackName": "LEGO® Marvel Super Heroes",
+    "firstRecordedAt": 1794603835491
   },
   {
     "trackId": 741990930,
@@ -10453,7 +10465,7 @@
     "formattedPrice": "HK$ 8.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id1269488509",
-    "trackName": "饥荒语音助手",
+    "trackName": "SurviKit",
     "firstRecordedAt": 1746144557554
   },
   {
@@ -12726,10 +12738,10 @@
   {
     "trackId": 1453661259,
     "region": "hk",
-    "timestamp": 1789225426600,
+    "timestamp": 1794603835491,
     "discounts": [],
-    "price": 38,
-    "formattedPrice": "HK$ 38.00",
+    "price": 18,
+    "formattedPrice": "HK$ 18.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id1453661259",
     "trackName": "Dungeon Warfare 2",
@@ -15854,7 +15866,7 @@
   {
     "trackId": 1563932741,
     "region": "hk",
-    "timestamp": 1794286670366,
+    "timestamp": 1794603835491,
     "discounts": [],
     "price": 18,
     "formattedPrice": "HK$ 18.00",
@@ -25275,7 +25287,7 @@
   {
     "trackId": 6759664029,
     "region": "hk",
-    "timestamp": 1794541901399,
+    "timestamp": 1794603835491,
     "discounts": [],
     "price": 58,
     "formattedPrice": "HK$ 58.00",
@@ -26784,6 +26796,18 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id6793964973",
     "trackName": "ForBand - 樂團練習全能助手",
     "firstRecordedAt": 1785600007091
+  },
+  {
+    "trackId": 6794754217,
+    "region": "hk",
+    "timestamp": 1794603835491,
+    "discounts": [],
+    "price": 22,
+    "formattedPrice": "HK$ 22.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6794754217",
+    "trackName": "棒球打不好就再轉生：投手養成",
+    "firstRecordedAt": 1794603835491
   },
   {
     "trackId": 6794760301,

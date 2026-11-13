@@ -31864,6 +31864,14 @@
     "history": [
       [
         {
+          "timestamp": 1794603835491,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793295722489,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -50119,13 +50127,25 @@
     "name": "HRV4Training",
     "maxPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "USD 9.99"
+      "formattedPrice": "USD 9.99",
+      "HRV4Training Pro": "USD 49.99"
     },
     "minPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "USD 9.99"
+      "formattedPrice": "USD 9.99",
+      "HRV4Training Pro": "USD 49.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794603835491,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "HRV4Training Pro": "USD 49.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755299553649,
@@ -54611,6 +54631,58 @@
           "price": 1.99,
           "formattedPrice": "USD 1.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "737006024": {
+    "name": "LEGO® Marvel Super Heroes",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99",
+      "Ultimate Super Hero Pack": "USD 9.99",
+      "Spider-Man Pack": "USD 1.99",
+      "Avengers Pack": "USD 2.99",
+      "Bad Boys Pack": "USD 1.99",
+      "X-Men Villains Pack": "USD 1.99",
+      "Fantastic Four Pack": "USD 1.99",
+      "Free Fun Pack": "USD 0.00",
+      "X-Men Pack": "USD 1.99",
+      "Party Time Pack": "USD 0.99",
+      "x2 Studs Pack": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99",
+      "Ultimate Super Hero Pack": "USD 9.99",
+      "Spider-Man Pack": "USD 1.99",
+      "Avengers Pack": "USD 2.99",
+      "Bad Boys Pack": "USD 1.99",
+      "X-Men Villains Pack": "USD 1.99",
+      "Fantastic Four Pack": "USD 1.99",
+      "Free Fun Pack": "USD 0.00",
+      "X-Men Pack": "USD 1.99",
+      "Party Time Pack": "USD 0.99",
+      "x2 Studs Pack": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794603835491,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Ultimate Super Hero Pack": "USD 9.99",
+            "Spider-Man Pack": "USD 1.99",
+            "Avengers Pack": "USD 2.99",
+            "Bad Boys Pack": "USD 1.99",
+            "X-Men Villains Pack": "USD 1.99",
+            "Fantastic Four Pack": "USD 1.99",
+            "Free Fun Pack": "USD 0.00",
+            "X-Men Pack": "USD 1.99",
+            "Party Time Pack": "USD 0.99",
+            "x2 Studs Pack": "USD 1.99"
+          }
         }
       ]
     ]
@@ -101096,7 +101168,7 @@
     ]
   },
   "1269488509": {
-    "name": "饥荒语音助手",
+    "name": "SurviKit",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99"
@@ -127675,6 +127747,14 @@
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794603835491,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789225426600,
@@ -220967,6 +221047,27 @@
           "timestamp": 1794458321964,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6794754217": {
+    "name": "棒球打不好就再轉生：投手養成",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794603835491,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
         }
       ]

@@ -19805,6 +19805,23 @@
     "history": [
       [
         {
+          "timestamp": 1794603835491,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Chapter D": "5,99 €",
+            "Chapter K": "5,99 €",
+            "Chapter S": "5,99 €",
+            "Chapter 7": "5,99 €",
+            "Chapter N": "3,99 €",
+            "Chapter L": "9,99 €",
+            "Chapter T": "5,99 €",
+            "Chapter R": "5,99 €",
+            "Chapter 0": "5,99 €",
+            "Chapter 10": "5,99 €"
+          }
+        },
+        {
           "timestamp": 1794576729054,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -37181,6 +37198,60 @@
           "price": 1.99,
           "formattedPrice": "1,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "737006024": {
+    "trackId": 737006024,
+    "trackName": "LEGO® Marvel Super Heroes",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
+      "Pacote dos Bad Boys": "1,99 €",
+      "Pacote do Super-herói Supremo": "9,99 €",
+      "Pacote do Homem-Aranha": "1,99 €",
+      "Pacote dos Vilões de X-Men": "1,99 €",
+      "Pacote do Quarteto Fantástico": "1,99 €",
+      "Pacote dos X-Men": "1,99 €",
+      "Pacote da Diversão": "0,00 €",
+      "Pacote dos Vingadores": "2,99 €",
+      "Pacote de Peças X10": "3,99 €",
+      "Pacote de Invencibilidade": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
+      "Pacote dos Bad Boys": "1,99 €",
+      "Pacote do Super-herói Supremo": "9,99 €",
+      "Pacote do Homem-Aranha": "1,99 €",
+      "Pacote dos Vilões de X-Men": "1,99 €",
+      "Pacote do Quarteto Fantástico": "1,99 €",
+      "Pacote dos X-Men": "1,99 €",
+      "Pacote da Diversão": "0,00 €",
+      "Pacote dos Vingadores": "2,99 €",
+      "Pacote de Peças X10": "3,99 €",
+      "Pacote de Invencibilidade": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794603835491,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Pacote dos Bad Boys": "1,99 €",
+            "Pacote do Super-herói Supremo": "9,99 €",
+            "Pacote do Homem-Aranha": "1,99 €",
+            "Pacote dos Vilões de X-Men": "1,99 €",
+            "Pacote do Quarteto Fantástico": "1,99 €",
+            "Pacote dos X-Men": "1,99 €",
+            "Pacote da Diversão": "0,00 €",
+            "Pacote dos Vingadores": "2,99 €",
+            "Pacote de Peças X10": "3,99 €",
+            "Pacote de Invencibilidade": "2,99 €"
+          }
         }
       ]
     ]
@@ -67523,7 +67594,7 @@
   },
   "1269488509": {
     "trackId": 1269488509,
-    "trackName": "饥荒语音助手",
+    "trackName": "SurviKit",
     "region": "pt",
     "maxPriceInfo": {
       "price": 0.99,
@@ -118331,6 +118402,14 @@
     "history": [
       [
         {
+          "timestamp": 1794603835491,
+          "price": 14.99,
+          "formattedPrice": "14,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787838577561,
           "price": 17.99,
           "formattedPrice": "17,99 €",
@@ -160575,6 +160654,29 @@
       [
         {
           "timestamp": 1794458321964,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6794754217": {
+    "trackId": 6794754217,
+    "trackName": "야구 못하면 또 환생함: 투수 키우기",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794603835491,
           "price": 2.99,
           "formattedPrice": "2,99 €",
           "inAppPurchases": {}

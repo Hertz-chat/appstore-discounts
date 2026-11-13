@@ -39576,6 +39576,14 @@
     "history": [
       [
         {
+          "timestamp": 1794603835491,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793295722489,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -62208,13 +62216,25 @@
     "region": "hk",
     "maxPriceInfo": {
       "price": 88,
-      "formattedPrice": "HK$ 88.00"
+      "formattedPrice": "HK$ 88.00",
+      "HRV4Training Pro": "HK$ 388.00"
     },
     "minPriceInfo": {
       "price": 88,
-      "formattedPrice": "HK$ 88.00"
+      "formattedPrice": "HK$ 88.00",
+      "HRV4Training Pro": "HK$ 388.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794603835491,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "HRV4Training Pro": "HK$ 388.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755299553649,
@@ -68022,6 +68042,60 @@
           "price": 18,
           "formattedPrice": "HK$ 18.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "737006024": {
+    "trackId": 737006024,
+    "trackName": "LEGO® Marvel Super Heroes",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00",
+      "Ultimate Super Hero Pack": "HK$ 88.00",
+      "Free Fun Pack": "HK$ 0.00",
+      "Bad Boys Pack": "HK$ 18.00",
+      "Avengers Pack": "HK$ 22.00",
+      "X-Men Villains Pack": "HK$ 18.00",
+      "Spider-Man Pack": "HK$ 18.00",
+      "X-Men Pack": "HK$ 18.00",
+      "Fantastic Four Pack": "HK$ 18.00",
+      "x10 Studs Pack": "HK$ 32.00",
+      "Invincibility Pack": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00",
+      "Ultimate Super Hero Pack": "HK$ 88.00",
+      "Free Fun Pack": "HK$ 0.00",
+      "Bad Boys Pack": "HK$ 18.00",
+      "Avengers Pack": "HK$ 22.00",
+      "X-Men Villains Pack": "HK$ 18.00",
+      "Spider-Man Pack": "HK$ 18.00",
+      "X-Men Pack": "HK$ 18.00",
+      "Fantastic Four Pack": "HK$ 18.00",
+      "x10 Studs Pack": "HK$ 32.00",
+      "Invincibility Pack": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794603835491,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Ultimate Super Hero Pack": "HK$ 88.00",
+            "Free Fun Pack": "HK$ 0.00",
+            "Bad Boys Pack": "HK$ 18.00",
+            "Avengers Pack": "HK$ 22.00",
+            "X-Men Villains Pack": "HK$ 18.00",
+            "Spider-Man Pack": "HK$ 18.00",
+            "X-Men Pack": "HK$ 18.00",
+            "Fantastic Four Pack": "HK$ 18.00",
+            "x10 Studs Pack": "HK$ 32.00",
+            "Invincibility Pack": "HK$ 22.00"
+          }
         }
       ]
     ]
@@ -131236,7 +131310,7 @@
   },
   "1269488509": {
     "trackId": 1269488509,
-    "trackName": "饥荒语音助手",
+    "trackName": "SurviKit",
     "region": "hk",
     "maxPriceInfo": {
       "price": 8,
@@ -174108,6 +174182,14 @@
     "history": [
       [
         {
+          "timestamp": 1794603835491,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789225426600,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -208012,6 +208094,25 @@
       "Sports and Celebrity Bundle": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794603835491,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Ready to Roast": "HK$ 48.00",
+            "Wild World Bundle": "HK$ 48.00",
+            "Surprise Pack 1": "HK$ 98.00",
+            "Surprise Pack 2": "HK$ 98.00",
+            "Sports and Games Pack": "HK$ 58.00",
+            "Celebrity Deck": "HK$ 48.00",
+            "Word Bonanza Bundle": "HK$ 148.00",
+            "Double Mystery Bundle": "HK$ 38.00",
+            "Food and Nature Bundle": "HK$ 38.00",
+            "Sports and Celebrity Bundle": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794286670366,
@@ -315604,7 +315705,8 @@
       "塔樓貓頭鷹騎士": "HK$ 38.00",
       "英雄 潔米娜": "HK$ 22.00",
       "塔 鐵木樹人": "HK$ 58.00",
-      "一把寶石": "HK$ 22.00"
+      "一把寶石": "HK$ 22.00",
+      "法術 地精商店": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 58,
@@ -315646,9 +315748,29 @@
       "塔樓貓頭鷹騎士": "HK$ 38.00",
       "英雄 潔米娜": "HK$ 22.00",
       "塔 鐵木樹人": "HK$ 58.00",
-      "一把寶石": "HK$ 22.00"
+      "一把寶石": "HK$ 22.00",
+      "法術 地精商店": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794603835491,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "全英雄禮包": "HK$ 188.00",
+            "全法術禮包": "HK$ 98.00",
+            "英雄 阿什彼特": "HK$ 58.00",
+            "全塔禮包_B": "HK$ 118.00",
+            "英雄 德拉坎": "HK$ 58.00",
+            "全塔禮包": "HK$ 148.00",
+            "英雄 伊格納斯": "HK$ 22.00",
+            "法術 索羅化身": "HK$ 38.00",
+            "法術 地精商店": "HK$ 22.00",
+            "英雄 鬼侍": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794541901399,
@@ -319444,6 +319566,29 @@
           "timestamp": 1794458321964,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6794754217": {
+    "trackId": 6794754217,
+    "trackName": "棒球打不好就再轉生：投手養成",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794603835491,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
           "inAppPurchases": {}
         }
       ]

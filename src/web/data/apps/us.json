@@ -2184,7 +2184,7 @@
   {
     "trackId": 430270438,
     "region": "us",
-    "timestamp": 1787737196607,
+    "timestamp": 1794603835491,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -2981,7 +2981,7 @@
   {
     "trackId": 491231653,
     "region": "us",
-    "timestamp": 1793786660480,
+    "timestamp": 1794603835491,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "$1.99",
@@ -5002,7 +5002,7 @@
   {
     "trackId": 686923970,
     "region": "us",
-    "timestamp": 1755299553649,
+    "timestamp": 1794603835491,
     "discounts": [],
     "price": 9.99,
     "formattedPrice": "$9.99",
@@ -5274,6 +5274,18 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id736683061",
     "trackName": "A Dark Room",
     "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 737006024,
+    "region": "us",
+    "timestamp": 1794603835491,
+    "discounts": [],
+    "price": 4.99,
+    "formattedPrice": "$4.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id737006024",
+    "trackName": "LEGO® Marvel Super Heroes",
+    "firstRecordedAt": 1794603835491
   },
   {
     "trackId": 741990930,
@@ -20126,7 +20138,7 @@
   {
     "trackId": 6478287619,
     "region": "us",
-    "timestamp": 1794576729054,
+    "timestamp": 1794603835491,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "$4.99",
@@ -22975,10 +22987,10 @@
   {
     "trackId": 6747138769,
     "region": "us",
-    "timestamp": 1787876097640,
+    "timestamp": 1794603835491,
     "discounts": [],
-    "price": 14.99,
-    "formattedPrice": "$14.99",
+    "price": 12.99,
+    "formattedPrice": "$12.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6747138769",
     "trackName": "Easy Text to Speech Reader Pro",
@@ -26451,6 +26463,18 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id6793964973",
     "trackName": "ForBand - Band Practice Player",
     "firstRecordedAt": 1785600007091
+  },
+  {
+    "trackId": 6794754217,
+    "region": "us",
+    "timestamp": 1794603835491,
+    "discounts": [],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6794754217",
+    "trackName": "Mound Reborn: Baseball Career",
+    "firstRecordedAt": 1794603835491
   },
   {
     "trackId": 6794760301,

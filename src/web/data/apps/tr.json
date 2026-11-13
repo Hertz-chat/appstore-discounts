@@ -2221,7 +2221,7 @@
   {
     "trackId": 432850619,
     "region": "tr",
-    "timestamp": 1794458321964,
+    "timestamp": 1794603835491,
     "discounts": [],
     "price": 399.99,
     "formattedPrice": "₺399,99",
@@ -4990,7 +4990,7 @@
   {
     "trackId": 686923970,
     "region": "tr",
-    "timestamp": 1763345024209,
+    "timestamp": 1794603835491,
     "discounts": [],
     "price": 499.99,
     "formattedPrice": "₺499,99",
@@ -5262,6 +5262,18 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id736683061",
     "trackName": "A Dark Room",
     "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 737006024,
+    "region": "tr",
+    "timestamp": 1794603835491,
+    "discounts": [],
+    "price": 249.99,
+    "formattedPrice": "₺249,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id737006024",
+    "trackName": "LEGO® Marvel Super Heroes",
+    "firstRecordedAt": 1794603835491
   },
   {
     "trackId": 744321889,
@@ -22929,10 +22941,10 @@
   {
     "trackId": 6747138769,
     "region": "tr",
-    "timestamp": 1787876097640,
+    "timestamp": 1794603835491,
     "discounts": [],
-    "price": 799.99,
-    "formattedPrice": "₺799,99",
+    "price": 699.99,
+    "formattedPrice": "₺699,99",
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id6747138769",
     "trackName": "Easy Text to Speech Reader Pro",
@@ -26415,6 +26427,18 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6793964973",
     "trackName": "ForBand - Band Practice Player",
     "firstRecordedAt": 1785600007091
+  },
+  {
+    "trackId": 6794754217,
+    "region": "tr",
+    "timestamp": 1794603835491,
+    "discounts": [],
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6794754217",
+    "trackName": "Mound Reborn: Baseball Career",
+    "firstRecordedAt": 1794603835491
   },
   {
     "trackId": 6794760301,

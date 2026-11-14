@@ -567,13 +567,25 @@
     "name": "Translator with Voice",
     "maxPriceInfo": {
       "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "formattedPrice": "₺49,99",
+      "Translation Monthly Subscription": "₺99,99"
     },
     "minPriceInfo": {
       "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "formattedPrice": "₺49,99",
+      "Translation Monthly Subscription": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794659876852,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Translation Monthly Subscription": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777299185454,
@@ -22392,6 +22404,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794659876852,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Sliced Beats": "₺49,99",
+            "Voices": "₺49,99",
+            "Tuned 808 Bass": "₺49,99",
+            "Varazdin Orchestral Mobile": "₺199,99",
+            "Amped Guitar & Bass": "₺149,99",
+            "Synth Lead": "₺99,99",
+            "Brazil Bass": "₺99,99",
+            "Chill-Lo-Fi Mobile": "₺99,99",
+            "Acoustic Guitars": "₺49,99",
+            "Synth Plucks": "₺99,99"
+          }
+        },
         {
           "timestamp": 1794628227571,
           "price": 399.99,
@@ -243817,6 +243846,23 @@
     "history": [
       [
         {
+          "timestamp": 1794659876852,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Welcome Offer": "₺1.499,99",
+            "Round the World Ticket": "₺2.499,99",
+            "Europe Expansion": "₺799,99",
+            "Europe Map": "₺699,99",
+            "1910 Ticket Pack": "₺199,99",
+            "Japan Expansion": "₺699,99",
+            "Legendary Asia Map": "₺499,99",
+            "Ticket to Ride ChristmasBundle": "₺499,99",
+            "Germany Expansion": "₺699,99",
+            "Legendary Asia Expansion": "₺699,99"
+          }
+        },
+        {
           "timestamp": 1794628227571,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -270791,14 +270837,22 @@
   "6447693393": {
     "name": "灵感卡片 - 创意笔记",
     "maxPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99"
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794659876852,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749510724459,
@@ -295856,10 +295910,18 @@
       "formattedPrice": "₺49,99"
     },
     "minPriceInfo": {
-      "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794659876852,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1778817905438,
@@ -295875,7 +295937,7 @@
     "maxPriceInfo": {
       "price": 249.99,
       "formattedPrice": "₺249,99",
-      "BikeControl Pro": "₺99,99",
+      "BikeControl Pro": "₺1.299,99",
       "BikeControl Pro - Yearly": "₺1.199,99",
       "Full Version Unlock": "₺249,99"
     },
@@ -295887,6 +295949,18 @@
       "Full Version Unlock": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794659876852,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Full Version Unlock": "₺249,99",
+            "BikeControl Pro": "₺1.299,99",
+            "BikeControl Pro - Yearly": "₺1.199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787928940020,
@@ -304472,6 +304546,14 @@
       "formattedPrice": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794659876852,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794576729054,

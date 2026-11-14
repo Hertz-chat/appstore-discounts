@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6743349595,
+    "region": "tr",
+    "timestamp": 1794659876852,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺49,99",
+        "to": "Free",
+        "range": "[Free ~ ₺49,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6743349595",
+    "trackName": "Godseeker II Dark Fantasy ARPG",
+    "firstRecordedAt": 1778817905438
+  },
+  {
+    "trackId": 6753721284,
+    "region": "tr",
+    "timestamp": 1794659876852,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "BikeControl Pro",
+        "from": "₺99,99",
+        "to": "₺1.299,99",
+        "range": "[₺99,99 ~ ₺1.299,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6753721284",
+    "trackName": "BikeControl: Virtual Shifting",
+    "firstRecordedAt": 1778874489166
+  },
+  {
     "trackId": 1453661259,
     "region": "tr",
     "timestamp": 1794628227571,
@@ -47201,7 +47241,7 @@
         "name": "Price",
         "from": "₺39,99",
         "to": "Free",
-        "range": "[Free ~ ₺39,99]"
+        "range": "[Free ~ ₺149,99]"
       }
     ],
     "price": 0,
@@ -49493,7 +49533,7 @@
         "name": "Price",
         "from": "₺39,99",
         "to": "Free",
-        "range": "[Free ~ ₺39,99]"
+        "range": "[Free ~ ₺149,99]"
       }
     ],
     "price": 0,

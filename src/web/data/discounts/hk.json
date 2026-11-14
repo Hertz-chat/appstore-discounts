@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6743349595,
+    "region": "hk",
+    "timestamp": 1794659876852,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 8.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 8.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6743349595",
+    "trackName": "Godseeker II Dark Fantasy ARPG",
+    "firstRecordedAt": 1778817905438
+  },
+  {
     "trackId": 6747138769,
     "region": "hk",
     "timestamp": 1794628227571,

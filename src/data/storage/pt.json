@@ -11703,6 +11703,25 @@
     "history": [
       [
         {
+          "timestamp": 1794628227571,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "Ferrous Mobile": "2,99 €",
+            "Tuned 808 Bass": "0,99 €",
+            "Voices": "0,99 €",
+            "Varazdin Orchestral Mobile": "3,99 €",
+            "Amped Guitar & Bass": "2,99 €",
+            "Acoustic Guitars": "0,99 €",
+            "Sliced Beats": "0,99 €",
+            "Synth Lead": "1,99 €",
+            "PsyTrance": "2,99 €",
+            "Drumaxx": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794576729054,
           "price": 17.99,
           "formattedPrice": "17,99 €",
@@ -16525,6 +16544,25 @@
     "history": [
       [
         {
+          "timestamp": 1794628227571,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "1,99 €",
+            "Realms Plus:10 Friends w/trial": "7,99 €",
+            "Minecraft Store Item 6": "5,99 €",
+            "Realms Monthly Subscription: You + 2 Friends": "3,99 €",
+            "Minecraft Store Item 3": "2,99 €",
+            "Minecraft Store Item 4": "3,99 €",
+            "Minecraft Store Item 10": "9,99 €",
+            "Minecraft Store Item 5": "4,99 €",
+            "Minecraft Store Item 8": "7,99 €",
+            "Minecraft Store Item 1": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793753850884,
           "price": 6.99,
           "formattedPrice": "6,99 €",
@@ -20503,6 +20541,14 @@
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794628227571,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793311668998,
@@ -78344,6 +78390,14 @@
     "history": [
       [
         {
+          "timestamp": 1794628227571,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789253463981,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -81599,6 +81653,25 @@
       "Victorian London Board": "6,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794628227571,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "New York 2121 Board": "6,99 €",
+            "The Ultimate Edition Welcome Offer": "24,99 €",
+            "Euro Trip": "3,99 €",
+            "New York 2121": "14,99 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €",
+            "The Dragon": "3,49 €",
+            "Golden Dice": "4,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794318757010,
@@ -110128,7 +110201,7 @@
     ]
   },
   "1642364007": {
-    "name": "海拔指南针-经纬度水印相机",
+    "name": "海拔指南针-坐标水印相机",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €",
@@ -115472,6 +115545,14 @@
     "history": [
       [
         {
+          "timestamp": 1794628227571,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794603835491,
           "price": 14.99,
           "formattedPrice": "14,99 €",
@@ -116206,7 +116287,7 @@
     ]
   },
   "6569254072": {
-    "name": "QuickNotes: Watch Flashcards",
+    "name": "QuickNotes: Cards no Watch",
     "maxPriceInfo": {
       "price": 1.99,
       "formattedPrice": "1,99 €"
@@ -121960,6 +122041,25 @@
       "Dr.1": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794628227571,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Global scenery - 3 months": "8,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Boeing 787-10": "1,99 €",
+            "CRJ900": "0,99 €",
+            "Boeing 737-800": "2,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "EC135": "0,99 €",
+            "Boeing 737": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794433436114,

@@ -47166,7 +47166,13 @@
       "Unlimited Custom Images": "HK$ 38.00",
       "SLS 6 Pack": "HK$ 38.00",
       "Unlock Trick and Gap Lists": "HK$ 8.00",
-      "Skatepark: Love Park": "HK$ 8.00"
+      "Skatepark: Love Park": "HK$ 8.00",
+      "Unlock Missions": "HK$ 8.00",
+      "Skatepark: Schoolyard": "HK$ 8.00",
+      "Skatepark: The Warehouse": "HK$ 8.00",
+      "Skatepark: Double Infinity": "HK$ 8.00",
+      "SLS 2013: Kansas City": "HK$ 8.00",
+      "Wheel Color Pack": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 18,
@@ -47196,9 +47202,34 @@
       "Unlimited Custom Images": "HK$ 38.00",
       "SLS 6 Pack": "HK$ 38.00",
       "Unlock Trick and Gap Lists": "HK$ 8.00",
-      "Skatepark: Love Park": "HK$ 8.00"
+      "Skatepark: Love Park": "HK$ 8.00",
+      "Unlock Missions": "HK$ 8.00",
+      "Skatepark: Schoolyard": "HK$ 8.00",
+      "Skatepark: The Warehouse": "HK$ 8.00",
+      "Skatepark: Double Infinity": "HK$ 8.00",
+      "SLS 2013: Kansas City": "HK$ 8.00",
+      "Wheel Color Pack": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794628227571,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Slow Motion Mode": "HK$ 8.00",
+            "Unlock Missions": "HK$ 8.00",
+            "Unlimited Custom Images": "HK$ 38.00",
+            "Skatepark: Inbound": "HK$ 8.00",
+            "Skatepark: Schoolyard": "HK$ 8.00",
+            "Skatepark: The Warehouse": "HK$ 8.00",
+            "Skatepark: Double Infinity": "HK$ 8.00",
+            "Skatepark: The Factory": "HK$ 8.00",
+            "SLS 2013: Kansas City": "HK$ 8.00",
+            "Wheel Color Pack": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792569835923,
@@ -103541,6 +103572,25 @@
       "跳過填數字小遊戲": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794628227571,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "跳過24點小遊戲": "HK$ 8.00",
+            "跳過發動機旋轉小遊戲": "HK$ 8.00",
+            "跳過填數字小遊戲": "HK$ 8.00",
+            "跳過填色小遊戲": "HK$ 8.00",
+            "跳過開門迷宮小遊戲": "HK$ 8.00",
+            "跳過拼圖小遊戲": "HK$ 8.00",
+            "跳過旋轉盤小遊戲": "HK$ 8.00",
+            "跳過顯微鏡小遊戲": "HK$ 8.00",
+            "跳過種花小遊戲": "HK$ 8.00",
+            "跳過踩圓點小遊戲": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793959313216,
@@ -165390,6 +165440,25 @@
     "history": [
       [
         {
+          "timestamp": 1794628227571,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "68金玉": "HK$ 78.00",
+            "30金玉": "HK$ 38.00",
+            "6金玉": "HK$ 8.00",
+            "198金玉": "HK$ 238.00",
+            "648金玉": "HK$ 788.00",
+            "一鍵買斷禮包": "HK$ 38.00",
+            "禮包5": "HK$ 38.00",
+            "尊享月俸": "HK$ 38.00",
+            "328金玉": "HK$ 398.00",
+            "禮包1": "HK$ 2.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794576729054,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -208096,6 +208165,23 @@
     "history": [
       [
         {
+          "timestamp": 1794628227571,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Unlock Taboo Premium": "HK$ 22.00",
+            "Midnight Deck": "HK$ 88.00",
+            "Word Bonanza Bundle": "HK$ 148.00",
+            "Generations Gen Z Pack": "HK$ 18.00",
+            "Mystery Mix Pack 1": "HK$ 18.00",
+            "Welcome Offer": "HK$ 88.00",
+            "Celebrity Movie Stars Pack": "HK$ 18.00",
+            "Food Lover's Takeout Pack": "HK$ 18.00",
+            "Wild World Adventure Pack": "HK$ 18.00",
+            "Sports and Games Pack": "HK$ 58.00"
+          }
+        },
+        {
           "timestamp": 1794603835491,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -233854,7 +233940,7 @@
   },
   "1642364007": {
     "trackId": 1642364007,
-    "trackName": "海拔指南针-经纬度水印相机",
+    "trackName": "海拔指南针-坐标水印相机",
     "region": "hk",
     "maxPriceInfo": {
       "price": 8,
@@ -291515,7 +291601,7 @@
   },
   "6569254072": {
     "trackId": 6569254072,
-    "trackName": "QuickNotes: Watch Flashcards",
+    "trackName": "Watch閃卡",
     "region": "hk",
     "maxPriceInfo": {
       "price": 18,
@@ -292689,6 +292775,14 @@
       "formattedPrice": "HK$ 48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794628227571,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787876097640,
@@ -315379,6 +315473,25 @@
       "服裝組合 · 月與星": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794628227571,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "組合・光之騎士團": "HK$ 88.00",
+            "服裝組合 · 雪花庭園": "HK$ 22.00",
+            "付費角色・艾德瑞克": "HK$ 8.00",
+            "付費角色・艾洛溫": "HK$ 8.00",
+            "付費角色・菲涅": "HK$ 8.00",
+            "付費角色・墨蘭": "HK$ 8.00",
+            "服裝組合 · 騎士團盛宴": "HK$ 22.00",
+            "服裝組合 · 森林與工坊": "HK$ 22.00",
+            "服裝組合 · 東方之夜": "HK$ 22.00",
+            "服裝組合 · 月與星": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794576729054,

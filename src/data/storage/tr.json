@@ -22393,6 +22393,23 @@
     "history": [
       [
         {
+          "timestamp": 1794628227571,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "₺49,99",
+            "Varazdin Orchestral Mobile": "₺199,99",
+            "Sliced Beats": "₺49,99",
+            "Voices": "₺49,99",
+            "Amped Guitar & Bass": "₺149,99",
+            "Synth Lead": "₺99,99",
+            "Chill-Lo-Fi Mobile": "₺99,99",
+            "Acoustic Guitars": "₺49,99",
+            "Synth Plucks": "₺99,99",
+            "Hyper-Pop Mobile": "₺149,99"
+          }
+        },
+        {
           "timestamp": 1794603835491,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -43301,6 +43318,14 @@
       "formattedPrice": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794628227571,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793311668998,
@@ -159074,6 +159099,14 @@
     "history": [
       [
         {
+          "timestamp": 1794628227571,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789253463981,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -167594,6 +167627,25 @@
       "Chopper Token": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794628227571,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "The Complete Collection": "₺1.999,99",
+            "Golden Dice": "₺249,99",
+            "Victorian London Board": "₺399,99",
+            "Welcome Offer": "₺999,99",
+            "The Atlantis Board": "₺399,99",
+            "Lava Dice": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794576729054,
@@ -243639,13 +243691,13 @@
       "San Francisco Expansion Bundle": "₺299,99",
       "LegendaryAsia Expansion Bundle": "₺399,99",
       "Nordic Bundle": "₺349,99",
-      "Europe Character Bundle": "₺129,99",
-      "Bertie Hawkes": "₺99,99",
-      "Rocket Locomotive": "₺99,99",
-      "Erika Ford": "₺99,99",
-      "Lumberjack Carriage": "₺99,99",
-      "Oil Baron carriage": "₺99,99",
-      "Dolomite Dynamite": "₺99,99",
+      "Europe Character Bundle": "₺249,99",
+      "Bertie Hawkes": "₺149,99",
+      "Rocket Locomotive": "₺149,99",
+      "Erika Ford": "₺149,99",
+      "Lumberjack Carriage": "₺149,99",
+      "Oil Baron carriage": "₺149,99",
+      "Dolomite Dynamite": "₺149,99",
       "Pennsylvania Carriage B": "₺99,99",
       "Pennsylvania Locomotive B": "₺99,99",
       "Pennsylvania Locomotive A": "₺99,99",
@@ -243763,6 +243815,25 @@
       "Old West Map": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794628227571,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Europe Character Bundle": "₺249,99",
+            "Bertie Hawkes": "₺149,99",
+            "Rocket Locomotive": "₺149,99",
+            "Round the World Ticket": "₺2.499,99",
+            "Erika Ford": "₺149,99",
+            "Europe Expansion": "₺799,99",
+            "Europe Map": "₺699,99",
+            "Lumberjack Carriage": "₺149,99",
+            "Oil Baron carriage": "₺149,99",
+            "Dolomite Dynamite": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794173147020,
@@ -252261,6 +252332,25 @@
       "Airbus A321 XLR": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794628227571,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 747-400": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 787-10": "₺99,99",
+            "Boeing 737-800": "₺149,99",
+            "Airbus A321": "₺99,99",
+            "Boeing 737-900": "₺99,99",
+            "Airbus A350-1000": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794492446451,
@@ -280071,6 +280161,12 @@
     "history": [
       [
         {
+          "timestamp": 1794628227571,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1794603835491,
           "price": 699.99,
           "formattedPrice": "₺699,99",
@@ -301570,7 +301666,8 @@
       "Gems Handful": "₺149,99",
       "ALL HEROES BUNDLE_B": "₺1.299,99",
       "Gems Pouch": "₺249,99",
-      "Gems Barrel": "₺499,99"
+      "Gems Barrel": "₺499,99",
+      "Hero Malik": "₺249,99"
     },
     "minPriceInfo": {
       "SHOWCASE OFFER 07": "₺249,99",
@@ -301605,9 +301702,29 @@
       "Gems Handful": "₺149,99",
       "ALL HEROES BUNDLE_B": "₺1.299,99",
       "Gems Pouch": "₺249,99",
-      "Gems Barrel": "₺499,99"
+      "Gems Barrel": "₺499,99",
+      "Hero Malik": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794628227571,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Hero Ashbite": "₺399,99",
+            "Hero Drakkan": "₺399,99",
+            "Hero Malik": "₺249,99",
+            "Tower Forger": "₺249,99",
+            "Hero Ignus": "₺149,99",
+            "Tower Alchemist": "₺149,99",
+            "Hero Oni": "₺249,99",
+            "ALL HEROES BUNDLE": "₺1.299,99",
+            "Tower Ironbark": "₺399,99",
+            "Tower Sniper": "₺299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794318757010,

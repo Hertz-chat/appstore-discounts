@@ -173055,7 +173055,7 @@
   },
   "1642364007": {
     "trackId": 1642364007,
-    "trackName": "海拔指南针-经纬度水印相机",
+    "trackName": "海拔指南针-坐标水印相机",
     "region": "mo",
     "maxPriceInfo": {
       "price": 0.99,
@@ -201002,7 +201002,7 @@
   },
   "6569254072": {
     "trackId": 6569254072,
-    "trackName": "QuickNotes: Watch Flashcards",
+    "trackName": "Watch閃卡",
     "region": "mo",
     "maxPriceInfo": {
       "price": 1.99,
@@ -202158,6 +202158,14 @@
       "formattedPrice": "USD 5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794628227571,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787876097640,
@@ -214806,6 +214814,25 @@
       "魔界通行證2": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794628227571,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "隱月造型套裝": "USD 9.99",
+            "成長之始": "USD 9.99",
+            "深淵之始": "USD 9.99",
+            "起始精華": "USD 19.99",
+            "深淵精華": "USD 19.99",
+            "魔界擴充通行證": "USD 5.99",
+            "超越精華": "USD 29.99",
+            "時間旅行者": "USD 5.99",
+            "深淵開拓者": "USD 9.99",
+            "永恆方舟": "USD 29.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794011332916,

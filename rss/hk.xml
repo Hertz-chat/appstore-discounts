@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2026-11-13T22:47:21.722Z</updated>
+    <updated>2026-11-14T05:33:03.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008141708743680+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-13T22:47:21.724Z</updated>
+        <updated>2026-11-14T05:33:03.179Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008141708743680+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkFri, 13 Nov 2026 22:47:21 GMT</id>
+        <id>rankinghkSat, 14 Nov 2026 05:33:03 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-13T22:47:21.724Z</updated>
+        <updated>2026-11-14T05:33:03.179Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -1138,6 +1138,23 @@ feedId:157008141708743680+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>59</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/hk/6747138769?lang=zh-CN">Easy Text to Speech Reader Pro</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -2043,6 +2060,48 @@ feedId:157008141708743680+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Easy Text to Speech Reader Pro]]></title>
+        <id>Easy Text to Speech Reader Pro-hk-1794628227571</id>
+        <link href="https://appstore-discounts.eyelly.me/hk/6747138769?lang=zh-CN"/>
+        <updated>2026-11-14T03:50:27.571Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 118.00 → HK$ 88.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/6747138769?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/6b/8f/0c6b8fe1-fa67-e802-a04e-af331f892939/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 118.00</span> → <b>
+  <strong>HK$ 88.00</strong>
+</b><span>[HK$ 48.00 ~ HK$ 148.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 88.00</b>
+</p><h2>应用描述</h2><p>
+  Easy Text to Speech Reader Pro has no ads, subscriptions, or in-app purchases.
+Now you can instantly clone a voice using just 5 seconds of audio and use that voice to read your text aloud 100% local on your device. It will save every voice that you cloned in "My Voices" category and it is unlimited.  
+
+Type, paste, or import text and instantly hear it read aloud. You can also export your speech as an audio file.
+
+INSTANT VOICE CLONING
+Clone a voice from just a 5-second audio clip and immediately generate speech in that voice. Voice cloning and speech generation happen directly on your device, without needing to upload your recording to a server.  It saves every voice that you cloned in "My Voices" category and it is unlimited.
+
+TEXT TO SPEECH
+• Read text aloud with 152 voices in 50+ languages
+• Customize playback speed and pitch
+• Follow along as the app centers and highlights the word currently being read
+• Continue listening while using other apps or with your screen locked
+• Your text and reading position are saved when you close and reopen the app
+
+EXPORT AUDIO
+Export your generated speech as an audio file whenever you want.
+
+IMPORT TEXT & DOCUMENTS
+Import 19 different file types:
+.pdf / .txt / .doc / .docx / .pages / .rtf / .md / .epub / .mobi / .azw / .azw3 / .fb2 / .lit / .pdb / .prc / .djvu / .cbr / .cbz / .csv
+READ WEBPAGES
+Paste in a webpage link and Easy Text to Speech Reader Pro will read the webpage for you.
+
+NO ADS. NO SUBSCRIPTIONS. NO IN-APP PURCHASES.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/79/96/317996f7-5ec6-65c6-2834-fff0470392ed/Pro_Version_includes-Photoroom.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/cd/77/28cd77ef-eb73-acfe-a9b3-e25f21b7d51a/Only_in_Pro_Version-Photoroom.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/85/99/d285993a-2de8-fa11-2133-cb1d10c277eb/Choose_from_152_Voices_NoAds.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/64/6a/06646ac8-5710-fd97-9ecb-fe8269c12099/36_Premium_Voices_included_NoAds.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/b7/8e/98b78e20-0b0a-a7a8-b6d5-61522398bf82/Supports__U00281_U0029-Photoroom.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/a8/6b/98a86be6-13ef-81a0-cf90-b899b43ce0e8/cccImport_text_from_any_webpage-Photoroom.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/2c/d1/002cd195-ee9d-b835-abd8-2cd5c016082e/NEWSearch_through_the_text_and_tap_on_whatever_word_you_want_it_to_read_from.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/d1/63/88d163b3-80b8-8c71-3fc4-93a59ef70587/new_centering-Photoroom.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/d2/d1/abd2d146-f423-561f-8c3d-c4e3d031b9ef/It_saves_your_spot_and_text_when_you_close_and_reopen_again-Photoroom.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/35/28/8235281e-4e74-72d6-cc25-f0cd1608e8b6/NEWControl_playback_from_the_lock_screen__audio_widget.png/320x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dungeon Warfare 2]]></title>
         <id>Dungeon Warfare 2-hk-1794603835491</id>
         <link href="https://appstore-discounts.eyelly.me/hk/1453661259?lang=zh-CN"/>
@@ -2684,56 +2743,5 @@ This app was made with love and patience. I hope you’ll enjoy using it as much
 Terms & Conditions: https://kaylees.site/terms-and-conditions.html
 EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/72/4b/f0724bfa-e305-914c-499e-ca0da0860a1c/iphone-1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/fd/ec/17fdec6e-18b8-7289-c075-4463b3da3279/iphone-2.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/7d/67/2a7d6792-90ec-e2c7-a43c-855079e74ab6/iphone-3.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/fe/14/d9fe1498-26e9-ddca-d26d-85a3fd2166eb/iphone-4.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/ef/63/a9ef63b9-7c94-2bdb-c50e-f3cbdfbb6a83/ipad-1.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/d1/09/40d1098a-4f9b-117c-90b3-1b290fbf328a/ipad-2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/c6/bc/50c6bc94-81a4-ef34-ec2e-254621595472/ipad-3.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raiders Map]]></title>
-        <id>Raiders Map-hk-1794367744578</id>
-        <link href="https://appstore-discounts.eyelly.me/hk/6755290585?lang=zh-CN"/>
-        <updated>2026-11-11T03:29:04.578Z</updated>
-        <summary type="html"><![CDATA[Raider Mk. 1: HK$ 28.00 → HK$ 8.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/6755290585?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/fb/45/eefb4515-58d3-22fa-fe56-83a1f9d8d593/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
-  <li>
-    <strong>Raider Mk. 1：</strong><span>HK$ 28.00</span> → <b>
-  <strong>HK$ 8.00</strong>
-</b><span>[HK$ 8.00 ~ HK$ 38.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h3>App 內購買</h3><ul>
-  <li>
-    Raider Mk. 2：<b>HK$ 32.00</b>
-  </li><li>
-    Raider Mk. 3：<b>HK$ 58.00</b>
-  </li><li>
-    Raider Mk. 1：<b>HK$ 8.00</b>
-  </li><li>
-    Raider Weekly：<b>HK$ 12.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  Raiders Map is the all-in-one companion for Arc Raiders: interactive maps, loot locations, event timers, material and recycling breakdowns, enemy drop lists, and full quest-line guides.
-
-INTERACTIVE MAPS
-Every extraction point, boss lair, loot cache and quest marker on fully zoomable maps — now with high-detail tiled maps and buttery-smooth rendering, even with 1,000+ markers on screen. Filter by category, search any marker, and jump straight to it.
-
-LIVE EVENT TRACKING
-See every active and upcoming map event at a glance with real-time countdowns. Turn on notifications and get alerted the moment a hot zone goes live.
-
-LOADOUT TOOLS
-Compare weapon stats side by side across tiers and levels, check what's safe to recycle before you scrap it, and plan your skill tree build before you drop.
-
-GUIDES & TRIALS
-Quest walkthroughs, XP guides and trial objectives — everything you need to progress faster.
-
-ENEMY DATABASE
-Every enemy with its full loot drop table, so you always know what's worth the fight.
-
-Raiders Map is the best tool for easy access to everything, along with world class support. You can reach me directly on X for help or to report any issues: All4nDev, or through Discord.
-
-Not affiliated with Embark. Raiders Map is independently owned and managed.
-
-Apple standard EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/e1/b9/c8e1b9ea-18d3-c1ae-30a6-492bf2bc6e55/02_home.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/67/a0/4767a0d6-68e5-25a1-1d74-2d2490bc531c/01_map.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/5d/ff/505dff29-b74f-3031-1119-fea04c25ba32/03_search.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/2c/61/c42c6107-1bde-86bf-b95d-6df6b0159b16/07_guides.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/02/a0/c602a0e8-2c86-b0ab-ae82-6bea2b87bed9/06_skilltree.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/c4/25/9cc42566-c3ad-4d6a-faa2-c85d8551756f/04_weapons.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/af/b2/09afb22f-01f4-f09a-5e61-cc6558c7885e/05_materials.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/cf/c6/77cfc686-f909-5b7f-79fb-37a44e94b6bb/IMG_0416.PNG/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/41/0b/8c410b8b-6502-c9fd-02ba-2772083a1314/IMG_0418.PNG/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/8a/d0/bf8ad090-f8b6-943d-b797-fca71251d3f6/IMG_0417.PNG/360x480bb.jpg" />]]></content>
     </entry>
 </feed>

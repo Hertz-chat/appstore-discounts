@@ -140097,6 +140097,14 @@
     "history": [
       [
         {
+          "timestamp": 1794684796272,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791207805972,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -154628,6 +154636,14 @@
       "formattedPrice": "USD 0.39"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794684796272,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793905807227,
@@ -191651,14 +191667,22 @@
   "6447693393": {
     "name": "灵感卡片 - 创意笔记",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794684796272,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749478389158,

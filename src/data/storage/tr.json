@@ -188783,6 +188783,14 @@
     "history": [
       [
         {
+          "timestamp": 1794684796272,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791207805972,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -285982,6 +285990,25 @@
     "history": [
       [
         {
+          "timestamp": 1794684796272,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "5 gold": "₺19,99",
+            "5 ticket": "₺19,99",
+            "passatb8": "₺49,99",
+            "15 gold": "₺29,99",
+            "30000 money": "₺19,99",
+            "30 gold": "₺49,99",
+            "10 ticket": "₺29,99",
+            "sonsuz paket": "₺249,99",
+            "porches": "₺49,99",
+            "15 ticket": "₺29,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794541901399,
           "price": 0,
           "formattedPrice": "Free",
@@ -295950,6 +295977,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794684796272,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "BikeControl Pro": "₺99,99",
+            "Full Version Unlock": "₺249,99",
+            "BikeControl Pro - Yearly": "₺1.199,99"
+          }
+        },
         {
           "timestamp": 1794659876852,
           "price": 0,

@@ -91813,6 +91813,14 @@
     "history": [
       [
         {
+          "timestamp": 1794684796272,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791207805972,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -146867,6 +146875,25 @@
       "Live Loops": "6,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794684796272,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "StageLab": "3,99 €",
+            "Pad Mix Pro": "1,99 €",
+            "Pad Pulse Pro": "1,99 €",
+            "Arp Pro": "1,99 €",
+            "Sequencer Pro": "2,99 €",
+            "Worship Pad": "0,99 €",
+            "Analog Pad 2": "0,99 €",
+            "Atmospheric Pad EFX": "0,99 €",
+            "Haze Pad EFX": "0,99 €",
+            "Pad Wind EFX": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793840903622,

@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1500126852,
+    "region": "cn",
+    "timestamp": 1794684796272,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥8.00",
+        "to": "免费",
+        "range": "[免费 ~ ¥22.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1500126852",
+    "trackName": "Chord",
+    "firstRecordedAt": 1763541298729
+  },
+  {
     "trackId": 6747138769,
     "region": "cn",
     "timestamp": 1794628227571,
@@ -940,7 +960,7 @@
         "name": "Price",
         "from": "¥6.00",
         "to": "免费",
-        "range": "[免费 ~ ¥6.00]"
+        "range": "[免费 ~ ¥18.00]"
       }
     ],
     "price": 0,
@@ -25770,7 +25790,7 @@
         "name": "Price",
         "from": "¥6.00",
         "to": "免费",
-        "range": "[免费 ~ ¥6.00]"
+        "range": "[免费 ~ ¥18.00]"
       }
     ],
     "price": 0,
@@ -27662,7 +27682,7 @@
         "name": "Price",
         "from": "¥6.00",
         "to": "免费",
-        "range": "[免费 ~ ¥6.00]"
+        "range": "[免费 ~ ¥18.00]"
       }
     ],
     "price": 0,

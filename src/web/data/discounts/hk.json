@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1500126852,
+    "region": "hk",
+    "timestamp": 1794684796272,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 8.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 22.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1500126852",
+    "trackName": "Chord",
+    "firstRecordedAt": 1763541298729
+  },
+  {
     "trackId": 6743349595,
     "region": "hk",
     "timestamp": 1794659876852,
@@ -44648,7 +44668,7 @@
         "name": "Price",
         "from": "HK$ 8.00",
         "to": "免費",
-        "range": "[免費 ~ HK$ 8.00]"
+        "range": "[免費 ~ HK$ 22.00]"
       }
     ],
     "price": 0,
@@ -47070,7 +47090,7 @@
         "name": "Price",
         "from": "HK$ 8.00",
         "to": "免費",
-        "range": "[免費 ~ HK$ 8.00]"
+        "range": "[免費 ~ HK$ 22.00]"
       }
     ],
     "price": 0,

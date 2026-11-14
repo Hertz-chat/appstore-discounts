@@ -10409,7 +10409,7 @@
   {
     "trackId": 1261834568,
     "region": "us",
-    "timestamp": 1792950991459,
+    "timestamp": 1794684796272,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "$4.99",
@@ -14060,10 +14060,10 @@
   {
     "trackId": 1500126852,
     "region": "us",
-    "timestamp": 1791207805972,
+    "timestamp": 1794684796272,
     "discounts": [],
-    "price": 3.99,
-    "formattedPrice": "$3.99",
+    "price": 0,
+    "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1500126852",
     "trackName": "Chord",
@@ -24918,7 +24918,7 @@
   {
     "trackId": 6759358968,
     "region": "us",
-    "timestamp": 1793840903622,
+    "timestamp": 1794684796272,
     "discounts": [],
     "price": 1.69,
     "formattedPrice": "$1.69",

@@ -14816,6 +14816,27 @@
       ]
     ]
   },
+  "392746207": {
+    "name": "Sporløs: Private Browser",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "393670998": {
     "name": "欧路词典 Eudic 增强版",
     "maxPriceInfo": {
@@ -189166,6 +189187,19 @@
     "history": [
       [
         {
+          "timestamp": 1794736969443,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "+100 boosters ECO-Initiative!": "₺10,00",
+            "Full scenarios": "₺249,99",
+            "+444! Triple-Four Booster Pack": "₺99,99",
+            "+2026 boosters ECO-Initiative!": "₺229,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793731488753,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -281988,8 +282022,8 @@
   "6752503669": {
     "name": "Solar Arc: Golden Hour Tracker",
     "maxPriceInfo": {
-      "price": 299.99,
-      "formattedPrice": "₺299,99",
+      "price": 399.99,
+      "formattedPrice": "₺399,99",
       "Solar Arc Pro": "₺249,99"
     },
     "minPriceInfo": {
@@ -281998,6 +282032,14 @@
       "Solar Arc Pro": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794106722002,
@@ -296864,8 +296906,8 @@
   "6759642128": {
     "name": "CGRC Governance Risk & Comply",
     "maxPriceInfo": {
-      "price": 43.99,
-      "formattedPrice": "₺43,99",
+      "price": 399.99,
+      "formattedPrice": "₺399,99",
       "Pro Lifetime": "₺399,99",
       "Pro Yearly": "₺299,99",
       "Pro Monthly": "₺79,99"
@@ -296878,6 +296920,14 @@
       "Pro Monthly": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790437951279,
@@ -305687,6 +305737,27 @@
           "timestamp": 1794603835491,
           "price": 149.99,
           "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6767571391": {
+    "name": "A320系统复位",
+    "maxPriceInfo": {
+      "price": 2499.99,
+      "formattedPrice": "₺2.499,99"
+    },
+    "minPriceInfo": {
+      "price": 2499.99,
+      "formattedPrice": "₺2.499,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 2499.99,
+          "formattedPrice": "₺2.499,99",
           "inAppPurchases": {}
         }
       ]

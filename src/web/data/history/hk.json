@@ -17117,6 +17117,29 @@
       ]
     ]
   },
+  "392746207": {
+    "trackId": 392746207,
+    "trackName": "Sporløs: Private Browser",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "393670998": {
     "trackId": 393670998,
     "trackName": "欧路词典 Eudic 增强版",
@@ -193516,6 +193539,19 @@
     "history": [
       [
         {
+          "timestamp": 1794736969443,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "Full scenarios": "HK$ 38.00",
+            "+100 boosters ECO-Initiative!": "HK$ 10.00",
+            "+2026 boosters ECO-Initiative!": "HK$ 32.00",
+            "+444! Triple-Four Booster Pack": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793731488753,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -296063,8 +296099,8 @@
     "trackName": "Solar Arc: 黃金時刻 日出日落",
     "region": "hk",
     "maxPriceInfo": {
-      "price": 48,
-      "formattedPrice": "HK$ 48.00",
+      "price": 58,
+      "formattedPrice": "HK$ 58.00",
       "Solar Arc Pro": "HK$ 38.00"
     },
     "minPriceInfo": {
@@ -296073,6 +296109,14 @@
       "Solar Arc Pro": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794106722002,
@@ -319911,6 +319955,29 @@
           "timestamp": 1794603835491,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6767571391": {
+    "trackId": 6767571391,
+    "trackName": "A320系统复位",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 168,
+      "formattedPrice": "HK$ 168.00"
+    },
+    "minPriceInfo": {
+      "price": 168,
+      "formattedPrice": "HK$ 168.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 168,
+          "formattedPrice": "HK$ 168.00",
           "inAppPurchases": {}
         }
       ]

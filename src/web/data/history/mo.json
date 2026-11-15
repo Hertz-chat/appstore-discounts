@@ -12784,6 +12784,29 @@
       ]
     ]
   },
+  "392746207": {
+    "trackId": 392746207,
+    "trackName": "Sporløs: Private Browser",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "393670998": {
     "trackId": 393670998,
     "trackName": "欧路词典 Eudic 增强版",
@@ -142759,6 +142782,19 @@
     "history": [
       [
         {
+          "timestamp": 1794736969443,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "Full scenarios": "USD 4.99",
+            "+2026 boosters ECO-Initiative!": "USD 4.29",
+            "+444! Triple-Four Booster Pack": "USD 2.00",
+            "+100 boosters ECO-Initiative!": "USD 1.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793731488753,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -155654,6 +155690,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794736969443,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Daniel skin": "USD 0.99",
+            "Reyna skin": "USD 0.99",
+            "Jorge skin": "USD 0.99",
+            "Gloria skin": "USD 0.99",
+            "Purple menu color": "USD 3.99",
+            "Red menu color": "USD 1.99",
+            "Yellow menu color": "USD 0.99",
+            "James character": "USD 0.99",
+            "Lisa character": "USD 0.00",
+            "Elsa character": "USD 0.99"
+          }
+        },
         {
           "timestamp": 1794702517300,
           "price": 1.99,
@@ -193763,9 +193816,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Deco Plus": "USD 2.79"
+      "Deco Plus": "USD 2.19"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Deco Plus": "USD 2.19"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792539105006,
@@ -204101,8 +204164,8 @@
     "trackName": "Solar Arc: 黃金時刻 日出日落",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "USD 5.99",
+      "price": 6.99,
+      "formattedPrice": "USD 6.99",
       "Solar Arc Pro": "USD 4.99"
     },
     "minPriceInfo": {
@@ -204111,6 +204174,14 @@
       "Solar Arc Pro": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794106722002,
@@ -225735,6 +225806,29 @@
           "timestamp": 1794603835491,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6767571391": {
+    "trackId": 6767571391,
+    "trackName": "A320系统复位",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "USD 19.99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "USD 19.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
           "inAppPurchases": {}
         }
       ]

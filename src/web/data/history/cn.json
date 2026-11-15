@@ -16180,6 +16180,29 @@
       ]
     ]
   },
+  "392746207": {
+    "trackId": 392746207,
+    "trackName": "Sporløs: Private Browser",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00"
+    },
+    "minPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "393670998": {
     "trackId": 393670998,
     "trackName": "欧路词典 Eudic 增强版",
@@ -111652,6 +111675,25 @@
       "Vintage Film Pack": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {
+            "升级完整版，解锁一切功能": "¥38.00",
+            "使用所有滤镜包": "¥15.00",
+            "所有贴纸包": "¥15.00",
+            "所有海报包": "¥22.00",
+            "Retro Film Pack": "¥8.00",
+            "Style Film Pack": "¥8.00",
+            "Rainbow Film Pack": "¥8.00",
+            "Leakage Film Pack": "¥8.00",
+            "Vintage Film Pack": "¥8.00",
+            "Bokeh Film Pack": "¥0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792569835923,
@@ -216124,8 +216166,8 @@
     "trackName": "Solar Arc: 黄金时刻 日出日落",
     "region": "cn",
     "maxPriceInfo": {
-      "price": 38,
-      "formattedPrice": "¥38.00",
+      "price": 48,
+      "formattedPrice": "¥48.00",
       "Solar Arc Pro": "¥38.00"
     },
     "minPriceInfo": {
@@ -216134,6 +216176,14 @@
       "Solar Arc Pro": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794106722002,
@@ -245280,6 +245330,29 @@
           "timestamp": 1794659876852,
           "price": 0,
           "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6767571391": {
+    "trackId": 6767571391,
+    "trackName": "A320系统复位",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 80,
+      "formattedPrice": "¥80.00"
+    },
+    "minPriceInfo": {
+      "price": 80,
+      "formattedPrice": "¥80.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 80,
+          "formattedPrice": "¥80.00",
           "inAppPurchases": {}
         }
       ]

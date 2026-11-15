@@ -16328,6 +16328,29 @@
       ]
     ]
   },
+  "392746207": {
+    "trackId": 392746207,
+    "trackName": "Sporløs: Private Browser",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "393670998": {
     "trackId": 393670998,
     "trackName": "欧路词典 Eudic 增强版",
@@ -195140,6 +195163,19 @@
     "history": [
       [
         {
+          "timestamp": 1794736969443,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "+100 boosters ECO-Initiative!": "$10.00",
+            "+2026 boosters ECO-Initiative!": "$150.00",
+            "Full scenarios": "$150.00",
+            "+444! Triple-Four Booster Pack": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793731488753,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -224031,6 +224067,25 @@
       "Hero Bomett": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Hero Red Dragon": "$190.00",
+            "Hero Red Dragon On Sale": "$120.00",
+            "HeroBounty Hunter": "$150.00",
+            "Hero Bounty Hunter On Sale": "$90.00",
+            "Hero Gauntlet On Sale": "$90.00",
+            "Hero Gauntlet": "$150.00",
+            "Hero Bomett": "$90.00",
+            "Hero Bomett On Sale": "$30.00",
+            "Hero Dragon Kosmos On Sale": "$150.00",
+            "Hero Dragon Kosmos": "$220.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794603835491,
@@ -309126,8 +309181,8 @@
     "trackName": "Solar Arc: 黃金時刻 日出日落",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 190,
-      "formattedPrice": "$190.00",
+      "price": 220,
+      "formattedPrice": "$220.00",
       "Solar Arc Pro": "$150.00"
     },
     "minPriceInfo": {
@@ -309136,6 +309191,14 @@
       "Solar Arc Pro": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794106722002,
@@ -324446,6 +324509,14 @@
     "history": [
       [
         {
+          "timestamp": 1794736969443,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790805284947,
           "price": 0,
           "formattedPrice": "免費",
@@ -333304,6 +333375,29 @@
           "timestamp": 1794603835491,
           "price": 90,
           "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6767571391": {
+    "trackId": 6767571391,
+    "trackName": "A320系统复位",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 1290,
+      "formattedPrice": "$1,290.00"
+    },
+    "minPriceInfo": {
+      "price": 1290,
+      "formattedPrice": "$1,290.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 1290,
+          "formattedPrice": "$1,290.00",
           "inAppPurchases": {}
         }
       ]

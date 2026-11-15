@@ -8332,6 +8332,29 @@
       ]
     ]
   },
+  "392746207": {
+    "trackId": 392746207,
+    "trackName": "Sporløs: Navegador privado",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "393670998": {
     "trackId": 393670998,
     "trackName": "欧路词典 Eudic 增强版",
@@ -92123,6 +92146,19 @@
     "history": [
       [
         {
+          "timestamp": 1794736969443,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "+100 boosters ECO-Initiative!": "1,00 €",
+            "+2026 boosters ECO-Initiative!": "4,99 €",
+            "Full scenarios": "5,99 €",
+            "+444! Triple-Four Booster Pack": "2,00 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793731488753,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -117059,8 +117095,8 @@
     "trackName": "Solar Arc: Hora Dourada",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "6,99 €",
+      "price": 7.99,
+      "formattedPrice": "7,99 €",
       "Solar Arc Pro": "5,99 €"
     },
     "minPriceInfo": {
@@ -117069,6 +117105,14 @@
       "Solar Arc Pro": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794085796977,
@@ -153038,8 +153082,8 @@
     "trackName": "CGRC Governance Risk & Comply",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "9,99 €",
+      "price": 17.99,
+      "formattedPrice": "17,99 €",
       "Pro Lifetime": "17,99 €",
       "Pro Yearly": "12,99 €",
       "Pro Monthly": "2,99 €"
@@ -153052,6 +153096,14 @@
       "Pro Monthly": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790805284947,
@@ -160905,6 +160957,29 @@
           "timestamp": 1794603835491,
           "price": 2.99,
           "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6767571391": {
+    "trackId": 6767571391,
+    "trackName": "A320系统复位",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 59.99,
+      "formattedPrice": "59,99 €"
+    },
+    "minPriceInfo": {
+      "price": 59.99,
+      "formattedPrice": "59,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 59.99,
+          "formattedPrice": "59,99 €",
           "inAppPurchases": {}
         }
       ]

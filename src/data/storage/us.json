@@ -20566,6 +20566,27 @@
       ]
     ]
   },
+  "392746207": {
+    "name": "Sporløs: Private Browser",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "393670998": {
     "name": "欧路词典 Eudic 增强版",
     "maxPriceInfo": {
@@ -75672,6 +75693,25 @@
       "180000 Coins": "$49.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "5000 Coins": "$1.99",
+            "220 Diamonds": "$1.99",
+            "14000 Coins": "$4.99",
+            "580 Diamonds": "$4.99",
+            "1210 Diamonds": "$9.99",
+            "30000 Coins": "$9.99",
+            "3200 Diamonds": "$24.99",
+            "82000 Coins": "$24.99",
+            "6600 Diamonds": "$49.99",
+            "15500 Diamonds": "$99.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794702517300,
@@ -209342,6 +209382,19 @@
     "history": [
       [
         {
+          "timestamp": 1794736969443,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "+100 boosters ECO-Initiative!": "$1.00",
+            "+2026 boosters ECO-Initiative!": "$4.29",
+            "Full scenarios": "$4.99",
+            "+444! Triple-Four Booster Pack": "$2.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793731488753,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -242411,6 +242464,14 @@
       "formattedPrice": "$0.39"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793959313216,
@@ -285616,6 +285677,25 @@
       "Night Chill": "$1.79"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "2025春さくらスキン": "$0.49",
+            "Halloween Party": "$1.79",
+            "Starry Night": "$1.79",
+            "Wacky Halloween Set": "$2.39",
+            "2025春いちごスキン": "$0.49",
+            "ネオンシティ": "$1.79",
+            "Christmas night": "$1.79",
+            "Fireworks display": "$1.79",
+            "Night Chill": "$1.79",
+            "Sunset beach": "$1.19"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794702517300,
@@ -344109,8 +344189,8 @@
   "6752503669": {
     "name": "Solar Arc: Golden Hour Tracker",
     "maxPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "$5.99",
+      "price": 6.99,
+      "formattedPrice": "$6.99",
       "Solar Arc Pro": "$4.99"
     },
     "minPriceInfo": {
@@ -344119,6 +344199,14 @@
       "Solar Arc Pro": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794106722002,
@@ -361561,8 +361649,8 @@
   "6759642128": {
     "name": "CGRC Governance Risk & Comply",
     "maxPriceInfo": {
-      "price": 12.99,
-      "formattedPrice": "$12.99",
+      "price": 19.99,
+      "formattedPrice": "$19.99",
       "Pro Lifetime": "$19.99",
       "Pro Yearly": "$14.99",
       "Pro Monthly": "$3.99"
@@ -361575,6 +361663,14 @@
       "Pro Monthly": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790437951279,
@@ -370004,6 +370100,27 @@
           "timestamp": 1794603835491,
           "price": 1.99,
           "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6767571391": {
+    "name": "A320系统复位",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "$49.99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "$49.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794736969443,
+          "price": 49.99,
+          "formattedPrice": "$49.99",
           "inAppPurchases": {}
         }
       ]

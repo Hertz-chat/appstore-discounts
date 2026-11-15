@@ -2836,7 +2836,7 @@
   {
     "trackId": 480102733,
     "region": "us",
-    "timestamp": 1794367744578,
+    "timestamp": 1794765956525,
     "discounts": [],
     "price": 9.99,
     "formattedPrice": "$9.99",
@@ -4714,7 +4714,7 @@
   {
     "trackId": 650684932,
     "region": "us",
-    "timestamp": 1794659876852,
+    "timestamp": 1794765956525,
     "discounts": [],
     "price": 9.99,
     "formattedPrice": "$9.99",
@@ -15804,7 +15804,7 @@
   {
     "trackId": 1563932741,
     "region": "us",
-    "timestamp": 1794659876852,
+    "timestamp": 1794765956525,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "$1.99",
@@ -19669,7 +19669,7 @@
   {
     "trackId": 6471839445,
     "region": "us",
-    "timestamp": 1794541901399,
+    "timestamp": 1794765956525,
     "discounts": [],
     "price": 3.49,
     "formattedPrice": "$3.49",
@@ -19765,7 +19765,7 @@
   {
     "trackId": 6473001577,
     "region": "us",
-    "timestamp": 1794702517300,
+    "timestamp": 1794765956525,
     "discounts": [],
     "price": 3.99,
     "formattedPrice": "$3.99",
@@ -20270,10 +20270,10 @@
   {
     "trackId": 6479395335,
     "region": "us",
-    "timestamp": 1781814371032,
+    "timestamp": 1794765956525,
     "discounts": [],
-    "price": 4.99,
-    "formattedPrice": "$4.99",
+    "price": 3.99,
+    "formattedPrice": "$3.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6479395335",
     "trackName": "RPGViewer",
@@ -25146,7 +25146,7 @@
   {
     "trackId": 6760446039,
     "region": "us",
-    "timestamp": 1794458321964,
+    "timestamp": 1794765956525,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -27124,6 +27124,18 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id6822194774",
     "trackName": "TypeDraw",
     "firstRecordedAt": 1793178284917
+  },
+  {
+    "trackId": 6822746934,
+    "region": "us",
+    "timestamp": 1794765956525,
+    "discounts": [],
+    "price": 4.99,
+    "formattedPrice": "$4.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6822746934",
+    "trackName": "Nameless Ember: Sigilbound",
+    "firstRecordedAt": 1794765956525
   },
   {
     "trackId": 6824686276,

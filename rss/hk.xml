@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2026-11-15T11:42:08.964Z</updated>
+    <updated>2026-11-15T19:49:27.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008141708743680+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-15T11:42:08.965Z</updated>
+        <updated>2026-11-15T19:49:27.254Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008141708743680+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkSun, 15 Nov 2026 11:42:08 GMT</id>
+        <id>rankinghkSun, 15 Nov 2026 19:49:27 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-15T11:42:08.966Z</updated>
+        <updated>2026-11-15T19:49:27.254Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -51,13 +51,13 @@ feedId:157008141708743680+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>2431</b>
+        <b>2432</b>
       </td>
       <td>
         <b>204</b>
       </td>
       <td>
-        <b>2227</b>
+        <b>2228</b>
       </td>
       <td>
         <b>108</b>
@@ -68,13 +68,13 @@ feedId:157008141708743680+userId:73658201673997312
         <b>HK</b>
       </td>
       <td>
-        <b>2290</b>
+        <b>2291</b>
       </td>
       <td>
         <b>181</b>
       </td>
       <td>
-        <b>2109</b>
+        <b>2110</b>
       </td>
       <td>
         <b>99</b>
@@ -190,6 +190,29 @@ feedId:157008141708743680+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
+        <a href="https://appstore-discounts.eyelly.me/hk/443646748?lang=zh-CN">健身夥伴+：健身房鍛煉</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買</span><ol>
+              <li>
+                <i>Premium</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
         <a href="https://appstore-discounts.eyelly.me/hk/469343554?lang=zh-CN">洛克人X</a>
       </td>
       <td>
@@ -204,7 +227,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/882362024?lang=zh-CN">Ace Attorney: Dual Destinies</a>
@@ -231,7 +254,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/931188326?lang=zh-CN">DayCost Pro - Personal Finance</a>
@@ -248,7 +271,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/954982733?lang=zh-CN">Tuner T1 Pro</a>
@@ -265,7 +288,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/998834675?lang=zh-CN">Clouds & Sheep 2 Premium</a>
@@ -282,7 +305,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1020541183?lang=zh-CN">電影精靈 - 專業視頻編輯和電影製作</a>
@@ -299,7 +322,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1136993233?lang=zh-CN">Apollo Justice Ace Attorney</a>
@@ -322,7 +345,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1303222868?lang=zh-CN">Paprika Recipe Manager 4</a>
@@ -339,7 +362,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1304822713?lang=zh-CN">無盡坦克大戰 - 八位元單機王者 完美模擬穿越舊經典電視手遊</a>
@@ -356,7 +379,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1422480068?lang=zh-CN">Nautilus：網頁、Word、標註</a>
@@ -379,7 +402,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1424977227?lang=zh-CN">Titan Quest HD</a>
@@ -396,7 +419,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1439262206?lang=zh-CN">Root Board Game</a>
@@ -413,7 +436,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1441522083?lang=zh-CN">LED跑馬燈・手持彈幕・應援燈牌</a>
@@ -430,7 +453,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1453661259?lang=zh-CN">Dungeon Warfare 2</a>
@@ -447,7 +470,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1453820315?lang=zh-CN">This Is the Police 2</a>
@@ -464,7 +487,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1492049794?lang=zh-CN">武林群俠風雲傳</a>
@@ -481,7 +504,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1500126852?lang=zh-CN">Chord</a>
@@ -498,7 +521,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1504000687?lang=zh-CN">雙人遊戲 2 Player Offline Games</a>
@@ -515,7 +538,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1504760106?lang=zh-CN">Eco Inc. 拯救地球</a>
@@ -532,7 +555,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1523633394?lang=zh-CN">SpongeBob SquarePants</a>
@@ -549,7 +572,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1537362903?lang=zh-CN">Neighbours back From Hell</a>
@@ -566,7 +589,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1571643809?lang=zh-CN">地城謎蹤</a>
@@ -583,7 +606,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1575414319?lang=zh-CN">Dune: Imperium</a>
@@ -600,7 +623,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1580067723?lang=zh-CN">Wall of insanity</a>
@@ -617,7 +640,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1580629864?lang=zh-CN">Clank!</a>
@@ -634,7 +657,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1587301632?lang=zh-CN">全能備忘錄</a>
@@ -651,7 +674,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1591620171?lang=zh-CN">Stay for Safari - 使用者腳本與廣告攔截擴充</a>
@@ -674,7 +697,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1600925588?lang=zh-CN">GR Linker - 理光相機傳圖 Image Sync</a>
@@ -691,7 +714,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1601114348?lang=zh-CN">Siralim Ultimate</a>
@@ -708,7 +731,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1601446687?lang=zh-CN">Streets of Rage 4</a>
@@ -725,7 +748,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1621065119?lang=zh-CN">逆轉裁判123成步堂精選集</a>
@@ -742,7 +765,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1642733080?lang=zh-CN">DungeonSquad</a>
@@ -759,7 +782,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1662217862?lang=zh-CN">Wipr 2</a>
@@ -782,7 +805,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6801866888?lang=zh-CN">上次是什麼時候 - 家事·保養紀錄</a>
@@ -799,7 +822,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6749684876?lang=zh-CN">阿爾基奧涅：化學拼圖</a>
@@ -816,7 +839,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6759358968?lang=zh-CN">PadLab - Live Pads</a>
@@ -839,7 +862,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6444660338?lang=zh-CN">Legend of Keepers</a>
@@ -856,7 +879,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6752503669?lang=zh-CN">Solar Arc: 黃金時刻 日出日落</a>
@@ -873,7 +896,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6446021269?lang=zh-CN">ROCKMAN X DiVE Offline</a>
@@ -890,7 +913,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6786115854?lang=zh-CN">No More Slimes!!: Idle Action</a>
@@ -907,7 +930,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6759970821?lang=zh-CN">地牢合併!（Dungeon Merge!）</a>
@@ -924,7 +947,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6760948683?lang=zh-CN">Digline：療癒挖礦</a>
@@ -941,7 +964,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6770101449?lang=zh-CN">五道門：文字江湖</a>
@@ -958,7 +981,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6474541983?lang=zh-CN">Children of Morta</a>
@@ -975,7 +998,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6758999138?lang=zh-CN">鬥陣騎士 Knightica</a>
@@ -992,7 +1015,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>51</b>
+        <b>52</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6755103808?lang=zh-CN">VoidLink - Extreme</a>
@@ -1015,7 +1038,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>52</b>
+        <b>53</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6471594918?lang=zh-CN">Just a Simple Image Converter</a>
@@ -1032,7 +1055,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>53</b>
+        <b>54</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6758201392?lang=zh-CN">Slime Rancher</a>
@@ -1049,7 +1072,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>54</b>
+        <b>55</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6478398981?lang=zh-CN">直播 - IPTV Smart Pro</a>
@@ -1066,7 +1089,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>55</b>
+        <b>56</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6755290585?lang=zh-CN">Raiders Map</a>
@@ -1089,7 +1112,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>56</b>
+        <b>57</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6497948575?lang=zh-CN">Way of the Hunter Wild America</a>
@@ -1106,7 +1129,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>57</b>
+        <b>58</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6758114235?lang=zh-CN">1 TL</a>
@@ -1123,7 +1146,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>58</b>
+        <b>59</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6449233549?lang=zh-CN">Ark Nova</a>
@@ -1140,7 +1163,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>59</b>
+        <b>60</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6480058345?lang=zh-CN">怪獸大進擊 2</a>
@@ -1157,7 +1180,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>60</b>
+        <b>61</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6786557574?lang=zh-CN">油耗管家-加油記錄省油統計車輛里程費用記帳工具專用版</a>
@@ -1174,7 +1197,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>61</b>
+        <b>62</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6747138769?lang=zh-CN">Easy Text to Speech Reader Pro</a>
@@ -1191,10 +1214,67 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>62</b>
+        <b>63</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/hk/6743349595?lang=zh-CN">Godseeker II Dark Fantasy ARPG</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>64</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/hk/6760446039?lang=zh-CN">般若心灯</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買</span><ol>
+              <li>
+                <i>年度护持</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>65</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/hk/6479395335?lang=zh-CN">RPGViewer</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>66</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/hk/6744430250?lang=zh-CN">Python 學習計劃</a>
       </td>
       <td>
         <ul>
@@ -2109,6 +2189,282 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[健身夥伴+：健身房鍛煉]]></title>
+        <id>健身夥伴+：健身房鍛煉-hk-1794765956525</id>
+        <link href="https://appstore-discounts.eyelly.me/hk/443646748?lang=zh-CN"/>
+        <updated>2026-11-15T18:05:56.525Z</updated>
+        <summary type="html"><![CDATA[Premium: HK$ 388.00 → HK$ 78.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/443646748?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/6e/b1/236eb1c6-d105-0fd1-aa5e-b70fd54213a0/AppIcon-FB-Pro-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
+  <li>
+    <strong>Premium：</strong><span>HK$ 388.00</span> → <b>
+  <strong>HK$ 78.00</strong>
+</b><span>[HK$ 78.00 ~ HK$ 388.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 32.00</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    Fitness Buddy Premium：<b>HK$ 368.00</b>
+  </li><li>
+    Premium：<b>HK$ 78.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  做更強強大,更精壯,更好的自己
+- 上百種健身房＆家庭室內訓練動作
+- 清楚詳細的鍛煉介紹,並全部配有示範動畫
+- 針對性減肥增肌食譜和製作方法（生酮飲食,原始飲食,素食主義,以及更多）
+- 我們的訓練計劃是由最頂尖的個人訓練師精心製作的
+
+被以下媒體雜誌高度好評：
+  - 芝加哥論壇報 - “這就像在你家裡隨身攜帶一個私人教練,而不需要真的花錢僱用一個”
+  - EPSN雜誌
+  - Jay Leno的脫口秀
+  - Gizmodo：“最好的iPhone應用程序之一”
+
+找出為什麼健身愛好者都開始使用健身夥伴App！健身夥伴將為您提供超過2400種獨特的練習,將徹底改變您的訓練方案。有了這個應用程序,您會發現跟踪監控自己的鍛煉過程非常簡單易用,您將維持持久的的鍛煉激情,並最終努力達成您的健身目標。
+
+- 主要功能 - 
+
+  - 2400+獨特的鍛煉練習！
+  - 1000多個高清視頻
+  - 包括所有主要設備的綜合練習：槓鈴,ez捲曲桿,啞鈴,提壺啞鈴,阻力帶和穩定球
+  - 運動分類（核心,下半身,胸部,肩膀,背部,手臂,有氧,伸展）
+  - 4000+運動圖片和動畫（達到視網膜分辨率）
+  - 詳細的運動指示和肌肉分類
+  - 能夠添加自己習慣的練習和喜愛的練習
+
+非常好用的用戶界面
+- 快速簡單的鍛煉跟踪
+- 通過快速搜索欄找到你最喜歡的練習
+
+多達75個鍛煉程序
+- 我們擁有不同的鍛煉流程計劃,也包括女性健身鍛煉
+- 鍛煉計劃可以設定針對性目標（增大胸肌,翹臀,減肥,已經更多！）
+- 鍛煉計劃也可選擇不同的健身器材（阻力帶,提壺啞鈴,徒手鍛煉,等等！）
+- 來建立你自己獨有的鍛煉計劃吧！
+
+身體指標跟踪
+- 健身夥伴可追踪顯示您的體重和其他身體指標（胸圍,手臂,大腿等）
+- 可以用圖形顯示您的鍛煉進步
+
+優秀的客戶服務
+- 我們有快速的電郵回复
+- 頻繁更新
+
+健身夥伴與蘋果健康應用程序共享數據
+  - 數據可分享到蘋果健康應用程序（健身夥伴設置 - >設置蘋果健康應用程序共享）
+
+升級到健身夥伴會員訂閱,可以無限制地訪問高級程序和Playpen Freeplay訓練,高清視頻,動態和激勵音頻,我們會定期發送鍛煉小技巧,提供健康生活的提示​​和建議,以及可同時享有本公司的其他軟件會員權限
+
+*持續在後台使用GPS可大幅降低電池壽命
+
+我們提供以下規格的自動更新訂閱：
+  - 訂閱期為1個月或12個月
+  - 確認購買時將通過iTunes帳戶支付
+  - 您的訂閱將會自動續訂,除非在本期結束前至少24小時關閉自動續訂
+  - 帳戶將在本期結束前24小時內收取續費費用,並確定續訂費用
+  - 會員訂閱可由您進行用戶管理,自動續訂可以在用戶帳戶設置關閉
+  - 在主動訂閱期間不允許取消當前訂閱
+  - 如果提供免費試用期的任何未使用部分,當用戶購買該出版物的訂閱時間,將被暫停。
+  - 我們的隱私政策和使用條款：https：//www.azumio.com/page/privacypolicy
+
+Azumio團隊祝您健康！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/38/13/2b/38132b3f-d242-85a9-5382-61ad2594b113/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/49/d7/b7/49d7b701-5453-73b8-40bd-f21b02628087/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/f7/91/c3/f791c3f4-10cd-ac32-6ead-e515b3f96187/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/3f/b1/b2/3fb1b25e-265f-f236-0d25-b4fe219fead2/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/9c/76/be/9c76be59-d746-4c94-4171-5ba1a918f681/pr_source.png/392x696bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[般若心灯]]></title>
+        <id>般若心灯-hk-1794765956525</id>
+        <link href="https://appstore-discounts.eyelly.me/hk/6760446039?lang=zh-CN"/>
+        <updated>2026-11-15T18:05:56.525Z</updated>
+        <summary type="html"><![CDATA[年度护持: HK$ 148.00 → HK$ 118.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/6760446039?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/d6/bb/85d6bb9c-0e8f-3455-fe37-806af7146121/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
+  <li>
+    <strong>年度护持：</strong><span>HK$ 148.00</span> → <b>
+  <strong>HK$ 118.00</strong>
+</b><span>[HK$ 22.00 ~ HK$ 148.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>免費</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    3-day Trial：<b>HK$ 0.00</b>
+  </li><li>
+    终身护持：<b>HK$ 118.00</b>
+  </li><li>
+    年度护持：<b>HK$ 118.00</b>
+  </li><li>
+    月度护持：<b>HK$ 8.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  般若心灯是一款佛教经典导读、念佛计数与佛乐聆听应用，帮助您随时随地诵读经文、聆听梵音、记录功课，在日常中安住身心、亲近佛法。
+
+    【经书收录】
+    收录心经、金刚经、普门品、药师经、普光明藏经、阿弥陀经、法华经、六祖坛经、楞严经、地藏经等经典，大悲咒、楞严咒、准提咒、百字明咒、往生咒、绿度母心咒等咒语真言，以及大忏悔文、回向文、课诵仪轨、药师经仪轨、地藏经
+  前仪等课诵内容，共二十四部经典与仪轨，持续更新中。
+
+    【课诵仪轨】
+    香赞、净口业与净三业真言、安土地真言、普供养真言、开经偈为前行，补阙真言、普回向真言、三皈依为结行，诵持任一经典皆可依用；另立药师专篇，收药师赞、药师偈与药师灌顶真言。
+
+    【逐字拼音】
+    每一个汉字上方都标注了准确的拼音，方便初学者正确诵读经文，不再因生僻字而困扰。
+
+    【白话文解释】
+    关键经文配有通俗易懂的白话文解释，轻触即可查看，帮助您深入理解经文含义。
+
+    【经文朗读】
+    部分经典内置音频朗读，支持进度拖动、0.25x 至 2.0x 变速播放，以及后台与锁屏播放；未配音的经典仍可使用逐字拼音安心诵读。
+
+    【歌词式阅读指示】
+    阅读经文时，屏幕中央显示虚线定位指示器与当前行号，当前行高亮、远处渐淡，方便随时找回诵读位置。
+
+    【佛乐聆听】
+    精选 34 首佛教音乐，涵盖大悲咒、密咒真言、凡歌咏法、一心念佛等八大分类，支持播放列表、上下曲切换、进度拖动与变速播放，后台锁屏亦可聆听。可设 10 至 90 分钟定时关闭或「播完本曲」，到点前音量渐渐淡出，不会突然静下
+  来。
+
+    【佛珠念佛】
+    轻触或沿珠串滑动即可拨珠计数，每颗都有木珠相碰的音效与触感反馈，108 颗圆满一圈。本次声数叠在佛珠环心，今日与本圈进度并列其下；长按佛珠可按本次、今日、累计分别归零。圣号可下拉切换或自行添加，拨珠音色可选佛珠或木
+  鱼，振动强度分轻、中、强三档。自动记录今日声数与念佛时长，可一键生成水墨风格卡片分享今日修持。
+
+    【自定义功课】
+    可新建功课，设定名称、圣号、总目标与目标天数，每天该念多少自动算出。念佛页显示目标进度、剩余声数与今日完成情况，每份功课可单独设定回向文，发愿时自动填入；达成每日目标或圆满总目标时给出提示。
+
+    【佛历】
+    二十七个佛菩萨圣诞与初一、十五集中一页，按农历月分组，农历与公历对照，只列当年剩余的日子。可开启提醒，于前一日傍晚收到通知，斋日提醒可单独开关。
+
+    【修行打卡】
+    每日打卡记录修行，日历视图直观展示诵经轨迹，连续天数激励您坚持修行。偶尔忘记打卡也无妨，支持补打最近数日的功课，连续天数自动接上。
+
+    【功德牌与足迹】
+    诵读、打卡、念佛皆可累积功德牌，涵盖单经精进、广学多闻、持之以恒、念佛功课与佛菩萨圣诞时节。轻触日历上的打卡点，可回看那一天诵读过哪些经书，并为当日功课写下心愿。
+
+    【发愿回向】
+    念佛之后可写下愿文与回向，一日多愿亦可分别留档。所有发愿按时间成串收在「发愿记录」中，可随时修改或删除，日后回看重温初心。
+
+    【修行回顾】
+    按年汇总修行天数、最长连续与常诵经典，生成水墨风格回顾卡片，可保存分享。
+
+    【iCloud 同步】
+    开启后，打卡记录、功德牌、诵经进度、自定义功课与圣号在您的各台设备间保持一致，无需额外费用。
+
+    【个性设置】
+    支持夜间模式，经文字号自由调节，打造舒适的阅读体验。
+
+    【收藏与进度】
+    收藏常读经书，自动记录阅读进度，每次打开都能继续上次的修行。
+
+    般若心灯，愿以智慧之光，照亮您的修行之路。
+
+    【随喜护持】
+    佛经、佛咒与仪轨全部免费诵读。念佛计数、佛乐聆听与离线下载、修行记录与打卡、自定义背景与佛像、经文听诵、自定义功课、年度回顾为护持功能，可选月度护持、年度护持（自动续订，可随时在 Apple ID 设置中取消）或终身护持（一次性购买）。付费下载时期已购买的用户自动视为终身护持。
+
+    使用条款（EULA）：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+    隐私政策：https://prajnalamp.com/privacy
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/52/fb/b252fb4e-10d5-bd8b-fab4-f5fa540ccf13/01_home.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/47/00/3e4700b1-97d5-c73e-f58b-861e9f36b144/02_detail.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/9b/23/289b2313-5457-fac9-6cbd-628515dbe8a4/04_calendar.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/86/96/92869621-8a61-d012-4887-e0c0f0c6fae9/09-v180-b.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/ce/70/20ce70f2-97b2-bd4f-2176-5f1c69f06c29/10-v180-c.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/1f/c3/891fc364-996d-bade-b2e0-04ff246e5212/08-v180-a.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/94/8d/5a948d0b-ff45-7c39-f7be-2d3cc56c2757/foyue_1284x2778.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/54/8c/a1548cf0-fa2a-897e-8d95-c554094f6b2a/02_detail.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/8e/c7/678ec746-49c6-8c79-31a5-8f1e2af00baf/03_chanting.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/3c/17/223c1714-7ba2-770e-1746-e46644c8724c/05-settings.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/19/65/f819659e-fa02-313a-3a2f-479bac6d53ca/07-expnation.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/61/8a/ef618aa6-c367-8433-7a43-7dd010fd42bd/01_home.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/0c/95/310c957a-5b39-fd7e-15bf-8c0f81e970df/04_calendar.png/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RPGViewer]]></title>
+        <id>RPGViewer-hk-1794765956525</id>
+        <link href="https://appstore-discounts.eyelly.me/hk/6479395335?lang=zh-CN"/>
+        <updated>2026-11-15T18:05:56.525Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 38.00 → HK$ 32.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/6479395335?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/f0/c8/aaf0c869-59c5-5fc1-e11c-b8f1dd4e0806/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 38.00</span> → <b>
+  <strong>HK$ 32.00</strong>
+</b><span>[HK$ 32.00 ~ HK$ 38.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 32.00</b>
+</p><h2>应用描述</h2><p>
+  RPGViewer 是一款用來執行你自己作品的播放器 —— 你自己的 RPG Maker 與 Flash 遊戲。它是從零開始重寫的原生 iOS App。
+
+遊戲由你帶來，RPGViewer 負責執行。
+
+一款 App，涵蓋你手上真正在用的引擎：
+
+• RPG Maker XP、VX 與 VX Ace —— 透過移植的 RGSS 原生引擎直接執行，不是模擬。原速執行，中間不隔瀏覽器。
+• RPG Maker MV 與 MZ —— 完整支援，包含 OGG 音訊，無需重新轉檔。
+• Flash（SWF）—— 透過 Ruffle 播放，包含那些從未被轉成 HTML5 的 Flash 遊戲。
+• HTML5 遊戲 —— 任何自帶內容的網頁，從 library 開啟即可。
+
+存檔依你預期的方式運作
+• 匯入既有存檔。把電腦上的 .rpgsave 或 .rmmzsave 放進去，它會出現在遊戲自己的瀏覽器存檔槽裡。
+• 直接讀取遊戲的瀏覽器存檔。同一 origin 下瀏覽器版產生的存檔會顯示在這裡，標題、遊戲時數、所在地點、隊伍與等級都會被正確解碼。
+• 匯出帶走。換裝置時把存檔一起帶走。
+• 每個遊戲獨立儲存。每個作品有自己的存檔、自己的連接埠與自己的設定 —— 不會互相干擾。
+
+為在手機上遊玩而做
+• 螢幕虛擬手把，鍵位可自訂。把任意實體或螢幕按鍵綁定到遊戲讀取的按鍵上。
+• 支援實體手把。接上手把即接管，螢幕手把會自動讓位。
+• 統一的功能選單。所有引擎都是同一個控制項、同一個位置，只有列數變化 —— 而且只顯示真正能用的功能。
+• 原生引擎遊戲支援快轉。
+• 支援橫向與直向，iPhone 與 iPad 皆可。
+
+僅限 RPG Maker MV 與 MZ
+• 選單內建作弊面板 —— 不離開遊戲即可調整數值、道具與隊伍成員。
+
+請注意
+• RPGViewer 只是播放器，不含任何遊戲，也無法下載遊戲。請確認你執行的專案來自正當管道。
+• 它是通用執行環境，不修改 RPG Maker 或 Flash 專案的原始碼，也不模擬它們。
+• Flash 播放由 Ruffle 提供。依賴伺服器端元件或需要網路服務的遊戲無法執行。
+
+為正在做 RPG Maker 遊戲的人而做：在上架前先在手機上試一遍，同時繼續玩你已有的那些遊戲。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/db/fc/f7dbfcd6-6128-8cf4-feb4-e883db550e7a/Apple_TV_U5907_U4efd_3@1x.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/f7/ba/01f7bab9-719c-9e4a-3541-b944544ff01b/Apple_TV_U5907_U4efd_3_2@1x.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/ef/dc/e6efdcd7-596c-b808-e96c-f5636f1cbb45/Apple_TV_U5907_U4efd_3_3@1x.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/5a/b5/145ab55c-43f2-d146-9953-a1a39da7e7ec/base-2_24-ipad-cn.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/31/77/0d3177e4-c1e2-ac46-0d9d-113d7b7980b3/play-2_18-ipad-cn.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/29/f8/a029f8f5-a787-c0c7-f2c0-7997f4d025ad/2_19-ipad-cn.png/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 學習計劃]]></title>
+        <id>Python 學習計劃-hk-1794765956525</id>
+        <link href="https://appstore-discounts.eyelly.me/hk/6744430250?lang=zh-CN"/>
+        <updated>2026-11-15T18:05:56.525Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 58.00 → HK$ 38.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/6744430250?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/9b/7a/899b7ad5-f764-9dcd-6e84-f57646d77b5b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 58.00</span> → <b>
+  <strong>HK$ 38.00</strong>
+</b><span>[免費 ~ HK$ 58.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 38.00</b>
+</p><h2>应用描述</h2><p>
+  AI 時代還要學程式設計嗎？事實是要，但已經不是過去的學習方式，怎麼說呢？以前的老前輩總是要學初學者先掌握一門程式語言，這裡所謂的掌握，拿 C 語言來舉例，就是要到能開發出 C 語言編譯器甚至到用 C 語言寫出作業系統，所以程式設計專科像是資訊工程系的課程就是這樣安排。
+
+換句話說，過去的觀念強調用背誦培養，不管學生懂不懂，反正學生不懂也是可以先背起來，很多前輩的求學歷程不外都是先背了一堆知識，等到了未來某一天見到了某個知識點，才總算觸類旁通，以前不懂的，才在突然懂了，也就是到了特定知識點才對程式設計開竅。
+
+先記住等到以後才弄懂的模式，坦白說是要在戰後快速培養人才，這樣記性好、學習效率高，也就是遴選出智商高的人才，問題是記性不等於悟性，所以記住是記住，卻不等於理解到懂的程度。
+
+這就導致一種很詭異的現象，智商高的人記住了但是不懂，結果就是一直耍小聰明，賣弄他記住的知識，卻難以真正做創造或發明的工作，其實現在的 AI 幾乎可以說是就是智商極高的智能體， AI 可以依據提示詞做推論，但也僅只於推論而已，正確與否或是否符合需求則需要由另一套機制驗證。
+
+所以 AI 強在可以跟你講知識，依據你輸入的文字推論你想要的結果，但目前的 AI 無法體察你言語間細微的變化，也無法分辨你言語的意思是否是 AI 能夠理解的意思，換句話說沒辦法察言觀色，也就是 AI 理解不了你懂或是不懂，或是你的理解與 AI 的理解是否相同，結果是你讓智商高的 AI 一直賣弄小聰明，向你堆知識，瞬間給你座圖書館，這就引出真正的難題，你不懂就不會用，你能做的頂多是跟 AI 一樣，依樣畫葫蘆，如果你不想畫一樣的葫蘆，你還是得懂。
+
+正因為是弄懂了才會用，從另一種角度來講，懂了才知道要去記什麼，從而長出記性，多年的教學經驗給我的感受是讓多數學習程式設計的人，恍然大悟的知識點是弄懂產品的概念，換言之，從前是先學什麼是程式，從程式慢慢擴張到軟體，再從軟體的角度去學開發產品，這時候軟體規格到整個軟體的架構才出來，然後才懂得程式只是零件，所以說到頭，軟體開發是有了基本的邏輯概念後，去寫構成零件的程式，然後才能去組合零件到產品。
+
+所以本 App 的設計理念反其道而行，從產品的角度出發，總共分成四個部份
+
+基礎學習篇
+軟體開發篇
+GUI 篇
+Brython 篇
+「基礎學習篇」著重帶領學習者寫 Python 的小程式，藉此熟悉 Python 的語法，目的不是為了精通 Python 程式語言，而是為了「軟體開發篇」做準備。「軟體開發篇」從軟體規格出發，重點是繼續帶領學習者進一步開發能把英文句子編密碼的 Encrypt 類別。 Encrypt 類別作為「GUI 篇」的計算核心，繼續帶領學習者用 Tk 製作「編密碼小工具」的 GUI 視窗軟體。
+
+-geany-
+「Brython 篇」則是藉由第三方程式庫 Brython ，繼續把「邊密碼小工具」移植到網頁上。換言之，「編密碼小工具」就是本 App 依教學需求所開發的產品，這是一個宏觀的角度，先理解軟體的架構，再回推需要補強學習之處，畢竟現在電腦早已不再是先寫編譯器才能讓程式運作，也就是說，目的是讓學習者能先弄懂軟體開發是怎麼一回事，懂了軟體開發，往後再由其他管道，例如 AI 補強語法細節。
+
+現階段 AI 還是一個提示詞給一組回應，當然也可以用如 agent 排程去做，講到提示詞就跟過去指令一樣，換句話說還沒走出自動化程式那一套， Python 就是適合在系統中寫自動化程式工作的程式語言。
+
+有沒有發現一件事情，現在的 AI 是利用自然語言將工作自動化，但是維護能做自動化工作的 agent ，還是需要程式設計師，相對是要求經驗更豐富程式設計師，因此想要當程式設計師，就需要不斷的強化程式設計能力，如果能先弄懂軟體開發是什麼一回事，再來的程式語言的語法細節到電腦底層邏輯，本來很枯燥要死背的東西，一下子就變成有趣了起來。
+
+有趣，學習才有意義，不是嗎？況且要自己手動寫出能跑得程式碼才有成就感，如果像前些日子從網路抄程式碼到現在跟 AI 要程式碼，那其實都不太會產生成就的快感，而且可能需要一直懊惱的除錯，說到這裡，無論網路或 AI 都是寶劍，你手持寶劍是要斬妖除魔，但如果你被寶劍反制控制住你的心靈，寶劍就無法成為你自身力量的延伸，那還不如棄之不用。
+
+最後感謝購買本 App ，但由於每個人的基礎不同，希望本 App 設計的教學方式能對學習程式設計有所幫助。懂不是一件容易的事，但是總是要懂了才知道要怎麼做，做了才會有真正的幫助。
+
+張凱慶 2026/05/13
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/f5/e1/e6f5e185-fac4-cbc5-120f-412c89ee5747/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-30_at_15.07.03.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/c4/81/e4c48176-729d-ab10-c9e1-c98e51d2d1fc/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-30_at_15.08.13.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/8b/63/1b8b6375-d8ba-1f83-b60d-49c6f9cd5f18/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-30_at_15.08.08.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/06/56/c006566d-97a0-7838-bfa8-d752d6467d0a/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-30_at_15.07.58.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/cb/f1/b6cbf1f5-d0fa-d919-7405-100ed4a2dc12/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-30_at_15.08.17.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/41/30/654130d4-3e5a-05d4-7f51-74d2374e4ec6/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-30_at_15.07.18.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/bb/d6/19bbd6cc-d210-a0d9-4e10-5617933e84d6/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-30_at_15.07.28.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/e2/1d/15e21daf-b8a6-af2a-208f-128875873731/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-30_at_15.07.23.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/6e/4d/996e4d9d-c449-1c2b-1e43-b312190c5c56/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-26_at_12.59.16.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/f5/73/1bf573f5-36c2-cf55-969c-db00380a2e2b/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-26_at_12.59.29.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/d4/8a/12d48ac2-56d7-d272-cfb8-73e8e7b5c49b/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-26_at_12.57.45.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/e4/7e/4ee47e69-dbbf-4f17-85b3-c9db8358588b/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-26_at_12.58.12.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/e7/ed/76e7ed85-f47b-bcf5-e67b-e256c29db0d4/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-26_at_12.58.57.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/46/d8/bc46d8e0-5b2e-ff8f-2c65-649be4d4755b/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-26_at_12.58.39.png/360x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Eco Inc. 拯救地球]]></title>

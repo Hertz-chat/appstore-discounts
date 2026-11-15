@@ -2,6 +2,13 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6822746934,
+      "name": {
+        "tw": "無名餘燼：刻印之旅"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 392746207,
       "name": {
         "mo": "Sporløs: Private Browser"

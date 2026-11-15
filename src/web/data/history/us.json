@@ -76548,6 +76548,25 @@
     "history": [
       [
         {
+          "timestamp": 1794702517300,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "5000 Coins": "$1.99",
+            "14000 Coins": "$4.99",
+            "30000 Coins": "$9.99",
+            "82000 Coins": "$24.99",
+            "180000 Coins": "$49.99",
+            "450000 Coins": "$99.99",
+            "220 Diamonds": "$1.99",
+            "580 Diamonds": "$4.99",
+            "1210 Diamonds": "$9.99",
+            "3200 Diamonds": "$24.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790567609577,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -145853,6 +145872,22 @@
     "history": [
       [
         {
+          "timestamp": 1794702517300,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Pile of Gems": "$2.99",
+            "Casket of Gems": "$9.99",
+            "Pile of Coins": "$0.99",
+            "Bag of Coins": "$4.99",
+            "Bag of Gems": "$19.99",
+            "SF2SEPack3": "$2.99",
+            "Chest of Coins": "$19.99",
+            "SF2SEPack10": "$9.99",
+            "Chest of Gems": "$49.99"
+          }
+        },
+        {
           "timestamp": 1794684796272,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -147425,14 +147460,22 @@
     "trackName": "饥荒语音助手",
     "region": "us",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794702517300,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746144557554,
@@ -288721,6 +288764,25 @@
     "history": [
       [
         {
+          "timestamp": 1794702517300,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Moonlight and Lanterns": "$1.19",
+            "Crimson Walk": "$1.79",
+            "Wagashi Whispers": "$1.19",
+            "Fireworks display": "$1.79",
+            "Halloween Party": "$1.79",
+            "Summer holiday": "$1.19",
+            "Sunset beach": "$1.19",
+            "Sunflower farm": "$1.19",
+            "Melodies of Fall": "$1.19",
+            "New Year's Sunrise": "$1.79"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794458321964,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -312772,6 +312834,25 @@
       "CRJ900": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794702517300,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Global scenery - 3 months": "$7.99",
+            "Boeing 777-300ER": "$1.99",
+            "Airbus A380": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Concorde": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Airbus A350-1000": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794194439896,
@@ -355230,6 +355311,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794702517300,
+          "price": 1.69,
+          "formattedPrice": "$1.69",
+          "inAppPurchases": {
+            "PadLab Full App": "$4.59",
+            "StageLab": "$3.69",
+            "Pad Mix Pro": "$1.99",
+            "Pad Pulse Pro": "$1.99",
+            "Sequencer Pro": "$2.99",
+            "Arp Pro": "$1.99",
+            "Live Loops": "$5.99",
+            "Worship Pad": "$0.99",
+            "PadLab Worship Complete": "$6.99",
+            "Worship Drum Collection": "$3.99"
+          }
+        },
         {
           "timestamp": 1794684796272,
           "price": 1.69,

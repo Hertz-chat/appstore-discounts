@@ -102908,14 +102908,22 @@
     "trackName": "SurviKit",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794702517300,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746144557554,
@@ -155645,6 +155653,25 @@
       "Jack character": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794702517300,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Founders Pack": "USD 0.99",
+            "Marco character": "USD 0.99",
+            "Manuel character": "USD 0.99",
+            "Stephan character": "USD 0.99",
+            "Jack character": "USD 0.99",
+            "Elsa character": "USD 0.99",
+            "Lisa character": "USD 0.00",
+            "James character": "USD 0.99",
+            "Yellow menu color": "USD 0.99",
+            "Red menu color": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1775999818738,

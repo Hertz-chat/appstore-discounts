@@ -132490,14 +132490,22 @@
   "1269488509": {
     "name": "饥荒语音助手",
     "maxPriceInfo": {
-      "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
       "price": 39.99,
       "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794702517300,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -211354,6 +211362,14 @@
       "formattedPrice": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794702517300,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793927683912,
@@ -301778,7 +301794,8 @@
       "ALL HEROES BUNDLE_B": "₺1.299,99",
       "Gems Pouch": "₺249,99",
       "Gems Barrel": "₺499,99",
-      "Hero Malik": "₺249,99"
+      "Hero Malik": "₺249,99",
+      "Spell Shop": "₺149,99"
     },
     "minPriceInfo": {
       "SHOWCASE OFFER 07": "₺249,99",
@@ -301814,9 +301831,29 @@
       "ALL HEROES BUNDLE_B": "₺1.299,99",
       "Gems Pouch": "₺249,99",
       "Gems Barrel": "₺499,99",
-      "Hero Malik": "₺249,99"
+      "Hero Malik": "₺249,99",
+      "Spell Shop": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794702517300,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tower Alchemist": "₺149,99",
+            "Hero Oni": "₺249,99",
+            "Spell Shop": "₺149,99",
+            "Hero Ashbite": "₺399,99",
+            "Hero Drakkan": "₺399,99",
+            "Hero Malik": "₺249,99",
+            "Tower Forger": "₺249,99",
+            "Hero Ignus": "₺149,99",
+            "ALL HEROES BUNDLE": "₺1.299,99",
+            "Tower Ironbark": "₺399,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794628227571,

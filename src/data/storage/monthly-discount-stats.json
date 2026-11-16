@@ -201,10 +201,11 @@
       "inAppPurchase": {}
     },
     "443646748": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "Premium": 1
+        "Premium": 1,
+        "Fitness Buddy Premium": 1
       }
     },
     "469343554": {
@@ -391,6 +392,11 @@
       "inAppPurchase": {
         "Filtr": 1
       }
+    },
+    "1664728315": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     },
     "6824686276": {
       "all": 2,
@@ -725,6 +731,11 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1664728315": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "6824686276": {
       "all": 2,
       "price": 2,
@@ -1053,6 +1064,11 @@
       "inAppPurchase": {}
     },
     "1642733080": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "1664728315": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -1403,6 +1419,11 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1664728315": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "6824686276": {
       "all": 2,
       "price": 2,
@@ -1725,6 +1746,11 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1664728315": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "6824686276": {
       "all": 2,
       "price": 2,
@@ -1881,6 +1907,28 @@
       }
     },
     "6479395335": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6827745244": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6760446039": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "年度护持": 1
+      }
+    },
+    "6670599313": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6744430250": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -2095,6 +2143,11 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1664728315": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "6824686276": {
       "all": 2,
       "price": 2,
@@ -2242,6 +2295,18 @@
       "inAppPurchase": {}
     },
     "6479395335": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6760446039": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "年度护持": 1
+      }
+    },
+    "6744430250": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}

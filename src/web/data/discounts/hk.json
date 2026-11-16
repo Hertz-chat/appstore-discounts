@@ -1,23 +1,23 @@
 [
   {
-    "trackId": 443646748,
+    "trackId": 1664728315,
     "region": "hk",
-    "timestamp": 1794765956525,
+    "timestamp": 1794789016716,
     "discounts": [
       {
-        "type": "inAppPurchase",
-        "name": "Premium",
-        "from": "HK$ 153.00",
-        "to": "HK$ 78.00",
-        "range": "[HK$ 78.00 ~ HK$ 388.00]"
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 38.00",
+        "to": "HK$ 32.00",
+        "range": "[HK$ 32.00 ~ HK$ 38.00]"
       }
     ],
     "price": 32,
     "formattedPrice": "HK$ 32.00",
     "currency": "HKD",
-    "trackViewUrl": "https://apps.apple.com/hk/app/id443646748",
-    "trackName": "健身夥伴+：健身房鍛煉",
-    "firstRecordedAt": 1788900351663
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1664728315",
+    "trackName": "Mutropolis mobile",
+    "firstRecordedAt": 1754269969797
   },
   {
     "trackId": 6744430250,

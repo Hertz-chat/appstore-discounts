@@ -66756,6 +66756,23 @@
     "history": [
       [
         {
+          "timestamp": 1794789016716,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Ultra Punch 30": "USD 4.99",
+            "Ultra Punch 5": "USD 0.99",
+            "Magnetic Stars 60": "USD 4.99",
+            "Ultra Punch Unlimited": "USD 19.99",
+            "Ultra Punch 10": "USD 1.99",
+            "Magnetic Stars Unlimited": "USD 14.99",
+            "Magnetic Stars 20": "USD 1.99",
+            "Magnetic Stars 10": "USD 0.99",
+            "Unlock Rollman Coin": "USD 1.99",
+            "Unlock Rollf Coin": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1794765956525,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -177302,6 +177319,14 @@
     "history": [
       [
         {
+          "timestamp": 1794789016716,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1792425460361,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -222704,6 +222729,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794789016716,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794541901399,

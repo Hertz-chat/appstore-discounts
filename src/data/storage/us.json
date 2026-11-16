@@ -23259,6 +23259,14 @@
     "history": [
       [
         {
+          "timestamp": 1794824240122,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790248252162,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -66311,6 +66319,25 @@
     "history": [
       [
         {
+          "timestamp": 1794824240122,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2013 Enhanced Diagnostics": "$14.99",
+            "Toyota 2015 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2016 Enhanced Diagnostics": "$14.99",
+            "Toyota 2017 Enhanced Diagnostics": "$14.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794789016716,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -71355,6 +71382,25 @@
       "Racing Prodigy X30 Kart Miami": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794824240122,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Race Pass": "$4.99",
+            "700 Aces": "$9.99",
+            "300 Aces": "$5.99",
+            "5000 Aces": "$39.99",
+            "300 Aces Limited Time Offer": "$0.99",
+            "15000 Aces": "$99.99",
+            "700 Aces Limited Time Offer": "$4.99",
+            "Racing Prodigy X30 Kart Miami": "$14.99",
+            "Figo 100 Octane Fuel Pack - 20": "$3.99",
+            "Racing Prodigy 50 Quali Tyres": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794318757010,
@@ -104286,6 +104332,14 @@
     "history": [
       [
         {
+          "timestamp": 1794824240122,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790248252162,
           "price": 15.99,
           "formattedPrice": "$15.99",
@@ -105703,6 +105757,14 @@
       "formattedPrice": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794824240122,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,
@@ -153467,6 +153529,25 @@
     "history": [
       [
         {
+          "timestamp": 1794824240122,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$5.99",
+            "Black Cam Film Pack": "$0.99",
+            "Retro Frame Pack": "$0.99",
+            "Color Frame Pack": "$0.99",
+            "Blue Cam Film Pack": "$0.99",
+            "Stroke Frame Pack": "$0.99",
+            "Purple Cam Film Pack": "$0.99",
+            "Green Cam Film Pack": "$0.99",
+            "Stamp Frame Pack": "$0.99",
+            "Red Cam Film Pack": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794576729054,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -155935,6 +156016,14 @@
       "formattedPrice": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794824240122,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,
@@ -205345,6 +205434,14 @@
     "history": [
       [
         {
+          "timestamp": 1794824240122,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790248252162,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -205428,6 +205525,14 @@
       "formattedPrice": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794824240122,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,
@@ -205553,6 +205658,14 @@
       "formattedPrice": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794824240122,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,
@@ -209147,6 +209260,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794824240122,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794684796272,
@@ -237836,6 +237957,14 @@
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794824240122,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794458321964,
@@ -306442,8 +306571,8 @@
   "6469419567": {
     "name": "Overwinter Survival",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99",
+      "price": 1.99,
+      "formattedPrice": "$1.99",
       "Elite Pack": "$7.99",
       "Standard Pack": "$1.99",
       "Premium Pack": "$4.99",
@@ -306458,6 +306587,19 @@
       "Advanced Pack": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794824240122,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Elite Pack": "$4.99",
+            "Standard Pack": "$0.99",
+            "Premium Pack": "$3.99",
+            "Advanced Pack": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791114629972,
@@ -332346,6 +332488,14 @@
     "history": [
       [
         {
+          "timestamp": 1794824240122,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794519490990,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -347327,6 +347477,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794824240122,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787838577561,
@@ -365632,6 +365790,18 @@
     "history": [
       [
         {
+          "timestamp": 1794824240122,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "Koro Unlocked!": "$1.99",
+            "Akane Unlocked!": "$1.99",
+            "Unlocked! “Akane” & “Koro”": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793959313216,
           "price": 5.99,
           "formattedPrice": "$5.99",
@@ -365719,6 +365889,19 @@
       "3-day Trial": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794824240122,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "3-day Trial": "$0.00",
+            "终身护持": "$19.99",
+            "年度护持": "$14.99",
+            "月度护持": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794765956525,
@@ -366946,6 +367129,25 @@
       "Hero Ignus Sale": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794824240122,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "ALL HEROES BUNDLE": "$24.99",
+            "Tower Sniper": "$5.99",
+            "Gems Handful": "$2.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Tower Wildcat": "$4.99",
+            "Hero Ignus": "$2.99",
+            "ALL SPELLS BUNDLE": "$12.99",
+            "Tower Alchemist": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794492446451,
@@ -370344,6 +370546,27 @@
           "timestamp": 1794765956525,
           "price": 4.99,
           "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6756707224": {
+    "name": "Urban Myth Dissolution Center",
+    "maxPriceInfo": {
+      "price": 17.99,
+      "formattedPrice": "$17.99"
+    },
+    "minPriceInfo": {
+      "price": 17.99,
+      "formattedPrice": "$17.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794824240122,
+          "price": 17.99,
+          "formattedPrice": "$17.99",
           "inAppPurchases": {}
         }
       ]

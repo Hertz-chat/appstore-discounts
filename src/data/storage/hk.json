@@ -19435,6 +19435,14 @@
     "history": [
       [
         {
+          "timestamp": 1794824240122,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790248252162,
           "price": 118,
           "formattedPrice": "HK$ 118.00",
@@ -90680,6 +90688,14 @@
     "history": [
       [
         {
+          "timestamp": 1794824240122,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790248252162,
           "price": 128,
           "formattedPrice": "HK$ 128.00",
@@ -91925,6 +91941,14 @@
       "formattedPrice": "HK$ 48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794824240122,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,
@@ -138326,6 +138350,14 @@
     "history": [
       [
         {
+          "timestamp": 1794824240122,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790248252162,
           "price": 168,
           "formattedPrice": "HK$ 168.00",
@@ -180494,6 +180526,25 @@
     "history": [
       [
         {
+          "timestamp": 1794824240122,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "The Complete Collection": "HK$ 288.00",
+            "Snowdrop Valley": "HK$ 118.00",
+            "Snowdrop Valley Board": "HK$ 58.00",
+            "Explorer Pack": "HK$ 88.00",
+            "Snowdrop Valley Token Bundle": "HK$ 88.00",
+            "Reindeer": "HK$ 22.00",
+            "Snowman": "HK$ 22.00",
+            "Snowmobile Token": "HK$ 22.00",
+            "Tree Token": "HK$ 22.00",
+            "1935 Atlantic City Board": "HK$ 58.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794659876852,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -188668,6 +188719,14 @@
     "history": [
       [
         {
+          "timestamp": 1794824240122,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790248252162,
           "price": 118,
           "formattedPrice": "HK$ 118.00",
@@ -188751,6 +188810,14 @@
       "formattedPrice": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794824240122,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,
@@ -188876,6 +188943,14 @@
       "formattedPrice": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794824240122,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,
@@ -190953,6 +191028,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794824240122,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794684796272,
@@ -243501,6 +243584,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794824240122,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "自創武將": "HK$ 22.00",
+            "戰國七雄": "HK$ 48.00",
+            "群雄爭霸": "HK$ 22.00",
+            "自創武將朝代特色兵種補丁": "HK$ 58.00",
+            "楚漢爭霸": "HK$ 48.00",
+            "無雙戰神": "HK$ 48.00",
+            "鎮海神威": "HK$ 22.00",
+            "自創地圖": "HK$ 32.00",
+            "巾幗綻芳華": "HK$ 32.00",
+            "斜谷殘陽": "HK$ 48.00"
+          }
+        },
         {
           "timestamp": 1794765956525,
           "price": 48,
@@ -310488,6 +310588,18 @@
     "history": [
       [
         {
+          "timestamp": 1794824240122,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "Koro已解鎖！": "HK$ 18.00",
+            "Akane已解鎖！": "HK$ 18.00",
+            "「Akane」與「Koro」已解鎖！": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793905807227,
           "price": 48,
           "formattedPrice": "HK$ 48.00",
@@ -315641,6 +315753,27 @@
           "timestamp": 1794765956525,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6756707224": {
+    "name": "都市傳說解體中心",
+    "maxPriceInfo": {
+      "price": 113,
+      "formattedPrice": "HK$ 113.00"
+    },
+    "minPriceInfo": {
+      "price": 113,
+      "formattedPrice": "HK$ 113.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794824240122,
+          "price": 113,
+          "formattedPrice": "HK$ 113.00",
           "inAppPurchases": {}
         }
       ]

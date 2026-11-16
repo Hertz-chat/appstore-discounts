@@ -15266,6 +15266,14 @@
     "history": [
       [
         {
+          "timestamp": 1794824240122,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790248252162,
           "price": 14.99,
           "formattedPrice": "USD 14.99",
@@ -74913,6 +74921,14 @@
     "history": [
       [
         {
+          "timestamp": 1794824240122,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790248252162,
           "price": 15.99,
           "formattedPrice": "USD 15.99",
@@ -75688,6 +75704,14 @@
       "formattedPrice": "USD 5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794824240122,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,
@@ -109594,6 +109618,14 @@
     "history": [
       [
         {
+          "timestamp": 1794824240122,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790248252162,
           "price": 20.99,
           "formattedPrice": "USD 20.99",
@@ -140619,6 +140651,14 @@
     "history": [
       [
         {
+          "timestamp": 1794824240122,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790248252162,
           "price": 14.99,
           "formattedPrice": "USD 14.99",
@@ -140704,6 +140744,14 @@
       "formattedPrice": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794824240122,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,
@@ -140831,6 +140879,14 @@
       "formattedPrice": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794824240122,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790248252162,
@@ -142539,6 +142595,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794824240122,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794684796272,
@@ -221873,6 +221937,18 @@
     "history": [
       [
         {
+          "timestamp": 1794824240122,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "Koro已解鎖！": "USD 1.99",
+            "Akane已解鎖！": "USD 1.99",
+            "「Akane」與「Koro」已解鎖！": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793905807227,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
@@ -226010,6 +226086,29 @@
           "timestamp": 1794765956525,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6756707224": {
+    "trackId": 6756707224,
+    "trackName": "都市傳說解體中心",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 17.99,
+      "formattedPrice": "USD 17.99"
+    },
+    "minPriceInfo": {
+      "price": 17.99,
+      "formattedPrice": "USD 17.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794824240122,
+          "price": 17.99,
+          "formattedPrice": "USD 17.99",
           "inAppPurchases": {}
         }
       ]

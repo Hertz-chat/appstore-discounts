@@ -2,6 +2,13 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6756707224,
+      "name": {
+        "mo": "都市傳說解體中心"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 6822746934,
       "name": {
         "tw": "無名餘燼：刻印之旅"

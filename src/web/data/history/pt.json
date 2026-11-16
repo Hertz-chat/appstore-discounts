@@ -29002,6 +29002,29 @@
       ]
     ]
   },
+  "550067264": {
+    "trackId": 550067264,
+    "trackName": "Cafeteria Nipponica",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "550101894": {
     "trackId": 550101894,
     "trackName": "高吉占星专业版 - 流年运势运程全解析",
@@ -153736,6 +153759,14 @@
     "history": [
       [
         {
+          "timestamp": 1794864083254,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794267500104,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -159457,14 +159488,22 @@
     "trackName": "Enchanted Survival: RPG Loot",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794267500104,
@@ -160992,6 +161031,14 @@
     "history": [
       [
         {
+          "timestamp": 1794864083254,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794433436114,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -161036,14 +161083,22 @@
     "trackName": "Pixel Miner: Jogo de Cavar",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794234717577,

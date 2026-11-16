@@ -41335,6 +41335,29 @@
       ]
     ]
   },
+  "550067264": {
+    "trackId": 550067264,
+    "trackName": "客滿餐廳物語",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "550101894": {
     "trackId": 550101894,
     "trackName": "高吉占星 專業版Pro 星座占卜大師",
@@ -159708,6 +159731,14 @@
     "history": [
       [
         {
+          "timestamp": 1794864083254,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -166830,6 +166861,14 @@
     "history": [
       [
         {
+          "timestamp": 1794864083254,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -167641,6 +167680,14 @@
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791397748865,
@@ -169493,6 +169540,14 @@
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 4.49,
+          "formattedPrice": "USD 4.49",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794492446451,
@@ -197257,10 +197312,18 @@
       "formattedPrice": "USD 7.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790094096914,
@@ -205147,6 +205210,18 @@
       "DLC - The Tournament": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 3.49,
+          "formattedPrice": "USD 3.49",
+          "inAppPurchases": {
+            "DLC - Land of the Eclipse": "USD 1.99",
+            "DLC - The Ember Saga": "USD 1.99",
+            "DLC - The Tournament": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791397748865,
@@ -218369,6 +218444,14 @@
     "history": [
       [
         {
+          "timestamp": 1794864083254,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794267500104,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -224079,14 +224162,22 @@
     "trackName": "Enchanted Survival: 刷寶RPG",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794267500104,
@@ -225749,6 +225840,14 @@
     "history": [
       [
         {
+          "timestamp": 1794864083254,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794433436114,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -225793,14 +225892,22 @@
     "trackName": "Pixel Miner：悠閒挖礦遊戲",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794234717577,
@@ -225908,14 +226015,22 @@
     "trackName": "Warhammer Survivors",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 7.19,
-      "formattedPrice": "USD 7.19"
+      "price": 7.99,
+      "formattedPrice": "USD 7.99"
     },
     "minPriceInfo": {
       "price": 7.19,
       "formattedPrice": "USD 7.19"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794344679438,
@@ -226109,6 +226224,29 @@
           "timestamp": 1794824240122,
           "price": 17.99,
           "formattedPrice": "USD 17.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6832405958": {
+    "trackId": 6832405958,
+    "trackName": "指尖樂器－腕上演奏",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
         }
       ]

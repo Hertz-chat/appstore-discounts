@@ -49583,6 +49583,27 @@
       ]
     ]
   },
+  "550067264": {
+    "name": "客滿餐廳物語",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "550101894": {
     "name": "高吉占星 專業版Pro 星座占卜大師",
     "maxPriceInfo": {
@@ -180526,6 +180547,25 @@
     "history": [
       [
         {
+          "timestamp": 1794864083254,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "The Ultimate Edition Welcome Offer": "HK$ 188.00",
+            "Welcome Offer": "HK$ 148.00",
+            "City Break": "HK$ 22.00",
+            "Kaiju": "HK$ 28.00",
+            "Speed Die": "HK$ 118.00",
+            "The Ultimate Edition Sale": "HK$ 188.00",
+            "Diamond Bundle": "HK$ 98.00",
+            "Theme Collection": "HK$ 148.00",
+            "Explorer Pack": "HK$ 88.00",
+            "Mega Bundle": "HK$ 148.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794824240122,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -214018,6 +214058,14 @@
     "history": [
       [
         {
+          "timestamp": 1794864083254,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -221282,6 +221330,14 @@
     "history": [
       [
         {
+          "timestamp": 1794864083254,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -222058,6 +222114,14 @@
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791397748865,
@@ -224266,6 +224330,14 @@
       "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794492446451,
@@ -281032,10 +281104,18 @@
       "formattedPrice": "HK$ 58.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790094096914,
@@ -293538,6 +293618,18 @@
       "DLC - Land of the Eclipse": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 28,
+          "formattedPrice": "HK$ 28.00",
+          "inAppPurchases": {
+            "DLC - The Tournament": "HK$ 18.00",
+            "DLC - The Ember Saga": "HK$ 18.00",
+            "DLC - Land of the Eclipse": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791397748865,
@@ -307207,6 +307299,14 @@
     "history": [
       [
         {
+          "timestamp": 1794864083254,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794267500104,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -313860,14 +313960,22 @@
   "6812927976": {
     "name": "Enchanted Survival: 刷寶RPG",
     "maxPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794267500104,
@@ -315444,6 +315552,14 @@
     "history": [
       [
         {
+          "timestamp": 1794864083254,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794433436114,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -315484,14 +315600,22 @@
   "6814254443": {
     "name": "Pixel Miner：悠閒挖礦遊戲",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794234717577,
@@ -315774,6 +315898,27 @@
           "timestamp": 1794824240122,
           "price": 113,
           "formattedPrice": "HK$ 113.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6832405958": {
+    "name": "指尖樂器－腕上演奏",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
           "inAppPurchases": {}
         }
       ]

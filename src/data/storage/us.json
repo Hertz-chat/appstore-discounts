@@ -53789,6 +53789,27 @@
       ]
     ]
   },
+  "550067264": {
+    "name": "Cafeteria Nipponica",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "550101894": {
     "name": "高吉占星专业版 - 流年运势运程全解析",
     "maxPriceInfo": {
@@ -360268,6 +360289,25 @@
     "history": [
       [
         {
+          "timestamp": 1794864083254,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Pro Mensal": "$1.99",
+            "Elite Annual": "$7.99",
+            "SENSI iPhone 15 a 17 Pro Max": "$1.99",
+            "1 Token Coach IA": "$0.99",
+            "SENSI RANKED iPhone 15 a 17 Pro Max": "$1.99",
+            "Clone de Sensi": "$0.99",
+            "Clone Sensi – 3 Clonagens": "$1.99",
+            "3 Tokens Coach IA": "$1.99",
+            "10 Tokens Coach IA": "$4.99",
+            "SENSI RANKED iPhone 13 a 14 Pro Max": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794131413359,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -362291,6 +362331,14 @@
       "20 fuel to storage": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794267500104,
@@ -367131,6 +367179,23 @@
     "history": [
       [
         {
+          "timestamp": 1794864083254,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "ALL HEROES BUNDLE": "$24.99",
+            "Tower Sniper": "$5.99",
+            "Gems Handful": "$2.99",
+            "Tower Wildcat": "$4.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Hero Oni": "$4.99",
+            "Hero Ignus": "$2.99",
+            "Tower Alchemist": "$2.99"
+          }
+        },
+        {
           "timestamp": 1794824240122,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -368700,14 +368765,22 @@
   "6812927976": {
     "name": "Enchanted Survival: Magic RPG",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 3.99,
+      "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794267500104,
@@ -370237,6 +370310,14 @@
     "history": [
       [
         {
+          "timestamp": 1794864083254,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794433436114,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -370277,14 +370358,22 @@
   "6814254443": {
     "name": "Pixel Miner: Cozy Digging Game",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 4.99,
+      "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794234717577,
@@ -370567,6 +370656,27 @@
           "timestamp": 1794824240122,
           "price": 17.99,
           "formattedPrice": "$17.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6832405958": {
+    "name": "Fingertip Instruments",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
           "inAppPurchases": {}
         }
       ]

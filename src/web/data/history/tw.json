@@ -52796,6 +52796,29 @@
       ]
     ]
   },
+  "550067264": {
+    "trackId": 550067264,
+    "trackName": "客滿餐廳物語",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "550101894": {
     "trackId": 550101894,
     "trackName": "高吉占星 專業版Pro 星座占卜大師",
@@ -142258,6 +142281,25 @@
     "history": [
       [
         {
+          "timestamp": 1794864083254,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Crop": "$0.00",
+            "Splice": "$0.00",
+            "Sticker": "$0.00",
+            "Collage": "$30.00",
+            "Border": "$30.00",
+            "Magnifier": "$0.00",
+            "Rate": "$0.00",
+            "Paint": "$0.00",
+            "Distortion": "$0.00",
+            "Rotate": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794824240122,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -143760,6 +143802,22 @@
       "Chairman's Payment": "$220.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Game Editor": "$220.00",
+            "Bundle": "$150.00",
+            "Chairman's Payment": "$220.00",
+            "Investment": "$60.00",
+            "Large Investment": "$90.00",
+            "Very Large Investment": "$120.00",
+            "Huge Investment": "$190.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1774942748833,
@@ -193378,6 +193436,25 @@
     "history": [
       [
         {
+          "timestamp": 1794864083254,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Zenith Islands DLC": "$89.00",
+            "Prime Dimension DLC": "$125.00",
+            "Master Package": "$355.00",
+            "Prime Gemma 1200": "$180.00",
+            "Tamer Kit": "$19.00",
+            "Starter Package": "$89.00",
+            "Prime Gemma 2500": "$355.00",
+            "Prime gemma 100": "$19.00",
+            "Hunter Package": "$180.00",
+            "Prime Gemma 5000": "$710.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794824240122,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -215281,6 +215358,14 @@
     "history": [
       [
         {
+          "timestamp": 1794864083254,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -222648,6 +222733,14 @@
     "history": [
       [
         {
+          "timestamp": 1794864083254,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -223443,6 +223536,14 @@
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1791397748865,
@@ -225837,6 +225938,14 @@
       "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790094096914,
@@ -294497,10 +294606,18 @@
       "formattedPrice": "$290.00"
     },
     "minPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00"
+      "price": 30,
+      "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790094096914,
@@ -310206,6 +310323,18 @@
     "history": [
       [
         {
+          "timestamp": 1794864083254,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "DLC - The Tournament": "$60.00",
+            "DLC - The Ember Saga": "$60.00",
+            "DLC - Land of the Eclipse": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791397748865,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -325186,6 +325315,14 @@
     "history": [
       [
         {
+          "timestamp": 1794864083254,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794267500104,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -331737,14 +331874,22 @@
     "trackName": "Enchanted Survival: 刷寶RPG",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00"
+      "price": 120,
+      "formattedPrice": "$120.00"
     },
     "minPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794267500104,
@@ -333439,6 +333584,14 @@
     "history": [
       [
         {
+          "timestamp": 1794864083254,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1794433436114,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -333606,14 +333759,22 @@
     "trackName": "Warhammer Survivors",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 250,
-      "formattedPrice": "$250.00"
+      "price": 290,
+      "formattedPrice": "$290.00"
     },
     "minPriceInfo": {
       "price": 250,
       "formattedPrice": "$250.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794344679438,
@@ -333807,6 +333968,29 @@
           "timestamp": 1794824240122,
           "price": 299,
           "formattedPrice": "$299.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6832405958": {
+    "trackId": 6832405958,
+    "trackName": "指尖樂器－腕上演奏",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794864083254,
+          "price": 30,
+          "formattedPrice": "$30.00",
           "inAppPurchases": {}
         }
       ]

@@ -59921,14 +59921,27 @@
       "Gallery of Heroes": "HK$ 22.00"
     },
     "minPriceInfo": {
-      "price": 88,
-      "formattedPrice": "HK$ 88.00",
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
       "In Defense of the Wild": "HK$ 22.00",
       "A Price Paid in Blood": "HK$ 22.00",
       "A Voice in the Dark": "HK$ 22.00",
       "Gallery of Heroes": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794927717454,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "In Defense of the Wild": "HK$ 22.00",
+            "A Price Paid in Blood": "HK$ 22.00",
+            "A Voice in the Dark": "HK$ 22.00",
+            "Gallery of Heroes": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792345098035,
@@ -89028,6 +89041,20 @@
       "50 顆寶石": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794927717454,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "50 顆寶石": "HK$ 32.00",
+            "1400 顆寶石": "HK$ 588.00",
+            "650 顆寶石": "HK$ 328.00",
+            "250 顆寶石": "HK$ 128.00",
+            "120 顆寶石": "HK$ 58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793818693473,
@@ -154370,6 +154397,19 @@
     "history": [
       [
         {
+          "timestamp": 1794927717454,
+          "price": 78,
+          "formattedPrice": "HK$ 78.00",
+          "inAppPurchases": {
+            "Immortal Throne DLC": "HK$ 38.00",
+            "Ragnarök DLC": "HK$ 38.00",
+            "Atlantis DLC": "HK$ 38.00",
+            "Eternal Embers DLC": "HK$ 38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793818693473,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -172761,6 +172801,14 @@
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794927717454,
+          "price": 68,
+          "formattedPrice": "HK$ 68.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793818693473,
@@ -192885,10 +192933,18 @@
       "formattedPrice": "HK$ 88.00"
     },
     "minPriceInfo": {
-      "price": 88,
-      "formattedPrice": "HK$ 88.00"
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794927717454,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -194437,6 +194493,14 @@
       "formattedPrice": "HK$ 5.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794927717454,
+          "price": 78,
+          "formattedPrice": "HK$ 78.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793818693473,
@@ -198303,6 +198367,14 @@
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794927717454,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793818693473,
@@ -310807,7 +310879,7 @@
       "formattedPrice": "HK$ 22.00",
       "终身护持": "HK$ 118.00",
       "年度护持": "HK$ 148.00",
-      "月度护持": "HK$ 8.00",
+      "月度护持": "HK$ 18.00",
       "3-day Trial": "HK$ 0.00"
     },
     "minPriceInfo": {
@@ -310819,6 +310891,19 @@
       "3-day Trial": "HK$ 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794927717454,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "3-day Trial": "HK$ 0.00",
+            "终身护持": "HK$ 118.00",
+            "年度护持": "HK$ 118.00",
+            "月度护持": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794765956525,
@@ -311751,6 +311836,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1794927717454,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "組合・光之騎士團": "HK$ 88.00",
+            "付費角色・艾德瑞克": "HK$ 8.00",
+            "服裝組合 · 騎士團盛宴": "HK$ 22.00",
+            "服裝組合 · 森林與工坊": "HK$ 22.00",
+            "服裝組合 · 雪花庭園": "HK$ 22.00",
+            "服裝組合 · 東方之夜": "HK$ 22.00",
+            "服裝組合 · 月與星": "HK$ 22.00",
+            "服裝組合 · 傳奇盛宴": "HK$ 32.00",
+            "付費角色・菲涅": "HK$ 8.00",
+            "付費角色・薩爾古爾": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1794893335562,
           "price": 18,
@@ -315991,6 +316093,27 @@
           "timestamp": 1794893335562,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6826478625": {
+    "name": "Pocket Mac Lab",
+    "maxPriceInfo": {
+      "price": 48,
+      "formattedPrice": "HK$ 48.00"
+    },
+    "minPriceInfo": {
+      "price": 48,
+      "formattedPrice": "HK$ 48.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794927717454,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
           "inAppPurchases": {}
         }
       ]

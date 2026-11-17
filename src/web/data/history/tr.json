@@ -308442,14 +308442,22 @@
     "trackName": "Askerlik Kariyeri",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "₺9,99"
+      "price": 19.99,
+      "formattedPrice": "₺19,99"
     },
     "minPriceInfo": {
       "price": 9.99,
       "formattedPrice": "₺9,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794927717454,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790656083068,
@@ -310960,6 +310968,29 @@
           "timestamp": 1794893335562,
           "price": 99.99,
           "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6826478625": {
+    "trackId": 6826478625,
+    "trackName": "Pocket Mac Lab",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 299.99,
+      "formattedPrice": "₺299,99"
+    },
+    "minPriceInfo": {
+      "price": 299.99,
+      "formattedPrice": "₺299,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794927717454,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
           "inAppPurchases": {}
         }
       ]

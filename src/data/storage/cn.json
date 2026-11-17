@@ -171463,6 +171463,17 @@
     "history": [
       [
         {
+          "timestamp": 1794927717454,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {
+            "五朵金花": "¥16.00",
+            "不归玄境": "¥10.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1791737634883,
           "price": 38,
           "formattedPrice": "¥38.00",
@@ -208903,6 +208914,25 @@
     "history": [
       [
         {
+          "timestamp": 1794927717454,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "6元礼包": "¥6.00",
+            "30元礼包": "¥30.00",
+            "12元礼包": "¥12.00",
+            "68元礼包": "¥68.00",
+            "128元礼包": "¥128.00",
+            "98元礼包": "¥98.00",
+            "18元礼包": "¥18.00",
+            "3元礼包": "¥3.00",
+            "1元礼包": "¥1.00",
+            "198元礼包": "¥198.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788467599321,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -240976,7 +241006,7 @@
       "formattedPrice": "¥18.00",
       "终身护持": "¥108.00",
       "年度护持": "¥128.00",
-      "月度护持": "¥8.00",
+      "月度护持": "¥12.00",
       "3-day Trial": "¥0.00"
     },
     "minPriceInfo": {
@@ -240988,6 +241018,19 @@
       "3-day Trial": "¥0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794927717454,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "3-day Trial": "¥0.00",
+            "月度护持": "¥12.00",
+            "年度护持": "¥98.00",
+            "终身护持": "¥108.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794765956525,
@@ -243011,6 +243054,27 @@
           "timestamp": 1794864083254,
           "price": 8,
           "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6826478625": {
+    "name": "Pocket Mac Lab",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794927717454,
+          "price": 38,
+          "formattedPrice": "¥38.00",
           "inAppPurchases": {}
         }
       ]

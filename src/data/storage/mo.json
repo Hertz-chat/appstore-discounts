@@ -48419,14 +48419,27 @@
       "In Defense of the Wild": "USD 2.99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "USD 9.99",
+      "price": 2.99,
+      "formattedPrice": "USD 2.99",
       "A Price Paid in Blood": "USD 2.99",
       "A Voice in the Dark": "USD 2.99",
       "Gallery of Heroes": "USD 2.99",
       "In Defense of the Wild": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794927717454,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "A Price Paid in Blood": "USD 2.99",
+            "A Voice in the Dark": "USD 2.99",
+            "In Defense of the Wild": "USD 2.99",
+            "Gallery of Heroes": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792345098035,
@@ -72002,6 +72015,20 @@
       "50 顆寶石": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794927717454,
+          "price": 2.49,
+          "formattedPrice": "USD 2.49",
+          "inAppPurchases": {
+            "1400 顆寶石": "USD 79.99",
+            "650 顆寶石": "USD 40.99",
+            "250 顆寶石": "USD 15.99",
+            "120 顆寶石": "USD 7.99",
+            "50 顆寶石": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793818693473,
@@ -116696,6 +116723,19 @@
     "history": [
       [
         {
+          "timestamp": 1794927717454,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {
+            "Immortal Throne DLC": "USD 3.99",
+            "Ragnarök DLC": "USD 3.99",
+            "Atlantis DLC": "USD 3.99",
+            "Eternal Embers DLC": "USD 3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793818693473,
           "price": 2.49,
           "formattedPrice": "USD 2.49",
@@ -128326,6 +128366,14 @@
       "formattedPrice": "USD 0.90"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794927717454,
+          "price": 7.49,
+          "formattedPrice": "USD 7.49",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793818693473,
@@ -142001,10 +142049,18 @@
       "formattedPrice": "USD 9.99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "USD 9.99"
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794927717454,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -143419,6 +143475,14 @@
       "formattedPrice": "USD 0.39"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794927717454,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793818693473,
@@ -146617,6 +146681,14 @@
       "formattedPrice": "USD 0.90"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794927717454,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793818693473,
@@ -217815,7 +217887,7 @@
       "formattedPrice": "USD 2.99",
       "终身护持": "USD 14.99",
       "年度护持": "USD 19.99",
-      "月度护持": "USD 0.99",
+      "月度护持": "USD 1.99",
       "3-day Trial": "USD 0.00"
     },
     "minPriceInfo": {
@@ -217827,6 +217899,19 @@
       "3-day Trial": "USD 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794927717454,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "3-day Trial": "USD 0.00",
+            "终身护持": "USD 14.99",
+            "年度护持": "USD 14.99",
+            "月度护持": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794765956525,
@@ -221732,6 +221817,27 @@
           "timestamp": 1794893335562,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6826478625": {
+    "name": "Pocket Mac Lab",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794927717454,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
           "inAppPurchases": {}
         }
       ]

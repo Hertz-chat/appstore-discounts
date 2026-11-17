@@ -2514,10 +2514,10 @@
   {
     "trackId": 479665601,
     "region": "pt",
-    "timestamp": 1791837063531,
+    "timestamp": 1794927717454,
     "discounts": [],
-    "price": 14.99,
-    "formattedPrice": "14,99 €",
+    "price": 9.99,
+    "formattedPrice": "9,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id479665601",
     "trackName": "iZip Pro-Zip Unzip Unrar",
@@ -25446,6 +25446,18 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id6826404492",
     "trackName": "Aşçı: Hayalin Peşinde",
     "firstRecordedAt": 1794267500104
+  },
+  {
+    "trackId": 6826478625,
+    "region": "pt",
+    "timestamp": 1794927717454,
+    "discounts": [],
+    "price": 6.99,
+    "formattedPrice": "6,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6826478625",
+    "trackName": "Pocket Mac Lab",
+    "firstRecordedAt": 1794927717454
   },
   {
     "trackId": 6827445474,

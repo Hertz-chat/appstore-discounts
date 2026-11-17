@@ -36698,6 +36698,25 @@
     "history": [
       [
         {
+          "timestamp": 1794893335562,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "大富翁4 Fun 美國地圖": "$30.00",
+            "「日本香港組合包」": "$30.00",
+            "大富翁 4 fun 仙劍仙靈島組合包": "$30.00",
+            "大富翁 4 fun 韓國地圖組合包": "$30.00",
+            "大富翁 4 fun 軒轅劍太山組合包": "$30.00",
+            "大富翁 4 fun 樂園組合包": "$30.00",
+            "大富翁 4 FUN  巴黎倫敦組合包": "$30.00",
+            "仙五地圖包": "$30.00",
+            "大富翁4 Fun夏日組合包": "$30.00",
+            "很多元寶": "$150.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794659876852,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -93800,6 +93819,25 @@
     "history": [
       [
         {
+          "timestamp": 1794893335562,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "限時挑戰書 Virtual Campus": "$90.00",
+            "秘密書房精選輯第十三部-P": "$120.00",
+            "秘密書房精選輯第十五部-P": "$120.00",
+            "秘密書房精選輯第十三部": "$290.00",
+            "秘密書房精選輯第十三部-B": "$220.00",
+            "秘密書房精選輯第十四部": "$290.00",
+            "秘密書房精選輯第十五部-B": "$220.00",
+            "秘密書房精選輯第十四部-P": "$120.00",
+            "秘密書房精選輯第十五部": "$290.00",
+            "秘密書房精選輯第十四部-B": "$220.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794628227571,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -141938,6 +141976,20 @@
     "history": [
       [
         {
+          "timestamp": 1794893335562,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Huge Investment": "$190.00",
+            "Bundle": "$320.00",
+            "Investment": "$60.00",
+            "Large Investment": "$90.00",
+            "Very Large Investment": "$120.00",
+            "Game Editor": "$220.00",
+            "Chairman's Payment": "$220.00"
+          }
+        },
+        {
           "timestamp": 1794864083254,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -157357,18 +157409,31 @@
     ]
   },
   "1441522083": {
-    "name": "LED跑馬燈・手持彈幕・應援燈牌",
+    "name": "LED跑馬燈・字幕跑馬燈・走馬燈・大字報",
     "maxPriceInfo": {
       "price": 120,
       "formattedPrice": "$120.00",
-      "Pro 終身版": "$120.00"
+      "Pro 終身版": "$120.00",
+      "Pro 14 天通行證": "$30.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Pro 終身版": "$120.00"
+      "Pro 終身版": "$120.00",
+      "Pro 14 天通行證": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794893335562,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro 14 天通行證": "$30.00",
+            "Pro 終身版": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793653056000,
@@ -181826,6 +181891,24 @@
       "Natural Wonders": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794893335562,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "The Complete Collection": "$1,190.00",
+            "Explorer Pack": "$390.00",
+            "The Ultimate Edition Welcome Offer": "$790.00",
+            "Natural Wonders": "$90.00",
+            "Welcome Offer": "$690.00",
+            "New York 2121 Board": "$220.00",
+            "Cherry Blossom Tokyo Board": "$220.00",
+            "Valkyrie Token": "$320.00",
+            "Promotion": "$590.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794659876852,
@@ -329397,6 +329480,27 @@
           "timestamp": 1794864083254,
           "price": 30,
           "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6833854183": {
+    "name": "誰偷吃了蛋撻？",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794893335562,
+          "price": 60,
+          "formattedPrice": "$60.00",
           "inAppPurchases": {}
         }
       ]

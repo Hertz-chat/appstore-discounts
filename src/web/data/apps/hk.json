@@ -12230,13 +12230,13 @@
   {
     "trackId": 1441522083,
     "region": "hk",
-    "timestamp": 1793653056000,
+    "timestamp": 1794893335562,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id1441522083",
-    "trackName": "LED跑馬燈・手持彈幕・應援燈牌",
+    "trackName": "LED跑馬燈・字幕跑馬燈・走馬燈・大字報",
     "firstRecordedAt": 1745568184983
   },
   {
@@ -19924,7 +19924,7 @@
   {
     "trackId": 6473001577,
     "region": "hk",
-    "timestamp": 1794765956525,
+    "timestamp": 1794893335562,
     "discounts": [],
     "price": 32,
     "formattedPrice": "HK$ 32.00",
@@ -27041,7 +27041,7 @@
   {
     "trackId": 6801980968,
     "region": "hk",
-    "timestamp": 1794659876852,
+    "timestamp": 1794893335562,
     "discounts": [],
     "price": 18,
     "formattedPrice": "HK$ 18.00",
@@ -27613,5 +27613,17 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id6832405958",
     "trackName": "指尖樂器－腕上演奏",
     "firstRecordedAt": 1794864083254
+  },
+  {
+    "trackId": 6833854183,
+    "region": "hk",
+    "timestamp": 1794893335562,
+    "discounts": [],
+    "price": 18,
+    "formattedPrice": "HK$ 18.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6833854183",
+    "trackName": "誰偷吃了蛋撻？",
+    "firstRecordedAt": 1794893335562
   }
 ]

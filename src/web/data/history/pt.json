@@ -78681,14 +78681,27 @@
     "maxPriceInfo": {
       "price": 3.99,
       "formattedPrice": "3,99 €",
-      "Pro Lifetime": "3,99 €"
+      "Pro Lifetime": "3,99 €",
+      "Pro 14-Day Pass": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "Pro Lifetime": "3,99 €"
+      "Pro Lifetime": "3,99 €",
+      "Pro 14-Day Pass": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794893335562,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Pro 14-Day Pass": "0,99 €",
+            "Pro Lifetime": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793673861342,
@@ -104689,6 +104702,14 @@
     "history": [
       [
         {
+          "timestamp": 1794893335562,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791420216639,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -109262,6 +109283,14 @@
     "history": [
       [
         {
+          "timestamp": 1794893335562,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791420216639,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -110565,6 +110594,14 @@
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794893335562,
+          "price": 4.49,
+          "formattedPrice": "4,49 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790119857097,
@@ -116540,6 +116577,18 @@
       "DLC - The Tournament": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794893335562,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "DLC - Land of the Eclipse": "1,99 €",
+            "DLC - The Ember Saga": "1,99 €",
+            "DLC - The Tournament": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791420216639,
@@ -122696,10 +122745,18 @@
       "formattedPrice": "7,99 €"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794893335562,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790119857097,
@@ -134702,7 +134759,8 @@
       "Erika Ford": "2,99 €",
       "Lumberjack Carriage": "2,99 €",
       "Oil Baron carriage": "2,99 €",
-      "Dolomite Dynamite": "2,99 €"
+      "Dolomite Dynamite": "2,99 €",
+      "Ticket to Ride Sale Offer": "29,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -134752,9 +134810,29 @@
       "Erika Ford": "2,99 €",
       "Lumberjack Carriage": "2,99 €",
       "Oil Baron carriage": "2,99 €",
-      "Dolomite Dynamite": "2,99 €"
+      "Dolomite Dynamite": "2,99 €",
+      "Ticket to Ride Sale Offer": "29,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794893335562,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Ticket to Ride Sale Offer": "29,99 €",
+            "Round the World Ticket": "49,99 €",
+            "Welcome Offer": "29,99 €",
+            "Europe Expansion": "14,99 €",
+            "Europe Map": "12,99 €",
+            "1910 Ticket Pack": "3,99 €",
+            "Nordic Expansion": "12,99 €",
+            "Japan Expansion": "12,99 €",
+            "Heart of Africa Expansion": "12,99 €",
+            "Nordic Map": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794824240122,
@@ -161210,10 +161288,18 @@
       "formattedPrice": "7,99 €"
     },
     "minPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "7,99 €"
+      "price": 7.49,
+      "formattedPrice": "7,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794893335562,
+          "price": 7.49,
+          "formattedPrice": "7,49 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794344679438,
@@ -161322,7 +161408,7 @@
   },
   "6828960722": {
     "trackId": 6828960722,
-    "trackName": "Grounds Up: Business Tycoon",
+    "trackName": "Grounds Up: Jogo de Gestão",
     "region": "pt",
     "maxPriceInfo": {
       "price": 2.99,
@@ -161430,6 +161516,29 @@
           "timestamp": 1794824240122,
           "price": 2.99,
           "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6833854183": {
+    "trackId": 6833854183,
+    "trackName": "誰偷吃了蛋撻？",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794893335562,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
           "inAppPurchases": {}
         }
       ]

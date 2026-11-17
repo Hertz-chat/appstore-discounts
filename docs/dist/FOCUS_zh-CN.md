@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2435` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2436` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2436|6833854183|自动|❌|誰偷吃了蛋撻？|誰偷吃了蛋撻？|誰偷吃了蛋撻？|Who Ate the Egg Tart?|Who Ate the Egg Tart?|誰偷吃了蛋撻？|
 |2435|550067264|自动|❌|客滿餐廳物語|客滿餐廳物語|客滿餐廳物語|Cafeteria Nipponica|Cafeteria Nipponica|Cafeteria Nipponica|
 |2434|6832405958|自动|指尖乐器－腕上演奏|指尖樂器－腕上演奏|指尖樂器－腕上演奏|指尖樂器－腕上演奏|Fingertip Instruments|Fingertip Instruments|❌|
 |2433|6756707224|自动|❌|都市傳說解體中心|都市傳說解體中心|都市傳說解體中心|Urban Myth Dissolution Center|Urban Myth Dissolution Center|Urban Myth Dissolution Center|
@@ -37,7 +38,7 @@
 |2408|1233326914|自动|ParKing P - 我的车在哪里？|ParKing P - Find My Parked Car|ParKing P - Find My Parked Car|ParKing P - Find My Parked Car|ParKing P - Find My Parked Car|ParKing P - Find My Parked Car|ParKing P Onde está meu carro?|
 |2407|1462754972|自动|MONG LI|MONG LI|MONG LI|MONG LI|MONG LI|MONG LI|MONG LI|
 |2406|6788134172|自动|❌|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|
-|2405|6828960722|自动|❌|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|
+|2405|6828960722|自动|❌|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Jogo de Gestão|
 |2404|6762192063|自动|❌|Absolum|Absolum|Absolum|Absolum|Absolum|Absolum|
 |2403|408625926|自动|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|
 |2402|6827745244|自动|❌|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|
@@ -79,7 +80,7 @@
 |2366|6771652722|自动|❌|ONE PIECE 海洋盛宴|ONE PIECE 海洋盛宴|ONE PIECE 海洋盛宴|ONE PIECE: Grand Gourmet|ONE PIECE: Grand Gourmet|ONE PIECE: Grand Gourmet|
 |2365|6819720065|自动|P's Pocket|P's Pocket|P's Pocket|P's Pocket|P's Pocket|❌|❌|
 |2364|6793744610|自动|2AM CAM|2AM CAM|2AM CAM|2AM CAM|2AM CAM|2AM CAM|2AM CAM|
-|2363|6817821959|自动|❌|Cafe Days：咖啡店經營|Cafe Days：咖啡店經營|Cafe Days：咖啡店經營|cafedays|cafedays|Cafe Days: gerencie um café|
+|2363|6817821959|自动|❌|Cafe Days：咖啡店經營|Cafe Days：咖啡店經營|Cafe Days：咖啡店經營|Cafe Days|Cafe Days|Cafe Days: gerencie um café|
 |2362|6789634028|自动|❌|Pilavcı|Pilavcı|Pilavcı|Rice Station|Rice Station|Pilavcı|
 |2361|424015306|自动|RAL iColours|RAL iColours|RAL iColours|RAL iColours|RAL iColours|RAL iColours|RAL iColours|
 |2360|1485478290|自动|Functional Oral Intake Scale|Functional Oral Intake Scale|Functional Oral Intake Scale|Functional Oral Intake Scale|Functional Oral Intake Scale|Functional Oral Intake Scale|Functional Oral Intake Scale|
@@ -1520,7 +1521,7 @@
 |925|1059911569|自动|❌|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|
 |924|1202650514|自动|HealthFit|HealthFit|HealthFit|HealthFit|HealthFit|HealthFit|HealthFit|
 |923|1230231705|自动|❌|The Witness|The Witness|The Witness|The Witness|The Witness|The Witness|
-|922|1441522083|自动|LED弹幕-手持弹幕显示屏，跑马灯滚动字幕|LED跑馬燈・手持彈幕・應援燈牌|LED跑馬燈・手持彈幕・應援燈牌|LED跑馬燈・手持彈幕・應援燈牌|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|
+|922|1441522083|自动|手持弹幕-应援灯牌·LED显示屏·跑马灯滚动字幕|LED跑馬燈・字幕跑馬燈・走馬燈・大字報|LED跑馬燈・字幕跑馬燈・走馬燈・大字報|LED跑馬燈・字幕跑馬燈・走馬燈・大字報|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|
 |921|1492041539|自动|❌|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|
 |920|1498778559|自动|MindPage|MindPage|MindPage|MindPage|MindPage|MindPage|MindPage - Mind Map|
 |919|1533709428|自动|❌|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City: Cidade de Bolso 2|

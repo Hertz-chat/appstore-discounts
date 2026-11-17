@@ -20761,6 +20761,25 @@
     "history": [
       [
         {
+          "timestamp": 1794893335562,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "¥8.00",
+            "Acoustic Guitars": "¥8.00",
+            "Amped Guitar & Bass": "¥22.00",
+            "Voices": "¥8.00",
+            "Varazdin Orchestral Mobile": "¥28.00",
+            "Synth Lead": "¥15.00",
+            "Sliced Beats": "¥8.00",
+            "Synth Plucks": "¥15.00",
+            "Groove Machine Synth": "¥0.00",
+            "Chill-Lo-Fi Mobile": "¥15.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794765956525,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -114994,18 +115013,31 @@
     ]
   },
   "1441522083": {
-    "name": "LED弹幕-手持弹幕显示屏，跑马灯滚动字幕",
+    "name": "手持弹幕-应援灯牌·LED显示屏·跑马灯滚动字幕",
     "maxPriceInfo": {
       "price": 3,
       "formattedPrice": "¥3.00",
-      "Pro 永久会员": "¥28.00"
+      "Pro 永久会员": "¥28.00",
+      "Pro 14 天通行证": "¥3.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "Pro 永久会员": "¥28.00"
+      "Pro 永久会员": "¥28.00",
+      "Pro 14 天通行证": "¥3.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794893335562,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Pro 14 天通行证": "¥3.00",
+            "Pro 永久会员": "¥28.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793653056000,
@@ -189303,6 +189335,23 @@
     "history": [
       [
         {
+          "timestamp": 1794893335562,
+          "price": 35,
+          "formattedPrice": "¥35.00",
+          "inAppPurchases": {
+            "自创武将": "¥18.00",
+            "战国七雄": "¥36.00",
+            "群雄争霸": "¥18.00",
+            "楚汉争霸": "¥36.00",
+            "五子良将": "¥36.00",
+            "重振汉室": "¥18.00",
+            "自创地图": "¥24.00",
+            "冠绝天下": "¥36.00",
+            "斜谷残阳": "¥36.00",
+            "无双战神": "¥36.00"
+          }
+        },
+        {
           "timestamp": 1794864083254,
           "price": 35,
           "formattedPrice": "¥35.00",
@@ -236677,6 +236726,25 @@
       "完整版": "¥18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794893335562,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "基础月会员": "¥9.90",
+            "黄金会员月度": "¥15.80",
+            "专业版报告解锁": "¥29.90",
+            "解锁报告": "¥19.90",
+            "基础版报告解锁": "¥19.90",
+            "黄金会员买断": "¥268.00",
+            "黄金会员": "¥29.90",
+            "黄金会员（半年卡）": "¥99.00",
+            "普通": "¥19.90",
+            "AI 签证顾问": "¥99.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793786660480,

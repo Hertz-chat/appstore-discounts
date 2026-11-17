@@ -67126,6 +67126,25 @@
     "history": [
       [
         {
+          "timestamp": 1794893335562,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Ford 2013 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2015 Enhanced Diagnostics": "$14.99",
+            "Toyota 2019 Enhanced": "$14.99",
+            "Toyota 2016 Enhanced Diagnostics": "$14.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794824240122,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -176431,14 +176450,27 @@
     "maxPriceInfo": {
       "price": 3.99,
       "formattedPrice": "$3.99",
-      "Pro Lifetime": "$3.99"
+      "Pro Lifetime": "$3.99",
+      "Pro 14-Day Pass": "$0.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Pro Lifetime": "$3.99"
+      "Pro Lifetime": "$3.99",
+      "Pro 14-Day Pass": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794893335562,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro 14-Day Pass": "$0.99",
+            "Pro Lifetime": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793700779769,
@@ -246930,6 +246962,14 @@
     "history": [
       [
         {
+          "timestamp": 1794893335562,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -256402,6 +256442,14 @@
     "history": [
       [
         {
+          "timestamp": 1794893335562,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791453869385,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -259396,6 +259444,14 @@
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794893335562,
+          "price": 4.49,
+          "formattedPrice": "$4.49",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794492446451,
@@ -333571,10 +333627,18 @@
       "formattedPrice": "$7.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 0.99,
+      "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794893335562,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790134270308,
@@ -348869,6 +348933,18 @@
       "DLC - Land of the Eclipse": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794893335562,
+          "price": 3.49,
+          "formattedPrice": "$3.49",
+          "inAppPurchases": {
+            "DLC - The Tournament": "$1.99",
+            "DLC - The Ember Saga": "$1.99",
+            "DLC - Land of the Eclipse": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791453869385,
@@ -371529,6 +371605,25 @@
     "history": [
       [
         {
+          "timestamp": 1794893335562,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "ALL HEROES BUNDLE": "$24.99",
+            "Tower Sniper": "$5.99",
+            "Gems Handful": "$2.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Hero Ignus": "$2.99",
+            "Tower Wildcat": "$4.99",
+            "ALL SPELLS BUNDLE": "$12.99",
+            "Hero Oni": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794864083254,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -373831,7 +373926,7 @@
   },
   "6817821959": {
     "trackId": 6817821959,
-    "trackName": "cafedays",
+    "trackName": "Cafe Days",
     "region": "us",
     "maxPriceInfo": {
       "price": 1.99,
@@ -375211,6 +375306,29 @@
           "timestamp": 1794864083254,
           "price": 0.99,
           "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6833854183": {
+    "trackId": 6833854183,
+    "trackName": "Who Ate the Egg Tart?",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794893335562,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
           "inAppPurchases": {}
         }
       ]

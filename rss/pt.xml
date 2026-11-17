@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2026-11-16T23:02:15.309Z</updated>
+    <updated>2026-11-17T07:12:34.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-16T23:02:15.309Z</updated>
+        <updated>2026-11-17T07:12:34.362Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptMon, 16 Nov 2026 23:02:15 GMT</id>
+        <id>rankingptTue, 17 Nov 2026 07:12:34 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-16T23:02:15.309Z</updated>
+        <updated>2026-11-17T07:12:34.362Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -51,13 +51,13 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>2435</b>
+        <b>2436</b>
       </td>
       <td>
         <b>204</b>
       </td>
       <td>
-        <b>2231</b>
+        <b>2232</b>
       </td>
       <td>
         <b>108</b>
@@ -68,13 +68,13 @@ feedId:206907475259680768+userId:73658201673997312
         <b>PT</b>
       </td>
       <td>
-        <b>2124</b>
+        <b>2125</b>
       </td>
       <td>
         <b>147</b>
       </td>
       <td>
-        <b>1977</b>
+        <b>1978</b>
       </td>
       <td>
         <b>34</b>
@@ -872,6 +872,23 @@ feedId:206907475259680768+userId:73658201673997312
         <b>44</b>
       </td>
       <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/1587860402?lang=en">Moncage</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>45</b>
+      </td>
+      <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1591620171?lang=en">Stay for Safari</a>
       </td>
       <td>
@@ -892,7 +909,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1600925588?lang=en">GR Linker - Image Sync</a>
@@ -909,7 +926,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1601114348?lang=en">Siralim Ultimate</a>
@@ -926,7 +943,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/1601446687?lang=en">Streets of Rage 4</a>
@@ -943,27 +960,10 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/1619867109?lang=en">Finding Paradise</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>49</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/1621065119?lang=en">Ace Attorney Trilogy</a>
+        <a href="https://appstore-discounts.eyelly.me/pt/1614795077?lang=en">Otaku's Adventure</a>
       </td>
       <td>
         <ul>
@@ -980,7 +980,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>50</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/1642733080?lang=en">DungeonSquad</a>
+        <a href="https://appstore-discounts.eyelly.me/pt/1619867109?lang=en">Finding Paradise</a>
       </td>
       <td>
         <ul>
@@ -997,7 +997,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>51</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/1664728315?lang=en">Mutropolis mobile</a>
+        <a href="https://appstore-discounts.eyelly.me/pt/1620883955?lang=en">Little Nightmares</a>
       </td>
       <td>
         <ul>
@@ -1014,7 +1014,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>52</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/pt/6801866888?lang=en">Quando foi? - O último dia</a>
+        <a href="https://appstore-discounts.eyelly.me/pt/1621065119?lang=en">Ace Attorney Trilogy</a>
       </td>
       <td>
         <ul>
@@ -1029,6 +1029,57 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>
         <b>53</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/1642733080?lang=en">DungeonSquad</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>54</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/1664728315?lang=en">Mutropolis mobile</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>55</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/6801866888?lang=en">Quando foi? - O último dia</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>56</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6759358968?lang=en">PadLab - Live Pads</a>
@@ -1053,7 +1104,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>54</b>
+        <b>57</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6740698426?lang=en">Empires Game</a>
@@ -1078,7 +1129,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>55</b>
+        <b>58</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6752503669?lang=en">Solar Arc: Hora Dourada</a>
@@ -1095,7 +1146,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>56</b>
+        <b>59</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6444660338?lang=en">Legend of Keepers</a>
@@ -1112,7 +1163,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>57</b>
+        <b>60</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6446021269?lang=en">MEGA MAN X DiVE Offline</a>
@@ -1129,7 +1180,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>58</b>
+        <b>61</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6786115854?lang=en">No More Slimes!!: Idle Action</a>
@@ -1146,7 +1197,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>59</b>
+        <b>62</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6759970821?lang=en">Dungeon Merge!</a>
@@ -1163,7 +1214,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>60</b>
+        <b>63</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6476342802?lang=en">Skel and Defense</a>
@@ -1188,7 +1239,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>61</b>
+        <b>64</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6770101449?lang=en">五道門：文字江湖</a>
@@ -1205,7 +1256,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>62</b>
+        <b>65</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6474541983?lang=en">Children of Morta</a>
@@ -1222,7 +1273,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>63</b>
+        <b>66</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6758999138?lang=en">Knightica</a>
@@ -1239,7 +1290,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>64</b>
+        <b>67</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6755103808?lang=en">VoidLink - Extreme</a>
@@ -1262,7 +1313,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>65</b>
+        <b>68</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6471594918?lang=en">Just a Simple Image Converter</a>
@@ -1279,7 +1330,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>66</b>
+        <b>69</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6758201392?lang=en">Slime Rancher</a>
@@ -1296,7 +1347,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>67</b>
+        <b>70</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6478398981?lang=en">IPTV Smart Pro - TV AO VIVO</a>
@@ -1313,7 +1364,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>68</b>
+        <b>71</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6497948575?lang=en">Way of the Hunter Wild America</a>
@@ -1330,7 +1381,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>69</b>
+        <b>72</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6758114235?lang=en">1 TL</a>
@@ -1347,7 +1398,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>70</b>
+        <b>73</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6480058345?lang=en">Kaiju Attack 2</a>
@@ -1364,7 +1415,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>71</b>
+        <b>74</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6786557574?lang=en">Combustível Consumo Abaste Log</a>
@@ -1381,7 +1432,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>72</b>
+        <b>75</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6449233549?lang=en">Ark Nova</a>
@@ -1398,7 +1449,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>73</b>
+        <b>76</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6743349595?lang=en">Godseeker II Dark Fantasy ARPG</a>
@@ -1415,7 +1466,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>74</b>
+        <b>77</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6479395335?lang=en">RPGViewer</a>
@@ -1432,7 +1483,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>75</b>
+        <b>78</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6760446039?lang=en">般若心灯</a>
@@ -1455,7 +1506,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>76</b>
+        <b>79</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6744430250?lang=en">Python 學習計劃</a>
@@ -1472,10 +1523,61 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>77</b>
+        <b>80</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/pt/6830479627?lang=en">1in8b Life</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>81</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/6752607219?lang=en">Warhammer Survivors</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>82</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/6443875944?lang=en">Sands of Salzaar</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>83</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/6458144503?lang=en">Skul: The Hero Slayer</a>
       </td>
       <td>
         <ul>
@@ -1805,6 +1907,219 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warhammer Survivors]]></title>
+        <id>Warhammer Survivors-pt-1794893335562</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/6752607219?lang=en"/>
+        <updated>2026-11-17T05:28:55.562Z</updated>
+        <summary type="html"><![CDATA[Price: 7,99 € → 7,49 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6752607219?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/69/16/5a6916fb-9333-89b5-0238-d3621bb63225/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>7,99 €</span> → <b>
+  <strong>7,49 €</strong>
+</b><span>[7,49 € ~ 7,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>7,49 €</b>
+</p><h2>Application Description</h2><p>
+  A viciante ação do inferno de balas do género de sobrevivência chega ao 41st Millennium e ao Mortal Realms num jogo oficialmente licenciado pela Auroch Digital (Warhammer 40,000: Boltgun) em parceria com Warhammer e poncle (Vampire Survivors).
+
+Desfruta de campeões épicos, inimigos, armas e mais de Warhammer, detalhadamente criados com glória em arte pixelada animada - otimizado para dispositivos móveis!
+
+CARACTERÍSTICAS 
+
+- Sobrevivência frenética num inferno de balas num ambiente sombrio e sinistro. 
+- Mais de 40 personagens icónicas dos universos Warhammer 40,000 e Warhammer Age of Sigmar, com o próprio Malum Caedo de Warhammer 40,000: Boltgun!
+- Vários modos e terrenos do sombrio e tenebroso 41st Millennium e de Mortal Realms. 
+- Um arsenal com mais de 75 armas, como a Boltgun, a Astartes Chainsword, os Whirlwind Axes e outras surpresas tais como o modesto pote de Nuln Oil. 
+Enfrenta os monstros mais poderosos do universo, incluindo o Grande Imundo. Os chefes Extremis são um desafio até para os mais experientes em jogos de sobrevivência!
+- Um conjunto poderoso de habilidades passivas e poderes que irão ajudar-te contra as legiões monstruosas. 
+- Segredos esotéricos para descobrires e objetos de coleção para juntares!
+- Controlos e sistemas de jogabilidade otimizados para dispositivos móveis.
+Experiência premium sem publicidade nem mecânicas de energia.
+- E muito mais!
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/d8/ca/27d8cafd-f027-1632-29c6-ac9f21f7bf65/WS_SCREENSHOT_APPLE_IPHONE_STORE_SKULLS-2.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/93/3c/7b933c4c-63b2-3d5f-75db-476e011936be/WS_SCREENSHOT_APPLE_IPHONE_STORE_SKULLS-4.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/0f/f0/d70ff06c-825a-e1d1-cd48-87fc387db596/WS_SCREENSHOT_APPLE_IPHONE_STORE_SKULLS-1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/75/3b/8f753b80-2094-b712-6b43-754edae879cf/WS_SCREENSHOT_APPLE_IPHONE_STORE_SKULLS-3.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/00/96/2600964e-5cea-aadb-f072-f08a7c006d9e/WS_SCREENSHOT_APPLE_IPAD_STORE_SKULLS-2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/d2/78/d4d27862-0dd2-d198-e418-7da9b800faf9/WS_SCREENSHOT_APPLE_IPAD_STORE_SKULLS-1.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/66/45/cd664550-3662-27d2-ceaa-1340c3f0598d/WS_SCREENSHOT_APPLE_IPAD_STORE_SKULLS-4.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/00/44/bd0044f9-7ee7-a1d2-2ac9-24e72252fc54/WS_SCREENSHOT_APPLE_IPAD_STORE_SKULLS-3.png/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sands of Salzaar]]></title>
+        <id>Sands of Salzaar-pt-1794893335562</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/6443875944?lang=en"/>
+        <updated>2026-11-17T05:28:55.562Z</updated>
+        <summary type="html"><![CDATA[Price: 5,99 € → 3,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6443875944?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/92/ed/1192edab-b0ab-c71a-3363-4c32f85f9d59/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>5,99 €</span> → <b>
+  <strong>3,99 €</strong>
+</b><span>[3,99 € ~ 5,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>3,99 €</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    DLC - Land of the Eclipse：<b>1,99 €</b>
+  </li><li>
+    DLC - The Ember Saga：<b>1,99 €</b>
+  </li><li>
+    DLC - The Tournament：<b>1,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  This is a fantastical tale of an exotic land. The Old Empire has fallen, leaving rival tribes to fight for control of the great desert. Little do they know of the seeds of darkness which grow in the shadows with each passing day...
+
+Sands of Salzaar is an open-world strategy-action RPG set across a sprawling desert. Build up and manage your forces from a single unit to a mighty army, then lead them into massive battles against your foes. How you progress is up to you: customize your hero with a wide variety of skills and talents, choose which factions to side with, and plan your strategies carefully to establish yourself as whoever you aspire to be - a lone wolf, a wealthy trader, a city lord, or a war schemer.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/22/bb/8d22bbe8-24de-e022-f81c-2d31293c3b33/8e767b69-0a06-4bbe-99fc-9ca704bf1ad3__U90e8_U843d_U4e0e_U5f2f_U9053-Q4DLC-ios_U5546_U5e97_U7528_U56fe-2208x1242-en.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/8b/0f/658b0fa3-7596-f398-e0d0-7f041ae7cae1/5d4c0aa3-734b-4828-9554-e04084942240_5.5_U5bf8__U90e8_U843d_U4e0e_U5f2f_U5200-DLCKV-2208x1242-en.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/34/8f/ac348ff9-e3bc-b624-e7be-7643611a00a0/e829f9eb-4c51-49c8-bea2-220c7ce1edfa_5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/a7/ec/eca7ec0d-d4b1-ce92-e212-b2b4aec80d86/be0c8c75-f47a-4a28-b4b7-c6ef2dd84824_1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/20/a2/ef20a2ed-11de-cbe2-8990-76848bd66ba9/9633f576-33f1-458e-898e-0eda60c9b8a2_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/a0/81/46a081d1-a027-ae17-55c7-47bce928297e/078c7a28-8082-4782-b12e-37e934009623_3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/f4/81/01f481a1-c1bf-c0cb-5012-f73c45ded0d9/2a8f58c8-daaf-417d-be33-3f4a7491a30d_4.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/f5/a6/8af5a609-2d40-2c00-9313-94c49eb00921/e60268c2-16fc-4b46-a361-a3e8d80560b2__U90e8_U843d_U4e0e_U5f2f_U9053-Q4DLC-ios_U5546_U5e97_U7528_U56fe-2732x2048-en.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/32/10/8d321059-517c-d99c-960c-09cc67770b65/639b1320-426a-4492-8302-13bd5f65b747_12.9_U5bf8__U90e8_U843d_U4e0e_U5f2f_U5200-DLCKV-2732x2048-en.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/9b/6e/749b6e76-c442-7faa-5e33-cd1797ee6ad3/71d3d1f3-197c-4a28-80c7-17ca457d8b1d_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/a9/dc/28a9dc25-6d66-a6e1-263d-0070ac9ac110/71743be1-582f-4529-a57a-5a4ce8bbf8e7_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/88/66/1a886645-8644-3a1a-cf6e-b18735915104/50e02bc2-3e95-4f9e-a8af-5e3a54ab362d_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/5b/b5/6b5bb51e-4913-5001-83ed-b53a7bc13a87/34170a4b-bcaf-4652-9535-a77cfb3dbfcd_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/2e/20/942e2050-26f1-a4fb-deb7-4bc49034ac5a/0a34a635-6104-4477-8448-a3deb323f024_5.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Otaku's Adventure]]></title>
+        <id>Otaku's Adventure-pt-1794893335562</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/1614795077?lang=en"/>
+        <updated>2026-11-17T05:28:55.562Z</updated>
+        <summary type="html"><![CDATA[Price: 2,99 € → 1,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1614795077?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/81/10/23/8110232f-4e1c-8a11-8f2a-5fbfc0bea55d/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>2,99 €</span> → <b>
+  <strong>1,99 €</strong>
+</b><span>[1,99 € ~ 2,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>1,99 €</b>
+</p><h2>Application Description</h2><p>
+  Otaku’s Adventure is a unique anime-style AVG that tells the story of an Otaku who has been single since birth and craves to be loved. After the romantic encounter with three charming girls, your life will take an unexpected turn: to go on a run-away adventure with Waifu, an outer-space journey with Gohard, or an exploration in a fantasy world with (´･ω･`). 
+
+- Kick start your thrilling and romantic adventure and release your Otaku energy!
+- Unlock 35+ endings following three different routes
+- Use your wit to solve the ingenious puzzles and beat a collection of funny mini-games ranging from shooting games to turn-based RPG combat
+- Enjoy the brand new DLC free of charge and uncover the untold story of Waifu
+- Get yourself immersed in the new voice-acting for Waifu and (´･ω･`) along with the original Cantonese voice-acting for Gohard
+- Test your Otaku-ness level by discovering the anime and game references!
+_________________________
+
+Follow us on Twitter: @XD_En_Official
+Contact: indie@xd.com
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/c4/5e/93/c45e9390-b1e1-c6ad-e905-f0201cf04b11/50308b0f-81d5-4d04-9024-9e78f2939571_0.03.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/e1/78/54/e1785451-c0e3-7e72-0e4d-2599fb0099ee/e240c269-6fac-4420-9efb-928da773c48c_0.13.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/e2/de/eb/e2deeb44-b1e5-11e4-129b-507f163c5a84/f9fe4f74-e71c-4689-b6b8-ec1d5812ada6_0.11.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cd/41/97/cd4197c7-c782-18f8-07ba-358226110869/49d18210-4084-485e-b087-0c19562d3a42_5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/42/23/d9/4223d9cf-214b-2d95-b7ca-1fbc08ed81de/167872f1-69a4-466e-b414-16a74090619a_4.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b9/e4/25/b9e42535-fdb1-67db-bbad-4ed92e8135f1/aabb6544-5185-4c3d-8cab-58f72192e207_Image_16.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/01/18/74/011874e0-15e8-59a7-18fc-a5663aa79392/38085f32-039e-42f6-acb6-f2af4f1b3131_Image_14.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/74/85/0a/74850ac4-16c4-aff1-5f5b-ec1359b3ea22/fd2368d7-198b-4a43-aec6-5d7a2df135ac_Image_18.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/33/71/2d/33712d6c-e121-b8c2-7630-252657bfe9fd/3964fbf4-962d-414f-bc43-5aa546ce2dba_5-1600x1200.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cb/87/b8/cb87b846-df08-4758-8a51-4a88fd8d24ef/5cf8ac1f-eec9-4df3-9f35-5ed5ce1c3c72_4-1600x1200.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skul: The Hero Slayer]]></title>
+        <id>Skul: The Hero Slayer-pt-1794893335562</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/6458144503?lang=en"/>
+        <updated>2026-11-17T05:28:55.562Z</updated>
+        <summary type="html"><![CDATA[Price: 7,99 € → 0,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6458144503?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/34/ca/d834ca4a-6de6-3c15-1a68-0fdb36ef87d1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>7,99 €</span> → <b>
+  <strong>0,99 €</strong>
+</b><span>[0,99 € ~ 7,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>0,99 €</b>
+</p><h2>Application Description</h2><p>
+  Skul é um roguelite de ação em ritmo acelerado, onde incentiva-se a perder a cabeça.
+
+Com 100 personagens jogáveis, cada um com as próprias habilidades exclusivas e muitos itens que podem criar sinergias incríveis, as batalhas são tão eletrizantes quanto desafiadoras.
+
+O Castelo do Rei Demônio em ruínas
+O ataque da raça humana ao castelo do Rei Demônio não é novidade e já aconteceu inúmeras vezes.
+Desta vez, o que difere é que os aventureiros decidiram unir forças com o Exército Imperial e escolheram o “Herói de Caerleon” para liderar um ataque total na esperança de exterminar os demônios de uma vez por todas.
+Eles atacaram a fortaleza do Demônio com números esmagadores e conseguiram destruí-lo totalmente. Todos os demônios do castelo viraram prisioneiros, exceto um esqueleto solitário chamado “Skul”.
+
+Modo Espelho Sombrio
+Ao terminar a história principal, teste suas habilidades e seus limites no novo e desafiador modo “Espelho Sombrio”!
+
+CARACTERÍSTICAS
+- Você é a última esperança de toda a raça demoníaca! Jogue como Skul, um esqueletinho no caminho para matar os heróis pomposos e salvar o rei demônio do exército corrupto de Caerleon.
+- Perder a cabeça nunca foi tão certo: experimente crânios novos para pegar emprestado os poderes e as roupas elegantes dos donos anteriores e crie sinergias com itens exclusivos para derrotar os inimigos.
+- O que está morto não pode morrer: você não descansará até enfrentar todos os desafios deste jogo de plataforma roguelite cheio de ação.
+- Deixe seus olhos vazios deleitarem-se com animações 2D vibrantes de pixel art enquanto você ajuda todos os tipos de criaturas demoníacas a retornar ao estado original.
+- Das múmias do Egito ao Minotauro da Grécia, ou até mesmo um crossover oficial de Dead Cells… Será que você consegue encontrar todos os easter eggs divertidos espalhados pelo jogo?
+
+CUIDADOSAMENTE REPROJETADO PARA DISPOSITIVOS MÓVEIS
+- Interface renovada – IU exclusiva para dispositivos móveis com controle de toque completo
+- Conquistas do Game Center
+- Armazenamento na nuvem – Compartilhe o progresso entre dispositivos iOS
+- Compatível com controles MFi
+- Otimização do iPhone 15 (incluindo Pro Max)
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/47/a9/59/47a95967-a9a8-5465-3e75-6cd38c696c31/14b51407-7ce8-48ac-9b32-b3fd63548151_Screen_1_PT-6.5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/59/57/17/59571778-67fb-2431-61ba-84be4701fa16/98424b3e-92eb-4104-89e9-21651b80ae22_Screen_2-EN-6.5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/21/09/b9/2109b978-5fea-b4d2-b69a-bc28f6349ae1/9113f6a2-bb9d-4771-904c-ed5d1efa13ae_Screen_3-EN-6.5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/1d/d6/26/1dd62621-b8dd-3265-d8a5-8b8a774803ea/c08a5405-d6c0-446a-8eab-295b656544fb_Skul_Screen_6.5_01_PT.PNG/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/e3/21/8e/e3218e96-7717-1cd1-b01a-61cf1138e3c1/1051bd6c-d60d-41fb-8714-42940226e64e_Screen_5-EN-6.5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/75/b3/96/75b39616-c9f3-604d-c935-b343be502b4d/b1adab02-e990-416a-aa74-910460e03a53_Screen_6-EN-6.5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/f9/e3/d0/f9e3d0f4-73e0-65a3-e543-d4aba92cb001/ff029445-251b-48aa-880e-1ffa1337e9aa_Screen_7-EN-6.5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a9/25/e1/a925e1c4-c372-3a54-c1b1-4a5bd06da283/184902e4-3ca5-46d9-bc3b-9a47daddac26_Screen_8-EN-6.5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/de/2b/e8/de2be8bb-900a-b873-46ef-298d9da66cbc/df5f0dd3-6fb3-4954-9c62-fd5a9f7e32b2_Skul_Screen_6.5_05_PT.PNG/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/5a/6b/77/5a6b77de-dd92-6d7b-19e6-09fa232e6b37/d7fd098b-44a3-40d9-9fc4-7afa1ebbb584_Screen_10-EN-6.5.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/5c/62/76/5c62760a-c944-1a82-5159-0e52c6fb5d5b/cc530c53-ebfe-4431-a906-c61b87f57be0_Screen_1_PT.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/df/19/f3/df19f3d8-6f7f-a764-afc1-7a1fc8f9d1da/8a606f39-5938-402b-99e7-582d9cc44f6c_Screen_2-12.9-PT.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/42/f0/10/42f0100d-5ad7-4368-1184-77b614bb6f66/64803ffd-e254-4f4f-92b2-f3ab967cc41c_Screen_3-12.9-PT.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/56/e5/f7/56e5f756-ba17-0c73-4fbe-eb3aacfaa06e/ce5e6d44-e6e0-4820-973e-4b2bb1be70b1_Screen_4_PT-12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/96/a0/be/96a0be66-110a-801a-be73-dc37aab36da4/4461ff79-98a3-411c-a976-be042f4a1ae2_Screen_5-12.9-PT.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/14/2e/64/142e64ce-54a6-1c40-fb99-07ef5f9dcfd2/9b34fd00-a7d8-4972-b60b-d4421ba6d362_Screen_6-12.9-PT.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/95/fc/14/95fc1478-b73b-4880-2ef6-bb6ab74ab23a/14fb1afc-4b85-45c2-bb13-d86361959047_Screen_7-12.9-PT.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/d5/a8/b0/d5a8b0a9-b372-341b-02f2-b7dce3734cb6/863aeb17-7f38-4955-993e-d423c9c65091_Screen_8-12.9-PT.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/2f/17/09/2f170959-37f9-3288-f038-59312014d78c/aa900f4c-8b7d-4657-8375-7fc5238b970e_Screen_9_PT.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/3c/e8/f4/3ce8f4be-5f3b-a598-2d58-c58cb2d24508/3ab814f6-d088-445f-9605-f3c762e5ca51_Screen_10-12.9-PT.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Little Nightmares]]></title>
+        <id>Little Nightmares-pt-1794893335562</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/1620883955?lang=en"/>
+        <updated>2026-11-17T05:28:55.562Z</updated>
+        <summary type="html"><![CDATA[Price: 8,99 € → 4,49 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1620883955?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/9d/7f/fd9d7f67-ec50-01c3-c695-14113dafa0b8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>8,99 €</span> → <b>
+  <strong>4,49 €</strong>
+</b><span>[2,99 € ~ 8,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>4,49 €</b>
+</p><h2>Application Description</h2><p>
+  Fuja dos seus medos de infância
+
+Disponível primeiramente para PC e consoles, o conto de aventuras de terror Little Nightmares agora está disponível para dispositivos móveis!
+Mergulhe em Little Nightmares, um conto sombrio e extravagante que confrontará você com seus medos de infância!
+Ajude Six a escapar da Bocarra, um navio vasto e misterioso habitado por almas corrompidas em busca da próxima refeição.
+Conforme você avança na jornada, explore a casa de bonecas mais perturbadora que oferece uma prisão de onde fugir e um parquinho cheio de segredos para descobrir.
+Reconecte-se com sua criança interior para soltar a imaginação e encontrar a saída!
+Little Nightmares apresenta uma mistura sutil de ação, mecânica de plataforma e quebra-cabeças enraizada em uma direção artística misteriosa e design de som assustador.
+Esgueire-se para fora do labirinto sombrio da Bocarra e fuja dos habitantes corrompidos para fugir dos seus medos de infância.
+
+RECURSOS
+
+- Ande com cuidado em uma aventura obscura e emocionante
+- Redescubra seus medos de infância dentro de uma embarcação assombrada e escape dos habitantes misteriosos dela
+- Escale, rasteje e esconda-se em ambientes horripilantes para solucionar enigmas difíceis de plataforma
+- Mergulhe na Bocarra com o design de som assustador
+
+REDESENHADO CUIDADOSAMENTE PARA DISPOSITIVOS MÓVEIS
+
+- Interface nova
+- Conquistas do Game Center
+- iCloud - Compartilhe o progresso entre dispositivos iOS
+- Compatível com controles MFi
+
+Fuja dos seus medos de infância
+
+Caso tenha algum problema, entre em contato conosco em https://playdigious.helpshift.com/hc/en/12-playdigious/ com o máximo de informações possível sobre o problema.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8a/f5/b5/8af5b556-a302-71bc-8795-8701e51c1f8c/729c9413-28b5-4276-9a33-59a3b6532282_LN_Screen_i14_3_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/83/21/61/83216164-a9be-3243-8c97-8a41a68c7d80/bea99737-5d26-409c-a3cf-a5784982c565_LN_Screen_i14_2_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9d/4e/84/9d4e842e-0bc9-1e0e-f309-5e50e0168489/5b160f50-ae94-469b-b905-29f6506a8def_LN_Screen_i14_10_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6e/4a/fb/6e4afb8b-77d7-cdde-0421-2d519c79d594/70034da1-27dc-4483-be80-b6ee3394d81d_LN_Screen_i14_1_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ad/56/f9/ad56f92a-93e0-132d-c5b9-3e099008a153/c3116a4e-76e6-4a77-8717-fa3986ebe8f6_LN_Screen_i14_4_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/19/58/1a/19581a86-9f81-5aa6-4d4b-1f0c2924c8f2/db77ed27-db2b-472a-a778-b4573d914576_LN_Screen_i14_9_5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/17/e7/5e/17e75e56-ae83-ee3f-c9d4-74256b1c3a48/0687ab35-10d4-4ff7-9c67-608e4daa33c5_LN_Screen_i14_13_5.5.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4d/8a/15/4d8a152d-61d5-1681-b8f9-12dca7eef552/5a86a407-0fce-4c81-a154-57ca49c08ac2_LN_Screen_i14_3_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/58/f4/4f/58f44fb7-98c3-0a36-8b64-58d4e74021a8/4f31f6db-a050-4159-a58a-8e1b2aabd339_LN_Screen_i14_2_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/19/17/48/191748b7-394e-03a4-60c3-60008c0eeb36/0012e6f8-3ea4-436b-9d9b-3e6af2278897_LN_Screen_i14_10_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/16/00/9c/16009cdc-08e7-20d6-2627-482876dd7de5/e05b8bbd-72e8-4a95-bf02-9513a2fd3360_LN_Screen_i14_1_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1a/32/42/1a3242c6-c690-970f-b2ae-8953df39acce/0b8a4544-ec08-48c9-9597-e7dd16610312_LN_Screen_i14_4_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/65/3b/83/653b8301-a545-2821-fea6-adf6725bb046/6dfb2750-63d0-4dad-8a3c-1a490e37a6da_LN_Screen_i14_9_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/bf/25/5a/bf255ae9-e138-932e-d292-54b8d3d6e7cb/54cbb40a-8db7-44cb-88e9-75eebd18608e_LN_Screen_i14_13_12.9.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moncage]]></title>
+        <id>Moncage-pt-1794893335562</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/1587860402?lang=en"/>
+        <updated>2026-11-17T05:28:55.562Z</updated>
+        <summary type="html"><![CDATA[Price: 5,99 € → 3,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1587860402?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/65/cf/fa/65cffac5-14b6-4325-ac86-0ffae1d5d97d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>5,99 €</span> → <b>
+  <strong>3,99 €</strong>
+</b><span>[3,99 € ~ 5,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>3,99 €</b>
+</p><h2>Application Description</h2><p>
+  Moncage is a stunning vignette puzzle adventure developed by Optillusion. 
+
+The game takes place inside a mysterious cube, with each side of the cube housing a unique world: be it an old factory, a light tower, an amusement park, or a church, etc. At first sight, they may seem random and unrelated, but upon closer look, you will become mesmerized by the subtle and intricate ways of how these worlds connect…  
+
+【Solve Puzzles with Mind-Boggling Optical Illusions】
+Use your imagination and spare no brain cells to find the connection and pinpoint every possible interaction between different sides of the cube, then watch as the magic unfold in front of you.
+
+【Collect All Photos to Unveil the Story】
+Behind the puzzles, there lies a story with a surprising twist for the player to uncover. Collect the photos from obscure corners and angles to reveal the underlying story, one photo at a time.
+
+【Get Unstuck with Thoughtful Hints】
+There is a multitude of guidance systems to help prevent players from getting stuck. Focus can be activated to highlight the key items to the solution, while hint texts are available to provide further clarity. And, if all else fails, video walkthroughs can be unlocked as the ultimate safety plan. 
+
+【Prove Your Puzzle-Solving Skills with Medals】
+There are a total of 15 achievements in the game, each corresponding with a Medal that has been crafted with a uniquely stunning design. A complete collection of the 15 Medals could be the perfect evidence to attest to your master puzzle-solving skills~
+
+【Connect with us:】
+Twitter: @MoncageTheGame
+Email: moncagethegame@gmail.com
+Discord: https://discord.com/invite/TEVX2uPEsj
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/47/8f/00/478f00a1-7332-ba75-21b1-3c081f4503fc/fa6897cd-a09b-4fba-a3ff-d359e72b9947_001.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c2/2e/3b/c22e3be6-f329-b853-de90-6d794cc8d8fb/0e8711a2-31a8-45b6-9227-5f23c1577ea8_002.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ec/10/fc/ec10fc65-eff9-7070-27de-b5658ae93378/4e5fb9d8-6af3-4e87-9ac3-ffb1ce90ec20_003.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/71/bc/b7/71bcb7de-c500-4d18-c637-4d491d68f6b3/a14b691f-79fb-4224-aec2-23e9b1899151_004.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4a/91/72/4a91724f-94a5-e2cc-9f6f-cd82d3154c87/7df8e377-a60d-4e9c-8355-8b8429f808a6_005_Uff08_U82f1_U8bed.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/06/d2/94/06d294d5-25cc-cc59-f85c-85d1767e4a39/87a917b5-4577-4d20-a7e4-ec258fb20466_001.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/50/5e/09/505e09bf-77d5-9268-e59a-bda690219ab2/f6ca7631-36c3-437e-a402-4dc75108a62e_002.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5c/64/5f/5c645f91-05ec-d2a6-1de5-41eeaa16cea1/06d7ad36-3345-4060-ade4-62c223a44cd3_003.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f9/ca/76/f9ca76f9-f262-88e3-6a13-3c31ad2e020f/88f57d71-3063-41de-bbc1-482f20da6288_004.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/eb/32/48/eb324882-2bfb-7b11-0e97-34017f46fcf4/43020ad7-bbaf-4ce3-ab85-22f6e346b894_005_Uff08_U82f1_U6587.jpg/552x414bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1in8b Life]]></title>
@@ -2624,79 +2939,5 @@ Plus, enjoy the macOS version included with your purchase!
 
 *Download Godseeker: The Monastery now and begin your journey into the unknown.
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/98/e9/b898e950-b859-9738-9826-d951b1487a92/1.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/d1/07/47d1072c-52fc-3689-7a90-f874bf12e8f3/2.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/50/fc/bf50fc33-ca4a-332d-3c83-f26d9bdf1acf/3.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/7d/32/907d3208-9697-1c00-7add-73dcd62e199b/5.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/12/6d/72126df2-56d4-6af5-3f4d-580f7cf83742/4.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/ca/c8/87cac855-f912-e681-1cac-81167b751977/1.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/08/10/0f081005-ea77-d801-fe7b-771bcccbaa93/4.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/e6/e4/f2e6e4fd-c0ff-92b5-bd44-897794468989/3.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/17/a6/5717a6f8-cff9-8056-8a46-31a59a3124a9/2.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/58/3f/e8583f21-7b6f-b12f-06cb-3644dc120ac7/5.jpg/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dungeon Warfare 2]]></title>
-        <id>Dungeon Warfare 2-pt-1794628227571</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/1453661259?lang=en"/>
-        <updated>2026-11-14T03:50:27.571Z</updated>
-        <summary type="html"><![CDATA[Price: 5,99 € → 1,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/1453661259?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/70/68/42/70684285-33ad-dad5-e571-cbd7eab38b61/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>5,99 €</span> → <b>
-  <strong>1,99 €</strong>
-</b><span>[1,99 € ~ 5,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>1,99 €</b>
-</p><h2>Application Description</h2><p>
-  Dungeon Warfare 2 é uma sequência de Dungeon Warfare, um Tower Defense estratético desafiador, onde você se torna o mestre da dungeon a utilizar de armadilhas letais e medidas traiçoeiras para defender suas dungeons dos gananciosos aventureiros e dos aspirantes a heróis.
-
-Destaques do Jogo
-
-* Um tower defense caótico com elementos de física
-* 33 armadilhas únicas com 8 traços únicos para cada uma
-* Mais de 30 tipos de inimigos, cada qual com um traço especial
-* Mais de 60 estágios feitos à mão e um número infinito de dungeons geradas proceduralmente
-* Mais de 5 batalhas de chefões
-* A experiência ganha proporciona melhorias passivas para as armadilhas, assim como pontos de habilidade
-* Três árvores de talentos com 11 habilidades em cada uma
-* Sistema de equipamentos com mais de 30 itens únicos
-* Manipule sua própria dificuldade ao combinar runas de dificuldade para ter mais desafios e recompensas
-* Modo infinito
-* Desastres no ambiente
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/31/4b/f6/314bf6f5-a9f8-cf95-9246-b984adb214f3/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1b/e3/44/1be34432-c86f-8e09-15e0-94cfec663d3e/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/15/8d/63158dc5-0fd9-c3b4-8925-7425c4fb0770/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b7/fd/bd/b7fdbd10-280c-4866-5867-c79092746232/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/45/2b/a6/452ba605-c28b-2335-2881-9cf70537ca5d/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/94/0c/57/940c574d-5d62-f47b-6ef4-0b8e0c773b34/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1f/d1/8d/1fd18db9-9725-a2e7-e38d-69b5de1d95a6/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/93/78/a1/9378a111-d0ac-d643-1e96-cea0ce20fa67/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/86/97/7e/86977e8a-3c73-e8a8-f495-521c197103e9/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/be/0d/d3/be0dd3e4-c6c4-9c62-5557-3fb7e03c1a0e/pr_source.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/58/b1/5058b1f5-c375-5bc6-0543-1af98f984bb7/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/19/8b/9d/198b9d26-d7ad-bb92-618d-35a2b1046b31/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/48/3b/f4/483bf43d-384f-0c9b-e03d-6cffe6fe135d/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/80/5c/9d/805c9de0-fe40-34f7-cc42-001ca8999c6e/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/55/ec/a8/55eca89e-ebf1-2fef-81dd-d9c730518d4e/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/b2/9c/e8b29c13-2092-140f-0a66-961c94eba049/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/94/77/df/9477dff6-5815-bed4-0a02-5632906b9889/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ff/df/bb/ffdfbbf7-c003-5042-06e1-acd669900a5a/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/8c/8f/a7/8c8fa752-4509-e2d1-4982-98606fd96e38/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6d/b5/af/6db5afca-671d-a2cb-9515-09db4bf857a5/pr_source.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easy Text to Speech Reader Pro]]></title>
-        <id>Easy Text to Speech Reader Pro-pt-1794628227571</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/6747138769?lang=en"/>
-        <updated>2026-11-14T03:50:27.571Z</updated>
-        <summary type="html"><![CDATA[Price: 14,99 € → 9,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6747138769?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/6b/8f/0c6b8fe1-fa67-e802-a04e-af331f892939/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>14,99 €</span> → <b>
-  <strong>9,99 €</strong>
-</b><span>[6,99 € ~ 19,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>9,99 €</b>
-</p><h2>Application Description</h2><p>
-  Easy Text to Speech Reader Pro has no ads, subscriptions, or in-app purchases.
-Now you can instantly clone a voice using just 5 seconds of audio and use that voice to read your text aloud 100% local on your device. It will save every voice that you cloned in "My Voices" category and it is unlimited.  
-
-Type, paste, or import text and instantly hear it read aloud. You can also export your speech as an audio file.
-
-INSTANT VOICE CLONING
-Clone a voice from just a 5-second audio clip and immediately generate speech in that voice. Voice cloning and speech generation happen directly on your device, without needing to upload your recording to a server.  It saves every voice that you cloned in "My Voices" category and it is unlimited.
-
-TEXT TO SPEECH
-• Read text aloud with 152 voices in 50+ languages
-• Customize playback speed and pitch
-• Follow along as the app centers and highlights the word currently being read
-• Continue listening while using other apps or with your screen locked
-• Your text and reading position are saved when you close and reopen the app
-
-EXPORT AUDIO
-Export your generated speech as an audio file whenever you want.
-
-IMPORT TEXT & DOCUMENTS
-Import 19 different file types:
-.pdf / .txt / .doc / .docx / .pages / .rtf / .md / .epub / .mobi / .azw / .azw3 / .fb2 / .lit / .pdb / .prc / .djvu / .cbr / .cbz / .csv
-READ WEBPAGES
-Paste in a webpage link and Easy Text to Speech Reader Pro will read the webpage for you.
-
-NO ADS. NO SUBSCRIPTIONS. NO IN-APP PURCHASES.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/79/96/317996f7-5ec6-65c6-2834-fff0470392ed/Pro_Version_includes-Photoroom.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/cd/77/28cd77ef-eb73-acfe-a9b3-e25f21b7d51a/Only_in_Pro_Version-Photoroom.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/85/99/d285993a-2de8-fa11-2133-cb1d10c277eb/Choose_from_152_Voices_NoAds.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/64/6a/06646ac8-5710-fd97-9ecb-fe8269c12099/36_Premium_Voices_included_NoAds.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/b7/8e/98b78e20-0b0a-a7a8-b6d5-61522398bf82/Supports__U00281_U0029-Photoroom.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/a8/6b/98a86be6-13ef-81a0-cf90-b899b43ce0e8/cccImport_text_from_any_webpage-Photoroom.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/2c/d1/002cd195-ee9d-b835-abd8-2cd5c016082e/NEWSearch_through_the_text_and_tap_on_whatever_word_you_want_it_to_read_from.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/d1/63/88d163b3-80b8-8c71-3fc4-93a59ef70587/new_centering-Photoroom.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/d2/d1/abd2d146-f423-561f-8c3d-c4e3d031b9ef/It_saves_your_spot_and_text_when_you_close_and_reopen_again-Photoroom.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/35/28/8235281e-4e74-72d6-cc25-f0cd1608e8b6/NEWControl_playback_from_the_lock_screen__audio_widget.png/320x480bb.jpg" />]]></content>
     </entry>
 </feed>

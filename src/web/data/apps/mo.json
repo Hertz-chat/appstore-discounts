@@ -2969,7 +2969,7 @@
   {
     "trackId": 491231653,
     "region": "mo",
-    "timestamp": 1794131413359,
+    "timestamp": 1794893335562,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "USD 1.99",
@@ -12230,13 +12230,13 @@
   {
     "trackId": 1441522083,
     "region": "mo",
-    "timestamp": 1793653056000,
+    "timestamp": 1794893335562,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1441522083",
-    "trackName": "LED跑馬燈・手持彈幕・應援燈牌",
+    "trackName": "LED跑馬燈・字幕跑馬燈・走馬燈・大字報",
     "firstRecordedAt": 1745568184983
   },
   {
@@ -27498,5 +27498,17 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id6832405958",
     "trackName": "指尖樂器－腕上演奏",
     "firstRecordedAt": 1794864083254
+  },
+  {
+    "trackId": 6833854183,
+    "region": "mo",
+    "timestamp": 1794893335562,
+    "discounts": [],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6833854183",
+    "trackName": "誰偷吃了蛋撻？",
+    "firstRecordedAt": 1794893335562
   }
 ]

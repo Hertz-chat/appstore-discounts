@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2435` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2436` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2436|6833854183|Automatic|❌|誰偷吃了蛋撻？|誰偷吃了蛋撻？|誰偷吃了蛋撻？|Who Ate the Egg Tart?|Who Ate the Egg Tart?|誰偷吃了蛋撻？|
 |2435|550067264|Automatic|❌|客滿餐廳物語|客滿餐廳物語|客滿餐廳物語|Cafeteria Nipponica|Cafeteria Nipponica|Cafeteria Nipponica|
 |2434|6832405958|Automatic|指尖乐器－腕上演奏|指尖樂器－腕上演奏|指尖樂器－腕上演奏|指尖樂器－腕上演奏|Fingertip Instruments|Fingertip Instruments|❌|
 |2433|6756707224|Automatic|❌|都市傳說解體中心|都市傳說解體中心|都市傳說解體中心|Urban Myth Dissolution Center|Urban Myth Dissolution Center|Urban Myth Dissolution Center|
@@ -37,7 +38,7 @@ So far, we've covered `7` `Countries or Regions` and  `2435` `Apps` <br />Push n
 |2408|1233326914|Automatic|ParKing P - 我的车在哪里？|ParKing P - Find My Parked Car|ParKing P - Find My Parked Car|ParKing P - Find My Parked Car|ParKing P - Find My Parked Car|ParKing P - Find My Parked Car|ParKing P Onde está meu carro?|
 |2407|1462754972|Automatic|MONG LI|MONG LI|MONG LI|MONG LI|MONG LI|MONG LI|MONG LI|
 |2406|6788134172|Automatic|❌|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|Poppy Playtime Chapter 5|
-|2405|6828960722|Automatic|❌|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|
+|2405|6828960722|Automatic|❌|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Business Tycoon|Grounds Up: Jogo de Gestão|
 |2404|6762192063|Automatic|❌|Absolum|Absolum|Absolum|Absolum|Absolum|Absolum|
 |2403|408625926|Automatic|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|GPS 2 IP|
 |2402|6827745244|Automatic|❌|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|Vize: Yaşam Simülasyonu|
@@ -79,7 +80,7 @@ So far, we've covered `7` `Countries or Regions` and  `2435` `Apps` <br />Push n
 |2366|6771652722|Automatic|❌|ONE PIECE 海洋盛宴|ONE PIECE 海洋盛宴|ONE PIECE 海洋盛宴|ONE PIECE: Grand Gourmet|ONE PIECE: Grand Gourmet|ONE PIECE: Grand Gourmet|
 |2365|6819720065|Automatic|P's Pocket|P's Pocket|P's Pocket|P's Pocket|P's Pocket|❌|❌|
 |2364|6793744610|Automatic|2AM CAM|2AM CAM|2AM CAM|2AM CAM|2AM CAM|2AM CAM|2AM CAM|
-|2363|6817821959|Automatic|❌|Cafe Days：咖啡店經營|Cafe Days：咖啡店經營|Cafe Days：咖啡店經營|cafedays|cafedays|Cafe Days: gerencie um café|
+|2363|6817821959|Automatic|❌|Cafe Days：咖啡店經營|Cafe Days：咖啡店經營|Cafe Days：咖啡店經營|Cafe Days|Cafe Days|Cafe Days: gerencie um café|
 |2362|6789634028|Automatic|❌|Pilavcı|Pilavcı|Pilavcı|Rice Station|Rice Station|Pilavcı|
 |2361|424015306|Automatic|RAL iColours|RAL iColours|RAL iColours|RAL iColours|RAL iColours|RAL iColours|RAL iColours|
 |2360|1485478290|Automatic|Functional Oral Intake Scale|Functional Oral Intake Scale|Functional Oral Intake Scale|Functional Oral Intake Scale|Functional Oral Intake Scale|Functional Oral Intake Scale|Functional Oral Intake Scale|
@@ -1520,7 +1521,7 @@ So far, we've covered `7` `Countries or Regions` and  `2435` `Apps` <br />Push n
 |925|1059911569|Automatic|❌|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|Rusty Lake Hotel|
 |924|1202650514|Automatic|HealthFit|HealthFit|HealthFit|HealthFit|HealthFit|HealthFit|HealthFit|
 |923|1230231705|Automatic|❌|The Witness|The Witness|The Witness|The Witness|The Witness|The Witness|
-|922|1441522083|Automatic|LED弹幕-手持弹幕显示屏，跑马灯滚动字幕|LED跑馬燈・手持彈幕・應援燈牌|LED跑馬燈・手持彈幕・應援燈牌|LED跑馬燈・手持彈幕・應援燈牌|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|
+|922|1441522083|Automatic|手持弹幕-应援灯牌·LED显示屏·跑马灯滚动字幕|LED跑馬燈・字幕跑馬燈・走馬燈・大字報|LED跑馬燈・字幕跑馬燈・走馬燈・大字報|LED跑馬燈・字幕跑馬燈・走馬燈・大字報|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|LED Banner: Marquee & Scroller|
 |921|1492041539|Automatic|❌|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|FINAL FANTASY VI|
 |920|1498778559|Automatic|MindPage|MindPage|MindPage|MindPage|MindPage|MindPage|MindPage - Mind Map|
 |919|1533709428|Automatic|❌|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City 2|Pocket City: Cidade de Bolso 2|

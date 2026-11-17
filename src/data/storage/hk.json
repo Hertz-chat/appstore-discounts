@@ -157593,18 +157593,31 @@
     ]
   },
   "1441522083": {
-    "name": "LED跑馬燈・手持彈幕・應援燈牌",
+    "name": "LED跑馬燈・字幕跑馬燈・走馬燈・大字報",
     "maxPriceInfo": {
       "price": 2,
       "formattedPrice": "HK$ 2.00",
-      "Pro 終身版": "HK$ 32.00"
+      "Pro 終身版": "HK$ 32.00",
+      "Pro 14 天通行證": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Pro 終身版": "HK$ 32.00"
+      "Pro 終身版": "HK$ 32.00",
+      "Pro 14 天通行證": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794893335562,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro 14 天通行證": "HK$ 8.00",
+            "Pro 終身版": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793653056000,
@@ -268890,6 +268903,25 @@
     "history": [
       [
         {
+          "timestamp": 1794893335562,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 38.00",
+            "The Aircraft Bundle": "HK$ 188.00",
+            "Global scenery - 12 months": "HK$ 148.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "Global scenery - 3 months": "HK$ 58.00",
+            "Boeing 747-400": "HK$ 18.00",
+            "Airbus A380": "HK$ 18.00",
+            "Boeing 737 MAX 9": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794765956525,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -311720,6 +311752,25 @@
     "history": [
       [
         {
+          "timestamp": 1794893335562,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "組合・光之騎士團": "HK$ 88.00",
+            "付費角色・艾德瑞克": "HK$ 8.00",
+            "付費角色・菲涅": "HK$ 8.00",
+            "付費角色・墨蘭": "HK$ 8.00",
+            "付費角色・伊蕾娜": "HK$ 8.00",
+            "服裝組合 · 騎士團盛宴": "HK$ 22.00",
+            "服裝組合 · 森林與工坊": "HK$ 22.00",
+            "服裝組合 · 雪花庭園": "HK$ 22.00",
+            "服裝組合 · 東方之夜": "HK$ 22.00",
+            "服裝組合 · 月與星": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794659876852,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -315919,6 +315970,27 @@
           "timestamp": 1794864083254,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6833854183": {
+    "name": "誰偷吃了蛋撻？",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794893335562,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
           "inAppPurchases": {}
         }
       ]

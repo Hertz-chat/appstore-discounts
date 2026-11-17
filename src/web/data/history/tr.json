@@ -18575,6 +18575,25 @@
     "history": [
       [
         {
+          "timestamp": 1794893335562,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "₺199,99",
+            "Gold Monthly": "₺349,99",
+            "Predictive Report - Full": "₺199,99",
+            "Gold Level Free Trial": "₺0,00",
+            "Relationship Report": "₺199,99",
+            "Birthday Report": "₺199,99",
+            "7-day Trial Astrolocality": "₺0,00",
+            "Astrolocality Maps": "₺1.299,99",
+            "Gold Level lifetime": "₺3.999,99",
+            "Child Report - Full": "₺199,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794541901399,
           "price": 0,
           "formattedPrice": "Free",
@@ -155636,14 +155655,27 @@
     "maxPriceInfo": {
       "price": 199.99,
       "formattedPrice": "₺199,99",
-      "Pro Lifetime": "₺199,99"
+      "Pro Lifetime": "₺199,99",
+      "Pro 14-Day Pass": "₺19,99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Pro Lifetime": "₺199,99"
+      "Pro Lifetime": "₺199,99",
+      "Pro 14-Day Pass": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794893335562,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro 14-Day Pass": "₺19,99",
+            "Pro Lifetime": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793673861342,
@@ -215967,6 +215999,14 @@
     "history": [
       [
         {
+          "timestamp": 1794893335562,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791420216639,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -224695,6 +224735,14 @@
     "history": [
       [
         {
+          "timestamp": 1794893335562,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791420216639,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -226792,6 +226840,14 @@
       "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794893335562,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790119857097,
@@ -255982,6 +256038,23 @@
     "history": [
       [
         {
+          "timestamp": 1794893335562,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 737-800": "₺149,99",
+            "Airbus A321": "₺99,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "UH-60": "₺49,99",
+            "Boeing 737-900": "₺99,99",
+            "Boeing 747-400": "₺99,99"
+          }
+        },
+        {
           "timestamp": 1794864083254,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -276764,10 +276837,18 @@
       "formattedPrice": "₺399,99"
     },
     "minPriceInfo": {
-      "price": 129.99,
-      "formattedPrice": "₺129,99"
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794893335562,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790119857097,
@@ -286777,6 +286858,18 @@
       "DLC - Land of the Eclipse": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794893335562,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "DLC - The Tournament": "₺99,99",
+            "DLC - The Ember Saga": "₺99,99",
+            "DLC - Land of the Eclipse": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1791420216639,
@@ -309397,7 +309490,7 @@
   },
   "6817821959": {
     "trackId": 6817821959,
-    "trackName": "cafedays",
+    "trackName": "Cafe Days",
     "region": "tr",
     "maxPriceInfo": {
       "price": 99.99,
@@ -310616,10 +310709,18 @@
       "formattedPrice": "₺399,99"
     },
     "minPriceInfo": {
-      "price": 399.99,
-      "formattedPrice": "₺399,99"
+      "price": 299.99,
+      "formattedPrice": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794893335562,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794344679438,
@@ -310836,6 +310937,29 @@
           "timestamp": 1794864083254,
           "price": 49.99,
           "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6833854183": {
+    "trackId": 6833854183,
+    "trackName": "Who Ate the Egg Tart?",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794893335562,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
           "inAppPurchases": {}
         }
       ]

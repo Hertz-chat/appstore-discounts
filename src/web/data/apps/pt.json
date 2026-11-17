@@ -11355,7 +11355,7 @@
   {
     "trackId": 1441522083,
     "region": "pt",
-    "timestamp": 1793673861342,
+    "timestamp": 1794893335562,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Gratuito",
@@ -15273,10 +15273,10 @@
   {
     "trackId": 1587860402,
     "region": "pt",
-    "timestamp": 1791420216639,
+    "timestamp": 1794893335562,
     "discounts": [],
-    "price": 5.99,
-    "formattedPrice": "5,99 €",
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1587860402",
     "trackName": "Moncage",
@@ -15957,10 +15957,10 @@
   {
     "trackId": 1614795077,
     "region": "pt",
-    "timestamp": 1791420216639,
+    "timestamp": 1794893335562,
     "discounts": [],
-    "price": 2.99,
-    "formattedPrice": "2,99 €",
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1614795077",
     "trackName": "Otaku's Adventure",
@@ -16125,10 +16125,10 @@
   {
     "trackId": 1620883955,
     "region": "pt",
-    "timestamp": 1790119857097,
+    "timestamp": 1794893335562,
     "discounts": [],
-    "price": 8.99,
-    "formattedPrice": "8,99 €",
+    "price": 4.49,
+    "formattedPrice": "4,49 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1620883955",
     "trackName": "Little Nightmares",
@@ -17159,10 +17159,10 @@
   {
     "trackId": 6443875944,
     "region": "pt",
-    "timestamp": 1791420216639,
+    "timestamp": 1794893335562,
     "discounts": [],
-    "price": 5.99,
-    "formattedPrice": "5,99 €",
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6443875944",
     "trackName": "Sands of Salzaar",
@@ -17954,10 +17954,10 @@
   {
     "trackId": 6458144503,
     "region": "pt",
-    "timestamp": 1790119857097,
+    "timestamp": 1794893335562,
     "discounts": [],
-    "price": 7.99,
-    "formattedPrice": "7,99 €",
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6458144503",
     "trackName": "Skul: The Hero Slayer",
@@ -18074,7 +18074,7 @@
   {
     "trackId": 6463616555,
     "region": "pt",
-    "timestamp": 1794824240122,
+    "timestamp": 1794893335562,
     "discounts": [],
     "price": 4.99,
     "formattedPrice": "4,99 €",
@@ -22051,10 +22051,10 @@
   {
     "trackId": 6752607219,
     "region": "pt",
-    "timestamp": 1794344679438,
+    "timestamp": 1794893335562,
     "discounts": [],
-    "price": 7.99,
-    "formattedPrice": "7,99 €",
+    "price": 7.49,
+    "formattedPrice": "7,49 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6752607219",
     "trackName": "Warhammer Survivors",
@@ -25492,7 +25492,7 @@
     "formattedPrice": "2,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6828960722",
-    "trackName": "Grounds Up: Business Tycoon",
+    "trackName": "Grounds Up: Jogo de Gestão",
     "firstRecordedAt": 1794458321964
   },
   {
@@ -25518,5 +25518,17 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id6830479627",
     "trackName": "1in8b Life",
     "firstRecordedAt": 1794131413359
+  },
+  {
+    "trackId": 6833854183,
+    "region": "pt",
+    "timestamp": 1794893335562,
+    "discounts": [],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6833854183",
+    "trackName": "誰偷吃了蛋撻？",
+    "firstRecordedAt": 1794893335562
   }
 ]

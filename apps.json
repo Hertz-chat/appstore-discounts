@@ -2,6 +2,13 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6833854183,
+      "name": {
+        "hk": "誰偷吃了蛋撻？"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 550067264,
       "name": {
         "mo": "客滿餐廳物語"

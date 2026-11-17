@@ -2993,7 +2993,7 @@
   {
     "trackId": 491231653,
     "region": "tw",
-    "timestamp": 1794659876852,
+    "timestamp": 1794893335562,
     "discounts": [],
     "price": 60,
     "formattedPrice": "$60.00",
@@ -7929,7 +7929,7 @@
   {
     "trackId": 1050535507,
     "region": "tw",
-    "timestamp": 1794628227571,
+    "timestamp": 1794893335562,
     "discounts": [],
     "price": 60,
     "formattedPrice": "$60.00",
@@ -11227,7 +11227,7 @@
   {
     "trackId": 1346580540,
     "region": "tw",
-    "timestamp": 1794864083254,
+    "timestamp": 1794893335562,
     "discounts": [],
     "price": 60,
     "formattedPrice": "$60.00",
@@ -12265,13 +12265,13 @@
   {
     "trackId": 1441522083,
     "region": "tw",
-    "timestamp": 1793653056000,
+    "timestamp": 1794893335562,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1441522083",
-    "trackName": "LED跑馬燈・手持彈幕・應援燈牌",
+    "trackName": "LED跑馬燈・字幕跑馬燈・走馬燈・大字報",
     "firstRecordedAt": 1745568184983
   },
   {
@@ -13495,7 +13495,7 @@
   {
     "trackId": 1477966166,
     "region": "tw",
-    "timestamp": 1794659876852,
+    "timestamp": 1794893335562,
     "discounts": [],
     "price": 150,
     "formattedPrice": "$150.00",
@@ -27647,5 +27647,17 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id6832405958",
     "trackName": "指尖樂器－腕上演奏",
     "firstRecordedAt": 1794864083254
+  },
+  {
+    "trackId": 6833854183,
+    "region": "tw",
+    "timestamp": 1794893335562,
+    "discounts": [],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6833854183",
+    "trackName": "誰偷吃了蛋撻？",
+    "firstRecordedAt": 1794893335562
   }
 ]

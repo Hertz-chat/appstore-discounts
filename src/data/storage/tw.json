@@ -162941,6 +162941,23 @@
     "history": [
       [
         {
+          "timestamp": 1794998985299,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "68金玉": "$330.00",
+            "30金玉": "$170.00",
+            "6金玉": "$33.00",
+            "198金玉": "$990.00",
+            "尊享月俸": "$170.00",
+            "648金玉": "$3,290.00",
+            "一鍵買斷禮包": "$150.00",
+            "禮包5": "$170.00",
+            "328金玉": "$1,690.00",
+            "6元新手禮包​​": "$33.00"
+          }
+        },
+        {
           "timestamp": 1794960411965,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -182014,6 +182031,24 @@
       "Natural Wonders": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794998985299,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "The Complete Collection": "$1,190.00",
+            "Explorer Pack": "$390.00",
+            "The Ultimate Edition Welcome Offer": "$790.00",
+            "Welcome Offer": "$690.00",
+            "Natural Wonders": "$90.00",
+            "New York 2121 Board": "$220.00",
+            "Cherry Blossom Tokyo Board": "$220.00",
+            "Promotion": "$590.00",
+            "New York 2121": "$490.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794893335562,
@@ -221726,6 +221761,25 @@
       "Hero Bomett": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794998985299,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "All Unit Groups": "$390.00",
+            "All Heroes": "$490.00",
+            "Hero Dragon Kosmos": "$220.00",
+            "Special Daily Pack15": "$60.00",
+            "Unit Group Jaegers": "$220.00",
+            "Starter Pack": "$150.00",
+            "Special Daily Pack7": "$60.00",
+            "Hero Red Dragon On Sale": "$120.00",
+            "Unit Group Rebooted Ascendii": "$90.00",
+            "HeroBounty Hunter": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794765956525,
@@ -268567,6 +268621,19 @@
     "history": [
       [
         {
+          "timestamp": 1794998985299,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Elite Pack": "$150.00",
+            "Premium Pack": "$120.00",
+            "Advanced Pack": "$60.00",
+            "Standard Pack": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794824240122,
           "price": 50,
           "formattedPrice": "$50.00",
@@ -277085,6 +277152,25 @@
       "Airbus A321 XLR": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794998985299,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Boeing 787-10": "$60.00",
+            "Boeing 777-300ER": "$60.00",
+            "Global scenery - 12 months": "$690.00",
+            "Airbus A350-1000": "$120.00",
+            "The Aircraft Bundle": "$790.00",
+            "Boeing 747-400": "$60.00",
+            "Airbus A380": "$60.00",
+            "Boeing 737 MAX 9": "$60.00",
+            "Airbus A321": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794927717454,
@@ -326125,7 +326211,11 @@
       "一箱寶石": "$690.00",
       "一袋寶石": "$150.00",
       "一把寶石": "$90.00",
-      "展示 禮包 7": "$150.00"
+      "展示 禮包 7": "$150.00",
+      "英雄達莉雅": "$150.00",
+      "英雄奧斯尼爾": "$150.00",
+      "塔樓貓頭鷹騎士": "$150.00",
+      "法術變羊術": "$150.00"
     },
     "minPriceInfo": {
       "price": 220,
@@ -326157,9 +326247,32 @@
       "一箱寶石": "$690.00",
       "一袋寶石": "$150.00",
       "一把寶石": "$90.00",
-      "展示 禮包 7": "$150.00"
+      "展示 禮包 7": "$150.00",
+      "英雄達莉雅": "$150.00",
+      "英雄奧斯尼爾": "$150.00",
+      "塔樓貓頭鷹騎士": "$150.00",
+      "法術變羊術": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794998985299,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "英雄達莉雅": "$150.00",
+            "全英雄禮包": "$790.00",
+            "英雄奧斯尼爾": "$150.00",
+            "全法術禮包": "$390.00",
+            "塔樓貓頭鷹騎士": "$150.00",
+            "法術變羊術": "$150.00",
+            "全塔禮包": "$690.00",
+            "全塔禮包_B": "$490.00",
+            "英雄 德拉坎": "$220.00",
+            "英雄 阿什彼特": "$220.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794927717454,
@@ -329312,14 +329425,22 @@
   "6819150080": {
     "name": "Duo Aquarium",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 60,
+      "formattedPrice": "$60.00"
     },
     "minPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794998985299,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794085796977,

@@ -80080,6 +80080,23 @@
     "history": [
       [
         {
+          "timestamp": 1794998985299,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "超值好禮3_648": "99,99 €",
+            "超值好禮2_648": "99,99 €",
+            "超值好禮1_648": "99,99 €",
+            "超值好禮3_328": "59,99 €",
+            "超值好禮2_328": "59,99 €",
+            "超值好禮1_328": "59,99 €",
+            "超值好禮2_198": "34,99 €",
+            "超值好禮3_198": "34,99 €",
+            "超值好禮1_198": "34,99 €",
+            "超值好禮3_128": "22,99 €"
+          }
+        },
+        {
           "timestamp": 1794960411965,
           "price": 0.29,
           "formattedPrice": "0,29 €",
@@ -84037,6 +84054,25 @@
       "Victorian London Board": "6,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794998985299,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "Big Cities USA Explorer Pack": "2,99 €",
+            "New York 2121 Board": "6,99 €",
+            "Astronaut Token Sale": "2,99 €",
+            "Euro Trip": "3,99 €",
+            "New York 2121": "14,99 €",
+            "The Ultimate Edition Welcome Offer": "24,99 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794765956525,
@@ -161304,14 +161340,22 @@
     "trackName": "Duo Aquarium",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 1,
-      "formattedPrice": "1,00 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "minPriceInfo": {
       "price": 1,
       "formattedPrice": "1,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794998985299,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794085796977,

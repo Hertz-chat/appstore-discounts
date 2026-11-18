@@ -17278,6 +17278,25 @@
     "history": [
       [
         {
+          "timestamp": 1794998985299,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "¥28.00",
+            "Gold Level Free Trial": "¥0.00",
+            "Predictive Report - Full": "¥28.00",
+            "7-day Trial Astrolocality": "¥0.00",
+            "Relationship Report": "¥28.00",
+            "Astrolocality Maps": "¥168.00",
+            "The Big Three Report": "¥28.00",
+            "Child Report - Full": "¥28.00",
+            "Gold Level lifetime": "¥498.00",
+            "Gold Monthly": "¥58.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793438080874,
           "price": 0,
           "formattedPrice": "免费",
@@ -159726,6 +159745,24 @@
     "history": [
       [
         {
+          "timestamp": 1794998985299,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "心愿礼包": "¥45.00",
+            "聚财盆": "¥18.00",
+            "超值月卡": "¥30.00",
+            "豪华月卡": "¥68.00",
+            "一碟包子": "¥6.00",
+            "SP武将碎片": "¥298.00",
+            "新手成长礼包": "¥6.00",
+            "竞赛VIP赛季卡": "¥30.00",
+            "新手成长大礼包": "¥30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794824240122,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -230878,6 +230915,25 @@
     "history": [
       [
         {
+          "timestamp": 1794998985299,
+          "price": 29,
+          "formattedPrice": "¥29.00",
+          "inAppPurchases": {
+            "《沙石镇时光》美好时光与怪兽萌宠合集包": "¥14.00",
+            "《沙石镇时光》肥尾守宫宠物包": "¥3.00",
+            "DLC-家具合集包": "¥10.00",
+            "手游DLC-工坊主泳装礼服合集包": "¥5.00",
+            "DLC超值合集包": "¥56.00",
+            "DLC-星光礼服礼包合集": "¥12.00",
+            "《沙石镇时光》DLC-暖意泳装礼包合集": "¥12.00",
+            "《沙石镇时光》怪兽萌宠": "¥10.00",
+            "沙石镇时光恋爱时光DLC": "¥10.00",
+            "DLC-雅致家具包": "¥5.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794234717577,
           "price": 29,
           "formattedPrice": "¥29.00",
@@ -242920,14 +242976,22 @@
   "6819150080": {
     "name": "Duo Aquarium",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
+      "price": 15,
+      "formattedPrice": "¥15.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794998985299,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794085796977,
@@ -243139,6 +243203,37 @@
           "price": 38,
           "formattedPrice": "¥38.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6833608280": {
+    "name": "FarView 远迹",
+    "maxPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00",
+      "一张明信片": "¥6.00",
+      "一张车票": "¥68.00",
+      "一杯咖啡": "¥18.00"
+    },
+    "minPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00",
+      "一张明信片": "¥6.00",
+      "一张车票": "¥68.00",
+      "一杯咖啡": "¥18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794998985299,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {
+            "一张明信片": "¥6.00",
+            "一张车票": "¥68.00",
+            "一杯咖啡": "¥18.00"
+          }
         }
       ]
     ]

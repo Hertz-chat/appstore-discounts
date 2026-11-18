@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2026-11-18T01:52:49.405Z</updated>
+    <updated>2026-11-18T12:17:08.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008546980077568+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcometw</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-18T01:52:49.405Z</updated>
+        <updated>2026-11-18T12:17:08.281Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008546980077568+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingtwWed, 18 Nov 2026 01:52:49 GMT</id>
+        <id>rankingtwWed, 18 Nov 2026 12:17:08 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-18T01:52:49.405Z</updated>
+        <updated>2026-11-18T12:17:08.282Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>中国澳门(MO)</li><li>
@@ -51,13 +51,13 @@ feedId:157008546980077568+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>2438</b>
+        <b>2439</b>
       </td>
       <td>
         <b>204</b>
       </td>
       <td>
-        <b>2234</b>
+        <b>2235</b>
       </td>
       <td>
         <b>108</b>
@@ -1523,6 +1523,23 @@ feedId:157008546980077568+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>82</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/tw/6469419567?lang=zh-CN">Overwinter Survival</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -2408,6 +2425,42 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overwinter Survival]]></title>
+        <id>Overwinter Survival-tw-1794998985299</id>
+        <link href="https://appstore-discounts.eyelly.me/tw/6469419567?lang=zh-CN"/>
+        <updated>2026-11-18T10:49:45.299Z</updated>
+        <summary type="html"><![CDATA[价格: $50.00 → $30.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tw/6469419567?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/b9/52/e0b952b9-dd03-89a6-1d23-ced125ddbba4/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>$50.00</span> → <b>
+  <strong>$30.00</strong>
+</b><span>[$30.00 ~ $50.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>$30.00</b>
+</p><h3>App內購買</h3><ul>
+  <li>
+    Elite Pack：<b>$150.00</b>
+  </li><li>
+    Premium Pack：<b>$120.00</b>
+  </li><li>
+    Advanced Pack：<b>$60.00</b>
+  </li><li>
+    Standard Pack：<b>$30.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Overwinter Survival is a card-based survival game in which you are stranded on the glaciers of Greenland.
+
+The cold and loneliness ensnare you after your plane breaks down for an unknown reason, leaving you crashed on Greenland's glaciers and seeking shelter at a nearby cabin. Now you must hunt, craft tools and items, and keep your stove fueled to survive in the cold.
+
+In Overwinter Survival, you must use the cards you're dealt to stay alive. You can only use one card per round. With Lady Luck at the helm, no two journeys will be the same.
+
+Fish in the glaciers, hunt with your spear and craft an axe at your workshop to become a lumberjack. To get out of this frozen hell and see your family once again, you must stay alive and repair your plane. 
+
+Experience a unique journey each time you play with randomly generated card decks and test your survival skills while pushing your luck amidst the frozen glaciers.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/42/91/ea42917a-87ff-9414-320c-602dde9a5de9/daafa34f-4ae8-45f7-9a74-0d2d92708f0d_111.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/e0/93/23e09331-6768-4425-f12b-45378fd5b888/5afa3020-620c-47c9-bdfa-e2f537b35b1e_222.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/96/17/9f9617ca-2068-3661-9a8f-8f8e6d5a82c1/62567886-a9d4-4d5a-b16a-1b689d1f12e8_333.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/cf/3c/9ecf3ccb-b32b-f2b1-9904-18688273f342/3d78518e-8059-473f-8e7f-0a0c7f7dfd1d_444.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/bb/67/93bb67c7-2fe0-b947-3bea-e4467a6fdcf0/32a50892-2052-40a8-8acd-995989240587_555.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/ad/76/bfad76cb-a2c7-35b8-b6e3-e77d30f655bf/062ff617-573c-4b4c-9300-bbe1dd60b199_666.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/54/49/4c544973-9ff2-32b5-b073-1bd8533a9d09/cdbb0737-aec4-45af-a57e-e7cd7dba201d_888.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/e8/4d/35e84db8-003c-b184-e826-802d2cc87c3f/a5aa16d3-849b-458f-bb97-0043f91e531e_777.png/392x696bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iZip專業版 - Zip RAR 壓縮、解壓縮工具]]></title>
@@ -3585,41 +3638,5 @@ Brython 篇
 
 張凱慶 2026/05/13
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/f5/e1/e6f5e185-fac4-cbc5-120f-412c89ee5747/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-30_at_15.07.03.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/c4/81/e4c48176-729d-ab10-c9e1-c98e51d2d1fc/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-30_at_15.08.13.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/8b/63/1b8b6375-d8ba-1f83-b60d-49c6f9cd5f18/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-30_at_15.08.08.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/06/56/c006566d-97a0-7838-bfa8-d752d6467d0a/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-30_at_15.07.58.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/cb/f1/b6cbf1f5-d0fa-d919-7405-100ed4a2dc12/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-30_at_15.08.17.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/41/30/654130d4-3e5a-05d4-7f51-74d2374e4ec6/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-30_at_15.07.18.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/bb/d6/19bbd6cc-d210-a0d9-4e10-5617933e84d6/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-30_at_15.07.28.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/e2/1d/15e21daf-b8a6-af2a-208f-128875873731/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-05-30_at_15.07.23.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/6e/4d/996e4d9d-c449-1c2b-1e43-b312190c5c56/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-26_at_12.59.16.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/f5/73/1bf573f5-36c2-cf55-969c-db00380a2e2b/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-26_at_12.59.29.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/d4/8a/12d48ac2-56d7-d272-cfb8-73e8e7b5c49b/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-26_at_12.57.45.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/e4/7e/4ee47e69-dbbf-4f17-85b3-c9db8358588b/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-26_at_12.58.12.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/e7/ed/76e7ed85-f47b-bcf5-e67b-e256c29db0d4/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-26_at_12.58.57.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/46/d8/bc46d8e0-5b2e-ff8f-2c65-649be4d4755b/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-26_at_12.58.39.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eco Inc. 拯救地球]]></title>
-        <id>Eco Inc. 拯救地球-tw-1794736969443</id>
-        <link href="https://appstore-discounts.eyelly.me/tw/1504760106?lang=zh-CN"/>
-        <updated>2026-11-15T10:02:49.443Z</updated>
-        <summary type="html"><![CDATA[价格: $30.00 → $10.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tw/1504760106?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/96/25/e59625d0-6ff8-210d-08d4-422a7c1bc1db/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$30.00</span> → <b>
-  <strong>$10.00</strong>
-</b><span>[免費 ~ $250.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>$10.00</b>
-</p><h3>App內購買</h3><ul>
-  <li>
-    +100 boosters ECO-Initiative!：<b>$10.00</b>
-  </li><li>
-    +2026 boosters ECO-Initiative!：<b>$150.00</b>
-  </li><li>
-    Full scenarios：<b>$150.00</b>
-  </li><li>
-    +444! Triple-Four Booster Pack：<b>$60.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  Eco Inc. 拯救地球是一款守護鮮活星球的策略遊戲。
-
-挑戰塑膠污染、食物浪費、全球降溫、外星人入侵等主題關卡。每個關卡都有獨特的威脅、專案和勝利條件。
-
-發展環保倡議，管理資源，派遣志願者處理緊急事件。升級救援直升機和船隻，探索有流動雲層的 3D 地球，並縮小視角暢遊太陽系。
-
-解鎖自動收集積分和開啟寶箱，分別調整音樂與音效音量，並調整文字大小以舒適遊玩。
-
-內建Moodplayer：選擇曲目、暫停音樂並調整音量。載入音樂需要網路連線，無需登入。 播放器設定也提供透過Google登入Moodplayer的選用功能。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/98/19/ee981957-774c-e83f-92d7-a4abfe14cf07/01-planet.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/64/37/be643794-64e9-39fd-be79-ed2bac40043e/02-together.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/f6/b2/a7f6b2e3-e56f-49bc-fbf5-380cac17c02b/03-volunteers.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/da/02/a4da02df-b9ea-500f-9ae8-030d55a0b86f/04-technology.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/54/a0/b354a095-f99b-8fb2-76d1-cdc3be7ac99d/05-forests.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/2c/85/e52c852e-1b3f-61de-7e14-84ce1b611db7/06-oceans.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/74/9e/4a749e17-cb1f-95c6-65cc-e2507872bea5/07-animals.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/18/dd/8718ddc1-ec36-4a30-3141-d58a456305fe/08-mars.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/37/30/7137304f-02a3-1f57-3ea8-c058a8f6919b/09-choices.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/1c/59/3c1c598f-fe3b-bd4a-0199-68b8315053bb/10-scenarios.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/b3/d2/b4b3d2ce-436f-1aba-59e9-343f2c989e3e/daf1a717-930a-4691-8e9e-632bf9d41004_STE_1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/b3/f4/63b3f40d-e379-ceeb-c716-afc2774d3fe9/71d53df6-9f84-44ea-ba0e-d51f52b37614_STE_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/45/81/03458170-2cef-39e9-a5c8-1478fffae776/c8d24bc2-ed48-4ff7-af1f-5eac2143b969_STE_3.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/42/77/604277a1-e73e-c6e6-9e87-941d10678955/fa6afe16-481d-457e-a10d-d0938cd75bbb_STE_4.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/1d/50/981d50ec-1bc6-0201-54ce-b9259d50745a/03c17d9e-5b2f-4f34-b931-299121514392_STE_5.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/e6/4b/8ae64b60-ee16-d042-9f3d-078d0a952486/a1d722f6-22c8-4961-a1bd-29917fdfb568_STE_6.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/4d/06/4f4d063c-0abb-ce38-bc1d-ad9c19d98700/f02a6ac3-3d8c-4341-a334-ed7c24d5d970_STE_Screen_6_2732x2048.png/552x414bb.png" />]]></content>
     </entry>
 </feed>

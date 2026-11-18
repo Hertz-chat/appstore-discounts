@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 633625517,
+    "region": "us",
+    "timestamp": 1794998985299,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $9.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id633625517",
+    "trackName": "Baldur's Gate II: EE",
+    "firstRecordedAt": 1792345098035
+  },
+  {
+    "trackId": 1515382132,
+    "region": "us",
+    "timestamp": 1794998985299,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $9.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1515382132",
+    "trackName": "Axis & Allies 1942 Online",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6469419567,
+    "region": "us",
+    "timestamp": 1794998985299,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $1.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6469419567",
+    "trackName": "Overwinter Survival",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 479665601,
     "region": "us",
     "timestamp": 1794960411965,

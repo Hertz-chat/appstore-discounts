@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2026-11-18T01:52:49.444Z</updated>
+    <updated>2026-11-18T12:17:08.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-18T01:52:49.444Z</updated>
+        <updated>2026-11-18T12:17:08.300Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusWed, 18 Nov 2026 01:52:49 GMT</id>
+        <id>rankingusWed, 18 Nov 2026 12:17:08 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-18T01:52:49.444Z</updated>
+        <updated>2026-11-18T12:17:08.300Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -51,13 +51,13 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>2438</b>
+        <b>2439</b>
       </td>
       <td>
         <b>204</b>
       </td>
       <td>
-        <b>2234</b>
+        <b>2235</b>
       </td>
       <td>
         <b>108</b>
@@ -298,6 +298,23 @@ feedId:157008699750812672+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
+        <a href="https://appstore-discounts.eyelly.me/us/633625517?lang=en">Baldur's Gate II: EE</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>13</b>
+      </td>
+      <td>
         <a href="https://appstore-discounts.eyelly.me/us/882362024?lang=en">Ace Attorney: Dual Destinies</a>
       </td>
       <td>
@@ -322,7 +339,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/931188326?lang=en">DayCost Pro - Personal Finance</a>
@@ -339,7 +356,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/966489322?lang=en">生辰 — 桌面时间小组件</a>
@@ -362,7 +379,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/998834675?lang=en">Clouds & Sheep 2 Premium</a>
@@ -379,7 +396,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1020541183?lang=en">MovieSpirit - Movie Maker Pro</a>
@@ -396,7 +413,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1021566244?lang=en">FINAL FANTASY VII</a>
@@ -413,7 +430,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1041260001?lang=en">FINAL FANTASY Ⅸ</a>
@@ -430,7 +447,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1136993233?lang=en">Apollo Justice Ace Attorney</a>
@@ -453,7 +470,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1140451547?lang=en">Shot Tracer</a>
@@ -470,7 +487,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1159700098?lang=en">To the Moon</a>
@@ -487,7 +504,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1298544927?lang=en">My Child Lebensborn</a>
@@ -504,7 +521,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1303222868?lang=en">Paprika Recipe Manager 4</a>
@@ -521,7 +538,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1304822713?lang=en">Infinity Tank Battle</a>
@@ -538,7 +555,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1326740784?lang=en">FINAL FANTASY VIII Remastered</a>
@@ -555,7 +572,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1422480068?lang=en">Nautilus: Web, Word, Annotate</a>
@@ -578,7 +595,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1424977227?lang=en">Titan Quest HD</a>
@@ -595,7 +612,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1439262206?lang=en">Root Board Game</a>
@@ -612,7 +629,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1441522083?lang=en">LED Banner: Marquee & Scroller</a>
@@ -629,7 +646,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1453661259?lang=en">Dungeon Warfare 2</a>
@@ -646,7 +663,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1453820315?lang=en">This Is the Police 2</a>
@@ -663,7 +680,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1492041417?lang=en">FINAL FANTASY IV</a>
@@ -680,7 +697,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1492041539?lang=en">FINAL FANTASY VI</a>
@@ -697,7 +714,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1492041611?lang=en">FINAL FANTASY V</a>
@@ -714,7 +731,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1492049794?lang=en">武林群侠风云传</a>
@@ -731,7 +748,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1500126852?lang=en">Chord</a>
@@ -748,7 +765,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1504760106?lang=en">Eco inc. Save the Earth</a>
@@ -765,27 +782,10 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/us/1523633394?lang=en">SpongeBob SquarePants</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>39</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/1537362903?lang=en">Neighbours back From Hell</a>
+        <a href="https://appstore-discounts.eyelly.me/us/1515382132?lang=en">Axis & Allies 1942 Online</a>
       </td>
       <td>
         <ul>
@@ -802,7 +802,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>40</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/1571643809?lang=en">Dungeon and Puzzles</a>
+        <a href="https://appstore-discounts.eyelly.me/us/1523633394?lang=en">SpongeBob SquarePants</a>
       </td>
       <td>
         <ul>
@@ -819,7 +819,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>41</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/1575414319?lang=en">Dune: Imperium</a>
+        <a href="https://appstore-discounts.eyelly.me/us/1537362903?lang=en">Neighbours back From Hell</a>
       </td>
       <td>
         <ul>
@@ -836,7 +836,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>42</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/1580067723?lang=en">Wall of insanity</a>
+        <a href="https://appstore-discounts.eyelly.me/us/1571643809?lang=en">Dungeon and Puzzles</a>
       </td>
       <td>
         <ul>
@@ -853,7 +853,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>43</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/1580629864?lang=en">Clank!</a>
+        <a href="https://appstore-discounts.eyelly.me/us/1575414319?lang=en">Dune: Imperium</a>
       </td>
       <td>
         <ul>
@@ -870,7 +870,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>44</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/1587301632?lang=en">All In One Memo</a>
+        <a href="https://appstore-discounts.eyelly.me/us/1580067723?lang=en">Wall of insanity</a>
       </td>
       <td>
         <ul>
@@ -887,7 +887,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>45</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/1587860402?lang=en">Moncage</a>
+        <a href="https://appstore-discounts.eyelly.me/us/1580629864?lang=en">Clank!</a>
       </td>
       <td>
         <ul>
@@ -902,6 +902,40 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>
         <b>46</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/1587301632?lang=en">All In One Memo</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>47</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/1587860402?lang=en">Moncage</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>48</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1591620171?lang=en">Stay for Safari</a>
@@ -924,7 +958,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1600925588?lang=en">GR Linker - Image Sync</a>
@@ -941,7 +975,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1601114348?lang=en">Siralim Ultimate</a>
@@ -958,7 +992,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1601446687?lang=en">Streets of Rage 4</a>
@@ -975,7 +1009,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>52</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1614795077?lang=en">Otaku's Adventure</a>
@@ -992,7 +1026,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>51</b>
+        <b>53</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1619867109?lang=en">Finding Paradise</a>
@@ -1009,7 +1043,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>52</b>
+        <b>54</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1620883955?lang=en">Little Nightmares</a>
@@ -1026,7 +1060,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>53</b>
+        <b>55</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1621065119?lang=en">Ace Attorney Trilogy</a>
@@ -1043,7 +1077,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>54</b>
+        <b>56</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1642733080?lang=en">DungeonSquad</a>
@@ -1060,7 +1094,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>55</b>
+        <b>57</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1664728315?lang=en">Mutropolis mobile</a>
@@ -1077,7 +1111,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>56</b>
+        <b>58</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6801866888?lang=en">When'd I</a>
@@ -1094,7 +1128,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>57</b>
+        <b>59</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6752503669?lang=en">Solar Arc: Golden Hour Tracker</a>
@@ -1111,7 +1145,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>58</b>
+        <b>60</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6444660338?lang=en">Legend of Keepers</a>
@@ -1128,7 +1162,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>59</b>
+        <b>61</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6446021269?lang=en">MEGA MAN X DiVE Offline</a>
@@ -1145,7 +1179,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>60</b>
+        <b>62</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6786115854?lang=en">No More Slimes!!: Idle Action</a>
@@ -1162,7 +1196,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>61</b>
+        <b>63</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6759970821?lang=en">Dungeon Merge!</a>
@@ -1179,7 +1213,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>62</b>
+        <b>64</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6770101449?lang=en">五道門：文字江湖</a>
@@ -1196,7 +1230,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>63</b>
+        <b>65</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6755103808?lang=en">VoidLink - Extreme</a>
@@ -1219,7 +1253,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>64</b>
+        <b>66</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6474541983?lang=en">Children of Morta</a>
@@ -1236,7 +1270,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>65</b>
+        <b>67</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6471594918?lang=en">Just a Simple Image Converter</a>
@@ -1253,7 +1287,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>66</b>
+        <b>68</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6758201392?lang=en">Slime Rancher</a>
@@ -1270,7 +1304,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>67</b>
+        <b>69</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6478398981?lang=en">IPTV Smart Pro - Live TV</a>
@@ -1287,7 +1321,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>68</b>
+        <b>70</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6497948575?lang=en">Way of the Hunter Wild America</a>
@@ -1304,7 +1338,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>69</b>
+        <b>71</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6758114235?lang=en">1 TL</a>
@@ -1321,7 +1355,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>70</b>
+        <b>72</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6480058345?lang=en">Kaiju Attack 2</a>
@@ -1338,7 +1372,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>71</b>
+        <b>73</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6786557574?lang=en">Fuel MPG Mileage Tracker Log</a>
@@ -1355,7 +1389,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>72</b>
+        <b>74</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6449233549?lang=en">Ark Nova</a>
@@ -1372,7 +1406,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>73</b>
+        <b>75</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6743349595?lang=en">Godseeker II Dark Fantasy ARPG</a>
@@ -1389,7 +1423,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>74</b>
+        <b>76</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6479395335?lang=en">RPGViewer</a>
@@ -1406,7 +1440,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>75</b>
+        <b>77</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6760446039?lang=en">般若心灯</a>
@@ -1429,7 +1463,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>76</b>
+        <b>78</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6744430250?lang=en">Python 學習計劃</a>
@@ -1446,7 +1480,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>77</b>
+        <b>79</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6830479627?lang=en">1in8b Life</a>
@@ -1463,7 +1497,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>78</b>
+        <b>80</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6443875944?lang=en">Sands of Salzaar</a>
@@ -1480,10 +1514,27 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>79</b>
+        <b>81</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6458144503?lang=en">Skul: The Hero Slayer</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>82</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/6469419567?lang=en">Overwinter Survival</a>
       </td>
       <td>
         <ul>
@@ -2317,6 +2368,170 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baldur's Gate II: EE]]></title>
+        <id>Baldur's Gate II: EE-us-1794998985299</id>
+        <link href="https://appstore-discounts.eyelly.me/us/633625517?lang=en"/>
+        <updated>2026-11-18T10:49:45.299Z</updated>
+        <summary type="html"><![CDATA[Price: $9.99 → $2.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/633625517?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/53/09/fa530947-f82f-c839-081a-6051ad9dae15/AppIcon-BG2EE-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$9.99</span> → <b>
+  <strong>$2.99</strong>
+</b><span>[$2.99 ~ $9.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$2.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    A Price Paid in Blood：<b>$2.99</b>
+  </li><li>
+    A Voice in the Dark：<b>$2.99</b>
+  </li><li>
+    In Defense of the Wild：<b>$2.99</b>
+  </li><li>
+    Gallery of Heroes：<b>$2.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  This game is optimized for tablets and not recommended for phones with screen sizes under 7 inches.
+
+Kidnapped. Imprisoned. Tortured. The wizard Irenicus holds you captive in his stronghold, attempting to strip you of the powers that are your birthright.
+As you escape and step back into the wider world, the question at the heart of the Bhaalspawn saga becomes impossible to ignore. Can you resist the evil in your blood and forsake the dark destiny that awaits you? Or will you embrace your monstrous nature within and ascend to godhood as the new Lord of Murder?
+
+Baldur’s Gate II: Enhanced Edition brings one of the most celebrated RPGs of all time back for modern adventurers, preserving the depth, atmosphere, and storytelling that defined the golden age of cRPGs.
+Continue the journey you began in Baldur’s Gate: Enhanced Edition, carrying your hero forward into a darker, more ambitious chapter—or forge a new protagonist to shape your own path through the Forgotten Realms.
+
+The Enhanced Edition includes the full original experience—Shadows of Amn and Throne of Bhaal—along with a refined arena mode for players who enjoy tactical challenges.
+Classic Campaign: The original Shadows of Amn adventure, faithfully restored
+Expansion: Throne of Bhaal, the epic conclusion to the Bhaalspawn saga
+Arena Challenges: The Black Pits II: Gladiators of Thay, a gauntlet of strategic battles
+Refined Difficulty Options: Story Mode for relaxed exploration and narrative focus; Legacy of Bhaal for veterans seeking a punishing, old‑school test of skill
+Fist of the Fallen: Help Rasaad, the Sun Soul Monk, find peace in his quest for vengeance.
+
+The following content is available for in-app purchase:
+
+- A Price Paid in Blood: Help the Blackguard Dorn Il-Khan appease the bloody demands of his dark patron.
+- A Voice in the Dark: Recruit the Thief Hexxat and retrieve long-lost artifacts from tombs as far away as Zakhara.
+- In Defense of the Wild: Stand with Neera the Wild Mage against a ruthless school of Red Wizards.
+
+The classic returns with thoughtful refinements that make it smoother to play today while keeping its soul untouched.
+
+Note: All translations are text only. Voice-overs are played in English.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/dc/13/c5dc130a-428e-5992-04c2-ce7555b31237/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/47/07/ad470755-5d14-1450-e6a5-cdc399a99b40/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/1c/c0/2d1cc010-5b5c-ff14-646a-ef20426fdd25/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/31/32/053132e9-07c5-3891-f948-6ecc98e76c84/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/fc/97/b7fc9782-6ab8-5e7a-6b1b-9f2abec13878/pr_source.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/ce/41/a1ce419d-c963-8466-ee4f-5c2420c99a0a/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/3e/09/c43e09de-0348-0c30-1331-ea9e58d82d89/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/95/07/979507a6-6ba9-883b-ee2b-bf2a83822a67/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/58/9b/81589b9a-d07f-d270-963e-57126973f98f/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/2c/91/e12c91cb-fb76-d115-5946-8ff512272498/pr_source.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Axis & Allies 1942 Online]]></title>
+        <id>Axis &amp; Allies 1942 Online-us-1794998985299</id>
+        <link href="https://appstore-discounts.eyelly.me/us/1515382132?lang=en"/>
+        <updated>2026-11-18T10:49:45.299Z</updated>
+        <summary type="html"><![CDATA[Price: $9.99 → $2.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/1515382132?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/3d/74/273d7435-d6f0-ad40-de16-52afe85edd58/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$9.99</span> → <b>
+  <strong>$2.99</strong>
+</b><span>[$2.99 ~ $9.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$2.99</b>
+</p><h2>Application Description</h2><p>
+  JOIN THE BATTLE!
+Play Axis & Allies 1942 Online on your iPad! It’s the official digital version of Hasbro’s classic board game, Axis & Allies 1942 Second Edition. Strategy is key as you command armies across the globe!
+
+*Note: Apple Accounts held by users aged 12 and under will not be able to access our online multiplayer features.
+
+Team up with friends across platforms, get competitive in ranked seasons, play solo against the A.I., or pass & play with a pal on one tablet!
+
+FEATURES
+
+Official Rules 
+- Adapts rules from Hasbro’s Axis & Allies 1942 Second Edition
+- Choose from two game scenarios & victory conditions!
+- Allies: Command your forces as the United Kingdom, United States, or Soviet Union
+- Axis: Take control of Germany or Japan’s armies & prepare for battle!
+
+Learn to Play 
+- Great for new players— no setup or cleanup required!
+- Tutorials & In-Game Tooltips help beginners dive in
+
+Turn-Based (Asynchronous) 
+- Fully turn-based gameplay fits into your busy schedule! 
+- Ranked games allow 24 hours to take your turn
+- Instead of playing for hours on end, get notified when it’s your turn, then use the War Diary to check out what you missed! (or stick around & watch the battle unfold in real time— that’s an option too!)
+
+Player Accounts & Profiles
+- Track your stats & win/loss rates for each alliance
+- Your commander account syncs across devices
+- Switch seamlessly between iPad & desktop to take your turns, view your stats & connect with friends
+
+Dice Modes
+- Standard mode mimics random dice results
+- Low Luck dice use averages to calculate hits
+- Biased dice favor rolls of 2, 3, & 4, over 1 & 6
+
+Immersive Gameplay
+- High quality graphics, music & sound effects add drama to your battles!
+
+GAME MODES
+
+Single-Player
+- Enjoy casual games with A.I. computer players
+- Great for learning to play or testing out strategies
+
+Hot Seat
+- Pass the tablet around to play with friends & family
+
+Online Multiplayer
+- Cross-platform play between tablets & computers
+- Create custom games for 2 to 5 players
+- Games can include a mix of humans & A.I. players
+
+Ranked Seasons
+- Challenge the world’s top Axis & Allies players in official ranked seasons
+- Rise through the ranks to take top honors: Wood, Bronze, Silver, Gold & Platinum Tiers!
+- Matchmaking pairs you with similarly ranked players
+
+SPRING 1942...THE WORLD IS AT WAR
+German tanks mobilize in the west, blitzing into France and pushing back the Soviet Union in eastern Europe. The United States rises in response to Japanese aggression in the Pacific. The United Kingdom rallies allies as bombers menace the skies. The year is 1942, and the world is at war! 
+
+Victory goes to the side that conquers its opponents on the field of battle and occupies the greatest cities of the world. Will the Axis continue to spread across the globe unchecked, or will the Allies rally to push back against imperialistic tyranny? Challenge your friends and change the course of history!
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/ae/4c/bb/ae4cbb36-dff5-1d28-990f-a9fa7de8e0f7/3e607f7c-2d5f-4918-99c9-1e35ccc86133_Build_Your_Armies_-_1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/bb/e8/42/bbe84228-b1f3-52e8-405b-e407e1fabf1e/0ce0431c-817a-4894-b449-59ab9163e413_Climb_the_Ranks.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/6b/94/bf/6b94bf32-fedf-80c7-2fd8-1ac628096496/888f5997-f8a0-454e-87c7-f219a66fc38a_Command_your_Forces.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/82/8a/aa/828aaa36-d3c3-45e2-dce1-1dd7381cc2e6/bf00d228-09f2-499f-ae8b-1af054c13045_Defend_Your_Territory.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/56/33/ce/5633cef0-71ba-f673-d131-e90c35fbf3ae/a97e9233-00e6-4e82-ba1d-f5ef17d37104_Join_The_Battle.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/bf/13/11/bf1311a6-7159-b114-7d37-c055758ff083/24ca4e1d-606b-43fe-a57d-ca54b23a08b9_Play_Solo_or_with_your_Friends.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/5f/56/97/5f5697fa-bc66-58dc-7ea9-d8e1d512a241/f38994fa-d909-4ed6-a55d-baffacfb3dd1_Strategize_your_way_to_Victory.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/4e/9e/6c/4e9e6c8e-7609-cafe-c9b5-31bbb0aca541/664f2f88-9833-4ee0-a71b-a532cf087752_Tutorials_and_Tooltips.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/da/4b/6d/da4b6d4b-e787-a4f3-4250-78ccfa600740/0e77f813-4065-4aff-b8be-f1a8c54bca23_The_Classic_Board_Game_Mobile.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a2/3a/57/a23a57ed-ddb6-6e32-5144-d3be60e23819/a3f11ade-308f-4403-a105-7ce91d452704_1._The_Classic_Board_Game.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/38/d4/38/38d43860-a9ea-cfea-f94f-26590664bf0e/1ba38299-d85a-49d5-83d3-8c46ee819945_2._Join_The_Battle.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/73/99/a5/7399a5f7-18a0-06e5-e37b-bd75d8de6eac/e0ea8fb9-b43a-4c75-a162-1e5db8793bc4_3._Play_Solo_or_With_Friends.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/17/3c/20/173c2036-c237-c12e-76bc-baa062cb0b8a/532a1751-973c-4e7d-bdca-03573fe2063a_4._Build_Your_Armies.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6f/05/9f/6f059ffd-8627-54fc-22a3-d23dc4ec95f7/58a8f23b-ea41-4a64-b14f-eaa974d29a71_5._Command_Your_Forces.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/b8/9f/1f/b89f1f07-653a-d7a5-4858-d2f55b527d94/d96218e1-1191-4d4d-86ea-7bb518e24662_6._Defend_Your_Territory.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/c8/98/95/c8989551-4899-9ad9-4798-8026427d6f87/5dd50592-00db-41cf-bffa-e1049975b0be_7._Strategize_Your_Way_To_Victory.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/63/d6/83/63d683a8-4abb-0132-5e55-bd3cf81034ed/f111cd1e-a226-4a8d-9964-6e3e4c9548a1_8._Climb_the_Ranks.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/43/e0/1c/43e01cea-dea7-003b-f178-435c74a8154d/6f3cbace-706d-4e7b-ae6a-262a9fce1ed8_9._Tutorials_and_Tooltips.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/d6/73/35/d67335e6-eb8b-225d-a8ea-cf5e459849b3/99ff0c17-4a40-4009-a778-c85c0d84c294_10._War_Diaries_for_Turn-Based_Play.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overwinter Survival]]></title>
+        <id>Overwinter Survival-us-1794998985299</id>
+        <link href="https://appstore-discounts.eyelly.me/us/6469419567?lang=en"/>
+        <updated>2026-11-18T10:49:45.299Z</updated>
+        <summary type="html"><![CDATA[Price: $1.99 → $0.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/6469419567?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/b9/52/e0b952b9-dd03-89a6-1d23-ced125ddbba4/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$1.99</span> → <b>
+  <strong>$0.99</strong>
+</b><span>[$0.99 ~ $1.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$0.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Elite Pack：<b>$4.99</b>
+  </li><li>
+    Standard Pack：<b>$0.99</b>
+  </li><li>
+    Premium Pack：<b>$3.99</b>
+  </li><li>
+    Advanced Pack：<b>$1.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Overwinter Survival is a card-based survival game in which you are stranded on the glaciers of Greenland.
+
+The cold and loneliness ensnare you after your plane breaks down for an unknown reason, leaving you crashed on Greenland's glaciers and seeking shelter at a nearby cabin. Now you must hunt, craft tools and items, and keep your stove fueled to survive in the cold.
+
+In Overwinter Survival, you must use the cards you're dealt to stay alive. You can only use one card per round. With Lady Luck at the helm, no two journeys will be the same.
+
+Fish in the glaciers, hunt with your spear and craft an axe at your workshop to become a lumberjack. To get out of this frozen hell and see your family once again, you must stay alive and repair your plane. 
+
+Experience a unique journey each time you play with randomly generated card decks and test your survival skills while pushing your luck amidst the frozen glaciers.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/42/91/ea42917a-87ff-9414-320c-602dde9a5de9/daafa34f-4ae8-45f7-9a74-0d2d92708f0d_111.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/e0/93/23e09331-6768-4425-f12b-45378fd5b888/5afa3020-620c-47c9-bdfa-e2f537b35b1e_222.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/96/17/9f9617ca-2068-3661-9a8f-8f8e6d5a82c1/62567886-a9d4-4d5a-b16a-1b689d1f12e8_333.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/cf/3c/9ecf3ccb-b32b-f2b1-9904-18688273f342/3d78518e-8059-473f-8e7f-0a0c7f7dfd1d_444.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/bb/67/93bb67c7-2fe0-b947-3bea-e4467a6fdcf0/32a50892-2052-40a8-8acd-995989240587_555.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/ad/76/bfad76cb-a2c7-35b8-b6e3-e77d30f655bf/062ff617-573c-4b4c-9300-bbe1dd60b199_666.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/54/49/4c544973-9ff2-32b5-b073-1bd8533a9d09/cdbb0737-aec4-45af-a57e-e7cd7dba201d_888.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/e8/4d/35e84db8-003c-b184-e826-802d2cc87c3f/a5aa16d3-849b-458f-bb97-0043f91e531e_777.png/392x696bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iZip Pro -Zip Unzip Unrar Tool]]></title>
@@ -3247,41 +3462,5 @@ Please note
 
 Built for people making RPG Maker games: test your project on your phone before you ship it, and keep playing the games you already own.
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/6c/08/a26c085e-b219-b544-7bb3-06cd9fe97bed/01-library.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/c7/87/a7c78723-3249-1a48-440e-25c5b3e6c91d/02-playing.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/1e/5d/b81e5dba-6245-009e-00da-1493d82a58a9/03-menu.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/f9/fc/def9fcda-8c3d-37e9-ace4-a38a9d6bec1e/04-saves.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/d8/13/3ad813a9-c615-be5b-8ef8-5dc83fff5b42/01-ipad-en.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eco inc. Save the Earth]]></title>
-        <id>Eco inc. Save the Earth-us-1794736969443</id>
-        <link href="https://appstore-discounts.eyelly.me/us/1504760106?lang=en"/>
-        <updated>2026-11-15T10:02:49.443Z</updated>
-        <summary type="html"><![CDATA[Price: $0.99 → $0.29]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/1504760106?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/96/25/e59625d0-6ff8-210d-08d4-422a7c1bc1db/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$0.99</span> → <b>
-  <strong>$0.29</strong>
-</b><span>[$0.29 ~ $7.49]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$0.29</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    +100 boosters ECO-Initiative!：<b>$1.00</b>
-  </li><li>
-    +2026 boosters ECO-Initiative!：<b>$4.29</b>
-  </li><li>
-    Full scenarios：<b>$4.99</b>
-  </li><li>
-    +444! Triple-Four Booster Pack：<b>$2.00</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Eco Inc. Save the Earth is a strategy game about protecting a living planet.
-
-Take on scenarios about plastic pollution, food waste, global cooling, alien invasion and more. Each scenario has its own threats, projects and victory conditions.
-
-Develop environmental initiatives, manage resources and send volunteers to emergencies. Upgrade rescue helicopters and boats, explore a 3D Earth with moving clouds, and zoom out for a journey through the Solar System.
-
-Unlock automatic point collection and chest opening, set music and sound volume separately, and adjust text size for comfortable play.
-
-Built-in Moodplayer: choose tracks, pause playback and adjust volume. Loading music requires internet access. No sign-in is required. Player settings also offer optional Moodplayer sign-in through Google.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/00/af/0800afff-7fc1-579d-8ea6-67427d4d2054/01-planet.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/54/38/c754389a-b8ec-1d16-4bec-24c7e221634d/02-together.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/95/ff/b995ff5f-3198-0546-1226-e42d8ddcd33e/03-volunteers.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/bc/2e/dbbc2e92-42f8-096e-b865-abf5ab30303f/04-technology.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/1c/b7/c41cb779-d40d-6a3e-d15d-7e5174a6a580/05-forests.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/21/ea/3921ea83-654d-d471-c6a7-f4b088ef1b2f/06-oceans.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/ab/be/95abbe29-f524-1836-8d32-6a1aa91db490/07-animals.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/89/ac/f889aca6-af57-4846-67ce-82a0954eff6d/08-mars.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/62/39/b662394b-5005-5919-a49f-2e2fd28de9b1/09-choices.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/39/f7/a339f75a-33ea-ae17-f9f1-8980bb261035/10-scenarios.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/b3/d2/b4b3d2ce-436f-1aba-59e9-343f2c989e3e/daf1a717-930a-4691-8e9e-632bf9d41004_STE_1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/b3/f4/63b3f40d-e379-ceeb-c716-afc2774d3fe9/71d53df6-9f84-44ea-ba0e-d51f52b37614_STE_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/45/81/03458170-2cef-39e9-a5c8-1478fffae776/c8d24bc2-ed48-4ff7-af1f-5eac2143b969_STE_3.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/42/77/604277a1-e73e-c6e6-9e87-941d10678955/fa6afe16-481d-457e-a10d-d0938cd75bbb_STE_4.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/1d/50/981d50ec-1bc6-0201-54ce-b9259d50745a/03c17d9e-5b2f-4f34-b931-299121514392_STE_5.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/e6/4b/8ae64b60-ee16-d042-9f3d-078d0a952486/a1d722f6-22c8-4961-a1bd-29917fdfb568_STE_6.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/4d/06/4f4d063c-0abb-ce38-bc1d-ad9c19d98700/f02a6ac3-3d8c-4341-a334-ed7c24d5d970_STE_Screen_6_2732x2048.png/552x414bb.png" />]]></content>
     </entry>
 </feed>

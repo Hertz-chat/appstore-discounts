@@ -63164,6 +63164,25 @@
     "history": [
       [
         {
+          "timestamp": 1794998985299,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Adult Supervision": "$1.99",
+            "Just For Kids": "$0.00",
+            "Happy Holidays": "$1.99",
+            "Mix It Up": "$0.00",
+            "That's So 90s": "$1.99",
+            "The Ellen Show": "$0.00",
+            "Food Fight": "$1.99",
+            "Adult Supervision 2: Even Adultier": "$1.99",
+            "Branded": "$1.99",
+            "Super Heroes": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794659876852,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -66596,14 +66615,27 @@
       "Gallery of Heroes": "$2.99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "$9.99",
+      "price": 2.99,
+      "formattedPrice": "$2.99",
       "A Price Paid in Blood": "$2.99",
       "A Voice in the Dark": "$2.99",
       "In Defense of the Wild": "$2.99",
       "Gallery of Heroes": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794998985299,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "A Price Paid in Blood": "$2.99",
+            "A Voice in the Dark": "$2.99",
+            "In Defense of the Wild": "$2.99",
+            "Gallery of Heroes": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792345098035,
@@ -67132,6 +67164,25 @@
       "Toyota 2018 Enhanced": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794998985299,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Toyota 2007 Enhanced Diagnostics": "$14.99",
+            "Toyota 2021 Enhanced": "$14.99",
+            "Toyota 2008 Enhanced Diagnostics": "$14.99",
+            "Toyota 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2019 Enhanced": "$14.99",
+            "Ford 2006 Enhanced Diagnostics": "$14.99",
+            "Toyota 2013 Enhanced Diagnostics": "$14.99",
+            "Ford 2013 Enhanced Diagnostics": "$14.99",
+            "Ford 2005 Enhanced Diagnostics": "$14.99",
+            "Toyota 2017 Enhanced Diagnostics": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794927717454,
@@ -104094,6 +104145,20 @@
       "650 Gems": "$40.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794998985299,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "120 Gems": "$7.99",
+            "50 Gems": "$3.99",
+            "250 Gems": "$15.99",
+            "650 Gems": "$40.99",
+            "1400 Gems": "$79.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793872776771,
@@ -173322,6 +173387,19 @@
     "history": [
       [
         {
+          "timestamp": 1794998985299,
+          "price": 10.99,
+          "formattedPrice": "$10.99",
+          "inAppPurchases": {
+            "Immortal Throne DLC": "$5.99",
+            "Ragnarök DLC": "$5.99",
+            "Atlantis DLC": "$5.99",
+            "Eternal Embers DLC": "$5.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793872776771,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -194180,6 +194258,14 @@
     "history": [
       [
         {
+          "timestamp": 1794998985299,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1793872776771,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -213489,10 +213575,18 @@
       "formattedPrice": "$9.99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "$9.99"
+      "price": 2.99,
+      "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794998985299,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -214701,6 +214795,14 @@
       "formattedPrice": "$0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794998985299,
+          "price": 10.99,
+          "formattedPrice": "$10.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793872776771,
@@ -220809,6 +220911,14 @@
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794998985299,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793872776771,
@@ -282079,6 +282189,25 @@
     "history": [
       [
         {
+          "timestamp": 1794998985299,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "自創武將": "$2.99",
+            "戰國七雄": "$5.99",
+            "五子良將": "$5.99",
+            "終身版": "$6.99",
+            "楚漢爭霸": "$5.99",
+            "重振漢室": "$2.99",
+            "群雄爭霸": "$2.99",
+            "北境狂人": "$2.99",
+            "自創寶物": "$1.99",
+            "江山美人": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794458321964,
           "price": 5.99,
           "formattedPrice": "$5.99",
@@ -309976,6 +310105,19 @@
       "Advanced Pack": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794998985299,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Elite Pack": "$4.99",
+            "Standard Pack": "$0.99",
+            "Premium Pack": "$3.99",
+            "Advanced Pack": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794824240122,
@@ -338266,6 +338408,25 @@
     "history": [
       [
         {
+          "timestamp": 1794998985299,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$9.99",
+            "Sun and Spice Bundle": "$7.99",
+            "Mystic Mayhem Pack": "$5.99",
+            "Santa Claws Pack": "$4.99",
+            "Beach Day Pack": "$5.99",
+            "Kitchen Chaos Pack": "$5.99",
+            "Mystic Mayhem Card Back": "$0.99",
+            "MysticMayhem Cauldron Creature": "$1.99",
+            "Beach Day Card back": "$0.99",
+            "Sea Rat Outfit": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794628227571,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -361684,6 +361845,25 @@
     "history": [
       [
         {
+          "timestamp": 1794998985299,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "New Rulers": "$5.99",
+            "Wedding Skin Set": "$9.99",
+            "Underworld Expansion Pass": "$5.99",
+            "Neo Behemoth": "$1.99",
+            "Moonveil Skin Set": "$9.99",
+            "Pioneer of the Abyss": "$9.99",
+            "Underworld Pass 2": "$2.99",
+            "Essence of Transcendence": "$29.99",
+            "Underworld Pass 1": "$2.99",
+            "Time Traveler": "$5.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794492446451,
           "price": 5.99,
           "formattedPrice": "$5.99",
@@ -370421,7 +370601,7 @@
       "formattedPrice": "$2.99",
       "终身护持": "$19.99",
       "年度护持": "$19.99",
-      "月度护持": "$0.99",
+      "月度护持": "$1.99",
       "3-day Trial": "$0.00"
     },
     "minPriceInfo": {
@@ -370433,6 +370613,19 @@
       "3-day Trial": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794998985299,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "3-day Trial": "$0.00",
+            "终身护持": "$19.99",
+            "年度护持": "$14.99",
+            "月度护持": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794824240122,
@@ -371717,7 +371910,11 @@
       "Gems Chest": "$19.99",
       "Gems Mountain": "$99.99",
       "Gems Pouch Sale": "$3.99",
-      "Hero Ignus Sale": "$1.99"
+      "Hero Ignus Sale": "$1.99",
+      "Hero Dalia": "$4.99",
+      "Tower Owl": "$4.99",
+      "Hero Osnir": "$4.99",
+      "Spell Sheepmorph": "$4.99"
     },
     "minPriceInfo": {
       "SHOWCASE OFFER 07": "$4.99",
@@ -371749,9 +371946,32 @@
       "Gems Chest": "$19.99",
       "Gems Mountain": "$99.99",
       "Gems Pouch Sale": "$3.99",
-      "Hero Ignus Sale": "$1.99"
+      "Hero Ignus Sale": "$1.99",
+      "Hero Dalia": "$4.99",
+      "Tower Owl": "$4.99",
+      "Hero Osnir": "$4.99",
+      "Spell Sheepmorph": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794998985299,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Hero Dalia": "$4.99",
+            "Tower Owl": "$4.99",
+            "Hero Osnir": "$4.99",
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "ALL HEROES BUNDLE": "$24.99",
+            "Tower Sniper": "$5.99",
+            "Spell Sheepmorph": "$4.99",
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Gems Handful": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794927717454,
@@ -375040,14 +375260,22 @@
     "trackName": "Duo Aquarium",
     "region": "us",
     "maxPriceInfo": {
-      "price": 1,
-      "formattedPrice": "$1.00"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "minPriceInfo": {
       "price": 1,
       "formattedPrice": "$1.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794998985299,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1794085796977,

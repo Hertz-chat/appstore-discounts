@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2026-11-18T01:52:49.475Z</updated>
+    <updated>2026-11-18T12:17:08.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-18T01:52:49.475Z</updated>
+        <updated>2026-11-18T12:17:08.319Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrWed, 18 Nov 2026 01:52:49 GMT</id>
+        <id>rankingtrWed, 18 Nov 2026 12:17:08 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-18T01:52:49.475Z</updated>
+        <updated>2026-11-18T12:17:08.319Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -51,13 +51,13 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>2438</b>
+        <b>2439</b>
       </td>
       <td>
         <b>204</b>
       </td>
       <td>
-        <b>2234</b>
+        <b>2235</b>
       </td>
       <td>
         <b>108</b>
@@ -1665,6 +1665,23 @@ feedId:157008924688563200+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>90</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/tr/6814047994?lang=en">Askerlik Kariyeri</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -2505,6 +2522,26 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Askerlik Kariyeri]]></title>
+        <id>Askerlik Kariyeri-tr-1794998985299</id>
+        <link href="https://appstore-discounts.eyelly.me/tr/6814047994?lang=en"/>
+        <updated>2026-11-18T10:49:45.299Z</updated>
+        <summary type="html"><![CDATA[Price: ₺19,99 → ₺2,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/6814047994?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/3e/5e/ab3e5ee1-ca9b-5461-e9ac-9b3c9404c060/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺19,99</span> → <b>
+  <strong>₺2,99</strong>
+</b><span>[₺2,99 ~ ₺19,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺2,99</b>
+</p><h2>Application Description</h2><p>
+  Acemilikten komutanlığa uzanan kendi askerlik hikâyeni yaz! 
+
+Koğuşta başlayan günlerini planla, içtimalara katıl, eğitimlerde kendini geliştir, nöbet tut, kantine uğra, arkadaşlıklar kur ve vereceğin kararlarla fiziksel gücünü, disiplinini, ilişkilerini ve başarını şekillendir. Her gün yeni olaylarla karşılaş, komutanlarının güvenini kazan, zorlu görevlerin üstesinden gel ve rütbeleri birer birer aş. Bugün emirleri uygulayan bir acemisin; peki bir gün emirleri veren sen olabilecek misin?
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/cf/06/93cf064d-809d-c9a0-8841-5a0e1a569f72/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-09-23_at_11.33.45.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/ef/35/aeef351e-59b8-da6a-9e6b-4d00a1b869ca/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-09-23_at_11.40.42.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/fc/30/37fc30d3-7fb5-85aa-c9e2-8bc18b00bed9/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-09-23_at_11.35.22.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/6d/e7/366de78c-abe0-0366-61b4-9146dfffef7d/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-09-23_at_11.33.59.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/33/58/ba335810-213c-eab6-2cac-05e796db3031/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-09-23_at_11.38.12.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/a7/97/17a79780-fc24-e09d-9e64-cea7aa952381/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-09-23_at_11.36.02.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/71/8c/b3718c6d-0dfe-15e1-3212-85db18f01ee2/Simulator_Screenshot_-_iPhone_11_Pro_Max_-_2026-09-23_at_11.38.07.png/320x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Baldur's Gate II: EE]]></title>
@@ -3760,41 +3797,5 @@ Please note
 
 Built for people making RPG Maker games: test your project on your phone before you ship it, and keep playing the games you already own.
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/6c/08/a26c085e-b219-b544-7bb3-06cd9fe97bed/01-library.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/c7/87/a7c78723-3249-1a48-440e-25c5b3e6c91d/02-playing.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/1e/5d/b81e5dba-6245-009e-00da-1493d82a58a9/03-menu.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/f9/fc/def9fcda-8c3d-37e9-ace4-a38a9d6bec1e/04-saves.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/d8/13/3ad813a9-c615-be5b-8ef8-5dc83fff5b42/01-ipad-en.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eco inc. Save the Earth]]></title>
-        <id>Eco inc. Save the Earth-tr-1794736969443</id>
-        <link href="https://appstore-discounts.eyelly.me/tr/1504760106?lang=en"/>
-        <updated>2026-11-15T10:02:49.443Z</updated>
-        <summary type="html"><![CDATA[Price: ₺49,99 → ₺19,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/1504760106?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/96/25/e59625d0-6ff8-210d-08d4-422a7c1bc1db/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺49,99</span> → <b>
-  <strong>₺19,99</strong>
-</b><span>[₺9,99 ~ ₺349,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>₺19,99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    +100 boosters ECO-Initiative!：<b>₺10,00</b>
-  </li><li>
-    Full scenarios：<b>₺249,99</b>
-  </li><li>
-    +444! Triple-Four Booster Pack：<b>₺99,99</b>
-  </li><li>
-    +2026 boosters ECO-Initiative!：<b>₺229,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Eco Inc. Save the Earth is a strategy game about protecting a living planet.
-
-Take on scenarios about plastic pollution, food waste, global cooling, alien invasion and more. Each scenario has its own threats, projects and victory conditions.
-
-Develop environmental initiatives, manage resources and send volunteers to emergencies. Upgrade rescue helicopters and boats, explore a 3D Earth with moving clouds, and zoom out for a journey through the Solar System.
-
-Unlock automatic point collection and chest opening, set music and sound volume separately, and adjust text size for comfortable play.
-
-Built-in Moodplayer: choose tracks, pause playback and adjust volume. Loading music requires internet access. No sign-in is required. Player settings also offer optional Moodplayer sign-in through Google.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/68/62/a3686238-4d4e-aa0b-1476-b4ef151e1a64/01-planet.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/d1/9d/27d19d7d-da39-701a-2b3a-c3ee3e5fb9a4/02-together.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/be/47/3cbe476f-d3e8-2042-699b-a1b1c771bf46/03-volunteers.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/7c/aa/5f7caa42-201e-d982-8b1d-37eec5b261c5/04-technology.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/5f/6d/435f6df8-77ca-7cd7-d939-d744566fe473/05-forests.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/9c/2d/219c2d54-61ee-4ccb-da2f-c3b85c18a094/06-oceans.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/c7/47/6ec7474c-88cb-f4a3-63b2-7be549adf119/07-animals.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/94/95/4b949529-e252-f87d-055d-42c1d60ff302/08-mars.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/3f/07/da3f07be-8368-199a-f730-7749f84106d2/09-choices.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/f6/dd/43f6ddc5-84d5-a99e-2dfe-617f4151caa6/10-scenarios.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/b3/d2/b4b3d2ce-436f-1aba-59e9-343f2c989e3e/daf1a717-930a-4691-8e9e-632bf9d41004_STE_1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/b3/f4/63b3f40d-e379-ceeb-c716-afc2774d3fe9/71d53df6-9f84-44ea-ba0e-d51f52b37614_STE_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/45/81/03458170-2cef-39e9-a5c8-1478fffae776/c8d24bc2-ed48-4ff7-af1f-5eac2143b969_STE_3.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/42/77/604277a1-e73e-c6e6-9e87-941d10678955/fa6afe16-481d-457e-a10d-d0938cd75bbb_STE_4.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/1d/50/981d50ec-1bc6-0201-54ce-b9259d50745a/03c17d9e-5b2f-4f34-b931-299121514392_STE_5.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/e6/4b/8ae64b60-ee16-d042-9f3d-078d0a952486/a1d722f6-22c8-4961-a1bd-29917fdfb568_STE_6.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/4d/06/4f4d063c-0abb-ce38-bc1d-ad9c19d98700/f02a6ac3-3d8c-4341-a334-ed7c24d5d970_STE_Screen_6_2732x2048.png/552x414bb.png" />]]></content>
     </entry>
 </feed>

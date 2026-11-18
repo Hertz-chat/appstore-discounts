@@ -1958,10 +1958,10 @@
   {
     "trackId": 479665601,
     "region": "cn",
-    "timestamp": 1791837063531,
+    "timestamp": 1794960411965,
     "discounts": [],
-    "price": 88,
-    "formattedPrice": "¥88.00",
+    "price": 68,
+    "formattedPrice": "¥68.00",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id479665601",
     "trackName": "iZip专业版 - Zip Rar 压缩、解压缩工具",
@@ -4353,6 +4353,18 @@
     "trackViewUrl": "https://apps.apple.com/cn/app/id950012304",
     "trackName": "Cellular Info",
     "firstRecordedAt": 1745773328187
+  },
+  {
+    "trackId": 951627022,
+    "region": "cn",
+    "timestamp": 1794960411965,
+    "discounts": [],
+    "price": 8,
+    "formattedPrice": "¥8.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id951627022",
+    "trackName": "復得 － 照片扫描仪加强版",
+    "firstRecordedAt": 1794960411965
   },
   {
     "trackId": 952625011,
@@ -11755,7 +11767,7 @@
   {
     "trackId": 6451376191,
     "region": "cn",
-    "timestamp": 1792950991459,
+    "timestamp": 1794960411965,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免费",
@@ -16593,7 +16605,7 @@
     "formattedPrice": "¥8.00",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id6827445474",
-    "trackName": "FoldTick",
+    "trackName": "FoldTick: Duo Fold Counter",
     "firstRecordedAt": 1794267500104
   },
   {

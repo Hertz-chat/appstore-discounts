@@ -38558,6 +38558,14 @@
     "history": [
       [
         {
+          "timestamp": 1794960411965,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791837063531,
           "price": 699.99,
           "formattedPrice": "₺699,99",
@@ -64415,14 +64423,27 @@
       "Gallery of Heroes": "₺149,99"
     },
     "minPriceInfo": {
-      "price": 499.99,
-      "formattedPrice": "₺499,99",
+      "price": 149.99,
+      "formattedPrice": "₺149,99",
       "A Price Paid in Blood": "₺149,99",
       "A Voice in the Dark": "₺149,99",
       "In Defense of the Wild": "₺149,99",
       "Gallery of Heroes": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "A Price Paid in Blood": "₺149,99",
+            "A Voice in the Dark": "₺149,99",
+            "In Defense of the Wild": "₺149,99",
+            "Gallery of Heroes": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792345098035,
@@ -85239,6 +85260,37 @@
       ]
     ]
   },
+  "951627022": {
+    "name": "Photo Scanner Plus",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
+      "Photomyne account": "₺2.499,99",
+      "Photomyne membership": "₺899,99",
+      "Video account": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
+      "Photomyne account": "₺2.499,99",
+      "Photomyne membership": "₺899,99",
+      "Video account": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Photomyne account": "₺2.499,99",
+            "Photomyne membership": "₺899,99",
+            "Video account": "₺249,99"
+          }
+        }
+      ]
+    ]
+  },
   "952625011": {
     "name": "NG Daily",
     "maxPriceInfo": {
@@ -92736,6 +92788,20 @@
       "120 Gems": "₺349,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "50 Gems": "₺199,99",
+            "1400 Gems": "₺3.999,99",
+            "650 Gems": "₺2.299,99",
+            "250 Gems": "₺899,99",
+            "120 Gems": "₺399,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793840903622,
@@ -150010,6 +150076,19 @@
     "history": [
       [
         {
+          "timestamp": 1794960411965,
+          "price": 169.99,
+          "formattedPrice": "₺169,99",
+          "inAppPurchases": {
+            "Immortal Throne DLC": "₺89,99",
+            "Ragnarök DLC": "₺89,99",
+            "Atlantis DLC": "₺89,99",
+            "Eternal Embers DLC": "₺89,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1793840903622,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -159722,6 +159801,14 @@
       "formattedPrice": "₺5,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 139.99,
+          "formattedPrice": "₺139,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793840903622,
@@ -191088,10 +191175,18 @@
       "formattedPrice": "₺499,99"
     },
     "minPriceInfo": {
-      "price": 449.99,
-      "formattedPrice": "₺449,99"
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -192383,6 +192478,14 @@
       "formattedPrice": "₺5,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 169.99,
+          "formattedPrice": "₺169,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793840903622,
@@ -195062,6 +195165,14 @@
       "formattedPrice": "₺5,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 89.99,
+          "formattedPrice": "₺89,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1793840903622,
@@ -252778,6 +252889,25 @@
     "history": [
       [
         {
+          "timestamp": 1794960411965,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "UH-60": "₺49,99",
+            "Boeing 737-800": "₺149,99",
+            "Global scenery - 3 months": "₺399,99",
+            "Airbus A321": "₺99,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Boeing 737-900": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1794893335562,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -274230,7 +274360,11 @@
       "Dumb Phone Plus Yearly": "₺2.999,99",
       "Dumb Phone Plus Lifetime": "₺3.999,99",
       "Dumb Phone Plus Monthly": "₺399,99",
-      "Dumb Phone Plus Weekly": "₺99,99"
+      "Dumb Phone Plus Weekly": "₺99,99",
+      "Dumb Phone Pro Weekly": "₺99,99",
+      "Dumb Phone Pro Yearly": "₺799,99",
+      "Dumb Phone Pro Monthly": "₺249,99",
+      "Dumb Phone Pro Lifetime": "₺3.999,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -274238,9 +274372,26 @@
       "Dumb Phone Plus Yearly": "₺65,99",
       "Dumb Phone Plus Lifetime": "₺1.299,99",
       "Dumb Phone Plus Monthly": "₺26,99",
-      "Dumb Phone Plus Weekly": "₺99,99"
+      "Dumb Phone Plus Weekly": "₺99,99",
+      "Dumb Phone Pro Weekly": "₺99,99",
+      "Dumb Phone Pro Yearly": "₺799,99",
+      "Dumb Phone Pro Monthly": "₺249,99",
+      "Dumb Phone Pro Lifetime": "₺3.999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Dumb Phone Pro Weekly": "₺99,99",
+            "Dumb Phone Pro Yearly": "₺799,99",
+            "Dumb Phone Pro Monthly": "₺249,99",
+            "Dumb Phone Pro Lifetime": "₺3.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792968791930,
@@ -286485,6 +286636,25 @@
       "1000000 money": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "passatb8": "₺49,99",
+            "5 gold": "₺19,99",
+            "5 ticket": "₺19,99",
+            "30000 money": "₺19,99",
+            "porches": "₺49,99",
+            "15 gold": "₺29,99",
+            "sonsuz paket": "₺249,99",
+            "15 ticket": "₺29,99",
+            "10 gold": "₺29,99",
+            "10 ticket": "₺29,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794684796272,
@@ -300565,7 +300735,8 @@
       "50 Diamonds": "₺99,99",
       "16 Base Heroes Unlock Pack": "₺1.999,99",
       "700 Diamonds": "₺999,99",
-      "30-Day Supply Pass": "₺299,99"
+      "30-Day Supply Pass": "₺299,99",
+      "DLC 1": "₺999,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -300576,9 +300747,27 @@
       "50 Diamonds": "₺99,99",
       "16 Base Heroes Unlock Pack": "₺1.999,99",
       "700 Diamonds": "₺999,99",
-      "30-Day Supply Pass": "₺299,99"
+      "30-Day Supply Pass": "₺299,99",
+      "DLC 1": "₺999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "DLC 1": "₺999,99",
+            "30-Day Supply Pass": "₺299,99",
+            "120 Diamonds": "₺199,99",
+            "Starter Pack 1": "₺99,99",
+            "4000 Diamonds": "₺4.999,99",
+            "50 Diamonds": "₺99,99",
+            "16 Base Heroes Unlock Pack": "₺1.999,99",
+            "700 Diamonds": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793959313216,
@@ -301015,7 +301204,7 @@
       "formattedPrice": "₺149,99",
       "终身护持": "₺799,99",
       "年度护持": "₺999,99",
-      "月度护持": "₺49,99",
+      "月度护持": "₺99,99",
       "3-day Trial": "₺0,00"
     },
     "minPriceInfo": {
@@ -301027,6 +301216,19 @@
       "3-day Trial": "₺0,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "3-day Trial": "₺0,00",
+            "终身护持": "₺799,99",
+            "年度护持": "₺799,99",
+            "月度护持": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794789016716,
@@ -302103,7 +302305,8 @@
       "Pack · Gala of Legends": "₺199,99",
       "Rune Engineer": "₺29,99",
       "Hero · Yarna": "₺49,99",
-      "Hero · Unheo": "₺49,99"
+      "Hero · Unheo": "₺49,99",
+      "Bundle · Ashscale Hunt": "₺399,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -302135,9 +302338,29 @@
       "Pack · Gala of Legends": "₺199,99",
       "Rune Engineer": "₺29,99",
       "Hero · Yarna": "₺49,99",
-      "Hero · Unheo": "₺49,99"
+      "Hero · Unheo": "₺49,99",
+      "Bundle · Ashscale Hunt": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Bundle · Ashscale Hunt": "₺399,99",
+            "Hero · Yarna": "₺49,99",
+            "Hero · Unheo": "₺49,99",
+            "Pack · Knights' Gala": "₺149,99",
+            "Pack · Forest and Forge": "₺149,99",
+            "Pack · Snowflower Garden": "₺149,99",
+            "Pack · Eastern Night": "₺149,99",
+            "Pack · Moon and Stars": "₺149,99",
+            "Autumn Hunt Queen": "₺29,99",
+            "Silver Gladiator": "₺29,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794458321964,
@@ -302389,6 +302612,25 @@
       "TOWERS OFFER 09": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Hero Ashbite": "₺399,99",
+            "Gems Wagon": "₺2.499,99",
+            "Tower Alchemist": "₺149,99",
+            "Hero Oni": "₺249,99",
+            "Gems Chest": "₺999,99",
+            "Hero Drakkan": "₺399,99",
+            "Spell Shop": "₺149,99",
+            "TOWERS OFFER 09": "₺399,99",
+            "Tower Forger": "₺249,99",
+            "Hero Malik": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794789016716,
@@ -306109,7 +306351,7 @@
     ]
   },
   "6827445474": {
-    "name": "FoldTick",
+    "name": "FoldTick: Duo Fold Counter",
     "maxPriceInfo": {
       "price": 49.99,
       "formattedPrice": "₺49,99"

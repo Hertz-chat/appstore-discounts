@@ -2824,10 +2824,10 @@
   {
     "trackId": 479665601,
     "region": "us",
-    "timestamp": 1791837063531,
+    "timestamp": 1794960411965,
     "discounts": [],
-    "price": 12.99,
-    "formattedPrice": "$12.99",
+    "price": 9.99,
+    "formattedPrice": "$9.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id479665601",
     "trackName": "iZip Pro -Zip Unzip Unrar Tool",
@@ -6832,6 +6832,18 @@
     "firstRecordedAt": 1745593334191
   },
   {
+    "trackId": 951627022,
+    "region": "us",
+    "timestamp": 1794960411965,
+    "discounts": [],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id951627022",
+    "trackName": "Photo Scan Plus",
+    "firstRecordedAt": 1794960411965
+  },
+  {
     "trackId": 952704587,
     "region": "us",
     "timestamp": 1761167355803,
@@ -7062,7 +7074,7 @@
   {
     "trackId": 966489322,
     "region": "us",
-    "timestamp": 1793568365537,
+    "timestamp": 1794960411965,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -19139,7 +19151,7 @@
   {
     "trackId": 6451376191,
     "region": "us",
-    "timestamp": 1793002369190,
+    "timestamp": 1794960411965,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -25062,7 +25074,7 @@
   {
     "trackId": 6759970821,
     "region": "us",
-    "timestamp": 1793959313216,
+    "timestamp": 1794960411965,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -26708,7 +26720,7 @@
   {
     "trackId": 6801980968,
     "region": "us",
-    "timestamp": 1794458321964,
+    "timestamp": 1794960411965,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "$1.99",
@@ -27218,7 +27230,7 @@
     "formattedPrice": "$0.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6827445474",
-    "trackName": "FoldTick",
+    "trackName": "FoldTick: Duo Fold Counter",
     "firstRecordedAt": 1794267500104
   },
   {

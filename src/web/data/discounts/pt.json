@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 479516143,
+    "region": "pt",
+    "timestamp": 1794960411965,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "6,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id479516143",
+    "trackName": "Minecraft",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 633625517,
+    "region": "pt",
+    "timestamp": 1794960411965,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id633625517",
+    "trackName": "Baldur's Gate II: EE",
+    "firstRecordedAt": 1792345098035
+  },
+  {
+    "trackId": 1515382132,
+    "region": "pt",
+    "timestamp": 1794960411965,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1515382132",
+    "trackName": "Axis & Allies 1942 Online",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6759970821,
+    "region": "pt",
+    "timestamp": 1794960411965,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 3,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6759970821",
+    "trackName": "Dungeon Merge!",
+    "firstRecordedAt": 1787402209195
+  },
+  {
     "trackId": 479665601,
     "region": "pt",
     "timestamp": 1794927717454,
@@ -10695,7 +10775,7 @@
         "name": "Price",
         "from": "7,99 €",
         "to": "6,99 €",
-        "range": "[6,99 € ~ 7,99 €]"
+        "range": "[3,99 € ~ 7,99 €]"
       }
     ],
     "price": 6.99,

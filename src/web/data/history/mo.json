@@ -27531,6 +27531,14 @@
     "history": [
       [
         {
+          "timestamp": 1794960411965,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791837063531,
           "price": 12.99,
           "formattedPrice": "USD 12.99",
@@ -66726,6 +66734,48 @@
           "price": 4.99,
           "formattedPrice": "USD 4.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "951627022": {
+    "trackId": 951627022,
+    "trackName": "照片掃描儀加強版",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99",
+      "Photomyne account": "USD 47.99",
+      "Photomyne 帳號": "USD 11.99",
+      "Photomyne membership": "USD 19.99",
+      "Restore photo credits": "USD 14.99",
+      "Legacy Transfer": "USD 29.99",
+      "Magic motion credits": "USD 9.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99",
+      "Photomyne account": "USD 47.99",
+      "Photomyne 帳號": "USD 11.99",
+      "Photomyne membership": "USD 19.99",
+      "Restore photo credits": "USD 14.99",
+      "Legacy Transfer": "USD 29.99",
+      "Magic motion credits": "USD 9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Photomyne account": "USD 47.99",
+            "Photomyne 帳號": "USD 11.99",
+            "Photomyne membership": "USD 19.99",
+            "Restore photo credits": "USD 14.99",
+            "Legacy Transfer": "USD 29.99",
+            "Magic motion credits": "USD 9.99"
+          }
         }
       ]
     ]
@@ -198154,7 +198204,11 @@
       "Dumb Phone Plus Yearly": "USD 59.99",
       "Dumb Phone Plus Lifetime": "USD 79.99",
       "Dumb Phone Plus Monthly": "USD 7.99",
-      "Dumb Phone Plus Weekly": "USD 1.99"
+      "Dumb Phone Plus Weekly": "USD 1.99",
+      "Dumb Phone Pro Weekly": "USD 1.99",
+      "Dumb Phone Pro Yearly": "USD 14.99",
+      "Dumb Phone Pro Lifetime": "USD 79.99",
+      "Dumb Phone Pro Monthly": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -198162,9 +198216,26 @@
       "Dumb Phone Plus Yearly": "USD 7.59",
       "Dumb Phone Plus Lifetime": "USD 29.99",
       "Dumb Phone Plus Monthly": "USD 3.19",
-      "Dumb Phone Plus Weekly": "USD 1.99"
+      "Dumb Phone Plus Weekly": "USD 1.99",
+      "Dumb Phone Pro Weekly": "USD 1.99",
+      "Dumb Phone Pro Yearly": "USD 14.99",
+      "Dumb Phone Pro Lifetime": "USD 79.99",
+      "Dumb Phone Pro Monthly": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Dumb Phone Pro Weekly": "USD 1.99",
+            "Dumb Phone Pro Yearly": "USD 14.99",
+            "Dumb Phone Pro Lifetime": "USD 79.99",
+            "Dumb Phone Pro Monthly": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792950991459,
@@ -221751,7 +221822,8 @@
       "50 Diamonds": "USD 1.99",
       "16 Base Heroes Unlock Pack": "USD 39.99",
       "700 Diamonds": "USD 19.99",
-      "30天補給卡": "USD 5.99"
+      "30天補給卡": "USD 5.99",
+      "DLC 1": "USD 16.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -221762,9 +221834,27 @@
       "50 Diamonds": "USD 1.99",
       "16 Base Heroes Unlock Pack": "USD 39.99",
       "700 Diamonds": "USD 19.99",
-      "30天補給卡": "USD 5.99"
+      "30天補給卡": "USD 5.99",
+      "DLC 1": "USD 16.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "DLC 1": "USD 16.99",
+            "30天補給卡": "USD 5.99",
+            "120 Diamonds": "USD 3.99",
+            "Starter Pack 1": "USD 1.99",
+            "4000 Diamonds": "USD 99.99",
+            "50 Diamonds": "USD 1.99",
+            "16 Base Heroes Unlock Pack": "USD 39.99",
+            "700 Diamonds": "USD 19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793959313216,
@@ -226037,7 +226127,7 @@
   },
   "6827445474": {
     "trackId": 6827445474,
-    "trackName": "FoldTick",
+    "trackName": "FoldTick: Duo Fold Counter",
     "region": "mo",
     "maxPriceInfo": {
       "price": 0.99,

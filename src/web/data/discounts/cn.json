@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 479665601,
+    "region": "cn",
+    "timestamp": 1794960411965,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥88.00",
+        "to": "¥68.00",
+        "range": "[¥68.00 ~ ¥88.00]"
+      }
+    ],
+    "price": 68,
+    "formattedPrice": "¥68.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id479665601",
+    "trackName": "iZip专业版 - Zip Rar 压缩、解压缩工具",
+    "firstRecordedAt": 1761380057726
+  },
+  {
     "trackId": 6737795387,
     "region": "cn",
     "timestamp": 1794927717454,

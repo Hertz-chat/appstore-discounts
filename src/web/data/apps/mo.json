@@ -2812,10 +2812,10 @@
   {
     "trackId": 479665601,
     "region": "mo",
-    "timestamp": 1791837063531,
+    "timestamp": 1794960411965,
     "discounts": [],
-    "price": 12.99,
-    "formattedPrice": "USD 12.99",
+    "price": 9.99,
+    "formattedPrice": "USD 9.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id479665601",
     "trackName": "iZip專業版 - Zip RAR 壓縮、解壓縮工具",
@@ -6734,6 +6734,18 @@
     "trackViewUrl": "https://apps.apple.com/mo/app/id950812012",
     "trackName": "Alto's Adventure",
     "firstRecordedAt": 1745593334191
+  },
+  {
+    "trackId": 951627022,
+    "region": "mo",
+    "timestamp": 1794960411965,
+    "discounts": [],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id951627022",
+    "trackName": "照片掃描儀加強版",
+    "firstRecordedAt": 1794960411965
   },
   {
     "trackId": 952625011,
@@ -19322,7 +19334,7 @@
   {
     "trackId": 6451376191,
     "region": "mo",
-    "timestamp": 1792950991459,
+    "timestamp": 1794960411965,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -25280,7 +25292,7 @@
   {
     "trackId": 6759970821,
     "region": "mo",
-    "timestamp": 1793959313216,
+    "timestamp": 1794960411965,
     "discounts": [],
     "price": 0,
     "formattedPrice": "免費",
@@ -27436,7 +27448,7 @@
     "formattedPrice": "USD 0.99",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id6827445474",
-    "trackName": "FoldTick",
+    "trackName": "FoldTick: Duo Fold Counter",
     "firstRecordedAt": 1794267500104
   },
   {

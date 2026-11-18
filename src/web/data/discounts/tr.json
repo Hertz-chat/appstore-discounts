@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 479665601,
+    "region": "tr",
+    "timestamp": 1794960411965,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺699,99",
+        "to": "₺499,99",
+        "range": "[₺449,99 ~ ₺699,99]"
+      }
+    ],
+    "price": 499.99,
+    "formattedPrice": "₺499,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id479665601",
+    "trackName": "iZip Pro -Zip Unzip Unrar Tool",
+    "firstRecordedAt": 1761380057726
+  },
+  {
+    "trackId": 633625517,
+    "region": "tr",
+    "timestamp": 1794960411965,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺499,99",
+        "to": "₺149,99",
+        "range": "[₺149,99 ~ ₺499,99]"
+      }
+    ],
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id633625517",
+    "trackName": "Baldur's Gate II: EE",
+    "firstRecordedAt": 1792345098035
+  },
+  {
+    "trackId": 1515382132,
+    "region": "tr",
+    "timestamp": 1794960411965,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺499,99",
+        "to": "₺149,99",
+        "range": "[₺149,99 ~ ₺499,99]"
+      }
+    ],
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1515382132",
+    "trackName": "Axis & Allies 1942 Online",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6759970821,
+    "region": "tr",
+    "timestamp": 1794960411965,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺149,99",
+        "to": "Free",
+        "range": "[Free ~ ₺199,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6759970821",
+    "trackName": "Dungeon Merge!",
+    "firstRecordedAt": 1787402209195
+  },
+  {
     "trackId": 1587860402,
     "region": "tr",
     "timestamp": 1794893335562,

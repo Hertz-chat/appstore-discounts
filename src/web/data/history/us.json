@@ -37968,6 +37968,14 @@
     "history": [
       [
         {
+          "timestamp": 1794960411965,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791837063531,
           "price": 12.99,
           "formattedPrice": "$12.99",
@@ -95494,6 +95502,36 @@
       ]
     ]
   },
+  "951627022": {
+    "trackId": 951627022,
+    "trackName": "Photo Scan Plus",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99",
+      "Photomyne account": "$19.99",
+      "Photomyne membership": "$29.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99",
+      "Photomyne account": "$19.99",
+      "Photomyne membership": "$29.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Photomyne account": "$19.99",
+            "Photomyne membership": "$29.99"
+          }
+        }
+      ]
+    ]
+  },
   "952704587": {
     "trackId": 952704587,
     "trackName": "Analog Portland",
@@ -100641,6 +100679,20 @@
       "永久会员": "$12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "永久会员": "$14.99",
+            "月度会员": "$1.99",
+            "生辰-年度会员": "$12.99",
+            "生辰年度会员": "$9.99",
+            "生辰-季度会员": "$12.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793568365537,
@@ -335327,7 +335379,11 @@
       "Dumb Phone Plus Yearly": "$59.99",
       "Dumb Phone Plus Lifetime": "$79.99",
       "Dumb Phone Plus Monthly": "$7.99",
-      "Dumb Phone Plus Weekly": "$1.99"
+      "Dumb Phone Plus Weekly": "$1.99",
+      "Dumb Phone Pro Weekly": "$1.99",
+      "Dumb Phone Pro Yearly": "$14.99",
+      "Dumb Phone Pro Monthly": "$4.99",
+      "Dumb Phone Pro Lifetime": "$79.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -335335,9 +335391,26 @@
       "Dumb Phone Plus Yearly": "$11.99",
       "Dumb Phone Plus Lifetime": "$29.99",
       "Dumb Phone Plus Monthly": "$3.99",
-      "Dumb Phone Plus Weekly": "$1.99"
+      "Dumb Phone Plus Weekly": "$1.99",
+      "Dumb Phone Pro Weekly": "$1.99",
+      "Dumb Phone Pro Yearly": "$14.99",
+      "Dumb Phone Pro Monthly": "$4.99",
+      "Dumb Phone Pro Lifetime": "$79.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Dumb Phone Pro Weekly": "$1.99",
+            "Dumb Phone Pro Yearly": "$14.99",
+            "Dumb Phone Pro Monthly": "$4.99",
+            "Dumb Phone Pro Lifetime": "$79.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793002369190,
@@ -369863,7 +369936,8 @@
       "50 Diamonds": "$1.99",
       "16 Base Heroes Unlock Pack": "$39.99",
       "700 Diamonds": "$19.99",
-      "30-Day Supply Pass": "$5.99"
+      "30-Day Supply Pass": "$5.99",
+      "DLC 1": "$16.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -369874,9 +369948,27 @@
       "50 Diamonds": "$1.99",
       "16 Base Heroes Unlock Pack": "$39.99",
       "700 Diamonds": "$19.99",
-      "30-Day Supply Pass": "$5.99"
+      "30-Day Supply Pass": "$5.99",
+      "DLC 1": "$16.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Starter Pack 1": "$1.99",
+            "120 Diamonds": "$3.99",
+            "DLC 1": "$16.99",
+            "30-Day Supply Pass": "$5.99",
+            "4000 Diamonds": "$99.99",
+            "50 Diamonds": "$1.99",
+            "16 Base Heroes Unlock Pack": "$39.99",
+            "700 Diamonds": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793959313216,
@@ -371323,7 +371415,8 @@
       "Pack · Gala of Legends": "$3.99",
       "Rune Engineer": "$0.49",
       "Hero · Yarna": "$0.99",
-      "Hero · Unheo": "$0.99"
+      "Hero · Unheo": "$0.99",
+      "Bundle · Ashscale Hunt": "$6.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -371355,9 +371448,29 @@
       "Pack · Gala of Legends": "$3.99",
       "Rune Engineer": "$0.49",
       "Hero · Yarna": "$0.99",
-      "Hero · Unheo": "$0.99"
+      "Hero · Unheo": "$0.99",
+      "Bundle · Ashscale Hunt": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Bundle · Ashscale Hunt": "$6.99",
+            "Hero · Yarna": "$0.99",
+            "Hero · Unheo": "$0.99",
+            "Pack · Knights' Gala": "$2.99",
+            "Pack · Forest and Forge": "$2.99",
+            "Pack · Snowflower Garden": "$2.99",
+            "Pack · Eastern Night": "$2.99",
+            "Pack · Moon and Stars": "$2.99",
+            "Autumn Hunt Queen": "$0.49",
+            "Silver Gladiator": "$0.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794458321964,
@@ -375040,7 +375153,7 @@
   },
   "6827445474": {
     "trackId": 6827445474,
-    "trackName": "FoldTick",
+    "trackName": "FoldTick: Duo Fold Counter",
     "region": "us",
     "maxPriceInfo": {
       "price": 0.99,

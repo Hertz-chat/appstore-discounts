@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2026-11-17T16:41:04.904Z</updated>
+    <updated>2026-11-18T01:52:49.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008389768002560+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomemo</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-17T16:41:04.904Z</updated>
+        <updated>2026-11-18T01:52:49.371Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008389768002560+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingmoTue, 17 Nov 2026 16:41:04 GMT</id>
+        <id>rankingmoWed, 18 Nov 2026 01:52:49 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-11-17T16:41:04.904Z</updated>
+        <updated>2026-11-18T01:52:49.372Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>
@@ -51,13 +51,13 @@ feedId:157008389768002560+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>2437</b>
+        <b>2438</b>
       </td>
       <td>
         <b>204</b>
       </td>
       <td>
-        <b>2233</b>
+        <b>2234</b>
       </td>
       <td>
         <b>108</b>
@@ -68,13 +68,13 @@ feedId:157008389768002560+userId:73658201673997312
         <b>MO</b>
       </td>
       <td>
-        <b>2286</b>
+        <b>2287</b>
       </td>
       <td>
         <b>181</b>
       </td>
       <td>
-        <b>2105</b>
+        <b>2106</b>
       </td>
       <td>
         <b>94</b>
@@ -233,7 +233,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/mo/633625517?lang=zh-CN">Baldur's Gate II: EE</a>
+        <a href="https://appstore-discounts.eyelly.me/mo/479665601?lang=zh-CN">iZip專業版 - Zip RAR 壓縮、解壓縮工具</a>
       </td>
       <td>
         <ul>
@@ -248,6 +248,23 @@ feedId:157008389768002560+userId:73658201673997312
     <tr>
       <td>
         <b>10</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/mo/633625517?lang=zh-CN">Baldur's Gate II: EE</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>11</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/882362024?lang=zh-CN">Ace Attorney: Dual Destinies</a>
@@ -274,7 +291,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/931188326?lang=zh-CN">DayCost Pro - Personal Finance</a>
@@ -291,7 +308,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/982457990?lang=zh-CN">求生無限-無限流大冒險</a>
@@ -308,7 +325,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/998834675?lang=zh-CN">Clouds & Sheep 2 Premium</a>
@@ -325,7 +342,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1020541183?lang=zh-CN">電影精靈 - 專業視頻編輯和電影製作</a>
@@ -342,7 +359,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1021566244?lang=zh-CN">FINAL FANTASY VII</a>
@@ -359,7 +376,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1041260001?lang=zh-CN">FINAL FANTASY Ⅸ</a>
@@ -376,7 +393,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1136993233?lang=zh-CN">Apollo Justice Ace Attorney</a>
@@ -399,7 +416,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1298544927?lang=zh-CN">My Child Lebensborn</a>
@@ -416,7 +433,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1303222868?lang=zh-CN">Paprika Recipe Manager 4</a>
@@ -433,7 +450,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1304822713?lang=zh-CN">無盡坦克大戰 - 八位元單機王者 完美模擬穿越舊經典電視手遊</a>
@@ -450,7 +467,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1326740784?lang=zh-CN">FINAL FANTASY VIII Remastered</a>
@@ -467,7 +484,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1424977227?lang=zh-CN">Titan Quest HD</a>
@@ -484,7 +501,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1439262206?lang=zh-CN">Root Board Game</a>
@@ -501,7 +518,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1441522083?lang=zh-CN">LED跑馬燈・字幕跑馬燈・走馬燈・大字報</a>
@@ -518,7 +535,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1453661259?lang=zh-CN">Dungeon Warfare 2</a>
@@ -535,7 +552,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1453820315?lang=zh-CN">This Is the Police 2</a>
@@ -552,7 +569,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1492041417?lang=zh-CN">FINAL FANTASY IV</a>
@@ -569,7 +586,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1492041539?lang=zh-CN">FINAL FANTASY VI</a>
@@ -586,7 +603,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1492041611?lang=zh-CN">FINAL FANTASY V</a>
@@ -603,7 +620,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1492049794?lang=zh-CN">武林群俠風雲傳</a>
@@ -620,7 +637,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1500126852?lang=zh-CN">Chord</a>
@@ -637,7 +654,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1504760106?lang=zh-CN">Eco Inc. 拯救地球</a>
@@ -654,7 +671,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1515382132?lang=zh-CN">Axis & Allies 1942 Online</a>
@@ -671,7 +688,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1523633394?lang=zh-CN">SpongeBob SquarePants</a>
@@ -688,7 +705,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1537362903?lang=zh-CN">Neighbours back From Hell</a>
@@ -705,7 +722,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1571643809?lang=zh-CN">地城謎蹤</a>
@@ -722,7 +739,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1575414319?lang=zh-CN">Dune: Imperium</a>
@@ -739,7 +756,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1580067723?lang=zh-CN">Wall of insanity</a>
@@ -756,7 +773,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1580629864?lang=zh-CN">Clank!</a>
@@ -773,7 +790,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1587301632?lang=zh-CN">全能備忘錄</a>
@@ -790,7 +807,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1587860402?lang=zh-CN">籠中窺夢</a>
@@ -807,7 +824,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1591620171?lang=zh-CN">Stay for Safari - 使用者腳本與廣告攔截擴充</a>
@@ -830,7 +847,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1600925588?lang=zh-CN">GR Linker - 理光相機傳圖 Image Sync</a>
@@ -847,7 +864,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1601114348?lang=zh-CN">Siralim Ultimate</a>
@@ -864,7 +881,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1601446687?lang=zh-CN">Streets of Rage 4</a>
@@ -881,7 +898,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1611723264?lang=zh-CN">人類跌落夢境</a>
@@ -898,7 +915,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1614795077?lang=zh-CN">Otaku's Adventure</a>
@@ -915,7 +932,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1620883955?lang=zh-CN">Little Nightmares</a>
@@ -932,7 +949,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1621065119?lang=zh-CN">逆轉裁判123成步堂精選集</a>
@@ -949,7 +966,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1642733080?lang=zh-CN">DungeonSquad</a>
@@ -966,7 +983,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>51</b>
+        <b>52</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/1664728315?lang=zh-CN">Mutropolis mobile</a>
@@ -983,7 +1000,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>52</b>
+        <b>53</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6801866888?lang=zh-CN">上次是什麼時候 - 家事·保養紀錄</a>
@@ -1000,7 +1017,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>53</b>
+        <b>54</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6759358968?lang=zh-CN">PadLab - Live Pads</a>
@@ -1023,7 +1040,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>54</b>
+        <b>55</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6444660338?lang=zh-CN">Legend of Keepers</a>
@@ -1040,7 +1057,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>55</b>
+        <b>56</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6752503669?lang=zh-CN">Solar Arc: 黃金時刻 日出日落</a>
@@ -1057,7 +1074,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>56</b>
+        <b>57</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6446021269?lang=zh-CN">ROCKMAN X DiVE Offline</a>
@@ -1074,7 +1091,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>57</b>
+        <b>58</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6786115854?lang=zh-CN">No More Slimes!!: Idle Action</a>
@@ -1091,7 +1108,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>58</b>
+        <b>59</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6759970821?lang=zh-CN">地牢合併!（Dungeon Merge!）</a>
@@ -1108,7 +1125,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>59</b>
+        <b>60</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6770101449?lang=zh-CN">五道門：文字江湖</a>
@@ -1125,7 +1142,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>60</b>
+        <b>61</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6474541983?lang=zh-CN">Children of Morta</a>
@@ -1142,7 +1159,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>61</b>
+        <b>62</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6755103808?lang=zh-CN">VoidLink - Extreme</a>
@@ -1165,7 +1182,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>62</b>
+        <b>63</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6471594918?lang=zh-CN">Just a Simple Image Converter</a>
@@ -1182,7 +1199,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>63</b>
+        <b>64</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6758201392?lang=zh-CN">Slime Rancher</a>
@@ -1199,7 +1216,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>64</b>
+        <b>65</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6478398981?lang=zh-CN">直播 - IPTV Smart Pro</a>
@@ -1216,7 +1233,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>65</b>
+        <b>66</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6497948575?lang=zh-CN">Way of the Hunter Wild America</a>
@@ -1233,7 +1250,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>66</b>
+        <b>67</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6758114235?lang=zh-CN">1 TL</a>
@@ -1250,7 +1267,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>67</b>
+        <b>68</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6449233549?lang=zh-CN">Ark Nova</a>
@@ -1267,7 +1284,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>68</b>
+        <b>69</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6480058345?lang=zh-CN">怪獸大進擊 2</a>
@@ -1284,7 +1301,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>69</b>
+        <b>70</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6786557574?lang=zh-CN">油耗管家-加油記錄省油統計車輛里程費用記帳工具專用版</a>
@@ -1301,7 +1318,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>70</b>
+        <b>71</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6747138769?lang=zh-CN">Easy Text to Speech Reader Pro</a>
@@ -1318,7 +1335,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>71</b>
+        <b>72</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6743349595?lang=zh-CN">Godseeker II Dark Fantasy ARPG</a>
@@ -1335,7 +1352,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>72</b>
+        <b>73</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6742457882?lang=zh-CN">Deco: Wallpaper & Stickers</a>
@@ -1358,7 +1375,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>73</b>
+        <b>74</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6760446039?lang=zh-CN">般若心灯</a>
@@ -1381,7 +1398,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>74</b>
+        <b>75</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6479395335?lang=zh-CN">RPGViewer</a>
@@ -1398,7 +1415,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>75</b>
+        <b>76</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6744430250?lang=zh-CN">Python 學習計劃</a>
@@ -1415,7 +1432,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>76</b>
+        <b>77</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6830479627?lang=zh-CN">1in8b Life</a>
@@ -1432,7 +1449,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>77</b>
+        <b>78</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6443875944?lang=zh-CN">Sands of Salzaar</a>
@@ -1449,7 +1466,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>78</b>
+        <b>79</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/mo/6458144503?lang=zh-CN">Skul: The Hero Slayer</a>
@@ -2322,6 +2339,47 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iZip專業版 - Zip RAR 壓縮、解壓縮工具]]></title>
+        <id>iZip專業版 - Zip RAR 壓縮、解壓縮工具-mo-1794960411965</id>
+        <link href="https://appstore-discounts.eyelly.me/mo/479665601?lang=zh-CN"/>
+        <updated>2026-11-18T00:06:51.965Z</updated>
+        <summary type="html"><![CDATA[价格: USD 12.99 → USD 9.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/mo/479665601?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/58/09/3658092d-dcd4-0b28-92bd-a451b9e1cb2b/AppIcon_pro-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>USD 12.99</span> → <b>
+  <strong>USD 9.99</strong>
+</b><span>[USD 9.99 ~ USD 12.99]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>USD 9.99</b>
+</p><h2>应用描述</h2><p>
+  App商店排名第一的Zip和RAR文件管理工具！最安全和最好用的Zip文件App。
+
+iZip是移動設備上Zip文件的管理工具，其強大的功能包括：
+
+- 解壓Zip文件，支持密碼保護和加密的Zip文件。
+- 解壓其他多種壓縮文件格式，支持解壓：RAR, 7Z, ZIPX, TAR, GZIP, BZIP, TGZ, TBZ, ISO, DEB, CAB, JAR, RPM, CBS等多種文件。支持解壓分割式RAR和7Z文件。
+- 壓縮文件為Zip。
+- 壓縮移動設備上照片庫裡的照片和視頻，支持縮小照片大小。
+- 支持生成密碼保護和加密的Zip文件。
+- 支持打開多種文件格式，包括：DOC, Excel, PPT, PDF, TXT, RTF, Pages, JPG, GIF, PNG, 視頻和音頻文件等。
+- 支持直接從iCould，Dropbox， Box，One Drive， Google Drive雲盤打開文件。
+- 支持從iCould，Dropbox， Box，One Drive， Google Drive雲盤上傳和下載文件。
+- 支持“檔案”App。支持從檔案瀏覽器中打開iCloud和其他雲盤及第三方App中文件和保存文件。
+- 支持附加文件到Zip文件中。
+- 支持多種文件分享功能：郵件，短信，隔空傳遞和在其他App中打開方式。
+- 支持保存照片到設備的照片庫中。
+- 支持HEIC到JPC照片格式轉換和不同尺寸的照片。
+- 支持打印文件。
+- 支持從iTunes裡下載上傳文件。
+- 支持指紋識別或面部識別方式打開App。
+
+iZip簡單易用的界面和強大的功能為移動設備用戶提供了最佳Zip文件管理工具。
+
+如有任何疑問，請訪問以下網站：http://www.comcsoft.com/cn/work/our_apps/iZip/iZip_overview.php
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/86/32/b7/8632b778-5988-0591-cc72-1128ce95454c/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/a0/7a/f7a07a59-3ce9-aa70-3230-ace32a32f5aa/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/85/56/44855681-34e2-6131-0ec9-95506477c5c8/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/25/60/de/2560def4-52e6-cde7-ffbb-e1d98f308190/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e1/b2/1f/e1b21fb3-cdd7-5344-1026-16a21c55285a/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e7/90/54/e790544c-d47c-0fae-8665-97163c19efbc/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6f/fa/4c/6ffa4ca1-56c7-532a-ba2f-7f36ea88f9fc/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bf/0f/00/bf0f00ae-c11a-a3d8-4b19-45c6d073c6ad/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/e9/36/a5e93699-2c5b-c82a-03d5-1cb6e5e2b5be/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e2/ef/14/e2ef14a2-1308-16cf-a980-ac8babac2c5e/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/24/2a/33/242a331f-81f6-548f-5ad0-a58d39a43669/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0b/7d/e5/0b7de510-9c2e-ec21-b5bc-e8e523c48506/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3b/68/d3/3b68d312-f05b-1637-fa45-ed4a0d8b738b/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e9/40/5b/e9405beb-2261-5f3d-568b-e8ec5c7bbd95/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0f/d0/eb/0fd0ebb3-e213-4059-c565-2bf2bb439958/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/29/be/68/29be68ed-baa5-0e7b-35d8-74deb82ceed0/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bd/61/4f/bd614f1d-4209-10e0-62a1-fb365e100081/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/15/7f/8e/157f8e43-7669-5884-eaf8-9facbe6c2572/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/08/0e/49/080e4929-f19f-2fc4-84f5-dc43ceffde19/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f6/ee/4f/f6ee4f4c-1404-5511-8399-1a713ee8fef6/pr_source.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Baldur's Gate II: EE]]></title>
@@ -3474,39 +3532,5 @@ Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 內建Moodplayer：選擇曲目、暫停音樂並調整音量。載入音樂需要網路連線，無需登入。 播放器設定也提供透過Google登入Moodplayer的選用功能。
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/98/19/ee981957-774c-e83f-92d7-a4abfe14cf07/01-planet.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/64/37/be643794-64e9-39fd-be79-ed2bac40043e/02-together.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/f6/b2/a7f6b2e3-e56f-49bc-fbf5-380cac17c02b/03-volunteers.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/da/02/a4da02df-b9ea-500f-9ae8-030d55a0b86f/04-technology.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/54/a0/b354a095-f99b-8fb2-76d1-cdc3be7ac99d/05-forests.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/2c/85/e52c852e-1b3f-61de-7e14-84ce1b611db7/06-oceans.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/74/9e/4a749e17-cb1f-95c6-65cc-e2507872bea5/07-animals.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/18/dd/8718ddc1-ec36-4a30-3141-d58a456305fe/08-mars.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/37/30/7137304f-02a3-1f57-3ea8-c058a8f6919b/09-choices.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/1c/59/3c1c598f-fe3b-bd4a-0199-68b8315053bb/10-scenarios.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/b3/d2/b4b3d2ce-436f-1aba-59e9-343f2c989e3e/daf1a717-930a-4691-8e9e-632bf9d41004_STE_1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/b3/f4/63b3f40d-e379-ceeb-c716-afc2774d3fe9/71d53df6-9f84-44ea-ba0e-d51f52b37614_STE_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/45/81/03458170-2cef-39e9-a5c8-1478fffae776/c8d24bc2-ed48-4ff7-af1f-5eac2143b969_STE_3.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/42/77/604277a1-e73e-c6e6-9e87-941d10678955/fa6afe16-481d-457e-a10d-d0938cd75bbb_STE_4.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/1d/50/981d50ec-1bc6-0201-54ce-b9259d50745a/03c17d9e-5b2f-4f34-b931-299121514392_STE_5.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/e6/4b/8ae64b60-ee16-d042-9f3d-078d0a952486/a1d722f6-22c8-4961-a1bd-29917fdfb568_STE_6.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/4d/06/4f4d063c-0abb-ce38-bc1d-ad9c19d98700/f02a6ac3-3d8c-4341-a334-ed7c24d5d970_STE_Screen_6_2732x2048.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chord]]></title>
-        <id>Chord-mo-1794684796272</id>
-        <link href="https://appstore-discounts.eyelly.me/mo/1500126852?lang=zh-CN"/>
-        <updated>2026-11-14T19:33:16.272Z</updated>
-        <summary type="html"><![CDATA[价格: USD 2.99 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/mo/1500126852?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/fa/67/b0fa6706-598a-965b-04c1-b98e42762290/ios-icon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 2.99</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ USD 2.99]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h2>应用描述</h2><p>
-  This app plus your ears equals complete freedom in writing music!
-
-A comprehensive set of tools for any musician:
-
-* Chord Progression: Create beautiful chord progressions with full flexibility - use inversions, sus2, sus4, 7th, 9th, and more. Enjoy live playback as piano or synth, or send MIDI directly to your macOS computer!
-* MIDI Controller - Multiple layouts to control your DAW right from your device. (compatible with macOS Catalina and newer)
-* Modulation Pad - Helps when using a compact MIDI keyboard without built-in pitch and modulation controls. Also includes a sustain pedal (compatible with macOS Catalina and newer).
-* MIDI Keyboard - Transform your phone into a MIDI keyboard for your macOS computer (compatible with macOS Catalina and newer).
-* Notation Practice: Practice reading notes in both treble and bass clefs.
-* Interval Practice: Practice recognizing and comparing musical intervals by ear.
-* Chord Calculation: Help you learn how to calculate chords and progressions.
-* Voice & Ear Training: Simple, effective tools for voice practice and ear training.
-* Harmonic Match - helps you mix tracks in key while DJing.
-* Guitar Chords - helps you find and browse guitar chords.
-* Guitar Tuner - helps you tune your guitar to the most popular tunings.
-
-Plus, enjoy the macOS version included with your purchase!
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/00/d1/5700d107-527b-1d85-5ec0-48ce8761e667/1.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/ad/44/46ad4443-2c30-343c-f9e7-eef828c2cb40/2.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/70/4f/cb704f7d-8335-c27e-713a-447fe652820e/3.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/44/d2/5f44d272-ba55-d66e-afc6-e692347d2956/4.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/20/d5/7920d54b-3b0d-68c3-a6ca-3cd108253d57/5.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/de/a3/89dea334-304b-901f-555e-8341afc89b4a/6.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/35/fd/b735fd07-c876-6d17-ca61-9080cd1844f9/7.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/d3/18/aad31854-b1a0-18be-4864-ab8b6ca9fb6f/8.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/b0/0d/16b00d00-c040-8c36-a99a-12528fa8d1b0/9.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/37/93/d037932b-e1c0-e625-abb8-2d309416a5e2/10.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/de/d8/50ded81d-74e1-e657-9d2c-cc647f2c9756/61db3b65-ee5c-47ae-bdf3-b16a8dff946a_ipad_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/26/67/9926679c-86d1-c697-1235-2ffc49ac915e/c70baaaa-8bf3-4578-9604-591f6b1550fb_ipad_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/ae/ee/71aeee4d-baea-9842-f8da-b5a2803a89f9/2c7bd1f6-1164-44b1-9a9e-66ba4727ba1f_ipad_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/ba/29/04ba29ad-5ed7-28d8-99db-81a99b6d2c99/5f09d52c-d38a-4f75-97f5-b268b07d91f5_ipad_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/86/0c/c3860c4b-928e-7c53-28c2-e8678c9fce24/02b1aac8-36a0-4b63-a063-465c91504b59_ipad_5.png/552x414bb.png" />]]></content>
     </entry>
 </feed>

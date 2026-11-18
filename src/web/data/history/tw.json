@@ -33878,6 +33878,14 @@
     "history": [
       [
         {
+          "timestamp": 1794960411965,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791837063531,
           "price": 390,
           "formattedPrice": "$390.00",
@@ -85065,6 +85073,39 @@
           "price": 150,
           "formattedPrice": "$150.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "951627022": {
+    "trackId": 951627022,
+    "trackName": "照片掃描儀加強版",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00",
+      "Photomyne account": "$1,490.00",
+      "Photomyne 帳號": "$640.00",
+      "Photomyne membership": "$690.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00",
+      "Photomyne account": "$1,490.00",
+      "Photomyne 帳號": "$640.00",
+      "Photomyne membership": "$690.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Photomyne account": "$1,490.00",
+            "Photomyne 帳號": "$640.00",
+            "Photomyne membership": "$690.00"
+          }
         }
       ]
     ]
@@ -165000,6 +165041,25 @@
       "禮包1": "$10.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "68金玉": "$330.00",
+            "30金玉": "$170.00",
+            "6金玉": "$33.00",
+            "198金玉": "$990.00",
+            "尊享月俸": "$170.00",
+            "648金玉": "$3,290.00",
+            "禮包5": "$170.00",
+            "一鍵買斷禮包": "$150.00",
+            "328金玉": "$1,690.00",
+            "丹青閣通行證": "$330.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1794659876852,
@@ -300300,7 +300360,11 @@
       "Dumb Phone Plus Yearly": "$1,990.00",
       "Dumb Phone Plus Lifetime": "$2,490.00",
       "Dumb Phone Plus Monthly": "$290.00",
-      "Dumb Phone Plus Weekly": "$60.00"
+      "Dumb Phone Plus Weekly": "$60.00",
+      "Dumb Phone Pro Yearly": "$490.00",
+      "Dumb Phone Pro Weekly": "$60.00",
+      "Dumb Phone Pro Lifetime": "$2,490.00",
+      "Dumb Phone Pro Monthly": "$150.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -300308,9 +300372,26 @@
       "Dumb Phone Plus Yearly": "$145.00",
       "Dumb Phone Plus Lifetime": "$990.00",
       "Dumb Phone Plus Monthly": "$60.00",
-      "Dumb Phone Plus Weekly": "$60.00"
+      "Dumb Phone Plus Weekly": "$60.00",
+      "Dumb Phone Pro Yearly": "$490.00",
+      "Dumb Phone Pro Weekly": "$60.00",
+      "Dumb Phone Pro Lifetime": "$2,490.00",
+      "Dumb Phone Pro Monthly": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Dumb Phone Pro Yearly": "$490.00",
+            "Dumb Phone Pro Weekly": "$60.00",
+            "Dumb Phone Pro Lifetime": "$2,490.00",
+            "Dumb Phone Pro Monthly": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792934734921,
@@ -328577,7 +328658,8 @@
       "50 Diamonds": "$60.00",
       "16 Base Heroes Unlock Pack": "$1,290.00",
       "700 Diamonds": "$690.00",
-      "30天補給卡": "$190.00"
+      "30天補給卡": "$190.00",
+      "DLC 1": "$590.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -328588,9 +328670,27 @@
       "50 Diamonds": "$60.00",
       "16 Base Heroes Unlock Pack": "$1,290.00",
       "700 Diamonds": "$690.00",
-      "30天補給卡": "$190.00"
+      "30天補給卡": "$190.00",
+      "DLC 1": "$590.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Starter Pack 1": "$60.00",
+            "120 Diamonds": "$120.00",
+            "50 Diamonds": "$60.00",
+            "16 Base Heroes Unlock Pack": "$1,290.00",
+            "700 Diamonds": "$690.00",
+            "DLC 1": "$590.00",
+            "30天補給卡": "$190.00",
+            "4000 Diamonds": "$2,990.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1793959313216,
@@ -333887,7 +333987,7 @@
   },
   "6827445474": {
     "trackId": 6827445474,
-    "trackName": "FoldTick",
+    "trackName": "FoldTick: Duo Fold Counter",
     "region": "tw",
     "maxPriceInfo": {
       "price": 30,

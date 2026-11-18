@@ -26757,6 +26757,14 @@
     "history": [
       [
         {
+          "timestamp": 1794960411965,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1791837063531,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -47794,6 +47802,40 @@
           "price": 28,
           "formattedPrice": "¥28.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "951627022": {
+    "name": "復得 － 照片扫描仪加强版",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00",
+      "Photomyne account": "¥328.00",
+      "Photomyne 账号": "¥90.00",
+      "Photomyne membership": "¥398.00",
+      "Video account": "¥38.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00",
+      "Photomyne account": "¥328.00",
+      "Photomyne 账号": "¥90.00",
+      "Photomyne membership": "¥398.00",
+      "Video account": "¥38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {
+            "Photomyne account": "¥328.00",
+            "Photomyne 账号": "¥90.00",
+            "Photomyne membership": "¥398.00",
+            "Video account": "¥38.00"
+          }
         }
       ]
     ]
@@ -205597,7 +205639,11 @@
       "Dumb Phone Plus Yearly": "¥398.00",
       "Dumb Phone Plus Lifetime": "¥598.00",
       "Dumb Phone Plus Monthly": "¥58.00",
-      "Dumb Phone Plus Weekly": "¥15.00"
+      "Dumb Phone Plus Weekly": "¥15.00",
+      "Dumb Phone Pro Yearly": "¥98.00",
+      "Dumb Phone Pro Monthly": "¥38.00",
+      "Dumb Phone Pro Weekly": "¥15.00",
+      "Dumb Phone Pro Lifetime": "¥598.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -205605,9 +205651,26 @@
       "Dumb Phone Plus Yearly": "¥68.00",
       "Dumb Phone Plus Lifetime": "¥198.00",
       "Dumb Phone Plus Monthly": "¥28.00",
-      "Dumb Phone Plus Weekly": "¥15.00"
+      "Dumb Phone Plus Weekly": "¥15.00",
+      "Dumb Phone Pro Yearly": "¥98.00",
+      "Dumb Phone Pro Monthly": "¥38.00",
+      "Dumb Phone Pro Weekly": "¥15.00",
+      "Dumb Phone Pro Lifetime": "¥598.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1794960411965,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Dumb Phone Pro Yearly": "¥98.00",
+            "Dumb Phone Pro Monthly": "¥38.00",
+            "Dumb Phone Pro Weekly": "¥15.00",
+            "Dumb Phone Pro Lifetime": "¥598.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1792950991459,
@@ -242913,7 +242976,7 @@
     ]
   },
   "6827445474": {
-    "name": "FoldTick",
+    "name": "FoldTick: Duo Fold Counter",
     "maxPriceInfo": {
       "price": 8,
       "formattedPrice": "¥8.00"

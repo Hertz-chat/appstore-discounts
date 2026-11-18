@@ -2,6 +2,13 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 951627022,
+      "name": {
+        "mo": "照片掃描儀加強版"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 6826478625,
       "name": {
         "mo": "Pocket Mac Lab"

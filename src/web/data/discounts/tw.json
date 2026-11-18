@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 479665601,
+    "region": "tw",
+    "timestamp": 1794960411965,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$390.00",
+        "to": "$320.00",
+        "range": "[$320.00 ~ $390.00]"
+      }
+    ],
+    "price": 320,
+    "formattedPrice": "$320.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id479665601",
+    "trackName": "iZip專業版 - Zip RAR 壓縮、解壓縮工具",
+    "firstRecordedAt": 1761380057726
+  },
+  {
+    "trackId": 6759970821,
+    "region": "tw",
+    "timestamp": 1794960411965,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "免費",
+        "range": "[免費 ~ $90.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6759970821",
+    "trackName": "地牢合併!（Dungeon Merge!）",
+    "firstRecordedAt": 1787402209195
+  },
+  {
     "trackId": 633625517,
     "region": "tw",
     "timestamp": 1794927717454,

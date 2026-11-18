@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2437` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2438` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2438|951627022|Automatic|復得 － 照片扫描仪加强版|照片掃描儀加強版|照片掃描儀加強版|照片掃描儀加強版|Photo Scan Plus|Photo Scanner Plus|Photo Scanner Plus|
 |2437|6826478625|Automatic|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|Pocket Mac Lab|
 |2436|6833854183|Automatic|❌|誰偷吃了蛋撻？|誰偷吃了蛋撻？|誰偷吃了蛋撻？|Who Ate the Egg Tart?|Who Ate the Egg Tart?|誰偷吃了蛋撻？|
 |2435|550067264|Automatic|❌|客滿餐廳物語|客滿餐廳物語|客滿餐廳物語|Cafeteria Nipponica|Cafeteria Nipponica|Cafeteria Nipponica|
@@ -27,7 +28,7 @@ So far, we've covered `7` `Countries or Regions` and  `2437` `Apps` <br />Push n
 |2420|6829459666|Automatic|❌|Telefoncu Simülatörü|Telefoncu Simülatörü|Telefoncu Simülatörü|Phone Shop Simulator|Phone Shop Simulator|Telefoncu Simülatörü|
 |2419|892347083|Automatic|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|FORScan Lite - for Ford, Mazda|
 |2418|6828383349|Automatic|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|DuoFridge|
-|2417|6827445474|Automatic|FoldTick|FoldTick|FoldTick|FoldTick|FoldTick|FoldTick|FoldTick|
+|2417|6827445474|Automatic|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|FoldTick: Duo Fold Counter|
 |2416|6816793607|Automatic|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|GigClick: Metronome, Setlist|
 |2415|6826404492|Automatic|❌|Aşçı: Hayalin Peşinde|Aşçı: Hayalin Peşinde|Aşçı: Hayalin Peşinde|Aşçı: Chasing the Dream|Aşçı: Chasing the Dream|Aşçı: Hayalin Peşinde|
 |2414|6758903716|Automatic|❌|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|Dungeon Warfare 3|
